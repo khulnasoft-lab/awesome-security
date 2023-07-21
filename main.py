@@ -8,6 +8,7 @@ import random
 import math
 import re
 db = SqliteDatabase("db/cve.sqlite")
+dbp = SqliteDatabase("db/poc.sqlite")
 
 class CVE_DB(Model):
     id = IntegerField()
@@ -22,6 +23,19 @@ class CVE_DB(Model):
 
 db.connect()
 db.create_tables([CVE_DB])
+
+class POC_DB(Model):
+    full_name = CharField(max_length=1024)
+    description = CharField(max_length=200)
+    url = CharField(max_length=1024)
+    created_at = CharField(max_length=128)
+    poc = CharField(max_length=64)
+
+    class Meta:
+        database = dbp
+
+dbp.connect()
+dbp.create_tables([POC_DB])
 
 def init_file():
     newline = "# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions \n\n Last generated : {}\n\n| CVE | Name | Description | Date |\n|---|---|---|---|\n".format(datetime.now())
