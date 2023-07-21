@@ -36,7 +36,7 @@ def write_file(new_contents):
 
 def get_info(year):
     try:
-        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=2&per_page=500".format(year)
+        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=3&per_page=500".format(year)
         # API
         req = requests.get(api).json()
         items = req["items"]
