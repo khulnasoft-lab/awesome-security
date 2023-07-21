@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-07-21 13:57:04.700072
+ Last generated : 2023-07-21 14:31:00.921835
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1338,6 +1338,7 @@
 | [CVE-2006-6184](https://www.cve.org/CVERecord?id=CVE-2006-6184) | [shauntdergrigorian/cve-2006-6184](https://github.com/shauntdergrigorian/cve-2006-6184) | This is a python-based standalone exploit for CVE-2006-6184. This exploit triggers a stack-based buffer overflows in Allied Telesyn TFTP Server (AT-TFTP) 1.9, and possibly earlier, allow remote attackers to cause a denial of service or execute arbitrary code. | 2016-07-21T22:43:43Z|
 | [CVE-2006-6184](https://www.cve.org/CVERecord?id=CVE-2006-6184) | [b03902043/CVE-2006-6184](https://github.com/b03902043/CVE-2006-6184) | simplified version of https://github.com/shauntdergrigorian/cve-2006-6184 | 2019-09-01T04:18:53Z|
 | [CVE-2006-4814](https://www.cve.org/CVERecord?id=CVE-2006-4814) | [tagatac/linux-CVE-2006-4814](https://github.com/tagatac/linux-CVE-2006-4814) | A deadlock on the mmap semaphore ‘mmap sem’ in the CentOS 3.9 kernel, that is triggered by a specific interleaving of concurrent threads, one calling the mmap system call and the other calling the mincore system call. | 2014-09-18T16:38:24Z|
+| [CVE-2006-4777](https://www.cve.org/CVERecord?id=CVE-2006-4777) | [Mario1234/js-driveby-download-CVE-2006-4777](https://github.com/Mario1234/js-driveby-download-CVE-2006-4777) | malware del lado del cliente de explotacion de vulnerabilidad de internet explorer 6.0 SP1 en windows xp SP2. No requiere de consentimiento por parte del usuario y no descarga ningun archivo | 2018-02-06T15:55:05Z|
 | [CVE-2006-3747](https://www.cve.org/CVERecord?id=CVE-2006-3747) | [defensahacker/CVE-2006-3747](https://github.com/defensahacker/CVE-2006-3747) | Information about my advisory on CVE-2006-3747 (Apache mod_rewrite LDAP off-by-one buffer overflow).. At the time, it was the first public working exploit :) | 2016-11-26T00:20:33Z|
 | [CVE-2006-3592](https://www.cve.org/CVERecord?id=CVE-2006-3592) | [adenkiewicz/CVE-2006-3592](https://github.com/adenkiewicz/CVE-2006-3592) | Exploit for Easy File Sharing FTP Server 3.5 on Win7 32 | 2019-05-11T18:11:34Z|
 | [CVE-2006-3392](https://www.cve.org/CVERecord?id=CVE-2006-3392) | [MrEmpy/CVE-2006-3392](https://github.com/MrEmpy/CVE-2006-3392) | no description | 2023-04-04T01:54:16Z|
@@ -1346,6 +1347,7 @@
 | [CVE-2006-3392](https://www.cve.org/CVERecord?id=CVE-2006-3392) | [kernel-cyber/CVE-2006-3392](https://github.com/kernel-cyber/CVE-2006-3392) | Webmin Local File Include (unauthenticated) | 2021-12-21T04:18:21Z|
 | [CVE-2006-3392](https://www.cve.org/CVERecord?id=CVE-2006-3392) | [Adel-kaka-dz/CVE-2006-3392](https://github.com/Adel-kaka-dz/CVE-2006-3392) | It is a simple tool to exploit local file include . vulnerabilities | 2021-11-03T19:51:31Z|
 | [CVE-2006-3392](https://www.cve.org/CVERecord?id=CVE-2006-3392) | [0xtz/CVE-2006-3392](https://github.com/0xtz/CVE-2006-3392) | Webmin &lt; 1.290 / Usermin &lt; 1.220 - Arbitrary File Disclosure (Python3) | 2020-06-30T13:07:31Z|
+| [CVE-2006-3392](https://www.cve.org/CVERecord?id=CVE-2006-3392) | [gb21oc/ExploitWebmin](https://github.com/gb21oc/ExploitWebmin) | Python script to exploit webmin vulnerability cve-2006-3392 | 2021-11-13T18:40:15Z|
 | [CVE-2006-20001](https://www.cve.org/CVERecord?id=CVE-2006-20001) | [Saksham2002/CVE-2006-20001](https://github.com/Saksham2002/CVE-2006-20001) | A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier. CVE project by @Sn0wAlice | 2023-02-07T05:30:52Z|
 | [CVE-2006-1236](https://www.cve.org/CVERecord?id=CVE-2006-1236) | [Axua/CVE-2006-1236](https://github.com/Axua/CVE-2006-1236) | Exploit script for Crossfire 1.9.0 | 2019-01-29T23:46:59Z|
 | [CVE-2006-0450](https://www.cve.org/CVERecord?id=CVE-2006-0450) | [Parcer0/CVE-2006-0450-phpBB-2.0.15-Multiple-DoS-Vulnerabilities](https://github.com/Parcer0/CVE-2006-0450-phpBB-2.0.15-Multiple-DoS-Vulnerabilities) | CVE-2006-0450. phpBB 2.0.19 and earlier allows remote attackers to cause a denial of service (application crash) by (1) registering many users through profile.php or (2) using search.php to search in a certain way that confuses the database. | 2020-08-21T09:50:57Z|
