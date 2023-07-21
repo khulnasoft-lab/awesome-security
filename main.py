@@ -12,7 +12,7 @@ db = SqliteDatabase("db/cve.sqlite")
 class CVE_DB(Model):
     id = IntegerField()
     full_name = CharField(max_length=1024)
-    description = CharField(max_length=4098)
+    description = CharField(max_length=200)
     url = CharField(max_length=1024)
     created_at = CharField(max_length=128)
     cve = CharField(max_length=64)
@@ -36,7 +36,7 @@ def write_file(new_contents):
 
 def get_info(year):
     try:
-        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=1&per_page=100".format(year)
+        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=1&per_page=500".format(year)
         # API
         req = requests.get(api).json()
         items = req["items"]
