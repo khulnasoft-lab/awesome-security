@@ -1,4 +1,4 @@
-name: cve-monitor
+name: awesome-security
 
 on:
   schedule:
