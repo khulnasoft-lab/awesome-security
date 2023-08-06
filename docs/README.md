@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-05 02:18:40.383885
+ Last generated : 2023-08-06 02:14:28.889984
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1230,6 +1230,7 @@
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [grimlockx/CVE-2019-9978](https://github.com/grimlockx/CVE-2019-9978) | Remote Code Execution in Social Warfare Plugin before 3.5.3 for Wordpress. | 2023-01-20T16:29:18Z|
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [d3fudd/CVE-2019-9978_Exploit](https://github.com/d3fudd/CVE-2019-9978_Exploit) | Social WarFare Plugin (&lt;=3.5.2) Remote Code Execution | 2022-11-15T01:22:38Z|
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [GgKendall/secureCodingDemo](https://github.com/GgKendall/secureCodingDemo) | fall2022 secure coding CVE-2019-13272 : Linux Kernel Improper Privilege Management Vulnerability | 2022-11-14T00:07:04Z|
+| [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [hash3liZer/CVE-2019-9978](https://github.com/hash3liZer/CVE-2019-9978) | CVE-2019-9978 - (PoC) RCE in Social WarFare Plugin (&lt;=3.5.2) | 2019-05-03T05:57:44Z|
 | [CVE-2019-9791](https://www.cve.org/CVERecord?id=CVE-2019-9791) | [Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791) | Exploit chain for CVE-2019-9791 &amp; CVE-2019-11708 against firefox 65.0 on windows 64bit | 2021-09-08T14:38:42Z|
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [kuangting4231/mitigation-cve-2019-9787](https://github.com/kuangting4231/mitigation-cve-2019-9787) | no description | 2022-04-30T12:19:50Z|
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [dexXxed/CVE-2019-9787](https://github.com/dexXxed/CVE-2019-9787) | Overview PoC of CSRF CVE-2019-9787 WordPress Version 5.1.1 | 2021-06-29T08:57:43Z|
@@ -1288,6 +1289,7 @@
 | [CVE-2019-6447](https://www.cve.org/CVERecord?id=CVE-2019-6447) | [febinrev/CVE-2019-6447-ESfile-explorer-exploit](https://github.com/febinrev/CVE-2019-6447-ESfile-explorer-exploit) | ES File Explorer v4.1.9.7.4 Open port vulnerability exploit. CVE-2019-6447 | 2021-10-07T13:41:06Z|
 | [CVE-2019-6447](https://www.cve.org/CVERecord?id=CVE-2019-6447) | [julio-cfa/POC-ES-File-Explorer-CVE-2019-6447](https://github.com/julio-cfa/POC-ES-File-Explorer-CVE-2019-6447) | Very basic bash script to exploit the CVE-2019-6447. | 2021-08-08T02:54:25Z|
 | [CVE-2019-6447](https://www.cve.org/CVERecord?id=CVE-2019-6447) | [somatrasss/weblogic2021](https://github.com/somatrasss/weblogic2021) | CVE-2021-1994、CVE-2021-2047、CVE-2021-2064、CVE-2021-2108、CVE-2021-2075、CVE-2019-17195、CVE-2020-14756、CVE-2021-2109 | 2021-02-04T07:03:56Z|
+| [CVE-2019-6447](https://www.cve.org/CVERecord?id=CVE-2019-6447) | [Nehal-Zaman/CVE-2019-6447](https://github.com/Nehal-Zaman/CVE-2019-6447) | My exploit for ES Explorer Android App open port vulnerability. | 2021-06-28T15:25:49Z|
 | [CVE-2019-6340](https://www.cve.org/CVERecord?id=CVE-2019-6340) | [knqyf263/CVE-2019-6340](https://github.com/knqyf263/CVE-2019-6340) | Environment for CVE-2019-6340 (Drupal) | 2019-02-23T13:28:58Z|
 | [CVE-2019-6339](https://www.cve.org/CVERecord?id=CVE-2019-6339) | [Vulnmachines/drupal-cve-2019-6339](https://github.com/Vulnmachines/drupal-cve-2019-6339) | Drupal remote code execution vulnerabilty | 2021-10-19T06:59:29Z|
 | [CVE-2019-6329](https://www.cve.org/CVERecord?id=CVE-2019-6329) | [ManhNDd/CVE-2019-6329](https://github.com/ManhNDd/CVE-2019-6329) | Local Privilege Escalation in HP Support Assistant | 2019-10-13T09:20:16Z|
