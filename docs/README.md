@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-08 02:32:02.367174
+ Last generated : 2023-08-09 02:32:30.425058
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-38814](https://www.cve.org/CVERecord?id=CVE-2023-38814) | [actuator/BSIDES-Security-Rochester-2023](https://github.com/actuator/BSIDES-Security-Rochester-2023) | Hardware Hacking: A Brief Primer on Reverse Engineering Bluetooth Transmissions   -    CVE-2023-38814 | 2023-03-18T05:27:36Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
