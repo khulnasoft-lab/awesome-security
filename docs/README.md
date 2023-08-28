@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-27 01:49:42.080180
+ Last generated : 2023-08-28 01:47:13.315793
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -50,6 +50,7 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [CVEProject/cvelist](https://github.com/CVEProject/cvelist) | Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 | 2020-11-02T19:30:55Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [telekom-security/cve-2023-3519-citrix-scanner](https://github.com/telekom-security/cve-2023-3519-citrix-scanner) | Citrix Scanner for CVE-2023-3519 | 2023-07-20T13:16:38Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [mr-r3b00t/CVE-2023-3519](https://github.com/mr-r3b00t/CVE-2023-3519) | no description | 2023-07-21T08:55:28Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [dorkerdevil/CitrixFall](https://github.com/dorkerdevil/CitrixFall) | nse script to identify server vulnerable to CVE-2023-3519 | 2023-07-21T15:44:14Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
