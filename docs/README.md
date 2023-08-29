@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-28 01:47:13.315793
+ Last generated : 2023-08-29 01:46:45.423980
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -51,6 +51,8 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [telekom-security/cve-2023-3519-citrix-scanner](https://github.com/telekom-security/cve-2023-3519-citrix-scanner) | Citrix Scanner for CVE-2023-3519 | 2023-07-20T13:16:38Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [mr-r3b00t/CVE-2023-3519](https://github.com/mr-r3b00t/CVE-2023-3519) | no description | 2023-07-21T08:55:28Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [dorkerdevil/CitrixFall](https://github.com/dorkerdevil/CitrixFall) | nse script to identify server vulnerable to CVE-2023-3519 | 2023-07-21T15:44:14Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [KR0N-SECURITY/CVE-2023-3519](https://github.com/KR0N-SECURITY/CVE-2023-3519) | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | 2023-07-21T23:48:11Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519) | CVE-2023-3519 vuln for nuclei scanner | 2023-07-21T22:10:03Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
@@ -137,6 +139,8 @@
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z|
+| [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
+| [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC) | CVE-2023-32315-Openfire-Bypass | 2023-07-07T07:48:24Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315) | no description | 2023-07-02T20:38:14Z|
@@ -202,6 +206,7 @@
 | [CVE-2023-2877](https://www.cve.org/CVERecord?id=CVE-2023-2877) | [RandomRobbieBF/CVE-2023-2877](https://github.com/RandomRobbieBF/CVE-2023-2877) | Formidable Forms &lt; 6.3.1 - Subscriber+ Remote Code Execution | 2023-06-28T10:34:08Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868) | no description | 2023-06-20T18:43:54Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp) | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | 2023-06-09T12:00:59Z|
+| [CVE-2023-28467](https://www.cve.org/CVERecord?id=CVE-2023-28467) | [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467) | no description | 2023-07-22T20:37:15Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z|
