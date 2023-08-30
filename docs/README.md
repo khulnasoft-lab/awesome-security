@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-29 01:46:45.423980
+ Last generated : 2023-08-30 01:45:39.611850
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
+| [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
 | [CVE-2023-37599](https://www.cve.org/CVERecord?id=CVE-2023-37599) | [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599) | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | 2023-07-10T16:34:22Z|
 | [CVE-2023-37598](https://www.cve.org/CVERecord?id=CVE-2023-37598) | [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598) | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | 2023-07-10T16:30:34Z|
@@ -224,6 +225,7 @@
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [im-hanzou/Mass-CVE-2023-28121](https://github.com/im-hanzou/Mass-CVE-2023-28121) | CVE-2023-28121 -  WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | 2023-07-12T02:41:26Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec) | CVE-2023-28121 - WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | 2023-07-12T06:04:56Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121) | WooCommerce Payments: Unauthorized Admin Access Exploit | 2023-03-30T23:50:39Z|
+| [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121) | no description | 2023-07-23T22:38:39Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-test-nleyl](https://github.com/hheeyywweellccoommee/CVE-2023-27997-test-nleyl) | test | 2023-06-29T04:00:24Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997) | no description | 2023-06-23T15:15:54Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [imbas007/CVE-2023-27997-Check](https://github.com/imbas007/CVE-2023-27997-Check) | no description | 2023-06-22T14:16:44Z|
@@ -269,6 +271,7 @@
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752) | Joomla未授权访问漏洞 | 2023-06-16T07:53:22Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752) | Perform With Mass Exploiter In Joomla 4.2.8. | 2023-04-09T13:20:48Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
