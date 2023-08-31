@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-30 01:45:39.611850
+ Last generated : 2023-08-31 01:46:44.460950
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,7 +13,9 @@
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
+| [CVE-2023-37772](https://www.cve.org/CVERecord?id=CVE-2023-37772) | [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772) | no description | 2023-07-27T18:48:10Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
+| [CVE-2023-37625](https://www.cve.org/CVERecord?id=CVE-2023-37625) | [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625) | no description | 2023-07-01T21:02:11Z|
 | [CVE-2023-37599](https://www.cve.org/CVERecord?id=CVE-2023-37599) | [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599) | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | 2023-07-10T16:34:22Z|
 | [CVE-2023-37598](https://www.cve.org/CVERecord?id=CVE-2023-37598) | [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598) | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | 2023-07-10T16:30:34Z|
 | [CVE-2023-37597](https://www.cve.org/CVERecord?id=CVE-2023-37597) | [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user group | 2023-07-10T16:28:29Z|
@@ -45,6 +47,7 @@
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [Szlein/CVE-2023-35843](https://github.com/Szlein/CVE-2023-35843) | NocoDB任意文件读取CVE-2023-35843 | 2023-06-27T16:14:54Z|
 | [CVE-2023-35840](https://www.cve.org/CVERecord?id=CVE-2023-35840) | [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840) | elFinder &lt; 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | 2023-06-22T09:34:49Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
+| [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) | CVE-2023-3519 | 2023-07-21T11:02:21Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector) | Accurately fingerprint and detect vulnerable (and patched!) versions of Netscaler / Citrix ADC to CVE-2023-3519 | 2023-07-20T16:05:07Z|
@@ -54,12 +57,14 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [dorkerdevil/CitrixFall](https://github.com/dorkerdevil/CitrixFall) | nse script to identify server vulnerable to CVE-2023-3519 | 2023-07-21T15:44:14Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [KR0N-SECURITY/CVE-2023-3519](https://github.com/KR0N-SECURITY/CVE-2023-3519) | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | 2023-07-21T23:48:11Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519) | CVE-2023-3519 vuln for nuclei scanner | 2023-07-21T22:10:03Z|
+| [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [YongYe-Security/Chamilo_CVE-2023-34960-EXP](https://github.com/YongYe-Security/Chamilo_CVE-2023-34960-EXP) | no description | 2023-07-09T11:24:33Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Jenderal92/CHAMILO-CVE-2023-34960](https://github.com/Jenderal92/CHAMILO-CVE-2023-34960) | Python 2.7 | 2023-07-03T11:17:42Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960) | CVE-2023-34960 Chamilo PoC | 2023-06-09T10:32:22Z|
+| [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Mantodkaz/CVE-2023-34960](https://github.com/Mantodkaz/CVE-2023-34960) | no description | 2023-07-24T20:51:15Z|
 | [CVE-2023-34924](https://www.cve.org/CVERecord?id=CVE-2023-34924) | [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924) | no description | 2023-06-15T03:12:35Z|
 | [CVE-2023-34852](https://www.cve.org/CVERecord?id=CVE-2023-34852) | [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852) | no description | 2023-06-15T01:23:08Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [hheeyywweellccoommee/CVE-2023-34843-illrj](https://github.com/hheeyywweellccoommee/CVE-2023-34843-illrj) | no description | 2023-07-01T03:01:38Z|
@@ -99,6 +104,8 @@
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829) | Proof of Concept about a XSS Stored in SCM Manager 1.2 &lt;= 1.60 | 2023-05-19T13:11:50Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts) | Identifies domains which run WordPress and tests against vulnerabilities (CVE-2023-32243) / #VU76395 / etc... | 2023-05-29T11:42:35Z|
 | [CVE-2023-33817](https://www.cve.org/CVERecord?id=CVE-2023-33817) | [leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5) | no description | 2023-06-13T08:07:00Z|
+| [CVE-2023-33802](https://www.cve.org/CVERecord?id=CVE-2023-33802) | [CDACesec/CVE-2023-33802](https://github.com/CDACesec/CVE-2023-33802) | no description | 2023-05-18T08:23:38Z|
+| [CVE-2023-33802](https://www.cve.org/CVERecord?id=CVE-2023-33802) | [GREENHAT7/pxplan](https://github.com/GREENHAT7/pxplan) | CVE-2023-2023 | 2021-11-22T12:57:22Z|
 | [CVE-2023-33782](https://www.cve.org/CVERecord?id=CVE-2023-33782) | [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782) | no description | 2023-06-03T11:24:29Z|
 | [CVE-2023-33781](https://www.cve.org/CVERecord?id=CVE-2023-33781) | [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781) | no description | 2023-06-03T11:47:02Z|
 | [CVE-2023-33768](https://www.cve.org/CVERecord?id=CVE-2023-33768) | [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768) | DoS against Belkin smart plugs via crafted firmware injection | 2023-06-23T18:28:18Z|
@@ -234,6 +241,7 @@
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [rio128128/CVE-2023-27997-POC](https://github.com/rio128128/CVE-2023-27997-POC) | POC FortiOS SSL-VPN buffer overflow vulnerability | 2023-06-16T03:25:19Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [Pik-sec/cve-2023-27997](https://github.com/Pik-sec/cve-2023-27997) | cve-2023-27997 | 2023-06-15T05:37:16Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz) | POC FortiOS SSL-VPN buffer overflow vulnerability | 2023-06-13T11:00:54Z|
+| [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524) | Perform With Apache-SuperSet Leaked Token [CSRF] | 2023-05-04T21:43:48Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC) | CVE-2023-27372-SPIP-CMS-Bypass | 2023-07-11T10:00:04Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [RSTG0D/CVE-2023-27372-PoC](https://github.com/RSTG0D/CVE-2023-27372-PoC) | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell. | 2023-07-05T14:41:03Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [tucommenceapousser/CVE-2023-27372](https://github.com/tucommenceapousser/CVE-2023-27372) | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | 2023-06-25T19:39:37Z|
@@ -248,9 +256,12 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163) | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | 2023-07-19T04:35:58Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163) | CVE-2023-27163 | 2023-07-20T00:18:38Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163) | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&lt;= v.1.2.1) | 2023-07-11T18:08:05Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [davuXVI/CVE-2023-27163](https://github.com/davuXVI/CVE-2023-27163) | PoC CVE-2023-27163, SSRF, request-baskets hasta v1.2.1 | 2023-07-26T15:37:26Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [ThickCoco/CVE-2023-27163-POC](https://github.com/ThickCoco/CVE-2023-27163-POC) | Poc of SSRF for Request-Baskets (CVE-2023-27163) | 2023-07-26T11:00:59Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
+| [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
@@ -262,6 +273,7 @@
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [axylisdead/CVE-2023-25136_POC](https://github.com/axylisdead/CVE-2023-25136_POC) | CVE-2023-25136 POC written by axylisdead | 2023-06-03T12:36:42Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
+| [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC) | CVE-2023-24489 PoC &amp; Exploiter | 2023-07-26T03:19:20Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule](https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule) | Detect CVE-2023-24488 Exploitation Attempts | 2023-07-06T15:23:45Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [codeb0ss/cve-2023-24488](https://github.com/codeb0ss/cve-2023-24488) | CVE-2023-24488 By codeb0ss | 2023-07-06T03:07:09Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [securitycipher/CVE-2023-24488](https://github.com/securitycipher/CVE-2023-24488) | POC for CVE-2023-24488 | 2023-07-04T18:02:50Z|
@@ -272,6 +284,8 @@
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752) | Joomla未授权访问漏洞 | 2023-06-16T07:53:22Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752) | Perform With Mass Exploiter In Joomla 4.2.8. | 2023-04-09T13:20:48Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752) | simple program for joomla scanner CVE-2023-23752 with target list | 2023-07-26T04:33:46Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Insolent-M1nx/cve20233519](https://github.com/Insolent-M1nx/cve20233519) | no description | 2023-07-26T18:22:14Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
@@ -503,6 +517,7 @@
 | [CVE-2022-27666](https://www.cve.org/CVERecord?id=CVE-2022-27666) | [Albocoder/cve-2022-27666-exploits](https://github.com/Albocoder/cve-2022-27666-exploits) | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | 2023-04-11T00:12:33Z|
 | [CVE-2022-27665](https://www.cve.org/CVERecord?id=CVE-2022-27665) | [dievus/CVE-2022-27665](https://github.com/dievus/CVE-2022-27665) | Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0 | 2022-03-23T14:20:58Z|
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z|
+| [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z|
 | [CVE-2022-26265](https://www.cve.org/CVERecord?id=CVE-2022-26265) | [redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265) | The first proof of concept of the Contao CMS RCE | 2023-04-05T09:34:29Z|
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z|
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z|
