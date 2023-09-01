@@ -2,17 +2,22 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-08-31 01:46:44.460950
+ Last generated : 2023-09-01 01:52:42.668612
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-38814](https://www.cve.org/CVERecord?id=CVE-2023-38814) | [actuator/BSIDES-Security-Rochester-2023](https://github.com/actuator/BSIDES-Security-Rochester-2023) | Hardware Hacking: A Brief Primer on Reverse Engineering Bluetooth Transmissions   -    CVE-2023-38814 | 2023-03-18T05:27:36Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [0xrobiul/CVE-2023-38646](https://github.com/0xrobiul/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646)!! | 2023-07-29T13:07:00Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Pumpkin-Garden/POC_Metabase_CVE-2023-38646](https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646) | For educational purposes only | 2023-07-28T11:43:06Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [adriyansyah-mf/CVE-2023-38646--Metabase-](https://github.com/adriyansyah-mf/CVE-2023-38646--Metabase-) | no description | 2023-07-28T03:39:07Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
+| [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
+| [CVE-2023-37778](https://www.cve.org/CVERecord?id=CVE-2023-37778) | [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778) | no description | 2023-07-28T11:18:21Z|
 | [CVE-2023-37772](https://www.cve.org/CVERecord?id=CVE-2023-37772) | [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772) | no description | 2023-07-27T18:48:10Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
 | [CVE-2023-37625](https://www.cve.org/CVERecord?id=CVE-2023-37625) | [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625) | no description | 2023-07-01T21:02:11Z|
@@ -21,6 +26,7 @@
 | [CVE-2023-37597](https://www.cve.org/CVERecord?id=CVE-2023-37597) | [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user group | 2023-07-10T16:28:29Z|
 | [CVE-2023-37596](https://www.cve.org/CVERecord?id=CVE-2023-37596) | [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user | 2023-07-10T16:23:40Z|
 | [CVE-2023-37582](https://www.cve.org/CVERecord?id=CVE-2023-37582) | [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT) | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | 2023-07-14T12:22:45Z|
+| [CVE-2023-37474](https://www.cve.org/CVERecord?id=CVE-2023-37474) | [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474) | no description | 2023-07-27T08:10:01Z|
 | [CVE-2023-37250](https://www.cve.org/CVERecord?id=CVE-2023-37250) | [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250) | PoC | 2023-07-02T05:37:51Z|
 | [CVE-2023-37191](https://www.cve.org/CVERecord?id=CVE-2023-37191) | [sahiloj/CVE-2023-37191](https://github.com/sahiloj/CVE-2023-37191) | no description | 2023-07-07T17:11:10Z|
 | [CVE-2023-37190](https://www.cve.org/CVERecord?id=CVE-2023-37190) | [sahiloj/CVE-2023-37190](https://github.com/sahiloj/CVE-2023-37190) | no description | 2023-07-07T17:26:42Z|
@@ -30,6 +36,7 @@
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [tarraschk/CVE-2023-36884-Checker](https://github.com/tarraschk/CVE-2023-36884-Checker) | Script to check for CVE-2023-36884 hardening | 2023-07-17T14:02:40Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [or2me/CVE-2023-36884_patcher](https://github.com/or2me/CVE-2023-36884_patcher) | CVE-2023-36884 临时补丁 | 2023-07-18T06:22:36Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [zerosorai/CVE-2023-36884](https://github.com/zerosorai/CVE-2023-36884) | This is an emergency solution while Microsoft addresses the vulnerability. | 2023-07-15T16:56:18Z|
+| [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ridsoliveira/Fix-CVE-2023-36884](https://github.com/ridsoliveira/Fix-CVE-2023-36884) | no description | 2023-07-28T20:39:37Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
@@ -109,6 +116,7 @@
 | [CVE-2023-33782](https://www.cve.org/CVERecord?id=CVE-2023-33782) | [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782) | no description | 2023-06-03T11:24:29Z|
 | [CVE-2023-33781](https://www.cve.org/CVERecord?id=CVE-2023-33781) | [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781) | no description | 2023-06-03T11:47:02Z|
 | [CVE-2023-33768](https://www.cve.org/CVERecord?id=CVE-2023-33768) | [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768) | DoS against Belkin smart plugs via crafted firmware injection | 2023-06-23T18:28:18Z|
+| [CVE-2023-33768](https://www.cve.org/CVERecord?id=CVE-2023-33768) | [Fr0stM0urne/CVE-2023-33768](https://github.com/Fr0stM0urne/CVE-2023-33768) | DoS against Belkin smart plugs via crafted firmware injection | 2023-07-29T01:11:34Z|
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733) | CVE-2023-33733 reportlab RCE | 2023-05-30T22:22:50Z|
 | [CVE-2023-33732](https://www.cve.org/CVERecord?id=CVE-2023-33732) | [sahiloj/CVE-2023-33732](https://github.com/sahiloj/CVE-2023-33732) | no description | 2023-05-30T18:36:03Z|
 | [CVE-2023-33731](https://www.cve.org/CVERecord?id=CVE-2023-33731) | [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731) | no description | 2023-05-30T17:58:38Z|
