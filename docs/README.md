@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-02 01:41:05.292577
+ Last generated : 2023-09-03 01:49:41.371431
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -82,6 +82,7 @@
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960) | CVE-2023-34960 Chamilo PoC | 2023-06-09T10:32:22Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Mantodkaz/CVE-2023-34960](https://github.com/Mantodkaz/CVE-2023-34960) | no description | 2023-07-24T20:51:15Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Pari-Malam/CVE-2023-34960](https://github.com/Pari-Malam/CVE-2023-34960) | Perform with Massive Command Injection (Chamilo) | 2023-07-22T05:27:45Z|
+| [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [tucommenceapousser/CVE-2023-34960-ex](https://github.com/tucommenceapousser/CVE-2023-34960-ex) | Perform with Massive Command Injection (Chamilo) | 2023-08-01T08:09:51Z|
 | [CVE-2023-34924](https://www.cve.org/CVERecord?id=CVE-2023-34924) | [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924) | no description | 2023-06-15T03:12:35Z|
 | [CVE-2023-34852](https://www.cve.org/CVERecord?id=CVE-2023-34852) | [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852) | no description | 2023-06-15T01:23:08Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [hheeyywweellccoommee/CVE-2023-34843-illrj](https://github.com/hheeyywweellccoommee/CVE-2023-34843-illrj) | no description | 2023-07-01T03:01:38Z|
@@ -291,6 +292,7 @@
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) | CVE-2023-25157 - GeoServer SQL Injection - PoC | 2023-06-06T14:05:09Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker) | A script, written in golang. POC for CVE-2023-25157 | 2023-06-12T14:34:14Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [0x2458bughunt/CVE-2023-25157](https://github.com/0x2458bughunt/CVE-2023-25157) | no description | 2023-06-10T09:00:16Z|
+| [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [EmmanuelCruzL/CVE-2023-25157](https://github.com/EmmanuelCruzL/CVE-2023-25157) | GeoServer OGC Filter SQL Injection Vulnerabilities | 2023-07-31T03:10:41Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [axylisdead/CVE-2023-25136_POC](https://github.com/axylisdead/CVE-2023-25136_POC) | CVE-2023-25136 POC written by axylisdead | 2023-06-03T12:36:42Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
@@ -346,6 +348,7 @@
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
+| [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z|
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z|
 | [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669) | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | 2023-04-06T03:40:03Z|
