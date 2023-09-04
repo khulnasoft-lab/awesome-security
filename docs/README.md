@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-03 01:49:41.371431
+ Last generated : 2023-09-04 01:48:07.006157
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -51,6 +51,7 @@
 | [CVE-2023-36165](https://www.cve.org/CVERecord?id=CVE-2023-36165) | [TraiLeR2/CVE-2023-36165](https://github.com/TraiLeR2/CVE-2023-36165) | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component. | 2023-07-08T20:37:38Z|
 | [CVE-2023-36164](https://www.cve.org/CVERecord?id=CVE-2023-36164) | [TraiLeR2/CVE-2023-36164](https://github.com/TraiLeR2/CVE-2023-36164) | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code via the MTAgentService component | 2023-07-08T20:36:19Z|
 | [CVE-2023-36163](https://www.cve.org/CVERecord?id=CVE-2023-36163) | [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163) | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | 2023-07-08T20:28:57Z|
+| [CVE-2023-36158](https://www.cve.org/CVERecord?id=CVE-2023-36158) | [unknown00759/CVE-2023-36158](https://github.com/unknown00759/CVE-2023-36158) | Cross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page | 2023-08-02T07:31:49Z|
 | [CVE-2023-36146](https://www.cve.org/CVERecord?id=CVE-2023-36146) | [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146) | no description | 2023-06-22T22:06:21Z|
 | [CVE-2023-36144](https://www.cve.org/CVERecord?id=CVE-2023-36144) | [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144) | no description | 2023-06-22T22:00:30Z|
 | [CVE-2023-36143](https://www.cve.org/CVERecord?id=CVE-2023-36143) | [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143) | no description | 2023-06-22T21:56:16Z|
@@ -59,6 +60,7 @@
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843) | CVE-2023-35843 NocoDB 任意文件读取漏洞 | 2023-07-09T04:10:44Z|
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [Szlein/CVE-2023-35843](https://github.com/Szlein/CVE-2023-35843) | NocoDB任意文件读取CVE-2023-35843 | 2023-06-27T16:14:54Z|
 | [CVE-2023-35840](https://www.cve.org/CVERecord?id=CVE-2023-35840) | [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840) | elFinder &lt; 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | 2023-06-22T09:34:49Z|
+| [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-01T11:31:25Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
@@ -74,6 +76,7 @@
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC) | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | 2023-07-29T05:06:27Z|
+| [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit) | Nmap script to exploit CVE-2023-35078 - Mobile Iron Core | 2023-08-01T15:41:12Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
@@ -100,6 +103,7 @@
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [yon3zu/Mass-CVE-2023-3460](https://github.com/yon3zu/Mass-CVE-2023-3460) | Mass CVE-2023-3460. | 2023-07-09T16:46:17Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [rizqimaulanaa/CVE-2023-3460](https://github.com/rizqimaulanaa/CVE-2023-3460) | no description | 2023-07-07T12:40:37Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460) | Exploit for CVE-2023-3460. Unauthorized admin access for Ultimate Member plugin &lt; v2.6.7 | 2023-07-05T13:44:50Z|
+| [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [Rajneeshkarya/CVE-2023-3460](https://github.com/Rajneeshkarya/CVE-2023-3460) | Exploit for the vulnerability of Ultimate Member Plugin. | 2023-07-27T15:19:16Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [hheeyywweellccoommee/CVE-2023-34599-xsddo](https://github.com/hheeyywweellccoommee/CVE-2023-34599-xsddo) | no description | 2023-07-01T04:00:46Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599) | Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code. | 2023-06-23T20:10:33Z|
 | [CVE-2023-34598](https://www.cve.org/CVERecord?id=CVE-2023-34598) | [hheeyywweellccoommee/CVE-2023-34598-ghonc](https://github.com/hheeyywweellccoommee/CVE-2023-34598-ghonc) | no description | 2023-07-01T03:01:36Z|
@@ -317,6 +321,8 @@
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333) | command injection vulnerability in SolarView Compact poc version 6.0 | 2023-06-25T09:16:16Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333) | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | 2023-06-16T14:33:31Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [NCSC-NL/Progress-MoveIT-CVE-2023](https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023) | Information about Progress MoveIT CVE | 2023-06-02T12:27:42Z|
+| [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [emanueldosreis/nmap-CVE-2023-23333-exploit](https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit) | Nmap NSE script to dump / test Solarwinds CVE-2023-23333 vulnerability | 2023-08-01T16:24:37Z|
+| [CVE-2023-2333](https://www.cve.org/CVERecord?id=CVE-2023-2333) | [codeb0ss/CVE-2023-2333-EXP](https://github.com/codeb0ss/CVE-2023-2333-EXP) | CVE-2023-2333-EXP | 2023-08-02T00:36:27Z|
 | [CVE-2023-22960](https://www.cve.org/CVERecord?id=CVE-2023-22960) | [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960) | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | 2023-01-24T08:33:19Z|
 | [CVE-2023-22906](https://www.cve.org/CVERecord?id=CVE-2023-22906) | [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906) | Proof of Concept for CVE-2023-22906 | 2023-05-03T20:52:19Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809) | no description | 2023-07-10T06:38:14Z|
