@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-04 01:48:07.006157
+ Last generated : 2023-09-05 01:43:14.075643
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -15,6 +15,9 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [sbaresearch/stop-zenbleed-win](https://github.com/sbaresearch/stop-zenbleed-win) | PowerShell script to apply Zenbleed (CVE-2023-20593) MSR workaround on Windows | 2023-07-26T20:03:11Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [securezeron/CVE-2023-38646](https://github.com/securezeron/CVE-2023-38646) | POC for CVE-2023-38646 | 2023-07-30T09:56:52Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Xuxfff/CVE-2023-38646-Poc](https://github.com/Xuxfff/CVE-2023-38646-Poc) | no description | 2023-07-30T09:33:28Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [shamo0/CVE-2023-38646-PoC](https://github.com/shamo0/CVE-2023-38646-PoC) | Metabase Pre-auth RCE | 2023-08-02T13:21:58Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check) | Apahce-Superset身份认证绕过漏洞(CVE-2023-27524)检测工具 | 2023-04-27T06:21:00Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [fidjiw/CVE-2023-38646-POC](https://github.com/fidjiw/CVE-2023-38646-POC) | CVE-2023-38646-POC | 2023-08-03T08:06:10Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
@@ -51,6 +54,7 @@
 | [CVE-2023-36165](https://www.cve.org/CVERecord?id=CVE-2023-36165) | [TraiLeR2/CVE-2023-36165](https://github.com/TraiLeR2/CVE-2023-36165) | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component. | 2023-07-08T20:37:38Z|
 | [CVE-2023-36164](https://www.cve.org/CVERecord?id=CVE-2023-36164) | [TraiLeR2/CVE-2023-36164](https://github.com/TraiLeR2/CVE-2023-36164) | An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code via the MTAgentService component | 2023-07-08T20:36:19Z|
 | [CVE-2023-36163](https://www.cve.org/CVERecord?id=CVE-2023-36163) | [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163) | Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL | 2023-07-08T20:28:57Z|
+| [CVE-2023-36159](https://www.cve.org/CVERecord?id=CVE-2023-36159) | [unknown00759/CVE-2023-36159](https://github.com/unknown00759/CVE-2023-36159) | no description | 2023-08-02T07:44:36Z|
 | [CVE-2023-36158](https://www.cve.org/CVERecord?id=CVE-2023-36158) | [unknown00759/CVE-2023-36158](https://github.com/unknown00759/CVE-2023-36158) | Cross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page | 2023-08-02T07:31:49Z|
 | [CVE-2023-36146](https://www.cve.org/CVERecord?id=CVE-2023-36146) | [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146) | no description | 2023-06-22T22:06:21Z|
 | [CVE-2023-36144](https://www.cve.org/CVERecord?id=CVE-2023-36144) | [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144) | no description | 2023-06-22T22:00:30Z|
@@ -198,6 +202,8 @@
 | [CVE-2023-3163](https://www.cve.org/CVERecord?id=CVE-2023-3163) | [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention) | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version &lt; 23.1.0. | 2023-06-09T18:43:05Z|
 | [CVE-2023-31606](https://www.cve.org/CVERecord?id=CVE-2023-31606) | [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606) | no description | 2023-06-03T14:13:48Z|
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
+| [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z|
+| [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z|
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
@@ -218,6 +224,7 @@
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [libasmon/Exploite-CVE-2023-30212-Vulnerability](https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability) | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | 2023-05-27T06:43:44Z|
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [libas7994/Exploit-the-CVE-2023-30212-vulnerability](https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability) | Vulnerable Docker Environment CVE-2023-30212 | 2023-05-27T09:29:41Z|
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [mallutrojan/CVE-2023-30212-Lab](https://github.com/mallutrojan/CVE-2023-30212-Lab) | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | 2023-05-26T09:33:23Z|
+| [CVE-2023-30146](https://www.cve.org/CVERecord?id=CVE-2023-30146) | [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146) | Some Assmann manufactured IP-Cams leak the administrator password in their backup. | 2023-06-08T18:18:47Z|
 | [CVE-2023-3009](https://www.cve.org/CVERecord?id=CVE-2023-3009) | [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009) | Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi | 2023-05-31T16:23:23Z|
 | [CVE-2023-29923](https://www.cve.org/CVERecord?id=CVE-2023-29923) | [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923) | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | 2023-05-29T05:48:35Z|
 | [CVE-2023-2986](https://www.cve.org/CVERecord?id=CVE-2023-2986) | [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986) | Proof of Concept for vulnerability CVE-2023-2986 in &#x27;Abandoned Cart Lite for WooCommerce&#x27; Plugin in WordPress | 2023-06-09T17:44:09Z|
@@ -354,6 +361,7 @@
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
+| [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow) | CVE for 2023 | 2023-07-23T10:12:27Z|
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z|
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z|
