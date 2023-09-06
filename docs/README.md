@@ -2,11 +2,14 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-05 01:43:14.075643
+ Last generated : 2023-09-06 01:45:33.448897
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
+| [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
+| [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
 | [CVE-2023-38814](https://www.cve.org/CVERecord?id=CVE-2023-38814) | [actuator/BSIDES-Security-Rochester-2023](https://github.com/actuator/BSIDES-Security-Rochester-2023) | Hardware Hacking: A Brief Primer on Reverse Engineering Bluetooth Transmissions   -    CVE-2023-38814 | 2023-03-18T05:27:36Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [0xrobiul/CVE-2023-38646](https://github.com/0xrobiul/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646)!! | 2023-07-29T13:07:00Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Pumpkin-Garden/POC_Metabase_CVE-2023-38646](https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646) | For educational purposes only | 2023-07-28T11:43:06Z|
@@ -22,6 +25,8 @@
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
+| [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
+| [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
 | [CVE-2023-37778](https://www.cve.org/CVERecord?id=CVE-2023-37778) | [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778) | no description | 2023-07-28T11:18:21Z|
@@ -65,6 +70,7 @@
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [Szlein/CVE-2023-35843](https://github.com/Szlein/CVE-2023-35843) | NocoDB任意文件读取CVE-2023-35843 | 2023-06-27T16:14:54Z|
 | [CVE-2023-35840](https://www.cve.org/CVERecord?id=CVE-2023-35840) | [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840) | elFinder &lt; 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | 2023-06-22T09:34:49Z|
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-01T11:31:25Z|
+| [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-04T05:18:02Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
@@ -76,6 +82,8 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [dorkerdevil/CitrixFall](https://github.com/dorkerdevil/CitrixFall) | nse script to identify server vulnerable to CVE-2023-3519 | 2023-07-21T15:44:14Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [KR0N-SECURITY/CVE-2023-3519](https://github.com/KR0N-SECURITY/CVE-2023-3519) | NetScaler (Citrix ADC) CVE-2023-3519 Scanner | 2023-07-21T23:48:11Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519) | CVE-2023-3519 vuln for nuclei scanner | 2023-07-21T22:10:03Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [passwa11/CVE-2023-3519](https://github.com/passwa11/CVE-2023-3519) | no description | 2023-08-05T01:43:16Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [ViperM4sk/cpanel-xss-177](https://github.com/ViperM4sk/cpanel-xss-177) | Mass Exploitation For (CVE-2023-29489) | 2023-08-04T22:21:57Z|
 | [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
@@ -126,6 +134,7 @@
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs) | CVE-2023-34362-IOCs. More information on Deep Instinct&#x27;s blog site. | 2023-06-06T15:33:49Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
+| [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC) | SCM Manager XSS | 2023-06-07T04:20:54Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829) | Proof of Concept about a XSS Stored in SCM Manager 1.2 &lt;= 1.60 | 2023-05-19T13:11:50Z|
@@ -246,6 +255,7 @@
 | [CVE-2023-2877](https://www.cve.org/CVERecord?id=CVE-2023-2877) | [RandomRobbieBF/CVE-2023-2877](https://github.com/RandomRobbieBF/CVE-2023-2877) | Formidable Forms &lt; 6.3.1 - Subscriber+ Remote Code Execution | 2023-06-28T10:34:08Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868) | no description | 2023-06-20T18:43:54Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp) | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | 2023-06-09T12:00:59Z|
+| [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cashapp323232/CVE-2023-2868CVE-2023-2868](https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868) | no description | 2023-07-30T16:42:27Z|
 | [CVE-2023-28467](https://www.cve.org/CVERecord?id=CVE-2023-28467) | [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467) | no description | 2023-07-22T20:37:15Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
@@ -286,11 +296,14 @@
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) | CVE-2023-34312 | 2023-05-27T12:44:42Z|
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732) | Python 2.7 | 2023-06-06T02:59:22Z|
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass) | CVE-2023-2732 Mass | 2023-05-31T02:43:11Z|
+| [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Pari-Malam/CVE-2023-2732](https://github.com/Pari-Malam/CVE-2023-2732) | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | 2023-08-05T06:38:53Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163) | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | 2023-07-19T04:35:58Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163) | CVE-2023-27163 | 2023-07-20T00:18:38Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163) | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&lt;= v.1.2.1) | 2023-07-11T18:08:05Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [davuXVI/CVE-2023-27163](https://github.com/davuXVI/CVE-2023-27163) | PoC CVE-2023-27163, SSRF, request-baskets hasta v1.2.1 | 2023-07-26T15:37:26Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [ThickCoco/CVE-2023-27163-POC](https://github.com/ThickCoco/CVE-2023-27163-POC) | Poc of SSRF for Request-Baskets (CVE-2023-27163) | 2023-07-26T11:00:59Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53) | Requests Baskets (CVE-2023-27163) and Mailtrail v0.53 | 2023-08-05T09:32:00Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [zerbaliy3v/cusom-nuclei-templates](https://github.com/zerbaliy3v/cusom-nuclei-templates) | custom nuclei  templates 2023 | 2023-07-31T20:30:07Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
@@ -332,6 +345,7 @@
 | [CVE-2023-2333](https://www.cve.org/CVERecord?id=CVE-2023-2333) | [codeb0ss/CVE-2023-2333-EXP](https://github.com/codeb0ss/CVE-2023-2333-EXP) | CVE-2023-2333-EXP | 2023-08-02T00:36:27Z|
 | [CVE-2023-22960](https://www.cve.org/CVERecord?id=CVE-2023-22960) | [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960) | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | 2023-01-24T08:33:19Z|
 | [CVE-2023-22906](https://www.cve.org/CVERecord?id=CVE-2023-22906) | [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906) | Proof of Concept for CVE-2023-22906 | 2023-05-03T20:52:19Z|
+| [CVE-2023-22884](https://www.cve.org/CVERecord?id=CVE-2023-22884) | [jakabakos/CVE-2023-22884-Airflow-SQLi](https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi) | CVE-2023-22884 PoC | 2023-07-29T09:26:36Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809) | no description | 2023-07-10T06:38:14Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [pashayogi/CVE-2023-22809](https://github.com/pashayogi/CVE-2023-22809) | no description | 2023-06-25T15:11:01Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Chan9Yan9/CVE-2023-22809](https://github.com/Chan9Yan9/CVE-2023-22809) | Analysis &amp; Exploit | 2023-06-20T00:38:08Z|
