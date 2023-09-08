@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-07 01:46:06.495145
+ Last generated : 2023-09-08 01:47:19.222780
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
+| [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
@@ -21,11 +23,13 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [shamo0/CVE-2023-38646-PoC](https://github.com/shamo0/CVE-2023-38646-PoC) | Metabase Pre-auth RCE | 2023-08-02T13:21:58Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check) | Apahce-Superset身份认证绕过漏洞(CVE-2023-27524)检测工具 | 2023-04-27T06:21:00Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [fidjiw/CVE-2023-38646-POC](https://github.com/fidjiw/CVE-2023-38646-POC) | CVE-2023-38646-POC | 2023-08-03T08:06:10Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Any3ite/cve-2023-38646-metabase-ReverseShell](https://github.com/Any3ite/cve-2023-38646-metabase-ReverseShell) | no description | 2023-08-09T05:07:11Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
+| [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
@@ -216,6 +220,7 @@
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z|
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
+| [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [costacoco/Adiscon](https://github.com/costacoco/Adiscon) | CVE-2023-34600 | 2023-06-16T08:30:10Z|
@@ -305,12 +310,16 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [ThickCoco/CVE-2023-27163-POC](https://github.com/ThickCoco/CVE-2023-27163-POC) | Poc of SSRF for Request-Baskets (CVE-2023-27163) | 2023-07-26T11:00:59Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53) | Requests Baskets (CVE-2023-27163) and Mailtrail v0.53 | 2023-08-05T09:32:00Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [zerbaliy3v/cusom-nuclei-templates](https://github.com/zerbaliy3v/cusom-nuclei-templates) | custom nuclei  templates 2023 | 2023-07-31T20:30:07Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [rvizx/CVE-2023-27163](https://github.com/rvizx/CVE-2023-27163) | CVE-2023-27163 - Request Baskets SSRF | 2023-08-09T10:47:01Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lotusexpeditor/CVE-2023-XXX1](https://github.com/lotusexpeditor/CVE-2023-XXX1) | no description | 2023-08-09T16:36:32Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lotusexpeditor/CVE-2023-XXXX](https://github.com/lotusexpeditor/CVE-2023-XXXX) | no description | 2023-08-09T07:53:27Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
+| [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z|
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z|
@@ -376,6 +385,7 @@
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
+| [CVE-2023-1389](https://www.cve.org/CVERecord?id=CVE-2023-1389) | [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389) | no description | 2023-07-28T03:09:00Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow) | CVE for 2023 | 2023-07-23T10:12:27Z|
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z|
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
