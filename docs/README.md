@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-08 01:47:19.222780
+ Last generated : 2023-09-09 01:41:44.171568
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -89,6 +89,8 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519) | CVE-2023-3519 vuln for nuclei scanner | 2023-07-21T22:10:03Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [passwa11/CVE-2023-3519](https://github.com/passwa11/CVE-2023-3519) | no description | 2023-08-05T01:43:16Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [ViperM4sk/cpanel-xss-177](https://github.com/ViperM4sk/cpanel-xss-177) | Mass Exploitation For (CVE-2023-29489) | 2023-08-04T22:21:57Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [rwincey/cve-2023-3519](https://github.com/rwincey/cve-2023-3519) | no description | 2023-08-06T23:17:18Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [Dlux-cyber-projects/cve-search-2023](https://github.com/Dlux-cyber-projects/cve-search-2023) | no description | 2023-08-09T13:17:22Z|
 | [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
@@ -137,6 +139,7 @@
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs) | CSV File Containing CVE-2023-34362 IOCs | 2023-06-12T09:58:25Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn) | An investigation into CVE-2023-34362. | 2023-06-07T04:00:35Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs) | CVE-2023-34362-IOCs. More information on Deep Instinct&#x27;s blog site. | 2023-06-06T15:33:49Z|
+| [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
