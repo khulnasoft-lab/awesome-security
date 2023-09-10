@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-09 01:41:44.171568
+ Last generated : 2023-09-10 01:50:35.889024
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
+| [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
