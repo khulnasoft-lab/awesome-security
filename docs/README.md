@@ -2,13 +2,14 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-10 01:50:35.889024
+ Last generated : 2023-09-11 01:48:41.082242
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
@@ -26,6 +27,9 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check) | Apahce-Superset身份认证绕过漏洞(CVE-2023-27524)检测工具 | 2023-04-27T06:21:00Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [fidjiw/CVE-2023-38646-POC](https://github.com/fidjiw/CVE-2023-38646-POC) | CVE-2023-38646-POC | 2023-08-03T08:06:10Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Any3ite/cve-2023-38646-metabase-ReverseShell](https://github.com/Any3ite/cve-2023-38646-metabase-ReverseShell) | no description | 2023-08-09T05:07:11Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [robotmikhro/CVE-2023-38646](https://github.com/robotmikhro/CVE-2023-38646) | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | 2023-08-09T14:05:24Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [ncusi/secret_life_of_CVEs](https://github.com/ncusi/secret_life_of_CVEs) | Scripts and code for &quot;The Secret Life of CVEs&quot;, presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge | 2023-03-17T10:24:09Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646) | Tools to exploit metabase CVE-2023-38646 | 2023-07-31T05:25:37Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -33,6 +37,8 @@
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
+| [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
+| [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
@@ -51,6 +57,7 @@
 | [CVE-2023-37190](https://www.cve.org/CVERecord?id=CVE-2023-37190) | [sahiloj/CVE-2023-37190](https://github.com/sahiloj/CVE-2023-37190) | no description | 2023-07-07T17:26:42Z|
 | [CVE-2023-37189](https://www.cve.org/CVERecord?id=CVE-2023-37189) | [sahiloj/CVE-2023-37189](https://github.com/sahiloj/CVE-2023-37189) | no description | 2023-07-07T17:39:19Z|
 | [CVE-2023-37164](https://www.cve.org/CVERecord?id=CVE-2023-37164) | [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164) | no description | 2023-07-27T21:08:37Z|
+| [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899) | CVE-2023-36899 PoC | 2023-08-11T14:33:19Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline](https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline) | The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty. | 2023-07-12T14:13:20Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ToddMaxey/CVE-2023-36884](https://github.com/ToddMaxey/CVE-2023-36884) | PowerShell Script for initial mitigation of vulnerability | 2023-07-20T21:10:49Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [tarraschk/CVE-2023-36884-Checker](https://github.com/tarraschk/CVE-2023-36884-Checker) | Script to check for CVE-2023-36884 hardening | 2023-07-17T14:02:40Z|
@@ -191,11 +198,13 @@
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [SuperZero/CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246) | Apache RocketMQ 远程代码执行漏洞(CVE-2023-33246) Exploit | 2023-06-01T06:27:09Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy) | no description | 2023-05-31T07:28:46Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) | no description | 2023-05-30T02:18:29Z|
+| [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [d0rb/CVE-2023-33246](https://github.com/d0rb/CVE-2023-33246) | CVE-2023-33246 POC | 2023-08-11T08:45:29Z|
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
+| [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC) | CVE-2023-32315-Openfire-Bypass | 2023-07-07T07:48:24Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315) | no description | 2023-07-02T20:38:14Z|
@@ -416,6 +425,7 @@
 | [CVE-2022-46638](https://www.cve.org/CVERecord?id=CVE-2022-46638) | [naonymous101/CVE-2022-46638](https://github.com/naonymous101/CVE-2022-46638) | Blog Pribadi | 2019-02-16T16:50:50Z|
 | [CVE-2022-46604](https://www.cve.org/CVERecord?id=CVE-2022-46604) | [galoget/ResponsiveFileManager-CVE-2022-46604](https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604) | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | 2023-02-03T08:56:16Z|
 | [CVE-2022-46463](https://www.cve.org/CVERecord?id=CVE-2022-46463) | [404tk/CVE-2022-46463](https://github.com/404tk/CVE-2022-46463) | harbor unauthorized detection | 2023-03-21T10:40:19Z|
+| [CVE-2022-46196](https://www.cve.org/CVERecord?id=CVE-2022-46196) | [dpgg101/CVE-2022-46196](https://github.com/dpgg101/CVE-2022-46196) | no description | 2023-04-30T18:23:41Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [antisecc/CVE-2022-46169](https://github.com/antisecc/CVE-2022-46169) | no description | 2023-05-21T06:43:17Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [ariyaadinatha/cacti-cve-2022-46169-exploit](https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit) | This is poc of CVE-2022-46169 authentication bypass and remote code execution | 2023-03-11T19:39:44Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [sAsPeCt488/CVE-2022-46169](https://github.com/sAsPeCt488/CVE-2022-46169) | PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &lt;= 1.2.22 | 2023-01-05T16:56:06Z|
