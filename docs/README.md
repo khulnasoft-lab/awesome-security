@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-11 01:48:41.082242
+ Last generated : 2023-09-12 01:43:22.738603
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -10,6 +10,9 @@
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
+| [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
+| [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
+| [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
@@ -200,6 +203,7 @@
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) | no description | 2023-05-30T02:18:29Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [d0rb/CVE-2023-33246](https://github.com/d0rb/CVE-2023-33246) | CVE-2023-33246 POC | 2023-08-11T08:45:29Z|
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
+| [CVE-2023-33242](https://www.cve.org/CVERecord?id=CVE-2023-33242) | [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242) | CVE-2023-33242  PoC | 2023-08-15T13:46:48Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
@@ -271,6 +275,7 @@
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325) | no description | 2023-06-07T07:51:59Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325) | no description | 2023-06-19T12:57:43Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [daniloalbuqrque/poc-cve-xss-inventory-press-plugin](https://github.com/daniloalbuqrque/poc-cve-xss-inventory-press-plugin) | PoC for CVE-2023-2579 | 2023-04-21T16:22:10Z|
+| [CVE-2023-2916](https://www.cve.org/CVERecord?id=CVE-2023-2916) | [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916) | CVE-2023-2916 PoC | 2023-08-15T13:51:38Z|
 | [CVE-2023-28771](https://www.cve.org/CVERecord?id=CVE-2023-28771) | [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771) | The script is designed to facilitate testing and exploration of the IKEv2 protocol in vulnerable devices, based on Rapid7&#x27;s exploitation techniques. | 2023-06-03T15:40:50Z|
 | [CVE-2023-2877](https://www.cve.org/CVERecord?id=CVE-2023-2877) | [RandomRobbieBF/CVE-2023-2877](https://github.com/RandomRobbieBF/CVE-2023-2877) | Formidable Forms &lt; 6.3.1 - Subscriber+ Remote Code Execution | 2023-06-28T10:34:08Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868) | no description | 2023-06-20T18:43:54Z|
@@ -311,6 +316,7 @@
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin](https://github.com/daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin) | PoC for CVE-2023-2123 | 2023-04-16T00:33:56Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [Pari-Malam/CVE-2023-27372](https://github.com/Pari-Malam/CVE-2023-27372) | Perform With Mass Remote Code Execution In SPIP Version (4.2.1) | 2023-07-31T20:32:36Z|
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363) | 福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现 | 2023-06-14T01:18:09Z|
+| [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363) | no description | 2023-05-15T16:09:19Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350) | Python 2.7 | 2023-06-13T22:13:24Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350) | Perfom With Massive Authentication Bypass In PaperCut MF/NG | 2023-05-27T11:32:35Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) | CVE-2023-34312 | 2023-05-27T12:44:42Z|
@@ -327,6 +333,8 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [rvizx/CVE-2023-27163](https://github.com/rvizx/CVE-2023-27163) | CVE-2023-27163 - Request Baskets SSRF | 2023-08-09T10:47:01Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lotusexpeditor/CVE-2023-XXX1](https://github.com/lotusexpeditor/CVE-2023-XXX1) | no description | 2023-08-09T16:36:32Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lotusexpeditor/CVE-2023-XXXX](https://github.com/lotusexpeditor/CVE-2023-XXXX) | no description | 2023-08-09T07:53:27Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163) | Golang PoC for CVE-2023-27163 Mailtrail Exploit | 2023-08-13T04:19:50Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163) | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | 2023-08-13T08:49:24Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
@@ -389,6 +397,7 @@
 | [CVE-2023-20871](https://www.cve.org/CVERecord?id=CVE-2023-20871) | [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi) | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | 2023-07-03T14:01:22Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis) | A collection of resources and information about CVE-2023-2033 | 2023-04-26T15:24:02Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033) | cve-2023-2033 exploit | 2023-06-08T12:29:08Z|
+| [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033) | no description | 2023-08-02T11:55:30Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
