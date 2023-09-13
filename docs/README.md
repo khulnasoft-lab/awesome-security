@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-12 01:43:22.738603
+ Last generated : 2023-09-13 01:48:21.855410
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -42,6 +42,7 @@
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
+| [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [codeb0ss/CVE-2023-37979](https://github.com/codeb0ss/CVE-2023-37979) | CVE-2023-37979 - WordPress Authenticated XSS in Ninja-forms Plugin + Upload File | 2023-08-17T02:24:42Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
@@ -61,6 +62,8 @@
 | [CVE-2023-37189](https://www.cve.org/CVERecord?id=CVE-2023-37189) | [sahiloj/CVE-2023-37189](https://github.com/sahiloj/CVE-2023-37189) | no description | 2023-07-07T17:39:19Z|
 | [CVE-2023-37164](https://www.cve.org/CVERecord?id=CVE-2023-37164) | [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164) | no description | 2023-07-27T21:08:37Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899) | CVE-2023-36899 PoC | 2023-08-11T14:33:19Z|
+| [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [midisec/CVE-2023-36899](https://github.com/midisec/CVE-2023-36899) | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | 2023-08-15T23:36:17Z|
+| [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay) | CVE-2023-2640 CVE-2023-32629 | 2023-08-15T19:07:02Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline](https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline) | The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty. | 2023-07-12T14:13:20Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ToddMaxey/CVE-2023-36884](https://github.com/ToddMaxey/CVE-2023-36884) | PowerShell Script for initial mitigation of vulnerability | 2023-07-20T21:10:49Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [tarraschk/CVE-2023-36884-Checker](https://github.com/tarraschk/CVE-2023-36884-Checker) | Script to check for CVE-2023-36884 hardening | 2023-07-17T14:02:40Z|
@@ -135,6 +138,7 @@
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [rizqimaulanaa/CVE-2023-3460](https://github.com/rizqimaulanaa/CVE-2023-3460) | no description | 2023-07-07T12:40:37Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460) | Exploit for CVE-2023-3460. Unauthorized admin access for Ultimate Member plugin &lt; v2.6.7 | 2023-07-05T13:44:50Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [Rajneeshkarya/CVE-2023-3460](https://github.com/Rajneeshkarya/CVE-2023-3460) | Exploit for the vulnerability of Ultimate Member Plugin. | 2023-07-27T15:19:16Z|
+| [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [BlackReaperSK/CVE-2023-3460_POC](https://github.com/BlackReaperSK/CVE-2023-3460_POC) | GitHub repository for CVE-2023-3460 POC | 2023-08-15T16:56:53Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [hheeyywweellccoommee/CVE-2023-34599-xsddo](https://github.com/hheeyywweellccoommee/CVE-2023-34599-xsddo) | no description | 2023-07-01T04:00:46Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599) | Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code. | 2023-06-23T20:10:33Z|
 | [CVE-2023-34598](https://www.cve.org/CVERecord?id=CVE-2023-34598) | [hheeyywweellccoommee/CVE-2023-34598-ghonc](https://github.com/hheeyywweellccoommee/CVE-2023-34598-ghonc) | no description | 2023-07-01T03:01:36Z|
@@ -398,6 +402,7 @@
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis) | A collection of resources and information about CVE-2023-2033 | 2023-04-26T15:24:02Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033) | cve-2023-2033 exploit | 2023-06-08T12:29:08Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033) | no description | 2023-08-02T11:55:30Z|
+| [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033) | no description | 2023-08-17T02:40:42Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
