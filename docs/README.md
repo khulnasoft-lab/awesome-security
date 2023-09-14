@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-13 01:48:21.855410
+ Last generated : 2023-09-14 01:45:25.120709
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -10,10 +10,12 @@
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
+| [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
+| [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -121,6 +123,7 @@
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [Pari-Malam/CVE-2023-34960](https://github.com/Pari-Malam/CVE-2023-34960) | Perform with Massive Command Injection (Chamilo) | 2023-07-22T05:27:45Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [tucommenceapousser/CVE-2023-34960-ex](https://github.com/tucommenceapousser/CVE-2023-34960-ex) | Perform with Massive Command Injection (Chamilo) | 2023-08-01T08:09:51Z|
 | [CVE-2023-34924](https://www.cve.org/CVERecord?id=CVE-2023-34924) | [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924) | no description | 2023-06-15T03:12:35Z|
+| [CVE-2023-34853](https://www.cve.org/CVERecord?id=CVE-2023-34853) | [risuxx/CVE-2023-34853](https://github.com/risuxx/CVE-2023-34853) | no description | 2023-08-16T15:13:49Z|
 | [CVE-2023-34852](https://www.cve.org/CVERecord?id=CVE-2023-34852) | [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852) | no description | 2023-06-15T01:23:08Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [hheeyywweellccoommee/CVE-2023-34843-illrj](https://github.com/hheeyywweellccoommee/CVE-2023-34843-illrj) | no description | 2023-07-01T03:01:38Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843) | Public disclosure for CVE-2023-34843. | 2023-06-27T20:45:32Z|
@@ -364,6 +367,7 @@
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC) | CVE-2023-24488 PoC | 2023-07-01T17:47:17Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver) | CVE-2023-25157 SQL injection vulnerability found in GeoServer | 2023-06-10T00:47:32Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488) | Tools to perform exploit CVE-2023-24488 | 2023-07-31T11:29:16Z|
+| [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC) | no description | 2023-08-17T10:33:52Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752) | Joomla未授权访问漏洞 | 2023-06-16T07:53:22Z|
