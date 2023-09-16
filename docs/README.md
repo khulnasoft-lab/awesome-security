@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-15 01:49:38.158984
+ Last generated : 2023-09-16 01:42:48.921142
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -134,6 +134,7 @@
 | [CVE-2023-34836](https://www.cve.org/CVERecord?id=CVE-2023-34836) | [sahiloj/CVE-2023-34836](https://github.com/sahiloj/CVE-2023-34836) | no description | 2023-06-23T11:50:12Z|
 | [CVE-2023-34835](https://www.cve.org/CVERecord?id=CVE-2023-34835) | [sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835) | no description | 2023-06-23T11:49:37Z|
 | [CVE-2023-34830](https://www.cve.org/CVERecord?id=CVE-2023-34830) | [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below) | no description | 2023-06-16T08:43:35Z|
+| [CVE-2023-34634](https://www.cve.org/CVERecord?id=CVE-2023-34634) | [radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634) | Python rewrite of the POC for CVE-2023-34634 | 2023-08-18T09:00:44Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [diego-tella/CVE-2023-3460](https://github.com/diego-tella/CVE-2023-3460) | Exploit and scanner for CVE-2023-3460 | 2023-07-11T20:15:20Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [Fire-Null/CVE-2023-3460](https://github.com/Fire-Null/CVE-2023-3460) | CVE-2023-3460 | 2023-07-11T13:44:18Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [hheeyywweellccoommee/CVE-2023-3460-obgen](https://github.com/hheeyywweellccoommee/CVE-2023-3460-obgen) | CVE-2023-3460 | 2023-07-11T13:01:05Z|
@@ -243,6 +244,7 @@
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z|
+| [CVE-2023-3079](https://www.cve.org/CVERecord?id=CVE-2023-3079) | [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) | no description | 2023-08-15T04:16:46Z|
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
@@ -411,6 +413,7 @@
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [pankajjarial360/OpenSSH_4.7p1](https://github.com/pankajjarial360/OpenSSH_4.7p1) | CVE-2008-5161 /OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) | 2023-05-05T14:13:21Z|
+| [CVE-2023-20073](https://www.cve.org/CVERecord?id=CVE-2023-20073) | [RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073) | PoC based on https://unsafe[.]sh/go-173464.html research | 2023-08-18T02:42:50Z|
 | [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052) | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | 2023-05-08T18:34:02Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z|
