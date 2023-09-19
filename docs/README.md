@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-18 01:48:03.852836
+ Last generated : 2023-09-19 01:50:10.916689
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -36,6 +36,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [robotmikhro/CVE-2023-38646](https://github.com/robotmikhro/CVE-2023-38646) | Automatic Tools For Metabase Exploit Known As CVE-2023-38646 | 2023-08-09T14:05:24Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [ncusi/secret_life_of_CVEs](https://github.com/ncusi/secret_life_of_CVEs) | Scripts and code for &quot;The Secret Life of CVEs&quot;, presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge | 2023-03-17T10:24:09Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646) | Tools to exploit metabase CVE-2023-38646 | 2023-07-31T05:25:37Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [kh4sh3i/CVE-2023-38646](https://github.com/kh4sh3i/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646) | 2023-08-19T11:47:08Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -371,6 +372,7 @@
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver) | CVE-2023-25157 SQL injection vulnerability found in GeoServer | 2023-06-10T00:47:32Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488) | Tools to perform exploit CVE-2023-24488 | 2023-07-31T11:29:16Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC) | no description | 2023-08-17T10:33:52Z|
+| [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test) | no description | 2023-08-18T16:53:11Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752) | Joomla未授权访问漏洞 | 2023-06-16T07:53:22Z|
