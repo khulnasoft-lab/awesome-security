@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-19 01:50:10.916689
+ Last generated : 2023-09-20 01:48:13.814819
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,6 +14,10 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z|
+| [CVE-2023-39711](https://www.cve.org/CVERecord?id=CVE-2023-39711) | [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711) | no description | 2023-08-19T18:13:14Z|
+| [CVE-2023-39710](https://www.cve.org/CVERecord?id=CVE-2023-39710) | [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710) | no description | 2023-08-19T18:09:59Z|
+| [CVE-2023-39709](https://www.cve.org/CVERecord?id=CVE-2023-39709) | [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709) | no description | 2023-08-19T18:35:44Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
