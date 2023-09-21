@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-20 01:48:13.814819
+ Last generated : 2023-09-21 01:46:27.665534
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
@@ -14,10 +15,13 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z|
 | [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z|
 | [CVE-2023-39711](https://www.cve.org/CVERecord?id=CVE-2023-39711) | [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711) | no description | 2023-08-19T18:13:14Z|
 | [CVE-2023-39710](https://www.cve.org/CVERecord?id=CVE-2023-39710) | [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710) | no description | 2023-08-19T18:09:59Z|
 | [CVE-2023-39709](https://www.cve.org/CVERecord?id=CVE-2023-39709) | [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709) | no description | 2023-08-19T18:35:44Z|
+| [CVE-2023-39708](https://www.cve.org/CVERecord?id=CVE-2023-39708) | [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708) | no description | 2023-08-19T19:02:23Z|
+| [CVE-2023-39707](https://www.cve.org/CVERecord?id=CVE-2023-39707) | [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707) | no description | 2023-08-19T17:35:39Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
@@ -47,10 +51,12 @@
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z|
+| [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [codeb0ss/CVE-2023-37979](https://github.com/codeb0ss/CVE-2023-37979) | CVE-2023-37979 - WordPress Authenticated XSS in Ninja-forms Plugin + Upload File | 2023-08-17T02:24:42Z|
+| [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [d0rb/CVE-2023-37979](https://github.com/d0rb/CVE-2023-37979) | CVE-2023-37979 PoC and Checker | 2023-08-04T10:31:53Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
@@ -79,6 +85,7 @@
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [zerosorai/CVE-2023-36884](https://github.com/zerosorai/CVE-2023-36884) | This is an emergency solution while Microsoft addresses the vulnerability. | 2023-07-15T16:56:18Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ridsoliveira/Fix-CVE-2023-36884](https://github.com/ridsoliveira/Fix-CVE-2023-36884) | no description | 2023-07-28T20:39:37Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884) | #comeonits2023 #ie9 #Storm-0978 | 2023-07-30T14:53:25Z|
+| [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [d0rb/CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) | CVE-2023-36874 PoC | 2023-08-20T13:50:42Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
@@ -412,6 +419,8 @@
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
 | [CVE-2023-20871](https://www.cve.org/CVERecord?id=CVE-2023-20871) | [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi) | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | 2023-07-03T14:01:22Z|
+| [CVE-2023-20562](https://www.cve.org/CVERecord?id=CVE-2023-20562) | [passwa11/HITCON-2023-Demo-CVE-2023-20562](https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562) | no description | 2023-08-21T06:25:09Z|
+| [CVE-2023-20562](https://www.cve.org/CVERecord?id=CVE-2023-20562) | [zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562) | no description | 2023-08-21T00:31:50Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis) | A collection of resources and information about CVE-2023-2033 | 2023-04-26T15:24:02Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033) | cve-2023-2033 exploit | 2023-06-08T12:29:08Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033) | no description | 2023-08-02T11:55:30Z|
@@ -421,6 +430,7 @@
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [pankajjarial360/OpenSSH_4.7p1](https://github.com/pankajjarial360/OpenSSH_4.7p1) | CVE-2008-5161 /OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) | 2023-05-05T14:13:21Z|
 | [CVE-2023-20073](https://www.cve.org/CVERecord?id=CVE-2023-20073) | [RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073) | PoC based on https://unsafe[.]sh/go-173464.html research | 2023-08-18T02:42:50Z|
+| [CVE-2023-20073](https://www.cve.org/CVERecord?id=CVE-2023-20073) | [codeb0ss/CVE-2023-20073-](https://github.com/codeb0ss/CVE-2023-20073-) | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | 2023-08-20T02:45:50Z|
 | [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052) | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | 2023-05-08T18:34:02Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z|
