@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-21 01:46:27.665534
+ Last generated : 2023-09-22 01:48:11.773841
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
@@ -52,6 +53,7 @@
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
+| [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
@@ -86,6 +88,8 @@
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ridsoliveira/Fix-CVE-2023-36884](https://github.com/ridsoliveira/Fix-CVE-2023-36884) | no description | 2023-07-28T20:39:37Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884) | #comeonits2023 #ie9 #Storm-0978 | 2023-07-30T14:53:25Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [d0rb/CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) | CVE-2023-36874 PoC | 2023-08-20T13:50:42Z|
+| [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) | no description | 2023-08-23T12:07:40Z|
+| [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874) | CVE-2023-36874 Proof of Concept | 2023-08-22T16:27:30Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
@@ -121,6 +125,7 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [ViperM4sk/cpanel-xss-177](https://github.com/ViperM4sk/cpanel-xss-177) | Mass Exploitation For (CVE-2023-29489) | 2023-08-04T22:21:57Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [rwincey/cve-2023-3519](https://github.com/rwincey/cve-2023-3519) | no description | 2023-08-06T23:17:18Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [Dlux-cyber-projects/cve-search-2023](https://github.com/Dlux-cyber-projects/cve-search-2023) | no description | 2023-08-09T13:17:22Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [BishopFox/CVE-2023-3519](https://github.com/BishopFox/CVE-2023-3519) | RCE exploit for CVE-2023-3519 | 2023-07-21T20:17:43Z|
 | [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
@@ -292,6 +297,7 @@
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [tucommenceapousser/CVE-2023-29489](https://github.com/tucommenceapousser/CVE-2023-29489) | no description | 2023-06-10T22:34:59Z|
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489) | CVE-2023-29489-XSS | 2023-06-01T18:13:17Z|
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z|
+| [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z|
 | [CVE-2023-29343](https://www.cve.org/CVERecord?id=CVE-2023-29343) | [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343) | no description | 2023-06-18T11:14:08Z|
 | [CVE-2023-29336](https://www.cve.org/CVERecord?id=CVE-2023-29336) | [m-cetin/CVE-2023-29336](https://github.com/m-cetin/CVE-2023-29336) | no description | 2023-06-09T15:36:45Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325) | no description | 2023-06-07T07:51:59Z|
@@ -364,6 +370,7 @@
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z|
+| [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z|
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z|
@@ -412,9 +419,11 @@
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z|
+| [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z|
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z|
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z|
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z|
+| [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
