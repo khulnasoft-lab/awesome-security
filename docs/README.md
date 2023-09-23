@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-22 01:48:11.773841
+ Last generated : 2023-09-23 01:42:39.301519
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -369,6 +369,7 @@
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
+| [CVE-2023-26256](https://www.cve.org/CVERecord?id=CVE-2023-26256) | [aodsec/CVE-2023-26256](https://github.com/aodsec/CVE-2023-26256) | CVE-2023-26255_POC,CVE-2023-26256_POC | 2023-08-24T01:57:00Z|
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
