@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-23 01:42:39.301519
+ Last generated : 2023-09-24 01:51:26.335941
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -27,6 +27,7 @@
 | [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) | lazy way to create CVE-2023-38831 winrar file for testing | 2023-08-24T16:03:07Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
@@ -235,6 +236,7 @@
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
+| [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts) | Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher | 2023-08-04T18:28:52Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC) | CVE-2023-32315-Openfire-Bypass | 2023-07-07T07:48:24Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315) | no description | 2023-07-02T20:38:14Z|
