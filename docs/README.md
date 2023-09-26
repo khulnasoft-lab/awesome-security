@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-25 01:49:54.836900
+ Last generated : 2023-09-26 01:49:40.481223
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -31,6 +31,7 @@
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) | lazy way to create CVE-2023-38831 winrar file for testing | 2023-08-24T16:03:07Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT) | no description | 2023-08-27T08:42:24Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831) | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | 2023-08-27T14:08:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
@@ -140,6 +141,7 @@
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC) | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | 2023-07-29T05:06:27Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit) | Nmap script to exploit CVE-2023-35078 - Mobile Iron Core | 2023-08-01T15:41:12Z|
+| [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [LazyySec/CVE-2023-35078](https://github.com/LazyySec/CVE-2023-35078) | Tools to scanner &amp; exploit cve-2023-35078 | 2023-07-31T02:24:24Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
@@ -397,6 +399,7 @@
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC) | CVE-2023-24489 PoC &amp; Exploiter | 2023-07-26T03:19:20Z|
+| [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [whalebone7/CVE-2023-24489-poc](https://github.com/whalebone7/CVE-2023-24489-poc) | POC for CVE-2023-24489 with bash. | 2023-08-27T11:53:59Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule](https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule) | Detect CVE-2023-24488 Exploitation Attempts | 2023-07-06T15:23:45Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [codeb0ss/cve-2023-24488](https://github.com/codeb0ss/cve-2023-24488) | CVE-2023-24488 By codeb0ss | 2023-07-06T03:07:09Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [securitycipher/CVE-2023-24488](https://github.com/securitycipher/CVE-2023-24488) | POC for CVE-2023-24488 | 2023-07-04T18:02:50Z|
@@ -434,6 +437,7 @@
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
+| [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z|
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z|
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z|
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z|
