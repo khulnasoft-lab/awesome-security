@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-26 01:49:40.481223
+ Last generated : 2023-09-27 01:49:18.602888
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -32,6 +32,12 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) | lazy way to create CVE-2023-38831 winrar file for testing | 2023-08-24T16:03:07Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT) | no description | 2023-08-27T08:42:24Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831) | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | 2023-08-27T14:08:36Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc](https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc) | CVE-2023-38831 winrar exploit generator and get reverse shell | 2023-08-28T22:08:31Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [HDCE-inc/CVE-2023-38831](https://github.com/HDCE-inc/CVE-2023-38831) | CVE-2023-38831 PoC (Proof Of Concept) | 2023-08-28T04:56:10Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL) | KQL Hunting for WinRAR CVE-2023-38831 | 2023-08-28T15:26:14Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [akhomlyuk/cve-2023-38831](https://github.com/akhomlyuk/cve-2023-38831) | CVE-2023-38831 WinRAR | 2023-08-28T14:48:35Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831](https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831) | Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) | 2023-08-28T14:48:22Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ignis-sec/CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE) | An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23 | 2023-08-27T21:49:37Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
@@ -377,6 +383,7 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lotusexpeditor/CVE-2023-XXXX](https://github.com/lotusexpeditor/CVE-2023-XXXX) | no description | 2023-08-09T07:53:27Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163) | Golang PoC for CVE-2023-27163 Mailtrail Exploit | 2023-08-13T04:19:50Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163) | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | 2023-08-13T08:49:24Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber) | A tool to perform port scanning using vulnerable Request-Baskets | 2023-08-28T16:19:21Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
