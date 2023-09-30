@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-09-29 01:48:40.298937
+ Last generated : 2023-09-30 01:43:33.748301
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
 | [CVE-2023-41717](https://www.cve.org/CVERecord?id=CVE-2023-41717) | [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717) | This repository is to provide a write-up and PoC for CVE-2023-41717. | 2023-08-31T08:10:22Z|
@@ -27,6 +28,7 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z|
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z|
 | [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z|
 | [CVE-2023-39711](https://www.cve.org/CVERecord?id=CVE-2023-39711) | [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711) | no description | 2023-08-19T18:13:14Z|
@@ -60,6 +62,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [nhman-python/CVE-2023-38831](https://github.com/nhman-python/CVE-2023-38831) | winrar exploit 6.22 &lt;= | 2023-08-30T10:11:16Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools) | [CVE_2023_28432漏洞 、CVE_2023_32315漏洞、 ThinkPHP 2.x 任意代码执行漏洞 、ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞、 ThinkPHP5 5.0.23 远程代码执行漏洞 ThinkPHP 多语言本地文件包含漏洞] | 2023-08-31T03:22:09Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BeniBeastt/CVE-2023-38831_ReverseShell_Winrar](https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar) | no description | 2023-08-30T15:49:01Z|
+| [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z|
@@ -231,6 +234,7 @@
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040) | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | 2023-08-30T12:09:15Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | 2023-09-01T16:17:10Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [ayhan-dev/CVE](https://github.com/ayhan-dev/CVE) | CVE-2023 | 2023-08-28T15:53:25Z|
+| [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039) | VMware exploit | 2023-09-02T07:56:06Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
