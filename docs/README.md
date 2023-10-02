@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-01 01:57:04.832661
+ Last generated : 2023-10-02 01:50:07.747490
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -62,6 +62,9 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [nhman-python/CVE-2023-38831](https://github.com/nhman-python/CVE-2023-38831) | winrar exploit 6.22 &lt;= | 2023-08-30T10:11:16Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools) | [CVE_2023_28432漏洞 、CVE_2023_32315漏洞、 ThinkPHP 2.x 任意代码执行漏洞 、ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞、 ThinkPHP5 5.0.23 远程代码执行漏洞 ThinkPHP 多语言本地文件包含漏洞] | 2023-08-31T03:22:09Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BeniBeastt/CVE-2023-38831_ReverseShell_Winrar](https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar) | no description | 2023-08-30T15:49:01Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Fa1c0n35/CVE-2023-38831-winrar-exploit](https://github.com/Fa1c0n35/CVE-2023-38831-winrar-exploit) | no description | 2023-09-03T14:53:42Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [K3rnel-Dev/WinrarExploit](https://github.com/K3rnel-Dev/WinrarExploit) | CVE-2023-38831-WINRAR-EXPLOIT GENERATOR | 2023-09-03T14:03:45Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [asepsaepdin/CVE-2023-38831](https://github.com/asepsaepdin/CVE-2023-38831) | no description | 2023-09-03T09:18:56Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
