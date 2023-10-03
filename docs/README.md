@@ -2,13 +2,14 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-02 01:50:07.747490
+ Last generated : 2023-10-03 01:50:12.793864
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
@@ -108,6 +109,8 @@
 | [CVE-2023-37772](https://www.cve.org/CVERecord?id=CVE-2023-37772) | [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772) | no description | 2023-07-27T18:48:10Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
 | [CVE-2023-37625](https://www.cve.org/CVERecord?id=CVE-2023-37625) | [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625) | no description | 2023-07-01T21:02:11Z|
+| [CVE-2023-37621](https://www.cve.org/CVERecord?id=CVE-2023-37621) | [MY0723/CNVD-2022-27366__CVE-2023-37621](https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621) | no description | 2023-06-29T01:36:10Z|
+| [CVE-2023-37621](https://www.cve.org/CVERecord?id=CVE-2023-37621) | [GREENHAT7/Hvv2023](https://github.com/GREENHAT7/Hvv2023) | HW2023@POC@EXP@CVE-2023-2023 | 2023-08-13T05:54:17Z|
 | [CVE-2023-37599](https://www.cve.org/CVERecord?id=CVE-2023-37599) | [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599) | Directory Listing vulnerability in issabel-pbx 4.0.0-6 exposing application sensitive files | 2023-07-10T16:34:22Z|
 | [CVE-2023-37598](https://www.cve.org/CVERecord?id=CVE-2023-37598) | [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598) | CSRF vulnerability in issabel-pbx v.4.0.0-6 to delete any new virtual fax of users | 2023-07-10T16:30:34Z|
 | [CVE-2023-37597](https://www.cve.org/CVERecord?id=CVE-2023-37597) | [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user group | 2023-07-10T16:28:29Z|
@@ -150,6 +153,7 @@
 | [CVE-2023-36146](https://www.cve.org/CVERecord?id=CVE-2023-36146) | [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146) | no description | 2023-06-22T22:06:21Z|
 | [CVE-2023-36144](https://www.cve.org/CVERecord?id=CVE-2023-36144) | [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144) | no description | 2023-06-22T22:00:30Z|
 | [CVE-2023-36143](https://www.cve.org/CVERecord?id=CVE-2023-36143) | [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143) | no description | 2023-06-22T21:56:16Z|
+| [CVE-2023-36143](https://www.cve.org/CVERecord?id=CVE-2023-36143) | [RobinTrigon/CVE-2023-36143](https://github.com/RobinTrigon/CVE-2023-36143) | Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the &quot;Diagnostic tool&quot; functionality of the device. | 2023-09-04T05:08:28Z|
 | [CVE-2023-3609](https://www.cve.org/CVERecord?id=CVE-2023-3609) | [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609) | no description | 2023-09-01T10:44:56Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
@@ -185,6 +189,7 @@
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [LazyySec/CVE-2023-35078](https://github.com/LazyySec/CVE-2023-35078) | Tools to scanner &amp; exploit cve-2023-35078 | 2023-07-31T02:24:24Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078) | Ivanti Endpoint Manager Mobile (EPMM)   POC | 2023-08-30T02:36:20Z|
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | 2023-09-01T07:41:23Z|
+| [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-) | nftables oob read/write exploit (CVE-2023-35001) | 2023-09-04T03:25:01Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
@@ -239,6 +244,7 @@
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [ayhan-dev/CVE](https://github.com/ayhan-dev/CVE) | CVE-2023 | 2023-08-28T15:53:25Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039) | VMware exploit | 2023-09-02T07:56:06Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [Cyb3rEnthusiast/CVE-2023-34039](https://github.com/Cyb3rEnthusiast/CVE-2023-34039) | Here it is, the VMware newest exploit | 2023-09-03T10:03:36Z|
+| [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [syedhafiz1234/CVE-2023-34039](https://github.com/syedhafiz1234/CVE-2023-34039) | CVE-2023-34039 | 2023-09-04T03:27:56Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
