@@ -2,17 +2,20 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-03 01:50:12.793864
+ Last generated : 2023-10-04 01:51:02.999504
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
+| [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -20,6 +23,7 @@
 | [CVE-2023-4166](https://www.cve.org/CVERecord?id=CVE-2023-4166) | [mvpyyds/CVE-2023-4166](https://github.com/mvpyyds/CVE-2023-4166) | no description | 2023-09-01T05:33:38Z|
 | [CVE-2023-4165](https://www.cve.org/CVERecord?id=CVE-2023-4165) | [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165) | no description | 2023-09-01T03:55:23Z|
 | [CVE-2023-41646](https://www.cve.org/CVERecord?id=CVE-2023-41646) | [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646) | no description | 2023-09-01T16:46:07Z|
+| [CVE-2023-41538](https://www.cve.org/CVERecord?id=CVE-2023-41538) | [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC) | Mass exploit - CVE-2023-41538 &lt; phpjabbers PHP Forum &lt; Cross Site Scripting (XSS) | 2023-09-05T04:26:52Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) | no description | 2023-08-26T15:11:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
 | [CVE-2023-40869](https://www.cve.org/CVERecord?id=CVE-2023-40869) | [MinoTauro2020/CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869) | Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | 2023-09-02T00:47:37Z|
@@ -211,6 +215,7 @@
 | [CVE-2023-34836](https://www.cve.org/CVERecord?id=CVE-2023-34836) | [sahiloj/CVE-2023-34836](https://github.com/sahiloj/CVE-2023-34836) | no description | 2023-06-23T11:50:12Z|
 | [CVE-2023-34835](https://www.cve.org/CVERecord?id=CVE-2023-34835) | [sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835) | no description | 2023-06-23T11:49:37Z|
 | [CVE-2023-34830](https://www.cve.org/CVERecord?id=CVE-2023-34830) | [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below) | no description | 2023-06-16T08:43:35Z|
+| [CVE-2023-34747](https://www.cve.org/CVERecord?id=CVE-2023-34747) | [codeb0ss/CVE-2023-34747-PoC](https://github.com/codeb0ss/CVE-2023-34747-PoC) | Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload | 2023-09-05T04:36:42Z|
 | [CVE-2023-34634](https://www.cve.org/CVERecord?id=CVE-2023-34634) | [radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634) | Python rewrite of the POC for CVE-2023-34634 | 2023-08-18T09:00:44Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [diego-tella/CVE-2023-3460](https://github.com/diego-tella/CVE-2023-3460) | Exploit and scanner for CVE-2023-3460 | 2023-07-11T20:15:20Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [Fire-Null/CVE-2023-3460](https://github.com/Fire-Null/CVE-2023-3460) | CVE-2023-3460 | 2023-07-11T13:44:18Z|
@@ -394,6 +399,7 @@
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab) | the proof of concept written in Python for an unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups. This is a critical severity issue | 2023-05-30T07:03:19Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825) | CVE-2023-2825 list | 2023-05-28T02:14:37Z|
 | [CVE-2023-28244](https://www.cve.org/CVERecord?id=CVE-2023-28244) | [sk3w/cve-2023-28244](https://github.com/sk3w/cve-2023-28244) | no description | 2023-05-31T16:43:34Z|
+| [CVE-2023-28229](https://www.cve.org/CVERecord?id=CVE-2023-28229) | [Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) | no description | 2023-09-04T07:48:13Z|
 | [CVE-2023-2822](https://www.cve.org/CVERecord?id=CVE-2023-2822) | [cberman/CVE-2023-2822-demo](https://github.com/cberman/CVE-2023-2822-demo) | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | 2023-05-22T00:46:24Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121) | Python 2.7 | 2023-07-20T09:28:26Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [im-hanzou/Mass-CVE-2023-28121](https://github.com/im-hanzou/Mass-CVE-2023-28121) | CVE-2023-28121 -  WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | 2023-07-12T02:41:26Z|
@@ -438,6 +444,7 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163) | Golang PoC for CVE-2023-27163 Mailtrail Exploit | 2023-08-13T04:19:50Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163) | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | 2023-08-13T08:49:24Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber) | A tool to perform port scanning using vulnerable Request-Baskets | 2023-08-28T16:19:21Z|
+| [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
