@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-04 01:51:02.999504
+ Last generated : 2023-10-05 01:52:11.880374
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -48,6 +48,10 @@
 | [CVE-2023-39063](https://www.cve.org/CVERecord?id=CVE-2023-39063) | [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063) | POC of the CVE-2023-39063 | 2023-08-24T20:57:27Z|
 | [CVE-2023-39062](https://www.cve.org/CVERecord?id=CVE-2023-39062) | [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062) | Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files | 2023-08-23T21:07:24Z|
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z|
+| [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836) | Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0 | 2023-08-16T14:30:30Z|
+| [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit](https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit) | no description | 2023-09-05T20:39:32Z|
+| [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [mind2hex/MICS_Hunter](https://github.com/mind2hex/MICS_Hunter) | Script to exploit CVE-2023-38035 | 2023-09-05T01:58:39Z|
+| [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [m3ssap0/cacti-rce-snmp-options-vulnerable-application](https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2023-39362). Run it at your own risk! | 2023-07-03T09:43:21Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) | lazy way to create CVE-2023-38831 winrar file for testing | 2023-08-24T16:03:07Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT) | no description | 2023-08-27T08:42:24Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831) | 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。 | 2023-08-27T14:08:36Z|
@@ -334,6 +338,7 @@
 | [CVE-2023-3163](https://www.cve.org/CVERecord?id=CVE-2023-3163) | [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention) | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version &lt; 23.1.0. | 2023-06-09T18:43:05Z|
 | [CVE-2023-31606](https://www.cve.org/CVERecord?id=CVE-2023-31606) | [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606) | no description | 2023-06-03T14:13:48Z|
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
+| [CVE-2023-3124](https://www.cve.org/CVERecord?id=CVE-2023-3124) | [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124) | CVE-2023-3124 PoC | 2023-09-05T12:32:50Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z|
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943) | CVE-2023-30943  RCE PoC | 2023-08-31T08:18:17Z|
