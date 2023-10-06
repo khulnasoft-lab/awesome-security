@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-05 01:52:11.880374
+ Last generated : 2023-10-06 01:49:19.465810
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,9 @@
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
+| [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
+| [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
+| [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
@@ -74,6 +77,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Fa1c0n35/CVE-2023-38831-winrar-exploit](https://github.com/Fa1c0n35/CVE-2023-38831-winrar-exploit) | no description | 2023-09-03T14:53:42Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [K3rnel-Dev/WinrarExploit](https://github.com/K3rnel-Dev/WinrarExploit) | CVE-2023-38831-WINRAR-EXPLOIT GENERATOR | 2023-09-03T14:03:45Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [asepsaepdin/CVE-2023-38831](https://github.com/asepsaepdin/CVE-2023-38831) | no description | 2023-09-03T09:18:56Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar) | Quick exploit builder for CVE-2023-38831, a vulnerability that affects WinRAR versions before 6.23. | 2023-09-07T06:42:36Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -104,6 +108,7 @@
 | [CVE-2023-38388](https://www.cve.org/CVERecord?id=CVE-2023-38388) | [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388) | Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload | 2023-08-26T05:51:06Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836) | 大华智慧园区综合管理平台publishing文件上传 | 2023-08-30T12:11:42Z|
+| [CVE-2023-3812](https://www.cve.org/CVERecord?id=CVE-2023-3812) | [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812) | no description | 2023-09-06T06:03:40Z|
 | [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
@@ -146,6 +151,8 @@
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | 2023-08-24T22:24:34Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
+| [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
+| [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
@@ -162,6 +169,7 @@
 | [CVE-2023-36144](https://www.cve.org/CVERecord?id=CVE-2023-36144) | [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144) | no description | 2023-06-22T22:00:30Z|
 | [CVE-2023-36143](https://www.cve.org/CVERecord?id=CVE-2023-36143) | [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143) | no description | 2023-06-22T21:56:16Z|
 | [CVE-2023-36143](https://www.cve.org/CVERecord?id=CVE-2023-36143) | [RobinTrigon/CVE-2023-36143](https://github.com/RobinTrigon/CVE-2023-36143) | Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the &quot;Diagnostic tool&quot; functionality of the device. | 2023-09-04T05:08:28Z|
+| [CVE-2023-36123](https://www.cve.org/CVERecord?id=CVE-2023-36123) | [9Bakabaka/CVE-2023-36123](https://github.com/9Bakabaka/CVE-2023-36123) | The PoC of CVE-2023-36123 | 2023-09-06T14:29:18Z|
 | [CVE-2023-3609](https://www.cve.org/CVERecord?id=CVE-2023-3609) | [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609) | no description | 2023-09-01T10:44:56Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
@@ -174,6 +182,7 @@
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567) | no description | 2023-09-01T05:53:45Z|
+| [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567) | no description | 2023-09-06T11:16:22Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) | CVE-2023-3519 | 2023-07-21T11:02:21Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector) | Accurately fingerprint and detect vulnerable (and patched!) versions of Netscaler / Citrix ADC to CVE-2023-3519 | 2023-07-20T16:05:07Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [CVEProject/cvelist](https://github.com/CVEProject/cvelist) | Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 | 2020-11-02T19:30:55Z|
