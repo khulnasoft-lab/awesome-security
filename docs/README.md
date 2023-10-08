@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-07 01:46:19.872417
+ Last generated : 2023-10-08 01:52:58.156272
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -130,6 +130,7 @@
 | [CVE-2023-37778](https://www.cve.org/CVERecord?id=CVE-2023-37778) | [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778) | no description | 2023-07-28T11:18:21Z|
 | [CVE-2023-37772](https://www.cve.org/CVERecord?id=CVE-2023-37772) | [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772) | no description | 2023-07-27T18:48:10Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
+| [CVE-2023-37739](https://www.cve.org/CVERecord?id=CVE-2023-37739) | [leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below) | no description | 2023-07-24T01:57:31Z|
 | [CVE-2023-37625](https://www.cve.org/CVERecord?id=CVE-2023-37625) | [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625) | no description | 2023-07-01T21:02:11Z|
 | [CVE-2023-37621](https://www.cve.org/CVERecord?id=CVE-2023-37621) | [MY0723/CNVD-2022-27366__CVE-2023-37621](https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621) | no description | 2023-06-29T01:36:10Z|
 | [CVE-2023-37621](https://www.cve.org/CVERecord?id=CVE-2023-37621) | [GREENHAT7/Hvv2023](https://github.com/GREENHAT7/Hvv2023) | HW2023@POC@EXP@CVE-2023-2023 | 2023-08-13T05:54:17Z|
