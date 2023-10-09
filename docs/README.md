@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-08 01:52:58.156272
+ Last generated : 2023-10-09 01:49:38.715131
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -130,6 +130,8 @@
 | [CVE-2023-37778](https://www.cve.org/CVERecord?id=CVE-2023-37778) | [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778) | no description | 2023-07-28T11:18:21Z|
 | [CVE-2023-37772](https://www.cve.org/CVERecord?id=CVE-2023-37772) | [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772) | no description | 2023-07-27T18:48:10Z|
 | [CVE-2023-37771](https://www.cve.org/CVERecord?id=CVE-2023-37771) | [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771) | CVE | 2023-07-19T14:51:04Z|
+| [CVE-2023-37756](https://www.cve.org/CVERecord?id=CVE-2023-37756) | [leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below) | no description | 2023-07-24T03:11:05Z|
+| [CVE-2023-37755](https://www.cve.org/CVERecord?id=CVE-2023-37755) | [leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below) | no description | 2023-07-24T02:42:27Z|
 | [CVE-2023-37739](https://www.cve.org/CVERecord?id=CVE-2023-37739) | [leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below) | no description | 2023-07-24T01:57:31Z|
 | [CVE-2023-37625](https://www.cve.org/CVERecord?id=CVE-2023-37625) | [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625) | no description | 2023-07-01T21:02:11Z|
 | [CVE-2023-37621](https://www.cve.org/CVERecord?id=CVE-2023-37621) | [MY0723/CNVD-2022-27366__CVE-2023-37621](https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621) | no description | 2023-06-29T01:36:10Z|
@@ -3598,3 +3600,4 @@
 | [CVE-2000-0649](https://www.cve.org/CVERecord?id=CVE-2000-0649) | [rafaelh/CVE-2000-0649](https://github.com/rafaelh/CVE-2000-0649) | Test for CVE-2000-0649, and return an IP address if vulnerable | 2021-02-11T04:29:50Z|
 | CVE NOT FOUND | [grmono/CVE2019-2017_POC](https://github.com/grmono/CVE2019-2017_POC) | CVE2019-2017 POC | 2019-08-27T20:14:45Z|
 | CVE NOT FOUND | [iceberg-N/cve-2023-test](https://github.com/iceberg-N/cve-2023-test) | no description | 2023-09-02T06:41:12Z|
+| CVE NOT FOUND | [bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023](https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023) | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | 2023-09-10T09:36:13Z|
