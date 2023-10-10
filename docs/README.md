@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-09 01:49:38.715131
+ Last generated : 2023-10-10 01:48:54.370875
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -193,6 +193,7 @@
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
+| [CVE-2023-35674](https://www.cve.org/CVERecord?id=CVE-2023-35674) | [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674) | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | 2023-09-11T05:34:43Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567) | no description | 2023-09-01T05:53:45Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567) | no description | 2023-09-06T11:16:22Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) | CVE-2023-3519 | 2023-07-21T11:02:21Z|
@@ -258,6 +259,7 @@
 | [CVE-2023-34584](https://www.cve.org/CVERecord?id=CVE-2023-34584) | [fu2x2000/-CVE-2023-34584](https://github.com/fu2x2000/-CVE-2023-34584) | no description | 2023-06-20T20:17:13Z|
 | [CVE-2023-34537](https://www.cve.org/CVERecord?id=CVE-2023-34537) | [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5) | no description | 2023-06-13T09:10:35Z|
 | [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450) | no description | 2023-08-31T17:32:27Z|
+| [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450) | no description | 2023-09-10T12:09:05Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362) | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | 2023-07-18T15:58:00Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362) | POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-07-09T18:44:22Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) | MOVEit CVE-2023-34362 | 2023-06-09T19:07:32Z|
@@ -426,6 +428,7 @@
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | 2023-05-25T13:25:10Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab) | the proof of concept written in Python for an unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups. This is a critical severity issue | 2023-05-30T07:03:19Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825) | CVE-2023-2825 list | 2023-05-28T02:14:37Z|
+| [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [caopengyan/CVE-2023-2825](https://github.com/caopengyan/CVE-2023-2825) | no description | 2023-09-10T14:51:30Z|
 | [CVE-2023-28244](https://www.cve.org/CVERecord?id=CVE-2023-28244) | [sk3w/cve-2023-28244](https://github.com/sk3w/cve-2023-28244) | no description | 2023-05-31T16:43:34Z|
 | [CVE-2023-28229](https://www.cve.org/CVERecord?id=CVE-2023-28229) | [Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) | no description | 2023-09-04T07:48:13Z|
 | [CVE-2023-2822](https://www.cve.org/CVERecord?id=CVE-2023-2822) | [cberman/CVE-2023-2822-demo](https://github.com/cberman/CVE-2023-2822-demo) | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | 2023-05-22T00:46:24Z|
@@ -571,6 +574,8 @@
 | [CVE-2023-20073](https://www.cve.org/CVERecord?id=CVE-2023-20073) | [RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073) | PoC based on https://unsafe[.]sh/go-173464.html research | 2023-08-18T02:42:50Z|
 | [CVE-2023-20073](https://www.cve.org/CVERecord?id=CVE-2023-20073) | [codeb0ss/CVE-2023-20073-](https://github.com/codeb0ss/CVE-2023-20073-) | Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS] | 2023-08-20T02:45:50Z|
 | [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052) | CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV | 2023-05-08T18:34:02Z|
+| [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [cY83rR0H1t/CVE-2023-20052](https://github.com/cY83rR0H1t/CVE-2023-20052) | CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV | 2023-07-19T07:39:20Z|
+| [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023](https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023) | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | 2023-09-10T09:36:50Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z|
