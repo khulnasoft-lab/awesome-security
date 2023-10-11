@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-10 01:48:54.370875
+ Last generated : 2023-10-11 01:49:00.898123
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -18,8 +18,12 @@
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
+| [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC) | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | 2023-09-11T23:53:11Z|
+| [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [actuator/com.full.dialer.top.secure.encrypted](https://github.com/actuator/com.full.dialer.top.secure.encrypted) | CVE-2023-42469 | 2023-09-02T17:11:58Z|
+| [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
 | [CVE-2023-41717](https://www.cve.org/CVERecord?id=CVE-2023-41717) | [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717) | This repository is to provide a write-up and PoC for CVE-2023-41717. | 2023-08-31T08:10:22Z|
@@ -32,6 +36,7 @@
 | [CVE-2023-41533](https://www.cve.org/CVERecord?id=CVE-2023-41533) | [Sh33talUmath/CVE-2023-41533](https://github.com/Sh33talUmath/CVE-2023-41533) | no description | 2023-09-07T10:50:03Z|
 | [CVE-2023-41508](https://www.cve.org/CVERecord?id=CVE-2023-41508) | [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508) | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:29:37Z|
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
+| [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) | no description | 2023-08-26T15:11:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
@@ -58,6 +63,7 @@
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z|
 | [CVE-2023-39063](https://www.cve.org/CVERecord?id=CVE-2023-39063) | [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063) | POC of the CVE-2023-39063 | 2023-08-24T20:57:27Z|
 | [CVE-2023-39062](https://www.cve.org/CVERecord?id=CVE-2023-39062) | [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062) | Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files | 2023-08-23T21:07:24Z|
+| [CVE-2023-38891](https://www.cve.org/CVERecord?id=CVE-2023-38891) | [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891) | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | 2023-09-12T22:58:41Z|
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z|
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836) | Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0 | 2023-08-16T14:30:30Z|
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit](https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit) | no description | 2023-09-05T20:39:32Z|
@@ -87,6 +93,8 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [asepsaepdin/CVE-2023-38831](https://github.com/asepsaepdin/CVE-2023-38831) | no description | 2023-09-03T09:18:56Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar) | Quick exploit builder for CVE-2023-38831, a vulnerability that affects WinRAR versions before 6.23. | 2023-09-07T06:42:36Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831) | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | 2023-09-03T21:14:05Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Malwareman007/CVE-2023-38831](https://github.com/Malwareman007/CVE-2023-38831) | CVE-2023-38831 WinRaR Exploit Generator | 2023-09-12T14:07:00Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ameerpornillos/CVE-2023-38831-WinRAR-Exploit](https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit) | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | 2023-09-12T16:01:17Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -194,6 +202,7 @@
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
 | [CVE-2023-35674](https://www.cve.org/CVERecord?id=CVE-2023-35674) | [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674) | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | 2023-09-11T05:34:43Z|
+| [CVE-2023-35671](https://www.cve.org/CVERecord?id=CVE-2023-35671) | [MrTiz/CVE-2023-35671](https://github.com/MrTiz/CVE-2023-35671) | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | 2023-09-01T20:16:28Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567) | no description | 2023-09-01T05:53:45Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567) | no description | 2023-09-06T11:16:22Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) | CVE-2023-3519 | 2023-07-21T11:02:21Z|
@@ -335,6 +344,8 @@
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts) | Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher | 2023-08-04T18:28:52Z|
+| [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z|
+| [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC) | CVE-2023-32315-Openfire-Bypass | 2023-07-07T07:48:24Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315) | no description | 2023-07-02T20:38:14Z|
@@ -450,6 +461,8 @@
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524) | CVE-2023-27524 | 2023-08-30T20:59:28Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [praetorian-inc/zeroqlik-detect](https://github.com/praetorian-inc/zeroqlik-detect) | A Nuclei template to detect ZeroQlik (CVE-2023-41265 and CVE-2023-41266) | 2023-08-30T16:15:19Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524) | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | 2023-04-25T04:59:05Z|
+| [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE) | no description | 2023-09-08T06:15:00Z|
+| [CVE-2023-27470](https://www.cve.org/CVERecord?id=CVE-2023-27470) | [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise) | no description | 2023-09-11T08:04:08Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC) | CVE-2023-27372-SPIP-CMS-Bypass | 2023-07-11T10:00:04Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [RSTG0D/CVE-2023-27372-PoC](https://github.com/RSTG0D/CVE-2023-27372-PoC) | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell. | 2023-07-05T14:41:03Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [tucommenceapousser/CVE-2023-27372](https://github.com/tucommenceapousser/CVE-2023-27372) | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | 2023-06-25T19:39:37Z|
@@ -480,6 +493,8 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163) | CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF) | 2023-08-13T08:49:24Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber) | A tool to perform port scanning using vulnerable Request-Baskets | 2023-08-28T16:19:21Z|
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
+| [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818) | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | 2023-08-30T12:40:50Z|
+| [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [im-hanzou/EVCer](https://github.com/im-hanzou/EVCer) | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder &lt; 1.9.1 - Unauthenticated LFI | 2023-09-11T11:36:35Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
@@ -584,6 +599,7 @@
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
 | [CVE-2023-1389](https://www.cve.org/CVERecord?id=CVE-2023-1389) | [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389) | no description | 2023-07-28T03:09:00Z|
 | [CVE-2023-1389](https://www.cve.org/CVERecord?id=CVE-2023-1389) | [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389) | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | 2023-09-09T15:53:22Z|
+| [CVE-2023-1273](https://www.cve.org/CVERecord?id=CVE-2023-1273) | [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC) | Mass Exploit -  CVE-2023-1273 / ND Shortcodes &lt; LFI | 2023-09-12T00:10:58Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow) | CVE for 2023 | 2023-07-23T10:12:27Z|
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z|
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
@@ -1522,6 +1538,7 @@
 | [CVE-2019-9791](https://www.cve.org/CVERecord?id=CVE-2019-9791) | [Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791) | Exploit chain for CVE-2019-9791 &amp; CVE-2019-11708 against firefox 65.0 on windows 64bit | 2021-09-08T14:38:42Z|
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [kuangting4231/mitigation-cve-2019-9787](https://github.com/kuangting4231/mitigation-cve-2019-9787) | no description | 2022-04-30T12:19:50Z|
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [dexXxed/CVE-2019-9787](https://github.com/dexXxed/CVE-2019-9787) | Overview PoC of CSRF CVE-2019-9787 WordPress Version 5.1.1 | 2021-06-29T08:57:43Z|
+| [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [sijiahi/Wordpress_cve-2019-9787_defense](https://github.com/sijiahi/Wordpress_cve-2019-9787_defense) | This is a recurrence of cve-2019-9787 on Wordpress and a hash-based defense. | 2020-05-01T13:44:10Z|
 | [CVE-2019-9766](https://www.cve.org/CVERecord?id=CVE-2019-9766) | [zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766) | Free MP3 CD Ripper 2.6 版本中存在栈缓冲区溢出漏洞 (CVE-2019-9766)，远程攻击者可借助特制的 .mp3 文件利用该漏洞执行任意代码。 | 2022-09-14T02:19:57Z|
 | [CVE-2019-9766](https://www.cve.org/CVERecord?id=CVE-2019-9766) | [freeFV/ApacheSolrRCE](https://github.com/freeFV/ApacheSolrRCE) | ApacheSolrRCE（CVE-2019-0193）一键写shell，原理是通过代码执行的java文件流写的马。 | 2022-09-13T08:38:30Z|
 | [CVE-2019-9465](https://www.cve.org/CVERecord?id=CVE-2019-9465) | [MichaelsPlayground/CVE-2019-9465](https://github.com/MichaelsPlayground/CVE-2019-9465) | no description | 2022-01-08T22:25:43Z|
@@ -1549,6 +1566,7 @@
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z|
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z|
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z|
+| [CVE-2019-8605](https://www.cve.org/CVERecord?id=CVE-2019-8605) | [1nteger-c/CVE-2019-8605](https://github.com/1nteger-c/CVE-2019-8605) | no description | 2021-01-15T06:12:14Z|
 | [CVE-2019-8331](https://www.cve.org/CVERecord?id=CVE-2019-8331) | [Snorlyd/https-nj.gov---CVE-2019-8331](https://github.com/Snorlyd/https-nj.gov---CVE-2019-8331) | Vulnearability Report of the New Jersey official site | 2022-05-23T07:48:19Z|
 | [CVE-2019-8331](https://www.cve.org/CVERecord?id=CVE-2019-8331) | [jsnhcuan1997/UltramanGaia](https://github.com/jsnhcuan1997/UltramanGaia) | A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to versi… | 2022-05-21T16:30:37Z|
 | [CVE-2019-8014](https://www.cve.org/CVERecord?id=CVE-2019-8014) | [f01965/CVE-2019-8014](https://github.com/f01965/CVE-2019-8014) | no description | 2022-04-10T00:53:46Z|
@@ -1683,6 +1701,7 @@
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [jptr218/php_hack](https://github.com/jptr218/php_hack) | CVE-2019-11043 | 2021-08-10T14:06:27Z|
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [shen54/IT19172088](https://github.com/shen54/IT19172088) | CVE-2019-5736 | 2020-05-12T14:47:27Z|
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [fahmifj/Docker-breakout-runc](https://github.com/fahmifj/Docker-breakout-runc) | Modified version of CVE-2019-5736-PoC by Frichetten | 2021-08-07T20:51:07Z|
+| [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [Y3A/CVE-2019-18634](https://github.com/Y3A/CVE-2019-18634) | exploit | 2021-04-27T13:50:24Z|
 | [CVE-2019-18370](https://www.cve.org/CVERecord?id=CVE-2019-18370) | [FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis](https://github.com/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis) | no description | 2023-04-11T10:58:30Z|
 | [CVE-2019-18276](https://www.cve.org/CVERecord?id=CVE-2019-18276) | [SABI-Ensimag/CVE-2019-18276](https://github.com/SABI-Ensimag/CVE-2019-18276) | no description | 2022-01-12T11:40:57Z|
 | [CVE-2019-18276](https://www.cve.org/CVERecord?id=CVE-2019-18276) | [M-ensimag/CVE-2019-18276](https://github.com/M-ensimag/CVE-2019-18276) | no description | 2021-12-09T20:22:01Z|
@@ -1700,6 +1719,7 @@
 | [CVE-2019-17564](https://www.cve.org/CVERecord?id=CVE-2019-17564) | [Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget](https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget) | Basic code for creating the Alibaba FastJson + Spring gadget chain, as used to exploit Apache Dubbo in CVE-2019-17564 - more information available at https://www.checkmarx.com/blog/apache-dubbo-unauthenticated-remote-code-execution-vulnerability | 2020-02-20T08:28:55Z|
 | [CVE-2019-17558](https://www.cve.org/CVERecord?id=CVE-2019-17558) | [narrowinxt/CVE-2019-17558](https://github.com/narrowinxt/CVE-2019-17558) | no description | 2023-06-05T07:47:01Z|
 | [CVE-2019-17497](https://www.cve.org/CVERecord?id=CVE-2019-17497) | [JM-Lemmi/cve-2019-17497](https://github.com/JM-Lemmi/cve-2019-17497) | POC Files for CVE-2019-17497 | 2022-01-31T12:03:13Z|
+| [CVE-2019-17240](https://www.cve.org/CVERecord?id=CVE-2019-17240) | [spyx/cve-2019-17240](https://github.com/spyx/cve-2019-17240) | no description | 2021-06-15T05:51:05Z|
 | [CVE-2019-17147](https://www.cve.org/CVERecord?id=CVE-2019-17147) | [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material) | This repo contains dumped flash partitions with firmware version vulnerable to  CVE-2019-17147, and some useful binaries to downgrade and debug your WR841N router. | 2022-01-16T07:08:57Z|
 | [CVE-2019-16759](https://www.cve.org/CVERecord?id=CVE-2019-16759) | [M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit) | Vbulletin rce exploit CVE-2019-16759 | 2019-09-25T16:12:27Z|
 | [CVE-2019-16759](https://www.cve.org/CVERecord?id=CVE-2019-16759) | [adindrabkin/llama_facts](https://github.com/adindrabkin/llama_facts) | Web application vulnerable to Python3 Flask SSTI (CVE-2019-8341) | 2021-12-24T04:08:44Z|
@@ -1744,6 +1764,7 @@
 | [CVE-2019-14287](https://www.cve.org/CVERecord?id=CVE-2019-14287) | [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287) | no description | 2022-10-12T23:33:05Z|
 | [CVE-2019-14287](https://www.cve.org/CVERecord?id=CVE-2019-14287) | [Karma2424/cve2019-2215-3.18](https://github.com/Karma2424/cve2019-2215-3.18) | no description | 2021-07-13T02:40:09Z|
 | [CVE-2019-14287](https://www.cve.org/CVERecord?id=CVE-2019-14287) | [Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287](https://github.com/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287) | no description | 2021-10-13T08:35:57Z|
+| [CVE-2019-14287](https://www.cve.org/CVERecord?id=CVE-2019-14287) | [crypticdante/CVE-2019-14287](https://github.com/crypticdante/CVE-2019-14287) | no description | 2021-06-17T12:33:08Z|
 | [CVE-2019-14271](https://www.cve.org/CVERecord?id=CVE-2019-14271) | [iridium-soda/CVE-2019-14271_Exploit](https://github.com/iridium-soda/CVE-2019-14271_Exploit) | A convenient and time-saving auto script of building environment and exploit it. | 2023-03-15T15:13:27Z|
 | [CVE-2019-14271](https://www.cve.org/CVERecord?id=CVE-2019-14271) | [Ravaan21/Bluekeep-Hunter](https://github.com/Ravaan21/Bluekeep-Hunter) | CVE-2019-0708, A tool which mass hunts for bluekeep vulnerability for exploitation. | 2022-09-17T05:41:15Z|
 | [CVE-2019-14079](https://www.cve.org/CVERecord?id=CVE-2019-14079) | [parallelbeings/CVE-2019-14079](https://github.com/parallelbeings/CVE-2019-14079) | USB device fuzzing on Android Phone | 2020-04-05T05:45:29Z|
@@ -1755,10 +1776,12 @@
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [zAbuQasem/CVE-2019-12840](https://github.com/zAbuQasem/CVE-2019-12840) | CVE-2019-12840 | 2021-03-30T17:32:30Z|
 | [CVE-2019-12836](https://www.cve.org/CVERecord?id=CVE-2019-12836) | [9lyph/CVE-2019-12836](https://github.com/9lyph/CVE-2019-12836) | CVE-2019-12836 | 2019-06-16T04:41:29Z|
 | [CVE-2019-12814](https://www.cve.org/CVERecord?id=CVE-2019-12814) | [Al1ex/CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814) | CVE-2019-12814:Jackson JDOM XSLTransformer Gadget | 2020-05-24T04:33:55Z|
+| [CVE-2019-12744](https://www.cve.org/CVERecord?id=CVE-2019-12744) | [nobodyatall648/CVE-2019-12744](https://github.com/nobodyatall648/CVE-2019-12744) | Remote Command Execution through Unvalidated File Upload in SeedDMS versions &lt;5.1.11 | 2021-06-24T12:58:02Z|
 | [CVE-2019-12735](https://www.cve.org/CVERecord?id=CVE-2019-12735) | [st9007a/CVE-2019-12735](https://github.com/st9007a/CVE-2019-12735) | A demo for cve-2019-12735 | 2022-07-26T08:45:21Z|
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [givemefivw/CVE-2019-12725](https://github.com/givemefivw/CVE-2019-12725) | CVE-2019-12725 ZeroShell 远程命令执行漏洞 | 2021-04-27T03:36:33Z|
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [MzzdToT/CVE-2019-12725](https://github.com/MzzdToT/CVE-2019-12725) | ZeroShell命令执行漏洞批量扫描poc+exp | 2021-06-29T06:24:22Z|
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [gougou123-hash/CVE-2019-12725](https://github.com/gougou123-hash/CVE-2019-12725) | ZeroShell命令执行漏洞批量扫描poc+exp | 2021-08-10T04:39:39Z|
+| [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [h3v0x/CVE-2019-12725-Command-Injection](https://github.com/h3v0x/CVE-2019-12725-Command-Injection) | ZeroShell 3.9.0 Remote Command Injection | 2021-06-13T23:57:37Z|
 | [CVE-2019-1253](https://www.cve.org/CVERecord?id=CVE-2019-1253) | [padovah4ck/CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253) | Poc for CVE-2019-1253 | 2019-09-11T20:40:15Z|
 | [CVE-2019-12384](https://www.cve.org/CVERecord?id=CVE-2019-12384) | [MagicZer0/Jackson_RCE-CVE-2019-12384](https://github.com/MagicZer0/Jackson_RCE-CVE-2019-12384) | CVE-2019-12384 漏洞测试环境 | 2019-07-26T03:24:38Z|
 | [CVE-2019-12086](https://www.cve.org/CVERecord?id=CVE-2019-12086) | [Al1ex/CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086) | jackson unserialize | 2020-05-22T17:10:10Z|
@@ -1770,6 +1793,7 @@
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932](https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932) | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | 2021-07-23T21:29:56Z|
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [zxn1/CVE-2019-11932](https://github.com/zxn1/CVE-2019-11932) | no description | 2021-07-04T17:07:19Z|
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse) | Nmap NSE script to detect CVE-2019-14322 of Pallets Werkzeug path traversal via SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames | 2021-05-17T07:48:19Z|
+| [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [fastmo/CVE-2019-11932](https://github.com/fastmo/CVE-2019-11932) | Programa para hackear Whatsapp Mediante Gif ,asiendo un exploit con el puerto. | 2019-10-16T20:13:23Z|
 | [CVE-2019-11581](https://www.cve.org/CVERecord?id=CVE-2019-11581) | [PetrusViet/CVE-2019-11581](https://github.com/PetrusViet/CVE-2019-11581) | Atlassian Jira unauthen template injection | 2021-05-04T06:30:47Z|
 | [CVE-2019-11539](https://www.cve.org/CVERecord?id=CVE-2019-11539) | [0xDezzy/CVE-2019-11539](https://github.com/0xDezzy/CVE-2019-11539) | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | 2019-09-04T13:06:02Z|
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [0xkasra/CVE-2019-11447](https://github.com/0xkasra/CVE-2019-11447) | no description | 2022-04-14T01:45:04Z|
@@ -1787,6 +1811,8 @@
 | [CVE-2019-10742](https://www.cve.org/CVERecord?id=CVE-2019-10742) | [kkamagui/napper-for-tpm](https://github.com/kkamagui/napper-for-tpm) | TPM vulnerability checking tool for CVE-2018-6622. This tool will be published at Black Hat Asia 2019 and Black Hat Europe 2019 | 2019-02-07T06:45:27Z|
 | [CVE-2019-1068](https://www.cve.org/CVERecord?id=CVE-2019-1068) | [Vulnerability-Playground/CVE-2019-1068](https://github.com/Vulnerability-Playground/CVE-2019-1068) | Root cause analysis and PoC for a Microsoft SQL Server Stack Overflow Vulnerability by reversing svl.dll. | 2021-02-04T21:40:56Z|
 | [CVE-2019-10475](https://www.cve.org/CVERecord?id=CVE-2019-10475) | [vesche/CVE-2019-10475](https://github.com/vesche/CVE-2019-10475) | no description | 2019-11-06T22:19:01Z|
+| [CVE-2019-1040](https://www.cve.org/CVERecord?id=CVE-2019-1040) | [Ridter/CVE-2019-1040](https://github.com/Ridter/CVE-2019-1040) | CVE-2019-1040 with Exchange | 2019-06-14T11:16:03Z|
+| [CVE-2019-1040](https://www.cve.org/CVERecord?id=CVE-2019-1040) | [Ridter/CVE-2019-1040-dcpwn](https://github.com/Ridter/CVE-2019-1040-dcpwn) | CVE-2019-1040 with Kerberos delegation | 2019-06-18T12:10:26Z|
 | [CVE-2019-10220](https://www.cve.org/CVERecord?id=CVE-2019-10220) | [hshivhare67/kernel_v4.1.15_CVE-2019-10220](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2019-10220) | no description | 2023-04-05T11:51:57Z|
 | [CVE-2019-10220](https://www.cve.org/CVERecord?id=CVE-2019-10220) | [Trinadh465/linux-3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220) | no description | 2022-12-15T05:37:10Z|
 | [CVE-2019-10220](https://www.cve.org/CVERecord?id=CVE-2019-10220) | [nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220) | no description | 2022-12-13T06:36:30Z|
@@ -1817,6 +1843,8 @@
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [kal1gh0st/WhatsAppHACK-RCE](https://github.com/kal1gh0st/WhatsAppHACK-RCE) | Whatsapp remote code execution CVE-2019-11932 https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/ | 2021-03-19T16:41:31Z|
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [bibo318/kali-CVE-2019-0708-lab](https://github.com/bibo318/kali-CVE-2019-0708-lab) | no description | 2021-10-19T06:49:45Z|
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [pywc/CVE-2019-0708](https://github.com/pywc/CVE-2019-0708) | no description | 2021-06-21T03:57:15Z|
+| [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [CircuitSoul/CVE-2019-0708](https://github.com/CircuitSoul/CVE-2019-0708) | POC-CVE-2019-0708 | 2021-06-19T21:55:57Z|
+| [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [at0mik/CVE-2019-0708-PoC](https://github.com/at0mik/CVE-2019-0708-PoC) | CVE-2019-0708-PoC It is a semi-functional exploit capable of remotely accessing a Windows computer by exploiting the aforementioned vulnerability, this repository also contains notes on how to complete the attack. | 2019-06-11T09:38:36Z|
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [jaiguptanick/CVE-2019-0232](https://github.com/jaiguptanick/CVE-2019-0232) | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | 2021-03-25T20:09:54Z|
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) | ES File Explorer Open Port Vulnerability - CVE-2019-6447 | 2019-01-09T22:30:42Z|
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995) | no description | 2022-02-18T03:17:31Z|
