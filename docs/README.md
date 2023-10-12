@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-11 01:49:00.898123
+ Last generated : 2023-10-12 01:45:16.122776
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -18,7 +18,11 @@
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-43874](https://www.cve.org/CVERecord?id=CVE-2023-43874) | [sromanhu/CVE-2023-43874-e107-CMS-Stored-XSS---MetaCustomTags](https://github.com/sromanhu/CVE-2023-43874-e107-CMS-Stored-XSS---MetaCustomTags) | e107 2.3.2 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Copyright and Author field in the Meta &amp; Custom Tags Menu. | 2023-09-19T10:23:08Z|
+| [CVE-2023-43872](https://www.cve.org/CVERecord?id=CVE-2023-43872) | [sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager](https://github.com/sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager) | CMSmadesimple 2.2.18 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T09:54:42Z|
+| [CVE-2023-43871](https://www.cve.org/CVERecord?id=CVE-2023-43871) | [sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media](https://github.com/sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media) | WBCE 1.6.1 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T10:02:34Z|
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z|
+| [CVE-2023-43339](https://www.cve.org/CVERecord?id=CVE-2023-43339) | [sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation](https://github.com/sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation) | CMSmadesimple 2.2.18 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation process. | 2023-09-16T13:35:49Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC) | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | 2023-09-11T23:53:11Z|
@@ -37,6 +41,9 @@
 | [CVE-2023-41508](https://www.cve.org/CVERecord?id=CVE-2023-41508) | [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508) | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:29:37Z|
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z|
+| [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z|
+| [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) | MOC3ingbird Exploit for Live2D (CVE-2023-27566) | 2023-03-03T01:57:28Z|
+| [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit) | Axigen &lt; 10.3.3.47, 10.2.3.12 - Reflected XSS | 2023-09-13T05:59:02Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) | no description | 2023-08-26T15:11:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
@@ -95,6 +102,9 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831) | This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution. | 2023-09-03T21:14:05Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Malwareman007/CVE-2023-38831](https://github.com/Malwareman007/CVE-2023-38831) | CVE-2023-38831 WinRaR Exploit Generator | 2023-09-12T14:07:00Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ameerpornillos/CVE-2023-38831-WinRAR-Exploit](https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit) | Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability | 2023-09-12T16:01:17Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [an040702/CVE-2023-38831](https://github.com/an040702/CVE-2023-38831) | no description | 2023-09-17T05:21:30Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [b1tg/CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit) | CVE-2023-38831 winrar exploit generator | 2023-08-25T09:44:08Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831) | no description | 2023-09-15T12:58:55Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -169,6 +179,7 @@
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) | no description | 2023-08-23T12:07:40Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874) | CVE-2023-36874 Proof of Concept | 2023-08-22T16:27:30Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) | Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE | 2023-08-24T22:24:34Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [vulncheck-oss/cve-2023-36845-scanner](https://github.com/vulncheck-oss/cve-2023-36845-scanner) | A tool to discover Juniper firewalls vulnerable to CVE-2023-36845 | 2023-09-16T09:11:21Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
@@ -176,6 +187,7 @@
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
+| [CVE-2023-36319](https://www.cve.org/CVERecord?id=CVE-2023-36319) | [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319) | exp4CVE-2023-36319 | 2023-09-19T08:17:21Z|
 | [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281) | PoC of CVE-2023-36281 | 2023-08-31T21:31:43Z|
 | [CVE-2023-36250](https://www.cve.org/CVERecord?id=CVE-2023-36250) | [BrunoTeixeira1996/CVE-2023-36250](https://github.com/BrunoTeixeira1996/CVE-2023-36250) | no description | 2023-09-01T23:06:33Z|
 | [CVE-2023-36167](https://www.cve.org/CVERecord?id=CVE-2023-36167) | [TraiLeR2/CVE-2023-36167](https://github.com/TraiLeR2/CVE-2023-36167) | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | 2023-07-08T20:40:05Z|
@@ -495,6 +507,7 @@
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
 | [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818) | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | 2023-08-30T12:40:50Z|
 | [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [im-hanzou/EVCer](https://github.com/im-hanzou/EVCer) | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder &lt; 1.9.1 - Unauthenticated LFI | 2023-09-11T11:36:35Z|
+| [CVE-2023-26607](https://www.cve.org/CVERecord?id=CVE-2023-26607) | [Trinadh465/linux-4.1.15_CVE-2023-26607](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607) | no description | 2023-09-15T06:42:36Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
@@ -611,6 +624,8 @@
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z|
+| [CVE-2023-0099](https://www.cve.org/CVERecord?id=CVE-2023-0099) | [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit) | simple urls &lt; 115 - Reflected XSS | 2023-09-18T06:44:44Z|
+| [CVE-2023-0099](https://www.cve.org/CVERecord?id=CVE-2023-0099) | [luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS) | GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0 | 2023-09-17T23:17:22Z|
 | [CVE-2022-4944](https://www.cve.org/CVERecord?id=CVE-2022-4944) | [MrEmpy/CVE-2022-4944](https://github.com/MrEmpy/CVE-2022-4944) | 「💥」CVE-2022-4944: KodExplorer &lt;= 4.49 - CSRF to Arbitrary File Upload | 2023-04-21T15:09:37Z|
 | [CVE-2022-4939](https://www.cve.org/CVERecord?id=CVE-2022-4939) | [BaconCriCRi/PoC-CVE-2022-4939-](https://github.com/BaconCriCRi/PoC-CVE-2022-4939-) | no description | 2023-04-06T13:34:09Z|
 | [CVE-2022-4931](https://www.cve.org/CVERecord?id=CVE-2022-4931) | [ValeDecem10th/CVE-2022-4931](https://github.com/ValeDecem10th/CVE-2022-4931) | CVE-2022-4931 | 2023-05-20T14:20:15Z|
