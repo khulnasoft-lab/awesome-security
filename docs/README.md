@@ -2,20 +2,23 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-16 01:51:44.776551
+ Last generated : 2023-10-17 01:50:33.515793
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
+| [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
+| [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-44767](https://www.cve.org/CVERecord?id=CVE-2023-44767) | [sromanhu/CVE-2023-44767_RiteCMS-File-Upload--XSS---Filemanager](https://github.com/sromanhu/CVE-2023-44767_RiteCMS-File-Upload--XSS---Filemanager) | RiteCMS 3.0 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-22T13:31:18Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
@@ -50,6 +53,9 @@
 | [CVE-2023-43340](https://www.cve.org/CVERecord?id=CVE-2023-43340) | [sromanhu/-CVE-2023-43340-Evolution-Reflected-XSS---Installation-Admin-Options](https://github.com/sromanhu/-CVE-2023-43340-Evolution-Reflected-XSS---Installation-Admin-Options) | Evolution CMS 3.2.3 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation/options process. | 2023-09-18T06:58:39Z|
 | [CVE-2023-43339](https://www.cve.org/CVERecord?id=CVE-2023-43339) | [sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation](https://github.com/sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation) | CMSmadesimple 2.2.18 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation process. | 2023-09-16T13:35:49Z|
 | [CVE-2023-43154](https://www.cve.org/CVERecord?id=CVE-2023-43154) | [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC) | PoC for the type confusion vulnerability in Mac&#x27;s CMS that results in authentication bypass and administrator account takeover. | 2023-09-09T00:21:58Z|
+| [CVE-2023-4294](https://www.cve.org/CVERecord?id=CVE-2023-4294) | [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294) | Repository for CVE-2023-4294 vulnerability. | 2023-09-24T10:16:03Z|
+| [CVE-2023-4281](https://www.cve.org/CVERecord?id=CVE-2023-4281) | [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281) | Repository for CVE-2023-4281 vulnerability. | 2023-09-24T12:21:19Z|
+| [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
 | [CVE-2023-42426](https://www.cve.org/CVERecord?id=CVE-2023-42426) | [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426) | Repository for CVE-2023-42426 vulnerability. | 2023-09-24T07:34:05Z|
@@ -672,6 +678,8 @@
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z|
+| [CVE-2023-0157](https://www.cve.org/CVERecord?id=CVE-2023-0157) | [b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157) | Repository for CVE-2023-0157 vulnerability. | 2023-09-24T08:20:30Z|
+| [CVE-2023-0156](https://www.cve.org/CVERecord?id=CVE-2023-0156) | [b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156) | Repository for CVE-2023-0156 vulnerability. | 2023-09-24T08:10:31Z|
 | [CVE-2023-0099](https://www.cve.org/CVERecord?id=CVE-2023-0099) | [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit) | simple urls &lt; 115 - Reflected XSS | 2023-09-18T06:44:44Z|
 | [CVE-2023-0099](https://www.cve.org/CVERecord?id=CVE-2023-0099) | [luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS) | GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0 | 2023-09-17T23:17:22Z|
 | [CVE-2022-4944](https://www.cve.org/CVERecord?id=CVE-2022-4944) | [MrEmpy/CVE-2022-4944](https://github.com/MrEmpy/CVE-2022-4944) | 「💥」CVE-2022-4944: KodExplorer &lt;= 4.49 - CSRF to Arbitrary File Upload | 2023-04-21T15:09:37Z|
