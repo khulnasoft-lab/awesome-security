@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-21 01:43:50.590959
+ Last generated : 2023-10-22 01:53:27.161736
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -51,7 +51,10 @@
 | [CVE-2023-43873](https://www.cve.org/CVERecord?id=CVE-2023-43873) | [sromanhu/CVE-2023-43873-e107-CMS-Stored-XSS---Manage](https://github.com/sromanhu/CVE-2023-43873-e107-CMS-Stored-XSS---Manage) | e107 2.3.2 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Name field in the Manage Menu. | 2023-09-19T10:10:13Z|
 | [CVE-2023-43872](https://www.cve.org/CVERecord?id=CVE-2023-43872) | [sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager](https://github.com/sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager) | CMSmadesimple 2.2.18 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T09:54:42Z|
 | [CVE-2023-43871](https://www.cve.org/CVERecord?id=CVE-2023-43871) | [sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media](https://github.com/sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media) | WBCE 1.6.1 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T10:02:34Z|
+| [CVE-2023-43838](https://www.cve.org/CVERecord?id=CVE-2023-43838) | [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838) | Public disclosure for CVE-2023-31584. | 2023-10-02T15:27:07Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC) | PoC for Stored XSS (CVE-2023-43770) Vulnerability | 2023-09-28T13:43:25Z|
+| [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC) | A Proof-Of-Concept for the CVE-2023-43770 vulnerability. | 2023-09-27T17:08:23Z|
+| [CVE-2023-43654](https://www.cve.org/CVERecord?id=CVE-2023-43654) | [OligoCyberSecurity/ShellTorchChecker](https://github.com/OligoCyberSecurity/ShellTorchChecker) | A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654 | 2023-10-02T11:33:37Z|
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z|
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z|
 | [CVE-2023-43359](https://www.cve.org/CVERecord?id=CVE-2023-43359) | [sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu. | 2023-09-17T11:58:54Z|
@@ -123,6 +126,7 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z|
 | [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z|
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z|
@@ -684,6 +688,7 @@
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z|
+| [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z|
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z|
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z|
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z|
