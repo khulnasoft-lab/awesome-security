@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-22 01:53:27.161736
+ Last generated : 2023-10-23 01:50:41.040936
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -695,7 +695,9 @@
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z|
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z|
 | [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z|
+| [CVE-2023-21286](https://www.cve.org/CVERecord?id=CVE-2023-21286) | [Trinadh465/platform_frameworks_base_CVE-2023-21286](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286) | no description | 2023-10-03T10:58:51Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282) | no description | 2023-09-27T12:26:15Z|
+| [CVE-2023-21281](https://www.cve.org/CVERecord?id=CVE-2023-21281) | [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281) | no description | 2023-10-03T10:23:48Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
@@ -1109,6 +1111,7 @@
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Nexolanta/log4j2_CVE-2021-44228](https://github.com/Nexolanta/log4j2_CVE-2021-44228) | no description | 2022-12-30T02:46:33Z|
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [r1skkam/PrintNightmare](https://github.com/r1skkam/PrintNightmare) | Learn about the vulnerability known as PrintNightmare (CVE-2021-1675) and (CVE-2021-34527) | 2022-12-28T01:29:31Z|
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228) | DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka &quot;Log4Shell&quot; | 2022-11-08T15:29:42Z|
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [stripe/log4j-remediation-tools](https://github.com/stripe/log4j-remediation-tools) | Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228) | 2021-12-14T21:47:04Z|
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z|
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z|
 | [CVE-2021-43890](https://www.cve.org/CVERecord?id=CVE-2021-43890) | [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc) | no description | 2022-10-28T01:46:51Z|
