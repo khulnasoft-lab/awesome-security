@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-23 01:50:41.040936
+ Last generated : 2023-10-24 01:49:43.949681
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -396,6 +396,8 @@
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
+| [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC) | CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE] | 2023-10-04T01:12:10Z|
+| [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [markuta/bw-dump](https://github.com/markuta/bw-dump) | A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. | 2022-09-18T21:03:07Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC) | SCM Manager XSS | 2023-06-07T04:20:54Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829) | Proof of Concept about a XSS Stored in SCM Manager 1.2 &lt;= 1.60 | 2023-05-19T13:11:50Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts) | Identifies domains which run WordPress and tests against vulnerabilities (CVE-2023-32243) / #VU76395 / etc... | 2023-05-29T11:42:35Z|
@@ -487,6 +489,7 @@
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419](https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419) | Elasticsearch Stack Overflow Vulnerability | 2023-09-22T02:15:54Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [ayhan-dev/p0ropc](https://github.com/ayhan-dev/p0ropc) | CVE-2023-29336 | 2023-07-27T17:28:41Z|
+| [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419) | Elasticsearch DoS CVE-2023-31419 exploit | 2023-10-03T13:51:37Z|
 | [CVE-2023-3124](https://www.cve.org/CVERecord?id=CVE-2023-3124) | [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124) | CVE-2023-3124 PoC | 2023-09-05T12:32:50Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z|
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z|
@@ -700,6 +703,8 @@
 | [CVE-2023-21281](https://www.cve.org/CVERecord?id=CVE-2023-21281) | [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281) | no description | 2023-10-03T10:23:48Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
+| [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
+| [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-09-25T00:41:45Z|
