@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-24 01:49:43.949681
+ Last generated : 2023-10-25 01:49:33.772209
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -398,6 +398,7 @@
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC) | CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE] | 2023-10-04T01:12:10Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [markuta/bw-dump](https://github.com/markuta/bw-dump) | A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. | 2022-09-18T21:03:07Z|
+| [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831) | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | 2023-09-03T19:25:15Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC) | SCM Manager XSS | 2023-06-07T04:20:54Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829) | Proof of Concept about a XSS Stored in SCM Manager 1.2 &lt;= 1.60 | 2023-05-19T13:11:50Z|
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts) | Identifies domains which run WordPress and tests against vulnerabilities (CVE-2023-32243) / #VU76395 / etc... | 2023-05-29T11:42:35Z|
@@ -638,6 +639,7 @@
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z|
+| [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z|
 | [CVE-2023-2523](https://www.cve.org/CVERecord?id=CVE-2023-2523) | [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523) | no description | 2023-09-25T08:21:06Z|
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) | CVE-2023-25157 - GeoServer SQL Injection - PoC | 2023-06-06T14:05:09Z|
@@ -698,8 +700,11 @@
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z|
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z|
 | [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z|
+| [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288) | no description | 2023-10-04T06:42:19Z|
+| [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [skulkarni-mv/goIssue_dunfell](https://github.com/skulkarni-mv/goIssue_dunfell) | go CVE-2023-24538 patch issue resolver - Dunfell | 2023-09-29T08:09:17Z|
 | [CVE-2023-21286](https://www.cve.org/CVERecord?id=CVE-2023-21286) | [Trinadh465/platform_frameworks_base_CVE-2023-21286](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286) | no description | 2023-10-03T10:58:51Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282) | no description | 2023-09-27T12:26:15Z|
+| [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282](https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282) | no description | 2023-10-04T08:31:10Z|
 | [CVE-2023-21281](https://www.cve.org/CVERecord?id=CVE-2023-21281) | [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281) | no description | 2023-10-03T10:23:48Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
