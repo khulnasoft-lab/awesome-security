@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-26 01:46:14.484019
+ Last generated : 2023-10-27 01:46:50.221585
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -15,6 +15,8 @@
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911) | no description | 2023-10-08T03:26:24Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -32,6 +34,8 @@
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
+| [CVE-2023-44813](https://www.cve.org/CVERecord?id=CVE-2023-44813) | [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | 2023-09-26T16:16:46Z|
+| [CVE-2023-44812](https://www.cve.org/CVERecord?id=CVE-2023-44812) | [ahrixia/CVE-2023-44812](https://github.com/ahrixia/CVE-2023-44812) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | 2023-09-26T15:47:50Z|
 | [CVE-2023-44811](https://www.cve.org/CVERecord?id=CVE-2023-44811) | [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811) | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | 2023-09-26T15:25:42Z|
 | [CVE-2023-44771](https://www.cve.org/CVERecord?id=CVE-2023-44771) | [sromanhu/CVE-2023-44771_ZenarioCMS--Stored-XSS---Page-Layout](https://github.com/sromanhu/CVE-2023-44771_ZenarioCMS--Stored-XSS---Page-Layout) | Zenariocms 9.4.59197 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Layout | 2023-09-28T23:02:00Z|
 | [CVE-2023-44770](https://www.cve.org/CVERecord?id=CVE-2023-44770) | [sromanhu/CVE-2023-44770_ZenarioCMS--Reflected-XSS---Organizer-Alias](https://github.com/sromanhu/CVE-2023-44770_ZenarioCMS--Reflected-XSS---Organizer-Alias) | Zenariocms 9.4.59197 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Spare alias from organizer. | 2023-09-28T23:18:07Z|
@@ -95,6 +99,7 @@
 | [CVE-2023-4281](https://www.cve.org/CVERecord?id=CVE-2023-4281) | [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281) | Repository for CVE-2023-4281 vulnerability. | 2023-09-24T12:21:19Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793) | CVE-2023-42793 | 2023-09-29T06:43:35Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion) | Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129 | 2023-09-29T00:42:37Z|
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793) | TeamCity JetBrains PoC (CVE-2023-42793) | 2023-10-07T10:23:12Z|
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
@@ -104,6 +109,7 @@
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [actuator/com.full.dialer.top.secure.encrypted](https://github.com/actuator/com.full.dialer.top.secure.encrypted) | CVE-2023-42469 | 2023-09-02T17:11:58Z|
 | [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z|
+| [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
 | [CVE-2023-41717](https://www.cve.org/CVERecord?id=CVE-2023-41717) | [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717) | This repository is to provide a write-up and PoC for CVE-2023-41717. | 2023-08-31T08:10:22Z|
@@ -131,6 +137,7 @@
 | [CVE-2023-40868](https://www.cve.org/CVERecord?id=CVE-2023-40868) | [MinoTauro2020/CVE-2023-40868](https://github.com/MinoTauro2020/CVE-2023-40868) | Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions. | 2023-09-02T00:24:22Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC) | CVE-2023-40477 PoC by Wild-Pointer | 2023-08-29T16:29:48Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831) | no description | 2023-08-30T10:48:04Z|
+| [CVE-2023-40429](https://www.cve.org/CVERecord?id=CVE-2023-40429) | [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name) | CVE-2023-40429: An app may be able to access sensitive user data. | 2023-10-09T21:52:56Z|
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
@@ -208,6 +215,8 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [ncusi/secret_life_of_CVEs](https://github.com/ncusi/secret_life_of_CVEs) | Scripts and code for &quot;The Secret Life of CVEs&quot;, presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge | 2023-03-17T10:24:09Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646) | Tools to exploit metabase CVE-2023-38646 | 2023-07-31T05:25:37Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [kh4sh3i/CVE-2023-38646](https://github.com/kh4sh3i/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646) | 2023-08-19T11:47:08Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646) | CVE-2023-38646 Pre-Auth RCE in Metabase | 2023-10-08T14:52:35Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646) | no description | 2023-10-08T07:36:57Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
@@ -222,6 +231,7 @@
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836) | 大华智慧园区综合管理平台publishing文件上传 | 2023-08-30T12:11:42Z|
 | [CVE-2023-3812](https://www.cve.org/CVERecord?id=CVE-2023-3812) | [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812) | no description | 2023-09-06T06:03:40Z|
 | [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
+| [CVE-2023-37988](https://www.cve.org/CVERecord?id=CVE-2023-37988) | [codeb0ss/CVE-2023-37988-PoC](https://github.com/codeb0ss/CVE-2023-37988-PoC) | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator &lt; Reflected Cross-Site Scripting [RXSS] | 2023-10-07T23:40:53Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Fire-Null/CVE-2023-37979](https://github.com/Fire-Null/CVE-2023-37979) | CVE-2023-37979 | 2023-08-01T11:13:29Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [Mehran-Seifalinia/CVE-2023-37979](https://github.com/Mehran-Seifalinia/CVE-2023-37979) | no description | 2023-08-01T11:40:14Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
@@ -278,6 +288,8 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845](https://github.com/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845) | PoC &amp; vulnerability detector for Juniper EX switches and SRX firewalls | 2023-10-01T18:05:21Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [simrotion13/CVE-2023-36845](https://github.com/simrotion13/CVE-2023-36845) | no description | 2023-10-01T03:41:40Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [GTGalaxi/ElectronVulnerableVersion](https://github.com/GTGalaxi/ElectronVulnerableVersion) | Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129 | 2023-09-30T02:47:16Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [zaenhaxor/CVE-2023-36845](https://github.com/zaenhaxor/CVE-2023-36845) | CVE-2023-36845 - Juniper Firewall Remote code execution (RCE) | 2023-09-29T03:11:37Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker) | A tool for finding vulnerable libwebp(CVE-2023-4863) | 2023-10-05T03:28:23Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
@@ -397,6 +409,7 @@
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040) | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | 2023-08-30T12:09:15Z|
+| [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [pyn3rd/CVE-2023-34040](https://github.com/pyn3rd/CVE-2023-34040) | Spring-Kafka-Deserialization-Remote-Code-Execution | 2023-09-28T11:18:35Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | 2023-09-01T16:17:10Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [ayhan-dev/CVE](https://github.com/ayhan-dev/CVE) | CVE-2023 | 2023-08-28T15:53:25Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039) | VMware exploit | 2023-09-02T07:56:06Z|
@@ -463,6 +476,7 @@
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts) | Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher | 2023-08-04T18:28:52Z|
+| [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629) | GameOver(lay) Ubuntu Privilege Escalation | 2023-10-09T22:02:42Z|
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z|
@@ -720,6 +734,7 @@
 | [CVE-2023-21275](https://www.cve.org/CVERecord?id=CVE-2023-21275) | [Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275](https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275) | no description | 2023-10-05T10:30:41Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272) | no description | 2023-10-05T08:13:35Z|
+| [CVE-2023-21246](https://www.cve.org/CVERecord?id=CVE-2023-21246) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246) | no description | 2023-10-09T07:33:24Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
