@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-27 01:46:50.221585
+ Last generated : 2023-10-28 01:42:58.185108
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -89,6 +89,7 @@
 | [CVE-2023-43325](https://www.cve.org/CVERecord?id=CVE-2023-43325) | [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325) | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | 2023-09-16T01:05:16Z|
 | [CVE-2023-43323](https://www.cve.org/CVERecord?id=CVE-2023-43323) | [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323) | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | 2023-09-16T01:28:58Z|
 | [CVE-2023-43284](https://www.cve.org/CVERecord?id=CVE-2023-43284) | [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284) | DLink DIR-846 Authenticated Remote Code Execution | 2023-10-04T13:07:37Z|
+| [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [nomis/eero-zero-length-ipv6-options-header-dos](https://github.com/nomis/eero-zero-length-ipv6-options-header-dos) | eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324) | 2023-09-30T20:32:51Z|
 | [CVE-2023-43154](https://www.cve.org/CVERecord?id=CVE-2023-43154) | [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC) | PoC for the type confusion vulnerability in Mac&#x27;s CMS that results in authentication bypass and administrator account takeover. | 2023-09-09T00:21:58Z|
@@ -606,6 +607,7 @@
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [praetorian-inc/zeroqlik-detect](https://github.com/praetorian-inc/zeroqlik-detect) | A Nuclei template to detect ZeroQlik (CVE-2023-41265 and CVE-2023-41266) | 2023-08-30T16:15:19Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524) | Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset | 2023-04-25T04:59:05Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE) | no description | 2023-09-08T06:15:00Z|
+| [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-) | Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524) | 2023-10-10T08:23:57Z|
 | [CVE-2023-27470](https://www.cve.org/CVERecord?id=CVE-2023-27470) | [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise) | no description | 2023-09-11T08:04:08Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC) | CVE-2023-27372-SPIP-CMS-Bypass | 2023-07-11T10:00:04Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [RSTG0D/CVE-2023-27372-PoC](https://github.com/RSTG0D/CVE-2023-27372-PoC) | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell. | 2023-07-05T14:41:03Z|
@@ -735,6 +737,8 @@
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272) | no description | 2023-10-05T08:13:35Z|
 | [CVE-2023-21246](https://www.cve.org/CVERecord?id=CVE-2023-21246) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246) | no description | 2023-10-09T07:33:24Z|
+| [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
+| [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
