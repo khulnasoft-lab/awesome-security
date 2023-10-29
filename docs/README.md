@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-28 01:42:58.185108
+ Last generated : 2023-10-29 01:52:11.136806
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911) | no description | 2023-10-08T03:26:24Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables) | CVE-2023-4911 | 2023-10-10T13:29:11Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -218,6 +219,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [kh4sh3i/CVE-2023-38646](https://github.com/kh4sh3i/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646) | 2023-08-19T11:47:08Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646) | CVE-2023-38646 Pre-Auth RCE in Metabase | 2023-10-08T14:52:35Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646) | no description | 2023-10-08T07:36:57Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-) | Metabase H2 远程代码执行漏洞(CVE-2023-38646) | 2023-10-10T08:45:14Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
@@ -490,6 +492,7 @@
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [5rGJ5aCh5oCq5YW9/CVE-2023-32315exp](https://github.com/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp) | no description | 2023-06-15T01:11:56Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315) | no description | 2023-06-14T09:17:25Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315) | Tool for CVE-2023-32315 exploitation | 2023-08-31T08:43:44Z|
+| [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [CN016/Openfire-RCE-CVE-2023-32315-](https://github.com/CN016/Openfire-RCE-CVE-2023-32315-) | Openfire未授权到RCE(CVE-2023-32315)复现 | 2023-10-10T08:48:42Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [Jenderal92/WP-CVE-2023-32243](https://github.com/Jenderal92/WP-CVE-2023-32243) | Python 2.7 | 2023-07-03T04:16:16Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept) | no description | 2023-06-26T08:17:47Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243) | CVE-2023-32243 - Essential Addons for Elementor 5.4.0-5.7.1 - Unauthenticated Privilege Escalation | 2023-05-15T09:39:45Z|
@@ -547,6 +550,7 @@
 | [CVE-2023-30146](https://www.cve.org/CVERecord?id=CVE-2023-30146) | [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146) | Some Assmann manufactured IP-Cams leak the administrator password in their backup. | 2023-06-08T18:18:47Z|
 | [CVE-2023-3009](https://www.cve.org/CVERecord?id=CVE-2023-3009) | [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009) | Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi | 2023-05-31T16:23:23Z|
 | [CVE-2023-29923](https://www.cve.org/CVERecord?id=CVE-2023-29923) | [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923) | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | 2023-05-29T05:48:35Z|
+| [CVE-2023-29922](https://www.cve.org/CVERecord?id=CVE-2023-29922) | [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-) | Powerjob 未授权访问漏洞(CVE-2023-29922) | 2023-10-10T08:35:00Z|
 | [CVE-2023-2986](https://www.cve.org/CVERecord?id=CVE-2023-2986) | [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986) | Proof of Concept for vulnerability CVE-2023-2986 in &#x27;Abandoned Cart Lite for WooCommerce&#x27; Plugin in WordPress | 2023-06-09T17:44:09Z|
 | [CVE-2023-2986](https://www.cve.org/CVERecord?id=CVE-2023-2986) | [Alucard0x1/CVE-2023-2986](https://github.com/Alucard0x1/CVE-2023-2986) | Proof of Concept for vulnerability CVE-2023-2986 in &#x27;Abandoned Cart Lite for WooCommerce&#x27; Plugin in WordPress in Python Version | 2023-06-13T20:35:03Z|
 | [CVE-2023-2982](https://www.cve.org/CVERecord?id=CVE-2023-2982) | [H4K6/CVE-2023-2982-POC](https://github.com/H4K6/CVE-2023-2982-POC) | WordPress社交登录和注册（Discord，Google，Twitter，LinkedIn）&lt;=7.6.4-绕过身份验证 | 2023-06-30T09:15:02Z|
@@ -564,6 +568,7 @@
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325) | no description | 2023-06-07T07:51:59Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325) | no description | 2023-06-19T12:57:43Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [daniloalbuqrque/poc-cve-xss-inventory-press-plugin](https://github.com/daniloalbuqrque/poc-cve-xss-inventory-press-plugin) | PoC for CVE-2023-2579 | 2023-04-21T16:22:10Z|
+| [CVE-2023-2928](https://www.cve.org/CVERecord?id=CVE-2023-2928) | [CN016/DedeCMS-getshell-CVE-2023-2928-](https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-) | DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现 | 2023-10-10T08:46:17Z|
 | [CVE-2023-2916](https://www.cve.org/CVERecord?id=CVE-2023-2916) | [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916) | CVE-2023-2916 PoC | 2023-08-15T13:51:38Z|
 | [CVE-2023-28771](https://www.cve.org/CVERecord?id=CVE-2023-28771) | [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771) | The script is designed to facilitate testing and exploration of the IKEv2 protocol in vulnerable devices, based on Rapid7&#x27;s exploitation techniques. | 2023-06-03T15:40:50Z|
 | [CVE-2023-2877](https://www.cve.org/CVERecord?id=CVE-2023-2877) | [RandomRobbieBF/CVE-2023-2877](https://github.com/RandomRobbieBF/CVE-2023-2877) | Formidable Forms &lt; 6.3.1 - Subscriber+ Remote Code Execution | 2023-06-28T10:34:08Z|
@@ -619,6 +624,7 @@
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [ErikWynter/opentsdb_key_cmd_injection](https://github.com/ErikWynter/opentsdb_key_cmd_injection) | An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran | 2023-09-07T13:47:13Z|
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363) | 福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现 | 2023-06-14T01:18:09Z|
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363) | no description | 2023-05-15T16:09:19Z|
+| [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-) | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | 2023-10-10T08:52:08Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350) | Python 2.7 | 2023-06-13T22:13:24Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350) | Perfom With Massive Authentication Bypass In PaperCut MF/NG | 2023-05-27T11:32:35Z|
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) | CVE-2023-34312 | 2023-05-27T12:44:42Z|
