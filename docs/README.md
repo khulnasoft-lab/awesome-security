@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-29 01:52:11.136806
+ Last generated : 2023-10-30 01:50:54.023864
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -297,6 +297,8 @@
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE) | A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr . | 2023-09-24T13:30:09Z|
+| [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) | LPE exploit for CVE-2023-36802 | 2023-10-09T17:32:15Z|
+| [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
@@ -563,6 +565,7 @@
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z|
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z|
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357) | Microsoft SharePoint Server Elevation of Privilege Vulnerability | 2023-09-26T16:18:41Z|
+| [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE) | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | 2023-10-10T13:41:21Z|
 | [CVE-2023-29343](https://www.cve.org/CVERecord?id=CVE-2023-29343) | [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343) | no description | 2023-06-18T11:14:08Z|
 | [CVE-2023-29336](https://www.cve.org/CVERecord?id=CVE-2023-29336) | [m-cetin/CVE-2023-29336](https://github.com/m-cetin/CVE-2023-29336) | no description | 2023-06-09T15:36:45Z|
 | [CVE-2023-29325](https://www.cve.org/CVERecord?id=CVE-2023-29325) | [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325) | no description | 2023-06-07T07:51:59Z|
