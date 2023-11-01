@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-10-31 01:50:34.484899
+ Last generated : 2023-11-01 01:54:11.534375
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
+| [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -105,6 +106,7 @@
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793) | CVE-2023-42793 | 2023-09-29T06:43:35Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion) | Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129 | 2023-09-29T00:42:37Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793) | TeamCity JetBrains PoC (CVE-2023-42793) | 2023-10-07T10:23:12Z|
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793) | PoC of CVE-2023-42793 | 2023-10-05T18:12:25Z|
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
@@ -223,8 +225,10 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646) | CVE-2023-38646 Pre-Auth RCE in Metabase | 2023-10-08T14:52:35Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646) | no description | 2023-10-08T07:36:57Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-) | Metabase H2 远程代码执行漏洞(CVE-2023-38646) | 2023-10-10T08:45:14Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646) | CVE-2023-38646 (Pre-Auth RCE in Metabase) | 2023-10-08T00:21:07Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -720,6 +724,7 @@
 | [CVE-2023-22960](https://www.cve.org/CVERecord?id=CVE-2023-22960) | [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960) | This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication. | 2023-01-24T08:33:19Z|
 | [CVE-2023-22906](https://www.cve.org/CVERecord?id=CVE-2023-22906) | [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906) | Proof of Concept for CVE-2023-22906 | 2023-05-03T20:52:19Z|
 | [CVE-2023-22884](https://www.cve.org/CVERecord?id=CVE-2023-22884) | [jakabakos/CVE-2023-22884-Airflow-SQLi](https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi) | CVE-2023-22884 PoC | 2023-07-29T09:26:36Z|
+| [CVE-2023-22855](https://www.cve.org/CVERecord?id=CVE-2023-22855) | [vianic/CVE-2023-22855](https://github.com/vianic/CVE-2023-22855) | Security Vulnerability - Kardex Mlog MCC | 2023-10-11T14:27:08Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809) | no description | 2023-07-10T06:38:14Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [pashayogi/CVE-2023-22809](https://github.com/pashayogi/CVE-2023-22809) | no description | 2023-06-25T15:11:01Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Chan9Yan9/CVE-2023-22809](https://github.com/Chan9Yan9/CVE-2023-22809) | Analysis &amp; Exploit | 2023-06-20T00:38:08Z|
@@ -1443,6 +1448,7 @@
 | [CVE-2020-8835](https://www.cve.org/CVERecord?id=CVE-2020-8835) | [johnatag/INF8602-CVE-2020-8835](https://github.com/johnatag/INF8602-CVE-2020-8835) | no description | 2023-03-20T18:17:40Z|
 | [CVE-2020-8825](https://www.cve.org/CVERecord?id=CVE-2020-8825) | [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825) | VanillaForum 2.6.3 allows stored XSS. | 2020-02-10T07:24:37Z|
 | [CVE-2020-8813](https://www.cve.org/CVERecord?id=CVE-2020-8813) | [p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime](https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime) | CVE-2020-8813 - RCE through graph_realtime.php in Cacti 1.2.8 | 2022-09-30T11:23:52Z|
+| [CVE-2020-8423](https://www.cve.org/CVERecord?id=CVE-2020-8423) | [lnversed/CVE-2020-8423](https://github.com/lnversed/CVE-2020-8423) | Research based on https://ktln2.org/2020/03/29/exploiting-mips-router/#testing-environment | 2022-09-20T21:13:53Z|
 | [CVE-2020-8417](https://www.cve.org/CVERecord?id=CVE-2020-8417) | [Vulnmachines/WordPress_CVE-2020-8417](https://github.com/Vulnmachines/WordPress_CVE-2020-8417) | CSRF Code snippet vulnerability CVE-2020-8417 | 2021-02-19T20:37:23Z|
 | [CVE-2020-8193](https://www.cve.org/CVERecord?id=CVE-2020-8193) | [PR3R00T/CVE-2020-8193-Citrix-Scanner](https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner) | Scanning for CVE-2020-8193 - Auth Bypass check | 2020-07-13T10:36:43Z|
 | [CVE-2020-8165](https://www.cve.org/CVERecord?id=CVE-2020-8165) | [masahiro331/CVE-2020-8165](https://github.com/masahiro331/CVE-2020-8165) | no description | 2020-05-20T04:27:52Z|
