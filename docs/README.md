@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-01 01:54:11.534375
+ Last generated : 2023-11-02 01:49:27.191581
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911) | no description | 2023-10-08T03:26:24Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables) | CVE-2023-4911 | 2023-10-10T13:29:11Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911) | CVE-2023-4911 | 2023-10-11T14:49:22Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -39,6 +40,7 @@
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
+| [CVE-2023-44961](https://www.cve.org/CVERecord?id=CVE-2023-44961) | [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961) | PoC for CVE-2023-44961 | 2023-10-05T07:27:45Z|
 | [CVE-2023-44813](https://www.cve.org/CVERecord?id=CVE-2023-44813) | [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | 2023-09-26T16:16:46Z|
 | [CVE-2023-44812](https://www.cve.org/CVERecord?id=CVE-2023-44812) | [ahrixia/CVE-2023-44812](https://github.com/ahrixia/CVE-2023-44812) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | 2023-09-26T15:47:50Z|
 | [CVE-2023-44811](https://www.cve.org/CVERecord?id=CVE-2023-44811) | [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811) | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | 2023-09-26T15:25:42Z|
@@ -56,6 +58,7 @@
 | [CVE-2023-44758](https://www.cve.org/CVERecord?id=CVE-2023-44758) | [sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title](https://github.com/sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title) | GDidees CMS 3.9.2 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Title | 2023-09-25T13:07:05Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487) | Test Script for CVE-2023-44487 | 2023-10-12T03:14:34Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/Stored-xss](https://github.com/soundarkutty/Stored-xss) | Got My CVE Published CVE-2023-41575 | 2023-08-26T09:26:35Z|
 | [CVE-2023-43879](https://www.cve.org/CVERecord?id=CVE-2023-43879) | [sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent](https://github.com/sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent) | About RiteCMS 3.0 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Global Content Blocks in the Administration Menu | 2023-09-22T13:14:02Z|
@@ -110,6 +113,7 @@
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
+| [CVE-2023-42442](https://www.cve.org/CVERecord?id=CVE-2023-42442) | [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442) | no description | 2023-09-27T05:09:20Z|
 | [CVE-2023-42426](https://www.cve.org/CVERecord?id=CVE-2023-42426) | [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426) | Repository for CVE-2023-42426 vulnerability. | 2023-09-24T07:34:05Z|
 | [CVE-2023-42413](https://www.cve.org/CVERecord?id=CVE-2023-42413) | [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413) | ecology_9_sql | 2023-09-24T06:17:33Z|
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC) | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | 2023-09-11T23:53:11Z|
@@ -226,6 +230,10 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646) | no description | 2023-10-08T07:36:57Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-) | Metabase H2 远程代码执行漏洞(CVE-2023-38646) | 2023-10-10T08:45:14Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646) | CVE-2023-38646 (Pre-Auth RCE in Metabase) | 2023-10-08T00:21:07Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [passwa11/CVE-2023-38646](https://github.com/passwa11/CVE-2023-38646) | no description | 2023-10-12T02:24:12Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [juweihuitao/MpOperationLogs](https://github.com/juweihuitao/MpOperationLogs) | CVE-2023-5538 - MpOperationLogs &lt;= 1.0.1 - 未经身份验证的存储跨站点脚本 | 2023-10-12T01:15:09Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc) | This is a script written in Python that allows the exploitation of the Metabase&#x27;s software security flaw in the described in CVE 2023-38646. | 2023-10-09T00:26:38Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646) | CVE-2023-38646 Metabase 0.46.6 exploit | 2023-10-11T15:18:25Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
