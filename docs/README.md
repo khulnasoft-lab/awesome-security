@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-02 01:49:27.191581
+ Last generated : 2023-11-03 01:50:33.407950
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -105,6 +105,7 @@
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [skulkarni-mv/goIssue_kirkstone](https://github.com/skulkarni-mv/goIssue_kirkstone) | go CVE-2023-24538 patch issue resolver - Kirkstone | 2023-09-29T17:18:42Z|
 | [CVE-2023-4294](https://www.cve.org/CVERecord?id=CVE-2023-4294) | [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294) | Repository for CVE-2023-4294 vulnerability. | 2023-09-24T10:16:03Z|
 | [CVE-2023-42820](https://www.cve.org/CVERecord?id=CVE-2023-42820) | [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820) | CVE-2023-42820 | 2023-09-27T08:06:28Z|
+| [CVE-2023-42820](https://www.cve.org/CVERecord?id=CVE-2023-42820) | [Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820) | JumpServer | 2023-10-11T03:15:30Z|
 | [CVE-2023-4281](https://www.cve.org/CVERecord?id=CVE-2023-4281) | [b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281) | Repository for CVE-2023-4281 vulnerability. | 2023-09-24T12:21:19Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793) | CVE-2023-42793 | 2023-09-29T06:43:35Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion) | Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129 | 2023-09-29T00:42:37Z|
@@ -205,6 +206,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831) | no description | 2023-09-15T12:58:55Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [malvika-thakur/CVE-2023-38831](https://github.com/malvika-thakur/CVE-2023-38831) | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | 2023-09-21T06:08:30Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [elefantesagradodeluzinfinita/cve-2023-38831](https://github.com/elefantesagradodeluzinfinita/cve-2023-38831) | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | 2023-09-19T12:47:12Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ruycr4ft/CVE-2023-38831](https://github.com/ruycr4ft/CVE-2023-38831) | no description | 2023-10-12T12:46:35Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -234,9 +236,11 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [juweihuitao/MpOperationLogs](https://github.com/juweihuitao/MpOperationLogs) | CVE-2023-5538 - MpOperationLogs &lt;= 1.0.1 - 未经身份验证的存储跨站点脚本 | 2023-10-12T01:15:09Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc) | This is a script written in Python that allows the exploitation of the Metabase&#x27;s software security flaw in the described in CVE 2023-38646. | 2023-10-09T00:26:38Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646) | CVE-2023-38646 Metabase 0.46.6 exploit | 2023-10-11T15:18:25Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [nickswink/CVE-2023-38646](https://github.com/nickswink/CVE-2023-38646) | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase | 2023-10-11T20:17:14Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545) | 😄 CVE-2023-38545堆溢出的POC和分析文章 | 2023-10-12T07:16:49Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -367,6 +371,7 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [BishopFox/CVE-2023-3519](https://github.com/BishopFox/CVE-2023-3519) | RCE exploit for CVE-2023-3519 | 2023-07-21T20:17:43Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519) | no description | 2023-08-10T18:22:57Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck) | Script for checking CVE-2023-3519 for Backdoors | 2023-08-31T09:10:30Z|
+| [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519) | exploit CVE-2023-3519 | 2023-10-12T15:11:55Z|
 | [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
@@ -742,6 +747,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
+| [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
@@ -760,10 +766,13 @@
 | [CVE-2023-21284](https://www.cve.org/CVERecord?id=CVE-2023-21284) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284) | no description | 2023-10-05T09:10:47Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282) | no description | 2023-09-27T12:26:15Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282](https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282) | no description | 2023-10-04T08:31:10Z|
+| [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282) | no description | 2023-10-12T07:22:49Z|
+| [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset) | CVE-2023-44487 | 2023-10-12T07:06:42Z|
 | [CVE-2023-21281](https://www.cve.org/CVERecord?id=CVE-2023-21281) | [Trinadh465/platform_frameworks_base_CVE-2023-21281](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281) | no description | 2023-10-03T10:23:48Z|
 | [CVE-2023-21275](https://www.cve.org/CVERecord?id=CVE-2023-21275) | [Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275](https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275) | no description | 2023-10-05T10:30:41Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272) | no description | 2023-10-05T08:13:35Z|
+| [CVE-2023-21251](https://www.cve.org/CVERecord?id=CVE-2023-21251) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251) | no description | 2023-10-12T07:30:13Z|
 | [CVE-2023-21246](https://www.cve.org/CVERecord?id=CVE-2023-21246) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246) | no description | 2023-10-09T07:33:24Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
