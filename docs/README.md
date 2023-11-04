@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-03 01:50:33.407950
+ Last generated : 2023-11-04 01:48:41.443829
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -101,6 +101,9 @@
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [nomis/eero-zero-length-ipv6-options-header-dos](https://github.com/nomis/eero-zero-length-ipv6-options-header-dos) | eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324) | 2023-09-30T20:32:51Z|
 | [CVE-2023-43154](https://www.cve.org/CVERecord?id=CVE-2023-43154) | [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC) | PoC for the type confusion vulnerability in Mac&#x27;s CMS that results in authentication bypass and administrator account takeover. | 2023-09-09T00:21:58Z|
+| [CVE-2023-43149](https://www.cve.org/CVERecord?id=CVE-2023-43149) | [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149) | CVE-2023-43149 | 2023-10-12T16:11:39Z|
+| [CVE-2023-43148](https://www.cve.org/CVERecord?id=CVE-2023-43148) | [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148) | CVE CSRF DELETE ACCOUNT | 2023-09-16T11:48:44Z|
+| [CVE-2023-43147](https://www.cve.org/CVERecord?id=CVE-2023-43147) | [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147) | CVE-2023-43148 | 2023-10-11T18:55:40Z|
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115) | A small write-up with examples to understand CVE-2023-43115 | 2023-09-28T17:30:06Z|
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [skulkarni-mv/goIssue_kirkstone](https://github.com/skulkarni-mv/goIssue_kirkstone) | go CVE-2023-24538 patch issue resolver - Kirkstone | 2023-09-29T17:18:42Z|
 | [CVE-2023-4294](https://www.cve.org/CVERecord?id=CVE-2023-4294) | [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294) | Repository for CVE-2023-4294 vulnerability. | 2023-09-24T10:16:03Z|
@@ -140,6 +143,7 @@
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) | MOC3ingbird Exploit for Live2D (CVE-2023-27566) | 2023-03-03T01:57:28Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit) | Axigen &lt; 10.3.3.47, 10.2.3.12 - Reflected XSS | 2023-09-13T05:59:02Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [nidhi7598/linux-4.19.72_CVE-2023-4128](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128) | no description | 2023-09-20T04:43:28Z|
+| [CVE-2023-41105](https://www.cve.org/CVERecord?id=CVE-2023-41105) | [JawadPy/CVE-2023-41105-Exploit](https://github.com/JawadPy/CVE-2023-41105-Exploit) | Example of CVE-2023-41105 | 2023-10-05T00:32:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) | no description | 2023-08-26T15:11:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z|
@@ -584,6 +588,7 @@
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489) | CVE-2023-29489-XSS | 2023-06-01T18:13:17Z|
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z|
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z|
+| [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360) | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | 2023-09-24T21:59:23Z|
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357) | Microsoft SharePoint Server Elevation of Privilege Vulnerability | 2023-09-26T16:18:41Z|
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE) | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | 2023-10-10T13:41:21Z|
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [LuemmelSec/CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357) | no description | 2023-09-30T23:17:04Z|
@@ -632,6 +637,9 @@
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [Pik-sec/cve-2023-27997](https://github.com/Pik-sec/cve-2023-27997) | cve-2023-27997 | 2023-06-15T05:37:16Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz) | POC FortiOS SSL-VPN buffer overflow vulnerability | 2023-06-13T11:00:54Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [Cyb3rEnthusiast/CVE-2023-27997](https://github.com/Cyb3rEnthusiast/CVE-2023-27997) | How to get access via CVE-2022-27997 | 2023-09-03T10:01:24Z|
+| [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [Aicks/FortiGate-CVE-2023-27997](https://github.com/Aicks/FortiGate-CVE-2023-27997) | FortiGate exploit  CVE-2023-27997 | 2023-10-12T19:43:46Z|
+| [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [delsploit/CVE-2023-27997](https://github.com/delsploit/CVE-2023-27997) | no description | 2023-10-12T17:50:38Z|
+| [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997) | xortigate-cve-2023-27997 | 2023-10-12T16:12:41Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524) | Perform With Apache-SuperSet Leaked Token [CSRF] | 2023-05-04T21:43:48Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524) | CVE-2023-27524 | 2023-08-30T20:59:28Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [praetorian-inc/zeroqlik-detect](https://github.com/praetorian-inc/zeroqlik-detect) | A Nuclei template to detect ZeroQlik (CVE-2023-41265 and CVE-2023-41266) | 2023-08-30T16:15:19Z|
@@ -746,6 +754,7 @@
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
@@ -772,6 +781,7 @@
 | [CVE-2023-21275](https://www.cve.org/CVERecord?id=CVE-2023-21275) | [Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275](https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275) | no description | 2023-10-05T10:30:41Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272) | no description | 2023-09-26T10:28:51Z|
 | [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272) | no description | 2023-10-05T08:13:35Z|
+| [CVE-2023-21272](https://www.cve.org/CVERecord?id=CVE-2023-21272) | [nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272) | no description | 2023-10-13T05:00:29Z|
 | [CVE-2023-21251](https://www.cve.org/CVERecord?id=CVE-2023-21251) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251) | no description | 2023-10-12T07:30:13Z|
 | [CVE-2023-21246](https://www.cve.org/CVERecord?id=CVE-2023-21246) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246) | no description | 2023-10-09T07:33:24Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
