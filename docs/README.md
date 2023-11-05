@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-04 01:48:41.443829
+ Last generated : 2023-11-05 01:54:38.877478
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -71,6 +71,7 @@
 | [CVE-2023-43872](https://www.cve.org/CVERecord?id=CVE-2023-43872) | [sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager](https://github.com/sromanhu/CVE-2023-43872-CMSmadesimple-Arbitrary-File-Upload--XSS---File-Manager) | CMSmadesimple 2.2.18 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T09:54:42Z|
 | [CVE-2023-43871](https://www.cve.org/CVERecord?id=CVE-2023-43871) | [sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media](https://github.com/sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media) | WBCE 1.6.1 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T10:02:34Z|
 | [CVE-2023-43838](https://www.cve.org/CVERecord?id=CVE-2023-43838) | [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838) | Public disclosure for CVE-2023-31584. | 2023-10-02T15:27:07Z|
+| [CVE-2023-43804](https://www.cve.org/CVERecord?id=CVE-2023-43804) | [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit) | Example of how CVE-2023-43804 works with real python code. | 2023-10-13T06:15:45Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC) | PoC for Stored XSS (CVE-2023-43770) Vulnerability | 2023-09-28T13:43:25Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC) | A Proof-Of-Concept for the CVE-2023-43770 vulnerability. | 2023-09-27T17:08:23Z|
 | [CVE-2023-43654](https://www.cve.org/CVERecord?id=CVE-2023-43654) | [OligoCyberSecurity/ShellTorchChecker](https://github.com/OligoCyberSecurity/ShellTorchChecker) | A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654 | 2023-10-02T11:33:37Z|
@@ -245,6 +246,7 @@
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545) | 😄 CVE-2023-38545堆溢出的POC和分析文章 | 2023-10-12T07:16:49Z|
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [vanigori/CVE-2023-38545-sample](https://github.com/vanigori/CVE-2023-38545-sample) | Dockerfile containing all the necessary setup files to demo the exploit | 2023-10-12T16:48:26Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -550,6 +552,7 @@
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943) | CVE-2023-30943  RCE PoC | 2023-08-31T08:18:17Z|
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943) | A Python-based tool to detect the CVE-2023-30943 vulnerability in Moodle, which allows unauthorized folder creation via specially crafted requests in TinyMCE loaders. | 2023-09-07T13:25:55Z|
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [lucas-cauhe/cargo-perm](https://github.com/lucas-cauhe/cargo-perm) | Cargo exploit from CVE-2023-38497 | 2023-08-04T16:36:10Z|
+| [CVE-2023-30861](https://www.cve.org/CVERecord?id=CVE-2023-30861) | [JawadPy/CVE-2023-30861-Exploit](https://github.com/JawadPy/CVE-2023-30861-Exploit) | Explaining how to exploit CVE-2023-30861 | 2023-10-13T08:27:03Z|
 | [CVE-2023-30845](https://www.cve.org/CVERecord?id=CVE-2023-30845) | [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845) | Explore CVE 2023-30845 automatically across multiple subdomains | 2023-09-22T01:14:20Z|
 | [CVE-2023-3079](https://www.cve.org/CVERecord?id=CVE-2023-3079) | [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) | no description | 2023-08-15T04:16:46Z|
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
@@ -726,6 +729,7 @@
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488) | Tools to perform exploit CVE-2023-24488 | 2023-07-31T11:29:16Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC) | no description | 2023-08-17T10:33:52Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test) | no description | 2023-08-18T16:53:11Z|
+| [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit) | Example of CVE-2023-24329 | 2023-10-05T01:55:05Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z|
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z|
 | [CVE-2023-23946](https://www.cve.org/CVERecord?id=CVE-2023-23946) | [bruno-1337/CVE-2023-23946-POC](https://github.com/bruno-1337/CVE-2023-23946-POC) | Explanation and POC of the CVE-2023-23946 | 2023-09-07T10:07:25Z|
@@ -755,6 +759,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515) | Confluence Broken Access Control | 2023-10-13T08:19:07Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
