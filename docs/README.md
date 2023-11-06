@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-05 01:54:38.877478
+ Last generated : 2023-11-06 01:53:42.050294
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -37,6 +37,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
+| [CVE-2023-45542](https://www.cve.org/CVERecord?id=CVE-2023-45542) | [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542) | mooSocial v3.1.8 is vulnerable to cross-site scripting on search function. | 2023-09-26T12:59:31Z|
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
@@ -59,6 +60,7 @@
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487) | Test Script for CVE-2023-44487 | 2023-10-12T03:14:34Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487) | Proof of concept for DoS exploit | 2023-10-11T01:59:47Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/Stored-xss](https://github.com/soundarkutty/Stored-xss) | Got My CVE Published CVE-2023-41575 | 2023-08-26T09:26:35Z|
 | [CVE-2023-43879](https://www.cve.org/CVERecord?id=CVE-2023-43879) | [sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent](https://github.com/sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent) | About RiteCMS 3.0 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Global Content Blocks in the Administration Menu | 2023-09-22T13:14:02Z|
@@ -105,6 +107,7 @@
 | [CVE-2023-43149](https://www.cve.org/CVERecord?id=CVE-2023-43149) | [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149) | CVE-2023-43149 | 2023-10-12T16:11:39Z|
 | [CVE-2023-43148](https://www.cve.org/CVERecord?id=CVE-2023-43148) | [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148) | CVE CSRF DELETE ACCOUNT | 2023-09-16T11:48:44Z|
 | [CVE-2023-43147](https://www.cve.org/CVERecord?id=CVE-2023-43147) | [MinoTauro2020/CVE-2023-43147](https://github.com/MinoTauro2020/CVE-2023-43147) | CVE-2023-43148 | 2023-10-11T18:55:40Z|
+| [CVE-2023-43144](https://www.cve.org/CVERecord?id=CVE-2023-43144) | [Pegasus0xx/CVE-2023-43144](https://github.com/Pegasus0xx/CVE-2023-43144) | Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php | 2023-10-13T18:19:22Z|
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115) | A small write-up with examples to understand CVE-2023-43115 | 2023-09-28T17:30:06Z|
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [skulkarni-mv/goIssue_kirkstone](https://github.com/skulkarni-mv/goIssue_kirkstone) | go CVE-2023-24538 patch issue resolver - Kirkstone | 2023-09-29T17:18:42Z|
 | [CVE-2023-4294](https://www.cve.org/CVERecord?id=CVE-2023-4294) | [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294) | Repository for CVE-2023-4294 vulnerability. | 2023-09-24T10:16:03Z|
@@ -760,6 +763,8 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515) | Confluence Broken Access Control | 2023-10-13T08:19:07Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515) | iveresk-CVE-2023-22515 | 2023-10-13T08:36:21Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [kh4sh3i/CVE-2023-22515](https://github.com/kh4sh3i/CVE-2023-22515) | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | 2023-10-11T11:21:47Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
