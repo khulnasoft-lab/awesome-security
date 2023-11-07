@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-06 01:53:42.050294
+ Last generated : 2023-11-07 01:52:23.834395
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -40,6 +40,7 @@
 | [CVE-2023-45542](https://www.cve.org/CVERecord?id=CVE-2023-45542) | [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542) | mooSocial v3.1.8 is vulnerable to cross-site scripting on search function. | 2023-09-26T12:59:31Z|
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
+| [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
 | [CVE-2023-44961](https://www.cve.org/CVERecord?id=CVE-2023-44961) | [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961) | PoC for CVE-2023-44961 | 2023-10-05T07:27:45Z|
 | [CVE-2023-44813](https://www.cve.org/CVERecord?id=CVE-2023-44813) | [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | 2023-09-26T16:16:46Z|
@@ -61,6 +62,7 @@
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487) | Test Script for CVE-2023-44487 | 2023-10-12T03:14:34Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487) | Proof of concept for DoS exploit | 2023-10-11T01:59:47Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | 2023-10-10T14:20:42Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/Stored-xss](https://github.com/soundarkutty/Stored-xss) | Got My CVE Published CVE-2023-41575 | 2023-08-26T09:26:35Z|
 | [CVE-2023-43879](https://www.cve.org/CVERecord?id=CVE-2023-43879) | [sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent](https://github.com/sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent) | About RiteCMS 3.0 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Global Content Blocks in the Administration Menu | 2023-09-22T13:14:02Z|
@@ -245,6 +247,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [m3m0o/metabase-pre-auth-rce-poc](https://github.com/m3m0o/metabase-pre-auth-rce-poc) | This is a script written in Python that allows the exploitation of the Metabase&#x27;s software security flaw in the described in CVE 2023-38646. | 2023-10-09T00:26:38Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646) | CVE-2023-38646 Metabase 0.46.6 exploit | 2023-10-11T15:18:25Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [nickswink/CVE-2023-38646](https://github.com/nickswink/CVE-2023-38646) | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase | 2023-10-11T20:17:14Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [asepsaepdin/CVE-2023-38646](https://github.com/asepsaepdin/CVE-2023-38646) | no description | 2023-10-14T15:56:18Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -260,6 +263,7 @@
 | [CVE-2023-38388](https://www.cve.org/CVERecord?id=CVE-2023-38388) | [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388) | Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload | 2023-08-26T05:51:06Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836) | 大华智慧园区综合管理平台publishing文件上传 | 2023-08-30T12:11:42Z|
+| [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146) | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | 2023-10-13T15:33:42Z|
 | [CVE-2023-3812](https://www.cve.org/CVERecord?id=CVE-2023-3812) | [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812) | no description | 2023-09-06T06:03:40Z|
 | [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
 | [CVE-2023-37988](https://www.cve.org/CVERecord?id=CVE-2023-37988) | [codeb0ss/CVE-2023-37988-PoC](https://github.com/codeb0ss/CVE-2023-37988-PoC) | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator &lt; Reflected Cross-Site Scripting [RXSS] | 2023-10-07T23:40:53Z|
@@ -294,6 +298,7 @@
 | [CVE-2023-3712](https://www.cve.org/CVERecord?id=CVE-2023-3712) | [vpxuser/CVE-2023-3712-POC](https://github.com/vpxuser/CVE-2023-3712-POC) | no description | 2023-07-03T01:51:11Z|
 | [CVE-2023-3711](https://www.cve.org/CVERecord?id=CVE-2023-3711) | [vpxuser/CVE-2023-3711-POC](https://github.com/vpxuser/CVE-2023-3711-POC) | no description | 2023-07-03T02:10:42Z|
 | [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [vpxuser/CVE-2023-3710-POC](https://github.com/vpxuser/CVE-2023-3710-POC) | no description | 2023-07-03T01:14:02Z|
+| [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710) | no description | 2023-10-14T12:18:15Z|
 | [CVE-2023-37073](https://www.cve.org/CVERecord?id=CVE-2023-37073) | [Hamza0X/CVE-2023-37073](https://github.com/Hamza0X/CVE-2023-37073) | Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks. | 2023-09-28T19:26:33Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899) | CVE-2023-36899 PoC | 2023-08-11T14:33:19Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [midisec/CVE-2023-36899](https://github.com/midisec/CVE-2023-36899) | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | 2023-08-15T23:36:17Z|
