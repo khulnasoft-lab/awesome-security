@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-08 01:51:06.336004
+ Last generated : 2023-11-09 01:51:35.609218
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -37,6 +37,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
+| [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z|
 | [CVE-2023-45542](https://www.cve.org/CVERecord?id=CVE-2023-45542) | [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542) | mooSocial v3.1.8 is vulnerable to cross-site scripting on search function. | 2023-09-26T12:59:31Z|
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
@@ -248,11 +249,14 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646) | CVE-2023-38646 Metabase 0.46.6 exploit | 2023-10-11T15:18:25Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [nickswink/CVE-2023-38646](https://github.com/nickswink/CVE-2023-38646) | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase | 2023-10-11T20:17:14Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [asepsaepdin/CVE-2023-38646](https://github.com/asepsaepdin/CVE-2023-38646) | no description | 2023-10-14T15:56:18Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Pyr0sec/CVE-2023-38646](https://github.com/Pyr0sec/CVE-2023-38646) | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | 2023-10-15T01:29:37Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [tarimoe/blackjump](https://github.com/tarimoe/blackjump) | JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820 Exploit | 2023-10-14T09:35:07Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545) | 😄 CVE-2023-38545堆溢出的POC和分析文章 | 2023-10-12T07:16:49Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [vanigori/CVE-2023-38545-sample](https://github.com/vanigori/CVE-2023-38545-sample) | Dockerfile containing all the necessary setup files to demo the exploit | 2023-10-12T16:48:26Z|
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow](https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow) | Simple PoC causing overflow | 2023-10-12T07:39:15Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -299,6 +303,7 @@
 | [CVE-2023-3711](https://www.cve.org/CVERecord?id=CVE-2023-3711) | [vpxuser/CVE-2023-3711-POC](https://github.com/vpxuser/CVE-2023-3711-POC) | no description | 2023-07-03T02:10:42Z|
 | [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [vpxuser/CVE-2023-3710-POC](https://github.com/vpxuser/CVE-2023-3710-POC) | no description | 2023-07-03T01:14:02Z|
 | [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710) | no description | 2023-10-14T12:18:15Z|
+| [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [CwEeR313/CVE-2023-3710](https://github.com/CwEeR313/CVE-2023-3710) | exploit for CVE-2023-3710 | 2023-10-14T18:31:51Z|
 | [CVE-2023-37073](https://www.cve.org/CVERecord?id=CVE-2023-37073) | [Hamza0X/CVE-2023-37073](https://github.com/Hamza0X/CVE-2023-37073) | Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks. | 2023-09-28T19:26:33Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899) | CVE-2023-36899 PoC | 2023-08-11T14:33:19Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [midisec/CVE-2023-36899](https://github.com/midisec/CVE-2023-36899) | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | 2023-08-15T23:36:17Z|
@@ -725,6 +730,7 @@
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136) | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | 2023-09-04T19:28:43Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136) | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | 2023-09-21T12:05:35Z|
+| [CVE-2023-24517](https://www.cve.org/CVERecord?id=CVE-2023-24517) | [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517) | no description | 2023-10-15T14:55:12Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC) | CVE-2023-24489 PoC &amp; Exploiter | 2023-07-26T03:19:20Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [whalebone7/CVE-2023-24489-poc](https://github.com/whalebone7/CVE-2023-24489-poc) | POC for CVE-2023-24489 with bash. | 2023-08-27T11:53:59Z|
