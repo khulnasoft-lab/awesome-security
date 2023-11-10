@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-09 01:51:35.609218
+ Last generated : 2023-11-10 01:51:29.023447
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -22,6 +22,8 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911) | no description | 2023-10-08T03:26:24Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables) | CVE-2023-4911 | 2023-10-10T13:29:11Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911) | CVE-2023-4911 | 2023-10-11T14:49:22Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [guffre/CVE-2023-4911](https://github.com/guffre/CVE-2023-4911) | PoC for CVE-2023-4911 LooneyTuneables | 2023-10-14T02:24:52Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911) | no description | 2023-10-10T22:04:23Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -161,6 +163,7 @@
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC) | CVE-2023-40477 PoC by Wild-Pointer | 2023-08-29T16:29:48Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831) | no description | 2023-08-30T10:48:04Z|
 | [CVE-2023-40429](https://www.cve.org/CVERecord?id=CVE-2023-40429) | [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name) | CVE-2023-40429: An app may be able to access sensitive user data. | 2023-10-09T21:52:56Z|
+| [CVE-2023-40361](https://www.cve.org/CVERecord?id=CVE-2023-40361) | [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361) | Security Vulnerability - SECUDOS Qiata | 2023-10-16T08:49:25Z|
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
@@ -257,6 +260,7 @@
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545) | 😄 CVE-2023-38545堆溢出的POC和分析文章 | 2023-10-12T07:16:49Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [vanigori/CVE-2023-38545-sample](https://github.com/vanigori/CVE-2023-38545-sample) | Dockerfile containing all the necessary setup files to demo the exploit | 2023-10-12T16:48:26Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow](https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow) | Simple PoC causing overflow | 2023-10-12T07:39:15Z|
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [dbrugman/CVE-2023-38545-POC](https://github.com/dbrugman/CVE-2023-38545-POC) | CVE-2023-38545 POC for the curl command line tool | 2023-10-16T10:04:19Z|
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z|
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z|
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z|
@@ -751,6 +755,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752) | Perform With Mass Exploiter In Joomla 4.2.8. | 2023-04-09T13:20:48Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752) | simple program for joomla scanner CVE-2023-23752 with target list | 2023-07-26T04:33:46Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Insolent-M1nx/cve20233519](https://github.com/Insolent-M1nx/cve20233519) | no description | 2023-07-26T18:22:14Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752) | Mass CVE-2023-23752 scanner | 2023-10-15T15:30:14Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
@@ -776,6 +781,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515) | Confluence Broken Access Control | 2023-10-13T08:19:07Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515) | iveresk-CVE-2023-22515 | 2023-10-13T08:36:21Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [kh4sh3i/CVE-2023-22515](https://github.com/kh4sh3i/CVE-2023-22515) | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | 2023-10-11T11:21:47Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515) | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | 2023-10-11T08:42:17Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
