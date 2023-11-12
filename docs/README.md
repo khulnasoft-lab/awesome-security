@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-11 01:48:42.987044
+ Last generated : 2023-11-12 01:55:12.542482
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
+| [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
 | [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
@@ -258,6 +259,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Pyr0sec/CVE-2023-38646](https://github.com/Pyr0sec/CVE-2023-38646) | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | 2023-10-15T01:29:37Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [tarimoe/blackjump](https://github.com/tarimoe/blackjump) | JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820 Exploit | 2023-10-14T09:35:07Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [birdm4nw/CVE-2023-38646](https://github.com/birdm4nw/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-10-17T07:43:58Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646) | no description | 2023-10-12T14:32:17Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -639,7 +641,10 @@
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432) | CVE-2023-28432检测工具 | 2023-08-21T06:03:25Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
+| [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z|
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z|
+| [CVE-2023-28329](https://www.cve.org/CVERecord?id=CVE-2023-28329) | [cli-ish/CVE-2023-28329](https://github.com/cli-ish/CVE-2023-28329) | no description | 2023-10-18T07:58:04Z|
+| [CVE-2023-28329](https://www.cve.org/CVERecord?id=CVE-2023-28329) | [chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner) | Exploit tool for CVE-2023-4911, targeting the &#x27;Looney Tunables&#x27; glibc vulnerability in various Linux distributions. | 2023-10-17T07:44:16Z|
 | [CVE-2023-28310](https://www.cve.org/CVERecord?id=CVE-2023-28310) | [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310) | no description | 2023-06-14T09:23:34Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik) | POC for CVE-2023-28252 | 2023-07-12T18:00:34Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z|
@@ -791,6 +796,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515) | iveresk-CVE-2023-22515 | 2023-10-13T08:36:21Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [kh4sh3i/CVE-2023-22515](https://github.com/kh4sh3i/CVE-2023-22515) | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | 2023-10-11T11:21:47Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515) | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | 2023-10-11T08:42:17Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Chocapikk/CVE-2023-22515](https://github.com/Chocapikk/CVE-2023-22515) | CVE-2023-22515: Confluence Broken Access Control Exploit | 2023-10-10T21:40:09Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
@@ -838,6 +844,8 @@
 | [CVE-2023-20209](https://www.cve.org/CVERecord?id=CVE-2023-20209) | [peter5he1by/CVE-2023-20209](https://github.com/peter5he1by/CVE-2023-20209) | no description | 2023-09-28T15:55:22Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198) | CVE-2023-20198 PoC (!) | 2023-10-18T08:50:49Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker) | no description | 2023-10-17T07:35:50Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [emomeni/Simple-Ansible-for-CVE-2023-20198](https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198) | no description | 2023-10-17T18:46:21Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [securityphoenix/cisco-CVE-2023-20198-tester](https://github.com/securityphoenix/cisco-CVE-2023-20198-tester) | cisco-CVE-2023-20198-tester | 2023-10-17T15:44:01Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
