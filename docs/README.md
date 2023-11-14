@@ -2,12 +2,14 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-13 01:53:42.536451
+ Last generated : 2023-11-14 01:51:56.783310
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
+| [CVE-2023-5540](https://www.cve.org/CVERecord?id=CVE-2023-5540) | [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540) | no description | 2023-10-18T07:58:33Z|
 | [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
 | [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
@@ -40,6 +42,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
+| [CVE-2023-45966](https://www.cve.org/CVERecord?id=CVE-2023-45966) | [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966) | Blind SSRF in umputun/remark42 &lt;= 1.12.1 | 2023-10-18T18:18:25Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-45828](https://www.cve.org/CVERecord?id=CVE-2023-45828) | [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828) | RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest | 2023-10-17T08:41:54Z|
 | [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z|
@@ -70,6 +73,8 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487) | Proof of concept for DoS exploit | 2023-10-11T01:59:47Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | 2023-10-10T14:20:42Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487) | A python based exploit to test out rapid reset attack (CVE-2023-44487) | 2023-10-16T11:07:50Z|
+| [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
+| [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/Stored-xss](https://github.com/soundarkutty/Stored-xss) | Got My CVE Published CVE-2023-41575 | 2023-08-26T09:26:35Z|
 | [CVE-2023-43879](https://www.cve.org/CVERecord?id=CVE-2023-43879) | [sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent](https://github.com/sromanhu/CVE-2023-43879-RiteCMS-Stored-XSS---GlobalContent) | About RiteCMS 3.0 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Global Content Blocks in the Administration Menu | 2023-09-22T13:14:02Z|
@@ -137,6 +142,7 @@
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [actuator/com.full.dialer.top.secure.encrypted](https://github.com/actuator/com.full.dialer.top.secure.encrypted) | CVE-2023-42469 | 2023-09-02T17:11:58Z|
 | [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z|
+| [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -281,6 +287,7 @@
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836) | 大华智慧园区综合管理平台publishing文件上传 | 2023-08-30T12:11:42Z|
 | [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146) | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | 2023-10-13T15:33:42Z|
+| [CVE-2023-38120](https://www.cve.org/CVERecord?id=CVE-2023-38120) | [warber0x/CVE-2023-38120](https://github.com/warber0x/CVE-2023-38120) | Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability | 2023-10-19T04:00:47Z|
 | [CVE-2023-3812](https://www.cve.org/CVERecord?id=CVE-2023-3812) | [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812) | no description | 2023-09-06T06:03:40Z|
 | [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
 | [CVE-2023-37988](https://www.cve.org/CVERecord?id=CVE-2023-37988) | [codeb0ss/CVE-2023-37988-PoC](https://github.com/codeb0ss/CVE-2023-37988-PoC) | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator &lt; Reflected Cross-Site Scripting [RXSS] | 2023-10-07T23:40:53Z|
@@ -501,6 +508,7 @@
 | [CVE-2023-33567](https://www.cve.org/CVERecord?id=CVE-2023-33567) | [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567) | Unauthorized Access Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:39:52Z|
 | [CVE-2023-33566](https://www.cve.org/CVERecord?id=CVE-2023-33566) | [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566) | Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:36:33Z|
 | [CVE-2023-33565](https://www.cve.org/CVERecord?id=CVE-2023-33565) | [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565) | Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:26:55Z|
+| [CVE-2023-33517](https://www.cve.org/CVERecord?id=CVE-2023-33517) | [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517) | no description | 2023-10-19T02:08:39Z|
 | [CVE-2023-33477](https://www.cve.org/CVERecord?id=CVE-2023-33477) | [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477) | no description | 2023-06-05T16:40:00Z|
 | [CVE-2023-33476](https://www.cve.org/CVERecord?id=CVE-2023-33476) | [mellow-hype/cve-2023-33476](https://github.com/mellow-hype/cve-2023-33476) | Exploits for a heap overflow in MiniDLNA &lt;=1.3.2 (CVE-2023-33476) | 2023-06-20T01:13:17Z|
 | [CVE-2023-33410](https://www.cve.org/CVERecord?id=CVE-2023-33410) | [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410) | no description | 2023-06-02T06:18:01Z|
