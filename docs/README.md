@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-15 01:54:41.969910
+ Last generated : 2023-11-16 01:55:04.230157
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [CVE-2023-5540](https://www.cve.org/CVERecord?id=CVE-2023-5540) | [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540) | no description | 2023-10-18T07:58:33Z|
 | [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
 | [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360) | CVE-2023-5360 Auto Shell Upload WordPress Royal Elementor 1.3.78 Shell Upload | 2023-10-21T10:51:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -147,6 +148,8 @@
 | [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
+| [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
+| [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [Mangaia/cve-test](https://github.com/Mangaia/cve-test) | testing cve-2023-41993-test | 2023-10-20T22:04:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -188,6 +191,7 @@
 | [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z|
 | [CVE-2023-39711](https://www.cve.org/CVERecord?id=CVE-2023-39711) | [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711) | no description | 2023-08-19T18:13:14Z|
 | [CVE-2023-39710](https://www.cve.org/CVERecord?id=CVE-2023-39710) | [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710) | no description | 2023-08-19T18:09:59Z|
+| [CVE-2023-3971](https://www.cve.org/CVERecord?id=CVE-2023-3971) | [ashangp923/CVE-2023-3971](https://github.com/ashangp923/CVE-2023-3971) | To find HTML injection and XSS | 2023-10-20T18:11:22Z|
 | [CVE-2023-39709](https://www.cve.org/CVERecord?id=CVE-2023-39709) | [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709) | no description | 2023-08-19T18:35:44Z|
 | [CVE-2023-39708](https://www.cve.org/CVERecord?id=CVE-2023-39708) | [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708) | no description | 2023-08-19T19:02:23Z|
 | [CVE-2023-39707](https://www.cve.org/CVERecord?id=CVE-2023-39707) | [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707) | no description | 2023-08-19T17:35:39Z|
@@ -478,6 +482,7 @@
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z|
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
+| [CVE-2023-34051](https://www.cve.org/CVERecord?id=CVE-2023-34051) | [horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051) | VMware Aria Operations for Logs CVE-2023-34051 | 2023-10-20T14:59:45Z|
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040) | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | 2023-08-30T12:09:15Z|
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [pyn3rd/CVE-2023-34040](https://github.com/pyn3rd/CVE-2023-34040) | Spring-Kafka-Deserialization-Remote-Code-Execution | 2023-09-28T11:18:35Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | 2023-09-01T16:17:10Z|
@@ -788,6 +793,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Insolent-M1nx/cve20233519](https://github.com/Insolent-M1nx/cve20233519) | no description | 2023-07-26T18:22:14Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752) | Mass CVE-2023-23752 scanner | 2023-10-15T15:30:14Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752) | no description | 2023-10-20T08:17:48Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752) | Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit | 2023-10-20T13:32:28Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
@@ -816,10 +822,12 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515) | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | 2023-10-11T08:42:17Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Chocapikk/CVE-2023-22515](https://github.com/Chocapikk/CVE-2023-22515) | CVE-2023-22515: Confluence Broken Access Control Exploit | 2023-10-10T21:40:09Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE) | Confluence后台rce | 2023-10-20T08:23:47Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp) | cve-2023-22515的python利用脚本 | 2023-10-21T13:59:16Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
+| [CVE-2023-21931](https://www.cve.org/CVERecord?id=CVE-2023-21931) | [MMarch7/weblogic_CVE-2023-21931_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP) | no description | 2023-10-21T07:30:24Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z|
@@ -868,6 +876,8 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [securityphoenix/cisco-CVE-2023-20198-tester](https://github.com/securityphoenix/cisco-CVE-2023-20198-tester) | cisco-CVE-2023-20198-tester | 2023-10-17T15:44:01Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [JoyGhoshs/CVE-2023-20198](https://github.com/JoyGhoshs/CVE-2023-20198) | Checker for CVE-2023-20198 , Not a full POC Just checks the implementation and detects if hex is in response or not | 2023-10-18T07:53:29Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [reket99/Cisco_CVE-2023-20198](https://github.com/reket99/Cisco_CVE-2023-20198) | no description | 2023-10-20T05:28:40Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sohaibeb/CVE-2023-20198](https://github.com/sohaibeb/CVE-2023-20198) | CISCO CVE POC SCRIPT | 2023-10-20T23:34:12Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [iveresk/cve-2023-20198](https://github.com/iveresk/cve-2023-20198) | 1vere$k POC on the CVE-2023-20198 | 2023-10-20T16:01:17Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
@@ -881,6 +891,7 @@
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698) | no description | 2023-10-20T05:40:32Z|
+| [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698) | WAGO系统远程代码执行漏洞(CVE-2023-1698) | 2023-10-20T12:15:39Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
