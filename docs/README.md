@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-16 01:55:04.230157
+ Last generated : 2023-11-17 01:54:48.050700
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -43,6 +43,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
+| [CVE-2023-46197](https://www.cve.org/CVERecord?id=CVE-2023-46197) | [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197) | Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure | 2023-10-23T12:38:37Z|
 | [CVE-2023-46003](https://www.cve.org/CVERecord?id=CVE-2023-46003) | [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003) | no description | 2023-10-19T08:17:53Z|
 | [CVE-2023-45992](https://www.cve.org/CVERecord?id=CVE-2023-45992) | [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992) | no description | 2023-10-19T15:26:59Z|
 | [CVE-2023-45966](https://www.cve.org/CVERecord?id=CVE-2023-45966) | [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966) | Blind SSRF in umputun/remark42 &lt;= 1.12.1 | 2023-10-18T18:18:25Z|
@@ -239,6 +240,8 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [malvika-thakur/CVE-2023-38831](https://github.com/malvika-thakur/CVE-2023-38831) | Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR | 2023-09-21T06:08:30Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [elefantesagradodeluzinfinita/cve-2023-38831](https://github.com/elefantesagradodeluzinfinita/cve-2023-38831) | DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores. | 2023-09-19T12:47:12Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ruycr4ft/CVE-2023-38831](https://github.com/ruycr4ft/CVE-2023-38831) | no description | 2023-10-12T12:46:35Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [kehrijksen/CVE-2023-38831](https://github.com/kehrijksen/CVE-2023-38831) | CVE-2023-38831 is an RCE in WinRAR (&lt;6.23) | 2023-10-24T01:14:03Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831) | no description | 2023-10-21T17:03:48Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -823,12 +826,14 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Chocapikk/CVE-2023-22515](https://github.com/Chocapikk/CVE-2023-22515) | CVE-2023-22515: Confluence Broken Access Control Exploit | 2023-10-10T21:40:09Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE) | Confluence后台rce | 2023-10-20T08:23:47Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp) | cve-2023-22515的python利用脚本 | 2023-10-21T13:59:16Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515) | CVE-2023-22515 (Confluence Broken Access Control Exploit) | 2023-10-22T23:37:56Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
 | [CVE-2023-21931](https://www.cve.org/CVERecord?id=CVE-2023-21931) | [MMarch7/weblogic_CVE-2023-21931_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP) | no description | 2023-10-21T07:30:24Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
+| [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP) | no description | 2023-10-23T11:36:29Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z|
@@ -878,6 +883,9 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [reket99/Cisco_CVE-2023-20198](https://github.com/reket99/Cisco_CVE-2023-20198) | no description | 2023-10-20T05:28:40Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sohaibeb/CVE-2023-20198](https://github.com/sohaibeb/CVE-2023-20198) | CISCO CVE POC SCRIPT | 2023-10-20T23:34:12Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [iveresk/cve-2023-20198](https://github.com/iveresk/cve-2023-20198) | 1vere$k POC on the CVE-2023-20198 | 2023-10-20T16:01:17Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198) | CVE-2023-20198 Checkscript | 2023-10-17T08:00:18Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Pushkarup/CVE-2023-20198](https://github.com/Pushkarup/CVE-2023-20198) | A PoC for CVE 2023-20198 | 2023-10-23T16:04:23Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ZephrFish/CVE-2023-20198-Checker](https://github.com/ZephrFish/CVE-2023-20198-Checker) | CVE-2023-20198 &amp; 0Day Implant Scanner | 2023-10-17T22:41:14Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
