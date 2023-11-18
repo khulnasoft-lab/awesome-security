@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-17 01:54:48.050700
+ Last generated : 2023-11-18 01:53:05.720877
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -367,6 +368,8 @@
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE) | A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr . | 2023-09-24T13:30:09Z|
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) | LPE exploit for CVE-2023-36802 | 2023-10-09T17:32:15Z|
+| [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [4zur-0312/CVE-2023-36802](https://github.com/4zur-0312/CVE-2023-36802) | CVE-2023-36802 ITW case | 2023-10-19T23:34:37Z|
+| [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE) | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | 2023-10-20T02:05:27Z|
 | [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
@@ -627,6 +630,7 @@
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [mallutrojan/CVE-2023-30212-Lab](https://github.com/mallutrojan/CVE-2023-30212-Lab) | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | 2023-05-26T09:33:23Z|
 | [CVE-2023-30146](https://www.cve.org/CVERecord?id=CVE-2023-30146) | [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146) | Some Assmann manufactured IP-Cams leak the administrator password in their backup. | 2023-06-08T18:18:47Z|
 | [CVE-2023-3009](https://www.cve.org/CVERecord?id=CVE-2023-3009) | [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009) | Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi | 2023-05-31T16:23:23Z|
+| [CVE-2023-30033](https://www.cve.org/CVERecord?id=CVE-2023-30033) | [phucodeexp/CVE-2023-30033](https://github.com/phucodeexp/CVE-2023-30033) | no description | 2023-10-24T02:23:03Z|
 | [CVE-2023-29923](https://www.cve.org/CVERecord?id=CVE-2023-29923) | [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923) | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | 2023-05-29T05:48:35Z|
 | [CVE-2023-29922](https://www.cve.org/CVERecord?id=CVE-2023-29922) | [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-) | Powerjob 未授权访问漏洞(CVE-2023-29922) | 2023-10-10T08:35:00Z|
 | [CVE-2023-2986](https://www.cve.org/CVERecord?id=CVE-2023-2986) | [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986) | Proof of Concept for vulnerability CVE-2023-2986 in &#x27;Abandoned Cart Lite for WooCommerce&#x27; Plugin in WordPress | 2023-06-09T17:44:09Z|
@@ -886,6 +890,8 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198) | CVE-2023-20198 Checkscript | 2023-10-17T08:00:18Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Pushkarup/CVE-2023-20198](https://github.com/Pushkarup/CVE-2023-20198) | A PoC for CVE 2023-20198 | 2023-10-23T16:04:23Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ZephrFish/CVE-2023-20198-Checker](https://github.com/ZephrFish/CVE-2023-20198-Checker) | CVE-2023-20198 &amp; 0Day Implant Scanner | 2023-10-17T22:41:14Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Shadow0ps/CVE-2023-20198-Scanner](https://github.com/Shadow0ps/CVE-2023-20198-Scanner) | This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI&#x27;s affected by CVE-2023-20198 and CVE-2023-20273 | 2023-10-23T19:25:29Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [kacem-expereo/CVE-2023-20198](https://github.com/kacem-expereo/CVE-2023-20198) | Check a target IP for CVE-2023-20198 | 2023-10-24T09:36:37Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
