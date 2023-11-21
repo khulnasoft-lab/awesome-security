@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-20 01:55:41.961020
+ Last generated : 2023-11-21 01:58:32.630946
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -23,6 +23,7 @@
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966) | no description | 2023-10-25T21:34:43Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -52,6 +53,7 @@
 | [CVE-2023-45966](https://www.cve.org/CVERecord?id=CVE-2023-45966) | [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966) | Blind SSRF in umputun/remark42 &lt;= 1.12.1 | 2023-10-18T18:18:25Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z|
+| [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z|
 | [CVE-2023-45828](https://www.cve.org/CVERecord?id=CVE-2023-45828) | [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828) | RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest | 2023-10-17T08:41:54Z|
 | [CVE-2023-45657](https://www.cve.org/CVERecord?id=CVE-2023-45657) | [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657) | Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via &#x27;to&#x27; and &#x27;from&#x27; | 2023-10-20T12:01:15Z|
 | [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z|
@@ -327,6 +329,7 @@
 | [CVE-2023-37597](https://www.cve.org/CVERecord?id=CVE-2023-37597) | [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user group | 2023-07-10T16:28:29Z|
 | [CVE-2023-37596](https://www.cve.org/CVERecord?id=CVE-2023-37596) | [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user | 2023-07-10T16:23:40Z|
 | [CVE-2023-37582](https://www.cve.org/CVERecord?id=CVE-2023-37582) | [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT) | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | 2023-07-14T12:22:45Z|
+| [CVE-2023-37478](https://www.cve.org/CVERecord?id=CVE-2023-37478) | [TrevorGKann/CVE-2023-37478_npm_vs_pnpm](https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm) | CVE-2023-37478 showcases how a difference in npm and pnpm install packages that could be exploited by a well crafted tar.gz packge. This repo shows a demo. | 2023-10-24T18:32:30Z|
 | [CVE-2023-37474](https://www.cve.org/CVERecord?id=CVE-2023-37474) | [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474) | no description | 2023-07-27T08:10:01Z|
 | [CVE-2023-37250](https://www.cve.org/CVERecord?id=CVE-2023-37250) | [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250) | PoC | 2023-07-02T05:37:51Z|
 | [CVE-2023-37191](https://www.cve.org/CVERecord?id=CVE-2023-37191) | [sahiloj/CVE-2023-37191](https://github.com/sahiloj/CVE-2023-37191) | no description | 2023-07-07T17:11:10Z|
@@ -837,6 +840,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515) | CVE-2023-22515 (Confluence Broken Access Control Exploit) | 2023-10-22T23:37:56Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
+| [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
 | [CVE-2023-21931](https://www.cve.org/CVERecord?id=CVE-2023-21931) | [MMarch7/weblogic_CVE-2023-21931_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP) | no description | 2023-10-21T07:30:24Z|
@@ -869,6 +873,7 @@
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
+| [CVE-2023-21097](https://www.cve.org/CVERecord?id=CVE-2023-21097) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097) | no description | 2023-10-26T06:46:14Z|
 | [CVE-2023-21094](https://www.cve.org/CVERecord?id=CVE-2023-21094) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094) | no description | 2023-10-25T07:54:39Z|
 | [CVE-2023-21086](https://www.cve.org/CVERecord?id=CVE-2023-21086) | [Trinadh465/packages_apps_Settings_CVE-2023-21086](https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086) | no description | 2023-10-25T11:42:32Z|
 | [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963) | no description | 2023-10-20T09:11:00Z|
@@ -899,6 +904,8 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Shadow0ps/CVE-2023-20198-Scanner](https://github.com/Shadow0ps/CVE-2023-20198-Scanner) | This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI&#x27;s affected by CVE-2023-20198 and CVE-2023-20273 | 2023-10-23T19:25:29Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [kacem-expereo/CVE-2023-20198](https://github.com/kacem-expereo/CVE-2023-20198) | Check a target IP for CVE-2023-20198 | 2023-10-24T09:36:37Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner](https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner) | no description | 2023-10-25T07:13:59Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [IceBreakerCode/CVE-2023-20198](https://github.com/IceBreakerCode/CVE-2023-20198) | no description | 2023-10-25T21:15:58Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ohlawd/CVE-2023-20198](https://github.com/ohlawd/CVE-2023-20198) | no description | 2023-10-25T21:02:22Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
