@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-21 01:58:32.630946
+ Last generated : 2023-11-22 01:56:59.676025
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,8 @@
 | [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
 | [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360) | CVE-2023-5360 Auto Shell Upload WordPress Royal Elementor 1.3.78 Shell Upload | 2023-10-21T10:51:08Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360) | CVE-2023-5360 | 2023-10-26T08:18:43Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360) | no description | 2023-10-26T06:56:48Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -24,6 +26,7 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966) | no description | 2023-10-25T21:34:43Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [ditekshen/ansible-cve-2023-4966](https://github.com/ditekshen/ansible-cve-2023-4966) | Ansible Playbook for CVE-2023-4966 | 2023-10-26T09:32:48Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -838,6 +841,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE) | Confluence后台rce | 2023-10-20T08:23:47Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp) | cve-2023-22515的python利用脚本 | 2023-10-21T13:59:16Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515) | CVE-2023-22515 (Confluence Broken Access Control Exploit) | 2023-10-22T23:37:56Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [sincere9/CVE-2023-22515](https://github.com/sincere9/CVE-2023-22515) | Confluence未授权添加管理员用户漏洞利用脚本 | 2023-10-12T02:41:23Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
