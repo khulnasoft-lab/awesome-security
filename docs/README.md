@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-22 01:56:59.676025
+ Last generated : 2023-11-23 01:54:20.763996
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -27,6 +27,7 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966) | no description | 2023-10-25T21:34:43Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [ditekshen/ansible-cve-2023-4966](https://github.com/ditekshen/ansible-cve-2023-4966) | Ansible Playbook for CVE-2023-4966 | 2023-10-26T09:32:48Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [Chocapikk/CVE-2023-4966](https://github.com/Chocapikk/CVE-2023-4966) | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. | 2023-10-24T17:19:32Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -87,6 +88,7 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487) | Proof of concept for DoS exploit | 2023-10-11T01:59:47Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | 2023-10-10T14:20:42Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487) | A python based exploit to test out rapid reset attack (CVE-2023-44487) | 2023-10-16T11:07:50Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487) | no description | 2023-10-25T09:11:46Z|
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
 | [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
@@ -285,6 +287,8 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [tarimoe/blackjump](https://github.com/tarimoe/blackjump) | JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820 Exploit | 2023-10-14T09:35:07Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [birdm4nw/CVE-2023-38646](https://github.com/birdm4nw/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-10-17T07:43:58Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646) | no description | 2023-10-12T14:32:17Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [junnythemarksman/CVE-2023-38646](https://github.com/junnythemarksman/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-10-26T10:37:23Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646) | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | 2023-10-25T17:10:53Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -378,6 +382,7 @@
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) | LPE exploit for CVE-2023-36802 | 2023-10-09T17:32:15Z|
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [4zur-0312/CVE-2023-36802](https://github.com/4zur-0312/CVE-2023-36802) | CVE-2023-36802 ITW case | 2023-10-19T23:34:37Z|
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE) | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | 2023-10-20T02:05:27Z|
+| [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [Nero22k/cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | 2023-10-23T18:33:41Z|
 | [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
@@ -815,6 +820,7 @@
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397) | no description | 2023-07-14T22:02:55Z|
+| [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397) | This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes. | 2023-10-26T09:26:32Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333) | command injection vulnerability in SolarView Compact poc version 6.0 | 2023-06-25T09:16:16Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333) | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | 2023-06-16T14:33:31Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [NCSC-NL/Progress-MoveIT-CVE-2023](https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023) | Information about Progress MoveIT CVE | 2023-06-02T12:27:42Z|
@@ -881,6 +887,7 @@
 | [CVE-2023-21094](https://www.cve.org/CVERecord?id=CVE-2023-21094) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094) | no description | 2023-10-25T07:54:39Z|
 | [CVE-2023-21086](https://www.cve.org/CVERecord?id=CVE-2023-21086) | [Trinadh465/packages_apps_Settings_CVE-2023-21086](https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086) | no description | 2023-10-25T11:42:32Z|
 | [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963) | no description | 2023-10-20T09:11:00Z|
+| [CVE-2023-20955](https://www.cve.org/CVERecord?id=CVE-2023-20955) | [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955) | no description | 2023-10-26T13:19:06Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
