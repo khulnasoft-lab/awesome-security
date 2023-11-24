@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-23 01:54:20.763996
+ Last generated : 2023-11-24 01:52:15.395249
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-5540](https://www.cve.org/CVERecord?id=CVE-2023-5540) | [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540) | no description | 2023-10-18T07:58:33Z|
@@ -47,6 +48,9 @@
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
+| [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z|
+| [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z|
+| [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
@@ -289,6 +293,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646) | no description | 2023-10-12T14:32:17Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [junnythemarksman/CVE-2023-38646](https://github.com/junnythemarksman/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-10-26T10:37:23Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646) | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | 2023-10-25T17:10:53Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646) | RCE Exploit for CVE-2023-38646 | 2023-10-20T15:21:08Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -848,6 +853,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp) | cve-2023-22515的python利用脚本 | 2023-10-21T13:59:16Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515) | CVE-2023-22515 (Confluence Broken Access Control Exploit) | 2023-10-22T23:37:56Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [sincere9/CVE-2023-22515](https://github.com/sincere9/CVE-2023-22515) | Confluence未授权添加管理员用户漏洞利用脚本 | 2023-10-12T02:41:23Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [C1ph3rX13/CVE-2023-22515](https://github.com/C1ph3rX13/CVE-2023-22515) | CVE-2023-22515 | 2023-10-27T07:20:35Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
@@ -884,6 +890,7 @@
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-21097](https://www.cve.org/CVERecord?id=CVE-2023-21097) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097) | no description | 2023-10-26T06:46:14Z|
+| [CVE-2023-21097](https://www.cve.org/CVERecord?id=CVE-2023-21097) | [uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097) | no description | 2023-10-26T13:44:13Z|
 | [CVE-2023-21094](https://www.cve.org/CVERecord?id=CVE-2023-21094) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094) | no description | 2023-10-25T07:54:39Z|
 | [CVE-2023-21086](https://www.cve.org/CVERecord?id=CVE-2023-21086) | [Trinadh465/packages_apps_Settings_CVE-2023-21086](https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086) | no description | 2023-10-25T11:42:32Z|
 | [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963) | no description | 2023-10-20T09:11:00Z|
