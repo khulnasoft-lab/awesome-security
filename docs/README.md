@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-24 01:52:15.395249
+ Last generated : 2023-11-25 01:50:16.163560
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -421,6 +421,7 @@
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-04T05:18:02Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
+| [CVE-2023-35794](https://www.cve.org/CVERecord?id=CVE-2023-35794) | [Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking](https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking) | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | 2023-10-23T09:51:34Z|
 | [CVE-2023-35793](https://www.cve.org/CVERecord?id=CVE-2023-35793) | [Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH](https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH) | Repository contains description for CVE-2023-35793 | 2023-09-26T11:39:05Z|
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z|
 | [CVE-2023-35679](https://www.cve.org/CVERecord?id=CVE-2023-35679) | [pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679](https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679) | no description | 2023-09-21T06:07:57Z|
