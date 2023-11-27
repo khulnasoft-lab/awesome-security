@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-26 01:56:48.247706
+ Last generated : 2023-11-27 01:54:56.409018
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -49,9 +49,11 @@
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
+| [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z|
 | [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z|
 | [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z|
+| [CVE-2023-46404](https://www.cve.org/CVERecord?id=CVE-2023-46404) | [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404) | PoC and Writeup for CVE-2023-46404. | 2023-10-26T15:01:32Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
@@ -389,6 +391,7 @@
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [4zur-0312/CVE-2023-36802](https://github.com/4zur-0312/CVE-2023-36802) | CVE-2023-36802 ITW case | 2023-10-19T23:34:37Z|
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE) | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | 2023-10-20T02:05:27Z|
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [Nero22k/cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | 2023-10-23T18:33:41Z|
+| [CVE-2023-36745](https://www.cve.org/CVERecord?id=CVE-2023-36745) | [N1k0la-T/CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) | no description | 2023-10-23T19:06:36Z|
 | [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
@@ -570,6 +573,7 @@
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy) | no description | 2023-05-31T07:28:46Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) | no description | 2023-05-30T02:18:29Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [d0rb/CVE-2023-33246](https://github.com/d0rb/CVE-2023-33246) | CVE-2023-33246 POC | 2023-08-11T08:45:29Z|
+| [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [0xKayala/CVE-2023-33246](https://github.com/0xKayala/CVE-2023-33246) | CVE-2023-33246 - Apache RocketMQ config RCE | 2023-10-28T07:08:19Z|
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
 | [CVE-2023-33242](https://www.cve.org/CVERecord?id=CVE-2023-33242) | [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242) | CVE-2023-33242  PoC | 2023-08-15T13:46:48Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
