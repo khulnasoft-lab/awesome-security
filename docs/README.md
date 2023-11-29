@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-28 01:55:33.286580
+ Last generated : 2023-11-29 01:54:59.803942
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
@@ -168,11 +169,14 @@
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
 | [CVE-2023-42442](https://www.cve.org/CVERecord?id=CVE-2023-42442) | [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442) | no description | 2023-09-27T05:09:20Z|
+| [CVE-2023-42442](https://www.cve.org/CVERecord?id=CVE-2023-42442) | [C1ph3rX13/CVE-2023-42442](https://github.com/C1ph3rX13/CVE-2023-42442) | CVE-2023-42442 | 2023-10-20T08:33:17Z|
 | [CVE-2023-42426](https://www.cve.org/CVERecord?id=CVE-2023-42426) | [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426) | Repository for CVE-2023-42426 vulnerability. | 2023-09-24T07:34:05Z|
 | [CVE-2023-42413](https://www.cve.org/CVERecord?id=CVE-2023-42413) | [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413) | ecology_9_sql | 2023-09-24T06:17:33Z|
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC) | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | 2023-09-11T23:53:11Z|
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [actuator/com.full.dialer.top.secure.encrypted](https://github.com/actuator/com.full.dialer.top.secure.encrypted) | CVE-2023-42469 | 2023-09-02T17:11:58Z|
 | [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
+| [CVE-2023-42284](https://www.cve.org/CVERecord?id=CVE-2023-42284) | [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284) | Proof of concept for CVE-2023-42284 in Tyk Gateway | 2023-10-30T19:24:48Z|
+| [CVE-2023-42283](https://www.cve.org/CVERecord?id=CVE-2023-42283) | [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283) | Proof of concept for CVE-2023-42283 in Tyk Gateway | 2023-10-30T19:05:41Z|
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
@@ -941,6 +945,9 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner](https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner) | no description | 2023-10-25T07:13:59Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [IceBreakerCode/CVE-2023-20198](https://github.com/IceBreakerCode/CVE-2023-20198) | no description | 2023-10-25T21:15:58Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ohlawd/CVE-2023-20198](https://github.com/ohlawd/CVE-2023-20198) | no description | 2023-10-25T21:02:22Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [alekos3/CVE_2023_20198_Remediator](https://github.com/alekos3/CVE_2023_20198_Remediator) | Remediate CVE_2023_20198 on Cisco IOS-XE devices. | 2023-10-18T17:45:59Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector) | This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198 | 2023-10-18T15:04:57Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient) | Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487) | 2023-10-13T23:55:32Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
