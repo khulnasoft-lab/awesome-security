@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-29 01:54:59.803942
+ Last generated : 2023-11-30 01:54:46.144557
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,6 +14,7 @@
 | [CVE-2023-5540](https://www.cve.org/CVERecord?id=CVE-2023-5540) | [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540) | no description | 2023-10-18T07:58:33Z|
 | [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
 | [CVE-2023-5521](https://www.cve.org/CVERecord?id=CVE-2023-5521) | [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521) | Root takeover via signature spoofing in KernelSU | 2023-10-11T12:08:31Z|
+| [CVE-2023-5412](https://www.cve.org/CVERecord?id=CVE-2023-5412) | [RandomRobbieBF/CVE-2023-5412](https://github.com/RandomRobbieBF/CVE-2023-5412) | Image horizontal reel scroll slideshow &lt;= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode | 2023-10-31T09:26:21Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360) | CVE-2023-5360 Auto Shell Upload WordPress Royal Elementor 1.3.78 Shell Upload | 2023-10-21T10:51:08Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360) | CVE-2023-5360 | 2023-10-26T08:18:43Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360) | no description | 2023-10-26T06:56:48Z|
@@ -57,6 +58,9 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC) | no description | 2023-11-01T16:28:28Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747) | CVE-2023-46747 Criticle Auth Bypass | 2023-11-01T13:16:13Z|
+| [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
 | [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z|
@@ -272,6 +276,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ruycr4ft/CVE-2023-38831](https://github.com/ruycr4ft/CVE-2023-38831) | no description | 2023-10-12T12:46:35Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [kehrijksen/CVE-2023-38831](https://github.com/kehrijksen/CVE-2023-38831) | CVE-2023-38831 is an RCE in WinRAR (&lt;6.23) | 2023-10-24T01:14:03Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831) | no description | 2023-10-21T17:03:48Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [h3xecute/SideCopy-Exploits-CVE-2023-38831](https://github.com/h3xecute/SideCopy-Exploits-CVE-2023-38831) | SideCopy APT Group exploits CVE-2023-38831 | 2023-11-01T08:57:15Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -803,10 +808,13 @@
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp) | no description | 2023-08-25T21:56:48Z|
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6) | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | 2023-08-30T23:57:10Z|
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z|
+| [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z|
+| [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048) | no description | 2023-11-01T06:57:10Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z|
 | [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z|
+| [CVE-2023-25292](https://www.cve.org/CVERecord?id=CVE-2023-25292) | [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292) | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | 2023-04-25T19:27:53Z|
 | [CVE-2023-2523](https://www.cve.org/CVERecord?id=CVE-2023-2523) | [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523) | no description | 2023-09-25T08:21:06Z|
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) | CVE-2023-25157 - GeoServer SQL Injection - PoC | 2023-06-06T14:05:09Z|
