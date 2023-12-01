@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-11-30 01:54:46.144557
+ Last generated : 2023-12-01 02:00:57.604808
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -52,7 +52,11 @@
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
+| [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
+| [CVE-2023-46998](https://www.cve.org/CVERecord?id=CVE-2023-46998) | [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998) | no description | 2023-11-01T19:36:38Z|
+| [CVE-2023-46980](https://www.cve.org/CVERecord?id=CVE-2023-46980) | [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980) | no description | 2023-11-02T16:05:23Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
+| [CVE-2023-46974](https://www.cve.org/CVERecord?id=CVE-2023-46974) | [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974) | POC | 2023-11-02T16:08:19Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
@@ -385,6 +389,7 @@
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [zerosorai/CVE-2023-36884](https://github.com/zerosorai/CVE-2023-36884) | This is an emergency solution while Microsoft addresses the vulnerability. | 2023-07-15T16:56:18Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [ridsoliveira/Fix-CVE-2023-36884](https://github.com/ridsoliveira/Fix-CVE-2023-36884) | no description | 2023-07-28T20:39:37Z|
 | [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884) | #comeonits2023 #ie9 #Storm-0978 | 2023-07-30T14:53:25Z|
+| [CVE-2023-36884](https://www.cve.org/CVERecord?id=CVE-2023-36884) | [jakabakos/CVE-2023-36884-MS-Office-HTML-RCE](https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE) | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | 2023-09-28T11:53:44Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [d0rb/CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) | CVE-2023-36874 PoC | 2023-08-20T13:50:42Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) | no description | 2023-08-23T12:07:40Z|
 | [CVE-2023-36874](https://www.cve.org/CVERecord?id=CVE-2023-36874) | [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874) | CVE-2023-36874 Proof of Concept | 2023-08-22T16:27:30Z|
