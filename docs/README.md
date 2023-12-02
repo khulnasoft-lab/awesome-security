@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-01 02:00:57.604808
+ Last generated : 2023-12-02 01:50:21.249161
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -18,6 +18,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [sagsooz/CVE-2023-5360](https://github.com/sagsooz/CVE-2023-5360) | CVE-2023-5360 Auto Shell Upload WordPress Royal Elementor 1.3.78 Shell Upload | 2023-10-21T10:51:08Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360) | CVE-2023-5360 | 2023-10-26T08:18:43Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360) | no description | 2023-10-26T06:56:48Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:15:44Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -64,6 +65,8 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC) | no description | 2023-11-01T16:28:28Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747) | CVE-2023-46747 Criticle Auth Bypass | 2023-11-01T13:16:13Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [nvansluis/test_cve-2023-46747](https://github.com/nvansluis/test_cve-2023-46747) | no description | 2023-11-02T16:03:35Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE) | CVE-2023-46604 | 2023-10-26T03:25:05Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
