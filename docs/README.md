@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-02 01:50:21.249161
+ Last generated : 2023-12-03 01:56:48.868399
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -19,6 +19,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [nastar-id/CVE-2023-5360](https://github.com/nastar-id/CVE-2023-5360) | CVE-2023-5360 | 2023-10-26T08:18:43Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360) | no description | 2023-10-26T06:56:48Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:15:44Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360) | Python 2.7 | 2023-11-03T00:58:36Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -611,6 +612,7 @@
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts) | Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher | 2023-08-04T18:28:52Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629) | GameOver(lay) Ubuntu Privilege Escalation | 2023-10-09T22:02:42Z|
+| [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [vinetsuicide/CVE-2023-2640-CVE-2023-32629](https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629) | no description | 2023-11-02T20:19:57Z|
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z|
@@ -878,6 +880,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
