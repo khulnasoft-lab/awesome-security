@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-03 01:56:48.868399
+ Last generated : 2023-12-04 01:55:51.660858
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -37,6 +37,7 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [0xKayala/CVE-2023-4966](https://github.com/0xKayala/CVE-2023-4966) | CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit | 2023-10-27T11:00:09Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966) | An Exploitation script developed to exploit the CVE-2023-4966 bleed citrix information disclosure vulnerability | 2023-10-29T15:31:37Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [ayhan-dev/CVE-2023-391](https://github.com/ayhan-dev/CVE-2023-391) | no description | 2023-10-28T17:39:36Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [fdevsectest/CVE-2023-4966](https://github.com/fdevsectest/CVE-2023-4966) | no description | 2023-11-03T05:59:14Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -743,6 +744,7 @@
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec) | CVE-2023-28121 - WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | 2023-07-12T06:04:56Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121) | WooCommerce Payments: Unauthorized Admin Access Exploit | 2023-03-30T23:50:39Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121) | no description | 2023-07-23T22:38:39Z|
+| [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [Jenderal92/WP-CVE-2023-28121](https://github.com/Jenderal92/WP-CVE-2023-28121) | Python 2.7 | 2023-11-03T01:19:09Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-test-nleyl](https://github.com/hheeyywweellccoommee/CVE-2023-27997-test-nleyl) | test | 2023-06-29T04:00:24Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997) | no description | 2023-06-23T15:15:54Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [imbas007/CVE-2023-27997-Check](https://github.com/imbas007/CVE-2023-27997-Check) | no description | 2023-06-22T14:16:44Z|
