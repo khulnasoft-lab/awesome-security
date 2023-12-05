@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-04 01:55:51.660858
+ Last generated : 2023-12-05 01:55:51.828169
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966) | An Exploitation script developed to exploit the CVE-2023-4966 bleed citrix information disclosure vulnerability | 2023-10-29T15:31:37Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [ayhan-dev/CVE-2023-391](https://github.com/ayhan-dev/CVE-2023-391) | no description | 2023-10-28T17:39:36Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [fdevsectest/CVE-2023-4966](https://github.com/fdevsectest/CVE-2023-4966) | no description | 2023-11-03T05:59:14Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker) | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | 2023-10-28T11:44:42Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -56,6 +57,7 @@
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
+| [CVE-2023-47179](https://www.cve.org/CVERecord?id=CVE-2023-47179) | [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179) | WooODT Lite &lt;= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2023-11-03T09:39:30Z|
 | [CVE-2023-46998](https://www.cve.org/CVERecord?id=CVE-2023-46998) | [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998) | no description | 2023-11-01T19:36:38Z|
 | [CVE-2023-46980](https://www.cve.org/CVERecord?id=CVE-2023-46980) | [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980) | no description | 2023-11-02T16:05:23Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
@@ -69,6 +71,8 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747) | CVE-2023-46747 Criticle Auth Bypass | 2023-11-01T13:16:13Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [nvansluis/test_cve-2023-46747](https://github.com/nvansluis/test_cve-2023-46747) | no description | 2023-11-02T16:03:35Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE) | CVE-2023-46604 | 2023-10-26T03:25:05Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747) | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | 2023-11-03T13:31:11Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max) | CVE-2023-46604 | 2023-10-27T12:22:43Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -969,6 +973,7 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [alekos3/CVE_2023_20198_Remediator](https://github.com/alekos3/CVE_2023_20198_Remediator) | Remediate CVE_2023_20198 on Cisco IOS-XE devices. | 2023-10-18T17:45:59Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector) | This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198 | 2023-10-18T15:04:57Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient) | Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487) | 2023-10-13T23:55:32Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198) | An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers | 2023-11-03T13:05:59Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
