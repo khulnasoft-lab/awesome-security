@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-05 01:55:51.828169
+ Last generated : 2023-12-06 01:55:35.273898
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -73,6 +73,7 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE) | CVE-2023-46604 | 2023-10-26T03:25:05Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747) | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | 2023-11-03T13:31:11Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max) | CVE-2023-46604 | 2023-10-27T12:22:43Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) | Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) | 2023-11-03T22:06:09Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -612,6 +613,7 @@
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784) | Retrieve the master password of a keepass database &lt;= 2.53.1 | 2023-08-30T16:42:19Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z|
+| [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
@@ -866,6 +868,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752) | no description | 2023-10-20T08:17:48Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752) | Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit | 2023-10-20T13:32:28Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752) | Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7). | 2023-10-25T08:53:12Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752) | Joomla Unauthorized Access Vulnerability | 2023-10-30T14:54:56Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
