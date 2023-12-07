@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-06 01:55:35.273898
+ Last generated : 2023-12-07 01:55:31.848328
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -99,6 +99,7 @@
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z|
+| [CVE-2023-45158](https://www.cve.org/CVERecord?id=CVE-2023-45158) | [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158) | no description | 2023-11-04T21:14:09Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
 | [CVE-2023-44961](https://www.cve.org/CVERecord?id=CVE-2023-44961) | [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961) | PoC for CVE-2023-44961 | 2023-10-05T07:27:45Z|
 | [CVE-2023-44813](https://www.cve.org/CVERecord?id=CVE-2023-44813) | [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | 2023-09-26T16:16:46Z|
@@ -123,6 +124,7 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | 2023-10-10T14:20:42Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487) | A python based exploit to test out rapid reset attack (CVE-2023-44487) | 2023-10-16T11:07:50Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487) | no description | 2023-10-25T09:11:46Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487) | HTTP/2 RAPID RESET | 2023-11-04T22:34:23Z|
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
 | [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
