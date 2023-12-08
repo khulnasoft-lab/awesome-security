@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-07 01:55:31.848328
+ Last generated : 2023-12-08 01:55:51.781144
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -20,6 +20,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [phankz/Worpress-CVE-2023-5360](https://github.com/phankz/Worpress-CVE-2023-5360) | no description | 2023-10-26T06:56:48Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:15:44Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360) | Python 2.7 | 2023-11-03T00:58:36Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360) | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | 2023-11-05T18:02:59Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -58,6 +59,7 @@
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
 | [CVE-2023-47179](https://www.cve.org/CVERecord?id=CVE-2023-47179) | [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179) | WooODT Lite &lt;= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2023-11-03T09:39:30Z|
+| [CVE-2023-47102](https://www.cve.org/CVERecord?id=CVE-2023-47102) | [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102) | no description | 2023-10-31T04:03:02Z|
 | [CVE-2023-46998](https://www.cve.org/CVERecord?id=CVE-2023-46998) | [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998) | no description | 2023-11-01T19:36:38Z|
 | [CVE-2023-46980](https://www.cve.org/CVERecord?id=CVE-2023-46980) | [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980) | no description | 2023-11-02T16:05:23Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
@@ -73,7 +75,9 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [trganda/ActiveMQ-RCE](https://github.com/trganda/ActiveMQ-RCE) | CVE-2023-46604 | 2023-10-26T03:25:05Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747) | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | 2023-11-03T13:31:11Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max) | CVE-2023-46604 | 2023-10-27T12:22:43Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747) | no description | 2023-11-01T14:57:20Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) | Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) | 2023-11-03T22:06:09Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604) | no description | 2023-11-04T11:58:21Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -361,6 +365,7 @@
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [dhmosfunk/HTTP3ONSTEROIDS](https://github.com/dhmosfunk/HTTP3ONSTEROIDS) | HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy&#x27;s HTTP/3 implementation fails to block a malformed HTTP header field name. | 2023-07-31T23:57:02Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [codeb0ss/CVE-2023-37979](https://github.com/codeb0ss/CVE-2023-37979) | CVE-2023-37979 - WordPress Authenticated XSS in Ninja-forms Plugin + Upload File | 2023-08-17T02:24:42Z|
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [d0rb/CVE-2023-37979](https://github.com/d0rb/CVE-2023-37979) | CVE-2023-37979 PoC and Checker | 2023-08-04T10:31:53Z|
+| [CVE-2023-37903](https://www.cve.org/CVERecord?id=CVE-2023-37903) | [7h3h4ckv157/CVE-2023-37903](https://github.com/7h3h4ckv157/CVE-2023-37903) | Exploit for CVE-2023-37903 | 2023-11-05T11:23:15Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
@@ -892,6 +897,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
@@ -920,6 +926,7 @@
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z|
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z|
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z|
+| [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py) | This is an exploit file which is used to check CVE-2021-21716 vulnerability | 2023-11-04T08:49:14Z|
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z|
 | [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z|
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288) | no description | 2023-10-04T06:42:19Z|
