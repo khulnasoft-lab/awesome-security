@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-08 01:55:51.781144
+ Last generated : 2023-12-09 01:52:25.990210
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -78,6 +78,8 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747) | no description | 2023-11-01T14:57:20Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) | Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) | 2023-11-03T22:06:09Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604) | no description | 2023-11-04T11:58:21Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp) | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | 2023-11-08T07:48:00Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [jhonnybonny/Bitrix24DoS](https://github.com/jhonnybonny/Bitrix24DoS) | This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance. | 2023-11-08T07:45:54Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -219,6 +221,7 @@
 | [CVE-2023-41508](https://www.cve.org/CVERecord?id=CVE-2023-41508) | [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508) | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:29:37Z|
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
 | [CVE-2023-41436](https://www.cve.org/CVERecord?id=CVE-2023-41436) | [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content) | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | 2023-08-23T11:34:30Z|
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z|
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) | MOC3ingbird Exploit for Live2D (CVE-2023-27566) | 2023-03-03T01:57:28Z|
@@ -297,6 +300,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [kehrijksen/CVE-2023-38831](https://github.com/kehrijksen/CVE-2023-38831) | CVE-2023-38831 is an RCE in WinRAR (&lt;6.23) | 2023-10-24T01:14:03Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831) | no description | 2023-10-21T17:03:48Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [h3xecute/SideCopy-Exploits-CVE-2023-38831](https://github.com/h3xecute/SideCopy-Exploits-CVE-2023-38831) | SideCopy APT Group exploits CVE-2023-38831 | 2023-11-01T08:57:15Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen) | WinRAR cve-2023-38831-poc-generator | 2023-11-07T04:14:04Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -335,6 +339,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [junnythemarksman/CVE-2023-38646](https://github.com/junnythemarksman/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-10-26T10:37:23Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646) | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | 2023-10-25T17:10:53Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646) | RCE Exploit for CVE-2023-38646 | 2023-10-20T15:21:08Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Mrunalkaran/CVE-2023-38646](https://github.com/Mrunalkaran/CVE-2023-38646) | Metabase Pre-Auth RCE POC | 2023-11-07T03:57:15Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -384,6 +389,7 @@
 | [CVE-2023-37596](https://www.cve.org/CVERecord?id=CVE-2023-37596) | [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596) | CSRF vulnerability in issabel-pbx 4.0.0-6 to delete any user | 2023-07-10T16:23:40Z|
 | [CVE-2023-37582](https://www.cve.org/CVERecord?id=CVE-2023-37582) | [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT) | Apache RocketMQ Arbitrary File Write Vulnerability Exploit | 2023-07-14T12:22:45Z|
 | [CVE-2023-37478](https://www.cve.org/CVERecord?id=CVE-2023-37478) | [TrevorGKann/CVE-2023-37478_npm_vs_pnpm](https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm) | CVE-2023-37478 showcases how a difference in npm and pnpm install packages that could be exploited by a well crafted tar.gz packge. This repo shows a demo. | 2023-10-24T18:32:30Z|
+| [CVE-2023-37478](https://www.cve.org/CVERecord?id=CVE-2023-37478) | [li-minhao/CVE-2023-37478-Demo](https://github.com/li-minhao/CVE-2023-37478-Demo) | no description | 2023-11-03T18:26:52Z|
 | [CVE-2023-37474](https://www.cve.org/CVERecord?id=CVE-2023-37474) | [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474) | no description | 2023-07-27T08:10:01Z|
 | [CVE-2023-37250](https://www.cve.org/CVERecord?id=CVE-2023-37250) | [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250) | PoC | 2023-07-02T05:37:51Z|
 | [CVE-2023-37191](https://www.cve.org/CVERecord?id=CVE-2023-37191) | [sahiloj/CVE-2023-37191](https://github.com/sahiloj/CVE-2023-37191) | no description | 2023-07-07T17:11:10Z|
@@ -911,6 +917,9 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515) | CVE-2023-22515 (Confluence Broken Access Control Exploit) | 2023-10-22T23:37:56Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [sincere9/CVE-2023-22515](https://github.com/sincere9/CVE-2023-22515) | Confluence未授权添加管理员用户漏洞利用脚本 | 2023-10-12T02:41:23Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [C1ph3rX13/CVE-2023-22515](https://github.com/C1ph3rX13/CVE-2023-22515) | CVE-2023-22515 | 2023-10-27T07:20:35Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [LucasPDiniz/CVE-2023-22515](https://github.com/LucasPDiniz/CVE-2023-22515) | Server Broken Access Control in Confluence - CVE-2023-22515 | 2023-11-08T05:18:30Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fox-it/cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection) | Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273) | 2023-10-23T14:52:18Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [SySS-Research/easy-password-recovery](https://github.com/SySS-Research/easy-password-recovery) | Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777) | 2023-11-07T07:44:13Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
@@ -997,6 +1006,8 @@
 | [CVE-2023-20052](https://www.cve.org/CVERecord?id=CVE-2023-20052) | [bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023](https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023) | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders. | 2023-09-10T09:36:50Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z|
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z|
+| [CVE-2023-1714](https://www.cve.org/CVERecord?id=CVE-2023-1714) | [ForceFledgling/CVE-2023-1714](https://github.com/ForceFledgling/CVE-2023-1714) | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | 2023-11-06T23:41:36Z|
+| [CVE-2023-1713](https://www.cve.org/CVERecord?id=CVE-2023-1713) | [ForceFledgling/CVE-2023-1713](https://github.com/ForceFledgling/CVE-2023-1713) | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | 2023-11-06T23:35:44Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698) | no description | 2023-10-20T05:40:32Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698) | WAGO系统远程代码执行漏洞(CVE-2023-1698) | 2023-10-20T12:15:39Z|
