@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-09 01:52:25.990210
+ Last generated : 2023-12-10 02:00:49.108222
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -65,6 +65,7 @@
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
 | [CVE-2023-46974](https://www.cve.org/CVERecord?id=CVE-2023-46974) | [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974) | POC | 2023-11-02T16:08:19Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
+| [CVE-2023-46954](https://www.cve.org/CVERecord?id=CVE-2023-46954) | [jakedmurphy1/CVE-2023-46954](https://github.com/jakedmurphy1/CVE-2023-46954) | no description | 2023-11-02T13:09:52Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
@@ -356,6 +357,7 @@
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [hktalent/TOP](https://github.com/hktalent/TOP) | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 2022-03-19T01:54:15Z|
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z|
+| [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [LucasPDiniz/CVE-2023-38408](https://github.com/LucasPDiniz/CVE-2023-38408) | Takeover Account OpenSSH | 2023-11-09T04:34:39Z|
 | [CVE-2023-38389](https://www.cve.org/CVERecord?id=CVE-2023-38389) | [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC) | CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover | 2023-08-27T00:30:16Z|
 | [CVE-2023-38388](https://www.cve.org/CVERecord?id=CVE-2023-38388) | [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388) | Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload | 2023-08-26T05:51:06Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
@@ -904,6 +906,7 @@
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x0d3ad/CVE-2023-22518](https://github.com/0x0d3ad/CVE-2023-22518) | Exploit CVE-2023-22518 | 2023-11-09T06:56:18Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
