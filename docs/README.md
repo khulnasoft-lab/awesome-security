@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-10 02:00:49.108222
+ Last generated : 2023-12-11 01:57:22.139962
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Chocapikk/CVE-2023-5360](https://github.com/Chocapikk/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:15:44Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Jenderal92/WP-CVE-2023-5360](https://github.com/Jenderal92/WP-CVE-2023-5360) | Python 2.7 | 2023-11-03T00:58:36Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360) | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | 2023-11-05T18:02:59Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [tucommenceapousser/CVE-2023-5360](https://github.com/tucommenceapousser/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:28:59Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -66,6 +67,7 @@
 | [CVE-2023-46974](https://www.cve.org/CVERecord?id=CVE-2023-46974) | [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974) | POC | 2023-11-02T16:08:19Z|
 | [CVE-2023-4696](https://www.cve.org/CVERecord?id=CVE-2023-4696) | [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696) | https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3 | 2023-09-01T09:02:03Z|
 | [CVE-2023-46954](https://www.cve.org/CVERecord?id=CVE-2023-46954) | [jakedmurphy1/CVE-2023-46954](https://github.com/jakedmurphy1/CVE-2023-46954) | no description | 2023-11-02T13:09:52Z|
+| [CVE-2023-46865](https://www.cve.org/CVERecord?id=CVE-2023-46865) | [asylumdx/Crater-CVE-2023-46865-RCE](https://github.com/asylumdx/Crater-CVE-2023-46865-RCE) | Crater &lt;=6.0.6, CVE-2023-46865 Post-Auth RCE (Superadmin) | 2023-11-09T21:22:47Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
@@ -81,6 +83,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604) | no description | 2023-11-04T11:58:21Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp) | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | 2023-11-08T07:48:00Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [jhonnybonny/Bitrix24DoS](https://github.com/jhonnybonny/Bitrix24DoS) | This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance. | 2023-11-08T07:45:54Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up](https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up) | no description | 2023-11-09T11:27:20Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -341,6 +344,8 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Red4mber/CVE-2023-38646](https://github.com/Red4mber/CVE-2023-38646) | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | 2023-10-25T17:10:53Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646) | RCE Exploit for CVE-2023-38646 | 2023-10-20T15:21:08Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Mrunalkaran/CVE-2023-38646](https://github.com/Mrunalkaran/CVE-2023-38646) | Metabase Pre-Auth RCE POC | 2023-11-07T03:57:15Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [j0yb0y0h/CVE-2023-38646](https://github.com/j0yb0y0h/CVE-2023-38646) | Code to detect/exploit vulnerable metabase application | 2023-11-09T13:13:25Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [aaaademo/Confluence-EvilJar](https://github.com/aaaademo/Confluence-EvilJar) | 配合 CVE-2023-22515 后台上传jar包实现RCE | 2023-11-09T12:55:25Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -568,6 +573,7 @@
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039) | VMware exploit | 2023-09-02T07:56:06Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [Cyb3rEnthusiast/CVE-2023-34039](https://github.com/Cyb3rEnthusiast/CVE-2023-34039) | Here it is, the VMware newest exploit | 2023-09-03T10:03:36Z|
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [syedhafiz1234/CVE-2023-34039](https://github.com/syedhafiz1234/CVE-2023-34039) | CVE-2023-34039 | 2023-09-04T03:27:56Z|
+| [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [adminxb/CVE-2023-34039](https://github.com/adminxb/CVE-2023-34039) | exp | 2023-11-10T07:23:11Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
@@ -858,6 +864,7 @@
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136) | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | 2023-09-04T19:28:43Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136) | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | 2023-09-21T12:05:35Z|
+| [CVE-2023-24706](https://www.cve.org/CVERecord?id=CVE-2023-24706) | [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706) | CVE-2023-24706 | 2023-11-10T05:43:52Z|
 | [CVE-2023-24517](https://www.cve.org/CVERecord?id=CVE-2023-24517) | [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517) | no description | 2023-10-15T14:55:12Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC) | CVE-2023-24489 PoC &amp; Exploiter | 2023-07-26T03:19:20Z|
