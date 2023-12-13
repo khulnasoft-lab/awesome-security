@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-12 01:57:04.547807
+ Last generated : 2023-12-13 01:57:46.429883
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,9 @@
 | [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
+| [CVE-2023-47529](https://www.cve.org/CVERecord?id=CVE-2023-47529) | [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529) | Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File | 2023-11-13T10:50:25Z|
+| [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460) | no description | 2023-11-10T15:38:01Z|
+| [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack) | CVE-2023-22515 | 2023-10-30T00:17:45Z|
 | [CVE-2023-47459](https://www.cve.org/CVERecord?id=CVE-2023-47459) | [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459) | no description | 2023-11-10T15:20:48Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
@@ -85,6 +88,10 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp) | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | 2023-11-08T07:48:00Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [jhonnybonny/Bitrix24DoS](https://github.com/jhonnybonny/Bitrix24DoS) | This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance. | 2023-11-08T07:45:54Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up](https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up) | no description | 2023-11-09T11:27:20Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell](https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell) | This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol. | 2023-11-12T11:26:46Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [sule01u/CVE-2023-46604](https://github.com/sule01u/CVE-2023-46604) | CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | 2023-11-06T04:05:51Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [LuizGustavoP/EP3_Redes](https://github.com/LuizGustavoP/EP3_Redes) | Implementações de servidores HTML em GO para análise da vulnerabilidade CVE-2023-29406. | 2023-11-11T16:28:22Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE) | One-Liner CVE-2023-32629/CVE-2023-2640 Ubuntu Privilege Escalation | 2023-11-11T14:33:38Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -760,6 +767,7 @@
 | [CVE-2023-28310](https://www.cve.org/CVERecord?id=CVE-2023-28310) | [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310) | no description | 2023-06-14T09:23:34Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik) | POC for CVE-2023-28252 | 2023-07-12T18:00:34Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z|
+| [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-) | Обнаружение эксплойта CVE-2023-28252 | 2023-11-13T07:46:38Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-05T18:16:51Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-06T01:01:08Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | 2023-05-25T13:25:10Z|
@@ -917,6 +925,7 @@
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x0d3ad/CVE-2023-22518](https://github.com/0x0d3ad/CVE-2023-22518) | Exploit CVE-2023-22518 | 2023-11-09T06:56:18Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ditekshen/ansible-cve-2023-22518](https://github.com/ditekshen/ansible-cve-2023-22518) | Ansible Playbook for CVE-2023-22518 | 2023-11-10T10:59:09Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
@@ -1008,6 +1017,7 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector) | This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198 | 2023-10-18T15:04:57Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient) | Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487) | 2023-10-13T23:55:32Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198) | An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers | 2023-11-03T13:05:59Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198) | Ansible Playbook for CVE-2023-20198 | 2023-10-18T16:49:51Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
