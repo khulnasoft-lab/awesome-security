@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-13 01:57:46.429883
+ Last generated : 2023-12-14 01:55:39.804258
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z|
+| [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
@@ -64,7 +66,9 @@
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
 | [CVE-2023-47179](https://www.cve.org/CVERecord?id=CVE-2023-47179) | [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179) | WooODT Lite &lt;= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2023-11-03T09:39:30Z|
+| [CVE-2023-47129](https://www.cve.org/CVERecord?id=CVE-2023-47129) | [Cyber-Wo0dy/CVE-2023-47129](https://github.com/Cyber-Wo0dy/CVE-2023-47129) | Statamic CMS versions &lt;4.33.0 vulnerable to &quot;Remote Code Execution&quot; | 2023-11-13T12:21:52Z|
 | [CVE-2023-47102](https://www.cve.org/CVERecord?id=CVE-2023-47102) | [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102) | no description | 2023-10-31T04:03:02Z|
+| [CVE-2023-47014](https://www.cve.org/CVERecord?id=CVE-2023-47014) | [emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS) | no description | 2023-11-14T08:08:08Z|
 | [CVE-2023-46998](https://www.cve.org/CVERecord?id=CVE-2023-46998) | [soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998) | no description | 2023-11-01T19:36:38Z|
 | [CVE-2023-46980](https://www.cve.org/CVERecord?id=CVE-2023-46980) | [sajaljat/CVE-2023-46980](https://github.com/sajaljat/CVE-2023-46980) | no description | 2023-11-02T16:05:23Z|
 | [CVE-2023-4698](https://www.cve.org/CVERecord?id=CVE-2023-4698) | [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698) | no description | 2023-09-01T09:24:08Z|
@@ -104,6 +108,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-46197](https://www.cve.org/CVERecord?id=CVE-2023-46197) | [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197) | Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure | 2023-10-23T12:38:37Z|
+| [CVE-2023-46014](https://www.cve.org/CVERecord?id=CVE-2023-46014) | [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability) | no description | 2023-11-10T17:40:37Z|
 | [CVE-2023-46003](https://www.cve.org/CVERecord?id=CVE-2023-46003) | [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003) | no description | 2023-10-19T08:17:53Z|
 | [CVE-2023-45992](https://www.cve.org/CVERecord?id=CVE-2023-45992) | [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992) | no description | 2023-10-19T15:26:59Z|
 | [CVE-2023-45966](https://www.cve.org/CVERecord?id=CVE-2023-45966) | [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966) | Blind SSRF in umputun/remark42 &lt;= 1.12.1 | 2023-10-18T18:18:25Z|
@@ -243,6 +248,8 @@
 | [CVE-2023-41105](https://www.cve.org/CVERecord?id=CVE-2023-41105) | [JawadPy/CVE-2023-41105-Exploit](https://github.com/JawadPy/CVE-2023-41105-Exploit) | Example of CVE-2023-41105 | 2023-10-05T00:32:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) | no description | 2023-08-26T15:11:31Z|
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
+| [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064) | no description | 2023-11-13T17:07:02Z|
+| [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE) | Looney Tunables CVE-2023-4911 | 2023-11-08T09:34:04Z|
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z|
@@ -644,6 +651,7 @@
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784) | Retrieve the master password of a keepass database &lt;= 2.53.1 | 2023-08-30T16:42:19Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z|
+| [CVE-2023-32707](https://www.cve.org/CVERecord?id=CVE-2023-32707) | [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707) | An improved POC exploit based on the reported CVE on exploitdb | 2023-11-14T04:06:08Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay) | Check for CVE-2023-32629 &quot;GameOver(lay)&quot; vulnerability | 2023-08-11T21:08:38Z|
@@ -846,6 +854,7 @@
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
 | [CVE-2023-2648](https://www.cve.org/CVERecord?id=CVE-2023-2648) | [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648) | cve-2023-2523-and-cve-2023-2648 | 2023-08-26T11:23:58Z|
 | [CVE-2023-26469](https://www.cve.org/CVERecord?id=CVE-2023-26469) | [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469) | CVE-2023-26469 REC PoC | 2023-09-01T09:41:32Z|
+| [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z|
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
