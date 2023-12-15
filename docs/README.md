@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-14 01:55:39.804258
+ Last generated : 2023-12-15 01:58:30.131975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,7 @@
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
 | [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
+| [CVE-2023-47668](https://www.cve.org/CVERecord?id=CVE-2023-47668) | [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668) | Restrict Content &lt;= 3.2.7 - Information Exposure via legacy log file | 2023-11-14T08:40:49Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
 | [CVE-2023-47529](https://www.cve.org/CVERecord?id=CVE-2023-47529) | [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529) | Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File | 2023-11-13T10:50:25Z|
@@ -108,6 +109,9 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-46197](https://www.cve.org/CVERecord?id=CVE-2023-46197) | [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197) | Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure | 2023-10-23T12:38:37Z|
+| [CVE-2023-46017](https://www.cve.org/CVERecord?id=CVE-2023-46017) | [ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability) | no description | 2023-11-10T20:46:29Z|
+| [CVE-2023-46016](https://www.cve.org/CVERecord?id=CVE-2023-46016) | [ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability) | no description | 2023-11-10T20:24:40Z|
+| [CVE-2023-46015](https://www.cve.org/CVERecord?id=CVE-2023-46015) | [ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability) | no description | 2023-11-10T19:40:49Z|
 | [CVE-2023-46014](https://www.cve.org/CVERecord?id=CVE-2023-46014) | [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability) | no description | 2023-11-10T17:40:37Z|
 | [CVE-2023-46003](https://www.cve.org/CVERecord?id=CVE-2023-46003) | [leekenghwa/CVE-2023-46003](https://github.com/leekenghwa/CVE-2023-46003) | no description | 2023-10-19T08:17:53Z|
 | [CVE-2023-45992](https://www.cve.org/CVERecord?id=CVE-2023-45992) | [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992) | no description | 2023-10-19T15:26:59Z|
