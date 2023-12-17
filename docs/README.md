@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-16 01:55:28.691078
+ Last generated : 2023-12-17 02:00:28.969665
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -56,6 +56,8 @@
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
+| [CVE-2023-48200](https://www.cve.org/CVERecord?id=CVE-2023-48200) | [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200) | no description | 2023-11-14T17:02:07Z|
+| [CVE-2023-48199](https://www.cve.org/CVERecord?id=CVE-2023-48199) | [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199) | no description | 2023-11-14T16:50:31Z|
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z|
 | [CVE-2023-48197](https://www.cve.org/CVERecord?id=CVE-2023-48197) | [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197) | no description | 2023-11-14T16:34:21Z|
 | [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
@@ -331,6 +333,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [Nielk74/CVE-2023-38831](https://github.com/Nielk74/CVE-2023-38831) | no description | 2023-10-21T17:03:48Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [h3xecute/SideCopy-Exploits-CVE-2023-38831](https://github.com/h3xecute/SideCopy-Exploits-CVE-2023-38831) | SideCopy APT Group exploits CVE-2023-38831 | 2023-11-01T08:57:15Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen) | WinRAR cve-2023-38831-poc-generator | 2023-11-07T04:14:04Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial) | WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现 | 2023-11-15T07:01:05Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -462,6 +465,7 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [GTGalaxi/ElectronVulnerableVersion](https://github.com/GTGalaxi/ElectronVulnerableVersion) | Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129 | 2023-09-30T02:47:16Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [zaenhaxor/CVE-2023-36845](https://github.com/zaenhaxor/CVE-2023-36845) | CVE-2023-36845 - Juniper Firewall Remote code execution (RCE) | 2023-09-29T03:11:37Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker) | A tool for finding vulnerable libwebp(CVE-2023-4863) | 2023-10-05T03:28:23Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845) | Ansible Playbook for CVE-2023-36845 | 2023-11-14T16:36:29Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
@@ -671,6 +675,7 @@
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z|
+| [CVE-2023-32407](https://www.cve.org/CVERecord?id=CVE-2023-32407) | [gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal) | no description | 2023-11-14T20:45:31Z|
 | [CVE-2023-32364](https://www.cve.org/CVERecord?id=CVE-2023-32364) | [gergelykalman/CVE-2023-32364-macos-app-sandbox-escape](https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape) | Exploit for CVE-2023-32364 | 2023-09-26T14:42:00Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC) | CVE-2023-32315-Openfire-Bypass | 2023-07-07T07:48:24Z|
