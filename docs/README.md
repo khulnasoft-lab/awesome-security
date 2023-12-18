@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-17 02:00:28.969665
+ Last generated : 2023-12-18 01:57:25.501777
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -113,6 +113,7 @@
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
 | [CVE-2023-4631](https://www.cve.org/CVERecord?id=CVE-2023-4631) | [b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631) | Repository for CVE-2023-4631 vulnerability. | 2023-09-24T08:38:58Z|
 | [CVE-2023-46197](https://www.cve.org/CVERecord?id=CVE-2023-46197) | [RandomRobbieBF/CVE-2023-46197](https://github.com/RandomRobbieBF/CVE-2023-46197) | Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure | 2023-10-23T12:38:37Z|
+| [CVE-2023-46022](https://www.cve.org/CVERecord?id=CVE-2023-46022) | [ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability) | no description | 2023-11-11T10:54:25Z|
 | [CVE-2023-46021](https://www.cve.org/CVERecord?id=CVE-2023-46021) | [ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability) | no description | 2023-11-11T09:14:56Z|
 | [CVE-2023-46020](https://www.cve.org/CVERecord?id=CVE-2023-46020) | [ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability) | no description | 2023-11-11T08:37:57Z|
 | [CVE-2023-46019](https://www.cve.org/CVERecord?id=CVE-2023-46019) | [ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability) | no description | 2023-11-11T08:23:30Z|
@@ -870,6 +871,7 @@
 | [CVE-2023-2648](https://www.cve.org/CVERecord?id=CVE-2023-2648) | [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648) | cve-2023-2523-and-cve-2023-2648 | 2023-08-26T11:23:58Z|
 | [CVE-2023-26469](https://www.cve.org/CVERecord?id=CVE-2023-26469) | [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469) | CVE-2023-26469 REC PoC | 2023-09-01T09:41:32Z|
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z|
+| [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z|
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
@@ -950,6 +952,7 @@
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x0d3ad/CVE-2023-22518](https://github.com/0x0d3ad/CVE-2023-22518) | Exploit CVE-2023-22518 | 2023-11-09T06:56:18Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ditekshen/ansible-cve-2023-22518](https://github.com/ditekshen/ansible-cve-2023-22518) | Ansible Playbook for CVE-2023-22518 | 2023-11-10T10:59:09Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | 2023-10-31T05:35:00Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
