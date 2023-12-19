@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-18 01:57:25.501777
+ Last generated : 2023-12-19 01:56:44.775793
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z|
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
@@ -65,6 +66,8 @@
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
 | [CVE-2023-47529](https://www.cve.org/CVERecord?id=CVE-2023-47529) | [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529) | Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File | 2023-11-13T10:50:25Z|
+| [CVE-2023-47489](https://www.cve.org/CVERecord?id=CVE-2023-47489) | [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489) | no description | 2023-11-15T16:07:02Z|
+| [CVE-2023-47488](https://www.cve.org/CVERecord?id=CVE-2023-47488) | [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488) | no description | 2023-11-15T16:32:01Z|
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460) | no description | 2023-11-10T15:38:01Z|
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack) | CVE-2023-22515 | 2023-10-30T00:17:45Z|
 | [CVE-2023-47459](https://www.cve.org/CVERecord?id=CVE-2023-47459) | [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459) | no description | 2023-11-10T15:20:48Z|
@@ -676,6 +679,7 @@
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z|
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z|
+| [CVE-2023-32422](https://www.cve.org/CVERecord?id=CVE-2023-32422) | [gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite) | no description | 2023-11-15T18:21:20Z|
 | [CVE-2023-32407](https://www.cve.org/CVERecord?id=CVE-2023-32407) | [gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal) | no description | 2023-11-14T20:45:31Z|
 | [CVE-2023-32364](https://www.cve.org/CVERecord?id=CVE-2023-32364) | [gergelykalman/CVE-2023-32364-macos-app-sandbox-escape](https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape) | Exploit for CVE-2023-32364 | 2023-09-26T14:42:00Z|
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z|
@@ -807,6 +811,7 @@
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121) | WooCommerce Payments: Unauthorized Admin Access Exploit | 2023-03-30T23:50:39Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121) | no description | 2023-07-23T22:38:39Z|
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [Jenderal92/WP-CVE-2023-28121](https://github.com/Jenderal92/WP-CVE-2023-28121) | Python 2.7 | 2023-11-03T01:19:09Z|
+| [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [1337nemojj/CVE-2023-28121](https://github.com/1337nemojj/CVE-2023-28121) | no description | 2023-11-03T22:02:11Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-test-nleyl](https://github.com/hheeyywweellccoommee/CVE-2023-27997-test-nleyl) | test | 2023-06-29T04:00:24Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997) | no description | 2023-06-23T15:15:54Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [imbas007/CVE-2023-27997-Check](https://github.com/imbas007/CVE-2023-27997-Check) | no description | 2023-06-22T14:16:44Z|
@@ -1061,6 +1066,7 @@
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698) | no description | 2023-10-20T05:40:32Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698) | WAGO系统远程代码执行漏洞(CVE-2023-1698) | 2023-10-20T12:15:39Z|
+| [CVE-2023-1521](https://www.cve.org/CVERecord?id=CVE-2023-1521) | [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521) | no description | 2023-11-15T15:31:44Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
