@@ -2,12 +2,14 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-19 01:56:44.775793
+ Last generated : 2023-12-20 01:42:51.263075
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
+| [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
+| [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z|
 | [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z|
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
@@ -71,6 +73,7 @@
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460) | no description | 2023-11-10T15:38:01Z|
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack) | CVE-2023-22515 | 2023-10-30T00:17:45Z|
 | [CVE-2023-47459](https://www.cve.org/CVERecord?id=CVE-2023-47459) | [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459) | no description | 2023-11-10T15:20:48Z|
+| [CVE-2023-47437](https://www.cve.org/CVERecord?id=CVE-2023-47437) | [herombey/CVE-2023-47437](https://github.com/herombey/CVE-2023-47437) | Vulnerability Disclosure | 2023-11-15T18:55:03Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z|
 | [CVE-2023-47179](https://www.cve.org/CVERecord?id=CVE-2023-47179) | [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179) | WooODT Lite &lt;= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2023-11-03T09:39:30Z|
@@ -104,6 +107,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [sule01u/CVE-2023-46604](https://github.com/sule01u/CVE-2023-46604) | CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | 2023-11-06T04:05:51Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [LuizGustavoP/EP3_Redes](https://github.com/LuizGustavoP/EP3_Redes) | Implementações de servidores HTML em GO para análise da vulnerabilidade CVE-2023-29406. | 2023-11-11T16:28:22Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE) | One-Liner CVE-2023-32629/CVE-2023-2640 Ubuntu Privilege Escalation | 2023-11-11T14:33:38Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence](https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence) | CVE-2023-46604环境复现包 | 2023-11-16T02:36:07Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -289,6 +293,7 @@
 | [CVE-2023-39709](https://www.cve.org/CVERecord?id=CVE-2023-39709) | [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709) | no description | 2023-08-19T18:35:44Z|
 | [CVE-2023-39708](https://www.cve.org/CVERecord?id=CVE-2023-39708) | [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708) | no description | 2023-08-19T19:02:23Z|
 | [CVE-2023-39707](https://www.cve.org/CVERecord?id=CVE-2023-39707) | [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707) | no description | 2023-08-19T17:35:39Z|
+| [CVE-2023-39539](https://www.cve.org/CVERecord?id=CVE-2023-39539) | [AdamWen230/CVE-2023-39539-PoC](https://github.com/AdamWen230/CVE-2023-39539-PoC) | PoC for CVE-2023-39539 in Cacti 1.2.22 | 2023-11-15T21:39:54Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
 | [CVE-2023-39141](https://www.cve.org/CVERecord?id=CVE-2023-39141) | [codeb0ss/CVE-2023-39141-PoC](https://github.com/codeb0ss/CVE-2023-39141-PoC) | Mass Exploit - CVE-2023-39141 &lt; Aria2 WebUI &lt; Path traversal | 2023-08-30T02:35:14Z|
