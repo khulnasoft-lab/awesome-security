@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-21 01:54:32.984394
+ Last generated : 2023-12-22 01:56:17.496573
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -187,6 +187,7 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487) | no description | 2023-10-25T09:11:46Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487) | HTTP/2 RAPID RESET | 2023-11-04T22:34:23Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [nxenon/cve-2023-44487](https://github.com/nxenon/cve-2023-44487) | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | 2023-11-10T08:38:51Z|
+| [CVE-2023-44353](https://www.cve.org/CVERecord?id=CVE-2023-44353) | [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template) | no description | 2023-11-23T20:15:00Z|
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
 | [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
@@ -293,6 +294,7 @@
 | [CVE-2023-41080](https://www.cve.org/CVERecord?id=CVE-2023-41080) | [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit) | an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-08-31T13:25:53Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [MrR0b0t19/CVE-2023-41064](https://github.com/MrR0b0t19/CVE-2023-41064) | no description | 2023-11-13T17:07:02Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE) | Looney Tunables CVE-2023-4911 | 2023-11-08T09:34:04Z|
+| [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064) | longitudes de código para desencadenar esta vulnerabilidad | 2023-10-30T17:03:24Z|
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z|
@@ -307,6 +309,7 @@
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
+| [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z|
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z|
 | [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z|
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z|
@@ -915,6 +918,7 @@
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z|
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z|
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
+| [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z|
 | [CVE-2023-26256](https://www.cve.org/CVERecord?id=CVE-2023-26256) | [aodsec/CVE-2023-26256](https://github.com/aodsec/CVE-2023-26256) | CVE-2023-26255_POC,CVE-2023-26256_POC | 2023-08-24T01:57:00Z|
