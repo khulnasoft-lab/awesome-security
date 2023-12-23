@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-22 01:56:17.496573
+ Last generated : 2023-12-23 01:52:12.460107
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -152,6 +152,8 @@
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z|
+| [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z|
+| [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [terrorist/HTTP-2-Rapid-Reset-Client](https://github.com/terrorist/HTTP-2-Rapid-Reset-Client) | A tool to check how well a system can handle Rapid Reset DDoS attacks (CVE-2023-44487). | 2023-11-24T18:26:36Z|
 | [CVE-2023-45828](https://www.cve.org/CVERecord?id=CVE-2023-45828) | [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828) | RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest | 2023-10-17T08:41:54Z|
 | [CVE-2023-45657](https://www.cve.org/CVERecord?id=CVE-2023-45657) | [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657) | Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via &#x27;to&#x27; and &#x27;from&#x27; | 2023-10-20T12:01:15Z|
 | [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z|
@@ -411,6 +413,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Mrunalkaran/CVE-2023-38646](https://github.com/Mrunalkaran/CVE-2023-38646) | Metabase Pre-Auth RCE POC | 2023-11-07T03:57:15Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [j0yb0y0h/CVE-2023-38646](https://github.com/j0yb0y0h/CVE-2023-38646) | Code to detect/exploit vulnerable metabase application | 2023-11-09T13:13:25Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [aaaademo/Confluence-EvilJar](https://github.com/aaaademo/Confluence-EvilJar) | 配合 CVE-2023-22515 后台上传jar包实现RCE | 2023-11-09T12:55:25Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Ego1stoo/CVE-2023-38646](https://github.com/Ego1stoo/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-11-25T17:22:22Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -618,6 +621,7 @@
 | [CVE-2023-34598](https://www.cve.org/CVERecord?id=CVE-2023-34598) | [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598) | Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) vulnerability where it&#x27;s possible to include the content of several files present in the installation folder in the server&#x27;s response. | 2023-06-23T19:49:38Z|
 | [CVE-2023-34584](https://www.cve.org/CVERecord?id=CVE-2023-34584) | [fu2x2000/-CVE-2023-34584](https://github.com/fu2x2000/-CVE-2023-34584) | no description | 2023-06-20T20:17:13Z|
 | [CVE-2023-34537](https://www.cve.org/CVERecord?id=CVE-2023-34537) | [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5) | no description | 2023-06-13T09:10:35Z|
+| [CVE-2023-3452](https://www.cve.org/CVERecord?id=CVE-2023-3452) | [leoanggal1/CVE-2023-3452-PoC](https://github.com/leoanggal1/CVE-2023-3452-PoC) | Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | 2023-11-05T16:33:32Z|
 | [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450) | no description | 2023-08-31T17:32:27Z|
 | [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450) | no description | 2023-09-10T12:09:05Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362) | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | 2023-07-18T15:58:00Z|
@@ -977,6 +981,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752) | Joomla Unauthorized Access Vulnerability | 2023-10-30T14:54:56Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
+| [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397) | no description | 2023-07-14T22:02:55Z|
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397) | This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes. | 2023-10-26T09:26:32Z|
