@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-24 01:56:13.321965
+ Last generated : 2023-12-25 01:56:22.200497
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -59,6 +59,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911) | no description | 2023-10-10T22:04:23Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
+| [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -273,6 +274,7 @@
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [Mangaia/cve-test](https://github.com/Mangaia/cve-test) | testing cve-2023-41993-test | 2023-10-20T22:04:40Z|
+| [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
