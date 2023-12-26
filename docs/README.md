@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-25 01:56:22.200497
+ Last generated : 2023-12-26 01:57:01.324965
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z|
@@ -49,6 +50,8 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker) | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | 2023-10-28T11:44:42Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966) | Scripts to get infos | 2023-11-20T17:32:16Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966) | Programm to exploit a range of ip adresses | 2023-11-27T09:51:30Z|
+| [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
+| [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 | 2023-10-04T14:12:16Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [RickdeJager/CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) | CVE-2023-4911 proof of concept | 2023-10-04T14:32:49Z|
@@ -543,6 +546,7 @@
 | [CVE-2023-36109](https://www.cve.org/CVERecord?id=CVE-2023-36109) | [Limesss/CVE-2023-36109](https://github.com/Limesss/CVE-2023-36109) | a poc for cve-2023-36109 | 2023-09-20T06:26:32Z|
 | [CVE-2023-3609](https://www.cve.org/CVERecord?id=CVE-2023-3609) | [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609) | no description | 2023-09-01T10:44:56Z|
 | [CVE-2023-36076](https://www.cve.org/CVERecord?id=CVE-2023-36076) | [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076) | no description | 2023-10-17T07:37:24Z|
+| [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025) | test repo for CVE-2023-36025 | 2023-11-28T10:34:50Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843) | CVE-2023-35843 NocoDB 任意文件读取漏洞 | 2023-07-09T04:10:44Z|
@@ -954,6 +958,7 @@
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker) | A script, written in golang. POC for CVE-2023-25157 | 2023-06-12T14:34:14Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [0x2458bughunt/CVE-2023-25157](https://github.com/0x2458bughunt/CVE-2023-25157) | no description | 2023-06-10T09:00:16Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [EmmanuelCruzL/CVE-2023-25157](https://github.com/EmmanuelCruzL/CVE-2023-25157) | GeoServer OGC Filter SQL Injection Vulnerabilities | 2023-07-31T03:10:41Z|
+| [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157) | Geoserver SQL Injection Exploit | 2023-11-28T07:23:00Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [axylisdead/CVE-2023-25136_POC](https://github.com/axylisdead/CVE-2023-25136_POC) | CVE-2023-25136 POC written by axylisdead | 2023-06-03T12:36:42Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136) | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | 2023-09-04T19:28:43Z|
@@ -985,6 +990,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752) | Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit | 2023-10-20T13:32:28Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752) | Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7). | 2023-10-25T08:53:12Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752) | Joomla Unauthorized Access Vulnerability | 2023-10-30T14:54:56Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752) | CVE-2023-23752 | 2023-11-28T16:08:16Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
@@ -1012,6 +1018,7 @@
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ditekshen/ansible-cve-2023-22518](https://github.com/ditekshen/ansible-cve-2023-22518) | Ansible Playbook for CVE-2023-22518 | 2023-11-10T10:59:09Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | 2023-10-31T05:35:00Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x00sector/CVE_2023_22518_Checker](https://github.com/0x00sector/CVE_2023_22518_Checker) | CVE_2023_22518_Checker | 2023-11-20T18:58:54Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [C1ph3rX13/CVE-2023-22518](https://github.com/C1ph3rX13/CVE-2023-22518) | Confluence CVE-2023-22518 | 2023-11-28T03:33:16Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
@@ -1073,6 +1080,7 @@
 | [CVE-2023-21086](https://www.cve.org/CVERecord?id=CVE-2023-21086) | [Trinadh465/packages_apps_Settings_CVE-2023-21086](https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086) | no description | 2023-10-25T11:42:32Z|
 | [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963) | no description | 2023-10-20T09:11:00Z|
 | [CVE-2023-20955](https://www.cve.org/CVERecord?id=CVE-2023-20955) | [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955) | no description | 2023-10-26T13:19:06Z|
+| [CVE-2023-20944](https://www.cve.org/CVERecord?id=CVE-2023-20944) | [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944) | no description | 2023-11-29T06:09:52Z|
 | [CVE-2023-20932](https://www.cve.org/CVERecord?id=CVE-2023-20932) | [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932) | no description | 2023-11-17T09:23:28Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
