@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-26 01:57:01.324965
+ Last generated : 2023-12-27 01:54:15.111137
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -76,6 +76,7 @@
 | [CVE-2023-48029](https://www.cve.org/CVERecord?id=CVE-2023-48029) | [nitipoom-jar/CVE-2023-48029](https://github.com/nitipoom-jar/CVE-2023-48029) | no description | 2023-11-16T18:42:12Z|
 | [CVE-2023-48028](https://www.cve.org/CVERecord?id=CVE-2023-48028) | [nitipoom-jar/CVE-2023-48028](https://github.com/nitipoom-jar/CVE-2023-48028) | no description | 2023-11-16T19:22:30Z|
 | [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
+| [CVE-2023-47840](https://www.cve.org/CVERecord?id=CVE-2023-47840) | [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840) | Qode Essential Addons &lt;= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2023-11-29T20:14:39Z|
 | [CVE-2023-47668](https://www.cve.org/CVERecord?id=CVE-2023-47668) | [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668) | Restrict Content &lt;= 3.2.7 - Information Exposure via legacy log file | 2023-11-14T08:40:49Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
@@ -130,6 +131,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [minhangxiaohui/ActiveMQ_CVE-2023-46604](https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604) | PY | 2023-11-20T02:24:47Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [NKeshawarz/CVE-2023-46604-RCE](https://github.com/NKeshawarz/CVE-2023-46604-RCE) | no description | 2023-11-18T12:51:03Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vjayant93/CVE-2023-46604-POC](https://github.com/vjayant93/CVE-2023-46604-POC) | POC repo for CVE-2023-46604 | 2023-11-15T19:11:01Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [tomasmussi-mulesoft/activemq-cve-2023-46604](https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604) | Repository to exploit CVE-2023-46604 reported for ActiveMQ | 2023-11-29T18:30:02Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -217,6 +219,7 @@
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | 2023-11-17T10:32:31Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [passwa11/CVE-2023-4357-APT-Style-exploitation](https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation) | no description | 2023-11-21T05:39:15Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation) | Apt style exploitation of Chrome 0day CVE-2023-4357 | 2023-11-19T22:20:10Z|
+| [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357) | poc | 2023-11-29T09:52:36Z|
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z|
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z|
 | [CVE-2023-43359](https://www.cve.org/CVERecord?id=CVE-2023-43359) | [sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu. | 2023-09-17T11:58:54Z|
@@ -547,6 +550,7 @@
 | [CVE-2023-3609](https://www.cve.org/CVERecord?id=CVE-2023-3609) | [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609) | no description | 2023-09-01T10:44:56Z|
 | [CVE-2023-36076](https://www.cve.org/CVERecord?id=CVE-2023-36076) | [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076) | no description | 2023-10-17T07:37:24Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025) | test repo for CVE-2023-36025 | 2023-11-28T10:34:50Z|
+| [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025) | Quick test for CVE-2023-26025 behaviours | 2023-11-17T15:46:44Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843) | CVE-2023-35843 NocoDB 任意文件读取漏洞 | 2023-07-09T04:10:44Z|
@@ -991,6 +995,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752) | Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7). | 2023-10-25T08:53:12Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752) | Joomla Unauthorized Access Vulnerability | 2023-10-30T14:54:56Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752) | CVE-2023-23752 | 2023-11-28T16:08:16Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Ly0kha/Joomla-CVE-2023-23752-Exploit-Script](https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script) | Joomla CVE-2023-23752 Exploit Script | 2023-11-29T17:01:08Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
@@ -1036,6 +1041,7 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fox-it/cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection) | Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273) | 2023-10-23T14:52:18Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [SySS-Research/easy-password-recovery](https://github.com/SySS-Research/easy-password-recovery) | Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777) | 2023-11-07T07:44:13Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.) | no description | 2023-11-26T21:24:55Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515) | Confluence broken access control to code execution | 2023-11-29T01:34:35Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
@@ -1082,6 +1088,7 @@
 | [CVE-2023-20955](https://www.cve.org/CVERecord?id=CVE-2023-20955) | [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955) | no description | 2023-10-26T13:19:06Z|
 | [CVE-2023-20944](https://www.cve.org/CVERecord?id=CVE-2023-20944) | [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944) | no description | 2023-11-29T06:09:52Z|
 | [CVE-2023-20932](https://www.cve.org/CVERecord?id=CVE-2023-20932) | [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932) | no description | 2023-11-17T09:23:28Z|
+| [CVE-2023-20921](https://www.cve.org/CVERecord?id=CVE-2023-20921) | [Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921](https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921) | no description | 2023-11-29T06:42:43Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
 | [CVE-2023-20911](https://www.cve.org/CVERecord?id=CVE-2023-20911) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911) | no description | 2023-11-21T13:05:00Z|
