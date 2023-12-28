@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-27 01:54:15.111137
+ Last generated : 2023-12-28 01:53:06.007960
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -63,6 +63,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
+| [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -117,6 +118,7 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [sanjai-AK47/CVE-2023-46747](https://github.com/sanjai-AK47/CVE-2023-46747) | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | 2023-11-03T13:31:11Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max) | CVE-2023-46604 | 2023-10-27T12:22:43Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747) | no description | 2023-11-01T14:57:20Z|
+| [CVE-2023-46615](https://www.cve.org/CVERecord?id=CVE-2023-46615) | [RandomRobbieBF/CVE-2023-46615](https://github.com/RandomRobbieBF/CVE-2023-46615) | KD Coming Soon &lt;= 1.7 - Unauthenticated PHP Object Injection via cetitle | 2023-11-30T14:46:21Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) | Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) | 2023-11-03T22:06:09Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604) | no description | 2023-11-04T11:58:21Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp) | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | 2023-11-08T07:48:00Z|
@@ -996,6 +998,9 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752) | Joomla Unauthorized Access Vulnerability | 2023-10-30T14:54:56Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752) | CVE-2023-23752 | 2023-11-28T16:08:16Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Ly0kha/Joomla-CVE-2023-23752-Exploit-Script](https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script) | Joomla CVE-2023-23752 Exploit Script | 2023-11-29T17:01:08Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [svaltheim/CVE-2023-23752](https://github.com/svaltheim/CVE-2023-23752) | no description | 2023-11-30T22:47:40Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [r3dston3/CVE-2023-23752](https://github.com/r3dston3/CVE-2023-23752) | no description | 2023-11-30T17:55:38Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) | ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言 | 2023-10-27T05:57:21Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
