@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-28 01:53:06.007960
+ Last generated : 2023-12-29 01:45:31.193724
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
+| [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [IceBreakerCode/CVE-2023-4966](https://github.com/IceBreakerCode/CVE-2023-4966) | no description | 2023-10-25T21:34:43Z|
@@ -62,8 +63,13 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911) | no description | 2023-10-10T22:04:23Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103) | PoC for the CVE-2023-49103 | 2023-11-22T17:00:23Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix) | Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12 | 2023-11-29T19:46:15Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103) | Ansible Playbook for CVE-2023-49103 | 2023-11-29T18:46:54Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
+| [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
+| [CVE-2023-48842](https://www.cve.org/CVERecord?id=CVE-2023-48842) | [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842) | no description | 2023-12-02T23:21:44Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
@@ -638,6 +644,7 @@
 | [CVE-2023-3452](https://www.cve.org/CVERecord?id=CVE-2023-3452) | [leoanggal1/CVE-2023-3452-PoC](https://github.com/leoanggal1/CVE-2023-3452-PoC) | Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | 2023-11-05T16:33:32Z|
 | [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450) | no description | 2023-08-31T17:32:27Z|
 | [CVE-2023-3450](https://www.cve.org/CVERecord?id=CVE-2023-3450) | [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450) | no description | 2023-09-10T12:09:05Z|
+| [CVE-2023-34468](https://www.cve.org/CVERecord?id=CVE-2023-34468) | [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468) | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | 2023-11-25T12:21:48Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362) | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | 2023-07-18T15:58:00Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362) | POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-07-09T18:44:22Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) | MOVEit CVE-2023-34362 | 2023-06-09T19:07:32Z|
@@ -648,6 +655,7 @@
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn) | An investigation into CVE-2023-34362. | 2023-06-07T04:00:35Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs) | CVE-2023-34362-IOCs. More information on Deep Instinct&#x27;s blog site. | 2023-06-06T15:33:49Z|
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z|
+| [CVE-2023-34212](https://www.cve.org/CVERecord?id=CVE-2023-34212) | [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | 2023-11-23T22:14:49Z|
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
 | [CVE-2023-34051](https://www.cve.org/CVERecord?id=CVE-2023-34051) | [horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051) | VMware Aria Operations for Logs CVE-2023-34051 | 2023-10-20T14:59:45Z|
