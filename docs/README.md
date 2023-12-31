@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-30 01:54:30.446962
+ Last generated : 2023-12-31 02:00:08.785729
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -63,12 +63,14 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911) | no description | 2023-10-10T22:04:23Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
+| [CVE-2023-49105](https://www.cve.org/CVERecord?id=CVE-2023-49105) | [ambionics/owncloud-exploits](https://github.com/ambionics/owncloud-exploits) | ownCloud exploits for CVE-2023-49105 | 2023-12-05T11:35:12Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103) | PoC for the CVE-2023-49103 | 2023-11-22T17:00:23Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix) | Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12 | 2023-11-29T19:46:15Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103) | Ansible Playbook for CVE-2023-49103 | 2023-11-29T18:46:54Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
+| [CVE-2023-48849](https://www.cve.org/CVERecord?id=CVE-2023-48849) | [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849) | no description | 2023-12-01T11:24:26Z|
 | [CVE-2023-48842](https://www.cve.org/CVERecord?id=CVE-2023-48842) | [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842) | no description | 2023-12-02T23:21:44Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
@@ -296,6 +298,7 @@
 | [CVE-2023-4166](https://www.cve.org/CVERecord?id=CVE-2023-4166) | [mvpyyds/CVE-2023-4166](https://github.com/mvpyyds/CVE-2023-4166) | no description | 2023-09-01T05:33:38Z|
 | [CVE-2023-4165](https://www.cve.org/CVERecord?id=CVE-2023-4165) | [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165) | no description | 2023-09-01T03:55:23Z|
 | [CVE-2023-41646](https://www.cve.org/CVERecord?id=CVE-2023-41646) | [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646) | no description | 2023-09-01T16:46:07Z|
+| [CVE-2023-41613](https://www.cve.org/CVERecord?id=CVE-2023-41613) | [Eafz/cve-2023-41613](https://github.com/Eafz/cve-2023-41613) | no description | 2023-08-28T14:45:23Z|
 | [CVE-2023-41538](https://www.cve.org/CVERecord?id=CVE-2023-41538) | [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC) | Mass exploit - CVE-2023-41538 &lt; phpjabbers PHP Forum &lt; Cross Site Scripting (XSS) | 2023-09-05T04:26:52Z|
 | [CVE-2023-41535](https://www.cve.org/CVERecord?id=CVE-2023-41535) | [Sh33talUmath/CVE-2023-41535](https://github.com/Sh33talUmath/CVE-2023-41535) | no description | 2023-09-07T11:01:04Z|
 | [CVE-2023-41534](https://www.cve.org/CVERecord?id=CVE-2023-41534) | [Sh33talUmath/CVE-2023-41534](https://github.com/Sh33talUmath/CVE-2023-41534) | no description | 2023-09-07T10:58:32Z|
@@ -390,6 +393,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [h3xecute/SideCopy-Exploits-CVE-2023-38831](https://github.com/h3xecute/SideCopy-Exploits-CVE-2023-38831) | SideCopy APT Group exploits CVE-2023-38831 | 2023-11-01T08:57:15Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen) | WinRAR cve-2023-38831-poc-generator | 2023-11-07T04:14:04Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial) | WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现 | 2023-11-15T07:01:05Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC) | Proof-of-concept of CVE-2023-38831 | 2023-12-04T11:13:43Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -1009,6 +1013,8 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [svaltheim/CVE-2023-23752](https://github.com/svaltheim/CVE-2023-23752) | no description | 2023-11-30T22:47:40Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [r3dston3/CVE-2023-23752](https://github.com/r3dston3/CVE-2023-23752) | no description | 2023-11-30T17:55:38Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) | ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言 | 2023-10-27T05:57:21Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [K3ysTr0K3R/CVE-2023-23752-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT) | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | 2023-12-04T13:05:08Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752) | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability&#x27;s exploitation. | 2023-12-01T02:25:04Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
