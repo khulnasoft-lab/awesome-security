@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2023-12-31 02:00:08.785729
+ Last generated : 2024-01-01 02:01:35.082839
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -67,6 +67,9 @@
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103) | PoC for the CVE-2023-49103 | 2023-11-22T17:00:23Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix) | Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12 | 2023-11-29T19:46:15Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103) | Ansible Playbook for CVE-2023-49103 | 2023-11-29T18:46:54Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103) | CVE-2023-49103 scanner for shodan.io downloaded json files | 2023-12-02T11:03:19Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment) | Researching on the vulnrability CVE-2023-26136 | 2023-12-04T13:01:29Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test) | A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432 | 2023-12-03T13:45:34Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
@@ -967,6 +970,7 @@
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
+| [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690) | no description | 2023-12-04T16:58:53Z|
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z|
 | [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z|
 | [CVE-2023-25292](https://www.cve.org/CVERecord?id=CVE-2023-25292) | [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292) | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | 2023-04-25T19:27:53Z|
@@ -1078,6 +1082,7 @@
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z|
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py) | This is an exploit file which is used to check CVE-2021-21716 vulnerability | 2023-11-04T08:49:14Z|
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z|
+| [CVE-2023-21608](https://www.cve.org/CVERecord?id=CVE-2023-21608) | [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608) | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | 2023-01-30T12:57:48Z|
 | [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z|
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288) | no description | 2023-10-04T06:42:19Z|
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [skulkarni-mv/goIssue_dunfell](https://github.com/skulkarni-mv/goIssue_dunfell) | go CVE-2023-24538 patch issue resolver - Dunfell | 2023-09-29T08:09:17Z|
