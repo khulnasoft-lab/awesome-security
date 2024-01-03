@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-02 02:00:33.787944
+ Last generated : 2024-01-03 01:56:34.675748
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -151,6 +151,7 @@
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
 | [CVE-2023-46474](https://www.cve.org/CVERecord?id=CVE-2023-46474) | [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474) | PoC for CVE-2023-46474. | 2023-12-06T13:05:22Z|
+| [CVE-2023-46456](https://www.cve.org/CVERecord?id=CVE-2023-46456) | [cyberaz0r/GL.iNet-Multiple-Vulnerabilities](https://github.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities) | Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456 | 2023-12-08T01:45:16Z|
 | [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z|
 | [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z|
 | [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z|
@@ -314,6 +315,7 @@
 | [CVE-2023-41436](https://www.cve.org/CVERecord?id=CVE-2023-41436) | [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content) | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | 2023-08-23T11:34:30Z|
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z|
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z|
+| [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) | MOC3ingbird Exploit for Live2D (CVE-2023-27566) | 2023-03-03T01:57:28Z|
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit) | Axigen &lt; 10.3.3.47, 10.2.3.12 - Reflected XSS | 2023-09-13T05:59:02Z|
@@ -1092,6 +1094,7 @@
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288) | no description | 2023-10-04T06:42:19Z|
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [skulkarni-mv/goIssue_dunfell](https://github.com/skulkarni-mv/goIssue_dunfell) | go CVE-2023-24538 patch issue resolver - Dunfell | 2023-09-29T08:09:17Z|
 | [CVE-2023-21286](https://www.cve.org/CVERecord?id=CVE-2023-21286) | [Trinadh465/platform_frameworks_base_CVE-2023-21286](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286) | no description | 2023-10-03T10:58:51Z|
+| [CVE-2023-21285](https://www.cve.org/CVERecord?id=CVE-2023-21285) | [uthrasri/framework_base_CVE-2023-21285_NoPatch](https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch) | no description | 2023-12-07T08:03:03Z|
 | [CVE-2023-21284](https://www.cve.org/CVERecord?id=CVE-2023-21284) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284) | no description | 2023-10-05T09:10:47Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282) | no description | 2023-09-27T12:26:15Z|
 | [CVE-2023-21282](https://www.cve.org/CVERecord?id=CVE-2023-21282) | [Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282](https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282) | no description | 2023-10-04T08:31:10Z|
@@ -1106,6 +1109,7 @@
 | [CVE-2023-21246](https://www.cve.org/CVERecord?id=CVE-2023-21246) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246) | no description | 2023-10-09T07:33:24Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
+| [CVE-2023-21145](https://www.cve.org/CVERecord?id=CVE-2023-21145) | [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145) | no description | 2023-12-07T06:41:00Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109) | no description | 2023-11-18T07:56:12Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_](https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_) | no description | 2023-11-18T07:50:57Z|
@@ -1131,6 +1135,7 @@
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033) | cve-2023-2033 exploit | 2023-06-08T12:29:08Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033) | no description | 2023-08-02T11:55:30Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033) | no description | 2023-08-17T02:40:42Z|
+| [CVE-2023-2024](https://www.cve.org/CVERecord?id=CVE-2023-2024) | [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024) | For Aina | 2023-12-04T15:55:22Z|
 | [CVE-2023-20209](https://www.cve.org/CVERecord?id=CVE-2023-20209) | [peter5he1by/CVE-2023-20209](https://github.com/peter5he1by/CVE-2023-20209) | no description | 2023-09-28T15:55:22Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198) | CVE-2023-20198 PoC (!) | 2023-10-18T08:50:49Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker) | no description | 2023-10-17T07:35:50Z|
@@ -1153,6 +1158,7 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient) | Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487) | 2023-10-13T23:55:32Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198) | An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers | 2023-11-03T13:05:59Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198) | Ansible Playbook for CVE-2023-20198 | 2023-10-18T16:49:51Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [smokeintheshell/CVE-2023-20198](https://github.com/smokeintheshell/CVE-2023-20198) | CVE-2023-20198 Exploit PoC | 2023-11-16T16:39:38Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
