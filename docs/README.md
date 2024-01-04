@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-03 01:56:34.675748
+ Last generated : 2024-01-04 01:56:11.673462
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
+| [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
@@ -51,6 +52,7 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [certat/citrix-logchecker](https://github.com/certat/citrix-logchecker) | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | 2023-10-28T11:44:42Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966) | Scripts to get infos | 2023-11-20T17:32:16Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966) | Programm to exploit a range of ip adresses | 2023-11-27T09:51:30Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs) | Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation. | 2023-12-08T10:28:15Z|
 | [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
 | [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
@@ -681,6 +683,7 @@
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [adminxb/CVE-2023-34039](https://github.com/adminxb/CVE-2023-34039) | exp | 2023-11-10T07:23:11Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc) | no description | 2023-05-16T18:26:59Z|
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
+| [CVE-2023-34034](https://www.cve.org/CVERecord?id=CVE-2023-34034) | [hotblac/cve-2023-34034](https://github.com/hotblac/cve-2023-34034) | Demonstration of CVE-2023-24034 authorization bypass in Spring Security | 2023-12-02T10:51:39Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC) | CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE] | 2023-10-04T01:12:10Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [markuta/bw-dump](https://github.com/markuta/bw-dump) | A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. | 2022-09-18T21:03:07Z|
@@ -1111,6 +1114,7 @@
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
 | [CVE-2023-21145](https://www.cve.org/CVERecord?id=CVE-2023-21145) | [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145) | no description | 2023-12-07T06:41:00Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
+| [CVE-2023-21118](https://www.cve.org/CVERecord?id=CVE-2023-21118) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118) | no description | 2023-12-08T11:29:23Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109) | no description | 2023-11-18T07:56:12Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_](https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_) | no description | 2023-11-18T07:50:57Z|
 | [CVE-2023-21097](https://www.cve.org/CVERecord?id=CVE-2023-21097) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097) | no description | 2023-10-26T06:46:14Z|
@@ -1135,6 +1139,7 @@
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033) | cve-2023-2033 exploit | 2023-06-08T12:29:08Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033) | no description | 2023-08-02T11:55:30Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033) | no description | 2023-08-17T02:40:42Z|
+| [CVE-2023-20273](https://www.cve.org/CVERecord?id=CVE-2023-20273) | [smokeintheshell/CVE-2023-20273](https://github.com/smokeintheshell/CVE-2023-20273) | CVE-2023-20273 Exploit PoC | 2023-12-09T07:25:43Z|
 | [CVE-2023-2024](https://www.cve.org/CVERecord?id=CVE-2023-2024) | [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024) | For Aina | 2023-12-04T15:55:22Z|
 | [CVE-2023-20209](https://www.cve.org/CVERecord?id=CVE-2023-20209) | [peter5he1by/CVE-2023-20209](https://github.com/peter5he1by/CVE-2023-20209) | no description | 2023-09-28T15:55:22Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198) | CVE-2023-20198 PoC (!) | 2023-10-18T08:50:49Z|
@@ -4238,3 +4243,4 @@
 | CVE NOT FOUND | [iceberg-N/cve-2023-test](https://github.com/iceberg-N/cve-2023-test) | no description | 2023-09-02T06:41:12Z|
 | CVE NOT FOUND | [bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023](https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023) | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | 2023-09-10T09:36:13Z|
 | CVE NOT FOUND | [jgamblin/CVEReview](https://github.com/jgamblin/CVEReview) | 2022 CVE Data Review | 2022-12-27T14:02:44Z|
+| CVE NOT FOUND | [azimuthadv/cs465finalproject](https://github.com/azimuthadv/cs465finalproject) | Our final project for the Spring 2014 CS465 (Information Visualization) class at Middlebury College -- a visualizer for CVE vulnerabilities. | 2023-05-02T05:18:19Z|
