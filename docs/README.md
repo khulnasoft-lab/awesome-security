@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-04 01:56:11.673462
+ Last generated : 2024-01-05 01:56:21.792619
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -149,6 +149,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [NKeshawarz/CVE-2023-46604-RCE](https://github.com/NKeshawarz/CVE-2023-46604-RCE) | no description | 2023-11-18T12:51:03Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vjayant93/CVE-2023-46604-POC](https://github.com/vjayant93/CVE-2023-46604-POC) | POC repo for CVE-2023-46604 | 2023-11-15T19:11:01Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [tomasmussi-mulesoft/activemq-cve-2023-46604](https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604) | Repository to exploit CVE-2023-46604 reported for ActiveMQ | 2023-11-29T18:30:02Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [mrpentst/CVE-2023-46604](https://github.com/mrpentst/CVE-2023-46604) | Exploit for CVE-2023-46604 | 2023-12-09T19:19:03Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -299,6 +300,7 @@
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [Mangaia/cve-test](https://github.com/Mangaia/cve-test) | testing cve-2023-41993-test | 2023-10-20T22:04:40Z|
+| [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993) | no description | 2023-11-28T00:55:11Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
@@ -404,6 +406,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen) | WinRAR cve-2023-38831-poc-generator | 2023-11-07T04:14:04Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial) | WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现 | 2023-11-15T07:01:05Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC) | Proof-of-concept of CVE-2023-38831 | 2023-12-04T11:13:43Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP) | no description | 2023-12-10T07:13:38Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -1129,6 +1132,8 @@
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918) | no description | 2023-10-03T11:52:16Z|
 | [CVE-2023-20918](https://www.cve.org/CVERecord?id=CVE-2023-20918) | [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918) | no description | 2023-10-03T11:21:35Z|
 | [CVE-2023-20911](https://www.cve.org/CVERecord?id=CVE-2023-20911) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911) | no description | 2023-11-21T13:05:00Z|
+| [CVE-2023-20909](https://www.cve.org/CVERecord?id=CVE-2023-20909) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20909](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20909) | no description | 2023-12-11T06:14:11Z|
+| [CVE-2023-20909](https://www.cve.org/CVERecord?id=CVE-2023-20909) | [snurkeburk/Looney-Tunables](https://github.com/snurkeburk/Looney-Tunables) | PoC of CVE-2023-4911 | 2023-12-10T18:05:27Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-09-25T00:41:45Z|
@@ -1164,6 +1169,7 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198) | An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers | 2023-11-03T13:05:59Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198) | Ansible Playbook for CVE-2023-20198 | 2023-10-18T16:49:51Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [smokeintheshell/CVE-2023-20198](https://github.com/smokeintheshell/CVE-2023-20198) | CVE-2023-20198 Exploit PoC | 2023-11-16T16:39:38Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [netbell/CVE-2023-20198-Fix](https://github.com/netbell/CVE-2023-20198-Fix) | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | 2023-12-08T21:12:00Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
@@ -1504,6 +1510,7 @@
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z|
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z|
 | [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [ac3lives/kyocera-cve-2022-1026](https://github.com/ac3lives/kyocera-cve-2022-1026) | An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords | 2023-03-15T14:23:41Z|
+| [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [flamebarke/nmap-printer-nse-scripts](https://github.com/flamebarke/nmap-printer-nse-scripts) | NSE port of CVE-2022-1026 exploit for mass identification and exploitation | 2023-07-15T14:56:55Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [wlswotmd/CVE-2022-1015](https://github.com/wlswotmd/CVE-2022-1015) | no description | 2023-02-12T07:06:40Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [pivik271/CVE-2022-1015](https://github.com/pivik271/CVE-2022-1015) | no description | 2023-03-22T09:16:58Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [delsploit/CVE-2022-1015](https://github.com/delsploit/CVE-2022-1015) | no description | 2023-03-06T12:50:43Z|
