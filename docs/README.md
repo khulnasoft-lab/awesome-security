@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-05 01:56:21.792619
+ Last generated : 2024-01-06 01:54:11.077354
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1134,6 +1134,7 @@
 | [CVE-2023-20911](https://www.cve.org/CVERecord?id=CVE-2023-20911) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911) | no description | 2023-11-21T13:05:00Z|
 | [CVE-2023-20909](https://www.cve.org/CVERecord?id=CVE-2023-20909) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20909](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20909) | no description | 2023-12-11T06:14:11Z|
 | [CVE-2023-20909](https://www.cve.org/CVERecord?id=CVE-2023-20909) | [snurkeburk/Looney-Tunables](https://github.com/snurkeburk/Looney-Tunables) | PoC of CVE-2023-4911 | 2023-12-10T18:05:27Z|
+| [CVE-2023-20909](https://www.cve.org/CVERecord?id=CVE-2023-20909) | [Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909](https://github.com/Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909) | no description | 2023-12-11T08:23:14Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-14T06:50:00Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-09-25T00:41:45Z|
@@ -1170,6 +1171,8 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198) | Ansible Playbook for CVE-2023-20198 | 2023-10-18T16:49:51Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [smokeintheshell/CVE-2023-20198](https://github.com/smokeintheshell/CVE-2023-20198) | CVE-2023-20198 Exploit PoC | 2023-11-16T16:39:38Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [netbell/CVE-2023-20198-Fix](https://github.com/netbell/CVE-2023-20198-Fix) | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | 2023-12-08T21:12:00Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Vulnmachines/Cisco_CVE-2023-20198](https://github.com/Vulnmachines/Cisco_CVE-2023-20198) | Cisco CVE-2023-20198 | 2023-12-11T10:41:48Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752) | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | 2023-12-10T16:11:37Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
