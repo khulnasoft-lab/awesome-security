@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-06 01:54:11.077354
+ Last generated : 2024-01-07 02:03:27.808292
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -217,6 +217,8 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487) | no description | 2023-10-25T09:11:46Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487) | HTTP/2 RAPID RESET | 2023-11-04T22:34:23Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [nxenon/cve-2023-44487](https://github.com/nxenon/cve-2023-44487) | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | 2023-11-10T08:38:51Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [sigridou/CVE-2023-44487-](https://github.com/sigridou/CVE-2023-44487-) | no description | 2023-12-11T23:12:03Z|
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [spotlightishere/inputcontrol](https://github.com/spotlightishere/inputcontrol) | proof-of-concept for CVE-2023-28197 | 2023-12-11T20:55:21Z|
 | [CVE-2023-44353](https://www.cve.org/CVERecord?id=CVE-2023-44353) | [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template) | no description | 2023-11-23T20:15:00Z|
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
 | [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
@@ -978,6 +980,7 @@
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z|
 | [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048) | no description | 2023-11-01T06:57:10Z|
 | [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [hshivhare67/Jetty-v9.4.31_CVE-2023-26048](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048) | no description | 2023-11-27T07:19:49Z|
+| [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035) | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | 2023-12-11T19:23:13Z|
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
@@ -1032,6 +1035,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) | ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言 | 2023-10-27T05:57:21Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [K3ysTr0K3R/CVE-2023-23752-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT) | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | 2023-12-04T13:05:08Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752) | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability&#x27;s exploitation. | 2023-12-01T02:25:04Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [hadrian3689/CVE-2023-23752_Joomla](https://github.com/hadrian3689/CVE-2023-23752_Joomla) | no description | 2023-12-11T17:30:31Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
