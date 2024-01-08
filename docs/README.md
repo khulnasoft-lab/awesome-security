@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-07 02:03:27.808292
+ Last generated : 2024-01-08 01:58:17.579597
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -304,6 +304,7 @@
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [Mangaia/cve-test](https://github.com/Mangaia/cve-test) | testing cve-2023-41993-test | 2023-10-20T22:04:40Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993) | no description | 2023-11-28T00:55:11Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
+| [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [Zenyith/CVE-2023-41991](https://github.com/Zenyith/CVE-2023-41991) | no description | 2023-11-28T23:59:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -473,6 +474,7 @@
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z|
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836) | 大华智慧园区综合管理平台publishing文件上传 | 2023-08-30T12:11:42Z|
 | [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146) | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | 2023-10-13T15:33:42Z|
+| [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy) | A proof of concept using python for the CVE-2023-38146 &quot;ThemeBleed&quot; | 2023-12-12T19:11:10Z|
 | [CVE-2023-38120](https://www.cve.org/CVERecord?id=CVE-2023-38120) | [warber0x/CVE-2023-38120](https://github.com/warber0x/CVE-2023-38120) | Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability | 2023-10-19T04:00:47Z|
 | [CVE-2023-3812](https://www.cve.org/CVERecord?id=CVE-2023-3812) | [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812) | no description | 2023-09-06T06:03:40Z|
 | [CVE-2023-38035](https://www.cve.org/CVERecord?id=CVE-2023-38035) | [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035) | Ivanti Sentry CVE-2023-38035 | 2023-08-23T17:34:36Z|
@@ -554,6 +556,7 @@
 | [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z|
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z|
+| [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664) | Proof of concept developed for the CVE-2023-36664 | 2023-12-02T10:28:10Z|
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-36427](https://www.cve.org/CVERecord?id=CVE-2023-36427) | [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) | Report and exploit of CVE-2023-36427 | 2023-10-09T16:55:18Z|
@@ -1120,6 +1123,8 @@
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238) | no description | 2023-10-10T06:46:00Z|
 | [CVE-2023-21238](https://www.cve.org/CVERecord?id=CVE-2023-21238) | [iceberg-N/cve-2023-test11](https://github.com/iceberg-N/cve-2023-test11) | cve-2023-test | 2023-10-10T00:52:18Z|
 | [CVE-2023-21145](https://www.cve.org/CVERecord?id=CVE-2023-21145) | [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145) | no description | 2023-12-07T06:41:00Z|
+| [CVE-2023-21144](https://www.cve.org/CVERecord?id=CVE-2023-21144) | [hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new](https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new) | no description | 2023-12-12T05:54:11Z|
+| [CVE-2023-21144](https://www.cve.org/CVERecord?id=CVE-2023-21144) | [hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144](https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144) | no description | 2023-12-12T05:14:32Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-21118](https://www.cve.org/CVERecord?id=CVE-2023-21118) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118) | no description | 2023-12-08T11:29:23Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109) | no description | 2023-11-18T07:56:12Z|
