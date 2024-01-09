@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-08 01:58:17.579597
+ Last generated : 2024-01-09 01:58:19.319072
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
@@ -452,6 +453,7 @@
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [j0yb0y0h/CVE-2023-38646](https://github.com/j0yb0y0h/CVE-2023-38646) | Code to detect/exploit vulnerable metabase application | 2023-11-09T13:13:25Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [aaaademo/Confluence-EvilJar](https://github.com/aaaademo/Confluence-EvilJar) | 配合 CVE-2023-22515 后台上传jar包实现RCE | 2023-11-09T12:55:25Z|
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Ego1stoo/CVE-2023-38646](https://github.com/Ego1stoo/CVE-2023-38646) | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | 2023-11-25T17:22:22Z|
+| [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [0utl4nder/Another-Metabase-RCE-CVE-2023-38646](https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646) | Metabase postgres (org.h2.Driver)  RCE without INIT | 2023-12-10T21:07:10Z|
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z|
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z|
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z|
@@ -797,6 +799,7 @@
 | [CVE-2023-31704](https://www.cve.org/CVERecord?id=CVE-2023-31704) | [d34dun1c02n/CVE-2023-31704](https://github.com/d34dun1c02n/CVE-2023-31704) | no description | 2023-07-13T01:16:37Z|
 | [CVE-2023-3163](https://www.cve.org/CVERecord?id=CVE-2023-3163) | [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention) | A simple and quick way to check if your SQL Developer by Oracle is vulnerable to SQL Injection (CVE-2023-3163), most commonly occurs when SQL Developer version &lt; 23.1.0. | 2023-06-09T18:43:05Z|
 | [CVE-2023-31606](https://www.cve.org/CVERecord?id=CVE-2023-31606) | [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606) | no description | 2023-06-03T14:13:48Z|
+| [CVE-2023-31546](https://www.cve.org/CVERecord?id=CVE-2023-31546) | [ran9ege/CVE-2023-31546](https://github.com/ran9ege/CVE-2023-31546) | no description | 2023-12-12T07:41:07Z|
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419](https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419) | Elasticsearch Stack Overflow Vulnerability | 2023-09-22T02:15:54Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [ayhan-dev/p0ropc](https://github.com/ayhan-dev/p0ropc) | CVE-2023-29336 | 2023-07-27T17:28:41Z|
