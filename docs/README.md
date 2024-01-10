@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-09 01:58:19.319072
+ Last generated : 2024-01-10 02:00:41.334685
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
+| [CVE-2023-5561](https://www.cve.org/CVERecord?id=CVE-2023-5561) | [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC) | WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack | 2023-12-13T16:43:18Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
 | [CVE-2023-5540](https://www.cve.org/CVERecord?id=CVE-2023-5540) | [cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540) | no description | 2023-10-18T07:58:33Z|
 | [CVE-2023-5539](https://www.cve.org/CVERecord?id=CVE-2023-5539) | [cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539) | no description | 2023-10-18T07:58:25Z|
@@ -987,6 +988,7 @@
 | [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048) | no description | 2023-11-01T06:57:10Z|
 | [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [hshivhare67/Jetty-v9.4.31_CVE-2023-26048](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048) | no description | 2023-11-27T07:19:49Z|
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035) | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | 2023-12-11T19:23:13Z|
+| [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035) | POC script for CVE-2023-26035 (zoneminder 1.36.32) | 2023-12-13T15:40:24Z|
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
@@ -1299,6 +1301,7 @@
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [jnschaeffer/cve-2022-44268-detector](https://github.com/jnschaeffer/cve-2022-44268-detector) | Detect images that likely exploit CVE-2022-44268 | 2023-02-04T01:35:08Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [kljunowsky/CVE-2022-44268](https://github.com/kljunowsky/CVE-2022-44268) | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | 2023-02-13T02:00:51Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [betillogalvanfbc/POC-CVE-2022-44268](https://github.com/betillogalvanfbc/POC-CVE-2022-44268) | no description | 2023-03-22T21:26:20Z|
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [fanbyprinciple/ImageMagick-lfi-poc](https://github.com/fanbyprinciple/ImageMagick-lfi-poc) | ImageMagick Arbitrary Read Files - CVE-2022-44268 | 2023-07-23T06:56:59Z|
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z|
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z|
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z|
