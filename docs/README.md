@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-10 02:00:41.334685
+ Last generated : 2024-01-11 01:56:50.439293
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
@@ -37,9 +38,13 @@
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
+| [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164) | A scanning utility and PoC for CVE-2023-50164 | 2023-12-15T21:19:51Z|
+| [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
+| [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
@@ -74,6 +79,7 @@
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103) | CVE-2023-49103 scanner for shodan.io downloaded json files | 2023-12-02T11:03:19Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment) | Researching on the vulnrability CVE-2023-26136 | 2023-12-04T13:01:29Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test) | A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432 | 2023-12-03T13:45:34Z|
+| [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC) | no description | 2023-12-14T09:32:41Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
@@ -161,6 +167,7 @@
 | [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z|
 | [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z|
 | [CVE-2023-46404](https://www.cve.org/CVERecord?id=CVE-2023-46404) | [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404) | PoC and Writeup for CVE-2023-46404. | 2023-10-26T15:01:32Z|
+| [CVE-2023-4636](https://www.cve.org/CVERecord?id=CVE-2023-4636) | [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636) | Unauthenticated Remote Code Execution with default Imagick | 2023-12-13T17:59:02Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
@@ -191,6 +198,7 @@
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z|
+| [CVE-2023-45184](https://www.cve.org/CVERecord?id=CVE-2023-45184) | [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184) | IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control. | 2023-12-15T14:04:32Z|
 | [CVE-2023-45158](https://www.cve.org/CVERecord?id=CVE-2023-45158) | [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158) | no description | 2023-11-04T21:14:09Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
 | [CVE-2023-44961](https://www.cve.org/CVERecord?id=CVE-2023-44961) | [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961) | PoC for CVE-2023-44961 | 2023-10-05T07:27:45Z|
@@ -300,6 +308,8 @@
 | [CVE-2023-42284](https://www.cve.org/CVERecord?id=CVE-2023-42284) | [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284) | Proof of concept for CVE-2023-42284 in Tyk Gateway | 2023-10-30T19:24:48Z|
 | [CVE-2023-42283](https://www.cve.org/CVERecord?id=CVE-2023-42283) | [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283) | Proof of concept for CVE-2023-42283 in Tyk Gateway | 2023-10-30T19:05:41Z|
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z|
+| [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z|
+| [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z|
 | [CVE-2023-4207](https://www.cve.org/CVERecord?id=CVE-2023-4207) | [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207) | no description | 2023-11-23T04:50:24Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [hrtowii/cve-2023-41993-test](https://github.com/hrtowii/cve-2023-41993-test) | testing poc | 2023-10-16T15:43:50Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
@@ -778,6 +788,7 @@
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315) | no description | 2023-06-14T09:17:25Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315) | Tool for CVE-2023-32315 exploitation | 2023-08-31T08:43:44Z|
 | [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [CN016/Openfire-RCE-CVE-2023-32315-](https://github.com/CN016/Openfire-RCE-CVE-2023-32315-) | Openfire未授权到RCE(CVE-2023-32315)复现 | 2023-10-10T08:48:42Z|
+| [CVE-2023-32315](https://www.cve.org/CVERecord?id=CVE-2023-32315) | [K3ysTr0K3R/CVE-2023-32315-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT) | A PoC exploit for CVE-2023-32315 - Openfire Authentication Bypass | 2023-12-15T16:30:51Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [Jenderal92/WP-CVE-2023-32243](https://github.com/Jenderal92/WP-CVE-2023-32243) | Python 2.7 | 2023-07-03T04:16:16Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept) | no description | 2023-06-26T08:17:47Z|
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243) | CVE-2023-32243 - Essential Addons for Elementor 5.4.0-5.7.1 - Unauthenticated Privilege Escalation | 2023-05-15T09:39:45Z|
@@ -818,6 +829,7 @@
 | [CVE-2023-3079](https://www.cve.org/CVERecord?id=CVE-2023-3079) | [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) | no description | 2023-08-15T04:16:46Z|
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
+| [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547) | PoC Exploit  for VM2 Sandbox Escape Vulnerability | 2023-12-10T08:32:26Z|
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
@@ -1065,6 +1077,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
+| [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x0d3ad/CVE-2023-22518](https://github.com/0x0d3ad/CVE-2023-22518) | Exploit CVE-2023-22518 | 2023-11-09T06:56:18Z|
@@ -1187,6 +1200,7 @@
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [netbell/CVE-2023-20198-Fix](https://github.com/netbell/CVE-2023-20198-Fix) | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | 2023-12-08T21:12:00Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Vulnmachines/Cisco_CVE-2023-20198](https://github.com/Vulnmachines/Cisco_CVE-2023-20198) | Cisco CVE-2023-20198 | 2023-12-11T10:41:48Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752) | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | 2023-12-10T16:11:37Z|
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [codeb0ss/CVE-2023-20198-PoC](https://github.com/codeb0ss/CVE-2023-20198-PoC) | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | 2023-12-13T22:45:25Z|
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z|
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z|
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z|
