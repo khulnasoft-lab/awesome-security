@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-11 01:56:50.439293
+ Last generated : 2024-01-12 01:58:03.481007
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
+| [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
@@ -16,6 +17,7 @@
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
+| [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
 | [CVE-2023-5561](https://www.cve.org/CVERecord?id=CVE-2023-5561) | [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC) | WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack | 2023-12-13T16:43:18Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
@@ -36,6 +38,8 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
+| [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z|
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z|
 | [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z|
@@ -43,9 +47,13 @@
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164) | A scanning utility and PoC for CVE-2023-50164 | 2023-12-15T21:19:51Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [helsecert/cve-2023-50164](https://github.com/helsecert/cve-2023-50164) | no description | 2023-12-18T08:24:26Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [SangPenyalang/CVE2023-29484](https://github.com/SangPenyalang/CVE2023-29484) | no description | 2023-12-18T12:03:09Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc) | Proof of Concept for Path Traversal in Apache Struts (&quot;CVE-2023-50164&quot;) | 2023-12-17T14:18:54Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
+| [CVE-2023-49954](https://www.cve.org/CVERecord?id=CVE-2023-49954) | [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io) | SQL Injection in 3CX CRM Integration | 2023-12-14T18:38:28Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
@@ -1056,6 +1064,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [K3ysTr0K3R/CVE-2023-23752-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT) | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | 2023-12-04T13:05:08Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752) | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability&#x27;s exploitation. | 2023-12-01T02:25:04Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [hadrian3689/CVE-2023-23752_Joomla](https://github.com/hadrian3689/CVE-2023-23752_Joomla) | no description | 2023-12-11T17:30:31Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [JeneralMotors/CVE-2023-23752](https://github.com/JeneralMotors/CVE-2023-23752) | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | 2023-12-18T00:47:27Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
