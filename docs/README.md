@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-12 01:58:03.481007
+ Last generated : 2024-01-13 01:55:18.862728
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -52,6 +52,8 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc) | Proof of Concept for Path Traversal in Apache Struts (&quot;CVE-2023-50164&quot;) | 2023-12-17T14:18:54Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
+| [CVE-2023-49980](https://www.cve.org/CVERecord?id=CVE-2023-49980) | [geraldoalcantara/CVE-2023-49980](https://github.com/geraldoalcantara/CVE-2023-49980) | Best Student Result Management System 1.0 - Directory Listing CVE-2023-49980 | 2023-11-28T13:40:06Z|
+| [CVE-2023-49976](https://www.cve.org/CVERecord?id=CVE-2023-49976) | [geraldoalcantara/CVE-2023-49976](https://github.com/geraldoalcantara/CVE-2023-49976) | Customer Support System 1.0 is vulnerable to stored XSS. A XSS vulnerability exists in version 1 of the Customer Support System. A malicious actor can insert JavaScript code through the &quot;subject&quot; field when editing/creating a ticket. | 2023-11-28T13:53:45Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49954](https://www.cve.org/CVERecord?id=CVE-2023-49954) | [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io) | SQL Injection in 3CX CRM Integration | 2023-12-14T18:38:28Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
@@ -68,6 +70,10 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966) | Scripts to get infos | 2023-11-20T17:32:16Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966) | Programm to exploit a range of ip adresses | 2023-11-27T09:51:30Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs) | Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation. | 2023-12-08T10:28:15Z|
+| [CVE-2023-49547](https://www.cve.org/CVERecord?id=CVE-2023-49547) | [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547) | Customer Support System 1.0 - SQL Injection Login Bypass | 2023-11-28T12:59:10Z|
+| [CVE-2023-49545](https://www.cve.org/CVERecord?id=CVE-2023-49545) | [geraldoalcantara/CVE-2023-49545](https://github.com/geraldoalcantara/CVE-2023-49545) | Customer Support System 1.0 - Directory Listing | 2023-11-28T05:33:06Z|
+| [CVE-2023-49544](https://www.cve.org/CVERecord?id=CVE-2023-49544) | [geraldoalcantara/CVE-2023-49544](https://github.com/geraldoalcantara/CVE-2023-49544) | Customer Support System 1.0 - Local File Inclusion | 2023-11-28T06:21:51Z|
+| [CVE-2023-49543](https://www.cve.org/CVERecord?id=CVE-2023-49543) | [geraldoalcantara/CVE-2023-49543](https://github.com/geraldoalcantara/CVE-2023-49543) | Book Store Management System v1.0 - Incorrect Access Control | 2023-12-19T21:10:14Z|
 | [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
 | [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
@@ -87,6 +93,7 @@
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [MixColumns/CVE-2023-49103](https://github.com/MixColumns/CVE-2023-49103) | CVE-2023-49103 scanner for shodan.io downloaded json files | 2023-12-02T11:03:19Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment) | Researching on the vulnrability CVE-2023-26136 | 2023-12-04T13:01:29Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test) | A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432 | 2023-12-03T13:45:34Z|
+| [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [merlin-ke/OwnCloud-CVE-2023-49103](https://github.com/merlin-ke/OwnCloud-CVE-2023-49103) | OwnCloud CVE-2023-49103 | 2023-12-19T07:56:18Z|
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC) | no description | 2023-12-14T09:32:41Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
@@ -1065,6 +1072,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752) | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability&#x27;s exploitation. | 2023-12-01T02:25:04Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [hadrian3689/CVE-2023-23752_Joomla](https://github.com/hadrian3689/CVE-2023-23752_Joomla) | no description | 2023-12-11T17:30:31Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [JeneralMotors/CVE-2023-23752](https://github.com/JeneralMotors/CVE-2023-23752) | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | 2023-12-18T00:47:27Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [gunzf0x/CVE-2023-23752](https://github.com/gunzf0x/CVE-2023-23752) | Binaries for &quot;CVE-2023-23752&quot; | 2023-12-19T20:18:49Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
@@ -1469,6 +1477,7 @@
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z|
 | [CVE-2022-23773](https://www.cve.org/CVERecord?id=CVE-2022-23773) | [YouShengLiu/CVE-2022-23773-Reproduce](https://github.com/YouShengLiu/CVE-2022-23773-Reproduce) | no description | 2023-03-19T10:08:47Z|
 | [CVE-2022-23614](https://www.cve.org/CVERecord?id=CVE-2022-23614) | [4rtamis/CVE-2022-23614](https://github.com/4rtamis/CVE-2022-23614) | Proof of concept for CVE-2022-23614 (command injection in Twig) | 2023-07-04T15:52:50Z|
+| [CVE-2022-23305](https://www.cve.org/CVERecord?id=CVE-2022-23305) | [tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) | CVE-2022-23305 Log4J JDBCAppender SQl injection POC | 2023-07-24T18:52:15Z|
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Inplex-sys/CVE-2022-23093](https://github.com/Inplex-sys/CVE-2022-23093) | The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc | 2023-03-02T20:18:54Z|
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978) | no description | 2023-03-16T09:34:17Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [BKLockly/CVE-2022-22965](https://github.com/BKLockly/CVE-2022-22965) | Poc&amp;Exp,支持批量扫描,反弹shell | 2023-06-03T16:39:50Z|
