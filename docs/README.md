@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-13 01:55:18.862728
+ Last generated : 2024-01-14 02:03:05.568148
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -53,7 +53,11 @@
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-49980](https://www.cve.org/CVERecord?id=CVE-2023-49980) | [geraldoalcantara/CVE-2023-49980](https://github.com/geraldoalcantara/CVE-2023-49980) | Best Student Result Management System 1.0 - Directory Listing CVE-2023-49980 | 2023-11-28T13:40:06Z|
+| [CVE-2023-49979](https://www.cve.org/CVERecord?id=CVE-2023-49979) | [geraldoalcantara/CVE-2023-49979](https://github.com/geraldoalcantara/CVE-2023-49979) | Best Student Management System v1.0 - Incorrect Access Control - Directory Listing | 2023-12-20T03:01:53Z|
+| [CVE-2023-49978](https://www.cve.org/CVERecord?id=CVE-2023-49978) | [geraldoalcantara/CVE-2023-49978](https://github.com/geraldoalcantara/CVE-2023-49978) | Customer Support System 1.0 - Incorrect Access Control | 2023-12-20T01:51:28Z|
+| [CVE-2023-49977](https://www.cve.org/CVERecord?id=CVE-2023-49977) | [geraldoalcantara/CVE-2023-49977](https://github.com/geraldoalcantara/CVE-2023-49977) | Customer Support System 1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;Address&quot; field/parameter on &quot;customer_list&quot; Page | 2023-12-20T01:43:06Z|
 | [CVE-2023-49976](https://www.cve.org/CVERecord?id=CVE-2023-49976) | [geraldoalcantara/CVE-2023-49976](https://github.com/geraldoalcantara/CVE-2023-49976) | Customer Support System 1.0 is vulnerable to stored XSS. A XSS vulnerability exists in version 1 of the Customer Support System. A malicious actor can insert JavaScript code through the &quot;subject&quot; field when editing/creating a ticket. | 2023-11-28T13:53:45Z|
+| [CVE-2023-49974](https://www.cve.org/CVERecord?id=CVE-2023-49974) | [geraldoalcantara/CVE-2023-49974](https://github.com/geraldoalcantara/CVE-2023-49974) | Customer Support System 1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;contact&quot; field/parameter on &quot;customer_list&quot; Page | 2023-12-20T01:31:08Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49954](https://www.cve.org/CVERecord?id=CVE-2023-49954) | [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io) | SQL Injection in 3CX CRM Integration | 2023-12-14T18:38:28Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
@@ -1838,6 +1842,7 @@
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [ch4t4pt/CVE-2021-26084-EXP](https://github.com/ch4t4pt/CVE-2021-26084-EXP) | no description | 2023-07-03T07:31:29Z|
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [smadi0x86/CVE-2021-26084](https://github.com/smadi0x86/CVE-2021-26084) | Confluence server webwork OGNL injection | 2021-09-05T09:27:55Z|
 | [CVE-2021-25641](https://www.cve.org/CVERecord?id=CVE-2021-25641) | [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641) | A Exploit Tool For CVE-2021-25641. | 2022-11-10T06:33:54Z|
+| [CVE-2021-25253](https://www.cve.org/CVERecord?id=CVE-2021-25253) | [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253) | no description | 2023-05-12T20:51:50Z|
 | [CVE-2021-24741](https://www.cve.org/CVERecord?id=CVE-2021-24741) | [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741) | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | 2021-08-28T18:34:40Z|
 | [CVE-2021-24647](https://www.cve.org/CVERecord?id=CVE-2021-24647) | [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647) | CVE-2021-24647 Pie Register &lt; 3.7.1.6 - Unauthenticated Arbitrary Login | 2023-06-15T09:51:36Z|
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z|
