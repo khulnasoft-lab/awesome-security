@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-14 02:03:05.568148
+ Last generated : 2024-01-15 02:00:13.435762
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -52,6 +52,9 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc) | Proof of Concept for Path Traversal in Apache Struts (&quot;CVE-2023-50164&quot;) | 2023-12-17T14:18:54Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
+| [CVE-2023-49987](https://www.cve.org/CVERecord?id=CVE-2023-49987) | [geraldoalcantara/CVE-2023-49987](https://github.com/geraldoalcantara/CVE-2023-49987) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;tname&quot; parameter on &quot;new_term&quot; | 2023-12-20T04:30:49Z|
+| [CVE-2023-49986](https://www.cve.org/CVERecord?id=CVE-2023-49986) | [geraldoalcantara/CVE-2023-49986](https://github.com/geraldoalcantara/CVE-2023-49986) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; parameter on &quot;add_new_parent&quot; | 2023-12-20T04:21:46Z|
+| [CVE-2023-49982](https://www.cve.org/CVERecord?id=CVE-2023-49982) | [geraldoalcantara/CVE-2023-49982](https://github.com/geraldoalcantara/CVE-2023-49982) | School Fees Management System v1.0 - Incorrect Access Control - Privilege Escalation | 2023-12-20T03:44:16Z|
 | [CVE-2023-49980](https://www.cve.org/CVERecord?id=CVE-2023-49980) | [geraldoalcantara/CVE-2023-49980](https://github.com/geraldoalcantara/CVE-2023-49980) | Best Student Result Management System 1.0 - Directory Listing CVE-2023-49980 | 2023-11-28T13:40:06Z|
 | [CVE-2023-49979](https://www.cve.org/CVERecord?id=CVE-2023-49979) | [geraldoalcantara/CVE-2023-49979](https://github.com/geraldoalcantara/CVE-2023-49979) | Best Student Management System v1.0 - Incorrect Access Control - Directory Listing | 2023-12-20T03:01:53Z|
 | [CVE-2023-49978](https://www.cve.org/CVERecord?id=CVE-2023-49978) | [geraldoalcantara/CVE-2023-49978](https://github.com/geraldoalcantara/CVE-2023-49978) | Customer Support System 1.0 - Incorrect Access Control | 2023-12-20T01:51:28Z|
