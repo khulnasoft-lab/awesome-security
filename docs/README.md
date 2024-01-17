@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-16 02:01:23.964952
+ Last generated : 2024-01-17 01:57:41.801876
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -50,10 +50,19 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [helsecert/cve-2023-50164](https://github.com/helsecert/cve-2023-50164) | no description | 2023-12-18T08:24:26Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [SangPenyalang/CVE2023-29484](https://github.com/SangPenyalang/CVE2023-29484) | no description | 2023-12-18T12:03:09Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc) | Proof of Concept for Path Traversal in Apache Struts (&quot;CVE-2023-50164&quot;) | 2023-12-17T14:18:54Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Trackflaw/CVE-2023-50164-ApacheStruts2-Docker](https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker) | Vulnerable docker container for Apache Struts 2 RCE CVE-2023-50164 | 2023-12-20T08:46:19Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE](https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE) | no description | 2023-12-20T08:39:54Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
+| [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z|
+| [CVE-2023-49989](https://www.cve.org/CVERecord?id=CVE-2023-49989) | [geraldoalcantara/CVE-2023-49989](https://github.com/geraldoalcantara/CVE-2023-49989) | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;id&quot; parameter at update.php | 2023-12-20T04:46:28Z|
+| [CVE-2023-49988](https://www.cve.org/CVERecord?id=CVE-2023-49988) | [geraldoalcantara/CVE-2023-49988](https://github.com/geraldoalcantara/CVE-2023-49988) | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;npss&quot; parameter at rooms.php | 2023-12-20T04:36:35Z|
 | [CVE-2023-49987](https://www.cve.org/CVERecord?id=CVE-2023-49987) | [geraldoalcantara/CVE-2023-49987](https://github.com/geraldoalcantara/CVE-2023-49987) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;tname&quot; parameter on &quot;new_term&quot; | 2023-12-20T04:30:49Z|
 | [CVE-2023-49986](https://www.cve.org/CVERecord?id=CVE-2023-49986) | [geraldoalcantara/CVE-2023-49986](https://github.com/geraldoalcantara/CVE-2023-49986) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; parameter on &quot;add_new_parent&quot; | 2023-12-20T04:21:46Z|
+| [CVE-2023-49985](https://www.cve.org/CVERecord?id=CVE-2023-49985) | [geraldoalcantara/CVE-2023-49985](https://github.com/geraldoalcantara/CVE-2023-49985) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;cname&quot; parameter on &quot;new_class&quot; | 2023-12-20T04:12:02Z|
+| [CVE-2023-49984](https://www.cve.org/CVERecord?id=CVE-2023-49984) | [geraldoalcantara/CVE-2023-49984](https://github.com/geraldoalcantara/CVE-2023-49984) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; field/parameter on &quot;/management/settings&quot; | 2023-12-20T04:06:00Z|
+| [CVE-2023-49984](https://www.cve.org/CVERecord?id=CVE-2023-49984) | [francozappa/bluffs](https://github.com/francozappa/bluffs) | Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] | 2023-11-10T09:37:31Z|
+| [CVE-2023-49983](https://www.cve.org/CVERecord?id=CVE-2023-49983) | [geraldoalcantara/CVE-2023-49983](https://github.com/geraldoalcantara/CVE-2023-49983) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; field/parameter on &quot;/management/class&quot; | 2023-12-20T03:56:16Z|
 | [CVE-2023-49982](https://www.cve.org/CVERecord?id=CVE-2023-49982) | [geraldoalcantara/CVE-2023-49982](https://github.com/geraldoalcantara/CVE-2023-49982) | School Fees Management System v1.0 - Incorrect Access Control - Privilege Escalation | 2023-12-20T03:44:16Z|
 | [CVE-2023-49981](https://www.cve.org/CVERecord?id=CVE-2023-49981) | [geraldoalcantara/CVE-2023-49981](https://github.com/geraldoalcantara/CVE-2023-49981) | School Fees Management System v1.0 - Incorrect Access Control - Directory Listing | 2023-12-20T03:19:09Z|
 | [CVE-2023-49980](https://www.cve.org/CVERecord?id=CVE-2023-49980) | [geraldoalcantara/CVE-2023-49980](https://github.com/geraldoalcantara/CVE-2023-49980) | Best Student Result Management System 1.0 - Directory Listing CVE-2023-49980 | 2023-11-28T13:40:06Z|
@@ -121,6 +130,7 @@
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
+| [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [caoweiquan322/NotEnough](https://github.com/caoweiquan322/NotEnough) | This tool calculates tricky canonical huffman histogram for CVE-2023-4863. | 2023-12-19T01:32:45Z|
 | [CVE-2023-48200](https://www.cve.org/CVERecord?id=CVE-2023-48200) | [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200) | no description | 2023-11-14T17:02:07Z|
 | [CVE-2023-48199](https://www.cve.org/CVERecord?id=CVE-2023-48199) | [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199) | no description | 2023-11-14T16:50:31Z|
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z|
@@ -456,6 +466,7 @@
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial) | WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现 | 2023-11-15T07:01:05Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC) | Proof-of-concept of CVE-2023-38831 | 2023-12-04T11:13:43Z|
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP) | no description | 2023-12-10T07:13:38Z|
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [SpamixOfficial/CVE-2023-38831](https://github.com/SpamixOfficial/CVE-2023-38831) | CVE-2023-38831 Proof-of-concept code | 2023-12-12T14:54:30Z|
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z|
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z|
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z|
@@ -1114,6 +1125,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
+| [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | 2023-11-05T06:45:33Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x0d3ad/CVE-2023-22518](https://github.com/0x0d3ad/CVE-2023-22518) | Exploit CVE-2023-22518 | 2023-11-09T06:56:18Z|
