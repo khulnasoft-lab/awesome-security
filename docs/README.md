@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-18 02:08:25.170573
+ Last generated : 2024-01-19 01:59:20.109791
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
+| [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
@@ -917,6 +919,7 @@
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489) | CVE-2023-29489-XSS | 2023-06-01T18:13:17Z|
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489) | no description | 2023-10-17T11:18:53Z|
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [SynixCyberCrimeMy/CVE-2023-29489](https://github.com/SynixCyberCrimeMy/CVE-2023-29489) | SynixCyberCrimeMY CVE-2023-29489 Scanner By SamuraiMelayu1337 &amp; h4zzzzzz@scc | 2023-11-16T20:24:11Z|
+| [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Makurorororororororo/Validate-CVE-2023-29489-scanner-](https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner-) | no description | 2023-12-23T06:28:32Z|
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z|
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z|
 | [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360) | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | 2023-09-24T21:59:23Z|
@@ -1292,6 +1295,8 @@
 | [CVE-2023-0630](https://www.cve.org/CVERecord?id=CVE-2023-0630) | [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) | CVE-2023-0630 - Slimstat Analytics &lt; 4.9.3.3 - Subscriber+ SQL Injection | 2023-06-09T12:02:55Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386) | 非常简单的CVE-2023-0386&#x27;s exp and analysis.Use c and sh. | 2023-06-28T07:49:52Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) | CVE-2023-0386在ubuntu22.04上的提权 | 2023-05-05T03:02:13Z|
+| [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [puckiestyle/CVE-2023-0386](https://github.com/puckiestyle/CVE-2023-0386) | no description | 2023-12-23T11:01:55Z|
+| [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [actuator/com.tcl.browser](https://github.com/actuator/com.tcl.browser) | CVE-2023-43481 | 2023-09-13T02:03:34Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z|
@@ -1477,6 +1482,7 @@
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z|
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455-mass](https://github.com/tucommenceapousser/CVE-2022-29455-mass) | no description | 2023-06-01T01:44:45Z|
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z|
+| [CVE-2022-29078](https://www.cve.org/CVERecord?id=CVE-2022-29078) | [liam-star-black-master/expluatation_CVE-2022-29078](https://github.com/liam-star-black-master/expluatation_CVE-2022-29078) | no description | 2023-07-26T18:42:09Z|
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [rvizx/CVE-2022-28368](https://github.com/rvizx/CVE-2022-28368) | Dompdf RCE PoC Exploit - CVE-2022-28368 | 2023-02-13T08:10:00Z|
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [straight-tamago/NoCameraSound](https://github.com/straight-tamago/NoCameraSound) | CVE-2022-46689 | 2022-12-26T00:08:55Z|
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [Prikalel/django-xss-example](https://github.com/Prikalel/django-xss-example) | This repo reproduce xss attack on django 4.0.1 (see CVE-2022-22818) | 2022-12-10T12:38:08Z|
