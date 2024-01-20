@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-19 01:59:20.109791
+ Last generated : 2024-01-20 01:56:32.912487
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -40,6 +40,8 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
@@ -107,6 +109,7 @@
 | [CVE-2023-49540](https://www.cve.org/CVERecord?id=CVE-2023-49540) | [geraldoalcantara/CVE-2023-49540](https://github.com/geraldoalcantara/CVE-2023-49540) | Book Store Management System v1.0 - Cross-site scripting (XSS) vulnerability in /index.php/history - vulnerable field: &quot;Customer&#x27;s Name&quot;. | 2023-12-19T20:50:09Z|
 | [CVE-2023-49539](https://www.cve.org/CVERecord?id=CVE-2023-49539) | [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539) | Book Store Management System v1.0 - Cross-site scripting (XSS) vulnerability in &quot;index.php/category&quot; - vulnerable field: &quot;Category Name&quot; | 2023-12-19T20:31:36Z|
 | [CVE-2023-49539](https://www.cve.org/CVERecord?id=CVE-2023-49539) | [KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft) | this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF | 2023-12-20T06:29:18Z|
+| [CVE-2023-49471](https://www.cve.org/CVERecord?id=CVE-2023-49471) | [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471) | no description | 2023-12-24T15:40:24Z|
 | [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
 | [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
@@ -119,6 +122,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911) | no description | 2023-10-10T22:04:23Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [puckiestyle/CVE-2023-4911](https://github.com/puckiestyle/CVE-2023-4911) | no description | 2023-12-23T11:54:40Z|
 | [CVE-2023-49105](https://www.cve.org/CVERecord?id=CVE-2023-49105) | [ambionics/owncloud-exploits](https://github.com/ambionics/owncloud-exploits) | ownCloud exploits for CVE-2023-49105 | 2023-12-05T11:35:12Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103) | PoC for the CVE-2023-49103 | 2023-11-22T17:00:23Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix) | Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12 | 2023-11-29T19:46:15Z|
@@ -369,6 +373,7 @@
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [Zenyith/CVE-2023-41991](https://github.com/Zenyith/CVE-2023-41991) | no description | 2023-11-28T23:59:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
+| [CVE-2023-41772](https://www.cve.org/CVERecord?id=CVE-2023-41772) | [R41N3RZUF477/CVE-2023-41772](https://github.com/R41N3RZUF477/CVE-2023-41772) | no description | 2023-12-19T11:21:12Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
 | [CVE-2023-41717](https://www.cve.org/CVERecord?id=CVE-2023-41717) | [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717) | This repository is to provide a write-up and PoC for CVE-2023-41717. | 2023-08-31T08:10:22Z|
@@ -405,6 +410,7 @@
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC) | CVE-2023-40477 PoC by Wild-Pointer | 2023-08-29T16:29:48Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831) | no description | 2023-08-30T10:48:04Z|
 | [CVE-2023-40429](https://www.cve.org/CVERecord?id=CVE-2023-40429) | [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name) | CVE-2023-40429: An app may be able to access sensitive user data. | 2023-10-09T21:52:56Z|
+| [CVE-2023-40362](https://www.cve.org/CVERecord?id=CVE-2023-40362) | [ally-petitt/CVE-2023-40362](https://github.com/ally-petitt/CVE-2023-40362) | CVE-2023-40362 Vulnerabilitiy details and proof of concept | 2023-08-26T01:35:43Z|
 | [CVE-2023-40361](https://www.cve.org/CVERecord?id=CVE-2023-40361) | [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361) | Security Vulnerability - SECUDOS Qiata | 2023-10-16T08:49:25Z|
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
@@ -948,6 +954,7 @@
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432) | CVE-2023-28432检测工具 | 2023-08-21T06:03:25Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432) | no description | 2023-10-20T10:20:10Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [unam4/CVE-2023-28432-minio_update_rce](https://github.com/unam4/CVE-2023-28432-minio_update_rce) | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | 2023-11-26T18:23:33Z|
+| [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432) | CVE-2023-28432 Minio Information isclosure Exploit | 2023-12-07T03:33:37Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
 | [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z|
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z|
@@ -1056,6 +1063,7 @@
 | [CVE-2023-26048](https://www.cve.org/CVERecord?id=CVE-2023-26048) | [hshivhare67/Jetty-v9.4.31_CVE-2023-26048](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048) | no description | 2023-11-27T07:19:49Z|
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035) | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | 2023-12-11T19:23:13Z|
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035) | POC script for CVE-2023-26035 (zoneminder 1.36.32) | 2023-12-13T15:40:24Z|
+| [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035) | ZoneMinder Snapshots - Unauthenticated | 2023-12-24T13:37:39Z|
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
@@ -1114,6 +1122,7 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [JeneralMotors/CVE-2023-23752](https://github.com/JeneralMotors/CVE-2023-23752) | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | 2023-12-18T00:47:27Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [gunzf0x/CVE-2023-23752](https://github.com/gunzf0x/CVE-2023-23752) | Binaries for &quot;CVE-2023-23752&quot; | 2023-12-19T20:18:49Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [TindalyTn/CVE-2023-23752](https://github.com/TindalyTn/CVE-2023-23752) | Mass Scanner for CVE-2023-23752 | 2023-12-20T20:20:15Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [C1ph3rX13/CVE-2023-23752](https://github.com/C1ph3rX13/CVE-2023-23752) | CVE-2023-23752 Joomla Unauthenticated Information Disclosure | 2023-12-13T03:13:54Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
@@ -1509,6 +1518,7 @@
 | [CVE-2022-25012](https://www.cve.org/CVERecord?id=CVE-2022-25012) | [s3l33/CVE-2022-25012](https://github.com/s3l33/CVE-2022-25012) | Updated version of this weak password encryption script | 2023-04-01T04:21:18Z|
 | [CVE-2022-24992](https://www.cve.org/CVERecord?id=CVE-2022-24992) | [n0lsecurity/CVE-2022-24992](https://github.com/n0lsecurity/CVE-2022-24992) | CVE-2022–24992 | 2023-07-11T14:26:58Z|
 | [CVE-2022-24934](https://www.cve.org/CVERecord?id=CVE-2022-24934) | [webraybtl/CVE-2022-24934](https://github.com/webraybtl/CVE-2022-24934) | no description | 2022-03-31T09:59:01Z|
+| [CVE-2022-24834](https://www.cve.org/CVERecord?id=CVE-2022-24834) | [convisolabs/CVE-2022-24834](https://github.com/convisolabs/CVE-2022-24834) | no description | 2023-07-28T17:42:33Z|
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [antisecc/CVE-2022-24716](https://github.com/antisecc/CVE-2022-24716) | no description | 2023-05-20T18:43:46Z|
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [joaoviictorti/CVE-2022-24716](https://github.com/joaoviictorti/CVE-2022-24716) | CVE-2022-24716 - Arbitrary File Disclosure Icingaweb2 | 2023-03-20T02:25:55Z|
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [JacobEbben/CVE-2022-24716](https://github.com/JacobEbben/CVE-2022-24716) | Arbitrary File Disclosure Vulnerability in Icinga Web 2 &lt;2.8.6, &lt;2.9.6, &lt;2.10 | 2023-03-19T20:41:46Z|
