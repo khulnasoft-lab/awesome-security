@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-20 01:56:32.912487
+ Last generated : 2024-01-21 02:05:30.186501
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,9 +39,13 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
+| [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Mudoleto/Broker_ApacheMQ](https://github.com/Mudoleto/Broker_ApacheMQ) | CVE-2023-46604 - ApacheMQ Version 5.15.5 Vulnerability  Machine: Broker | 2023-12-23T08:41:01Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [zls1793/CVE-2023-51385_test](https://github.com/zls1793/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-25T13:13:25Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
@@ -132,6 +136,7 @@
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test) | A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432 | 2023-12-03T13:45:34Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [merlin-ke/OwnCloud-CVE-2023-49103](https://github.com/merlin-ke/OwnCloud-CVE-2023-49103) | OwnCloud CVE-2023-49103 | 2023-12-19T07:56:18Z|
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC) | no description | 2023-12-14T09:32:41Z|
+| [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070) | Exploit Of Pre-auth RCE in Apache Ofbiz!! | 2023-12-17T22:56:10Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
@@ -864,6 +869,7 @@
 | [CVE-2023-31718](https://www.cve.org/CVERecord?id=CVE-2023-31718) | [MateusTesser/CVE-2023-31718](https://github.com/MateusTesser/CVE-2023-31718) | no description | 2023-09-21T00:27:10Z|
 | [CVE-2023-31717](https://www.cve.org/CVERecord?id=CVE-2023-31717) | [MateusTesser/CVE-2023-31717](https://github.com/MateusTesser/CVE-2023-31717) | no description | 2023-09-21T00:25:52Z|
 | [CVE-2023-31716](https://www.cve.org/CVERecord?id=CVE-2023-31716) | [MateusTesser/CVE-2023-31716](https://github.com/MateusTesser/CVE-2023-31716) | no description | 2023-09-21T00:24:25Z|
+| [CVE-2023-31714](https://www.cve.org/CVERecord?id=CVE-2023-31714) | [msd0pe-1/CVE-2023-31714](https://github.com/msd0pe-1/CVE-2023-31714) | no description | 2023-04-16T20:20:32Z|
 | [CVE-2023-31711](https://www.cve.org/CVERecord?id=CVE-2023-31711) | [HritikThapa7/CVE-2023-31711](https://github.com/HritikThapa7/CVE-2023-31711) | Zero-day Vulnerability in ZKTEco biometric fingerprint reader. | 2023-02-16T04:27:52Z|
 | [CVE-2023-31705](https://www.cve.org/CVERecord?id=CVE-2023-31705) | [d34dun1c02n/CVE-2023-31705](https://github.com/d34dun1c02n/CVE-2023-31705) | Reflected XSS | 2023-07-13T01:12:35Z|
 | [CVE-2023-31704](https://www.cve.org/CVERecord?id=CVE-2023-31704) | [d34dun1c02n/CVE-2023-31704](https://github.com/d34dun1c02n/CVE-2023-31704) | no description | 2023-07-13T01:16:37Z|
@@ -1426,6 +1432,7 @@
 | [CVE-2022-41544](https://www.cve.org/CVERecord?id=CVE-2022-41544) | [yosef0x01/CVE-2022-41544](https://github.com/yosef0x01/CVE-2022-41544) | Exploit script for CVE-2022-41544 - RCE in get-simple CMS | 2023-05-15T15:24:55Z|
 | [CVE-2022-41544](https://www.cve.org/CVERecord?id=CVE-2022-41544) | [HiImDarwin/NetworkSecurityFinalProject](https://github.com/HiImDarwin/NetworkSecurityFinalProject) | https://nvd.nist.gov/vuln/detail/CVE-2022-39253 | 2023-05-15T13:40:17Z|
 | [CVE-2022-41544](https://www.cve.org/CVERecord?id=CVE-2022-41544) | [Rickster5555/EH2-PoC](https://github.com/Rickster5555/EH2-PoC) | A simple PoC for CVE-2022-46169 a.k.a Cacti Unauthenticated Command Injection, a vulnerability allows an unauthenticated user to execute arbitrary code on a server running Cacti prior from version 1.2.17 to 1.2.22 | 2023-05-12T19:08:45Z|
+| [CVE-2022-41401](https://www.cve.org/CVERecord?id=CVE-2022-41401) | [ixSly/CVE-2022-41401](https://github.com/ixSly/CVE-2022-41401) | no description | 2023-07-31T18:20:35Z|
 | [CVE-2022-41333](https://www.cve.org/CVERecord?id=CVE-2022-41333) | [polar0x/CVE-2022-41333](https://github.com/polar0x/CVE-2022-41333) | CVE-2022-41333 | 2023-03-10T17:29:09Z|
 | [CVE-2022-41220](https://www.cve.org/CVERecord?id=CVE-2022-41220) | [Halcy0nic/CVE-2022-41220](https://github.com/Halcy0nic/CVE-2022-41220) | Proof of concept for CVE-2022-41220 | 2023-01-31T23:05:31Z|
 | [CVE-2022-41099](https://www.cve.org/CVERecord?id=CVE-2022-41099) | [o0MattE0o/CVE-2022-41099-Fix](https://github.com/o0MattE0o/CVE-2022-41099-Fix) | Update WINRE.WIM file to fix CVE-2022-41099 | 2023-01-16T08:57:29Z|
