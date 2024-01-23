@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-22 02:01:02.745643
+ Last generated : 2024-01-23 02:00:18.213641
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -35,6 +35,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360) | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | 2023-11-05T18:02:59Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [tucommenceapousser/CVE-2023-5360](https://github.com/tucommenceapousser/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:28:59Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [1337r0j4n/CVE-2023-5360](https://github.com/1337r0j4n/CVE-2023-5360) | CVE-2023-5360 Exploit/POC | 2023-11-13T12:51:34Z|
+| [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC) | CVE-2023-5360 EXPLOIT | 2023-12-27T09:32:05Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -46,6 +47,9 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Mudoleto/Broker_ApacheMQ](https://github.com/Mudoleto/Broker_ApacheMQ) | CVE-2023-46604 - ApacheMQ Version 5.15.5 Vulnerability  Machine: Broker | 2023-12-23T08:41:01Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [zls1793/CVE-2023-51385_test](https://github.com/zls1793/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-25T13:13:25Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [zhulin2/testCVE-2023-51385](https://github.com/zhulin2/testCVE-2023-51385) | no description | 2023-12-27T07:41:38Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WLaoDuo/CVE-2023-51385_poc-test](https://github.com/WLaoDuo/CVE-2023-51385_poc-test) | CVE-2023-51385;OpenSSH ProxyCommand RCE;OpenSSH &lt;9.6 命令注入漏洞poc | 2023-12-26T09:01:02Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385) | no description | 2023-12-25T07:43:29Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
@@ -378,6 +382,7 @@
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [Zenyith/CVE-2023-41991](https://github.com/Zenyith/CVE-2023-41991) | no description | 2023-11-28T23:59:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
+| [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [Faelian/CraftCMS_CVE-2023-41892](https://github.com/Faelian/CraftCMS_CVE-2023-41892) | Exploit for CVE-2023-41892 | 2023-12-26T18:31:27Z|
 | [CVE-2023-41772](https://www.cve.org/CVERecord?id=CVE-2023-41772) | [R41N3RZUF477/CVE-2023-41772](https://github.com/R41N3RZUF477/CVE-2023-41772) | no description | 2023-12-19T11:21:12Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -1355,6 +1360,7 @@
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application](https://github.com/m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2022-46169). Run it at your own risk! | 2023-04-01T19:20:29Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [Filiplain/Fortinet-PoC-Auth-Bypass](https://github.com/Filiplain/Fortinet-PoC-Auth-Bypass) | Bash PoC for Fortinet Auth Bypass - CVE-2022-40684 | 2022-10-13T19:53:17Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [doosec101/CVE-2022-46169](https://github.com/doosec101/CVE-2022-46169) | Repo for CVE-2022-46169 | 2023-03-20T22:54:18Z|
+| [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [dawnl3ss/CVE-2022-46169](https://github.com/dawnl3ss/CVE-2022-46169) | Unauthenticated Command Injection in Cacti &lt;= 1.2.22 | 2023-08-01T09:29:30Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ahanel13/CVE-2022-4616-POC](https://github.com/ahanel13/CVE-2022-4616-POC) | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | 2023-05-12T01:20:15Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner) | Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082 | 2022-10-07T08:10:00Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z|
