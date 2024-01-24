@@ -2,14 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-23 02:00:18.213641
+ Last generated : 2024-01-24 01:59:05.541975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
+| [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
+| [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
@@ -41,6 +44,7 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
+| [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
@@ -50,6 +54,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [zhulin2/testCVE-2023-51385](https://github.com/zhulin2/testCVE-2023-51385) | no description | 2023-12-27T07:41:38Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WLaoDuo/CVE-2023-51385_poc-test](https://github.com/WLaoDuo/CVE-2023-51385_poc-test) | CVE-2023-51385;OpenSSH ProxyCommand RCE;OpenSSH &lt;9.6 命令注入漏洞poc | 2023-12-26T09:01:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385) | no description | 2023-12-25T07:43:29Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT) | CVE-2023-51385测试POC | 2023-12-29T02:31:42Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
@@ -143,6 +148,7 @@
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070) | Exploit Of Pre-auth RCE in Apache Ofbiz!! | 2023-12-17T22:56:10Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
+| [CVE-2023-48974](https://www.cve.org/CVERecord?id=CVE-2023-48974) | [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974) | no description | 2023-12-28T23:24:22Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
 | [CVE-2023-48849](https://www.cve.org/CVERecord?id=CVE-2023-48849) | [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849) | no description | 2023-12-01T11:24:26Z|
 | [CVE-2023-48842](https://www.cve.org/CVERecord?id=CVE-2023-48842) | [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842) | no description | 2023-12-02T23:21:44Z|
@@ -232,6 +238,8 @@
 | [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z|
 | [CVE-2023-46404](https://www.cve.org/CVERecord?id=CVE-2023-46404) | [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404) | PoC and Writeup for CVE-2023-46404. | 2023-10-26T15:01:32Z|
 | [CVE-2023-4636](https://www.cve.org/CVERecord?id=CVE-2023-4636) | [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636) | Unauthenticated Remote Code Execution with default Imagick | 2023-12-13T17:59:02Z|
+| [CVE-2023-46344](https://www.cve.org/CVERecord?id=CVE-2023-46344) | [vinnie1717/CVE-2023-46344](https://github.com/vinnie1717/CVE-2023-46344) | no description | 2023-12-28T23:29:53Z|
+| [CVE-2023-46344](https://www.cve.org/CVERecord?id=CVE-2023-46344) | [r1yaz/winDED](https://github.com/r1yaz/winDED) | Exploit Development using python for CVE-2023-38831 (POC) | 2023-12-26T01:36:32Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634) | CVE-2023-4634 | 2023-09-05T07:44:15Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/wave.ai.browser](https://github.com/actuator/wave.ai.browser) | CVE-2023-42471 | 2023-08-28T05:34:04Z|
 | [CVE-2023-4634](https://www.cve.org/CVERecord?id=CVE-2023-4634) | [actuator/imou](https://github.com/actuator/imou) | CVE-2023-42470 | 2023-08-17T02:12:24Z|
@@ -425,6 +433,9 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z|
+| [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z|
+| [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z|
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z|
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z|
@@ -825,6 +836,7 @@
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) | no description | 2023-05-30T02:18:29Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [d0rb/CVE-2023-33246](https://github.com/d0rb/CVE-2023-33246) | CVE-2023-33246 POC | 2023-08-11T08:45:29Z|
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [0xKayala/CVE-2023-33246](https://github.com/0xKayala/CVE-2023-33246) | CVE-2023-33246 - Apache RocketMQ config RCE | 2023-10-28T07:08:19Z|
+| [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [MkJos/CVE-2023-33246_RocketMQ_RCE_EXP](https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP) | no description | 2023-12-26T12:41:30Z|
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
 | [CVE-2023-33242](https://www.cve.org/CVERecord?id=CVE-2023-33242) | [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242) | CVE-2023-33242  PoC | 2023-08-15T13:46:48Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
@@ -1075,6 +1087,7 @@
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035) | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | 2023-12-11T19:23:13Z|
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035) | POC script for CVE-2023-26035 (zoneminder 1.36.32) | 2023-12-13T15:40:24Z|
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035) | ZoneMinder Snapshots - Unauthenticated | 2023-12-24T13:37:39Z|
+| [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Faelian/zoneminder_CVE-2023-26035](https://github.com/Faelian/zoneminder_CVE-2023-26035) | Exploit for CVE-2023-26035 affecting ZoneMinder &lt; 1.36.33 and &lt; 1.37.33 | 2023-12-27T18:44:22Z|
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z|
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z|
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z|
@@ -1083,6 +1096,7 @@
 | [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z|
 | [CVE-2023-25292](https://www.cve.org/CVERecord?id=CVE-2023-25292) | [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292) | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | 2023-04-25T19:27:53Z|
 | [CVE-2023-2523](https://www.cve.org/CVERecord?id=CVE-2023-2523) | [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523) | no description | 2023-09-25T08:21:06Z|
+| [CVE-2023-25194](https://www.cve.org/CVERecord?id=CVE-2023-25194) | [YongYe-Security/CVE-2023-25194](https://github.com/YongYe-Security/CVE-2023-25194) | CVE-2023-25194 Scan | 2023-12-28T04:24:02Z|
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) | CVE-2023-25157 - GeoServer SQL Injection - PoC | 2023-06-06T14:05:09Z|
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker) | A script, written in golang. POC for CVE-2023-25157 | 2023-06-12T14:34:14Z|
@@ -1093,6 +1107,7 @@
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136) | OpenSSH 9.1漏洞大规模扫描和利用 | 2023-06-30T09:34:36Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136) | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | 2023-09-04T19:28:43Z|
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136) | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | 2023-09-21T12:05:35Z|
+| [CVE-2023-24955](https://www.cve.org/CVERecord?id=CVE-2023-24955) | [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC) | Exploit for Microsoft SharePoint 2019 | 2023-12-28T09:08:47Z|
 | [CVE-2023-24706](https://www.cve.org/CVERecord?id=CVE-2023-24706) | [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706) | CVE-2023-24706 | 2023-11-10T05:43:52Z|
 | [CVE-2023-24517](https://www.cve.org/CVERecord?id=CVE-2023-24517) | [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517) | no description | 2023-10-15T14:55:12Z|
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z|
@@ -1134,12 +1149,15 @@
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [gunzf0x/CVE-2023-23752](https://github.com/gunzf0x/CVE-2023-23752) | Binaries for &quot;CVE-2023-23752&quot; | 2023-12-19T20:18:49Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [TindalyTn/CVE-2023-23752](https://github.com/TindalyTn/CVE-2023-23752) | Mass Scanner for CVE-2023-23752 | 2023-12-20T20:20:15Z|
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [C1ph3rX13/CVE-2023-23752](https://github.com/C1ph3rX13/CVE-2023-23752) | CVE-2023-23752 Joomla Unauthenticated Information Disclosure | 2023-12-13T03:13:54Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [shellvik/CVE-2023-23752](https://github.com/shellvik/CVE-2023-23752) | Joomla Information disclosure exploit code written in C++. | 2023-12-29T08:09:24Z|
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2023-03-24T11:50:16Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z|
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z|
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z|
 | [CVE-2023-23488](https://www.cve.org/CVERecord?id=CVE-2023-23488) | [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8) | Paid Memberships Pro  v2.9.8 (WordPress Plugin) - Unauthenticated SQL Injection | 2023-06-07T17:30:25Z|
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397) | no description | 2023-07-14T22:02:55Z|
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397) | This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes. | 2023-10-26T09:26:32Z|
+| [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [ducnorth2712/CVE-2023-23397](https://github.com/ducnorth2712/CVE-2023-23397) | no description | 2023-12-28T02:20:57Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333) | command injection vulnerability in SolarView Compact poc version 6.0 | 2023-06-25T09:16:16Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333) | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | 2023-06-16T14:33:31Z|
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [NCSC-NL/Progress-MoveIT-CVE-2023](https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023) | Information about Progress MoveIT CVE | 2023-06-02T12:27:42Z|
