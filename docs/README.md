@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-24 01:59:05.541975
+ Last generated : 2024-01-25 01:58:52.538437
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -55,6 +55,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WLaoDuo/CVE-2023-51385_poc-test](https://github.com/WLaoDuo/CVE-2023-51385_poc-test) | CVE-2023-51385;OpenSSH ProxyCommand RCE;OpenSSH &lt;9.6 命令注入漏洞poc | 2023-12-26T09:01:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385) | no description | 2023-12-25T07:43:29Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT) | CVE-2023-51385测试POC | 2023-12-29T02:31:42Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-30T01:08:29Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
@@ -76,6 +77,8 @@
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z|
+| [CVE-2023-50071](https://www.cve.org/CVERecord?id=CVE-2023-50071) | [geraldoalcantara/CVE-2023-50071](https://github.com/geraldoalcantara/CVE-2023-50071) | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | 2023-12-16T23:06:25Z|
+| [CVE-2023-50070](https://www.cve.org/CVERecord?id=CVE-2023-50070) | [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070) | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject. | 2023-12-15T20:37:39Z|
 | [CVE-2023-49989](https://www.cve.org/CVERecord?id=CVE-2023-49989) | [geraldoalcantara/CVE-2023-49989](https://github.com/geraldoalcantara/CVE-2023-49989) | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;id&quot; parameter at update.php | 2023-12-20T04:46:28Z|
 | [CVE-2023-49988](https://www.cve.org/CVERecord?id=CVE-2023-49988) | [geraldoalcantara/CVE-2023-49988](https://github.com/geraldoalcantara/CVE-2023-49988) | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;npss&quot; parameter at rooms.php | 2023-12-20T04:36:35Z|
 | [CVE-2023-49987](https://www.cve.org/CVERecord?id=CVE-2023-49987) | [geraldoalcantara/CVE-2023-49987](https://github.com/geraldoalcantara/CVE-2023-49987) | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;tname&quot; parameter on &quot;new_term&quot; | 2023-12-20T04:30:49Z|
@@ -123,6 +126,7 @@
 | [CVE-2023-49539](https://www.cve.org/CVERecord?id=CVE-2023-49539) | [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539) | Book Store Management System v1.0 - Cross-site scripting (XSS) vulnerability in &quot;index.php/category&quot; - vulnerable field: &quot;Category Name&quot; | 2023-12-19T20:31:36Z|
 | [CVE-2023-49539](https://www.cve.org/CVERecord?id=CVE-2023-49539) | [KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft) | this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF | 2023-12-20T06:29:18Z|
 | [CVE-2023-49471](https://www.cve.org/CVERecord?id=CVE-2023-49471) | [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471) | no description | 2023-12-24T15:40:24Z|
+| [CVE-2023-49438](https://www.cve.org/CVERecord?id=CVE-2023-49438) | [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438) | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | 2023-12-14T23:58:42Z|
 | [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
 | [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
@@ -673,6 +677,8 @@
 | [CVE-2023-36076](https://www.cve.org/CVERecord?id=CVE-2023-36076) | [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076) | no description | 2023-10-17T07:37:24Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025) | test repo for CVE-2023-36025 | 2023-11-28T10:34:50Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025) | Quick test for CVE-2023-26025 behaviours | 2023-11-17T15:46:44Z|
+| [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025) | Windows SmartScreen Security Feature Bypass Vulnerability | 2023-12-28T23:29:04Z|
+| [CVE-2023-35985](https://www.cve.org/CVERecord?id=CVE-2023-35985) | [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985) | CVE-2023-35985 reproduction | 2023-12-30T06:35:21Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843) | CVE-2023-35843 NocoDB 任意文件读取漏洞 | 2023-07-09T04:10:44Z|
@@ -1354,6 +1360,7 @@
 | [CVE-2022-47529](https://www.cve.org/CVERecord?id=CVE-2022-47529) | [hyp3rlinx/CVE-2022-47529](https://github.com/hyp3rlinx/CVE-2022-47529) | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | 2023-03-24T22:50:26Z|
 | [CVE-2022-46836](https://www.cve.org/CVERecord?id=CVE-2022-46836) | [JacobEbben/CVE-2022-46836_remote_code_execution](https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution) | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk &lt;= 2.1.0p10, Checkmk &lt;= 2.0.0p27, and Checkmk &lt;= 1.6.0p29 | 2023-03-27T22:30:21Z|
 | [CVE-2022-46718](https://www.cve.org/CVERecord?id=CVE-2022-46718) | [biscuitehh/cve-2022-46718-leaky-location](https://github.com/biscuitehh/cve-2022-46718-leaky-location) | CVE-2022-46718: an app may be able to read sensitive location information. | 2023-05-01T18:34:52Z|
+| [CVE-2022-46689](https://www.cve.org/CVERecord?id=CVE-2022-46689) | [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. | 2022-12-26T06:56:35Z|
 | [CVE-2022-46638](https://www.cve.org/CVERecord?id=CVE-2022-46638) | [naonymous101/CVE-2022-46638](https://github.com/naonymous101/CVE-2022-46638) | Blog Pribadi | 2019-02-16T16:50:50Z|
 | [CVE-2022-46604](https://www.cve.org/CVERecord?id=CVE-2022-46604) | [galoget/ResponsiveFileManager-CVE-2022-46604](https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604) | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | 2023-02-03T08:56:16Z|
 | [CVE-2022-46463](https://www.cve.org/CVERecord?id=CVE-2022-46463) | [404tk/CVE-2022-46463](https://github.com/404tk/CVE-2022-46463) | harbor unauthorized detection | 2023-03-21T10:40:19Z|
