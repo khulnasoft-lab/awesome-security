@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-25 01:58:52.538437
+ Last generated : 2024-01-26 01:51:49.590515
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -46,6 +46,8 @@
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467) | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | 2023-12-29T15:01:46Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [SpiralBL0CK/cve2023-44372](https://github.com/SpiralBL0CK/cve2023-44372) | Under Work Please come Back Later | 2023-12-30T07:35:28Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -116,6 +118,8 @@
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966) | Scripts to get infos | 2023-11-20T17:32:16Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966) | Programm to exploit a range of ip adresses | 2023-11-27T09:51:30Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs) | Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation. | 2023-12-08T10:28:15Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [morganwdavis/overread](https://github.com/morganwdavis/overread) | Simulates CVE-2023-4966 Citrix Bleed overread bug | 2023-12-16T21:55:04Z|
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [kn32/parallels-file-move-privesc](https://github.com/kn32/parallels-file-move-privesc) | Parallels Desktop privilege escalation - CVE-2023-50226 / ZDI-CAN-21227 | 2023-10-28T10:29:53Z|
 | [CVE-2023-49548](https://www.cve.org/CVERecord?id=CVE-2023-49548) | [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;lastname&quot; Parameter During &quot;save_user&quot; Operation | 2023-12-19T22:27:24Z|
 | [CVE-2023-49547](https://www.cve.org/CVERecord?id=CVE-2023-49547) | [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547) | Customer Support System 1.0 - SQL Injection Login Bypass | 2023-11-28T12:59:10Z|
 | [CVE-2023-49546](https://www.cve.org/CVERecord?id=CVE-2023-49546) | [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;email&quot; Parameter During &quot;save_staff&quot; Operation | 2023-12-19T21:54:36Z|
@@ -686,6 +690,7 @@
 | [CVE-2023-35840](https://www.cve.org/CVERecord?id=CVE-2023-35840) | [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840) | elFinder &lt; 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | 2023-06-22T09:34:49Z|
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-01T11:31:25Z|
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-04T05:18:02Z|
+| [CVE-2023-35813](https://www.cve.org/CVERecord?id=CVE-2023-35813) | [aalexpereira/CVE-2023-35813](https://github.com/aalexpereira/CVE-2023-35813) | Exploit for CVE-2023-35813 POC | 2023-12-31T05:23:09Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35794](https://www.cve.org/CVERecord?id=CVE-2023-35794) | [Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking](https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking) | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | 2023-10-23T09:51:34Z|
@@ -1029,6 +1034,7 @@
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-) | Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524) | 2023-10-10T08:23:57Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [NguyenCongHaiNam/Research-CVE-2023-27524](https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524) | CVE-2023-27524 | 2023-10-30T00:27:20Z|
 | [CVE-2023-27470](https://www.cve.org/CVERecord?id=CVE-2023-27470) | [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise) | no description | 2023-09-11T08:04:08Z|
+| [CVE-2023-2744](https://www.cve.org/CVERecord?id=CVE-2023-2744) | [pashayogi/CVE-2023-2744](https://github.com/pashayogi/CVE-2023-2744) | Mass CVE-2023-2744 | 2023-12-31T07:27:17Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC) | CVE-2023-27372-SPIP-CMS-Bypass | 2023-07-11T10:00:04Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [RSTG0D/CVE-2023-27372-PoC](https://github.com/RSTG0D/CVE-2023-27372-PoC) | This is a PoC for CVE-2023-27372 which spawns a fully interactive shell. | 2023-07-05T14:41:03Z|
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [tucommenceapousser/CVE-2023-27372](https://github.com/tucommenceapousser/CVE-2023-27372) | SPIP Vulnerability Scanner - CVE-2023-27372 Detector | 2023-06-25T19:39:37Z|
