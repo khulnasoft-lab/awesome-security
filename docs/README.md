@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-26 01:51:49.590515
+ Last generated : 2024-01-27 01:51:12.599795
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -48,6 +48,7 @@
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467) | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | 2023-12-29T15:01:46Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [SpiralBL0CK/cve2023-44372](https://github.com/SpiralBL0CK/cve2023-44372) | Under Work Please come Back Later | 2023-12-30T07:35:28Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [K3ysTr0K3R/CVE-2023-51467-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT) | A PoC exploit for CVE-2023-51467 - Apache OFBiz Authentication Bypass | 2023-12-29T17:47:54Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -76,6 +77,7 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Trackflaw/CVE-2023-50164-ApacheStruts2-Docker](https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker) | Vulnerable docker container for Apache Struts 2 RCE CVE-2023-50164 | 2023-12-20T08:46:19Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE](https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE) | no description | 2023-12-20T08:39:54Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [miles3719/cve-2023-50164](https://github.com/miles3719/cve-2023-50164) | no description | 2023-12-22T02:15:36Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [aaronm-sysdig/cve-2023-50164](https://github.com/aaronm-sysdig/cve-2023-50164) | no description | 2023-12-22T02:20:11Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z|
@@ -156,6 +158,7 @@
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070) | Exploit Of Pre-auth RCE in Apache Ofbiz!! | 2023-12-17T22:56:10Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
+| [CVE-2023-48982](https://www.cve.org/CVERecord?id=CVE-2023-48982) | [tristao-marinho/CVE-2023-48982](https://github.com/tristao-marinho/CVE-2023-48982) | POC CVE-2023-48982 | 2024-01-01T13:14:49Z|
 | [CVE-2023-48974](https://www.cve.org/CVERecord?id=CVE-2023-48974) | [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974) | no description | 2023-12-28T23:24:22Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
 | [CVE-2023-48849](https://www.cve.org/CVERecord?id=CVE-2023-48849) | [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849) | no description | 2023-12-01T11:24:26Z|
@@ -779,6 +782,7 @@
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs) | CSV File Containing CVE-2023-34362 IOCs | 2023-06-12T09:58:25Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn) | An investigation into CVE-2023-34362. | 2023-06-07T04:00:35Z|
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs) | CVE-2023-34362-IOCs. More information on Deep Instinct&#x27;s blog site. | 2023-06-06T15:33:49Z|
+| [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362) | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | 2024-01-01T00:55:07Z|
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z|
 | [CVE-2023-34212](https://www.cve.org/CVERecord?id=CVE-2023-34212) | [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | 2023-11-23T22:14:49Z|
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z|
@@ -1574,6 +1578,7 @@
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [Pflegusch/CVE-2022-24637](https://github.com/Pflegusch/CVE-2022-24637) | Open Web Analytics 1.7.3 - Remote Code Execution | 2023-03-09T10:40:24Z|
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [0xM4hm0ud/CVE-2022-24637](https://github.com/0xM4hm0ud/CVE-2022-24637) | Unauthenticated RCE in Open Web Analytics version &lt;1.7.4 | 2023-03-26T13:11:50Z|
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637) | Unauthenticated RCE in Open Web Analytics (OWA) &lt;1.7.4 | 2022-08-30T16:38:01Z|
+| [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z|
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z|
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z|
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z|
