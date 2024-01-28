@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-27 01:51:12.599795
+ Last generated : 2024-01-28 01:55:33.867090
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -61,6 +61,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-30T01:08:29Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
+| [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z|
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
@@ -158,7 +159,9 @@
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070) | Exploit Of Pre-auth RCE in Apache Ofbiz!! | 2023-12-17T22:56:10Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
+| [CVE-2023-48983](https://www.cve.org/CVERecord?id=CVE-2023-48983) | [tristao-marinho/CVE-2023-48983](https://github.com/tristao-marinho/CVE-2023-48983) | POC CVE-2023-48983 | 2024-01-01T13:19:54Z|
 | [CVE-2023-48982](https://www.cve.org/CVERecord?id=CVE-2023-48982) | [tristao-marinho/CVE-2023-48982](https://github.com/tristao-marinho/CVE-2023-48982) | POC CVE-2023-48982 | 2024-01-01T13:14:49Z|
+| [CVE-2023-48981](https://www.cve.org/CVERecord?id=CVE-2023-48981) | [tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981) | POC CVE-2023-48981 | 2024-01-01T13:06:39Z|
 | [CVE-2023-48974](https://www.cve.org/CVERecord?id=CVE-2023-48974) | [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974) | no description | 2023-12-28T23:24:22Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
 | [CVE-2023-48849](https://www.cve.org/CVERecord?id=CVE-2023-48849) | [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849) | no description | 2023-12-01T11:24:26Z|
@@ -1002,6 +1005,7 @@
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik) | POC for CVE-2023-28252 | 2023-07-12T18:00:34Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-) | Обнаружение эксплойта CVE-2023-28252 | 2023-11-13T07:46:38Z|
+| [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252) | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | 2024-01-01T15:30:33Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-05T18:16:51Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-06T01:01:08Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | 2023-05-25T13:25:10Z|
