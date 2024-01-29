@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-28 01:55:33.867090
+ Last generated : 2024-01-29 01:50:40.015102
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -49,6 +49,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467) | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | 2023-12-29T15:01:46Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [SpiralBL0CK/cve2023-44372](https://github.com/SpiralBL0CK/cve2023-44372) | Under Work Please come Back Later | 2023-12-30T07:35:28Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [K3ysTr0K3R/CVE-2023-51467-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT) | A PoC exploit for CVE-2023-51467 - Apache OFBiz Authentication Bypass | 2023-12-29T17:47:54Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467](https://github.com/JaneMandy/CVE-2023-51467) | CVE-2023-51467 POC | 2023-12-29T02:25:43Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -59,8 +60,10 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385) | no description | 2023-12-25T07:43:29Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT) | CVE-2023-51385测试POC | 2023-12-29T02:31:42Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-30T01:08:29Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WOOOOONG/CVE-2023-51385](https://github.com/WOOOOONG/CVE-2023-51385) | CVE-2023-51385 PoC Exploit | 2024-01-02T02:12:35Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
+| [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z|
@@ -1669,6 +1672,7 @@
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388) | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | 2022-05-12T16:54:52Z|
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z|
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z|
+| [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z|
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z|
 | [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [ac3lives/kyocera-cve-2022-1026](https://github.com/ac3lives/kyocera-cve-2022-1026) | An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords | 2023-03-15T14:23:41Z|
 | [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [flamebarke/nmap-printer-nse-scripts](https://github.com/flamebarke/nmap-printer-nse-scripts) | NSE port of CVE-2022-1026 exploit for mass identification and exploitation | 2023-07-15T14:56:55Z|
