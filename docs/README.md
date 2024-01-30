@@ -2,17 +2,20 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-29 01:50:40.015102
+ Last generated : 2024-01-30 01:52:26.015970
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
+| [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
+| [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
+| [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553) | no description | 2024-01-01T16:57:17Z|
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
@@ -1091,6 +1094,7 @@
 | [CVE-2023-26469](https://www.cve.org/CVERecord?id=CVE-2023-26469) | [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469) | CVE-2023-26469 REC PoC | 2023-09-01T09:41:32Z|
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z|
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z|
+| [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360) | Exploit for Arbitrary File Read for CVE-2023-26360 - Adobe Coldfusion | 2023-12-26T06:26:01Z|
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z|
 | [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z|
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z|
@@ -1666,6 +1670,7 @@
 | [CVE-2022-20005](https://www.cve.org/CVERecord?id=CVE-2022-20005) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005) | no description | 2022-06-10T11:56:59Z|
 | [CVE-2022-20004](https://www.cve.org/CVERecord?id=CVE-2022-20004) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004) | no description | 2022-06-15T10:29:03Z|
 | [CVE-2022-1609](https://www.cve.org/CVERecord?id=CVE-2022-1609) | [0x007f/cve-2022-1609-exploit](https://github.com/0x007f/cve-2022-1609-exploit) | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | 2023-04-22T12:51:09Z|
+| [CVE-2022-1442](https://www.cve.org/CVERecord?id=CVE-2022-1442) | [RandomRobbieBF/CVE-2022-1442](https://github.com/RandomRobbieBF/CVE-2022-1442) | WordPress Plugin Metform &lt;= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | 2023-08-03T10:47:28Z|
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [v4sh25/CVE_2022_1388](https://github.com/v4sh25/CVE_2022_1388) | F5 Big-IP RCE vulnerability | 2023-07-21T04:23:59Z|
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study](https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study) | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | 2023-07-12T15:53:33Z|
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388) | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | 2022-10-25T12:29:54Z|
