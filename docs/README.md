@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-30 01:52:26.015970
+ Last generated : 2024-01-31 01:51:14.195255
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -64,6 +64,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [N0rther/CVE-2023-51385_TT](https://github.com/N0rther/CVE-2023-51385_TT) | CVE-2023-51385测试POC | 2023-12-29T02:31:42Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-30T01:08:29Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WOOOOONG/CVE-2023-51385](https://github.com/WOOOOONG/CVE-2023-51385) | CVE-2023-51385 PoC Exploit | 2024-01-02T02:12:35Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [uccu99/CVE-2023-51385](https://github.com/uccu99/CVE-2023-51385) | no description | 2024-01-03T06:28:34Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
@@ -370,6 +371,7 @@
 | [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [nomis/eero-zero-length-ipv6-options-header-dos](https://github.com/nomis/eero-zero-length-ipv6-options-header-dos) | eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324) | 2023-09-30T20:32:51Z|
+| [CVE-2023-43177](https://www.cve.org/CVERecord?id=CVE-2023-43177) | [the-emmons/CVE-2023-43177](https://github.com/the-emmons/CVE-2023-43177) | CrushFTP &lt;= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis | 2023-12-27T00:06:20Z|
 | [CVE-2023-43154](https://www.cve.org/CVERecord?id=CVE-2023-43154) | [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC) | PoC for the type confusion vulnerability in Mac&#x27;s CMS that results in authentication bypass and administrator account takeover. | 2023-09-09T00:21:58Z|
 | [CVE-2023-43149](https://www.cve.org/CVERecord?id=CVE-2023-43149) | [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149) | CVE-2023-43149 | 2023-10-12T16:11:39Z|
 | [CVE-2023-43148](https://www.cve.org/CVERecord?id=CVE-2023-43148) | [MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148) | CVE CSRF DELETE ACCOUNT | 2023-09-16T11:48:44Z|
@@ -1227,6 +1229,8 @@
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [SySS-Research/easy-password-recovery](https://github.com/SySS-Research/easy-password-recovery) | Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777) | 2023-11-07T07:44:13Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.) | no description | 2023-11-26T21:24:55Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515) | Confluence broken access control to code execution | 2023-11-29T01:34:35Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515) | A simple exploit for CVE-2023-22515 | 2024-01-02T17:40:24Z|
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass) | This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz. | 2024-01-02T14:20:10Z|
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z|
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z|
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z|
