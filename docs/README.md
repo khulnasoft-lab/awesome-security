@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-01-31 01:51:14.195255
+ Last generated : 2024-02-01 01:56:26.919541
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -48,11 +48,14 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
+| [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC) | just idea, no cp pls | 2023-12-31T14:33:26Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467) | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | 2023-12-29T15:01:46Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [SpiralBL0CK/cve2023-44372](https://github.com/SpiralBL0CK/cve2023-44372) | Under Work Please come Back Later | 2023-12-30T07:35:28Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [K3ysTr0K3R/CVE-2023-51467-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT) | A PoC exploit for CVE-2023-51467 - Apache OFBiz Authentication Bypass | 2023-12-29T17:47:54Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467](https://github.com/JaneMandy/CVE-2023-51467) | CVE-2023-51467 POC | 2023-12-29T02:25:43Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack) | A Tool For CVE-2023-49070/CVE-2023-51467 Attack | 2024-01-04T12:31:49Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467) | no description | 2024-01-04T12:44:43Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -65,6 +68,8 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [power1314520/CVE-2023-51385_test](https://github.com/power1314520/CVE-2023-51385_test) | 一个验证对CVE-2023-51385 | 2023-12-30T01:08:29Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [WOOOOONG/CVE-2023-51385](https://github.com/WOOOOONG/CVE-2023-51385) | CVE-2023-51385 PoC Exploit | 2024-01-02T02:12:35Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [uccu99/CVE-2023-51385](https://github.com/uccu99/CVE-2023-51385) | no description | 2024-01-03T06:28:34Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/malicious-exploit-CVE-2023-51385](https://github.com/julienbrs/malicious-exploit-CVE-2023-51385) | no description | 2024-01-03T19:08:28Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/exploit-CVE-2023-51385](https://github.com/julienbrs/exploit-CVE-2023-51385) | no description | 2024-01-03T18:40:44Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
