@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-01 01:56:26.919541
+ Last generated : 2024-02-02 01:50:35.819829
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -49,6 +49,7 @@
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC) | just idea, no cp pls | 2023-12-31T14:33:26Z|
+| [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [Double-q1015/CVE-2023-51764](https://github.com/Double-q1015/CVE-2023-51764) | CVE-2023-51764 poc | 2024-01-05T07:07:47Z|
 | [CVE-2023-51504](https://www.cve.org/CVERecord?id=CVE-2023-51504) | [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504) | This is a dockerized reproduction of the MotoCMS SQL injection (cf exploit db) | 2023-06-08T07:37:08Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467) | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | 2023-12-29T15:01:46Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [SpiralBL0CK/cve2023-44372](https://github.com/SpiralBL0CK/cve2023-44372) | Under Work Please come Back Later | 2023-12-30T07:35:28Z|
@@ -1088,6 +1089,7 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber) | A tool to perform port scanning using vulnerable Request-Baskets | 2023-08-28T16:19:21Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Hamibubu/CVE-2023-27163](https://github.com/Hamibubu/CVE-2023-27163) | Python implementation of CVE-2023-27163 | 2023-09-21T02:43:02Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [im-hanzou/MSAPer](https://github.com/im-hanzou/MSAPer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | 2023-09-19T04:59:01Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163) | A exploit for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (&lt;= v.1.2.1) | 2024-01-04T14:46:13Z|
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow) | no description | 2023-04-11T11:02:48Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [X1r0z/spring-amqp-deserialization](https://github.com/X1r0z/spring-amqp-deserialization) | A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050) | 2023-10-20T05:46:15Z|
