@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-02 01:50:35.819829
+ Last generated : 2024-02-03 01:50:33.598189
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467](https://github.com/JaneMandy/CVE-2023-51467) | CVE-2023-51467 POC | 2023-12-29T02:25:43Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack) | A Tool For CVE-2023-49070/CVE-2023-51467 Attack | 2024-01-04T12:31:49Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467) | no description | 2024-01-04T12:44:43Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit) | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | 2024-01-06T04:07:07Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -464,6 +465,7 @@
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z|
+| [CVE-2023-40084](https://www.cve.org/CVERecord?id=CVE-2023-40084) | [Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084](https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084) | no description | 2024-01-05T10:20:57Z|
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z|
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z|
@@ -1576,6 +1578,7 @@
 | [CVE-2022-26265](https://www.cve.org/CVERecord?id=CVE-2022-26265) | [redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265) | The first proof of concept of the Contao CMS RCE | 2023-04-05T09:34:29Z|
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit) | This is a python script that can be used with Shodan CLI to mass hunting Confluence Servers vulnerable to CVE-2022-26134 | 2022-07-12T05:34:09Z|
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat) | An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889. | 2022-10-18T08:22:55Z|
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [Muhammad-Ali007/Atlassian_CVE-2022-26134](https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134) | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | 2023-07-30T20:56:13Z|
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z|
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z|
 | [CVE-2022-25765](https://www.cve.org/CVERecord?id=CVE-2022-25765) | [UNICORDev/exploit-CVE-2022-25765](https://github.com/UNICORDev/exploit-CVE-2022-25765) | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | 2023-02-10T00:50:35Z|
@@ -1656,6 +1659,7 @@
 | [CVE-2022-20489](https://www.cve.org/CVERecord?id=CVE-2022-20489) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489) | no description | 2023-05-31T11:56:48Z|
 | [CVE-2022-20489](https://www.cve.org/CVERecord?id=CVE-2022-20489) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old) | no description | 2023-05-31T11:22:01Z|
 | [CVE-2022-20456](https://www.cve.org/CVERecord?id=CVE-2022-20456) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456) | no description | 2023-05-31T10:07:10Z|
+| [CVE-2022-20409](https://www.cve.org/CVERecord?id=CVE-2022-20409) | [Markakd/bad_io_uring](https://github.com/Markakd/bad_io_uring) | Android kernel exploitation for CVE-2022-20409 | 2022-11-21T22:42:50Z|
 | [CVE-2022-20347](https://www.cve.org/CVERecord?id=CVE-2022-20347) | [hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347) | no description | 2023-04-06T09:54:28Z|
 | [CVE-2022-20224](https://www.cve.org/CVERecord?id=CVE-2022-20224) | [hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224) | no description | 2023-04-06T11:02:47Z|
 | [CVE-2022-20186](https://www.cve.org/CVERecord?id=CVE-2022-20186) | [Bariskizilkaya/CVE-2022-20186_CTXZ](https://github.com/Bariskizilkaya/CVE-2022-20186_CTXZ) | no description | 2022-12-15T17:57:26Z|
