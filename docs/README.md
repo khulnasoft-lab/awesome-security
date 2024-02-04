@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-03 01:50:33.598189
+ Last generated : 2024-02-04 01:56:22.133613
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -928,6 +928,7 @@
 | [CVE-2023-31606](https://www.cve.org/CVERecord?id=CVE-2023-31606) | [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606) | no description | 2023-06-03T14:13:48Z|
 | [CVE-2023-31546](https://www.cve.org/CVERecord?id=CVE-2023-31546) | [ran9ege/CVE-2023-31546](https://github.com/ran9ege/CVE-2023-31546) | no description | 2023-12-12T07:41:07Z|
 | [CVE-2023-31541](https://www.cve.org/CVERecord?id=CVE-2023-31541) | [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541) | no description | 2023-06-10T14:59:15Z|
+| [CVE-2023-31446](https://www.cve.org/CVERecord?id=CVE-2023-31446) | [Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution](https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution) | Repository contains description for CVE-2023-31446 | 2024-01-06T12:23:50Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419](https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419) | Elasticsearch Stack Overflow Vulnerability | 2023-09-22T02:15:54Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [ayhan-dev/p0ropc](https://github.com/ayhan-dev/p0ropc) | CVE-2023-29336 | 2023-07-27T17:28:41Z|
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419) | Elasticsearch DoS CVE-2023-31419 exploit | 2023-10-03T13:51:37Z|
@@ -1092,6 +1093,7 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Hamibubu/CVE-2023-27163](https://github.com/Hamibubu/CVE-2023-27163) | Python implementation of CVE-2023-27163 | 2023-09-21T02:43:02Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [im-hanzou/MSAPer](https://github.com/im-hanzou/MSAPer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | 2023-09-19T04:59:01Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163) | A exploit for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (&lt;= v.1.2.1) | 2024-01-04T14:46:13Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163) | PoC for SSRF in request-baskets v1.2.1 (CVE-2023-27163) | 2024-01-06T13:16:29Z|
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow) | no description | 2023-04-11T11:02:48Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [X1r0z/spring-amqp-deserialization](https://github.com/X1r0z/spring-amqp-deserialization) | A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050) | 2023-10-20T05:46:15Z|
