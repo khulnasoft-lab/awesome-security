@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-04 01:56:22.133613
+ Last generated : 2024-02-05 01:52:24.307696
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -76,6 +76,7 @@
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
+| [CVE-2023-51073](https://www.cve.org/CVERecord?id=CVE-2023-51073) | [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073) | Firmware Update Server Verification Vulnerability on Buffalo LS210D Version 1.78-0.03 | 2024-01-05T05:16:18Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z|
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
@@ -873,6 +874,8 @@
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [MkJos/CVE-2023-33246_RocketMQ_RCE_EXP](https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP) | no description | 2023-12-26T12:41:30Z|
 | [CVE-2023-33243](https://www.cve.org/CVERecord?id=CVE-2023-33243) | [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243) | PoC for login with password hash in STARFACE | 2023-05-26T08:32:38Z|
 | [CVE-2023-33242](https://www.cve.org/CVERecord?id=CVE-2023-33242) | [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242) | CVE-2023-33242  PoC | 2023-08-15T13:46:48Z|
+| [CVE-2023-33137](https://www.cve.org/CVERecord?id=CVE-2023-33137) | [JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137) | Tentando desesperadamente simular uma cve para o trabalho da disciplina de segurança da pós. | 2024-01-06T22:40:19Z|
+| [CVE-2023-33137](https://www.cve.org/CVERecord?id=CVE-2023-33137) | [ayhan-dev/CVE-LIST](https://github.com/ayhan-dev/CVE-LIST) | list CVE - 2023 | 2023-11-28T06:54:25Z|
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784) | Retrieve the master password of a keepass database &lt;= 2.53.1 | 2023-08-30T16:42:19Z|
