@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-05 01:52:24.307696
+ Last generated : 2024-02-06 01:51:24.568923
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -58,6 +58,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack) | A Tool For CVE-2023-49070/CVE-2023-51467 Attack | 2024-01-04T12:31:49Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467) | no description | 2024-01-04T12:44:43Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit) | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | 2024-01-06T04:07:07Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz) | Authentication Bypass Vulnerability Apache OFBiz &lt; 18.12.10. | 2024-01-08T03:13:43Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -173,6 +174,7 @@
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC) | no description | 2023-12-14T09:32:41Z|
 | [CVE-2023-49070](https://www.cve.org/CVERecord?id=CVE-2023-49070) | [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070) | Exploit Of Pre-auth RCE in Apache Ofbiz!! | 2023-12-17T22:56:10Z|
 | [CVE-2023-49052](https://www.cve.org/CVERecord?id=CVE-2023-49052) | [Cyber-Wo0dy/CVE-2023-49052](https://github.com/Cyber-Wo0dy/CVE-2023-49052) | Microweber version 2.0.4 vulnerable to &quot;Uploading Malicious Files&quot; | 2023-11-27T14:29:32Z|
+| [CVE-2023-49038](https://www.cve.org/CVERecord?id=CVE-2023-49038) | [christopher-pace/CVE-2023-49038](https://github.com/christopher-pace/CVE-2023-49038) | Command Injection in Ping Utility on Buffalo LS210D Version 1.78-0.03 | 2023-12-14T01:49:52Z|
 | [CVE-2023-48984](https://www.cve.org/CVERecord?id=CVE-2023-48984) | [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984) | no description | 2023-11-30T02:50:23Z|
 | [CVE-2023-48983](https://www.cve.org/CVERecord?id=CVE-2023-48983) | [tristao-marinho/CVE-2023-48983](https://github.com/tristao-marinho/CVE-2023-48983) | POC CVE-2023-48983 | 2024-01-01T13:19:54Z|
 | [CVE-2023-48982](https://www.cve.org/CVERecord?id=CVE-2023-48982) | [tristao-marinho/CVE-2023-48982](https://github.com/tristao-marinho/CVE-2023-48982) | POC CVE-2023-48982 | 2024-01-01T13:14:49Z|
@@ -228,6 +230,7 @@
 | [CVE-2023-46948](https://www.cve.org/CVERecord?id=CVE-2023-46948) | [AzraelsBlade/CVE-2023-46948](https://github.com/AzraelsBlade/CVE-2023-46948) | no description | 2023-10-25T13:50:41Z|
 | [CVE-2023-46865](https://www.cve.org/CVERecord?id=CVE-2023-46865) | [asylumdx/Crater-CVE-2023-46865-RCE](https://github.com/asylumdx/Crater-CVE-2023-46865-RCE) | Crater &lt;=6.0.6, CVE-2023-46865 Post-Auth RCE (Superadmin) | 2023-11-09T21:22:47Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
+| [CVE-2023-46813](https://www.cve.org/CVERecord?id=CVE-2023-46813) | [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc) | no description | 2023-05-29T15:10:43Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
@@ -1016,6 +1019,7 @@
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432) | no description | 2023-10-20T10:20:10Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [unam4/CVE-2023-28432-minio_update_rce](https://github.com/unam4/CVE-2023-28432-minio_update_rce) | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | 2023-11-26T18:23:33Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432) | CVE-2023-28432 Minio Information isclosure Exploit | 2023-12-07T03:33:37Z|
+| [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432) | no description | 2024-01-07T12:34:49Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
 | [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z|
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z|
@@ -1656,6 +1660,8 @@
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [WellingtonEspindula/SSI-CVE-2022-21661](https://github.com/WellingtonEspindula/SSI-CVE-2022-21661) | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | 2023-01-13T13:31:34Z|
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [z92g/CVE-2022-21661](https://github.com/z92g/CVE-2022-21661) | WordPress WP_Query SQL Injection POC | 2022-07-28T13:12:51Z|
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [Wack0/batondrop_armv7](https://github.com/Wack0/batondrop_armv7) | An implementation of baton drop (CVE-2022-21894) for armv7 (MSM8960) | 2023-03-11T14:38:13Z|
+| [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z|
+| [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z|
 | [CVE-2022-21306](https://www.cve.org/CVERecord?id=CVE-2022-21306) | [hktalent/CVE-2022-21306](https://github.com/hktalent/CVE-2022-21306) | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | 2023-04-07T03:59:07Z|
 | [CVE-2022-2078](https://www.cve.org/CVERecord?id=CVE-2022-2078) | [delsploit/CVE-2022-2078](https://github.com/delsploit/CVE-2022-2078) | no description | 2023-03-06T12:49:29Z|
 | [CVE-2022-20493](https://www.cve.org/CVERecord?id=CVE-2022-20493) | [Trinadh465/frameworks_base_CVE-2022-20493](https://github.com/Trinadh465/frameworks_base_CVE-2022-20493) | no description | 2023-05-31T09:18:01Z|
