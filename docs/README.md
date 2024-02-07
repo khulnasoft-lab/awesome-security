@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-06 01:51:24.568923
+ Last generated : 2024-02-07 01:48:06.775594
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -438,6 +438,7 @@
 | [CVE-2023-41533](https://www.cve.org/CVERecord?id=CVE-2023-41533) | [Sh33talUmath/CVE-2023-41533](https://github.com/Sh33talUmath/CVE-2023-41533) | no description | 2023-09-07T10:50:03Z|
 | [CVE-2023-41508](https://www.cve.org/CVERecord?id=CVE-2023-41508) | [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508) | CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:29:37Z|
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
+| [CVE-2023-41474](https://www.cve.org/CVERecord?id=CVE-2023-41474) | [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474) | Public disclosure of Ivanti&#x27;s Avalanche Path Traversal vulnerability | 2024-01-08T08:21:39Z|
 | [CVE-2023-41436](https://www.cve.org/CVERecord?id=CVE-2023-41436) | [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content) | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | 2023-08-23T11:34:30Z|
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z|
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z|
@@ -1710,6 +1711,7 @@
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [wlswotmd/CVE-2022-1015](https://github.com/wlswotmd/CVE-2022-1015) | no description | 2023-02-12T07:06:40Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [pivik271/CVE-2022-1015](https://github.com/pivik271/CVE-2022-1015) | no description | 2023-03-22T09:16:58Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [delsploit/CVE-2022-1015](https://github.com/delsploit/CVE-2022-1015) | no description | 2023-03-06T12:50:43Z|
+| [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [more-kohii/CVE-2022-1015](https://github.com/more-kohii/CVE-2022-1015) | Linux Kernel 1-Day Analysis &amp; Exploitation | 2023-08-06T10:46:49Z|
 | [CVE-2022-1011](https://www.cve.org/CVERecord?id=CVE-2022-1011) | [xkaneiki/CVE-2022-1011](https://github.com/xkaneiki/CVE-2022-1011) | 这个漏洞感觉只能信息泄露？ | 2023-06-16T03:02:38Z|
 | [CVE-2022-0995](https://www.cve.org/CVERecord?id=CVE-2022-0995) | [AndreevSemen/CVE-2022-0995](https://github.com/AndreevSemen/CVE-2022-0995) | Реализация средств повышения привилегий в Linux | 2023-03-10T07:05:45Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [joeymeech/CVE-2022-0847-Exploit-Implementation](https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation) | Using CVE-2022-0847, &quot;Dirty Pipe Exploit&quot;, to pop a reverse bash shell for arbitrary code execution on a foreign machine. | 2023-07-09T22:48:22Z|
