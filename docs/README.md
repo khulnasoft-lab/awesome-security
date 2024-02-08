@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-07 01:48:06.775594
+ Last generated : 2024-02-08 01:49:36.224473
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -260,6 +260,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [tomasmussi-mulesoft/activemq-cve-2023-46604](https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604) | Repository to exploit CVE-2023-46604 reported for ActiveMQ | 2023-11-29T18:30:02Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [mrpentst/CVE-2023-46604](https://github.com/mrpentst/CVE-2023-46604) | Exploit for CVE-2023-46604 | 2023-12-09T19:19:03Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604) | no description | 2023-12-16T13:50:58Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [hh-hunter/cve-2023-46604](https://github.com/hh-hunter/cve-2023-46604) | no description | 2024-01-09T03:18:19Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
@@ -400,6 +401,7 @@
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion) | Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129 | 2023-09-29T00:42:37Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793) | TeamCity JetBrains PoC (CVE-2023-42793) | 2023-10-07T10:23:12Z|
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793) | PoC of CVE-2023-42793 | 2023-10-05T18:12:25Z|
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC) | no description | 2024-01-07T22:29:18Z|
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z|
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z|
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z|
@@ -1583,6 +1585,7 @@
 | [CVE-2022-28132](https://www.cve.org/CVERecord?id=CVE-2022-28132) | [alpernae/CVE-2022-28132](https://github.com/alpernae/CVE-2022-28132) | no description | 2022-06-08T16:19:47Z|
 | [CVE-2022-27666](https://www.cve.org/CVERecord?id=CVE-2022-27666) | [Albocoder/cve-2022-27666-exploits](https://github.com/Albocoder/cve-2022-27666-exploits) | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | 2023-04-11T00:12:33Z|
 | [CVE-2022-27665](https://www.cve.org/CVERecord?id=CVE-2022-27665) | [dievus/CVE-2022-27665](https://github.com/dievus/CVE-2022-27665) | Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0 | 2022-03-23T14:20:58Z|
+| [CVE-2022-26965](https://www.cve.org/CVERecord?id=CVE-2022-26965) | [SkDevilS/Pluck-Exploitation-by-skdevils](https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils) | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965 | 2023-08-04T20:32:08Z|
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z|
 | [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z|
 | [CVE-2022-26265](https://www.cve.org/CVERecord?id=CVE-2022-26265) | [redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265) | The first proof of concept of the Contao CMS RCE | 2023-04-05T09:34:29Z|
