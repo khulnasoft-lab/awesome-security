@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-08 01:49:36.224473
+ Last generated : 2024-02-09 01:53:52.474693
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -73,6 +73,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [uccu99/CVE-2023-51385](https://github.com/uccu99/CVE-2023-51385) | no description | 2024-01-03T06:28:34Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/malicious-exploit-CVE-2023-51385](https://github.com/julienbrs/malicious-exploit-CVE-2023-51385) | no description | 2024-01-03T19:08:28Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/exploit-CVE-2023-51385](https://github.com/julienbrs/exploit-CVE-2023-51385) | no description | 2024-01-03T18:40:44Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Sonicrrrr/CVE-2023-51385](https://github.com/Sonicrrrr/CVE-2023-51385) | no description | 2024-01-09T15:44:52Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
@@ -357,6 +358,7 @@
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [passwa11/CVE-2023-4357-APT-Style-exploitation](https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation) | no description | 2023-11-21T05:39:15Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation) | Apt style exploitation of Chrome 0day CVE-2023-4357 | 2023-11-19T22:20:10Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357) | poc | 2023-11-29T09:52:36Z|
+| [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [WinnieZy/CVE-2023-4357](https://github.com/WinnieZy/CVE-2023-4357) | no description | 2024-01-09T07:31:29Z|
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z|
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z|
 | [CVE-2023-43359](https://www.cve.org/CVERecord?id=CVE-2023-43359) | [sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu. | 2023-09-17T11:58:54Z|
@@ -1717,6 +1719,7 @@
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [more-kohii/CVE-2022-1015](https://github.com/more-kohii/CVE-2022-1015) | Linux Kernel 1-Day Analysis &amp; Exploitation | 2023-08-06T10:46:49Z|
 | [CVE-2022-1011](https://www.cve.org/CVERecord?id=CVE-2022-1011) | [xkaneiki/CVE-2022-1011](https://github.com/xkaneiki/CVE-2022-1011) | 这个漏洞感觉只能信息泄露？ | 2023-06-16T03:02:38Z|
 | [CVE-2022-0995](https://www.cve.org/CVERecord?id=CVE-2022-0995) | [AndreevSemen/CVE-2022-0995](https://github.com/AndreevSemen/CVE-2022-0995) | Реализация средств повышения привилегий в Linux | 2023-03-10T07:05:45Z|
+| [CVE-2022-0952](https://www.cve.org/CVERecord?id=CVE-2022-0952) | [RandomRobbieBF/CVE-2022-0952](https://github.com/RandomRobbieBF/CVE-2022-0952) | Sitemap by click5 &lt; 1.0.36 - Unauthenticated Arbitrary Options Update | 2023-08-07T14:28:11Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [joeymeech/CVE-2022-0847-Exploit-Implementation](https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation) | Using CVE-2022-0847, &quot;Dirty Pipe Exploit&quot;, to pop a reverse bash shell for arbitrary code execution on a foreign machine. | 2023-07-09T22:48:22Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [aaronm-sysdig/text4shell-docker](https://github.com/aaronm-sysdig/text4shell-docker) | Dockerized POC for CVE-2022-42889 Text4Shell | 2023-05-22T06:57:55Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [basharkey/CVE-2022-0847-dirty-pipe-checker](https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker) | Bash script to check for CVE-2022-0847 &quot;Dirty Pipe&quot; | 2022-03-08T17:13:24Z|
