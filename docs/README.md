@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-09 01:53:52.474693
+ Last generated : 2024-02-10 01:49:14.369631
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1317,6 +1317,7 @@
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-06-13T13:17:23Z|
 | [CVE-2023-20887](https://www.cve.org/CVERecord?id=CVE-2023-20887) | [Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887) | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | 2023-09-25T00:41:45Z|
 | [CVE-2023-20871](https://www.cve.org/CVERecord?id=CVE-2023-20871) | [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi) | VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system. | 2023-07-03T14:01:22Z|
+| [CVE-2023-20573](https://www.cve.org/CVERecord?id=CVE-2023-20573) | [Freax13/cve-2023-20573-poc](https://github.com/Freax13/cve-2023-20573-poc) | no description | 2023-03-11T15:04:51Z|
 | [CVE-2023-20562](https://www.cve.org/CVERecord?id=CVE-2023-20562) | [passwa11/HITCON-2023-Demo-CVE-2023-20562](https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562) | no description | 2023-08-21T06:25:09Z|
 | [CVE-2023-20562](https://www.cve.org/CVERecord?id=CVE-2023-20562) | [zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562) | no description | 2023-08-21T00:31:50Z|
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis) | A collection of resources and information about CVE-2023-2033 | 2023-04-26T15:24:02Z|
