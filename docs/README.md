@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-10 01:49:14.369631
+ Last generated : 2024-02-11 01:57:38.438931
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -197,6 +197,7 @@
 | [CVE-2023-48031](https://www.cve.org/CVERecord?id=CVE-2023-48031) | [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031) | no description | 2023-11-16T17:57:20Z|
 | [CVE-2023-48029](https://www.cve.org/CVERecord?id=CVE-2023-48029) | [nitipoom-jar/CVE-2023-48029](https://github.com/nitipoom-jar/CVE-2023-48029) | no description | 2023-11-16T18:42:12Z|
 | [CVE-2023-48028](https://www.cve.org/CVERecord?id=CVE-2023-48028) | [nitipoom-jar/CVE-2023-48028](https://github.com/nitipoom-jar/CVE-2023-48028) | no description | 2023-11-16T19:22:30Z|
+| [CVE-2023-48022](https://www.cve.org/CVERecord?id=CVE-2023-48022) | [0x656565/CVE-2023-48022](https://github.com/0x656565/CVE-2023-48022) | CVE-2023-48022 exploit modified from Bishop Fox work | 2024-01-10T06:26:01Z|
 | [CVE-2023-4800](https://www.cve.org/CVERecord?id=CVE-2023-4800) | [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800) | Repository for CVE-2023-4800 vulnerability. | 2023-09-24T12:11:58Z|
 | [CVE-2023-47840](https://www.cve.org/CVERecord?id=CVE-2023-47840) | [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840) | Qode Essential Addons &lt;= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2023-11-29T20:14:39Z|
 | [CVE-2023-47668](https://www.cve.org/CVERecord?id=CVE-2023-47668) | [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668) | Restrict Content &lt;= 3.2.7 - Information Exposure via legacy log file | 2023-11-14T08:40:49Z|
@@ -647,6 +648,7 @@
 | [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710) | no description | 2023-10-14T12:18:15Z|
 | [CVE-2023-3710](https://www.cve.org/CVERecord?id=CVE-2023-3710) | [CwEeR313/CVE-2023-3710](https://github.com/CwEeR313/CVE-2023-3710) | exploit for CVE-2023-3710 | 2023-10-14T18:31:51Z|
 | [CVE-2023-37073](https://www.cve.org/CVERecord?id=CVE-2023-37073) | [Hamza0X/CVE-2023-37073](https://github.com/Hamza0X/CVE-2023-37073) | Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks. | 2023-09-28T19:26:33Z|
+| [CVE-2023-36900](https://www.cve.org/CVERecord?id=CVE-2023-36900) | [RomanRybachek/CVE-2023-36900](https://github.com/RomanRybachek/CVE-2023-36900) | Denial-of-Service PoC - Writeup - Header with CLFS structures - Imhex pattern for .blf extension | 2023-11-08T10:39:19Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899) | CVE-2023-36899 PoC | 2023-08-11T14:33:19Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [midisec/CVE-2023-36899](https://github.com/midisec/CVE-2023-36899) | CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。 | 2023-08-15T23:36:17Z|
 | [CVE-2023-36899](https://www.cve.org/CVERecord?id=CVE-2023-36899) | [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay) | CVE-2023-2640 CVE-2023-32629 | 2023-08-15T19:07:02Z|
@@ -1063,6 +1065,7 @@
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [Aicks/FortiGate-CVE-2023-27997](https://github.com/Aicks/FortiGate-CVE-2023-27997) | FortiGate exploit  CVE-2023-27997 | 2023-10-12T19:43:46Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [delsploit/CVE-2023-27997](https://github.com/delsploit/CVE-2023-27997) | no description | 2023-10-12T17:50:38Z|
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997) | xortigate-cve-2023-27997 | 2023-10-12T16:12:41Z|
+| [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial) | A short tutorial about how to find and verify FortiOS vulnerablility. | 2024-01-10T02:36:35Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524) | Perform With Apache-SuperSet Leaked Token [CSRF] | 2023-05-04T21:43:48Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524) | CVE-2023-27524 | 2023-08-30T20:59:28Z|
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [praetorian-inc/zeroqlik-detect](https://github.com/praetorian-inc/zeroqlik-detect) | A Nuclei template to detect ZeroQlik (CVE-2023-41265 and CVE-2023-41266) | 2023-08-30T16:15:19Z|
@@ -1381,6 +1384,7 @@
 | [CVE-2023-1273](https://www.cve.org/CVERecord?id=CVE-2023-1273) | [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC) | Mass Exploit -  CVE-2023-1273 / ND Shortcodes &lt; LFI | 2023-09-12T00:10:58Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow) | CVE for 2023 | 2023-07-23T10:12:27Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild) | Learn more things, not suck all things | 2023-11-20T18:32:46Z|
+| [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177) | no description | 2023-04-13T02:56:24Z|
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z|
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z|
