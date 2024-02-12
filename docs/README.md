@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-11 01:57:38.438931
+ Last generated : 2024-02-12 01:51:57.842908
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1109,6 +1109,7 @@
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [im-hanzou/MSAPer](https://github.com/im-hanzou/MSAPer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload) | 2023-09-19T04:59:01Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163) | A exploit for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (&lt;= v.1.2.1) | 2024-01-04T14:46:13Z|
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163) | PoC for SSRF in request-baskets v1.2.1 (CVE-2023-27163) | 2024-01-06T13:16:29Z|
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [MasterCode112/CVE-2023-27163](https://github.com/MasterCode112/CVE-2023-27163) | Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1) | 2023-12-28T11:36:37Z|
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow) | no description | 2023-04-11T11:02:48Z|
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [X1r0z/spring-amqp-deserialization](https://github.com/X1r0z/spring-amqp-deserialization) | A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050) | 2023-10-20T05:46:15Z|
@@ -1375,6 +1376,7 @@
 | [CVE-2023-1521](https://www.cve.org/CVERecord?id=CVE-2023-1521) | [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521) | no description | 2023-11-15T15:31:44Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
+| [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [shad0w0sec/CVE-2023-1454-EXP](https://github.com/shad0w0sec/CVE-2023-1454-EXP) | JeecgBoot SQL（CVE-2023-1454）sqlmap 注入不出来的情况可以使用该脚本 | 2023-12-31T06:47:01Z|
 | [CVE-2023-1430](https://www.cve.org/CVERecord?id=CVE-2023-1430) | [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430) | Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja | 2023-06-12T10:07:01Z|
 | [CVE-2023-1389](https://www.cve.org/CVERecord?id=CVE-2023-1389) | [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389) | no description | 2023-07-28T03:09:00Z|
 | [CVE-2023-1389](https://www.cve.org/CVERecord?id=CVE-2023-1389) | [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389) | TP-Link Archer AX21 - Unauthenticated Command Injection [Loader] | 2023-09-09T15:53:22Z|
@@ -1746,6 +1748,7 @@
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [GrandNabil/testpdfkit](https://github.com/GrandNabil/testpdfkit) | Test de vulnérabilité du CVE 2022–25765 : pdfkit v0.8.7.2 - Command Injection | 2023-06-07T09:58:49Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [dbgee/Spring4Shell](https://github.com/dbgee/Spring4Shell) | Spring rce environment for CVE-2022-22965 | 2023-06-07T09:02:50Z|
 | [CVE-2022-0435](https://www.cve.org/CVERecord?id=CVE-2022-0435) | [wlswotmd/CVE-2022-0435](https://github.com/wlswotmd/CVE-2022-0435) | no description | 2023-04-20T17:29:02Z|
+| [CVE-2022-0165](https://www.cve.org/CVERecord?id=CVE-2022-0165) | [K3ysTr0K3R/CVE-2022-0165-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT) | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | 2023-08-09T11:53:18Z|
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [Erenlancaster/CVE-2021-46704](https://github.com/Erenlancaster/CVE-2021-46704) | CVE-2021-46704 Nuclei template | 2023-06-22T05:03:15Z|
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC) | CVE-2021-46704 GenieACS Command Injection POC | 2023-06-21T12:29:43Z|
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [hheeyywweellccoommee/CVE-2021-46704-POC-bsnln](https://github.com/hheeyywweellccoommee/CVE-2021-46704-POC-bsnln) | CVE-2021-46704 GenieACS Command Injection POC | 2023-06-21T13:00:53Z|
