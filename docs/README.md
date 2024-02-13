@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-12 01:51:57.842908
+ Last generated : 2024-02-13 01:51:23.263751
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
