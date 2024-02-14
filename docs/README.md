@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-13 01:51:23.263751
+ Last generated : 2024-02-14 01:51:22.912321
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
+| [CVE-2023-6567](https://www.cve.org/CVERecord?id=CVE-2023-6567) | [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc) | Time-based SQLi | 2024-01-11T05:43:31Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553) | no description | 2024-01-01T16:57:17Z|
@@ -59,6 +60,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467) | no description | 2024-01-04T12:44:43Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit) | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | 2024-01-06T04:07:07Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz) | Authentication Bypass Vulnerability Apache OFBiz &lt; 18.12.10. | 2024-01-08T03:13:43Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467) | A go-exploit for Apache OFBiz CVE-2023-51467 | 2024-01-09T16:58:06Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -76,6 +78,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Sonicrrrr/CVE-2023-51385](https://github.com/Sonicrrrr/CVE-2023-51385) | no description | 2024-01-09T15:44:52Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
+| [CVE-2023-51199](https://www.cve.org/CVERecord?id=CVE-2023-51199) | [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199) | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:53:14Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
 | [CVE-2023-51073](https://www.cve.org/CVERecord?id=CVE-2023-51073) | [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073) | Firmware Update Server Verification Vulnerability on Buffalo LS210D Version 1.78-0.03 | 2024-01-05T05:16:18Z|
@@ -193,6 +196,7 @@
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z|
 | [CVE-2023-48197](https://www.cve.org/CVERecord?id=CVE-2023-48197) | [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197) | no description | 2023-11-14T16:34:21Z|
 | [CVE-2023-48123](https://www.cve.org/CVERecord?id=CVE-2023-48123) | [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123) | CVE-2023-54436 Exp | 2023-11-17T02:56:26Z|
+| [CVE-2023-48104](https://www.cve.org/CVERecord?id=CVE-2023-48104) | [E1tex/CVE-2023-48104](https://github.com/E1tex/CVE-2023-48104) | HTML Injection in Alinto/SOGo Web Client | 2024-01-10T15:49:48Z|
 | [CVE-2023-48034](https://www.cve.org/CVERecord?id=CVE-2023-48034) | [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034) | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | 2023-11-20T16:04:24Z|
 | [CVE-2023-48031](https://www.cve.org/CVERecord?id=CVE-2023-48031) | [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031) | no description | 2023-11-16T17:57:20Z|
 | [CVE-2023-48029](https://www.cve.org/CVERecord?id=CVE-2023-48029) | [nitipoom-jar/CVE-2023-48029](https://github.com/nitipoom-jar/CVE-2023-48029) | no description | 2023-11-16T18:42:12Z|
@@ -267,6 +271,7 @@
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
 | [CVE-2023-46474](https://www.cve.org/CVERecord?id=CVE-2023-46474) | [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474) | PoC for CVE-2023-46474. | 2023-12-06T13:05:22Z|
+| [CVE-2023-46474](https://www.cve.org/CVERecord?id=CVE-2023-46474) | [Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474) | Technical details for CVE-2023-46474 | 2024-01-11T08:35:18Z|
 | [CVE-2023-46456](https://www.cve.org/CVERecord?id=CVE-2023-46456) | [cyberaz0r/GL.iNet-Multiple-Vulnerabilities](https://github.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities) | Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456 | 2023-12-08T01:45:16Z|
 | [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z|
 | [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z|
@@ -1480,6 +1485,7 @@
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [kljunowsky/CVE-2022-44268](https://github.com/kljunowsky/CVE-2022-44268) | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | 2023-02-13T02:00:51Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [betillogalvanfbc/POC-CVE-2022-44268](https://github.com/betillogalvanfbc/POC-CVE-2022-44268) | no description | 2023-03-22T21:26:20Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [fanbyprinciple/ImageMagick-lfi-poc](https://github.com/fanbyprinciple/ImageMagick-lfi-poc) | ImageMagick Arbitrary Read Files - CVE-2022-44268 | 2023-07-23T06:56:59Z|
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito) | CVE-2022-44268_By_Kyokito | 2023-08-13T04:43:12Z|
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z|
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z|
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z|
@@ -1820,6 +1826,7 @@
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [cybfar/cve-2021-42013-httpd](https://github.com/cybfar/cve-2021-42013-httpd) | CVE: 2021-42013 Tested on: 2.4.49 and 2.4.50 Description: Path Traversal or Remote Code Execution vulnerabilities  in Apache 2.4.49 and 2.4.50 | 2023-06-08T08:49:15Z|
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [walnutsecurity/cve-2021-42013](https://github.com/walnutsecurity/cve-2021-42013) | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | 2021-10-27T14:29:10Z|
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013) | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | 2022-11-18T17:53:46Z|
+| [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z|
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z|
 | [CVE-2021-41805](https://www.cve.org/CVERecord?id=CVE-2021-41805) | [nelsondurairaj/CVE-2021-41805](https://github.com/nelsondurairaj/CVE-2021-41805) | HashiCorp Consul exploit with python. (CVE-2021-41805) | 2022-12-07T10:50:17Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT) | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | 2023-05-06T17:46:29Z|
