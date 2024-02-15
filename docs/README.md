@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-14 01:51:22.912321
+ Last generated : 2024-02-15 01:50:34.815133
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -47,6 +47,7 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
+| [CVE-2023-51801](https://www.cve.org/CVERecord?id=CVE-2023-51801) | [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801) | no description | 2024-01-11T17:14:33Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC) | just idea, no cp pls | 2023-12-31T14:33:26Z|
@@ -78,6 +79,9 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Sonicrrrr/CVE-2023-51385](https://github.com/Sonicrrrr/CVE-2023-51385) | no description | 2024-01-09T15:44:52Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
+| [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z|
+| [CVE-2023-51201](https://www.cve.org/CVERecord?id=CVE-2023-51201) | [16yashpatel/CVE-2023-51201](https://github.com/16yashpatel/CVE-2023-51201) | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | 2024-01-10T16:46:56Z|
+| [CVE-2023-51200](https://www.cve.org/CVERecord?id=CVE-2023-51200) | [16yashpatel/CVE-2023-51200](https://github.com/16yashpatel/CVE-2023-51200) | Security Misconfiguration in ROS2 Foxy Fitzroy | 2024-01-10T16:17:59Z|
 | [CVE-2023-51199](https://www.cve.org/CVERecord?id=CVE-2023-51199) | [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199) | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:53:14Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
