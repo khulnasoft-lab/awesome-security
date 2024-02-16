@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-15 01:50:34.815133
+ Last generated : 2024-02-16 01:50:15.688446
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1646,6 +1646,7 @@
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978) | no description | 2023-03-16T09:34:17Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [BKLockly/CVE-2022-22965](https://github.com/BKLockly/CVE-2022-22965) | Poc&amp;Exp,支持批量扫描,反弹shell | 2023-06-03T16:39:50Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC) | CVE-2022-22965 (Spring4Shell) Proof of Concept | 2022-04-04T13:44:39Z|
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z|
