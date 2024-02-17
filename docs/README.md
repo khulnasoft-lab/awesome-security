@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-16 01:50:15.688446
+ Last generated : 2024-02-17 01:52:10.208934
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -47,6 +47,8 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
+| [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802) | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | 2024-01-11T17:28:16Z|
+| [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker) | Highly configurable tool to check a server&#x27;s vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server&#x27;s responses. | 2023-11-08T20:56:22Z|
 | [CVE-2023-51801](https://www.cve.org/CVERecord?id=CVE-2023-51801) | [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801) | no description | 2024-01-11T17:14:33Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
@@ -2881,6 +2883,7 @@
 | [CVE-2018-15961](https://www.cve.org/CVERecord?id=CVE-2018-15961) | [orangmuda/CVE-2018-15961](https://github.com/orangmuda/CVE-2018-15961) | CVE-2018-15961 — ᴀᴅᴏʙᴇ ᴄᴏʟᴅғᴜsɪᴏɴ (ʀᴄᴇ) | 2021-10-03T23:31:47Z|
 | [CVE-2018-15961](https://www.cve.org/CVERecord?id=CVE-2018-15961) | [xbufu/CVE-2018-15961](https://github.com/xbufu/CVE-2018-15961) | Exploit for CVE-2018-15961, a unrestricted file upload vulnerability in Adobe ColdFusion 2018 leading to RCE | 2021-06-30T08:15:18Z|
 | [CVE-2018-15961](https://www.cve.org/CVERecord?id=CVE-2018-15961) | [cved-sources/cve-2018-15961](https://github.com/cved-sources/cve-2018-15961) | cve-2018-15961 | 2019-01-21T18:15:17Z|
+| [CVE-2018-15961](https://www.cve.org/CVERecord?id=CVE-2018-15961) | [bu1xuan2/CVE-2018-15961](https://github.com/bu1xuan2/CVE-2018-15961) | no description | 2021-11-10T17:19:55Z|
 | [CVE-2018-15877](https://www.cve.org/CVERecord?id=CVE-2018-15877) | [Cinnamon1212/CVE-2018-15877-RCE](https://github.com/Cinnamon1212/CVE-2018-15877-RCE) | Wordpress Plainview Activity Monitor Plugin RCE (20161228) | 2021-09-04T19:39:18Z|
 | [CVE-2018-15877](https://www.cve.org/CVERecord?id=CVE-2018-15877) | [cved-sources/cve-2018-15877](https://github.com/cved-sources/cve-2018-15877) | cve-2018-15877 | 2019-02-08T18:15:37Z|
 | [CVE-2018-15727](https://www.cve.org/CVERecord?id=CVE-2018-15727) | [grimbelhax/CVE-2018-15727](https://github.com/grimbelhax/CVE-2018-15727) | MSF Module CVE-2018-15727 | 2022-03-11T13:20:19Z|
