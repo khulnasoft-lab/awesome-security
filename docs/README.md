@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-17 01:52:10.208934
+ Last generated : 2024-02-18 01:55:15.431889
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -50,6 +50,7 @@
 | [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802) | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | 2024-01-11T17:28:16Z|
 | [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker) | Highly configurable tool to check a server&#x27;s vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server&#x27;s responses. | 2023-11-08T20:56:22Z|
 | [CVE-2023-51801](https://www.cve.org/CVERecord?id=CVE-2023-51801) | [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801) | no description | 2024-01-11T17:14:33Z|
+| [CVE-2023-51800](https://www.cve.org/CVERecord?id=CVE-2023-51800) | [geraldoalcantara/CVE-2023-51800](https://github.com/geraldoalcantara/CVE-2023-51800) | Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0. | 2024-01-11T16:28:04Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [duy-31/CVE-2023-51764](https://github.com/duy-31/CVE-2023-51764) | Postfix SMTP Smuggling - Expect Script POC | 2023-12-26T17:02:20Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764) | PoC CVE-2023-51764 | 2023-12-28T06:20:13Z|
 | [CVE-2023-51764](https://www.cve.org/CVERecord?id=CVE-2023-51764) | [d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC) | just idea, no cp pls | 2023-12-31T14:33:26Z|
@@ -726,6 +727,7 @@
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025) | test repo for CVE-2023-36025 | 2023-11-28T10:34:50Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025) | Quick test for CVE-2023-26025 behaviours | 2023-11-17T15:46:44Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025) | Windows SmartScreen Security Feature Bypass Vulnerability | 2023-12-28T23:29:04Z|
+| [CVE-2023-36003](https://www.cve.org/CVERecord?id=CVE-2023-36003) | [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | 2024-01-11T19:17:13Z|
 | [CVE-2023-35985](https://www.cve.org/CVERecord?id=CVE-2023-35985) | [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985) | CVE-2023-35985 reproduction | 2023-12-30T06:35:21Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
@@ -1640,6 +1642,7 @@
 | [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z|
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z|
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z|
+| [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z|
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z|
 | [CVE-2022-23773](https://www.cve.org/CVERecord?id=CVE-2022-23773) | [YouShengLiu/CVE-2022-23773-Reproduce](https://github.com/YouShengLiu/CVE-2022-23773-Reproduce) | no description | 2023-03-19T10:08:47Z|
 | [CVE-2022-23614](https://www.cve.org/CVERecord?id=CVE-2022-23614) | [4rtamis/CVE-2022-23614](https://github.com/4rtamis/CVE-2022-23614) | Proof of concept for CVE-2022-23614 (command injection in Twig) | 2023-07-04T15:52:50Z|
