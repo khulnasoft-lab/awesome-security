@@ -2,13 +2,15 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-18 01:55:15.431889
+ Last generated : 2024-02-19 01:52:12.783799
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
 | [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028) | CVE-2023-7028 | 2024-01-12T10:53:50Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [V1lu0/CVE-2023-7028](https://github.com/V1lu0/CVE-2023-7028) | CVE-2023-7028 poc | 2024-01-12T07:42:02Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
@@ -65,6 +67,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit) | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | 2024-01-06T04:07:07Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz) | Authentication Bypass Vulnerability Apache OFBiz &lt; 18.12.10. | 2024-01-08T03:13:43Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467) | A go-exploit for Apache OFBiz CVE-2023-51467 | 2024-01-09T16:58:06Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467) | CVE-2023-49070 exploit and CVE-2023-49070 &amp; CVE-2023-51467 vulnerability scanner | 2024-01-11T22:35:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -1033,6 +1036,7 @@
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp) | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | 2023-06-09T12:00:59Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cashapp323232/CVE-2023-2868CVE-2023-2868](https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868) | no description | 2023-07-30T16:42:27Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [krmxd/CVE-2023-2868](https://github.com/krmxd/CVE-2023-2868) | no description | 2023-08-25T13:07:51Z|
+| [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [Trinadh465/CVE-2023-28588](https://github.com/Trinadh465/CVE-2023-28588) | no description | 2024-01-12T14:15:42Z|
 | [CVE-2023-28467](https://www.cve.org/CVERecord?id=CVE-2023-28467) | [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467) | no description | 2023-07-22T20:37:15Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432) | CVE-2023-28432检测工具 | 2023-08-21T06:03:25Z|
