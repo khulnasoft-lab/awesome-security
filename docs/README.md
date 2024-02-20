@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-19 01:52:12.783799
+ Last generated : 2024-02-20 01:48:51.060118
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028) | CVE-2023-7028 | 2024-01-12T10:53:50Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [V1lu0/CVE-2023-7028](https://github.com/V1lu0/CVE-2023-7028) | CVE-2023-7028 poc | 2024-01-12T07:42:02Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [duy-31/CVE-2023-7028](https://github.com/duy-31/CVE-2023-7028) | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | 2024-01-12T15:17:59Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
@@ -1037,6 +1038,7 @@
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cashapp323232/CVE-2023-2868CVE-2023-2868](https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868) | no description | 2023-07-30T16:42:27Z|
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [krmxd/CVE-2023-2868](https://github.com/krmxd/CVE-2023-2868) | no description | 2023-08-25T13:07:51Z|
 | [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [Trinadh465/CVE-2023-28588](https://github.com/Trinadh465/CVE-2023-28588) | no description | 2024-01-12T14:15:42Z|
+| [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [uthrasri/CVE-2023-28588_system_bt](https://github.com/uthrasri/CVE-2023-28588_system_bt) | system_bt_CVE-2023-28588 | 2024-01-12T14:58:59Z|
 | [CVE-2023-28467](https://www.cve.org/CVERecord?id=CVE-2023-28467) | [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467) | no description | 2023-07-22T20:37:15Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432) | CVE-2023-28432检测工具 | 2023-08-21T06:03:25Z|
@@ -1408,6 +1410,7 @@
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z|
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z|
 | [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669) | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | 2023-04-06T03:40:03Z|
+| [CVE-2023-0656](https://www.cve.org/CVERecord?id=CVE-2023-0656) | [BishopFox/CVE-2022-22274_CVE-2023-0656](https://github.com/BishopFox/CVE-2022-22274_CVE-2023-0656) | no description | 2024-01-12T20:03:51Z|
 | [CVE-2023-0630](https://www.cve.org/CVERecord?id=CVE-2023-0630) | [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) | CVE-2023-0630 - Slimstat Analytics &lt; 4.9.3.3 - Subscriber+ SQL Injection | 2023-06-09T12:02:55Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386) | 非常简单的CVE-2023-0386&#x27;s exp and analysis.Use c and sh. | 2023-06-28T07:49:52Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) | CVE-2023-0386在ubuntu22.04上的提权 | 2023-05-05T03:02:13Z|
@@ -1549,6 +1552,7 @@
 | [CVE-2022-40347](https://www.cve.org/CVERecord?id=CVE-2022-40347) | [h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40347: Intern Record System - &#x27;phone&#x27;, &#x27;email&#x27;, &#x27;deptType&#x27; and &#x27;name&#x27; SQL Injection (Unauthenticated) | 2023-02-16T02:16:51Z|
 | [CVE-2022-40127](https://www.cve.org/CVERecord?id=CVE-2022-40127) | [jakabakos/CVE-2022-40127](https://github.com/jakabakos/CVE-2022-40127) | CVE-2022-40127 PoC and exploit | 2023-07-21T12:55:16Z|
 | [CVE-2022-40032](https://www.cve.org/CVERecord?id=CVE-2022-40032) | [h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40032: Simple Task Managing System - &#x27;login&#x27; and &#x27;password&#x27; SQL Injection (Unauthenticated) | 2023-02-16T01:42:48Z|
+| [CVE-2022-39986](https://www.cve.org/CVERecord?id=CVE-2022-39986) | [tucommenceapousser/RaspAP-CVE-2022-39986-PoC](https://github.com/tucommenceapousser/RaspAP-CVE-2022-39986-PoC) | CVE-2022-39986 PoC | 2023-08-28T03:13:10Z|
 | [CVE-2022-39227](https://www.cve.org/CVERecord?id=CVE-2022-39227) | [user0x1337/CVE-2022-39227](https://github.com/user0x1337/CVE-2022-39227) | CVE-2022-39227 : Proof of Concept | 2023-06-07T11:11:12Z|
 | [CVE-2022-3910](https://www.cve.org/CVERecord?id=CVE-2022-3910) | [veritas501/CVE-2022-3910](https://github.com/veritas501/CVE-2022-3910) | CVE-2022-3910 | 2023-03-14T07:22:25Z|
 | [CVE-2022-3904](https://www.cve.org/CVERecord?id=CVE-2022-3904) | [RandomRobbieBF/CVE-2022-3904](https://github.com/RandomRobbieBF/CVE-2022-3904) | CVE-2022-3904 MonsterInsights &lt; 8.9.1 - Stored Cross-Site Scripting via Google Analytics | 2023-07-12T09:51:32Z|
