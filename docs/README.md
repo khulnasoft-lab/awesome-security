@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-20 01:48:51.060118
+ Last generated : 2024-02-21 01:52:31.921427
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,8 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [RandomRobbieBF/CVE-2023-7028](https://github.com/RandomRobbieBF/CVE-2023-7028) | CVE-2023-7028 | 2024-01-12T10:53:50Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [V1lu0/CVE-2023-7028](https://github.com/V1lu0/CVE-2023-7028) | CVE-2023-7028 poc | 2024-01-12T07:42:02Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [duy-31/CVE-2023-7028](https://github.com/duy-31/CVE-2023-7028) | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | 2024-01-12T15:17:59Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) | This repository presents a proof-of-concept of CVE-2023-7028 | 2024-01-12T18:29:27Z|
+| [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
@@ -50,6 +52,7 @@
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools) | CVE-2023-38646 Metabase RCE | 2023-10-11T03:18:09Z|
+| [CVE-2023-51810](https://www.cve.org/CVERecord?id=CVE-2023-51810) | [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810) | no description | 2024-01-10T17:47:54Z|
 | [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802) | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | 2024-01-11T17:28:16Z|
 | [CVE-2023-51802](https://www.cve.org/CVERecord?id=CVE-2023-51802) | [ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker) | Highly configurable tool to check a server&#x27;s vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server&#x27;s responses. | 2023-11-08T20:56:22Z|
 | [CVE-2023-51801](https://www.cve.org/CVERecord?id=CVE-2023-51801) | [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801) | no description | 2024-01-11T17:14:33Z|
@@ -69,6 +72,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz) | Authentication Bypass Vulnerability Apache OFBiz &lt; 18.12.10. | 2024-01-08T03:13:43Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467) | A go-exploit for Apache OFBiz CVE-2023-51467 | 2024-01-09T16:58:06Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467) | CVE-2023-49070 exploit and CVE-2023-49070 &amp; CVE-2023-51467 vulnerability scanner | 2024-01-11T22:35:57Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Jake123otte1/BadBizness-CVE-2023-51467](https://github.com/Jake123otte1/BadBizness-CVE-2023-51467) | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467. | 2024-01-13T05:40:38Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -100,6 +104,7 @@
 | [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z|
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
+| [CVE-2023-5043](https://www.cve.org/CVERecord?id=CVE-2023-5043) | [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043) | PoC CVE-2023-5043 | 2024-01-15T09:20:35Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164) | A scanning utility and PoC for CVE-2023-50164 | 2023-12-15T21:19:51Z|
@@ -110,6 +115,8 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE](https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE) | no description | 2023-12-20T08:39:54Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [miles3719/cve-2023-50164](https://github.com/miles3719/cve-2023-50164) | no description | 2023-12-22T02:15:36Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [aaronm-sysdig/cve-2023-50164](https://github.com/aaronm-sysdig/cve-2023-50164) | no description | 2023-12-22T02:20:11Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [sunnyvale-it/CVE-2023-50164-PoC](https://github.com/sunnyvale-it/CVE-2023-50164-PoC) | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | 2024-01-12T09:34:57Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky) | CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript) | 2024-01-16T07:44:35Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z|
@@ -732,6 +739,9 @@
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025) | Quick test for CVE-2023-26025 behaviours | 2023-11-17T15:46:44Z|
 | [CVE-2023-36025](https://www.cve.org/CVERecord?id=CVE-2023-36025) | [coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025) | Windows SmartScreen Security Feature Bypass Vulnerability | 2023-12-28T23:29:04Z|
 | [CVE-2023-36003](https://www.cve.org/CVERecord?id=CVE-2023-36003) | [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | 2024-01-11T19:17:13Z|
+| [CVE-2023-36003](https://www.cve.org/CVERecord?id=CVE-2023-36003) | [baph0m3th/CVE-2023-36003](https://github.com/baph0m3th/CVE-2023-36003) | Privilege escalation using the XAML diagnostics API | 2024-01-15T08:19:32Z|
+| [CVE-2023-36003](https://www.cve.org/CVERecord?id=CVE-2023-36003) | [mirrr/NVD_Vul_Detection](https://github.com/mirrr/NVD_Vul_Detection) | Vul detection system based on NVD CVEs Jan 2023-onwards | 2024-01-07T23:51:17Z|
+| [CVE-2023-360003](https://www.cve.org/CVERecord?id=CVE-2023-360003) | [s3mPr1linux/CVE_2023_360003_POC](https://github.com/s3mPr1linux/CVE_2023_360003_POC) | no description | 2024-01-14T18:15:17Z|
 | [CVE-2023-35985](https://www.cve.org/CVERecord?id=CVE-2023-35985) | [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985) | CVE-2023-35985 reproduction | 2023-12-30T06:35:21Z|
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z|
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z|
@@ -741,6 +751,7 @@
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-01T11:31:25Z|
 | [CVE-2023-35828](https://www.cve.org/CVERecord?id=CVE-2023-35828) | [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828) | no description | 2023-08-04T05:18:02Z|
 | [CVE-2023-35813](https://www.cve.org/CVERecord?id=CVE-2023-35813) | [aalexpereira/CVE-2023-35813](https://github.com/aalexpereira/CVE-2023-35813) | Exploit for CVE-2023-35813 POC | 2023-12-31T05:23:09Z|
+| [CVE-2023-35813](https://www.cve.org/CVERecord?id=CVE-2023-35813) | [BagheeraAltered/CVE-2023-35813-PoC](https://github.com/BagheeraAltered/CVE-2023-35813-PoC) | An exploit for the Sitecore Remote Code Execution Vulnerability | 2024-01-15T14:14:42Z|
 | [CVE-2023-35803](https://www.cve.org/CVERecord?id=CVE-2023-35803) | [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803) | PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine | 2023-07-10T19:58:22Z|
 | [CVE-2023-35801](https://www.cve.org/CVERecord?id=CVE-2023-35801) | [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801) | no description | 2023-07-24T10:40:26Z|
 | [CVE-2023-35794](https://www.cve.org/CVERecord?id=CVE-2023-35794) | [Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking](https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking) | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | 2023-10-23T09:51:34Z|
@@ -1046,6 +1057,7 @@
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [unam4/CVE-2023-28432-minio_update_rce](https://github.com/unam4/CVE-2023-28432-minio_update_rce) | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | 2023-11-26T18:23:33Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432) | CVE-2023-28432 Minio Information isclosure Exploit | 2023-12-07T03:33:37Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432) | no description | 2024-01-07T12:34:49Z|
+| [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432) | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | 2024-01-11T13:41:20Z|
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z|
 | [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z|
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z|
@@ -1432,6 +1444,7 @@
 | [CVE-2022-48150](https://www.cve.org/CVERecord?id=CVE-2022-48150) | [sahilop123/-CVE-2022-48150](https://github.com/sahilop123/-CVE-2022-48150) | I Found the reflected xss vulnerability in shopware 5 .for more details check my poc video | 2023-04-06T16:14:42Z|
 | [CVE-2022-47986](https://www.cve.org/CVERecord?id=CVE-2022-47986) | [mauricelambert/CVE-2022-47986](https://github.com/mauricelambert/CVE-2022-47986) | CVE-2022-47986: Python, Ruby, NMAP and Metasploit modules to exploit the vulnerability. | 2023-03-09T22:03:48Z|
 | [CVE-2022-47909](https://www.cve.org/CVERecord?id=CVE-2022-47909) | [JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion](https://github.com/JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion) | Unauthenticated Arbitrary File Deletion by abusing Livestatus Query Language Injection in Checkmk &lt;= 2.1.0p11, Checkmk &lt;= 2.0.0p28, and all versions of Checkmk 1.6.0 (EOL) | 2023-03-27T02:16:51Z|
+| [CVE-2022-47615](https://www.cve.org/CVERecord?id=CVE-2022-47615) | [RandomRobbieBF/CVE-2022-47615](https://github.com/RandomRobbieBF/CVE-2022-47615) | LearnPress Plugin &lt; 4.2.0 - Unauthenticated LFI Description | 2023-08-18T15:04:36Z|
 | [CVE-2022-47529](https://www.cve.org/CVERecord?id=CVE-2022-47529) | [hyp3rlinx/CVE-2022-47529](https://github.com/hyp3rlinx/CVE-2022-47529) | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | 2023-03-24T22:50:26Z|
 | [CVE-2022-46836](https://www.cve.org/CVERecord?id=CVE-2022-46836) | [JacobEbben/CVE-2022-46836_remote_code_execution](https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution) | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk &lt;= 2.1.0p10, Checkmk &lt;= 2.0.0p27, and Checkmk &lt;= 1.6.0p29 | 2023-03-27T22:30:21Z|
 | [CVE-2022-46718](https://www.cve.org/CVERecord?id=CVE-2022-46718) | [biscuitehh/cve-2022-46718-leaky-location](https://github.com/biscuitehh/cve-2022-46718-leaky-location) | CVE-2022-46718: an app may be able to read sensitive location information. | 2023-05-01T18:34:52Z|
