@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-21 01:52:31.921427
+ Last generated : 2024-02-22 01:49:45.582412
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) | Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887 | 2024-01-16T19:19:52Z|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
 | [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
@@ -117,6 +118,8 @@
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [aaronm-sysdig/cve-2023-50164](https://github.com/aaronm-sysdig/cve-2023-50164) | no description | 2023-12-22T02:20:11Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [sunnyvale-it/CVE-2023-50164-PoC](https://github.com/sunnyvale-it/CVE-2023-50164-PoC) | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | 2024-01-12T09:34:57Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky) | CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript) | 2024-01-16T07:44:35Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [snyk-labs/CVE-2023-50164-POC](https://github.com/snyk-labs/CVE-2023-50164-POC) | no description | 2023-12-30T21:37:08Z|
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [0x1717/ssrf-via-img](https://github.com/0x1717/ssrf-via-img) | CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE | 2023-05-28T07:26:49Z|
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z|
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z|
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z|
@@ -1146,8 +1149,10 @@
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [X1r0z/spring-amqp-deserialization](https://github.com/X1r0z/spring-amqp-deserialization) | A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050) | 2023-10-20T05:46:15Z|
 | [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818) | CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram | 2023-08-30T12:40:50Z|
 | [CVE-2023-26818](https://www.cve.org/CVERecord?id=CVE-2023-26818) | [im-hanzou/EVCer](https://github.com/im-hanzou/EVCer) | Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder &lt; 1.9.1 - Unauthenticated LFI | 2023-09-11T11:36:35Z|
+| [CVE-2023-26609](https://www.cve.org/CVERecord?id=CVE-2023-26609) | [D1G17/CVE-2023-26609](https://github.com/D1G17/CVE-2023-26609) | Exploit information for CVE-2023-26609 | 2024-01-16T15:02:39Z|
 | [CVE-2023-26607](https://www.cve.org/CVERecord?id=CVE-2023-26607) | [Trinadh465/linux-4.1.15_CVE-2023-26607](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607) | no description | 2023-09-15T06:42:36Z|
 | [CVE-2023-26604](https://www.cve.org/CVERecord?id=CVE-2023-26604) | [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604) | Checker for CVE-2023-26604 | 2023-03-03T20:28:33Z|
+| [CVE-2023-26602](https://www.cve.org/CVERecord?id=CVE-2023-26602) | [D1G17/CVE-2023-26602](https://github.com/D1G17/CVE-2023-26602) | Exploit information for CVE-2023-26602 | 2024-01-16T15:01:33Z|
 | [CVE-2023-26563](https://www.cve.org/CVERecord?id=CVE-2023-26563) | [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565) | no description | 2023-06-10T13:33:33Z|
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z|
 | [CVE-2023-2648](https://www.cve.org/CVERecord?id=CVE-2023-2648) | [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648) | cve-2023-2523-and-cve-2023-2648 | 2023-08-26T11:23:58Z|
