@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-23 01:48:23.902415
+ Last generated : 2024-02-24 01:42:50.232539
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -146,6 +146,7 @@
 | [CVE-2023-49970](https://www.cve.org/CVERecord?id=CVE-2023-49970) | [geraldoalcantara/CVE-2023-49970](https://github.com/geraldoalcantara/CVE-2023-49970) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;subject&quot; Parameter During &quot;save_ticket&quot; Operation | 2023-12-19T23:12:29Z|
 | [CVE-2023-49969](https://www.cve.org/CVERecord?id=CVE-2023-49969) | [geraldoalcantara/CVE-2023-49969](https://github.com/geraldoalcantara/CVE-2023-49969) | Customer Support System 1.0 - SQL Injection Vulnerability in edit_customer via &quot;id&quot; URL Parameter | 2023-12-19T23:02:09Z|
 | [CVE-2023-49968](https://www.cve.org/CVERecord?id=CVE-2023-49968) | [geraldoalcantara/CVE-2023-49968](https://github.com/geraldoalcantara/CVE-2023-49968) | Customer Support System 1.0 - SQL Injection Vulnerability in manage_department.php via &quot;id&quot; URL Parameter | 2023-12-19T22:45:22Z|
+| [CVE-2023-49965](https://www.cve.org/CVERecord?id=CVE-2023-49965) | [hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS](https://github.com/hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS) | CVE-2023-49965 - SpaceX / Starlink Router Gen 2 XSS | 2024-01-17T01:24:15Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49954](https://www.cve.org/CVERecord?id=CVE-2023-49954) | [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io) | SQL Injection in 3CX CRM Integration | 2023-12-14T18:38:28Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
