@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-24 01:42:50.232539
+ Last generated : 2024-02-25 01:54:37.560104
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -379,6 +379,8 @@
 | [CVE-2023-43871](https://www.cve.org/CVERecord?id=CVE-2023-43871) | [sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media](https://github.com/sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media) | WBCE 1.6.1 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up | 2023-09-19T10:02:34Z|
 | [CVE-2023-43838](https://www.cve.org/CVERecord?id=CVE-2023-43838) | [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838) | Public disclosure for CVE-2023-31584. | 2023-10-02T15:27:07Z|
 | [CVE-2023-43804](https://www.cve.org/CVERecord?id=CVE-2023-43804) | [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit) | Example of how CVE-2023-43804 works with real python code. | 2023-10-13T06:15:45Z|
+| [CVE-2023-43786](https://www.cve.org/CVERecord?id=CVE-2023-43786) | [jfrog/jfrog-CVE-2023-43786-libX11_DoS](https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS) | no description | 2024-01-16T20:04:05Z|
+| [CVE-2023-43786](https://www.cve.org/CVERecord?id=CVE-2023-43786) | [actuator/com.altamirano.fabricio.tvbrowser](https://github.com/actuator/com.altamirano.fabricio.tvbrowser) | CVE-2023-47883 | 2023-09-17T21:01:22Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC) | PoC for Stored XSS (CVE-2023-43770) Vulnerability | 2023-09-28T13:43:25Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC) | A Proof-Of-Concept for the CVE-2023-43770 vulnerability. | 2023-09-27T17:08:23Z|
 | [CVE-2023-43654](https://www.cve.org/CVERecord?id=CVE-2023-43654) | [OligoCyberSecurity/ShellTorchChecker](https://github.com/OligoCyberSecurity/ShellTorchChecker) | A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654 | 2023-10-02T11:33:37Z|
@@ -1266,6 +1268,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-17T10:21:00Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
