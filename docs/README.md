@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-25 01:54:37.560104
+ Last generated : 2024-02-26 01:52:46.900023
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -207,6 +207,9 @@
 | [CVE-2023-48981](https://www.cve.org/CVERecord?id=CVE-2023-48981) | [tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981) | POC CVE-2023-48981 | 2024-01-01T13:06:39Z|
 | [CVE-2023-48974](https://www.cve.org/CVERecord?id=CVE-2023-48974) | [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974) | no description | 2023-12-28T23:24:22Z|
 | [CVE-2023-48866](https://www.cve.org/CVERecord?id=CVE-2023-48866) | [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866) | no description | 2023-11-30T15:59:16Z|
+| [CVE-2023-48858](https://www.cve.org/CVERecord?id=CVE-2023-48858) | [Shumerez/CVE-2023-48858](https://github.com/Shumerez/CVE-2023-48858) | PoC for CVE-2023-48858 | 2024-01-17T09:59:39Z|
+| [CVE-2023-48858](https://www.cve.org/CVERecord?id=CVE-2023-48858) | [febinrev/atril_cbt-inject-exploit](https://github.com/febinrev/atril_cbt-inject-exploit) | CVE-2023-44452, CVE-2023-51698: CBT File Parsing Argument Injection that affected Popular Linux Distros | 2024-01-17T09:26:16Z|
+| [CVE-2023-48858](https://www.cve.org/CVERecord?id=CVE-2023-48858) | [StanleyJobsonAU/GhostTown](https://github.com/StanleyJobsonAU/GhostTown) | Proof of Concept script to exploit CVE-2023-42793 (TeamCity) | 2024-01-15T13:25:49Z|
 | [CVE-2023-48849](https://www.cve.org/CVERecord?id=CVE-2023-48849) | [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849) | no description | 2023-12-01T11:24:26Z|
 | [CVE-2023-48842](https://www.cve.org/CVERecord?id=CVE-2023-48842) | [creacitysec/CVE-2023-48842](https://github.com/creacitysec/CVE-2023-48842) | no description | 2023-12-02T23:21:44Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863) | BAD-WEBP-CVE-2023-4863 | 2023-09-25T22:10:32Z|
@@ -962,6 +965,9 @@
 | [CVE-2023-31853](https://www.cve.org/CVERecord?id=CVE-2023-31853) | [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853) | no description | 2023-04-23T23:32:31Z|
 | [CVE-2023-31852](https://www.cve.org/CVERecord?id=CVE-2023-31852) | [CalfCrusher/CVE-2023-31852](https://github.com/CalfCrusher/CVE-2023-31852) | no description | 2023-04-23T23:36:31Z|
 | [CVE-2023-31851](https://www.cve.org/CVERecord?id=CVE-2023-31851) | [CalfCrusher/CVE-2023-31851](https://github.com/CalfCrusher/CVE-2023-31851) | no description | 2023-04-23T23:12:54Z|
+| [CVE-2023-31756](https://www.cve.org/CVERecord?id=CVE-2023-31756) | [StanleyJobsonAU/LongBow](https://github.com/StanleyJobsonAU/LongBow) | CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers | 2024-01-15T13:32:38Z|
+| [CVE-2023-31756](https://www.cve.org/CVERecord?id=CVE-2023-31756) | [febinrev/slippy-book-exploit](https://github.com/febinrev/slippy-book-exploit) | CVE-2023-44451, CVE-2023-52076: RCE Vulnerability affected popular Linux Distros including Mint, Kali, Parrot, Manjaro etc. EPUB File Parsing Directory Traversal Remote Code Execution | 2024-01-17T05:50:38Z|
+| [CVE-2023-31756](https://www.cve.org/CVERecord?id=CVE-2023-31756) | [TheRedDevil1/Check-Vulns-Script](https://github.com/TheRedDevil1/Check-Vulns-Script) | Here is a script to check vulns CVE-2023-46805 and CVE-2024-21887 | 2024-01-17T10:29:02Z|
 | [CVE-2023-31753](https://www.cve.org/CVERecord?id=CVE-2023-31753) | [khmk2k/CVE-2023-31753](https://github.com/khmk2k/CVE-2023-31753) | Proof of Concept for CVE-2023-31753 - eNdonesia Portal 8.7 | 2023-07-20T13:56:13Z|
 | [CVE-2023-31719](https://www.cve.org/CVERecord?id=CVE-2023-31719) | [MateusTesser/CVE-2023-31719](https://github.com/MateusTesser/CVE-2023-31719) | no description | 2023-09-21T00:28:16Z|
 | [CVE-2023-31718](https://www.cve.org/CVERecord?id=CVE-2023-31718) | [MateusTesser/CVE-2023-31718](https://github.com/MateusTesser/CVE-2023-31718) | no description | 2023-09-21T00:27:10Z|
@@ -1492,6 +1498,7 @@
 | [CVE-2022-46080](https://www.cve.org/CVERecord?id=CVE-2022-46080) | [yerodin/CVE-2022-46080](https://github.com/yerodin/CVE-2022-46080) | Nexxt Router 15.03.06.60 Authentication Bypass and Remote Command Execution | 2023-07-04T08:31:04Z|
 | [CVE-2022-45934](https://www.cve.org/CVERecord?id=CVE-2022-45934) | [Satheesh575555/linux-4.1.15_CVE-2022-45934](https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934) | no description | 2023-03-24T08:16:44Z|
 | [CVE-2022-45934](https://www.cve.org/CVERecord?id=CVE-2022-45934) | [WFS-Mend/vtrade-common](https://github.com/WFS-Mend/vtrade-common) | https://github.com/karthikuj/cve-2022-42889-text4shell-docker.git | 2023-02-19T19:49:41Z|
+| [CVE-2022-45808](https://www.cve.org/CVERecord?id=CVE-2022-45808) | [RandomRobbieBF/CVE-2022-45808](https://github.com/RandomRobbieBF/CVE-2022-45808) | LearnPress Plugin &lt; 4.2.0 - Unauthenticated SQLi | 2023-08-18T15:43:50Z|
 | [CVE-2022-45771](https://www.cve.org/CVERecord?id=CVE-2022-45771) | [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE) | Pwndoc local file inclusion to remote code execution of Node.js code on the server | 2022-12-13T10:03:14Z|
 | [CVE-2022-45770](https://www.cve.org/CVERecord?id=CVE-2022-45770) | [Marsel-marsel/CVE-2022-45770](https://github.com/Marsel-marsel/CVE-2022-45770) | LPE exploit via windows driver | 2023-01-21T10:32:02Z|
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z|
@@ -1639,14 +1646,17 @@
 | [CVE-2022-27666](https://www.cve.org/CVERecord?id=CVE-2022-27666) | [Albocoder/cve-2022-27666-exploits](https://github.com/Albocoder/cve-2022-27666-exploits) | There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog. | 2023-04-11T00:12:33Z|
 | [CVE-2022-27665](https://www.cve.org/CVERecord?id=CVE-2022-27665) | [dievus/CVE-2022-27665](https://github.com/dievus/CVE-2022-27665) | Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0 | 2022-03-23T14:20:58Z|
 | [CVE-2022-26965](https://www.cve.org/CVERecord?id=CVE-2022-26965) | [SkDevilS/Pluck-Exploitation-by-skdevils](https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils) | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965 | 2023-08-04T20:32:08Z|
+| [CVE-2022-26904](https://www.cve.org/CVERecord?id=CVE-2022-26904) | [0nyx-hkr/cve_2022_26904](https://github.com/0nyx-hkr/cve_2022_26904) | This is to create ruby version to python of ruby exploit | 2023-08-24T15:43:32Z|
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z|
 | [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z|
 | [CVE-2022-26265](https://www.cve.org/CVERecord?id=CVE-2022-26265) | [redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265) | The first proof of concept of the Contao CMS RCE | 2023-04-05T09:34:29Z|
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit) | This is a python script that can be used with Shodan CLI to mass hunting Confluence Servers vulnerable to CVE-2022-26134 | 2022-07-12T05:34:09Z|
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat) | An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889. | 2022-10-18T08:22:55Z|
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [Muhammad-Ali007/Atlassian_CVE-2022-26134](https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134) | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | 2023-07-30T20:56:13Z|
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [nxtexploit/CVE-2022-26134](https://github.com/nxtexploit/CVE-2022-26134) | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | 2022-07-05T04:30:42Z|
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z|
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z|
+| [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z|
 | [CVE-2022-25765](https://www.cve.org/CVERecord?id=CVE-2022-25765) | [UNICORDev/exploit-CVE-2022-25765](https://github.com/UNICORDev/exploit-CVE-2022-25765) | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | 2023-02-10T00:50:35Z|
 | [CVE-2022-25315](https://www.cve.org/CVERecord?id=CVE-2022-25315) | [hshivhare67/external_expat_v2.1.0_CVE-2022-25315](https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315) | no description | 2023-04-06T05:42:39Z|
 | [CVE-2022-25313](https://www.cve.org/CVERecord?id=CVE-2022-25313) | [Trinadh465/external_expat-2.1.0_CVE-2022-25313](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313) | no description | 2023-04-12T05:30:46Z|
@@ -1669,6 +1679,7 @@
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [Pflegusch/CVE-2022-24637](https://github.com/Pflegusch/CVE-2022-24637) | Open Web Analytics 1.7.3 - Remote Code Execution | 2023-03-09T10:40:24Z|
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [0xM4hm0ud/CVE-2022-24637](https://github.com/0xM4hm0ud/CVE-2022-24637) | Unauthenticated RCE in Open Web Analytics version &lt;1.7.4 | 2023-03-26T13:11:50Z|
 | [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637) | Unauthenticated RCE in Open Web Analytics (OWA) &lt;1.7.4 | 2022-08-30T16:38:01Z|
+| [CVE-2022-24637](https://www.cve.org/CVERecord?id=CVE-2022-24637) | [0xRyuk/CVE-2022-24637](https://github.com/0xRyuk/CVE-2022-24637) | Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2 | 2023-08-22T16:25:52Z|
 | [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z|
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z|
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z|
@@ -1794,6 +1805,7 @@
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [GrandNabil/testpdfkit](https://github.com/GrandNabil/testpdfkit) | Test de vulnérabilité du CVE 2022–25765 : pdfkit v0.8.7.2 - Command Injection | 2023-06-07T09:58:49Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [dbgee/Spring4Shell](https://github.com/dbgee/Spring4Shell) | Spring rce environment for CVE-2022-22965 | 2023-06-07T09:02:50Z|
 | [CVE-2022-0435](https://www.cve.org/CVERecord?id=CVE-2022-0435) | [wlswotmd/CVE-2022-0435](https://github.com/wlswotmd/CVE-2022-0435) | no description | 2023-04-20T17:29:02Z|
+| [CVE-2022-0412](https://www.cve.org/CVERecord?id=CVE-2022-0412) | [TcherB31/CVE-2022-0412_Exploit](https://github.com/TcherB31/CVE-2022-0412_Exploit) | I&#x27;m write a exploit&amp;scan for exploitation SQl Injection in WP from CVE-2022-0412 | 2023-08-25T16:54:28Z|
 | [CVE-2022-0165](https://www.cve.org/CVERecord?id=CVE-2022-0165) | [K3ysTr0K3R/CVE-2022-0165-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT) | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | 2023-08-09T11:53:18Z|
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [Erenlancaster/CVE-2021-46704](https://github.com/Erenlancaster/CVE-2021-46704) | CVE-2021-46704 Nuclei template | 2023-06-22T05:03:15Z|
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC) | CVE-2021-46704 GenieACS Command Injection POC | 2023-06-21T12:29:43Z|
