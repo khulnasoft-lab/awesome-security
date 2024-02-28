@@ -2,12 +2,15 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-27 01:50:52.877245
+ Last generated : 2024-02-28 01:50:38.943138
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) | Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887 | 2024-01-16T19:19:52Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887) | An authentication bypass vulnerability in the web component of Ivanti ICS 9.x, 22.x and Ivanti Policy Secure allows a remote attacker to access restricted resources by bypassing control checks. | 2024-01-16T19:40:59Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped) | no description | 2024-01-19T08:11:31Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887) | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | 2024-01-18T13:25:46Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Esonhugh/gitlab_honeypot](https://github.com/Esonhugh/gitlab_honeypot) | CVE-2023-7028 killer | 2024-01-18T10:13:18Z|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
 | [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
@@ -177,6 +180,8 @@
 | [CVE-2023-49539](https://www.cve.org/CVERecord?id=CVE-2023-49539) | [KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft) | this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF | 2023-12-20T06:29:18Z|
 | [CVE-2023-49471](https://www.cve.org/CVERecord?id=CVE-2023-49471) | [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471) | no description | 2023-12-24T15:40:24Z|
 | [CVE-2023-49438](https://www.cve.org/CVERecord?id=CVE-2023-49438) | [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438) | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | 2023-12-14T23:58:42Z|
+| [CVE-2023-49339](https://www.cve.org/CVERecord?id=CVE-2023-49339) | [3zizme/CVE-2023-49339](https://github.com/3zizme/CVE-2023-49339) | Critical Security Vulnerability in Ellucian Banner System | 2024-01-17T23:18:29Z|
+| [CVE-2023-49339](https://www.cve.org/CVERecord?id=CVE-2023-49339) | [actuator/com.gurry.kvbrowser](https://github.com/actuator/com.gurry.kvbrowser) | CVE-2023-49001 | 2023-11-17T06:17:44Z|
 | [CVE-2023-49314](https://www.cve.org/CVERecord?id=CVE-2023-49314) | [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314) | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | 2023-11-28T10:39:19Z|
 | [CVE-2023-49313](https://www.cve.org/CVERecord?id=CVE-2023-49313) | [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313) | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product&#x27;s processes, potentially leading to remote control and unauthorized access to sensitive user data. | 2023-11-27T23:59:35Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911) | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | 2023-10-04T11:58:58Z|
@@ -263,6 +268,8 @@
 | [CVE-2023-46865](https://www.cve.org/CVERecord?id=CVE-2023-46865) | [asylumdx/Crater-CVE-2023-46865-RCE](https://github.com/asylumdx/Crater-CVE-2023-46865-RCE) | Crater &lt;=6.0.6, CVE-2023-46865 Post-Auth RCE (Superadmin) | 2023-11-09T21:22:47Z|
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z|
 | [CVE-2023-46813](https://www.cve.org/CVERecord?id=CVE-2023-46813) | [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc) | no description | 2023-05-29T15:10:43Z|
+| [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805) | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | 2024-01-16T08:05:58Z|
+| [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [Chocapikk/CVE-2023-46805](https://github.com/Chocapikk/CVE-2023-46805) | Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote&#x27;s Research | 2024-01-19T02:23:13Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
@@ -798,6 +805,7 @@
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078) | Ivanti Endpoint Manager Mobile (EPMM)   POC | 2023-08-30T02:36:20Z|
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | 2023-09-01T07:41:23Z|
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-) | nftables oob read/write exploit (CVE-2023-35001) | 2023-09-04T03:25:01Z|
+| [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001) | Exploit CVE-2023-35001 | 2024-01-18T08:24:07Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z|
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z|
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z|
@@ -830,6 +838,7 @@
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [Rajneeshkarya/CVE-2023-3460](https://github.com/Rajneeshkarya/CVE-2023-3460) | Exploit for the vulnerability of Ultimate Member Plugin. | 2023-07-27T15:19:16Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [BlackReaperSK/CVE-2023-3460_POC](https://github.com/BlackReaperSK/CVE-2023-3460_POC) | GitHub repository for CVE-2023-3460 POC | 2023-08-15T16:56:53Z|
 | [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [ollie-blue/CVE_2023_3460](https://github.com/ollie-blue/CVE_2023_3460) | Exploit wp capabilities and wordPress ultimate member plugin to create admnistrator account | 2023-10-19T07:35:03Z|
+| [CVE-2023-3460](https://www.cve.org/CVERecord?id=CVE-2023-3460) | [julienbrs/exploit-CVE-2023-3460](https://github.com/julienbrs/exploit-CVE-2023-3460) | no description | 2024-01-04T22:43:19Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [hheeyywweellccoommee/CVE-2023-34599-xsddo](https://github.com/hheeyywweellccoommee/CVE-2023-34599-xsddo) | no description | 2023-07-01T04:00:46Z|
 | [CVE-2023-34599](https://www.cve.org/CVERecord?id=CVE-2023-34599) | [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599) | Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code. | 2023-06-23T20:10:33Z|
 | [CVE-2023-34598](https://www.cve.org/CVERecord?id=CVE-2023-34598) | [hheeyywweellccoommee/CVE-2023-34598-ghonc](https://github.com/hheeyywweellccoommee/CVE-2023-34598-ghonc) | no description | 2023-07-01T03:01:36Z|
@@ -1276,6 +1285,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-17T10:21:00Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Sudistark/patch-diff-CVE-2023-22527](https://github.com/Sudistark/patch-diff-CVE-2023-22527) | no description | 2024-01-16T13:50:49Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
@@ -1490,6 +1500,7 @@
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [Filiplain/Fortinet-PoC-Auth-Bypass](https://github.com/Filiplain/Fortinet-PoC-Auth-Bypass) | Bash PoC for Fortinet Auth Bypass - CVE-2022-40684 | 2022-10-13T19:53:17Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [doosec101/CVE-2022-46169](https://github.com/doosec101/CVE-2022-46169) | Repo for CVE-2022-46169 | 2023-03-20T22:54:18Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [dawnl3ss/CVE-2022-46169](https://github.com/dawnl3ss/CVE-2022-46169) | Unauthenticated Command Injection in Cacti &lt;= 1.2.22 | 2023-08-01T09:29:30Z|
+| [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [a1665454764/CVE-2022-46169](https://github.com/a1665454764/CVE-2022-46169) | CVE-2022-46169 | 2023-08-30T14:03:41Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ahanel13/CVE-2022-4616-POC](https://github.com/ahanel13/CVE-2022-4616-POC) | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | 2023-05-12T01:20:15Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner) | Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082 | 2022-10-07T08:10:00Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z|
