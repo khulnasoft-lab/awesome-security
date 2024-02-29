@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-28 01:50:38.943138
+ Last generated : 2024-02-29 01:49:29.312007
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped) | no description | 2024-01-19T08:11:31Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887) | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | 2024-01-18T13:25:46Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Esonhugh/gitlab_honeypot](https://github.com/Esonhugh/gitlab_honeypot) | CVE-2023-7028 killer | 2024-01-18T10:13:18Z|
+| [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
 | [CVE-2023-7172](https://www.cve.org/CVERecord?id=CVE-2023-7172) | [sharathc213/CVE-2023-7172](https://github.com/sharathc213/CVE-2023-7172) | no description | 2024-01-02T07:28:25Z|
@@ -877,6 +878,7 @@
 | [CVE-2023-34035](https://www.cve.org/CVERecord?id=CVE-2023-34035) | [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations) | no description | 2023-08-01T21:15:01Z|
 | [CVE-2023-34034](https://www.cve.org/CVERecord?id=CVE-2023-34034) | [hotblac/cve-2023-34034](https://github.com/hotblac/cve-2023-34034) | Demonstration of CVE-2023-24034 authorization bypass in Spring Security | 2023-12-02T10:51:39Z|
 | [CVE-2023-33977](https://www.cve.org/CVERecord?id=CVE-2023-33977) | [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977) | Read more at Medium | 2023-06-01T13:10:31Z|
+| [CVE-2023-33902](https://www.cve.org/CVERecord?id=CVE-2023-33902) | [uthrasri/CVE-2023-33902_single_file](https://github.com/uthrasri/CVE-2023-33902_single_file) | no description | 2024-01-19T13:17:16Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC) | CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE] | 2023-10-04T01:12:10Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [markuta/bw-dump](https://github.com/markuta/bw-dump) | A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. | 2022-09-18T21:03:07Z|
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831) | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | 2023-09-03T19:25:15Z|
@@ -1072,6 +1074,9 @@
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [krmxd/CVE-2023-2868](https://github.com/krmxd/CVE-2023-2868) | no description | 2023-08-25T13:07:51Z|
 | [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [Trinadh465/CVE-2023-28588](https://github.com/Trinadh465/CVE-2023-28588) | no description | 2024-01-12T14:15:42Z|
 | [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [uthrasri/CVE-2023-28588_system_bt](https://github.com/uthrasri/CVE-2023-28588_system_bt) | system_bt_CVE-2023-28588 | 2024-01-12T14:58:59Z|
+| [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [uthrasri/G2.5_CVE-2023-28588](https://github.com/uthrasri/G2.5_CVE-2023-28588) | no description | 2024-01-19T14:46:51Z|
+| [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [uthrasri/CVE-2023-28588_Singlefile](https://github.com/uthrasri/CVE-2023-28588_Singlefile) | no description | 2024-01-19T12:58:22Z|
+| [CVE-2023-28588](https://www.cve.org/CVERecord?id=CVE-2023-28588) | [uthrasri/CVE-2023-28588](https://github.com/uthrasri/CVE-2023-28588) | no description | 2024-01-12T13:59:34Z|
 | [CVE-2023-28467](https://www.cve.org/CVERecord?id=CVE-2023-28467) | [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467) | no description | 2023-07-22T20:37:15Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner) | MinIO Information Disclosure Vulnerability scanner by metasploit | 2023-05-27T14:55:07Z|
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432) | CVE-2023-28432检测工具 | 2023-08-21T06:03:25Z|
@@ -1321,6 +1326,7 @@
 | [CVE-2023-21971](https://www.cve.org/CVERecord?id=CVE-2023-21971) | [Avento/CVE-2023-21971_Analysis](https://github.com/Avento/CVE-2023-21971_Analysis) | CVE-2023-21971 Connector/J RCE Analysis分析 | 2023-06-08T03:05:54Z|
 | [CVE-2023-21939](https://www.cve.org/CVERecord?id=CVE-2023-21939) | [Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939) | JDK CVE-2023-21939 | 2023-08-26T06:45:26Z|
 | [CVE-2023-21931](https://www.cve.org/CVERecord?id=CVE-2023-21931) | [MMarch7/weblogic_CVE-2023-21931_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP) | no description | 2023-10-21T07:30:24Z|
+| [CVE-2023-21887](https://www.cve.org/CVERecord?id=CVE-2023-21887) | [zwxxb/CVE-2023-21887](https://github.com/zwxxb/CVE-2023-21887) | Remote Code Execution : Ivanti | 2024-01-19T14:17:49Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP) | no description | 2023-10-23T11:36:29Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
@@ -1705,6 +1711,7 @@
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [BKLockly/CVE-2022-22965](https://github.com/BKLockly/CVE-2022-22965) | Poc&amp;Exp,支持批量扫描,反弹shell | 2023-06-03T16:39:50Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC) | CVE-2022-22965 (Spring4Shell) Proof of Concept | 2022-04-04T13:44:39Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z|
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sohamsharma966/Spring4Shell-CVE-2022-22965](https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965) | no description | 2023-09-02T10:41:05Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z|
