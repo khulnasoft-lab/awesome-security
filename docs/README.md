@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-02-29 01:49:29.312007
+ Last generated : 2024-03-01 01:57:41.726613
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped) | no description | 2024-01-19T08:11:31Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887) | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | 2024-01-18T13:25:46Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Esonhugh/gitlab_honeypot](https://github.com/Esonhugh/gitlab_honeypot) | CVE-2023-7028 killer | 2024-01-18T10:13:18Z|
+| [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z|
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
 | [CVE-2023-7173](https://www.cve.org/CVERecord?id=CVE-2023-7173) | [sharathc213/CVE-2023-7173](https://github.com/sharathc213/CVE-2023-7173) | no description | 2024-01-02T08:41:10Z|
@@ -94,6 +95,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/malicious-exploit-CVE-2023-51385](https://github.com/julienbrs/malicious-exploit-CVE-2023-51385) | no description | 2024-01-03T19:08:28Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [julienbrs/exploit-CVE-2023-51385](https://github.com/julienbrs/exploit-CVE-2023-51385) | no description | 2024-01-03T18:40:44Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Sonicrrrr/CVE-2023-51385](https://github.com/Sonicrrrr/CVE-2023-51385) | no description | 2024-01-09T15:44:52Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [farliy-hacker/CVE-2023-51385](https://github.com/farliy-hacker/CVE-2023-51385) | CVE-2023-51385 | 2024-01-20T06:09:45Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z|
@@ -196,6 +198,7 @@
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [KernelKrise/CVE-2023-4911](https://github.com/KernelKrise/CVE-2023-4911) | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | 2023-10-25T11:59:34Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [Diego-AltF4/CVE-2023-4911](https://github.com/Diego-AltF4/CVE-2023-4911) | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit | 2023-10-28T20:05:30Z|
 | [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [puckiestyle/CVE-2023-4911](https://github.com/puckiestyle/CVE-2023-4911) | no description | 2023-12-23T11:54:40Z|
+| [CVE-2023-4911](https://www.cve.org/CVERecord?id=CVE-2023-4911) | [yanfernandess/Looney-Tunables-CVE-2023-4911](https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911) | no description | 2024-01-19T18:20:05Z|
 | [CVE-2023-49105](https://www.cve.org/CVERecord?id=CVE-2023-49105) | [ambionics/owncloud-exploits](https://github.com/ambionics/owncloud-exploits) | ownCloud exploits for CVE-2023-49105 | 2023-12-05T11:35:12Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [creacitysec/CVE-2023-49103](https://github.com/creacitysec/CVE-2023-49103) | PoC for the CVE-2023-49103 | 2023-11-22T17:00:23Z|
 | [CVE-2023-49103](https://www.cve.org/CVERecord?id=CVE-2023-49103) | [TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix) | Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12 | 2023-11-29T19:46:15Z|
@@ -1289,6 +1292,7 @@
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z|
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z|
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z|
+| [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [Mathieuleto/CVE-2023-2255](https://github.com/Mathieuleto/CVE-2023-2255) | exploit from CVE-2023-2255 | 2024-01-19T20:49:31Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-17T10:21:00Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Sudistark/patch-diff-CVE-2023-22527](https://github.com/Sudistark/patch-diff-CVE-2023-22527) | no description | 2024-01-16T13:50:49Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
@@ -1329,6 +1333,7 @@
 | [CVE-2023-21887](https://www.cve.org/CVERecord?id=CVE-2023-21887) | [zwxxb/CVE-2023-21887](https://github.com/zwxxb/CVE-2023-21887) | Remote Code Execution : Ivanti | 2024-01-19T14:17:49Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner) | no description | 2023-05-29T02:08:37Z|
 | [CVE-2023-21839](https://www.cve.org/CVERecord?id=CVE-2023-21839) | [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP) | no description | 2023-10-23T11:36:29Z|
+| [CVE-2023-21822](https://www.cve.org/CVERecord?id=CVE-2023-21822) | [DashaMilitskaya/cve_2023_21822](https://github.com/DashaMilitskaya/cve_2023_21822) | no description | 2024-01-19T16:35:09Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z|
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z|
@@ -2066,6 +2071,7 @@
 | [CVE-2021-29156](https://www.cve.org/CVERecord?id=CVE-2021-29156) | [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156) | Proof-of-Concept tool for CVE-2021-29156, an LDAP injection vulnerability in ForgeRock OpenAM v13.0.0. | 2021-11-03T13:21:50Z|
 | [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [LalieA/CVE-2021-27928](https://github.com/LalieA/CVE-2021-27928) | A Proof of Concept for the CVE-2021-27928 flaw exploitation | 2022-12-14T17:36:38Z|
 | [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [YourKeeper/SunScope](https://github.com/YourKeeper/SunScope) | Inspired by Ambassador on HackTheBox to exploit the now patched CVE-2021-43798 | 2022-12-14T05:11:57Z|
+| [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [Al1ex/CVE-2021-27928](https://github.com/Al1ex/CVE-2021-27928) | CVE-2021-27928 MariaDB/MySQL-&#x27;wsrep provider&#x27; 命令注入漏洞 | 2021-04-15T06:40:49Z|
 | [CVE-2021-27905](https://www.cve.org/CVERecord?id=CVE-2021-27905) | [pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC) | POC for LFI related to CVE-2021-27905 | 2022-11-03T00:41:16Z|
 | [CVE-2021-27850](https://www.cve.org/CVERecord?id=CVE-2021-27850) | [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC) | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | 2021-06-25T13:55:41Z|
 | [CVE-2021-27850](https://www.cve.org/CVERecord?id=CVE-2021-27850) | [winnpixie/log4noshell](https://github.com/winnpixie/log4noshell) | Java agent that disables Apache Log4J&#x27;s JNDI Lookup. Fixes CVE-2021-44228, aka &quot;Log4Shell.&quot; | 2021-12-10T21:59:31Z|
@@ -4543,3 +4549,5 @@
 | CVE NOT FOUND | [bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023](https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023) | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) | 2023-09-10T09:36:13Z|
 | CVE NOT FOUND | [jgamblin/CVEReview](https://github.com/jgamblin/CVEReview) | 2022 CVE Data Review | 2022-12-27T14:02:44Z|
 | CVE NOT FOUND | [azimuthadv/cs465finalproject](https://github.com/azimuthadv/cs465finalproject) | Our final project for the Spring 2014 CS465 (Information Visualization) class at Middlebury College -- a visualizer for CVE vulnerabilities. | 2023-05-02T05:18:19Z|
+| CVE NOT FOUND | [yamineesh-k/cve_prediction_timeseries](https://github.com/yamineesh-k/cve_prediction_timeseries) | Time Series Model to Predict CVEs for 2024 | 2024-01-07T07:48:02Z|
+| CVE NOT FOUND | [AngieDF21/cVerano2024](https://github.com/AngieDF21/cVerano2024) | no description | 2024-01-03T15:11:26Z|
