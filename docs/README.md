@@ -2,10 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-05 01:52:52.774206
+ Last generated : 2024-03-06 01:46:14.624952
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
+| [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z|
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z|
@@ -18,6 +20,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Esonhugh/gitlab_honeypot](https://github.com/Esonhugh/gitlab_honeypot) | CVE-2023-7028 killer | 2024-01-18T10:13:18Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21887) | A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. | 2024-01-16T20:59:38Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887) | POC Checker for ivanti CVE-2024-21887 Command injcetion | 2024-01-14T09:25:56Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887) | exploit for ivanti | 2024-01-20T19:15:23Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
@@ -245,6 +248,7 @@
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863) | no description | 2023-09-25T10:33:09Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [caoweiquan322/NotEnough](https://github.com/caoweiquan322/NotEnough) | This tool calculates tricky canonical huffman histogram for CVE-2023-4863. | 2023-12-19T01:32:45Z|
+| [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [LiveOverflow/webp-CVE-2023-4863](https://github.com/LiveOverflow/webp-CVE-2023-4863) | no description | 2023-12-18T23:12:25Z|
 | [CVE-2023-48200](https://www.cve.org/CVERecord?id=CVE-2023-48200) | [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200) | no description | 2023-11-14T17:02:07Z|
 | [CVE-2023-48199](https://www.cve.org/CVERecord?id=CVE-2023-48199) | [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199) | no description | 2023-11-14T16:50:31Z|
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z|
@@ -4577,3 +4581,5 @@
 | CVE NOT FOUND | [azimuthadv/cs465finalproject](https://github.com/azimuthadv/cs465finalproject) | Our final project for the Spring 2014 CS465 (Information Visualization) class at Middlebury College -- a visualizer for CVE vulnerabilities. | 2023-05-02T05:18:19Z|
 | CVE NOT FOUND | [yamineesh-k/cve_prediction_timeseries](https://github.com/yamineesh-k/cve_prediction_timeseries) | Time Series Model to Predict CVEs for 2024 | 2024-01-07T07:48:02Z|
 | CVE NOT FOUND | [AngieDF21/cVerano2024](https://github.com/AngieDF21/cVerano2024) | no description | 2024-01-03T15:11:26Z|
+| CVE NOT FOUND | [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666) | no description | 2024-01-23T09:26:07Z|
+| CVE NOT FOUND | [keru6k/Online-Admission-System-RCE-PoC](https://github.com/keru6k/Online-Admission-System-RCE-PoC) | projectworlds&#x27; Online Admission System RCE vulnerability PoC, Categorized as CVE-2024-0783 | 2024-01-21T13:26:09Z|
