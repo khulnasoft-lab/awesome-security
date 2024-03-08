@@ -2,14 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-07 01:29:20.065904
+ Last generated : 2024-03-08 01:44:02.346404
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-23742](https://www.cve.org/CVERecord?id=CVE-2024-23742) | [giovannipajeu1/CVE-2024-23742](https://github.com/giovannipajeu1/CVE-2024-23742) | CVE-2024-23742 | 2024-01-25T13:52:05Z|
+| [CVE-2024-23741](https://www.cve.org/CVERecord?id=CVE-2024-23741) | [giovannipajeu1/CVE-2024-23741](https://github.com/giovannipajeu1/CVE-2024-23741) | CVE-2024-23741 | 2024-01-25T13:49:10Z|
 | [CVE-2024-23740](https://www.cve.org/CVERecord?id=CVE-2024-23740) | [giovannipajeu1/CVE-2024-23740](https://github.com/giovannipajeu1/CVE-2024-23740) | CVE-2024-23739 | 2024-01-25T13:37:08Z|
+| [CVE-2024-23739](https://www.cve.org/CVERecord?id=CVE-2024-23739) | [giovannipajeu1/CVE-2024-23739](https://github.com/giovannipajeu1/CVE-2024-23739) | CVE-2024-23739 | 2024-01-25T13:44:16Z|
 | [CVE-2024-23738](https://www.cve.org/CVERecord?id=CVE-2024-23738) | [giovannipajeu1/CVE-2024-23738](https://github.com/giovannipajeu1/CVE-2024-23738) | CVE-2024-23738 | 2024-01-25T13:27:19Z|
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z|
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
@@ -48,6 +51,7 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [duy-31/CVE-2023-7028](https://github.com/duy-31/CVE-2023-7028) | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | 2024-01-12T15:17:59Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) | This repository presents a proof-of-concept of CVE-2023-7028 | 2024-01-12T18:29:27Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [TheRedDevil1/CVE-2023-7028](https://github.com/TheRedDevil1/CVE-2023-7028) | Exploit of account take-over in Gitlab | 2024-01-20T14:44:14Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab) | no description | 2024-01-23T10:37:07Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
@@ -69,6 +73,7 @@
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z|
+| [CVE-2023-5717](https://www.cve.org/CVERecord?id=CVE-2023-5717) | [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717) | no description | 2024-01-23T09:04:00Z|
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z|
 | [CVE-2023-5561](https://www.cve.org/CVERecord?id=CVE-2023-5561) | [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC) | WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack | 2023-12-13T16:43:18Z|
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z|
@@ -1337,6 +1342,8 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [cleverg0d/CVE-2023-22527](https://github.com/cleverg0d/CVE-2023-22527) | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | 2024-01-22T13:26:45Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527) | Atlassian Confluence - Remote Code Execution (CVE-2023-22527) | 2024-01-23T08:53:46Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence) | [Confluence] CVE-2023-22527 realworld poc | 2024-01-23T07:10:55Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Avento/CVE-2023-22527_Confluence_RCE](https://github.com/Avento/CVE-2023-22527_Confluence_RCE) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-16T08:46:21Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527) | This repository presents a proof-of-concept of CVE-2023-22527 | 2024-01-23T08:06:15Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
@@ -1788,6 +1795,7 @@
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [cassie0206/CVE-2022-21907](https://github.com/cassie0206/CVE-2022-21907) | 2022 Spring Prof. 謝續平 | 2023-04-25T01:13:51Z|
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [EzoomE/CVE-2022-21907-RCE](https://github.com/EzoomE/CVE-2022-21907-RCE) | CVE-2022-21907漏洞RCE PoC | 2023-05-06T07:50:08Z|
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [hohlovscky2017/Demo_15_11_2022_cvety](https://github.com/hohlovscky2017/Demo_15_11_2022_cvety) | no description | 2022-11-15T06:21:39Z|
+| [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907) | no description | 2023-08-17T13:58:00Z|
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | 2022-08-09T15:53:48Z|
 | [CVE-2022-21882](https://www.cve.org/CVERecord?id=CVE-2022-21882) | [dishfwk/CVE-2022-21882](https://github.com/dishfwk/CVE-2022-21882) | no description | 2023-04-21T06:14:06Z|
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection) | WordPress Core 5.8.2 - &#x27;WP_Query&#x27; SQL Injection | 2022-01-18T01:05:04Z|
