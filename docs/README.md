@@ -2,13 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-08 01:44:02.346404
+ Last generated : 2024-03-09 01:47:16.008714
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
+| [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
+| [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
+| [CVE-2024-23743](https://www.cve.org/CVERecord?id=CVE-2024-23743) | [giovannipajeu1/CVE-2024-23743](https://github.com/giovannipajeu1/CVE-2024-23743) | no description | 2023-12-19T17:07:27Z|
 | [CVE-2024-23742](https://www.cve.org/CVERecord?id=CVE-2024-23742) | [giovannipajeu1/CVE-2024-23742](https://github.com/giovannipajeu1/CVE-2024-23742) | CVE-2024-23742 | 2024-01-25T13:52:05Z|
 | [CVE-2024-23741](https://www.cve.org/CVERecord?id=CVE-2024-23741) | [giovannipajeu1/CVE-2024-23741](https://github.com/giovannipajeu1/CVE-2024-23741) | CVE-2024-23741 | 2024-01-25T13:49:10Z|
 | [CVE-2024-23740](https://www.cve.org/CVERecord?id=CVE-2024-23740) | [giovannipajeu1/CVE-2024-23740](https://github.com/giovannipajeu1/CVE-2024-23740) | CVE-2024-23739 | 2024-01-25T13:37:08Z|
@@ -19,6 +23,7 @@
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z|
+| [CVE-2024-22534](https://www.cve.org/CVERecord?id=CVE-2024-22534) | [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534) | no description | 2024-01-25T18:57:34Z|
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z|
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z|
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z|
@@ -90,6 +95,7 @@
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [tucommenceapousser/CVE-2023-5360](https://github.com/tucommenceapousser/CVE-2023-5360) | Exploit for the unauthenticated file upload vulnerability in WordPress&#x27;s Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360. | 2023-11-02T03:28:59Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [1337r0j4n/CVE-2023-5360](https://github.com/1337r0j4n/CVE-2023-5360) | CVE-2023-5360 Exploit/POC | 2023-11-13T12:51:34Z|
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC) | CVE-2023-5360 EXPLOIT | 2023-12-27T09:32:05Z|
+| [CVE-2023-52251](https://www.cve.org/CVERecord?id=CVE-2023-52251) | [BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC) | CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui. | 2024-01-06T11:07:36Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z|
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [UT-Security/cve-2023-5217-poc](https://github.com/UT-Security/cve-2023-5217-poc) | A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface. | 2023-10-06T05:46:16Z|
@@ -557,6 +563,7 @@
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z|
+| [CVE-2023-40109](https://www.cve.org/CVERecord?id=CVE-2023-40109) | [uthrasri/CVE-2023-40109](https://github.com/uthrasri/CVE-2023-40109) | no description | 2024-01-23T13:03:31Z|
 | [CVE-2023-40084](https://www.cve.org/CVERecord?id=CVE-2023-40084) | [Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084](https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084) | no description | 2024-01-05T10:20:57Z|
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z|
@@ -1344,6 +1351,9 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence) | [Confluence] CVE-2023-22527 realworld poc | 2024-01-23T07:10:55Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Avento/CVE-2023-22527_Confluence_RCE](https://github.com/Avento/CVE-2023-22527_Confluence_RCE) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-16T08:46:21Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527) | This repository presents a proof-of-concept of CVE-2023-22527 | 2024-01-23T08:06:15Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22527 leads to RCE | 2024-01-23T17:07:15Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC) | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. | 2024-01-23T02:17:36Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527) | Atlassian Confluence - Remote Code Execution | 2024-01-23T10:55:28Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
