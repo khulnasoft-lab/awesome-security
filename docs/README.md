@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-09 01:47:16.008714
+ Last generated : 2024-03-10 01:52:07.552580
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,7 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) | This repository presents a proof-of-concept of CVE-2023-7028 | 2024-01-12T18:29:27Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [TheRedDevil1/CVE-2023-7028](https://github.com/TheRedDevil1/CVE-2023-7028) | Exploit of account take-over in Gitlab | 2024-01-20T14:44:14Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab) | no description | 2024-01-23T10:37:07Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
@@ -380,6 +381,7 @@
 | [CVE-2023-45992](https://www.cve.org/CVERecord?id=CVE-2023-45992) | [harry935/CVE-2023-45992](https://github.com/harry935/CVE-2023-45992) | no description | 2023-10-19T15:26:59Z|
 | [CVE-2023-45966](https://www.cve.org/CVERecord?id=CVE-2023-45966) | [jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966) | Blind SSRF in umputun/remark42 &lt;= 1.12.1 | 2023-10-18T18:18:25Z|
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596) | PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads. | 2023-08-30T22:40:10Z|
+| [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py) | no description | 2024-01-23T21:39:41Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z|
@@ -1354,6 +1356,7 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527) | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22527 leads to RCE | 2024-01-23T17:07:15Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC) | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. | 2024-01-23T02:17:36Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527) | Atlassian Confluence - Remote Code Execution | 2024-01-23T10:55:28Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527) | POC | 2024-01-23T09:28:53Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
