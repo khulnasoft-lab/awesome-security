@@ -2,13 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-10 01:52:07.552580
+ Last generated : 2024-03-11 01:46:29.675657
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897) | no description | 2024-01-26T21:39:26Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -319,6 +323,7 @@
 | [CVE-2023-46813](https://www.cve.org/CVERecord?id=CVE-2023-46813) | [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc) | no description | 2023-05-29T15:10:43Z|
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805) | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | 2024-01-16T08:05:58Z|
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [Chocapikk/CVE-2023-46805](https://github.com/Chocapikk/CVE-2023-46805) | Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote&#x27;s Research | 2024-01-19T02:23:13Z|
+| [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [yoryio/CVE-2023-46805](https://github.com/yoryio/CVE-2023-46805) | Scanner for CVE-2023-46805 - Ivanti Connect Secure | 2024-01-14T18:30:11Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
@@ -1366,6 +1371,7 @@
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | 2023-10-31T05:35:00Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [0x00sector/CVE_2023_22518_Checker](https://github.com/0x00sector/CVE_2023_22518_Checker) | CVE_2023_22518_Checker | 2023-11-20T18:58:54Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [C1ph3rX13/CVE-2023-22518](https://github.com/C1ph3rX13/CVE-2023-22518) | Confluence CVE-2023-22518 | 2023-11-28T03:33:16Z|
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [bibo318/CVE-2023-22518](https://github.com/bibo318/CVE-2023-22518) | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | 2024-01-23T13:38:40Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z|
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z|
