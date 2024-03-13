@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-12 01:45:23.687592
+ Last generated : 2024-03-13 01:49:49.020029
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,9 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897) | no description | 2024-01-26T21:39:26Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) | CVE-2024-23897 | 2024-01-26T09:44:32Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Vozec/CVE-2024-23897](https://github.com/Vozec/CVE-2024-23897) | This repository presents a proof-of-concept of CVE-2024-23897 | 2024-01-28T01:57:06Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution](https://github.com/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution) | CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution for AgentDVR 5.1.6.0 (Authenticated) | 2024-01-27T15:36:05Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -477,6 +480,7 @@
 | [CVE-2023-43326](https://www.cve.org/CVERecord?id=CVE-2023-43326) | [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs. | 2023-09-19T03:38:25Z|
 | [CVE-2023-43325](https://www.cve.org/CVERecord?id=CVE-2023-43325) | [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325) | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | 2023-09-16T01:05:16Z|
 | [CVE-2023-43323](https://www.cve.org/CVERecord?id=CVE-2023-43323) | [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323) | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | 2023-09-16T01:28:58Z|
+| [CVE-2023-43317](https://www.cve.org/CVERecord?id=CVE-2023-43317) | [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317) | Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317) | 2024-01-23T07:27:30Z|
 | [CVE-2023-43284](https://www.cve.org/CVERecord?id=CVE-2023-43284) | [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284) | DLink DIR-846 Authenticated Remote Code Execution | 2023-10-04T13:07:37Z|
 | [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z|
@@ -567,6 +571,7 @@
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z|
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
+| [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z|
@@ -1776,6 +1781,7 @@
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z|
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z|
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z|
+| [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [BurpRoot/CVE-2022-24086](https://github.com/BurpRoot/CVE-2022-24086) | CVE-2022-24086 POC example | 2023-09-03T17:27:58Z|
 | [CVE-2022-23773](https://www.cve.org/CVERecord?id=CVE-2022-23773) | [YouShengLiu/CVE-2022-23773-Reproduce](https://github.com/YouShengLiu/CVE-2022-23773-Reproduce) | no description | 2023-03-19T10:08:47Z|
 | [CVE-2022-23614](https://www.cve.org/CVERecord?id=CVE-2022-23614) | [4rtamis/CVE-2022-23614](https://github.com/4rtamis/CVE-2022-23614) | Proof of concept for CVE-2022-23614 (command injection in Twig) | 2023-07-04T15:52:50Z|
 | [CVE-2022-23305](https://www.cve.org/CVERecord?id=CVE-2022-23305) | [tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) | CVE-2022-23305 Log4J JDBCAppender SQl injection POC | 2023-07-24T18:52:15Z|
