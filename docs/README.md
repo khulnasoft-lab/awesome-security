@@ -2,13 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-13 01:49:49.020029
+ Last generated : 2024-03-14 01:44:43.160876
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-24206](https://www.cve.org/CVERecord?id=CVE-2024-24206) | [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206) | no description | 2024-01-29T00:22:54Z|
+| [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
+| [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
+| [CVE-2024-24140](https://www.cve.org/CVERecord?id=CVE-2024-24140) | [BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140) | no description | 2024-01-21T21:45:34Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z|
@@ -16,6 +20,9 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) | CVE-2024-23897 | 2024-01-26T09:44:32Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Vozec/CVE-2024-23897](https://github.com/Vozec/CVE-2024-23897) | This repository presents a proof-of-concept of CVE-2024-23897 | 2024-01-28T01:57:06Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution](https://github.com/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution) | CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution for AgentDVR 5.1.6.0 (Authenticated) | 2024-01-27T15:36:05Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897) | no description | 2024-01-29T12:00:25Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897) | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | 2024-01-27T19:34:48Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [raheel0x01/CVE-2024-23897](https://github.com/raheel0x01/CVE-2024-23897) | Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an &#x27;@&#x27; character followed by a file path in an argument with the file&#x27;s contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system. | 2024-01-28T12:53:23Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -29,7 +36,12 @@
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
+| [CVE-2024-22894](https://www.cve.org/CVERecord?id=CVE-2024-22894) | [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894) | no description | 2024-01-27T18:17:48Z|
+| [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z|
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z|
+| [CVE-2024-22678](https://www.cve.org/CVERecord?id=CVE-2024-22678) | [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678) | no description | 2024-01-29T00:19:48Z|
+| [CVE-2024-22676](https://www.cve.org/CVERecord?id=CVE-2024-22676) | [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676) | no description | 2024-01-29T00:19:06Z|
+| [CVE-2024-22675](https://www.cve.org/CVERecord?id=CVE-2024-22675) | [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675) | no description | 2024-01-29T00:17:51Z|
 | [CVE-2024-22534](https://www.cve.org/CVERecord?id=CVE-2024-22534) | [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534) | no description | 2024-01-25T18:57:34Z|
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z|
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z|
@@ -129,6 +141,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467) | A go-exploit for Apache OFBiz CVE-2023-51467 | 2024-01-09T16:58:06Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467) | CVE-2023-49070 exploit and CVE-2023-49070 &amp; CVE-2023-51467 vulnerability scanner | 2024-01-11T22:35:57Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Jake123otte1/BadBizness-CVE-2023-51467](https://github.com/Jake123otte1/BadBizness-CVE-2023-51467) | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467. | 2024-01-13T05:40:38Z|
+| [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467) | This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user. | 2024-01-17T07:31:26Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z|
@@ -401,6 +414,7 @@
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z|
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z|
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z|
+| [CVE-2023-45185](https://www.cve.org/CVERecord?id=CVE-2023-45185) | [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185) | IBM i Access Client Solutions &lt; 1.1.9.4 - Remote code execution via insecure deserialisation | 2024-01-24T13:53:36Z|
 | [CVE-2023-45184](https://www.cve.org/CVERecord?id=CVE-2023-45184) | [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184) | IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control. | 2023-12-15T14:04:32Z|
 | [CVE-2023-45158](https://www.cve.org/CVERecord?id=CVE-2023-45158) | [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158) | no description | 2023-11-04T21:14:09Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
@@ -1158,6 +1172,7 @@
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-) | Обнаружение эксплойта CVE-2023-28252 | 2023-11-13T07:46:38Z|
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252) | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | 2024-01-01T15:30:33Z|
+| [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [duck-sec/CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) | A modification to fortra&#x27;s CVE-2023-28252 exploit, compiled to exe | 2024-01-22T10:38:02Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-05T18:16:51Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh) | On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug. | 2023-06-06T01:01:08Z|
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) | GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0. | 2023-05-25T13:25:10Z|
@@ -1367,6 +1382,7 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC) | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. | 2024-01-23T02:17:36Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527) | Atlassian Confluence - Remote Code Execution | 2024-01-23T10:55:28Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527) | POC | 2024-01-23T09:28:53Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Privia-Security/CVE-2023-22527](https://github.com/Privia-Security/CVE-2023-22527) | CVE-2023-22527 | 2024-01-24T21:29:59Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
