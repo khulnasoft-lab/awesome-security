@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-14 01:44:43.160876
+ Last generated : 2024-03-15 01:48:21.911589
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,10 @@
 | [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
 | [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
 | [CVE-2024-24140](https://www.cve.org/CVERecord?id=CVE-2024-24140) | [BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140) | no description | 2024-01-21T21:45:34Z|
+| [CVE-2024-24137](https://www.cve.org/CVERecord?id=CVE-2024-24137) | [BurakSevben/CVE-2024-24137](https://github.com/BurakSevben/CVE-2024-24137) | no description | 2024-01-13T13:11:35Z|
+| [CVE-2024-24136](https://www.cve.org/CVERecord?id=CVE-2024-24136) | [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136) | no description | 2024-01-12T21:53:07Z|
+| [CVE-2024-24135](https://www.cve.org/CVERecord?id=CVE-2024-24135) | [BurakSevben/CVE-2024-24135](https://github.com/BurakSevben/CVE-2024-24135) | no description | 2024-01-12T22:49:01Z|
+| [CVE-2024-24134](https://www.cve.org/CVERecord?id=CVE-2024-24134) | [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134) | no description | 2024-01-12T17:31:15Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z|
@@ -36,6 +40,7 @@
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
+| [CVE-2024-22909](https://www.cve.org/CVERecord?id=CVE-2024-22909) | [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909) | no description | 2024-01-12T00:40:29Z|
 | [CVE-2024-22894](https://www.cve.org/CVERecord?id=CVE-2024-22894) | [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894) | no description | 2024-01-27T18:17:48Z|
 | [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z|
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z|
@@ -77,6 +82,7 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [TheRedDevil1/CVE-2023-7028](https://github.com/TheRedDevil1/CVE-2023-7028) | Exploit of account take-over in Gitlab | 2024-01-20T14:44:14Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab) | no description | 2024-01-23T10:37:07Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker) | Repository to install CVE-2023-7028 vulnerable Gitlab instance | 2024-01-25T09:56:00Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
@@ -1383,6 +1389,9 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527) | Atlassian Confluence - Remote Code Execution | 2024-01-23T10:55:28Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527) | POC | 2024-01-23T09:28:53Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Privia-Security/CVE-2023-22527](https://github.com/Privia-Security/CVE-2023-22527) | CVE-2023-22527 | 2024-01-24T21:29:59Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [thanhlam-attt/CVE-2023-22527](https://github.com/thanhlam-attt/CVE-2023-22527) | no description | 2024-01-22T19:02:59Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [adminlove520/CVE-2023-22527](https://github.com/adminlove520/CVE-2023-22527) | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | 2024-01-25T10:52:39Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [MaanVader/CVE-2023-22527-POC](https://github.com/MaanVader/CVE-2023-22527-POC) | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | 2024-01-25T05:32:06Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
