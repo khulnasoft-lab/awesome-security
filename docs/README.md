@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-15 01:48:21.911589
+ Last generated : 2024-03-16 01:43:50.861724
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,7 +12,10 @@
 | [CVE-2024-24206](https://www.cve.org/CVERecord?id=CVE-2024-24206) | [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206) | no description | 2024-01-29T00:22:54Z|
 | [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
 | [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
+| [CVE-2024-24141](https://www.cve.org/CVERecord?id=CVE-2024-24141) | [BurakSevben/CVE-2024-24141](https://github.com/BurakSevben/CVE-2024-24141) | no description | 2024-01-21T23:56:41Z|
 | [CVE-2024-24140](https://www.cve.org/CVERecord?id=CVE-2024-24140) | [BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140) | no description | 2024-01-21T21:45:34Z|
+| [CVE-2024-24139](https://www.cve.org/CVERecord?id=CVE-2024-24139) | [BurakSevben/CVE-2024-24139](https://github.com/BurakSevben/CVE-2024-24139) | no description | 2024-01-15T01:48:55Z|
+| [CVE-2024-24138](https://www.cve.org/CVERecord?id=CVE-2024-24138) | [BurakSevben/CVE-2024-24138](https://github.com/BurakSevben/CVE-2024-24138) | no description | 2024-01-13T21:48:00Z|
 | [CVE-2024-24137](https://www.cve.org/CVERecord?id=CVE-2024-24137) | [BurakSevben/CVE-2024-24137](https://github.com/BurakSevben/CVE-2024-24137) | no description | 2024-01-13T13:11:35Z|
 | [CVE-2024-24136](https://www.cve.org/CVERecord?id=CVE-2024-24136) | [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136) | no description | 2024-01-12T21:53:07Z|
 | [CVE-2024-24135](https://www.cve.org/CVERecord?id=CVE-2024-24135) | [BurakSevben/CVE-2024-24135](https://github.com/BurakSevben/CVE-2024-24135) | no description | 2024-01-12T22:49:01Z|
@@ -83,6 +86,7 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab) | no description | 2024-01-23T10:37:07Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker) | Repository to install CVE-2023-7028 vulnerable Gitlab instance | 2024-01-25T09:56:00Z|
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028) | Python Code for Exploit Automation CVE-2023-7028 | 2024-01-26T06:29:34Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
@@ -346,6 +350,7 @@
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805) | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | 2024-01-16T08:05:58Z|
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [Chocapikk/CVE-2023-46805](https://github.com/Chocapikk/CVE-2023-46805) | Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote&#x27;s Research | 2024-01-19T02:23:13Z|
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [yoryio/CVE-2023-46805](https://github.com/yoryio/CVE-2023-46805) | Scanner for CVE-2023-46805 - Ivanti Connect Secure | 2024-01-14T18:30:11Z|
+| [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [w2xim3/CVE-2023-46805](https://github.com/w2xim3/CVE-2023-46805) | CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner. | 2024-01-25T14:53:16Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC) | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | 2023-10-30T15:50:46Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE) | CVE-2023-46747 (F5 BIG-IP) RCE | 2023-11-01T07:05:18Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate) | Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497). | 2023-04-09T05:26:40Z|
@@ -422,6 +427,7 @@
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z|
 | [CVE-2023-45185](https://www.cve.org/CVERecord?id=CVE-2023-45185) | [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185) | IBM i Access Client Solutions &lt; 1.1.9.4 - Remote code execution via insecure deserialisation | 2024-01-24T13:53:36Z|
 | [CVE-2023-45184](https://www.cve.org/CVERecord?id=CVE-2023-45184) | [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184) | IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control. | 2023-12-15T14:04:32Z|
+| [CVE-2023-45182](https://www.cve.org/CVERecord?id=CVE-2023-45182) | [afine-com/CVE-2023-45182](https://github.com/afine-com/CVE-2023-45182) | IBM i Access Client Solutions &lt; 1.1.9.4 - Weak password encryption | 2024-01-23T16:05:55Z|
 | [CVE-2023-45158](https://www.cve.org/CVERecord?id=CVE-2023-45158) | [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158) | no description | 2023-11-04T21:14:09Z|
 | [CVE-2023-44962](https://www.cve.org/CVERecord?id=CVE-2023-44962) | [ggb0n/CVE-2023-44962](https://github.com/ggb0n/CVE-2023-44962) | PoC for CVE-2023-44962 | 2023-10-05T07:43:07Z|
 | [CVE-2023-44961](https://www.cve.org/CVERecord?id=CVE-2023-44961) | [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961) | PoC for CVE-2023-44961 | 2023-10-05T07:27:45Z|
@@ -1549,6 +1555,7 @@
 | [CVE-2023-1337](https://www.cve.org/CVERecord?id=CVE-2023-1337) | [DARKSECshell/CVE-2023-1337](https://github.com/DARKSECshell/CVE-2023-1337) | no description | 2023-12-19T13:01:43Z|
 | [CVE-2023-1337](https://www.cve.org/CVERecord?id=CVE-2023-1337) | [dcm2406/CVE-Lab](https://github.com/dcm2406/CVE-Lab) | Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604 | 2023-12-07T08:02:53Z|
 | [CVE-2023-1326](https://www.cve.org/CVERecord?id=CVE-2023-1326) | [diego-tella/CVE-2023-1326-PoC](https://github.com/diego-tella/CVE-2023-1326-PoC) | A proof of concept for CVE-2023–1326 in apport-cli 2.26.0 | 2023-12-06T00:07:40Z|
+| [CVE-2023-1326](https://www.cve.org/CVERecord?id=CVE-2023-1326) | [Pol-Ruiz/CVE-2023-1326](https://github.com/Pol-Ruiz/CVE-2023-1326) | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326 | 2024-01-16T10:20:53Z|
 | [CVE-2023-1273](https://www.cve.org/CVERecord?id=CVE-2023-1273) | [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC) | Mass Exploit -  CVE-2023-1273 / ND Shortcodes &lt; LFI | 2023-09-12T00:10:58Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow) | CVE for 2023 | 2023-07-23T10:12:27Z|
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild) | Learn more things, not suck all things | 2023-11-20T18:32:46Z|
