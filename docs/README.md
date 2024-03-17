@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-16 01:43:50.861724
+ Last generated : 2024-03-17 01:50:46.416026
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [CVE-2024-24206](https://www.cve.org/CVERecord?id=CVE-2024-24206) | [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206) | no description | 2024-01-29T00:22:54Z|
 | [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
 | [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
+| [CVE-2024-24142](https://www.cve.org/CVERecord?id=CVE-2024-24142) | [BurakSevben/CVE-2024-24142](https://github.com/BurakSevben/CVE-2024-24142) | no description | 2024-01-22T00:36:05Z|
 | [CVE-2024-24141](https://www.cve.org/CVERecord?id=CVE-2024-24141) | [BurakSevben/CVE-2024-24141](https://github.com/BurakSevben/CVE-2024-24141) | no description | 2024-01-21T23:56:41Z|
 | [CVE-2024-24140](https://www.cve.org/CVERecord?id=CVE-2024-24140) | [BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140) | no description | 2024-01-21T21:45:34Z|
 | [CVE-2024-24139](https://www.cve.org/CVERecord?id=CVE-2024-24139) | [BurakSevben/CVE-2024-24139](https://github.com/BurakSevben/CVE-2024-24139) | no description | 2024-01-15T01:48:55Z|
@@ -90,6 +91,7 @@
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
+| [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [gbrsh/CVE-2023-6875](https://github.com/gbrsh/CVE-2023-6875) | Exploit for CVE-2023-6875 - Unauthorized Account Takeover. | 2024-01-27T14:20:51Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
@@ -325,6 +327,7 @@
 | [CVE-2023-47459](https://www.cve.org/CVERecord?id=CVE-2023-47459) | [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459) | no description | 2023-11-10T15:20:48Z|
 | [CVE-2023-47437](https://www.cve.org/CVERecord?id=CVE-2023-47437) | [herombey/CVE-2023-47437](https://github.com/herombey/CVE-2023-47437) | Vulnerability Disclosure | 2023-11-15T18:55:03Z|
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z|
+| [CVE-2023-47400](https://www.cve.org/CVERecord?id=CVE-2023-47400) | [LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400) | Proof of Concept for the CVE-2023-47400 | 2024-01-26T09:35:47Z|
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [tucommenceapousser/CVE-2023-47246](https://github.com/tucommenceapousser/CVE-2023-47246) | no description | 2023-11-22T08:18:11Z|
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rainbowhatrkn/CVE-2023-47246](https://github.com/rainbowhatrkn/CVE-2023-47246) | exploit for cve-2023-47246 SysAid RCE (shell upload) | 2023-11-22T08:13:51Z|
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rothilion26/cve2023-data](https://github.com/rothilion26/cve2023-data) | no description | 2023-11-21T18:16:34Z|
@@ -949,6 +952,8 @@
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362) | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | 2024-01-01T00:55:07Z|
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z|
 | [CVE-2023-34212](https://www.cve.org/CVERecord?id=CVE-2023-34212) | [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | 2023-11-23T22:14:49Z|
+| [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [paulsery/CVE_2023_3420](https://github.com/paulsery/CVE_2023_3420) | V8 type confusion allows chrome sandbox escape | 2024-01-24T19:21:19Z|
+| [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [keowu/BadRentdrv2](https://github.com/keowu/BadRentdrv2) | A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976). | 2023-10-01T18:24:38Z|
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z|
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z|
 | [CVE-2023-34092](https://www.cve.org/CVERecord?id=CVE-2023-34092) | [FlapyPan/test-cve-2023-34092](https://github.com/FlapyPan/test-cve-2023-34092) | test-cve-2023-34092 | 2024-01-20T08:46:11Z|
@@ -1104,6 +1109,7 @@
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [costacoco/Adiscon](https://github.com/costacoco/Adiscon) | CVE-2023-34600 | 2023-06-16T08:30:10Z|
 | [CVE-2023-30347](https://www.cve.org/CVERecord?id=CVE-2023-30347) | [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347) | Reflected Cross-Site-Scripting | 2023-06-21T07:03:43Z|
+| [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup) | no description | 2024-01-27T06:01:02Z|
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z|
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z|
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z|
@@ -1703,6 +1709,7 @@
 | [CVE-2022-41099](https://www.cve.org/CVERecord?id=CVE-2022-41099) | [dsn1321/KB5025175-CVE-2022-41099](https://github.com/dsn1321/KB5025175-CVE-2022-41099) | no description | 2023-04-14T12:48:39Z|
 | [CVE-2022-41082](https://www.cve.org/CVERecord?id=CVE-2022-41082) | [notareaperbutDR34P3r/http-vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082) | Microsoft Exchange Server Remote Code Execution Vulnerability. | 2022-11-14T08:31:16Z|
 | [CVE-2022-41082](https://www.cve.org/CVERecord?id=CVE-2022-41082) | [notareaperbutDR34P3r/vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/vuln-CVE-2022-41082) | https &amp; http | 2023-03-22T20:04:07Z|
+| [CVE-2022-41082](https://www.cve.org/CVERecord?id=CVE-2022-41082) | [SUPRAAA-1337/CVE-2022-41082](https://github.com/SUPRAAA-1337/CVE-2022-41082) | no description | 2023-09-03T20:55:20Z|
 | [CVE-2022-41034](https://www.cve.org/CVERecord?id=CVE-2022-41034) | [andyhsu024/CVE-2022-41034](https://github.com/andyhsu024/CVE-2022-41034) | no description | 2023-05-07T04:30:30Z|
 | [CVE-2022-4096](https://www.cve.org/CVERecord?id=CVE-2022-4096) | [aminetitrofine/CVE-2022-4096](https://github.com/aminetitrofine/CVE-2022-4096) | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | 2023-05-14T13:47:05Z|
 | [CVE-2022-40799](https://www.cve.org/CVERecord?id=CVE-2022-40799) | [rtfmkiesel/CVE-2022-40799](https://github.com/rtfmkiesel/CVE-2022-40799) | D-Link DNR-322L - Authenticated Remote Code Execution | 2023-04-23T20:42:18Z|
