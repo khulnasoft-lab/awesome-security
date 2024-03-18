@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-17 01:50:46.416026
+ Last generated : 2024-03-18 01:47:05.325449
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -31,6 +31,8 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897) | no description | 2024-01-29T12:00:25Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897) | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | 2024-01-27T19:34:48Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [raheel0x01/CVE-2024-23897](https://github.com/raheel0x01/CVE-2024-23897) | Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an &#x27;@&#x27; character followed by a file path in an argument with the file&#x27;s contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system. | 2024-01-28T12:53:23Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897) | no description | 2024-01-26T08:02:00Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [viszsec/CVE-2024-23897](https://github.com/viszsec/CVE-2024-23897) | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | 2024-01-29T04:41:53Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -45,6 +47,7 @@
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
 | [CVE-2024-22909](https://www.cve.org/CVERecord?id=CVE-2024-22909) | [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909) | no description | 2024-01-12T00:40:29Z|
+| [CVE-2024-22899](https://www.cve.org/CVERecord?id=CVE-2024-22899) | [Chocapikk/CVE-2024-22899-to-22903-ExploitChain](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup &amp; Recovery &lt;= 7.2 | 2023-11-06T09:24:15Z|
 | [CVE-2024-22894](https://www.cve.org/CVERecord?id=CVE-2024-22894) | [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894) | no description | 2024-01-27T18:17:48Z|
 | [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z|
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z|
@@ -88,6 +91,8 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker) | Repository to install CVE-2023-7028 vulnerable Gitlab instance | 2024-01-25T09:56:00Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028) | Python Code for Exploit Automation CVE-2023-7028 | 2024-01-26T06:29:34Z|
+| [CVE-2023-6933](https://www.cve.org/CVERecord?id=CVE-2023-6933) | [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933) | Introduction to CVE-2023-6933 Vulnerability | 2024-01-28T23:16:53Z|
+| [CVE-2023-6933](https://www.cve.org/CVERecord?id=CVE-2023-6933) | [hackeremmen/gitlab-exploit](https://github.com/hackeremmen/gitlab-exploit) | GitLab CVE-2023-7028 | 2024-01-28T18:23:31Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [michalbednarski/TheLastBundleMismatch](https://github.com/michalbednarski/TheLastBundleMismatch) | Writeup and exploit for CVE-2023-45777, bypass for Intent validation inside AccountManagerService on Android 13 despite &quot;Lazy Bundle&quot; mitigation | 2024-01-20T07:14:06Z|
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [UlyssesSaicha/CVE-2023-6875](https://github.com/UlyssesSaicha/CVE-2023-6875) | CVE-2023-6875 PoC | 2024-01-13T15:23:17Z|
@@ -1664,6 +1669,7 @@
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [betillogalvanfbc/POC-CVE-2022-44268](https://github.com/betillogalvanfbc/POC-CVE-2022-44268) | no description | 2023-03-22T21:26:20Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [fanbyprinciple/ImageMagick-lfi-poc](https://github.com/fanbyprinciple/ImageMagick-lfi-poc) | ImageMagick Arbitrary Read Files - CVE-2022-44268 | 2023-07-23T06:56:59Z|
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito) | CVE-2022-44268_By_Kyokito | 2023-08-13T04:43:12Z|
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [atici/Exploit-for-ImageMagick-CVE-2022-44268](https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268) | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | 2023-09-05T17:16:06Z|
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z|
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z|
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z|
@@ -1688,6 +1694,7 @@
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [ReachabilityOrg/cve-2022-42889-text4shell-docker](https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker) | no description | 2023-04-08T02:47:55Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell) | CVE-2022-42889 aka Text4Shell research &amp; PoC | 2022-10-23T13:42:23Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [gokul-ramesh/Spring4Shell-PoC-exploit](https://github.com/gokul-ramesh/Spring4Shell-PoC-exploit) | Demonstrable Proof of Concept Exploit for Spring4Shell Vulnerability (CVE-2022-22965) | 2023-03-12T17:37:51Z|
+| [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [Sic4rio/CVE-2022-42889](https://github.com/Sic4rio/CVE-2022-42889) | Text4Shell | 2023-09-06T01:13:26Z|
 | [CVE-2022-4262](https://www.cve.org/CVERecord?id=CVE-2022-4262) | [bjrjk/CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) | Root Cause Analysis of CVE-2022-4262. | 2023-07-13T13:17:20Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475) | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | 2023-06-21T21:22:35Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [bryanster/ioc-cve-2022-42475](https://github.com/bryanster/ioc-cve-2022-42475) | test for the ioc described for FG-IR-22-398 | 2023-01-17T20:11:04Z|
