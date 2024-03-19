@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-18 01:47:05.325449
+ Last generated : 2024-03-19 01:46:03.413478
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -67,8 +67,11 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887) | POC Checker for ivanti CVE-2024-21887 Command injcetion | 2024-01-14T09:25:56Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887) | exploit for ivanti | 2024-01-20T19:15:23Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
+| [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
@@ -91,6 +94,8 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker) | Repository to install CVE-2023-7028 vulnerable Gitlab instance | 2024-01-25T09:56:00Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028) | Python Code for Exploit Automation CVE-2023-7028 | 2024-01-26T06:29:34Z|
+| [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985) | 10Web AI Assistant – AI content writing assistant &lt;= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | 2024-01-29T16:51:53Z|
+| [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [X1r0z/Dubbo-RCE](https://github.com/X1r0z/Dubbo-RCE) | PoC of Apache Dubbo CVE-2023-23638 | 2023-03-22T11:23:44Z|
 | [CVE-2023-6933](https://www.cve.org/CVERecord?id=CVE-2023-6933) | [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933) | Introduction to CVE-2023-6933 Vulnerability | 2024-01-28T23:16:53Z|
 | [CVE-2023-6933](https://www.cve.org/CVERecord?id=CVE-2023-6933) | [hackeremmen/gitlab-exploit](https://github.com/hackeremmen/gitlab-exploit) | GitLab CVE-2023-7028 | 2024-01-28T18:23:31Z|
 | [CVE-2023-6895](https://www.cve.org/CVERecord?id=CVE-2023-6895) | [FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895) | no description | 2024-01-17T12:53:47Z|
