@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-19 01:46:03.413478
+ Last generated : 2024-03-20 01:44:56.844911
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -33,6 +33,7 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [raheel0x01/CVE-2024-23897](https://github.com/raheel0x01/CVE-2024-23897) | Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an &#x27;@&#x27; character followed by a file path in an argument with the file&#x27;s contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system. | 2024-01-28T12:53:23Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897) | no description | 2024-01-26T08:02:00Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [viszsec/CVE-2024-23897](https://github.com/viszsec/CVE-2024-23897) | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | 2024-01-29T04:41:53Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE) | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | 2024-02-02T23:13:26Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -58,6 +59,7 @@
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z|
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z|
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z|
+| [CVE-2024-21893](https://www.cve.org/CVERecord?id=CVE-2024-21893) | [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py) | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | 2024-02-02T22:59:21Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) | Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887 | 2024-01-16T19:19:52Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887) | An authentication bypass vulnerability in the web component of Ivanti ICS 9.x, 22.x and Ivanti Policy Secure allows a remote attacker to access restricted resources by bypassing control checks. | 2024-01-16T19:40:59Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped](https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped) | no description | 2024-01-19T08:11:31Z|
@@ -69,6 +71,9 @@
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo) | Container Runtime Meetup #5 のLT用のデモ | 2024-02-02T11:51:08Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zhangguanzhang/CVE-2024-21626](https://github.com/zhangguanzhang/CVE-2024-21626) | no description | 2024-02-02T06:34:16Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC) | no description | 2024-02-02T02:51:29Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
@@ -197,6 +202,7 @@
 | [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z|
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z|
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z|
+| [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z|
 | [CVE-2023-5043](https://www.cve.org/CVERecord?id=CVE-2023-5043) | [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043) | PoC CVE-2023-5043 | 2024-01-15T09:20:35Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
@@ -1946,9 +1952,11 @@
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [JlSakuya/CVE-2022-0847-container-escape](https://github.com/JlSakuya/CVE-2022-0847-container-escape) | A simple exploit that uses dirtypipe to inject shellcode into runC entrypoint to implement container escapes. | 2023-04-26T13:37:14Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [s3mPr1linux/CVE_2022_0847](https://github.com/s3mPr1linux/CVE_2022_0847) | no description | 2023-03-25T03:55:59Z|
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [4bhishek0/CVE-2022-0847-Poc](https://github.com/4bhishek0/CVE-2022-0847-Poc) | no description | 2023-03-16T17:00:31Z|
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847) | Drity Pipe Linux Kernel 1-Day Exploit | 2023-01-24T08:44:32Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z|
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z|
+| [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z|
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441) | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | 2023-06-02T01:53:32Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [RandomRobbieBF/CVE-2022-0439](https://github.com/RandomRobbieBF/CVE-2022-0439) | CVE-2022-0439 - Email Subscribers &amp; Newsletters &lt; 5.3.2 - Subscriber+ Blind SQL injection | 2023-06-08T21:20:22Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [c0derpwner/HTB-pwned](https://github.com/c0derpwner/HTB-pwned) | CVE-2022-24637 | 2023-05-02T08:48:35Z|
