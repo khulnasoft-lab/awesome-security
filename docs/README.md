@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-20 01:44:56.844911
+ Last generated : 2024-03-21 01:49:26.115225
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -68,6 +68,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21887) | A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. | 2024-01-16T20:59:38Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887) | POC Checker for ivanti CVE-2024-21887 Command injcetion | 2024-01-14T09:25:56Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887) | exploit for ivanti | 2024-01-20T19:15:23Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan) | Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887. | 2024-01-19T02:12:11Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
@@ -109,6 +110,7 @@
 | [CVE-2023-6875](https://www.cve.org/CVERecord?id=CVE-2023-6875) | [gbrsh/CVE-2023-6875](https://github.com/gbrsh/CVE-2023-6875) | Exploit for CVE-2023-6875 - Unauthorized Account Takeover. | 2024-01-27T14:20:51Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710) | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | 2023-12-25T09:40:31Z|
 | [CVE-2023-6710](https://www.cve.org/CVERecord?id=CVE-2023-6710) | [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710) | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | 2023-12-25T09:50:23Z|
+| [CVE-2023-6700](https://www.cve.org/CVERecord?id=CVE-2023-6700) | [RandomRobbieBF/CVE-2023-6700](https://github.com/RandomRobbieBF/CVE-2023-6700) | Cookie Information - Free GDPR Consent Solution &lt;= 2.0.22 - Authenticated (Subscriber+) Arbitrary Options Update | 2024-01-30T10:32:54Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
 | [CVE-2023-6567](https://www.cve.org/CVERecord?id=CVE-2023-6567) | [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc) | Time-based SQLi | 2024-01-11T05:43:31Z|
@@ -186,6 +188,7 @@
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Sonicrrrr/CVE-2023-51385](https://github.com/Sonicrrrr/CVE-2023-51385) | no description | 2024-01-09T15:44:52Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [farliy-hacker/CVE-2023-51385](https://github.com/farliy-hacker/CVE-2023-51385) | CVE-2023-51385 | 2024-01-20T06:09:45Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [farliy-hacker/CVE-2023-51385-save](https://github.com/farliy-hacker/CVE-2023-51385-save) | CVE-2023-51385-save | 2024-01-20T06:20:37Z|
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [2048JiaLi/CVE-2023-51385](https://github.com/2048JiaLi/CVE-2023-51385) | CVE-2023-51385 的exp | 2024-01-30T09:01:05Z|
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z|
@@ -764,6 +767,7 @@
 | [CVE-2023-37979](https://www.cve.org/CVERecord?id=CVE-2023-37979) | [d0rb/CVE-2023-37979](https://github.com/d0rb/CVE-2023-37979) | CVE-2023-37979 PoC and Checker | 2023-08-04T10:31:53Z|
 | [CVE-2023-37903](https://www.cve.org/CVERecord?id=CVE-2023-37903) | [7h3h4ckv157/CVE-2023-37903](https://github.com/7h3h4ckv157/CVE-2023-37903) | Exploit for CVE-2023-37903 | 2023-11-05T11:23:15Z|
 | [CVE-2023-37800](https://www.cve.org/CVERecord?id=CVE-2023-37800) | [TraiLeR2/CVE-2023-37800](https://github.com/TraiLeR2/CVE-2023-37800) | Unquoted Service Path in the Fortect - 5.0.0.7 CVE-2023-37800 | 2023-08-02T20:54:54Z|
+| [CVE-2023-37790](https://www.cve.org/CVERecord?id=CVE-2023-37790) | [kaizensecurity/CVE-2023-37790](https://github.com/kaizensecurity/CVE-2023-37790) | no description | 2024-01-30T06:51:37Z|
 | [CVE-2023-37786](https://www.cve.org/CVERecord?id=CVE-2023-37786) | [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786) | no description | 2023-07-23T13:05:04Z|
 | [CVE-2023-37779](https://www.cve.org/CVERecord?id=CVE-2023-37779) | [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779) | no description | 2023-07-28T13:07:45Z|
 | [CVE-2023-37778](https://www.cve.org/CVERecord?id=CVE-2023-37778) | [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778) | no description | 2023-07-28T11:18:21Z|
@@ -823,6 +827,7 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [zaenhaxor/CVE-2023-36845](https://github.com/zaenhaxor/CVE-2023-36845) | CVE-2023-36845 - Juniper Firewall Remote code execution (RCE) | 2023-09-29T03:11:37Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker) | A tool for finding vulnerable libwebp(CVE-2023-4863) | 2023-10-05T03:28:23Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845) | Ansible Playbook for CVE-2023-36845 | 2023-11-14T16:36:29Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [jahithoque/Juniper-CVE-2023-36845-Mass-Hunting](https://github.com/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting) | Juniper RCE (Remote Code Execution) CVE-2023-36845 is a vulnerability that has been identified within Juniper&#x27;s software. This particular flaw allows for remote code execution, meaning an attacker could run arbitrary code on a system without needing physical access to the device. | 2024-01-30T08:00:23Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
@@ -885,6 +890,7 @@
 | [CVE-2023-35671](https://www.cve.org/CVERecord?id=CVE-2023-35671) | [MrTiz/CVE-2023-35671](https://github.com/MrTiz/CVE-2023-35671) | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | 2023-09-01T20:16:28Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567) | no description | 2023-09-01T05:53:45Z|
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567) | no description | 2023-09-06T11:16:22Z|
+| [CVE-2023-35636](https://www.cve.org/CVERecord?id=CVE-2023-35636) | [duy-31/CVE-2023-35636](https://github.com/duy-31/CVE-2023-35636) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-01-29T17:08:05Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) | CVE-2023-3519 | 2023-07-21T11:02:21Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector) | Accurately fingerprint and detect vulnerable (and patched!) versions of Netscaler / Citrix ADC to CVE-2023-3519 | 2023-07-20T16:05:07Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [CVEProject/cvelist](https://github.com/CVEProject/cvelist) | Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 | 2020-11-02T19:30:55Z|
