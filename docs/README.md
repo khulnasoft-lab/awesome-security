@@ -2,13 +2,16 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-21 01:49:26.115225
+ Last generated : 2024-03-22 01:46:53.693189
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z|
+| [CVE-2024-24397](https://www.cve.org/CVERecord?id=CVE-2024-24397) | [trustcves/CVE-2024-24397](https://github.com/trustcves/CVE-2024-24397) | no description | 2024-02-05T09:08:34Z|
+| [CVE-2024-24396](https://www.cve.org/CVERecord?id=CVE-2024-24396) | [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396) | no description | 2024-02-05T08:43:33Z|
 | [CVE-2024-24206](https://www.cve.org/CVERecord?id=CVE-2024-24206) | [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206) | no description | 2024-01-29T00:22:54Z|
 | [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
 | [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
@@ -34,6 +37,10 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897) | no description | 2024-01-26T08:02:00Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [viszsec/CVE-2024-23897](https://github.com/viszsec/CVE-2024-23897) | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | 2024-01-29T04:41:53Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE) | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | 2024-02-02T23:13:26Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [AbraXa5/Jenkins-CVE-2024-23897](https://github.com/AbraXa5/Jenkins-CVE-2024-23897) | PoC for Jenkins CVE-2024-23897 | 2024-02-01T03:17:35Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-) | no description | 2024-02-04T01:14:40Z|
+| [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z|
+| [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -43,6 +50,7 @@
 | [CVE-2024-23740](https://www.cve.org/CVERecord?id=CVE-2024-23740) | [giovannipajeu1/CVE-2024-23740](https://github.com/giovannipajeu1/CVE-2024-23740) | CVE-2024-23739 | 2024-01-25T13:37:08Z|
 | [CVE-2024-23739](https://www.cve.org/CVERecord?id=CVE-2024-23739) | [giovannipajeu1/CVE-2024-23739](https://github.com/giovannipajeu1/CVE-2024-23739) | CVE-2024-23739 | 2024-01-25T13:44:16Z|
 | [CVE-2024-23738](https://www.cve.org/CVERecord?id=CVE-2024-23738) | [giovannipajeu1/CVE-2024-23738](https://github.com/giovannipajeu1/CVE-2024-23738) | CVE-2024-23738 | 2024-01-25T13:27:19Z|
+| [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z|
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z|
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
@@ -69,6 +77,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887) | POC Checker for ivanti CVE-2024-21887 Command injcetion | 2024-01-14T09:25:56Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [tucommenceapousser/CVE-2024-21887](https://github.com/tucommenceapousser/CVE-2024-21887) | exploit for ivanti | 2024-01-20T19:15:23Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan) | Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887. | 2024-01-19T02:12:11Z|
+| [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887) | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | 2024-02-03T11:33:40Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
@@ -86,6 +95,7 @@
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204) | Authentication Bypass in GoAnywhere MFT | 2024-01-23T20:16:14Z|
+| [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204) | GoAnywhere MFT | 2024-02-04T01:40:46Z|
 | [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z|
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z|
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z|
@@ -124,6 +134,7 @@
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z|
 | [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z|
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
+| [CVE-2023-5961](https://www.cve.org/CVERecord?id=CVE-2023-5961) | [HadessCS/CVE-2023-5961](https://github.com/HadessCS/CVE-2023-5961) | moxa ioLogik E1212 | 2024-01-31T15:00:16Z|
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z|
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z|
 | [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z|
@@ -250,6 +261,7 @@
 | [CVE-2023-49965](https://www.cve.org/CVERecord?id=CVE-2023-49965) | [hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS](https://github.com/hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS) | CVE-2023-49965 - SpaceX / Starlink Router Gen 2 XSS | 2024-01-17T01:24:15Z|
 | [CVE-2023-49964](https://www.cve.org/CVERecord?id=CVE-2023-49964) | [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | 2023-12-08T20:47:52Z|
 | [CVE-2023-49954](https://www.cve.org/CVERecord?id=CVE-2023-49954) | [CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io) | SQL Injection in 3CX CRM Integration | 2023-12-14T18:38:28Z|
+| [CVE-2023-49950](https://www.cve.org/CVERecord?id=CVE-2023-49950) | [shrikeinfosec/cve-2023-49950](https://github.com/shrikeinfosec/cve-2023-49950) | A write-up detailing CVE-2023-49950. Affects Logpoint SIEM v6.1.0-v7.3.0 | 2024-01-31T10:18:12Z|
 | [CVE-2023-49948](https://www.cve.org/CVERecord?id=CVE-2023-49948) | [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC) | no description | 2023-12-04T00:17:44Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966) | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | 2023-10-25T04:15:17Z|
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [mlynchcogent/CVE-2023-4966-POC](https://github.com/mlynchcogent/CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T12:37:56Z|
@@ -828,6 +840,7 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker) | A tool for finding vulnerable libwebp(CVE-2023-4863) | 2023-10-05T03:28:23Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845) | Ansible Playbook for CVE-2023-36845 | 2023-11-14T16:36:29Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [jahithoque/Juniper-CVE-2023-36845-Mass-Hunting](https://github.com/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting) | Juniper RCE (Remote Code Execution) CVE-2023-36845 is a vulnerability that has been identified within Juniper&#x27;s software. This particular flaw allows for remote code execution, meaning an attacker could run arbitrary code on a system without needing physical access to the device. | 2024-01-30T08:00:23Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845) | Simple Automation script for juniper cve-2023-36845 | 2024-01-29T18:53:22Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
