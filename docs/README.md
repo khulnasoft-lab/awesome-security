@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-22 01:46:53.693189
+ Last generated : 2024-03-23 01:43:28.676181
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,8 +39,10 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE) | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | 2024-02-02T23:13:26Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [AbraXa5/Jenkins-CVE-2024-23897](https://github.com/AbraXa5/Jenkins-CVE-2024-23897) | PoC for Jenkins CVE-2024-23897 | 2024-02-01T03:17:35Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-) | no description | 2024-02-04T01:14:40Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897) | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | 2024-02-04T20:56:42Z|
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z|
 | [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z|
+| [CVE-2024-23772](https://www.cve.org/CVERecord?id=CVE-2024-23772) | [Verrideo/CVE-2024-23772](https://github.com/Verrideo/CVE-2024-23772) | no description | 2024-02-05T10:58:33Z|
 | [CVE-2024-23747](https://www.cve.org/CVERecord?id=CVE-2024-23747) | [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747) | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | 2024-01-26T00:43:29Z|
 | [CVE-2024-23746](https://www.cve.org/CVERecord?id=CVE-2024-23746) | [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746) | Miro Desktop 0.8.18 on macOS allows Electron code injection. | 2024-01-26T00:39:20Z|
 | [CVE-2024-23745](https://www.cve.org/CVERecord?id=CVE-2024-23745) | [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745) | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | 2024-01-25T21:20:40Z|
@@ -91,6 +93,8 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
+| [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
+| [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
 | [CVE-2024-0679](https://www.cve.org/CVERecord?id=CVE-2024-0679) | [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679) | ColorMag &lt;= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2024-01-19T22:30:51Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z|
@@ -132,6 +136,8 @@
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z|
+| [CVE-2023-6036](https://www.cve.org/CVERecord?id=CVE-2023-6036) | [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036) | POC about Web3 – Crypto wallet Login &amp; NFT token gating &lt; 3.0.0 - Authentication Bypass Wordpress plugin | 2024-01-31T16:58:48Z|
+| [CVE-2023-6036](https://www.cve.org/CVERecord?id=CVE-2023-6036) | [mdaseem03/cpanel_xss_2023](https://github.com/mdaseem03/cpanel_xss_2023) | cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel. | 2024-01-23T20:29:57Z|
 | [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z|
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z|
 | [CVE-2023-5961](https://www.cve.org/CVERecord?id=CVE-2023-5961) | [HadessCS/CVE-2023-5961](https://github.com/HadessCS/CVE-2023-5961) | moxa ioLogik E1212 | 2024-01-31T15:00:16Z|
@@ -453,6 +459,7 @@
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z|
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [terrorist/HTTP-2-Rapid-Reset-Client](https://github.com/terrorist/HTTP-2-Rapid-Reset-Client) | A tool to check how well a system can handle Rapid Reset DDoS attacks (CVE-2023-44487). | 2023-11-24T18:26:36Z|
 | [CVE-2023-45828](https://www.cve.org/CVERecord?id=CVE-2023-45828) | [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828) | RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest | 2023-10-17T08:41:54Z|
+| [CVE-2023-45779](https://www.cve.org/CVERecord?id=CVE-2023-45779) | [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779) | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | 2024-01-26T21:17:38Z|
 | [CVE-2023-45657](https://www.cve.org/CVERecord?id=CVE-2023-45657) | [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657) | Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via &#x27;to&#x27; and &#x27;from&#x27; | 2023-10-20T12:01:15Z|
 | [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z|
 | [CVE-2023-45542](https://www.cve.org/CVERecord?id=CVE-2023-45542) | [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542) | mooSocial v3.1.8 is vulnerable to cross-site scripting on search function. | 2023-09-26T12:59:31Z|
@@ -4291,6 +4298,7 @@
 | [CVE-2014-0160](https://www.cve.org/CVERecord?id=CVE-2014-0160) | [roganartu/heartbleedchecker-chrome](https://github.com/roganartu/heartbleedchecker-chrome) | Chrome extension that automatically checks visited sites for vulnerability to OpenSSL CVE-2014-0160 | 2014-04-09T00:41:04Z|
 | [CVE-2014-0160](https://www.cve.org/CVERecord?id=CVE-2014-0160) | [fb1h2s/CVE-2014-0160](https://github.com/fb1h2s/CVE-2014-0160) | openssl Heart Bleed Exploit: CVE-2014-0160 Mass Security Auditor | 2014-04-08T22:29:55Z|
 | [CVE-2014-0160](https://www.cve.org/CVERecord?id=CVE-2014-0160) | [iwaffles/heartbleed-test.crx](https://github.com/iwaffles/heartbleed-test.crx) | Test websites for Heartbleed vulnerability (CVE 2014-0160) | 2014-04-08T20:52:22Z|
+| [CVE-2014-0160](https://www.cve.org/CVERecord?id=CVE-2014-0160) | [pblittle/aws-suture](https://github.com/pblittle/aws-suture) | OpenSSL Heartbleed  (CVE-2014-0160) vulnerability scanner. | 2014-04-11T19:12:11Z|
 | [CVE-2014-0130](https://www.cve.org/CVERecord?id=CVE-2014-0130) | [omarkurt/cve-2014-0130](https://github.com/omarkurt/cve-2014-0130) | cve-2014-0130 rails directory traversal vuln | 2014-05-08T14:40:36Z|
 | [CVE-2014-0114](https://www.cve.org/CVERecord?id=CVE-2014-0114) | [aenlr/strutt-cve-2014-0114](https://github.com/aenlr/strutt-cve-2014-0114) | no description | 2019-05-27T07:04:54Z|
 | [CVE-2014-0094](https://www.cve.org/CVERecord?id=CVE-2014-0094) | [y0d3n/CVE-2014-0094](https://github.com/y0d3n/CVE-2014-0094) | no description | 2023-06-14T02:06:58Z|
