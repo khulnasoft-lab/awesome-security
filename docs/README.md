@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-24 01:53:53.673825
+ Last generated : 2024-03-25 01:50:10.239268
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1665,6 +1665,8 @@
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [doosec101/CVE-2022-46169](https://github.com/doosec101/CVE-2022-46169) | Repo for CVE-2022-46169 | 2023-03-20T22:54:18Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [dawnl3ss/CVE-2022-46169](https://github.com/dawnl3ss/CVE-2022-46169) | Unauthenticated Command Injection in Cacti &lt;= 1.2.22 | 2023-08-01T09:29:30Z|
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [a1665454764/CVE-2022-46169](https://github.com/a1665454764/CVE-2022-46169) | CVE-2022-46169 | 2023-08-30T14:03:41Z|
+| [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [copyleftdev/PricklyPwn](https://github.com/copyleftdev/PricklyPwn) | An advanced RCE tool tailored for exploiting a vulnerability in Cacti v1.2.22. Crafted with precision, this utility aids security researchers in analyzing and understanding the depth of the CVE-2022-46169 flaw. Use responsibly and ethically. | 2023-09-10T17:00:50Z|
+| [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [0xZon/CVE-2022-46169-Exploit](https://github.com/0xZon/CVE-2022-46169-Exploit) | no description | 2023-09-10T06:03:22Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ahanel13/CVE-2022-4616-POC](https://github.com/ahanel13/CVE-2022-4616-POC) | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | 2023-05-12T01:20:15Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner) | Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082 | 2022-10-07T08:10:00Z|
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z|
@@ -1732,6 +1734,7 @@
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell) | CVE-2022-42889 aka Text4Shell research &amp; PoC | 2022-10-23T13:42:23Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [gokul-ramesh/Spring4Shell-PoC-exploit](https://github.com/gokul-ramesh/Spring4Shell-PoC-exploit) | Demonstrable Proof of Concept Exploit for Spring4Shell Vulnerability (CVE-2022-22965) | 2023-03-12T17:37:51Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [Sic4rio/CVE-2022-42889](https://github.com/Sic4rio/CVE-2022-42889) | Text4Shell | 2023-09-06T01:13:26Z|
+| [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [34006133/CVE-2022-42889](https://github.com/34006133/CVE-2022-42889) | RCE PoC for Apache Commons Text vuln | 2023-09-09T12:11:36Z|
 | [CVE-2022-4262](https://www.cve.org/CVERecord?id=CVE-2022-4262) | [bjrjk/CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) | Root Cause Analysis of CVE-2022-4262. | 2023-07-13T13:17:20Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475) | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | 2023-06-21T21:22:35Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [bryanster/ioc-cve-2022-42475](https://github.com/bryanster/ioc-cve-2022-42475) | test for the ioc described for FG-IR-22-398 | 2023-01-17T20:11:04Z|
@@ -4714,3 +4717,4 @@
 | CVE NOT FOUND | [AngieDF21/cVerano2024](https://github.com/AngieDF21/cVerano2024) | no description | 2024-01-03T15:11:26Z|
 | CVE NOT FOUND | [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666) | no description | 2024-01-23T09:26:07Z|
 | CVE NOT FOUND | [keru6k/Online-Admission-System-RCE-PoC](https://github.com/keru6k/Online-Admission-System-RCE-PoC) | projectworlds&#x27; Online Admission System RCE vulnerability PoC, Categorized as CVE-2024-0783 | 2024-01-21T13:26:09Z|
+| CVE NOT FOUND | [Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) | Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入 | 2024-01-26T13:11:21Z|
