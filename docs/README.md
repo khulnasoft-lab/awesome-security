@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-25 01:50:10.239268
+ Last generated : 2024-03-26 01:46:06.478516
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,8 @@
 | [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z|
 | [CVE-2024-24397](https://www.cve.org/CVERecord?id=CVE-2024-24397) | [trustcves/CVE-2024-24397](https://github.com/trustcves/CVE-2024-24397) | no description | 2024-02-05T09:08:34Z|
 | [CVE-2024-24396](https://www.cve.org/CVERecord?id=CVE-2024-24396) | [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396) | no description | 2024-02-05T08:43:33Z|
+| [CVE-2024-24337](https://www.cve.org/CVERecord?id=CVE-2024-24337) | [nitipoom-jar/CVE-2024-24337](https://github.com/nitipoom-jar/CVE-2024-24337) | no description | 2024-02-06T16:33:13Z|
+| [CVE-2024-24336](https://www.cve.org/CVERecord?id=CVE-2024-24336) | [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336) | no description | 2024-02-06T14:10:02Z|
 | [CVE-2024-24206](https://www.cve.org/CVERecord?id=CVE-2024-24206) | [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206) | no description | 2024-01-29T00:22:54Z|
 | [CVE-2024-24204](https://www.cve.org/CVERecord?id=CVE-2024-24204) | [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204) | no description | 2024-01-29T00:21:26Z|
 | [CVE-2024-24203](https://www.cve.org/CVERecord?id=CVE-2024-24203) | [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203) | no description | 2024-01-29T00:20:36Z|
@@ -86,9 +88,14 @@
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo) | Container Runtime Meetup #5 のLT用のデモ | 2024-02-02T11:51:08Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zhangguanzhang/CVE-2024-21626](https://github.com/zhangguanzhang/CVE-2024-21626) | no description | 2024-02-02T06:34:16Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC) | no description | 2024-02-02T02:51:29Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626) | PoC and Detection for CVE-2024-21626 | 2024-02-01T15:28:37Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC) | no description | 2024-02-05T17:47:01Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
+| [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931) | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | 2024-02-06T15:09:33Z|
+| [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z|
+| [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [JayBeale/cve-202421626](https://github.com/JayBeale/cve-202421626) | no description | 2024-02-05T21:05:02Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
@@ -639,6 +646,7 @@
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z|
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z|
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z|
+| [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z|
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z|
@@ -848,6 +856,7 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845) | Ansible Playbook for CVE-2023-36845 | 2023-11-14T16:36:29Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [jahithoque/Juniper-CVE-2023-36845-Mass-Hunting](https://github.com/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting) | Juniper RCE (Remote Code Execution) CVE-2023-36845 is a vulnerability that has been identified within Juniper&#x27;s software. This particular flaw allows for remote code execution, meaning an attacker could run arbitrary code on a system without needing physical access to the device. | 2024-01-30T08:00:23Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845) | Simple Automation script for juniper cve-2023-36845 | 2024-01-29T18:53:22Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845](https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845) | no description | 2024-02-01T03:54:18Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
