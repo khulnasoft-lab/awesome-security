@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-26 01:46:06.478516
+ Last generated : 2024-03-27 01:47:28.480417
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -26,6 +26,7 @@
 | [CVE-2024-24136](https://www.cve.org/CVERecord?id=CVE-2024-24136) | [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136) | no description | 2024-01-12T21:53:07Z|
 | [CVE-2024-24135](https://www.cve.org/CVERecord?id=CVE-2024-24135) | [BurakSevben/CVE-2024-24135](https://github.com/BurakSevben/CVE-2024-24135) | no description | 2024-01-12T22:49:01Z|
 | [CVE-2024-24134](https://www.cve.org/CVERecord?id=CVE-2024-24134) | [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134) | no description | 2024-01-12T17:31:15Z|
+| [CVE-2024-24034](https://www.cve.org/CVERecord?id=CVE-2024-24034) | [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034) | no description | 2024-02-06T16:47:07Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z|
@@ -102,6 +103,7 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
+| [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z|
 | [CVE-2024-0679](https://www.cve.org/CVERecord?id=CVE-2024-0679) | [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679) | ColorMag &lt;= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2024-01-19T22:30:51Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z|
@@ -1993,6 +1995,7 @@
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847) | Drity Pipe Linux Kernel 1-Day Exploit | 2023-01-24T08:44:32Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z|
+| [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z|
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z|
 | [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z|
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441) | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | 2023-06-02T01:53:32Z|
