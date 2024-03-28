@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-27 01:47:28.480417
+ Last generated : 2024-03-28 01:47:31.803154
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
 | [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z|
@@ -26,6 +27,7 @@
 | [CVE-2024-24136](https://www.cve.org/CVERecord?id=CVE-2024-24136) | [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136) | no description | 2024-01-12T21:53:07Z|
 | [CVE-2024-24135](https://www.cve.org/CVERecord?id=CVE-2024-24135) | [BurakSevben/CVE-2024-24135](https://github.com/BurakSevben/CVE-2024-24135) | no description | 2024-01-12T22:49:01Z|
 | [CVE-2024-24134](https://www.cve.org/CVERecord?id=CVE-2024-24134) | [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134) | no description | 2024-01-12T17:31:15Z|
+| [CVE-2024-24035](https://www.cve.org/CVERecord?id=CVE-2024-24035) | [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035) | no description | 2024-02-06T18:49:34Z|
 | [CVE-2024-24034](https://www.cve.org/CVERecord?id=CVE-2024-24034) | [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034) | no description | 2024-02-06T16:47:07Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z|
@@ -69,6 +71,8 @@
 | [CVE-2024-22676](https://www.cve.org/CVERecord?id=CVE-2024-22676) | [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676) | no description | 2024-01-29T00:19:06Z|
 | [CVE-2024-22675](https://www.cve.org/CVERecord?id=CVE-2024-22675) | [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675) | no description | 2024-01-29T00:17:51Z|
 | [CVE-2024-22534](https://www.cve.org/CVERecord?id=CVE-2024-22534) | [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534) | no description | 2024-01-25T18:57:34Z|
+| [CVE-2024-22515](https://www.cve.org/CVERecord?id=CVE-2024-22515) | [Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability) | no description | 2024-01-27T18:51:26Z|
+| [CVE-2024-22514](https://www.cve.org/CVERecord?id=CVE-2024-22514) | [Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution) | no description | 2024-01-27T19:04:56Z|
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z|
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z|
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z|
@@ -97,6 +101,7 @@
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931) | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | 2024-02-06T15:09:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [JayBeale/cve-202421626](https://github.com/JayBeale/cve-202421626) | no description | 2024-02-05T21:05:02Z|
+| [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc) | no description | 2024-02-06T06:35:07Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
@@ -1086,6 +1091,7 @@
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784) | Retrieve the master password of a keepass database &lt;= 2.53.1 | 2023-08-30T16:42:19Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z|
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z|
+| [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784) | no description | 2024-02-01T09:41:24Z|
 | [CVE-2023-32707](https://www.cve.org/CVERecord?id=CVE-2023-32707) | [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707) | An improved POC exploit based on the reported CVE on exploitdb | 2023-11-14T04:06:08Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z|
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z|
@@ -1996,6 +2002,7 @@
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z|
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z|
+| [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778) | no description | 2023-09-12T05:16:27Z|
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z|
 | [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z|
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441) | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | 2023-06-02T01:53:32Z|
