@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-28 01:47:31.803154
+ Last generated : 2024-03-29 01:45:37.034888
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -106,6 +106,10 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
+| [CVE-2024-1304](https://www.cve.org/CVERecord?id=CVE-2024-1304) | [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS) | POC Badgermeter moni tool - CVE-2024-1304 | 2024-02-08T09:29:54Z|
+| [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z|
+| [CVE-2024-1302](https://www.cve.org/CVERecord?id=CVE-2024-1302) | [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure) | POC Badgermeter moni tool - CVE-2024-1302 | 2024-02-08T09:27:53Z|
+| [CVE-2024-1301](https://www.cve.org/CVERecord?id=CVE-2024-1301) | [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection) | POC Badgermeter moni tool - CVE-2024-1301 | 2024-02-08T09:08:05Z|
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
 | [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z|
@@ -609,6 +613,7 @@
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [Zenyith/CVE-2023-41991](https://github.com/Zenyith/CVE-2023-41991) | no description | 2023-11-28T23:59:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [Faelian/CraftCMS_CVE-2023-41892](https://github.com/Faelian/CraftCMS_CVE-2023-41892) | Exploit for CVE-2023-41892 | 2023-12-26T18:31:27Z|
+| [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [diegaccio/Craft-CMS-Exploit](https://github.com/diegaccio/Craft-CMS-Exploit) | CVE-2023-41892 Reverse Shell | 2024-01-29T09:12:59Z|
 | [CVE-2023-41772](https://www.cve.org/CVERecord?id=CVE-2023-41772) | [R41N3RZUF477/CVE-2023-41772](https://github.com/R41N3RZUF477/CVE-2023-41772) | no description | 2023-12-19T11:21:12Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -1803,6 +1808,7 @@
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [dkjiayu/dkjiayu.github.io](https://github.com/dkjiayu/dkjiayu.github.io) | POC for cve-2022-22620 | 2022-11-11T06:35:25Z|
 | [CVE-2022-33082](https://www.cve.org/CVERecord?id=CVE-2022-33082) | [cyberqueenmeg/cve-2022-33082-exploit](https://github.com/cyberqueenmeg/cve-2022-33082-exploit) | no description | 2023-06-22T17:50:18Z|
 | [CVE-2022-32883](https://www.cve.org/CVERecord?id=CVE-2022-32883) | [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883) | Turning Your Computer Into a GPS Tracker With Apple Maps | 2022-09-18T15:51:52Z|
+| [CVE-2022-32862](https://www.cve.org/CVERecord?id=CVE-2022-32862) | [rohitc33/CVE-2022-32862](https://github.com/rohitc33/CVE-2022-32862) | no description | 2023-09-13T18:29:27Z|
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit) | no description | 2022-08-24T06:00:47Z|
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches) | This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability | 2022-10-14T04:58:26Z|
 | [CVE-2022-32199](https://www.cve.org/CVERecord?id=CVE-2022-32199) | [Toxich4/CVE-2022-32199](https://github.com/Toxich4/CVE-2022-32199) | no description | 2023-03-25T08:49:58Z|
@@ -1829,6 +1835,7 @@
 | [CVE-2022-30114](https://www.cve.org/CVERecord?id=CVE-2022-30114) | [SiennaSkies/redisHack](https://github.com/SiennaSkies/redisHack) | redis未授权、redis_CVE-2022-0543检测利用二合一脚本 | 2023-05-10T05:05:31Z|
 | [CVE-2022-29622](https://www.cve.org/CVERecord?id=CVE-2022-29622) | [keymandll/CVE-2022-29622](https://github.com/keymandll/CVE-2022-29622) | Hack this service to prove CVE-2022–29622 is valid | 2022-06-05T22:15:21Z|
 | [CVE-2022-29593](https://www.cve.org/CVERecord?id=CVE-2022-29593) | [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593) | no description | 2022-03-04T12:03:33Z|
+| [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [nidhihcl/linux-4.19.72_CVE-2022-29581](https://github.com/nidhihcl/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T12:33:21Z|
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pari-Malam/CVE-2022-29464](https://github.com/Pari-Malam/CVE-2022-29464) | Perform With Mass Exploits In WSO Management. | 2023-04-25T09:45:18Z|
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z|
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z|
@@ -1967,6 +1974,7 @@
 | [CVE-2022-20007](https://www.cve.org/CVERecord?id=CVE-2022-20007) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007) | no description | 2022-06-10T04:26:02Z|
 | [CVE-2022-20005](https://www.cve.org/CVERecord?id=CVE-2022-20005) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005) | no description | 2022-06-10T11:56:59Z|
 | [CVE-2022-20004](https://www.cve.org/CVERecord?id=CVE-2022-20004) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004) | no description | 2022-06-15T10:29:03Z|
+| [CVE-2022-1679](https://www.cve.org/CVERecord?id=CVE-2022-1679) | [ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679) | no description | 2023-09-12T17:47:01Z|
 | [CVE-2022-1609](https://www.cve.org/CVERecord?id=CVE-2022-1609) | [0x007f/cve-2022-1609-exploit](https://github.com/0x007f/cve-2022-1609-exploit) | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | 2023-04-22T12:51:09Z|
 | [CVE-2022-1442](https://www.cve.org/CVERecord?id=CVE-2022-1442) | [RandomRobbieBF/CVE-2022-1442](https://github.com/RandomRobbieBF/CVE-2022-1442) | WordPress Plugin Metform &lt;= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | 2023-08-03T10:47:28Z|
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [v4sh25/CVE_2022_1388](https://github.com/v4sh25/CVE_2022_1388) | F5 Big-IP RCE vulnerability | 2023-07-21T04:23:59Z|
