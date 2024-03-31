@@ -2,12 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-30 01:41:29.695662
+ Last generated : 2024-03-31 01:53:22.394697
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z|
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z|
+| [CVE-2024-25281](https://www.cve.org/CVERecord?id=CVE-2024-25281) | [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281) | (XSS) | 2024-02-17T12:14:56Z|
+| [CVE-2024-25280](https://www.cve.org/CVERecord?id=CVE-2024-25280) | [sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280) | Broken Access control | 2024-02-17T12:11:58Z|
+| [CVE-2024-25279](https://www.cve.org/CVERecord?id=CVE-2024-25279) | [sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279) | (XSS) | 2024-02-17T12:10:12Z|
+| [CVE-2024-25278](https://www.cve.org/CVERecord?id=CVE-2024-25278) | [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278) | no description | 2024-02-17T11:59:51Z|
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z|
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z|
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
@@ -66,6 +71,7 @@
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z|
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z|
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z|
+| [CVE-2024-22983](https://www.cve.org/CVERecord?id=CVE-2024-22983) | [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983) | An SQL injection Vulnerability in projectworlds&#x27; Visitor Management System | 2024-01-25T10:05:00Z|
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
 | [CVE-2024-22909](https://www.cve.org/CVERecord?id=CVE-2024-22909) | [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909) | no description | 2024-01-12T00:40:29Z|
@@ -104,6 +110,8 @@
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC) | no description | 2024-02-02T02:51:29Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626) | PoC and Detection for CVE-2024-21626 | 2024-02-01T15:28:37Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC) | no description | 2024-02-05T17:47:01Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
@@ -880,6 +888,7 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [jahithoque/Juniper-CVE-2023-36845-Mass-Hunting](https://github.com/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting) | Juniper RCE (Remote Code Execution) CVE-2023-36845 is a vulnerability that has been identified within Juniper&#x27;s software. This particular flaw allows for remote code execution, meaning an attacker could run arbitrary code on a system without needing physical access to the device. | 2024-01-30T08:00:23Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845) | Simple Automation script for juniper cve-2023-36845 | 2024-01-29T18:53:22Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845](https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845) | no description | 2024-02-01T03:54:18Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [CharonDefalt/Juniper-exploit-CVE-2023-36845](https://github.com/CharonDefalt/Juniper-exploit-CVE-2023-36845) | no description | 2024-02-03T06:09:30Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
