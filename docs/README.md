@@ -2,22 +2,26 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-03-31 01:53:22.394697
+ Last generated : 2024-04-01 01:57:26.181463
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z|
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z|
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z|
+| [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z|
 | [CVE-2024-25281](https://www.cve.org/CVERecord?id=CVE-2024-25281) | [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281) | (XSS) | 2024-02-17T12:14:56Z|
 | [CVE-2024-25280](https://www.cve.org/CVERecord?id=CVE-2024-25280) | [sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280) | Broken Access control | 2024-02-17T12:11:58Z|
 | [CVE-2024-25279](https://www.cve.org/CVERecord?id=CVE-2024-25279) | [sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279) | (XSS) | 2024-02-17T12:10:12Z|
 | [CVE-2024-25278](https://www.cve.org/CVERecord?id=CVE-2024-25278) | [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278) | no description | 2024-02-17T11:59:51Z|
+| [CVE-2024-25251](https://www.cve.org/CVERecord?id=CVE-2024-25251) | [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251) | no description | 2024-02-20T10:03:29Z|
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z|
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z|
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-24402](https://www.cve.org/CVERecord?id=CVE-2024-24402) | [MAWK0235/CVE-2024-24402](https://github.com/MAWK0235/CVE-2024-24402) | Priv esc in Nagios 2024R1.01 | 2024-02-18T20:33:28Z|
 | [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z|
 | [CVE-2024-24397](https://www.cve.org/CVERecord?id=CVE-2024-24397) | [trustcves/CVE-2024-24397](https://github.com/trustcves/CVE-2024-24397) | no description | 2024-02-05T09:08:34Z|
 | [CVE-2024-24396](https://www.cve.org/CVERecord?id=CVE-2024-24396) | [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396) | no description | 2024-02-05T08:43:33Z|
@@ -56,6 +60,8 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897) | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | 2024-02-04T20:56:42Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [B4CK4TT4CK/CVE-2024-23897](https://github.com/B4CK4TT4CK/CVE-2024-23897) | CVE-2024-23897 | 2024-02-13T22:38:50Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability) | Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an &#x27;@&#x27; character followed by a file path in an argument with the file&#x27;s contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system. | 2024-02-07T15:07:37Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [godylockz/CVE-2024-23897](https://github.com/godylockz/CVE-2024-23897) | POC for CVE-2024-23897 Jenkins File-Read | 2024-02-16T07:16:04Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [ifconfig-me/CVE-2024-23897](https://github.com/ifconfig-me/CVE-2024-23897) | Jenkins Arbitrary File Leak Vulnerability [CVE-2024-23897] | 2024-02-16T23:21:40Z|
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z|
 | [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z|
 | [CVE-2024-23772](https://www.cve.org/CVERecord?id=CVE-2024-23772) | [Verrideo/CVE-2024-23772](https://github.com/Verrideo/CVE-2024-23772) | no description | 2024-02-05T10:58:33Z|
@@ -112,6 +118,10 @@
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC) | no description | 2024-02-05T17:47:01Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | 2024-02-16T15:17:59Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [sanderswannalive/sumkaluissessss](https://github.com/sanderswannalive/sumkaluissessss) | CVE-2024-206565 | 2024-02-19T09:06:06Z|
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [MSeymenD/CVE-2024-21413](https://github.com/MSeymenD/CVE-2024-21413) | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | 2024-02-19T01:37:15Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
@@ -129,6 +139,7 @@
 | [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z|
 | [CVE-2024-1302](https://www.cve.org/CVERecord?id=CVE-2024-1302) | [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure) | POC Badgermeter moni tool - CVE-2024-1302 | 2024-02-08T09:27:53Z|
 | [CVE-2024-1301](https://www.cve.org/CVERecord?id=CVE-2024-1301) | [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection) | POC Badgermeter moni tool - CVE-2024-1301 | 2024-02-08T09:08:05Z|
+| [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z|
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
 | [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z|
@@ -393,6 +404,7 @@
 | [CVE-2023-47668](https://www.cve.org/CVERecord?id=CVE-2023-47668) | [RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668) | Restrict Content &lt;= 3.2.7 - Information Exposure via legacy log file | 2023-11-14T08:40:49Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762) | no description | 2023-09-27T09:43:20Z|
 | [CVE-2023-4762](https://www.cve.org/CVERecord?id=CVE-2023-4762) | [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review) | no description | 2023-09-27T14:29:43Z|
+| [CVE-2023-47564](https://www.cve.org/CVERecord?id=CVE-2023-47564) | [C411e/CVE-2023-47564](https://github.com/C411e/CVE-2023-47564) | CVE-2023-47564 | 2024-02-04T13:25:58Z|
 | [CVE-2023-47529](https://www.cve.org/CVERecord?id=CVE-2023-47529) | [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529) | Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File | 2023-11-13T10:50:25Z|
 | [CVE-2023-47489](https://www.cve.org/CVERecord?id=CVE-2023-47489) | [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489) | no description | 2023-11-15T16:07:02Z|
 | [CVE-2023-47488](https://www.cve.org/CVERecord?id=CVE-2023-47488) | [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488) | no description | 2023-11-15T16:32:01Z|
@@ -670,6 +682,7 @@
 | [CVE-2023-40600](https://www.cve.org/CVERecord?id=CVE-2023-40600) | [RandomRobbieBF/CVE-2023-40600](https://github.com/RandomRobbieBF/CVE-2023-40600) | EWWW Image Optimizer &lt;= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log | 2023-11-20T19:05:50Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC) | CVE-2023-40477 PoC by Wild-Pointer | 2023-08-29T16:29:48Z|
 | [CVE-2023-40477](https://www.cve.org/CVERecord?id=CVE-2023-40477) | [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831) | no description | 2023-08-30T10:48:04Z|
+| [CVE-2023-40459](https://www.cve.org/CVERecord?id=CVE-2023-40459) | [majidmc2/CVE-2023-40459](https://github.com/majidmc2/CVE-2023-40459) | PoC of CVE-2023-40459 (DoS on ACEmanager) | 2024-01-31T12:11:34Z|
 | [CVE-2023-40429](https://www.cve.org/CVERecord?id=CVE-2023-40429) | [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name) | CVE-2023-40429: An app may be able to access sensitive user data. | 2023-10-09T21:52:56Z|
 | [CVE-2023-40362](https://www.cve.org/CVERecord?id=CVE-2023-40362) | [ally-petitt/CVE-2023-40362](https://github.com/ally-petitt/CVE-2023-40362) | CVE-2023-40362 Vulnerabilitiy details and proof of concept | 2023-08-26T01:35:43Z|
 | [CVE-2023-40361](https://www.cve.org/CVERecord?id=CVE-2023-40361) | [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361) | Security Vulnerability - SECUDOS Qiata | 2023-10-16T08:49:25Z|
@@ -1149,6 +1162,7 @@
 | [CVE-2023-32243](https://www.cve.org/CVERecord?id=CVE-2023-32243) | [shaoyu521/Mass-CVE-2023-32243](https://github.com/shaoyu521/Mass-CVE-2023-32243) | Mass-CVE-2023-32243 | 2023-07-29T20:43:16Z|
 | [CVE-2023-32235](https://www.cve.org/CVERecord?id=CVE-2023-32235) | [VEEXH/Ghost-Path-Traversal-CVE-2023-32235-](https://github.com/VEEXH/Ghost-Path-Traversal-CVE-2023-32235-) | A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder. | 2023-07-09T20:01:11Z|
 | [CVE-2023-32233](https://www.cve.org/CVERecord?id=CVE-2023-32233) | [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233) | Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233 | 2023-05-16T05:58:03Z|
+| [CVE-2023-32233](https://www.cve.org/CVERecord?id=CVE-2023-32233) | [RogelioPumajulca/TEST-CVE-2023-32233](https://github.com/RogelioPumajulca/TEST-CVE-2023-32233) | CVE-2023-32233 | 2024-02-04T02:24:34Z|
 | [CVE-2023-32117](https://www.cve.org/CVERecord?id=CVE-2023-32117) | [RandomRobbieBF/CVE-2023-32117](https://github.com/RandomRobbieBF/CVE-2023-32117) | Integrate Google Drive &lt;= 1.1.99 - Missing Authorization via REST API Endpoints | 2023-07-17T10:59:17Z|
 | [CVE-2023-32031](https://www.cve.org/CVERecord?id=CVE-2023-32031) | [Avento/CVE-2023-32031](https://github.com/Avento/CVE-2023-32031) | CVE-2023-32031 MS Exchange PowerShell backend RCE | 2023-11-10T09:32:27Z|
 | [CVE-2023-31853](https://www.cve.org/CVERecord?id=CVE-2023-31853) | [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853) | no description | 2023-04-23T23:32:31Z|
