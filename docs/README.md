@@ -2,15 +2,17 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-02 01:52:38.954981
+ Last generated : 2024-04-03 01:49:31.713302
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-26534](https://www.cve.org/CVERecord?id=CVE-2024-26534) | [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534) | no description | 2024-02-26T11:59:59Z|
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z|
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-02-22T10:53:45Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template) | Nuclei template and information about the POC for CVE-2024-25600 | 2024-02-21T00:27:33Z|
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks &lt;= 1.9.6 | 2024-02-20T20:16:09Z|
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z|
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z|
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z|
@@ -23,6 +25,8 @@
 | [CVE-2024-25270](https://www.cve.org/CVERecord?id=CVE-2024-25270) | [W01fh4cker/ScreenConnect-AuthBypass-RCE](https://github.com/W01fh4cker/ScreenConnect-AuthBypass-RCE) | ScreenConnect AuthBypass(cve-2024-1709) --&gt; RCE!!! | 2024-02-21T09:42:04Z|
 | [CVE-2024-25251](https://www.cve.org/CVERecord?id=CVE-2024-25251) | [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251) | no description | 2024-02-20T10:03:29Z|
 | [CVE-2024-25249](https://www.cve.org/CVERecord?id=CVE-2024-25249) | [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249) | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | 2024-02-21T08:19:00Z|
+| [CVE-2024-25170](https://www.cve.org/CVERecord?id=CVE-2024-25170) | [shenhav12/CVE-2024-25170-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0) | no description | 2024-02-25T12:28:49Z|
+| [CVE-2024-25169](https://www.cve.org/CVERecord?id=CVE-2024-25169) | [shenhav12/CVE-2024-25169-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0) | no description | 2024-02-25T12:21:40Z|
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z|
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z|
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
@@ -49,6 +53,8 @@
 | [CVE-2024-24134](https://www.cve.org/CVERecord?id=CVE-2024-24134) | [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134) | no description | 2024-01-12T17:31:15Z|
 | [CVE-2024-24100](https://www.cve.org/CVERecord?id=CVE-2024-24100) | [ASR511-OO7/CVE-2024-24100](https://github.com/ASR511-OO7/CVE-2024-24100) | no description | 2024-02-25T09:02:08Z|
 | [CVE-2024-24099](https://www.cve.org/CVERecord?id=CVE-2024-24099) | [ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099) | no description | 2024-02-25T09:03:38Z|
+| [CVE-2024-24096](https://www.cve.org/CVERecord?id=CVE-2024-24096) | [ASR511-OO7/CVE-2024-24096](https://github.com/ASR511-OO7/CVE-2024-24096) | no description | 2024-02-25T09:07:19Z|
+| [CVE-2024-24095](https://www.cve.org/CVERecord?id=CVE-2024-24095) | [ASR511-OO7/CVE-2024-24095](https://github.com/ASR511-OO7/CVE-2024-24095) | no description | 2024-02-25T09:08:37Z|
 | [CVE-2024-24035](https://www.cve.org/CVERecord?id=CVE-2024-24035) | [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035) | no description | 2024-02-06T18:49:34Z|
 | [CVE-2024-24034](https://www.cve.org/CVERecord?id=CVE-2024-24034) | [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034) | no description | 2024-02-06T16:47:07Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z|
@@ -74,6 +80,7 @@
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Nebian/CVE-2024-23897](https://github.com/Nebian/CVE-2024-23897) | Scraping tool to ennumerate directories or files with the CVE-2024-23897 vulnerability in Jenkins. | 2024-02-21T18:32:45Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [pulentoski/CVE-2024-23897-Arbitrary-file-read](https://github.com/pulentoski/CVE-2024-23897-Arbitrary-file-read) | Un script realizado en python para atumatizar la vulnerabilidad CVE-2024-23897 | 2024-02-20T15:26:34Z|
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315) | Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898 | 2024-01-23T19:19:04Z|
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Abo5/CVE-2024-23897](https://github.com/Abo5/CVE-2024-23897) | This is an exploit script for CVE-2024-23897, a vulnerability affecting certain systems. The script is intended for educational and testing purposes only. Ensure that you have the necessary permissions before using it. | 2024-02-26T03:07:28Z|
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z|
 | [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z|
 | [CVE-2024-23772](https://www.cve.org/CVERecord?id=CVE-2024-23772) | [Verrideo/CVE-2024-23772](https://github.com/Verrideo/CVE-2024-23772) | no description | 2024-02-05T10:58:33Z|
@@ -92,6 +99,7 @@
 | [CVE-2024-22983](https://www.cve.org/CVERecord?id=CVE-2024-22983) | [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983) | An SQL injection Vulnerability in projectworlds&#x27; Visitor Management System | 2024-01-25T10:05:00Z|
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z|
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z|
+| [CVE-2024-22917](https://www.cve.org/CVERecord?id=CVE-2024-22917) | [ASR511-OO7/CVE-2024-22917](https://github.com/ASR511-OO7/CVE-2024-22917) | no description | 2024-02-25T09:10:40Z|
 | [CVE-2024-22909](https://www.cve.org/CVERecord?id=CVE-2024-22909) | [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909) | no description | 2024-01-12T00:40:29Z|
 | [CVE-2024-22899](https://www.cve.org/CVERecord?id=CVE-2024-22899) | [Chocapikk/CVE-2024-22899-to-22903-ExploitChain](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup &amp; Recovery &lt;= 7.2 | 2023-11-06T09:24:15Z|
 | [CVE-2024-22894](https://www.cve.org/CVERecord?id=CVE-2024-22894) | [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894) | no description | 2024-01-27T18:17:48Z|
@@ -150,6 +158,8 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
 | [CVE-2024-1781](https://www.cve.org/CVERecord?id=CVE-2024-1781) | [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781) | CVE-2024-1781 | 2024-02-12T13:26:03Z|
+| [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709) | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | 2024-02-23T17:26:28Z|
+| [CVE-2024-1346](https://www.cve.org/CVERecord?id=CVE-2024-1346) | [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346) | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | 2024-02-25T11:51:03Z|
 | [CVE-2024-1304](https://www.cve.org/CVERecord?id=CVE-2024-1304) | [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS) | POC Badgermeter moni tool - CVE-2024-1304 | 2024-02-08T09:29:54Z|
 | [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z|
 | [CVE-2024-1302](https://www.cve.org/CVERecord?id=CVE-2024-1302) | [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure) | POC Badgermeter moni tool - CVE-2024-1302 | 2024-02-08T09:27:53Z|
@@ -404,6 +414,7 @@
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) | no description | 2023-09-21T05:22:51Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [caoweiquan322/NotEnough](https://github.com/caoweiquan322/NotEnough) | This tool calculates tricky canonical huffman histogram for CVE-2023-4863. | 2023-12-19T01:32:45Z|
 | [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [LiveOverflow/webp-CVE-2023-4863](https://github.com/LiveOverflow/webp-CVE-2023-4863) | no description | 2023-12-18T23:12:25Z|
+| [CVE-2023-4863](https://www.cve.org/CVERecord?id=CVE-2023-4863) | [CrackerCat/CVE-2023-4863-](https://github.com/CrackerCat/CVE-2023-4863-) | Triggering the famous libweb 0day vuln with libfuzzer | 2024-02-04T01:33:53Z|
 | [CVE-2023-48200](https://www.cve.org/CVERecord?id=CVE-2023-48200) | [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200) | no description | 2023-11-14T17:02:07Z|
 | [CVE-2023-48199](https://www.cve.org/CVERecord?id=CVE-2023-48199) | [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199) | no description | 2023-11-14T16:50:31Z|
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z|
@@ -555,6 +566,7 @@
 | [CVE-2023-44758](https://www.cve.org/CVERecord?id=CVE-2023-44758) | [sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title](https://github.com/sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title) | GDidees CMS 3.9.2 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Title | 2023-09-25T13:07:05Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [daniloalbuqrque/poc-cve-xss-uploading-svg](https://github.com/daniloalbuqrque/poc-cve-xss-uploading-svg) | CVE-2023-4460 | 2023-08-11T00:11:45Z|
 | [CVE-2023-4460](https://www.cve.org/CVERecord?id=CVE-2023-4460) | [dnkhack/fixcve2023_39526_2023_39527](https://github.com/dnkhack/fixcve2023_39526_2023_39527) | Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527 | 2023-08-10T16:51:56Z|
+| [CVE-2023-4450](https://www.cve.org/CVERecord?id=CVE-2023-4450) | [ilikeoyt/CVE-2023-4450-Attack](https://github.com/ilikeoyt/CVE-2023-4450-Attack) | no description | 2024-02-07T03:51:34Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487) | Test Script for CVE-2023-44487 | 2023-10-12T03:14:34Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487) | Proof of concept for DoS exploit | 2023-10-11T01:59:47Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | 2023-10-10T14:20:42Z|
@@ -565,6 +577,7 @@
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [sigridou/CVE-2023-44487-](https://github.com/sigridou/CVE-2023-44487-) | no description | 2023-12-11T23:12:03Z|
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [spotlightishere/inputcontrol](https://github.com/spotlightishere/inputcontrol) | proof-of-concept for CVE-2023-28197 | 2023-12-11T20:55:21Z|
 | [CVE-2023-44353](https://www.cve.org/CVERecord?id=CVE-2023-44353) | [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template) | no description | 2023-11-23T20:15:00Z|
+| [CVE-2023-4427](https://www.cve.org/CVERecord?id=CVE-2023-4427) | [tianstcht/CVE-2023-4427](https://github.com/tianstcht/CVE-2023-4427) | no description | 2024-02-06T02:29:06Z|
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z|
 | [CVE-2023-4415](https://www.cve.org/CVERecord?id=CVE-2023-4415) | [thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | 2023-10-16T05:08:06Z|
 | [CVE-2023-44061](https://www.cve.org/CVERecord?id=CVE-2023-44061) | [soundarkutty/CVE-2023-44061](https://github.com/soundarkutty/CVE-2023-44061) | CVE-2023-44061 - Simple and Nice Shopping Cart Script V1.0 | 2023-09-23T06:45:32Z|
@@ -2089,6 +2102,7 @@
 | [CVE-2021-45232](https://www.cve.org/CVERecord?id=CVE-2021-45232) | [Kuibagit/CVE-2021-45232-RCE](https://github.com/Kuibagit/CVE-2021-45232-RCE) | CVE-2021-45232-RCE | 2022-01-05T09:07:35Z|
 | [CVE-2021-45010](https://www.cve.org/CVERecord?id=CVE-2021-45010) | [Syd-SydneyJr/CVE-2021-45010](https://github.com/Syd-SydneyJr/CVE-2021-45010) | no description | 2023-03-13T18:40:02Z|
 | [CVE-2021-45010](https://www.cve.org/CVERecord?id=CVE-2021-45010) | [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010) | 🐍 Python Exploit for CVE-2021-45010 | 2022-12-20T00:47:30Z|
+| [CVE-2021-44910](https://www.cve.org/CVERecord?id=CVE-2021-44910) | [dockererr/CVE-2021-44910_SpringBlade](https://github.com/dockererr/CVE-2021-44910_SpringBlade) | 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。 | 2023-07-22T16:48:24Z|
 | [CVE-2021-44852](https://www.cve.org/CVERecord?id=CVE-2021-44852) | [CrackerCat/CVE-2021-44852](https://github.com/CrackerCat/CVE-2021-44852) | An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver&#x27;s device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000. | 2023-03-22T04:47:54Z|
 | [CVE-2021-44735](https://www.cve.org/CVERecord?id=CVE-2021-44735) | [defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735) | Exploit for CVE-2021-44735 | 2023-07-20T09:20:13Z|
 | [CVE-2021-44731](https://www.cve.org/CVERecord?id=CVE-2021-44731) | [deeexcee-io/CVE-2021-44731-snap-confine-SUID](https://github.com/deeexcee-io/CVE-2021-44731-snap-confine-SUID) | Local Privilege Escalation Exploit for CVE-2021-44731 | 2023-07-09T10:06:29Z|
