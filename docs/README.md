@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-04 01:51:21.446425
+ Last generated : 2024-04-05 01:49:29.139549
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,10 +12,12 @@
 | [CVE-2024-26534](https://www.cve.org/CVERecord?id=CVE-2024-26534) | [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534) | no description | 2024-02-26T11:59:59Z|
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z|
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z|
+| [CVE-2024-25731](https://www.cve.org/CVERecord?id=CVE-2024-25731) | [actuator/com.cn.dq.ipc](https://github.com/actuator/com.cn.dq.ipc) | CVE-2024-25731 | 2024-02-06T04:38:12Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-02-22T10:53:45Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template) | Nuclei template and information about the POC for CVE-2024-25600 | 2024-02-21T00:27:33Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks &lt;= 1.9.6 | 2024-02-20T20:16:09Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [hy011121/CVE-2024-25600-wordpress-Exploit-RCE](https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE) | (Mirorring) | 2024-02-29T20:53:42Z|
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [K3ysTr0K3R/CVE-2024-25600-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT) | A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE) | 2024-03-01T09:28:08Z|
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z|
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z|
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z|
@@ -98,6 +100,7 @@
 | [CVE-2024-23740](https://www.cve.org/CVERecord?id=CVE-2024-23740) | [giovannipajeu1/CVE-2024-23740](https://github.com/giovannipajeu1/CVE-2024-23740) | CVE-2024-23739 | 2024-01-25T13:37:08Z|
 | [CVE-2024-23739](https://www.cve.org/CVERecord?id=CVE-2024-23739) | [giovannipajeu1/CVE-2024-23739](https://github.com/giovannipajeu1/CVE-2024-23739) | CVE-2024-23739 | 2024-01-25T13:44:16Z|
 | [CVE-2024-23738](https://www.cve.org/CVERecord?id=CVE-2024-23738) | [giovannipajeu1/CVE-2024-23738](https://github.com/giovannipajeu1/CVE-2024-23738) | CVE-2024-23738 | 2024-01-25T13:27:19Z|
+| [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z|
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z|
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z|
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z|
@@ -138,6 +141,7 @@
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887) | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | 2024-02-03T11:33:40Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887) | Ivanti Connect Secure &amp;  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | 2024-02-09T18:07:06Z|
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC) | FortiOS 6.0 - 7.4.2 Out of bound exploit --&gt; RCE!!! | 2024-03-03T06:12:13Z|
+| [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check) | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | 2024-02-28T21:16:10Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
@@ -146,6 +150,7 @@
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Wall1e/CVE-2024-21626-POC](https://github.com/Wall1e/CVE-2024-21626-POC) | no description | 2024-02-02T02:51:29Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626) | PoC and Detection for CVE-2024-21626 | 2024-02-01T15:28:37Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC) | no description | 2024-02-05T17:47:01Z|
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626) | no description | 2024-03-01T09:58:50Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z|
@@ -170,6 +175,8 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
 | [CVE-2024-1781](https://www.cve.org/CVERecord?id=CVE-2024-1781) | [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781) | CVE-2024-1781 | 2024-02-12T13:26:03Z|
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709) | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | 2024-02-23T17:26:28Z|
+| [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z|
+| [CVE-2024-1512](https://www.cve.org/CVERecord?id=CVE-2024-1512) | [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512) | PoC for CVE-2024-1512 in MasterStudy LMS WordPress Plugin. | 2024-03-01T11:08:37Z|
 | [CVE-2024-1346](https://www.cve.org/CVERecord?id=CVE-2024-1346) | [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346) | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | 2024-02-25T11:51:03Z|
 | [CVE-2024-1304](https://www.cve.org/CVERecord?id=CVE-2024-1304) | [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS) | POC Badgermeter moni tool - CVE-2024-1304 | 2024-02-08T09:29:54Z|
 | [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z|
@@ -179,6 +186,7 @@
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z|
+| [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z|
 | [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z|
 | [CVE-2024-0679](https://www.cve.org/CVERecord?id=CVE-2024-0679) | [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679) | ColorMag &lt;= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2024-01-19T22:30:51Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
@@ -1247,6 +1255,7 @@
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z|
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547) | PoC Exploit  for VM2 Sandbox Escape Vulnerability | 2023-12-10T08:32:26Z|
+| [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547) | PoC to CVE-2023-30547 (Library vm2) | 2024-02-08T07:03:32Z|
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
