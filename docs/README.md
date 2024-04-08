@@ -2,11 +2,18 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-07 01:53:25.237399
+ Last generated : 2024-04-08 01:50:34.819615
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-29445](https://www.cve.org/CVERecord?id=CVE-2024-29445) | [yashpatelphd/CVE-2024-29445](https://github.com/yashpatelphd/CVE-2024-29445) | Information Leakage in ROS2 Humble Hawksbill via Plaintext Message Transmission | 2024-03-21T14:17:57Z|
+| [CVE-2024-29444](https://www.cve.org/CVERecord?id=CVE-2024-29444) | [yashpatelphd/CVE-2024-29444](https://github.com/yashpatelphd/CVE-2024-29444) | OS Command Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:14:51Z|
+| [CVE-2024-29443](https://www.cve.org/CVERecord?id=CVE-2024-29443) | [yashpatelphd/CVE-2024-29443](https://github.com/yashpatelphd/CVE-2024-29443) | Shell Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:05:43Z|
+| [CVE-2024-29442](https://www.cve.org/CVERecord?id=CVE-2024-29442) | [yashpatelphd/CVE-2024-29442](https://github.com/yashpatelphd/CVE-2024-29442) | Unauthorized Information Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:52:18Z|
+| [CVE-2024-29441](https://www.cve.org/CVERecord?id=CVE-2024-29441) | [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441) | Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:31:50Z|
+| [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z|
+| [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z|
@@ -564,6 +571,7 @@
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max) | CVE-2023-46604 | 2023-10-27T12:22:43Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747) | no description | 2023-11-01T14:57:20Z|
 | [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [W01fh4cker/CVE-2023-46747-RCE](https://github.com/W01fh4cker/CVE-2023-46747-RCE) | exploit for f5-big-ip RCE cve-2023-46747 | 2023-11-01T09:31:05Z|
+| [CVE-2023-46747](https://www.cve.org/CVERecord?id=CVE-2023-46747) | [vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747) | no description | 2024-02-11T14:38:37Z|
 | [CVE-2023-46615](https://www.cve.org/CVERecord?id=CVE-2023-46615) | [RandomRobbieBF/CVE-2023-46615](https://github.com/RandomRobbieBF/CVE-2023-46615) | KD Coming Soon &lt;= 1.7 - Unauthenticated PHP Object Injection via cetitle | 2023-11-30T14:46:21Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) | Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) | 2023-11-03T22:06:09Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604) | no description | 2023-11-04T11:58:21Z|
@@ -1099,6 +1107,7 @@
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519) | exploit CVE-2023-3519 | 2023-10-12T15:11:55Z|
 | [CVE-2023-3519](https://www.cve.org/CVERecord?id=CVE-2023-3519) | [Mohammaddvd/CVE-2023-3519](https://github.com/Mohammaddvd/CVE-2023-3519) | Stack-Overflow on Citrix | 2023-10-27T18:39:31Z|
 | [CVE-2023-35086](https://www.cve.org/CVERecord?id=CVE-2023-35086) | [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | POC of CVE-2023-35086 only DoS | 2023-07-25T01:36:07Z|
+| [CVE-2023-35080](https://www.cve.org/CVERecord?id=CVE-2023-35080) | [HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation](https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation) | no description | 2024-02-10T16:12:52Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078) | Easy and non-intrusive script to check for CVE-2023-35078 | 2023-07-31T18:21:40Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078) | Proof of concept script to check if the site is vulnerable to CVE-2023-35078 | 2023-07-29T19:58:33Z|
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC) | CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC | 2023-07-29T05:06:27Z|
