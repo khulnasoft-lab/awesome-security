@@ -2,11 +2,18 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-08 01:50:34.819615
+ Last generated : 2024-04-09 01:49:34.464934
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
+| [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
+| [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
+| [CVE-2024-29450](https://www.cve.org/CVERecord?id=CVE-2024-29450) | [yashpatelphd/CVE-2024-29450](https://github.com/yashpatelphd/CVE-2024-29450) | Privilege Escalation in ROS2 Humble Hawksbill | 2024-03-21T14:37:07Z|
+| [CVE-2024-29449](https://www.cve.org/CVERecord?id=CVE-2024-29449) | [yashpatelphd/CVE-2024-29449](https://github.com/yashpatelphd/CVE-2024-29449) | Cleartext Transmission Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:32:10Z|
+| [CVE-2024-29448](https://www.cve.org/CVERecord?id=CVE-2024-29448) | [yashpatelphd/CVE-2024-29448](https://github.com/yashpatelphd/CVE-2024-29448) | Buffer Overflow Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:25:35Z|
+| [CVE-2024-29447](https://www.cve.org/CVERecord?id=CVE-2024-29447) | [yashpatelphd/CVE-2024-29447](https://github.com/yashpatelphd/CVE-2024-29447) | Security Misconfiguration in ROS2 Humble Hawksbill | 2024-03-21T14:22:28Z|
 | [CVE-2024-29445](https://www.cve.org/CVERecord?id=CVE-2024-29445) | [yashpatelphd/CVE-2024-29445](https://github.com/yashpatelphd/CVE-2024-29445) | Information Leakage in ROS2 Humble Hawksbill via Plaintext Message Transmission | 2024-03-21T14:17:57Z|
 | [CVE-2024-29444](https://www.cve.org/CVERecord?id=CVE-2024-29444) | [yashpatelphd/CVE-2024-29444](https://github.com/yashpatelphd/CVE-2024-29444) | OS Command Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:14:51Z|
 | [CVE-2024-29443](https://www.cve.org/CVERecord?id=CVE-2024-29443) | [yashpatelphd/CVE-2024-29443](https://github.com/yashpatelphd/CVE-2024-29443) | Shell Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:05:43Z|
@@ -16,6 +23,7 @@
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z|
+| [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397) | to be released | 2024-03-22T04:29:34Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z|
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z|
@@ -57,7 +65,9 @@
 | [CVE-2024-25250](https://www.cve.org/CVERecord?id=CVE-2024-25250) | [ASR511-OO7/CVE-2024-25250.](https://github.com/ASR511-OO7/CVE-2024-25250.) | no description | 2024-03-06T11:11:24Z|
 | [CVE-2024-25249](https://www.cve.org/CVERecord?id=CVE-2024-25249) | [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249) | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | 2024-02-21T08:19:00Z|
 | [CVE-2024-25227](https://www.cve.org/CVERecord?id=CVE-2024-25227) | [thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227) | no description | 2024-02-23T16:46:54Z|
+| [CVE-2024-25227](https://www.cve.org/CVERecord?id=CVE-2024-25227) | [thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227) | no description | 2024-03-13T17:58:41Z|
 | [CVE-2024-25202](https://www.cve.org/CVERecord?id=CVE-2024-25202) | [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202) | A vulnerability was found in PHPgurukul visitor management system 1.0. it has been rated as problemic. Affected by the issue is some unknown functionality of the file search bar that called search-result.php and search-visitor.php . The vulnerability is Cross-Site-Scripting (XSS). | 2024-02-20T18:19:53Z|
+| [CVE-2024-25175](https://www.cve.org/CVERecord?id=CVE-2024-25175) | [jet-pentest/CVE-2024-25175](https://github.com/jet-pentest/CVE-2024-25175) | no description | 2024-03-22T11:54:36Z|
 | [CVE-2024-25170](https://www.cve.org/CVERecord?id=CVE-2024-25170) | [shenhav12/CVE-2024-25170-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0) | no description | 2024-02-25T12:28:49Z|
 | [CVE-2024-25169](https://www.cve.org/CVERecord?id=CVE-2024-25169) | [shenhav12/CVE-2024-25169-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0) | no description | 2024-02-25T12:21:40Z|
 | [CVE-2024-25153](https://www.cve.org/CVERecord?id=CVE-2024-25153) | [rainbowhatrkn/CVE-2024-25153](https://github.com/rainbowhatrkn/CVE-2024-25153) | Proof-of-concept exploit for CVE-2024-25153. | 2024-03-18T09:02:56Z|
@@ -146,6 +156,9 @@
 | [CVE-2024-23740](https://www.cve.org/CVERecord?id=CVE-2024-23740) | [giovannipajeu1/CVE-2024-23740](https://github.com/giovannipajeu1/CVE-2024-23740) | CVE-2024-23739 | 2024-01-25T13:37:08Z|
 | [CVE-2024-23739](https://www.cve.org/CVERecord?id=CVE-2024-23739) | [giovannipajeu1/CVE-2024-23739](https://github.com/giovannipajeu1/CVE-2024-23739) | CVE-2024-23739 | 2024-01-25T13:44:16Z|
 | [CVE-2024-23738](https://www.cve.org/CVERecord?id=CVE-2024-23738) | [giovannipajeu1/CVE-2024-23738](https://github.com/giovannipajeu1/CVE-2024-23738) | CVE-2024-23738 | 2024-01-25T13:27:19Z|
+| [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [actuator/yi](https://github.com/actuator/yi) | CVE-2023-47882 - CVE-2024-23727 | 2023-11-05T20:37:24Z|
+| [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [akabe1/Graver](https://github.com/akabe1/Graver) | Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116) | 2024-03-24T13:14:52Z|
+| [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [douglasbuzatto/G3-Loop-DoS](https://github.com/douglasbuzatto/G3-Loop-DoS) | This Python script automates the process of scanning for systems potentially vulnerable to the Loop DoS attack and the hypothetical CVE-2024-2169 vulnerability. It focuses on scanning ports associated with protocols susceptible to denial-of-service (DoS) attacks. The script can be used for educational purposes or authorized penetration testing. | 2024-03-24T07:53:52Z|
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z|
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z|
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z|
@@ -214,6 +227,7 @@
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413) | no description | 2024-02-29T10:07:34Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [DevAkabari/CVE-2024-21413](https://github.com/DevAkabari/CVE-2024-21413) | CVE-2024-21413 exploit | 2024-02-28T07:26:24Z|
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [CMNatic/CVE-2024-21413](https://github.com/CMNatic/CVE-2024-21413) | CVE-2024-21413 PoC for THM Lab | 2024-02-17T14:52:52Z|
+| [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z|
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378) | This repository contains an exploit for targeting Microsoft Outlook through Exchange Online, leveraging a vulnerability to execute arbitrary code via COM DLLs. The exploit utilizes a modified version of Ruler to send a malicious form as an email, triggering the execution upon user interaction within the Outlook thick client. | 2024-03-12T14:11:58Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [tmcve/CVE-2024-TEST](https://github.com/tmcve/CVE-2024-TEST) | aaa | 2024-03-13T16:16:53Z|
@@ -232,8 +246,11 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [BetterCzz/CVE-2024-20291-POC](https://github.com/BetterCzz/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T05:25:35Z|
+| [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [Instructor-Team8/CVE-2024-20291-POC](https://github.com/Instructor-Team8/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T08:53:14Z|
 | [CVE-2024-1781](https://www.cve.org/CVERecord?id=CVE-2024-1781) | [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781) | CVE-2024-1781 | 2024-02-12T13:26:03Z|
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709) | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | 2024-02-23T17:26:28Z|
+| [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass](https://github.com/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass) | no description | 2024-03-22T21:20:19Z|
+| [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [jacobadodge/Spring2024_CVENG_8160](https://github.com/jacobadodge/Spring2024_CVENG_8160) | no description | 2024-01-19T18:49:59Z|
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z|
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z|
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC) | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | 2024-02-23T11:04:24Z|
