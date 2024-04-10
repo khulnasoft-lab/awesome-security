@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-09 01:49:34.464934
+ Last generated : 2024-04-10 01:49:52.723143
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,8 +21,14 @@
 | [CVE-2024-29441](https://www.cve.org/CVERecord?id=CVE-2024-29441) | [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441) | Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:31:50Z|
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z|
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
+| [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z|
+| [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z|
+| [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z|
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z|
+| [CVE-2024-2865](https://www.cve.org/CVERecord?id=CVE-2024-2865) | [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL) | [CRITICAL] Mergen Software QMS Exploit SQL injection to RFI (Remote File Inclusion) | 2024-03-26T08:20:07Z|
+| [CVE-2024-2856](https://www.cve.org/CVERecord?id=CVE-2024-2856) | [Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP) | Tenda AC10 Router exploit stack-based buffer overflow | 2024-03-25T14:34:26Z|
+| [CVE-2024-2856](https://www.cve.org/CVERecord?id=CVE-2024-2856) | [codewhitesec/HttpRemotingObjRefLeak](https://github.com/codewhitesec/HttpRemotingObjRefLeak) | Additional resources for leaking and exploiting ObjRefs via HTTP .NET Remoting (CVE-2024-29059) | 2024-03-11T10:14:39Z|
 | [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397) | to be released | 2024-03-22T04:29:34Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z|
@@ -79,6 +85,7 @@
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z|
+| [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-03-25T20:51:56Z|
 | [CVE-2024-24402](https://www.cve.org/CVERecord?id=CVE-2024-24402) | [MAWK0235/CVE-2024-24402](https://github.com/MAWK0235/CVE-2024-24402) | Priv esc in Nagios 2024R1.01 | 2024-02-18T20:33:28Z|
 | [CVE-2024-24401](https://www.cve.org/CVERecord?id=CVE-2024-24401) | [MAWK0235/CVE-2024-24401](https://github.com/MAWK0235/CVE-2024-24401) | Auto exploitation tool for CVE-2024-24401. | 2024-02-18T20:05:46Z|
 | [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z|
@@ -207,6 +214,8 @@
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check) | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | 2024-02-28T21:16:10Z|
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [d0rb/CVE-2024-21762](https://github.com/d0rb/CVE-2024-21762) | The PoC demonstrates the potential for remote code execution by exploiting the identified security flaw. | 2024-03-17T09:15:22Z|
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [h4x0r-dz/CVE-2024-21762](https://github.com/h4x0r-dz/CVE-2024-21762) | out-of-bounds write in Fortinet FortiOS  CVE-2024-21762 vulnerability | 2024-03-13T09:17:28Z|
+| [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [cleverg0d/CVE-2024-21762-Checker](https://github.com/cleverg0d/CVE-2024-21762-Checker) | This script performs vulnerability scanning for CVE-2024-21762, a Fortinet SSL VPN remote code execution vulnerability. It checks whether a given server is vulnerable to this CVE by sending specific requests and analyzing the responses. | 2024-03-11T12:28:05Z|
+| [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check](https://github.com/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check) | Chequea si tu firewall es vulnerable a CVE-2024-21762 (RCE sin autenticación) | 2024-03-13T22:57:00Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [zpxlz/CVE-2024-21626-POC](https://github.com/zpxlz/CVE-2024-21626-POC) | no description | 2024-02-01T12:53:18Z|
@@ -238,6 +247,7 @@
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [JayBeale/cve-202421626](https://github.com/JayBeale/cve-202421626) | no description | 2024-02-05T21:05:02Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc) | no description | 2024-02-06T06:35:07Z|
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767) | Proof of Concept for CVE-2024-20767. Arbitrary file read from Adobe ColdFusion | 2024-03-26T10:03:51Z|
 | [CVE-2024-2074](https://www.cve.org/CVERecord?id=CVE-2024-2074) | [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074) | CVE-2024-2074 | 2024-02-29T12:30:37Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20696](https://www.cve.org/CVERecord?id=CVE-2024-20696) | [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696) | no description | 2024-03-08T02:31:41Z|
@@ -398,6 +408,7 @@
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
 | [CVE-2023-51073](https://www.cve.org/CVERecord?id=CVE-2023-51073) | [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073) | Firmware Update Server Verification Vulnerability on Buffalo LS210D Version 1.78-0.03 | 2024-01-05T05:16:18Z|
+| [CVE-2023-51000](https://www.cve.org/CVERecord?id=CVE-2023-51000) | [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000) | no description | 2024-02-12T12:06:07Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z|
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z|
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z|
@@ -545,6 +556,7 @@
 | [CVE-2023-47529](https://www.cve.org/CVERecord?id=CVE-2023-47529) | [RandomRobbieBF/CVE-2023-47529](https://github.com/RandomRobbieBF/CVE-2023-47529) | Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File | 2023-11-13T10:50:25Z|
 | [CVE-2023-47489](https://www.cve.org/CVERecord?id=CVE-2023-47489) | [nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489) | no description | 2023-11-15T16:07:02Z|
 | [CVE-2023-47488](https://www.cve.org/CVERecord?id=CVE-2023-47488) | [nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488) | no description | 2023-11-15T16:32:01Z|
+| [CVE-2023-47464](https://www.cve.org/CVERecord?id=CVE-2023-47464) | [HadessCS/CVE-2023-47464](https://github.com/HadessCS/CVE-2023-47464) | CVE-2023-47464 POC | 2024-02-14T15:39:34Z|
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [aleksey-vi/CVE-2023-47460](https://github.com/aleksey-vi/CVE-2023-47460) | no description | 2023-11-10T15:38:01Z|
 | [CVE-2023-47460](https://www.cve.org/CVERecord?id=CVE-2023-47460) | [AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack) | CVE-2023-22515 | 2023-10-30T00:17:45Z|
 | [CVE-2023-47459](https://www.cve.org/CVERecord?id=CVE-2023-47459) | [aleksey-vi/CVE-2023-47459](https://github.com/aleksey-vi/CVE-2023-47459) | no description | 2023-11-10T15:20:48Z|
@@ -1043,6 +1055,9 @@
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845) | Simple Automation script for juniper cve-2023-36845 | 2024-01-29T18:53:22Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845](https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845) | no description | 2024-02-01T03:54:18Z|
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [CharonDefalt/Juniper-exploit-CVE-2023-36845](https://github.com/CharonDefalt/Juniper-exploit-CVE-2023-36845) | no description | 2024-02-03T06:09:30Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [0xNehru/CVE-2023-36845-Juniper-Vulnerability](https://github.com/0xNehru/CVE-2023-36845-Juniper-Vulnerability) | This Python script automates the Proof of Concept (PoC) for CVE-2023-36845, a vulnerability impacting Juniper Networks Junos OS on EX and SRX Series devices. The vulnerability resides in the J-Web component, allowing remote manipulation of the PHPRC variable, potentially leading to code injection. | 2024-02-14T12:47:21Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ak1t4/CVE-2023-36845](https://github.com/ak1t4/CVE-2023-36845) | CVES | 2024-02-13T20:59:34Z|
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-) | CVE-2023-36845 и CVE-2023-36846 Juniper Junos OS J-Web RCE | 2024-02-13T14:59:59Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z|
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z|
@@ -1345,6 +1360,7 @@
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z|
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547) | PoC Exploit  for VM2 Sandbox Escape Vulnerability | 2023-12-10T08:32:26Z|
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547) | PoC to CVE-2023-30547 (Library vm2) | 2024-02-08T07:03:32Z|
+| [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [Cur1iosity/CVE-2023-30547](https://github.com/Cur1iosity/CVE-2023-30547) | Tool for exploring CVE-2023-30547 | 2024-02-14T13:05:57Z|
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
@@ -1961,6 +1977,7 @@
 | [CVE-2022-41034](https://www.cve.org/CVERecord?id=CVE-2022-41034) | [andyhsu024/CVE-2022-41034](https://github.com/andyhsu024/CVE-2022-41034) | no description | 2023-05-07T04:30:30Z|
 | [CVE-2022-4096](https://www.cve.org/CVERecord?id=CVE-2022-4096) | [aminetitrofine/CVE-2022-4096](https://github.com/aminetitrofine/CVE-2022-4096) | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | 2023-05-14T13:47:05Z|
 | [CVE-2022-40799](https://www.cve.org/CVERecord?id=CVE-2022-40799) | [rtfmkiesel/CVE-2022-40799](https://github.com/rtfmkiesel/CVE-2022-40799) | D-Link DNR-322L - Authenticated Remote Code Execution | 2023-04-23T20:42:18Z|
+| [CVE-2022-40684](https://www.cve.org/CVERecord?id=CVE-2022-40684) | [Anthony1500/CVE-2022-40684](https://github.com/Anthony1500/CVE-2022-40684) | no description | 2023-09-14T21:29:03Z|
 | [CVE-2022-40347](https://www.cve.org/CVERecord?id=CVE-2022-40347) | [h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40347: Intern Record System - &#x27;phone&#x27;, &#x27;email&#x27;, &#x27;deptType&#x27; and &#x27;name&#x27; SQL Injection (Unauthenticated) | 2023-02-16T02:16:51Z|
 | [CVE-2022-40127](https://www.cve.org/CVERecord?id=CVE-2022-40127) | [jakabakos/CVE-2022-40127](https://github.com/jakabakos/CVE-2022-40127) | CVE-2022-40127 PoC and exploit | 2023-07-21T12:55:16Z|
 | [CVE-2022-40032](https://www.cve.org/CVERecord?id=CVE-2022-40032) | [h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40032: Simple Task Managing System - &#x27;login&#x27; and &#x27;password&#x27; SQL Injection (Unauthenticated) | 2023-02-16T01:42:48Z|
@@ -2016,6 +2033,7 @@
 | [CVE-2022-29622](https://www.cve.org/CVERecord?id=CVE-2022-29622) | [keymandll/CVE-2022-29622](https://github.com/keymandll/CVE-2022-29622) | Hack this service to prove CVE-2022–29622 is valid | 2022-06-05T22:15:21Z|
 | [CVE-2022-29593](https://www.cve.org/CVERecord?id=CVE-2022-29593) | [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593) | no description | 2022-03-04T12:03:33Z|
 | [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [nidhihcl/linux-4.19.72_CVE-2022-29581](https://github.com/nidhihcl/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T12:33:21Z|
+| [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T10:41:44Z|
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pari-Malam/CVE-2022-29464](https://github.com/Pari-Malam/CVE-2022-29464) | Perform With Mass Exploits In WSO Management. | 2023-04-25T09:45:18Z|
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z|
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z|
