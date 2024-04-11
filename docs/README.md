@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-10 01:49:52.723143
+ Last generated : 2024-04-11 01:50:48.752569
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -166,6 +166,7 @@
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [actuator/yi](https://github.com/actuator/yi) | CVE-2023-47882 - CVE-2024-23727 | 2023-11-05T20:37:24Z|
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [akabe1/Graver](https://github.com/akabe1/Graver) | Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116) | 2024-03-24T13:14:52Z|
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [douglasbuzatto/G3-Loop-DoS](https://github.com/douglasbuzatto/G3-Loop-DoS) | This Python script automates the process of scanning for systems potentially vulnerable to the Loop DoS attack and the hypothetical CVE-2024-2169 vulnerability. It focuses on scanning ports associated with protocols susceptible to denial-of-service (DoS) attacks. The script can be used for educational purposes or authorized penetration testing. | 2024-03-24T07:53:52Z|
+| [CVE-2024-23722](https://www.cve.org/CVERecord?id=CVE-2024-23722) | [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc) | no description | 2024-03-25T17:50:33Z|
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z|
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z|
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z|
@@ -620,6 +621,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [mrpentst/CVE-2023-46604](https://github.com/mrpentst/CVE-2023-46604) | Exploit for CVE-2023-46604 | 2023-12-09T19:19:03Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604) | no description | 2023-12-16T13:50:58Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [hh-hunter/cve-2023-46604](https://github.com/hh-hunter/cve-2023-46604) | no description | 2024-01-09T03:18:19Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604) | no description | 2024-02-14T18:39:49Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
