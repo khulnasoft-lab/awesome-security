@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-11 01:50:48.752569
+ Last generated : 2024-04-12 01:49:51.147039
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -249,6 +249,7 @@
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [JayBeale/cve-202421626](https://github.com/JayBeale/cve-202421626) | no description | 2024-02-05T21:05:02Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc) | no description | 2024-02-06T06:35:07Z|
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767) | Proof of Concept for CVE-2024-20767. Arbitrary file read from Adobe ColdFusion | 2024-03-26T10:03:51Z|
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767) | Exploit for CVE-2024-20767 - Adobe ColdFusion | 2024-03-26T06:51:08Z|
 | [CVE-2024-2074](https://www.cve.org/CVERecord?id=CVE-2024-2074) | [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074) | CVE-2024-2074 | 2024-02-29T12:30:37Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20696](https://www.cve.org/CVERecord?id=CVE-2024-20696) | [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696) | no description | 2024-03-08T02:31:41Z|
@@ -256,6 +257,7 @@
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z|
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z|
+| [CVE-2024-2054](https://www.cve.org/CVERecord?id=CVE-2024-2054) | [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054) | no description | 2024-03-25T07:01:59Z|
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [BetterCzz/CVE-2024-20291-POC](https://github.com/BetterCzz/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T05:25:35Z|
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [Instructor-Team8/CVE-2024-20291-POC](https://github.com/Instructor-Team8/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T08:53:14Z|
 | [CVE-2024-1781](https://www.cve.org/CVERecord?id=CVE-2024-1781) | [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781) | CVE-2024-1781 | 2024-02-12T13:26:03Z|
@@ -1769,6 +1771,7 @@
 | [CVE-2023-2033](https://www.cve.org/CVERecord?id=CVE-2023-2033) | [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033) | no description | 2023-08-17T02:40:42Z|
 | [CVE-2023-20273](https://www.cve.org/CVERecord?id=CVE-2023-20273) | [smokeintheshell/CVE-2023-20273](https://github.com/smokeintheshell/CVE-2023-20273) | CVE-2023-20273 Exploit PoC | 2023-12-09T07:25:43Z|
 | [CVE-2023-2024](https://www.cve.org/CVERecord?id=CVE-2023-2024) | [team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024) | For Aina | 2023-12-04T15:55:22Z|
+| [CVE-2023-2023](https://www.cve.org/CVERecord?id=CVE-2023-2023) | [druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation](https://github.com/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation) | no description | 2024-02-15T16:35:59Z|
 | [CVE-2023-20209](https://www.cve.org/CVERecord?id=CVE-2023-20209) | [peter5he1by/CVE-2023-20209](https://github.com/peter5he1by/CVE-2023-20209) | no description | 2023-09-28T15:55:22Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198) | CVE-2023-20198 PoC (!) | 2023-10-18T08:50:49Z|
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker) | no description | 2023-10-17T07:35:50Z|
