@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-12 01:49:51.147039
+ Last generated : 2024-04-13 01:31:28.938253
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -199,6 +199,8 @@
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z|
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z|
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024) | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | 2024-02-09T14:31:56Z|
+| [CVE-2024-2193](https://www.cve.org/CVERecord?id=CVE-2024-2193) | [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193) | no description | 2024-03-28T07:30:04Z|
+| [CVE-2024-21899](https://www.cve.org/CVERecord?id=CVE-2024-21899) | [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC) | Critical RCE CVE-2024-21899 Vulnerability in QNAP Products | 2024-03-27T19:19:49Z|
 | [CVE-2024-21893](https://www.cve.org/CVERecord?id=CVE-2024-21893) | [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py) | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | 2024-02-02T22:59:21Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) | Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887 | 2024-01-16T19:19:52Z|
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887) | An authentication bypass vulnerability in the web component of Ivanti ICS 9.x, 22.x and Ivanti Policy Secure allows a remote attacker to access restricted resources by bypassing control checks. | 2024-01-16T19:40:59Z|
@@ -239,6 +241,7 @@
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [CMNatic/CVE-2024-21413](https://github.com/CMNatic/CVE-2024-21413) | CVE-2024-21413 PoC for THM Lab | 2024-02-17T14:52:52Z|
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z|
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z|
+| [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378) | This repository contains an exploit for targeting Microsoft Outlook through Exchange Online, leveraging a vulnerability to execute arbitrary code via COM DLLs. The exploit utilizes a modified version of Ruler to send a malicious form as an email, triggering the execution upon user interaction within the Outlook thick client. | 2024-03-12T14:11:58Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [tmcve/CVE-2024-TEST](https://github.com/tmcve/CVE-2024-TEST) | aaa | 2024-03-13T16:16:53Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
@@ -250,6 +253,8 @@
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [Leocodefocus/CVE-2024-20931-Poc](https://github.com/Leocodefocus/CVE-2024-20931-Poc) | no description | 2024-02-06T06:35:07Z|
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767) | Proof of Concept for CVE-2024-20767. Arbitrary file read from Adobe ColdFusion | 2024-03-26T10:03:51Z|
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767) | Exploit for CVE-2024-20767 - Adobe ColdFusion | 2024-03-26T06:51:08Z|
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767) | no description | 2024-03-28T07:46:31Z|
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767) | Exploit Toolkit for Adobe ColdFusion CVE-2024-20767 Vulnerability | 2024-03-26T19:17:14Z|
 | [CVE-2024-2074](https://www.cve.org/CVERecord?id=CVE-2024-2074) | [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074) | CVE-2024-2074 | 2024-02-29T12:30:37Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20696](https://www.cve.org/CVERecord?id=CVE-2024-20696) | [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696) | no description | 2024-03-08T02:31:41Z|
@@ -287,6 +292,7 @@
 | [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z|
 | [CVE-2024-0713](https://www.cve.org/CVERecord?id=CVE-2024-0713) | [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713) | no description | 2024-03-12T08:32:26Z|
 | [CVE-2024-0679](https://www.cve.org/CVERecord?id=CVE-2024-0679) | [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679) | ColorMag &lt;= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2024-01-19T22:30:51Z|
+| [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204) | Authentication Bypass in GoAnywhere MFT | 2024-01-23T20:16:14Z|
@@ -2008,6 +2014,7 @@
 | [CVE-2022-3546](https://www.cve.org/CVERecord?id=CVE-2022-3546) | [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546) | no description | 2022-10-16T10:35:24Z|
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection) | no description | 2023-04-18T04:26:49Z|
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [dkjiayu/dkjiayu.github.io](https://github.com/dkjiayu/dkjiayu.github.io) | POC for cve-2022-22620 | 2022-11-11T06:35:25Z|
+| [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [IMHarman/CVE-2022-33891](https://github.com/IMHarman/CVE-2022-33891) | no description | 2023-09-15T12:49:58Z|
 | [CVE-2022-33082](https://www.cve.org/CVERecord?id=CVE-2022-33082) | [cyberqueenmeg/cve-2022-33082-exploit](https://github.com/cyberqueenmeg/cve-2022-33082-exploit) | no description | 2023-06-22T17:50:18Z|
 | [CVE-2022-32883](https://www.cve.org/CVERecord?id=CVE-2022-32883) | [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883) | Turning Your Computer Into a GPS Tracker With Apple Maps | 2022-09-18T15:51:52Z|
 | [CVE-2022-32862](https://www.cve.org/CVERecord?id=CVE-2022-32862) | [rohitc33/CVE-2022-32862](https://github.com/rohitc33/CVE-2022-32862) | no description | 2023-09-13T18:29:27Z|
