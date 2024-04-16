@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-15 03:51:11.364103
+ Last generated : 2024-04-16 01:49:59.395409
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -16,6 +16,11 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ashwani95/CVE-2024-3094](https://github.com/ashwani95/CVE-2024-3094) | no description | 2024-03-30T15:29:05Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [wgetnz/CVE-2024-3094-check](https://github.com/wgetnz/CVE-2024-3094-check) | no description | 2024-03-30T07:38:39Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Hacker-Hermanos/CVE-2024-3094_xz_check](https://github.com/Hacker-Hermanos/CVE-2024-3094_xz_check) | This repository contains a Bash script and a one-liner command to verify if a system is running a vulnerable version of the &quot;xz&quot; utility, as specified by CVE-2024-3094. | 2024-03-29T23:21:44Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [isuruwa/CVE-2024-3094](https://github.com/isuruwa/CVE-2024-3094) | CVE-2024-3094 | 2024-03-31T04:50:09Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [hazemkya/CVE-2024-3094-checker](https://github.com/hazemkya/CVE-2024-3094-checker) | no description | 2024-03-30T21:56:17Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker) | Quick and dirty PoC for checking whether a vulnerable version of xz-utils is installed (CVE-2024-3094) | 2024-03-29T20:28:17Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Horizon-Software-Development/CVE-2024-3094](https://github.com/Horizon-Software-Development/CVE-2024-3094) | no description | 2024-03-30T20:05:13Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker) | Checker for CVE-2024-3094 where malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. Through a series of complex obfuscations, the liblzma build process extracts a prebuilt object file from a disguised test file existing in the source code, which is then used to modify specific functions in the liblzma code. | 2024-03-30T16:25:50Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -847,6 +852,7 @@
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
 | [CVE-2023-41506](https://www.cve.org/CVERecord?id=CVE-2023-41506) | [ASR511-OO7/CVE-2023-41506](https://github.com/ASR511-OO7/CVE-2023-41506) | no description | 2024-02-25T09:11:36Z|
 | [CVE-2023-41505](https://www.cve.org/CVERecord?id=CVE-2023-41505) | [ASR511-OO7/CVE-2023-41505](https://github.com/ASR511-OO7/CVE-2023-41505) | no description | 2024-02-25T09:12:31Z|
+| [CVE-2023-41503](https://www.cve.org/CVERecord?id=CVE-2023-41503) | [ASR511-OO7/CVE-2023-41503](https://github.com/ASR511-OO7/CVE-2023-41503) | no description | 2024-02-25T09:14:58Z|
 | [CVE-2023-41501](https://www.cve.org/CVERecord?id=CVE-2023-41501) | [ASR511-OO7/CVE-2023-41501](https://github.com/ASR511-OO7/CVE-2023-41501) | no description | 2024-02-20T08:16:19Z|
 | [CVE-2023-41500](https://www.cve.org/CVERecord?id=CVE-2023-41500) | [ASR511-OO7/CVE-2023-41500](https://github.com/ASR511-OO7/CVE-2023-41500) | no description | 2024-02-20T08:15:32Z|
 | [CVE-2023-41499](https://www.cve.org/CVERecord?id=CVE-2023-41499) | [ASR511-OO7/CVE-2023-41499](https://github.com/ASR511-OO7/CVE-2023-41499) | no description | 2024-02-20T08:14:00Z|
@@ -1716,6 +1722,7 @@
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [MaanVader/CVE-2023-22527-POC](https://github.com/MaanVader/CVE-2023-22527-POC) | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | 2024-01-25T05:32:06Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [YongYe-Security/CVE-2023-22527](https://github.com/YongYe-Security/CVE-2023-22527) | CVE-2023-22527 Batch scanning | 2024-02-02T04:20:14Z|
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [Boogipop/CVE-2023-22527-Godzilla-MEMSHELL](https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL) | CVE-2023-22527 内存马注入工具 | 2024-02-11T16:46:55Z|
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [M0untainShley/CVE-2023-22527-MEMSHELL](https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL) | confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理 | 2024-02-26T02:34:44Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z|
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z|
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z|
