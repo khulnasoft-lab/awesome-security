@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-16 01:49:59.395409
+ Last generated : 2024-04-17 01:51:26.386284
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,15 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker) | Quick and dirty PoC for checking whether a vulnerable version of xz-utils is installed (CVE-2024-3094) | 2024-03-29T20:28:17Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Horizon-Software-Development/CVE-2024-3094](https://github.com/Horizon-Software-Development/CVE-2024-3094) | no description | 2024-03-30T20:05:13Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [harekrishnarai/xz-utils-vuln-checker](https://github.com/harekrishnarai/xz-utils-vuln-checker) | Checker for CVE-2024-3094 where malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. Through a series of complex obfuscations, the liblzma build process extracts a prebuilt object file from a disguised test file existing in the source code, which is then used to modify specific functions in the liblzma code. | 2024-03-30T16:25:50Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [zgimszhd61/cve-2024-3094-detect-tool](https://github.com/zgimszhd61/cve-2024-3094-detect-tool) | no description | 2024-04-01T04:28:24Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [galacticquest/cve-2024-3094-detect](https://github.com/galacticquest/cve-2024-3094-detect) | no description | 2024-04-01T02:25:33Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [MrBUGLF/XZ-Utils_CVE-2024-3094](https://github.com/MrBUGLF/XZ-Utils_CVE-2024-3094) | XZ-Utils工具库恶意后门植入漏洞(CVE-2024-3094) | 2024-04-01T01:56:08Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [gayatriracha/CVE-2024-3094-Nmap-NSE-script](https://github.com/gayatriracha/CVE-2024-3094-Nmap-NSE-script) | no description | 2024-03-31T17:53:11Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Simplifi-ED/CVE-2024-3094-patcher](https://github.com/Simplifi-ED/CVE-2024-3094-patcher) | Ansible playbook for patching CVE-2024-3094 | 2024-03-31T14:09:28Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [teyhouse/CVE-2024-3094](https://github.com/teyhouse/CVE-2024-3094) | K8S and Docker Vulnerability Check for CVE-2024-3094 | 2024-03-30T17:35:49Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [krascovict/OSINT---CVE-2024-3094-](https://github.com/krascovict/OSINT---CVE-2024-3094-) | no description | 2024-03-31T12:21:34Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Yuma-Tsushima07/CVE-2024-3094](https://github.com/Yuma-Tsushima07/CVE-2024-3094) | A script to detect if xz is vulnerable - CVE-2024-3094 | 2024-03-31T10:45:44Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [k4t3pr0/Check-CVE-2024-3094](https://github.com/k4t3pr0/Check-CVE-2024-3094) | no description | 2024-03-31T08:14:41Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -46,6 +55,7 @@
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515) | A vuln about csapp. | 2024-03-19T01:53:48Z|
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [bsekercioglu/cve2024-3094-Checker](https://github.com/bsekercioglu/cve2024-3094-Checker) | no description | 2024-03-30T11:49:27Z|
 | [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397) | to be released | 2024-03-22T04:29:34Z|
+| [CVE-2024-28247](https://www.cve.org/CVERecord?id=CVE-2024-28247) | [T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read) | This repository provides an exploit for CVE-2024-28247, highlighting a vulnerability that permits a remote attacker to read arbitrary files on the system. | 2024-03-31T15:25:15Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z|
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z|
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z|
@@ -836,6 +846,8 @@
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [Faelian/CraftCMS_CVE-2023-41892](https://github.com/Faelian/CraftCMS_CVE-2023-41892) | Exploit for CVE-2023-41892 | 2023-12-26T18:31:27Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [diegaccio/Craft-CMS-Exploit](https://github.com/diegaccio/Craft-CMS-Exploit) | CVE-2023-41892 Reverse Shell | 2024-01-29T09:12:59Z|
+| [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [acesoyeo/CVE-2023-41892](https://github.com/acesoyeo/CVE-2023-41892) | A Craft CMS vulnerability that allows Remote Code Execution (RCE). | 2024-02-26T18:31:46Z|
+| [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [Helica-core/eap_pwn](https://github.com/Helica-core/eap_pwn) | poc of CVE-2023-52160 | 2024-02-26T12:48:07Z|
 | [CVE-2023-41772](https://www.cve.org/CVERecord?id=CVE-2023-41772) | [R41N3RZUF477/CVE-2023-41772](https://github.com/R41N3RZUF477/CVE-2023-41772) | no description | 2023-12-19T11:21:12Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174) | CVE-2023-4174 PoC | 2023-08-11T08:48:02Z|
 | [CVE-2023-4174](https://www.cve.org/CVERecord?id=CVE-2023-4174) | [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174) | CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS) | 2023-08-17T02:44:49Z|
@@ -1798,6 +1810,7 @@
 | [CVE-2023-21144](https://www.cve.org/CVERecord?id=CVE-2023-21144) | [hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144](https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144) | no description | 2023-12-12T05:14:32Z|
 | [CVE-2023-2114](https://www.cve.org/CVERecord?id=CVE-2023-2114) | [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114) | Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress | 2023-04-05T11:42:27Z|
 | [CVE-2023-21118](https://www.cve.org/CVERecord?id=CVE-2023-21118) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118) | no description | 2023-12-08T11:29:23Z|
+| [CVE-2023-21118](https://www.cve.org/CVERecord?id=CVE-2023-21118) | [Satheesh575555/frameworks_native_AOSP10_r33_CVE-2023-21118](https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2023-21118) | no description | 2024-02-27T03:59:23Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109) | no description | 2023-11-18T07:56:12Z|
 | [CVE-2023-21109](https://www.cve.org/CVERecord?id=CVE-2023-21109) | [Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_](https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_) | no description | 2023-11-18T07:50:57Z|
 | [CVE-2023-21097](https://www.cve.org/CVERecord?id=CVE-2023-21097) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097) | no description | 2023-10-26T06:46:14Z|
