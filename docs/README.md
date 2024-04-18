@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-17 01:51:26.386284
+ Last generated : 2024-04-18 01:49:27.499965
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -30,6 +30,17 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [krascovict/OSINT---CVE-2024-3094-](https://github.com/krascovict/OSINT---CVE-2024-3094-) | no description | 2024-03-31T12:21:34Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Yuma-Tsushima07/CVE-2024-3094](https://github.com/Yuma-Tsushima07/CVE-2024-3094) | A script to detect if xz is vulnerable - CVE-2024-3094 | 2024-03-31T10:45:44Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [k4t3pr0/Check-CVE-2024-3094](https://github.com/k4t3pr0/Check-CVE-2024-3094) | no description | 2024-03-31T08:14:41Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [devjanger/CVE-2024-3094-XZ-Backdoor-Detector](https://github.com/devjanger/CVE-2024-3094-XZ-Backdoor-Detector) | CVE-2024-3094 XZ Backdoor Detector | 2024-04-02T01:56:29Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [hackingetico21/revisaxzutils](https://github.com/hackingetico21/revisaxzutils) | Script en bash para revisar si tienes la vulnerabilidad CVE-2024-3094. | 2024-04-02T01:22:04Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094) | no description | 2024-04-01T15:36:58Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [dah4k/CVE-2024-3094](https://github.com/dah4k/CVE-2024-3094) | no description | 2024-04-01T16:42:47Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info) | Information for CVE-2024-3094 | 2024-03-29T17:03:01Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [emirkmo/xz-backdoor-github](https://github.com/emirkmo/xz-backdoor-github) | History of commits related to the xz backdoor Discovered On March 29, 2024: CVE-2024-3094. | 2024-03-30T10:48:54Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [brinhosa/CVE-2024-3094-One-Liner](https://github.com/brinhosa/CVE-2024-3094-One-Liner) | no description | 2024-03-30T23:16:10Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mesutgungor/xz-backdoor-vulnerability](https://github.com/mesutgungor/xz-backdoor-vulnerability) | CVE-2024-3094 | 2024-04-01T09:09:54Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094) | no description | 2024-04-01T09:06:25Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info) | no description | 2024-04-01T09:05:47Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Mustafa1986/CVE-2024-3094](https://github.com/Mustafa1986/CVE-2024-3094) | no description | 2024-03-31T18:46:58Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -216,6 +227,8 @@
 | [CVE-2024-22678](https://www.cve.org/CVERecord?id=CVE-2024-22678) | [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678) | no description | 2024-01-29T00:19:48Z|
 | [CVE-2024-22676](https://www.cve.org/CVERecord?id=CVE-2024-22676) | [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676) | no description | 2024-01-29T00:19:06Z|
 | [CVE-2024-22675](https://www.cve.org/CVERecord?id=CVE-2024-22675) | [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675) | no description | 2024-01-29T00:17:51Z|
+| [CVE-2024-22641](https://www.cve.org/CVERecord?id=CVE-2024-22641) | [zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641) | no description | 2024-04-01T16:11:28Z|
+| [CVE-2024-22640](https://www.cve.org/CVERecord?id=CVE-2024-22640) | [zunak/CVE-2024-22640](https://github.com/zunak/CVE-2024-22640) | no description | 2024-04-01T15:43:07Z|
 | [CVE-2024-22534](https://www.cve.org/CVERecord?id=CVE-2024-22534) | [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534) | no description | 2024-01-25T18:57:34Z|
 | [CVE-2024-22532](https://www.cve.org/CVERecord?id=CVE-2024-22532) | [pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532) | no description | 2024-02-22T10:44:38Z|
 | [CVE-2024-22515](https://www.cve.org/CVERecord?id=CVE-2024-22515) | [Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability) | no description | 2024-01-27T18:51:26Z|
@@ -284,6 +297,7 @@
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767) | Exploit for CVE-2024-20767 - Adobe ColdFusion | 2024-03-26T06:51:08Z|
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767) | no description | 2024-03-28T07:46:31Z|
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767) | Exploit Toolkit for Adobe ColdFusion CVE-2024-20767 Vulnerability | 2024-03-26T19:17:14Z|
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion) | Exploit for CVE-2024-20767 affecting Adobe ColdFusion | 2024-04-01T09:01:30Z|
 | [CVE-2024-2074](https://www.cve.org/CVERecord?id=CVE-2024-2074) | [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074) | CVE-2024-2074 | 2024-02-29T12:30:37Z|
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z|
 | [CVE-2024-20696](https://www.cve.org/CVERecord?id=CVE-2024-20696) | [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696) | no description | 2024-03-08T02:31:41Z|
@@ -361,6 +375,7 @@
 | [CVE-2023-6700](https://www.cve.org/CVERecord?id=CVE-2023-6700) | [RandomRobbieBF/CVE-2023-6700](https://github.com/RandomRobbieBF/CVE-2023-6700) | Cookie Information - Free GDPR Consent Solution &lt;= 2.0.22 - Authenticated (Subscriber+) Arbitrary Options Update | 2024-01-30T10:32:54Z|
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
+| [CVE-2023-6654](https://www.cve.org/CVERecord?id=CVE-2023-6654) | [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654) | CVE-2023-6654 EXP | 2024-02-27T07:50:01Z|
 | [CVE-2023-6567](https://www.cve.org/CVERecord?id=CVE-2023-6567) | [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc) | Time-based SQLi | 2024-01-11T05:43:31Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
@@ -2578,6 +2593,7 @@
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205) | no description | 2023-03-09T11:53:37Z|
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [hhhotdrink/CVE-2021-22205](https://github.com/hhhotdrink/CVE-2021-22205) | no description | 2023-02-27T07:42:12Z|
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-10-29T04:30:45Z|
+| [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [overgrowncarrot1/DejaVu-CVE-2021-22205](https://github.com/overgrowncarrot1/DejaVu-CVE-2021-22205) | no description | 2023-08-02T03:15:59Z|
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [Akash7350/CVE-2021-22204](https://github.com/Akash7350/CVE-2021-22204) | no description | 2023-05-14T03:43:28Z|
 | [CVE-2021-22192](https://www.cve.org/CVERecord?id=CVE-2021-22192) | [EXP-Docs/CVE-2021-22192](https://github.com/EXP-Docs/CVE-2021-22192) | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | 2021-03-27T07:09:46Z|
 | [CVE-2021-22053](https://www.cve.org/CVERecord?id=CVE-2021-22053) | [SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053) | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | 2021-11-21T08:47:56Z|
