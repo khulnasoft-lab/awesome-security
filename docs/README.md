@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-18 01:49:27.499965
+ Last generated : 2024-04-19 01:50:46.230028
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -41,6 +41,12 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094) | no description | 2024-04-01T09:06:25Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info) | no description | 2024-04-01T09:05:47Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Mustafa1986/CVE-2024-3094](https://github.com/Mustafa1986/CVE-2024-3094) | no description | 2024-03-31T18:46:58Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [amlweems/xzbot](https://github.com/amlweems/xzbot) | notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) | 2024-04-01T14:28:09Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [gustavorobertux/CVE-2024-3094](https://github.com/gustavorobertux/CVE-2024-3094) | Checker - CVE-2024-3094 | 2024-04-01T15:15:16Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [pentestfunctions/CVE-2024-3094](https://github.com/pentestfunctions/CVE-2024-3094) | CVE-2024-3094 - Checker (fix for arch etc) | 2024-04-02T08:55:50Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [0xlane/xz-cve-2024-3094](https://github.com/0xlane/xz-cve-2024-3094) | XZ Backdoor Extract(Test on Ubuntu 23.10) | 2024-04-01T16:08:50Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [lockness-Ko/xz-vulnerable-honeypot](https://github.com/lockness-Ko/xz-vulnerable-honeypot) | An ssh honeypot with the XZ backdoor. CVE-2024-3094 | 2024-03-30T22:07:24Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ScrimForever/CVE-2024-3094](https://github.com/ScrimForever/CVE-2024-3094) | Detectar CVE-2024-3094 | 2024-04-02T03:36:07Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -56,6 +62,7 @@
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z|
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z|
+| [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z|
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z|
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z|
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
@@ -80,6 +87,7 @@
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [passwa11/CVE-2024-27198-RCE](https://github.com/passwa11/CVE-2024-27198-RCE) | no description | 2024-03-08T12:40:09Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198) | Exploit for CVE-2024-27198 - TeamCity Server | 2024-03-05T05:43:06Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z|
+| [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z|
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z|
 | [CVE-2024-26535](https://www.cve.org/CVERecord?id=CVE-2024-26535) | [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535) | (XSS) | 2024-02-26T12:02:10Z|
 | [CVE-2024-26534](https://www.cve.org/CVERecord?id=CVE-2024-26534) | [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534) | no description | 2024-02-26T11:59:59Z|
@@ -90,6 +98,7 @@
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z|
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z|
 | [CVE-2024-25731](https://www.cve.org/CVERecord?id=CVE-2024-25731) | [actuator/com.cn.dq.ipc](https://github.com/actuator/com.cn.dq.ipc) | CVE-2024-25731 | 2024-02-06T04:38:12Z|
+| [CVE-2024-25723](https://www.cve.org/CVERecord?id=CVE-2024-25723) | [david-botelho-mariano/exploit-CVE-2024-25723](https://github.com/david-botelho-mariano/exploit-CVE-2024-25723) | no description | 2024-03-20T01:28:09Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-02-22T10:53:45Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template) | Nuclei template and information about the POC for CVE-2024-25600 | 2024-02-21T00:27:33Z|
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks &lt;= 1.9.6 | 2024-02-20T20:16:09Z|
@@ -312,6 +321,7 @@
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709) | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | 2024-02-23T17:26:28Z|
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass](https://github.com/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass) | no description | 2024-03-22T21:20:19Z|
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [jacobadodge/Spring2024_CVENG_8160](https://github.com/jacobadodge/Spring2024_CVENG_8160) | no description | 2024-01-19T18:49:59Z|
+| [CVE-2024-1708](https://www.cve.org/CVERecord?id=CVE-2024-1708) | [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708) | no description | 2024-04-02T04:58:38Z|
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z|
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit) | This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698. | 2024-03-29T04:11:06Z|
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z|
