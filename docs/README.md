@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-19 01:50:46.230028
+ Last generated : 2024-04-20 01:49:21.795221
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2292,6 +2292,7 @@
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z|
 | [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z|
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z|
+| [CVE-2022-1040](https://www.cve.org/CVERecord?id=CVE-2022-1040) | [Cyb3rEnthusiast/CVE-2022-1040](https://github.com/Cyb3rEnthusiast/CVE-2022-1040) | New exploitation of 2020 Sophos vuln | 2023-09-26T07:26:42Z|
 | [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [ac3lives/kyocera-cve-2022-1026](https://github.com/ac3lives/kyocera-cve-2022-1026) | An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords | 2023-03-15T14:23:41Z|
 | [CVE-2022-1026](https://www.cve.org/CVERecord?id=CVE-2022-1026) | [flamebarke/nmap-printer-nse-scripts](https://github.com/flamebarke/nmap-printer-nse-scripts) | NSE port of CVE-2022-1026 exploit for mass identification and exploitation | 2023-07-15T14:56:55Z|
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [wlswotmd/CVE-2022-1015](https://github.com/wlswotmd/CVE-2022-1015) | no description | 2023-02-12T07:06:40Z|
