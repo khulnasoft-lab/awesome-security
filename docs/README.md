@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-21 01:54:42.094999
+ Last generated : 2024-04-22 01:53:24.832304
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -61,6 +61,7 @@
 | [CVE-2024-29441](https://www.cve.org/CVERecord?id=CVE-2024-29441) | [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441) | Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:31:50Z|
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z|
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
+| [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z|
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z|
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z|
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z|
@@ -2239,6 +2240,7 @@
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907) | no description | 2023-08-17T13:58:00Z|
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | 2022-08-09T15:53:48Z|
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [nova-master/CVE-2022-21894-Payload-New](https://github.com/nova-master/CVE-2022-21894-Payload-New) | no description | 2023-09-26T05:52:36Z|
+| [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [ASkyeye/CVE-2022-21894-Payload](https://github.com/ASkyeye/CVE-2022-21894-Payload) | Example payload for CVE-2022-21894 | 2022-08-18T23:45:47Z|
 | [CVE-2022-21882](https://www.cve.org/CVERecord?id=CVE-2022-21882) | [dishfwk/CVE-2022-21882](https://github.com/dishfwk/CVE-2022-21882) | no description | 2023-04-21T06:14:06Z|
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection) | WordPress Core 5.8.2 - &#x27;WP_Query&#x27; SQL Injection | 2022-01-18T01:05:04Z|
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [daniel616/CVE-2022-21661-Demo](https://github.com/daniel616/CVE-2022-21661-Demo) | Demonstration of the SQL injection vulnerability in wordpress 5.8.2 | 2023-02-08T04:58:57Z|
