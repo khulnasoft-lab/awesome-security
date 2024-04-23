@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-22 01:53:24.832304
+ Last generated : 2024-04-23 01:52:36.468640
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -47,6 +47,9 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [0xlane/xz-cve-2024-3094](https://github.com/0xlane/xz-cve-2024-3094) | XZ Backdoor Extract(Test on Ubuntu 23.10) | 2024-04-01T16:08:50Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [lockness-Ko/xz-vulnerable-honeypot](https://github.com/lockness-Ko/xz-vulnerable-honeypot) | An ssh honeypot with the XZ backdoor. CVE-2024-3094 | 2024-03-30T22:07:24Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ScrimForever/CVE-2024-3094](https://github.com/ScrimForever/CVE-2024-3094) | Detectar CVE-2024-3094 | 2024-04-02T03:36:07Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Bella-Bc/xz-backdoor-CVE-2024-3094-Check](https://github.com/Bella-Bc/xz-backdoor-CVE-2024-3094-Check) | Verify if your installed version of xz-utils is vulnerable to CVE-2024-3094 backdoor | 2024-04-03T13:09:32Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [MagpieRYL/CVE-2024-3094-backdoor-env-container](https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container) | This is a container environment running CVE-2024-3094 sshd backdoor instance, working with https://github.com/amlweems/xzbot project. IT IS NOT Docker, just implemented by chroot. | 2024-04-03T10:50:47Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Security-Phoenix-demo/CVE-2024-3094-fix-exploits](https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits) | Collection of Detection, Fix, and exploit for CVE-2024-3094 | 2024-04-03T07:51:49Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -339,6 +342,7 @@
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212) | Unauthenticated Command Injection In Progress Kemp LoadMaster | 2024-03-19T22:23:18Z|
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z|
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z|
+| [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z|
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z|
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker) | no description | 2024-03-18T17:07:27Z|
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071) | CVE-2024-1071 | 2024-03-18T16:58:46Z|
@@ -474,6 +478,8 @@
 | [CVE-2023-51201](https://www.cve.org/CVERecord?id=CVE-2023-51201) | [16yashpatel/CVE-2023-51201](https://github.com/16yashpatel/CVE-2023-51201) | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | 2024-01-10T16:46:56Z|
 | [CVE-2023-51200](https://www.cve.org/CVERecord?id=CVE-2023-51200) | [16yashpatel/CVE-2023-51200](https://github.com/16yashpatel/CVE-2023-51200) | Security Misconfiguration in ROS2 Foxy Fitzroy | 2024-01-10T16:17:59Z|
 | [CVE-2023-51199](https://www.cve.org/CVERecord?id=CVE-2023-51199) | [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199) | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:53:14Z|
+| [CVE-2023-51198](https://www.cve.org/CVERecord?id=CVE-2023-51198) | [yashpatelphd/CVE-2023-51198](https://github.com/yashpatelphd/CVE-2023-51198) | Privilege Escalation Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:39:19Z|
+| [CVE-2023-51197](https://www.cve.org/CVERecord?id=CVE-2023-51197) | [yashpatelphd/CVE-2023-51197](https://github.com/yashpatelphd/CVE-2023-51197) | Shell Injection Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:25:10Z|
 | [CVE-2023-51127](https://www.cve.org/CVERecord?id=CVE-2023-51127) | [risuxx/CVE-2023-51127](https://github.com/risuxx/CVE-2023-51127) | no description | 2024-01-02T02:43:09Z|
 | [CVE-2023-51126](https://www.cve.org/CVERecord?id=CVE-2023-51126) | [risuxx/CVE-2023-51126](https://github.com/risuxx/CVE-2023-51126) | no description | 2024-01-02T02:31:06Z|
 | [CVE-2023-51073](https://www.cve.org/CVERecord?id=CVE-2023-51073) | [christopher-pace/CVE-2023-51073](https://github.com/christopher-pace/CVE-2023-51073) | Firmware Update Server Verification Vulnerability on Buffalo LS210D Version 1.78-0.03 | 2024-01-05T05:16:18Z|
@@ -3263,6 +3269,7 @@
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [kienquoc102/CVE-2018-9995-2](https://github.com/kienquoc102/CVE-2018-9995-2) | no description | 2021-06-07T05:57:43Z|
 | [CVE-2018-9276](https://www.cve.org/CVERecord?id=CVE-2018-9276) | [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276) | CVE-2018-9276 PRTG &lt; 18.2.39 Reverse Shell (Python3 support) | 2021-07-29T01:17:22Z|
 | [CVE-2018-9276](https://www.cve.org/CVERecord?id=CVE-2018-9276) | [andyfeili/CVE-2018-9276](https://github.com/andyfeili/CVE-2018-9276) | no description | 2021-01-02T09:08:42Z|
+| [CVE-2018-9276](https://www.cve.org/CVERecord?id=CVE-2018-9276) | [alvinsmith-eroad/CVE-2018-9276](https://github.com/alvinsmith-eroad/CVE-2018-9276) | CVE-2018-9276 PRTG &lt; 18.2.39 Reverse Shell (Python3 support) | 2021-07-29T09:08:18Z|
 | [CVE-2018-9208](https://www.cve.org/CVERecord?id=CVE-2018-9208) | [cved-sources/cve-2018-9208](https://github.com/cved-sources/cve-2018-9208) | cve-2018-9208 | 2019-01-11T22:28:36Z|
 | [CVE-2018-9207](https://www.cve.org/CVERecord?id=CVE-2018-9207) | [cved-sources/cve-2018-9207](https://github.com/cved-sources/cve-2018-9207) | cve-2018-9207 | 2019-01-11T23:34:00Z|
 | [CVE-2018-9206](https://www.cve.org/CVERecord?id=CVE-2018-9206) | [mi-hood/CVE-2018-9206](https://github.com/mi-hood/CVE-2018-9206) | jquery file upload poc | 2021-04-20T09:25:37Z|
