@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-24 01:52:38.333620
+ Last generated : 2024-04-25 01:52:45.839801
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2088,6 +2088,7 @@
 | [CVE-2022-4061](https://www.cve.org/CVERecord?id=CVE-2022-4061) | [im-hanzou/JBWPer](https://github.com/im-hanzou/JBWPer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP &lt; 1.2.2 - Unauthenticated Arbitrary File Upload | 2023-09-17T03:20:23Z|
 | [CVE-2022-4061](https://www.cve.org/CVERecord?id=CVE-2022-4061) | [im-hanzou/UPGer](https://github.com/im-hanzou/UPGer) | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery &lt;= 2.19 - Unauthenticated RCE | 2023-09-15T21:38:47Z|
 | [CVE-2022-4061](https://www.cve.org/CVERecord?id=CVE-2022-4061) | [im-hanzou/INPGer](https://github.com/im-hanzou/INPGer) | Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery &lt; 2.1.4.1 - Unauthenticated LFI to RCE | 2023-09-11T20:01:04Z|
+| [CVE-2022-4047](https://www.cve.org/CVERecord?id=CVE-2022-4047) | [im-hanzou/WooRefer](https://github.com/im-hanzou/WooRefer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4047 - Return Refund and Exchange For WooCommerce &lt; 4.0.9 - Unauthenticated Arbitrary File Upload | 2023-09-26T07:23:44Z|
 | [CVE-2022-40347](https://www.cve.org/CVERecord?id=CVE-2022-40347) | [h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40347: Intern Record System - &#x27;phone&#x27;, &#x27;email&#x27;, &#x27;deptType&#x27; and &#x27;name&#x27; SQL Injection (Unauthenticated) | 2023-02-16T02:16:51Z|
 | [CVE-2022-40127](https://www.cve.org/CVERecord?id=CVE-2022-40127) | [jakabakos/CVE-2022-40127](https://github.com/jakabakos/CVE-2022-40127) | CVE-2022-40127 PoC and exploit | 2023-07-21T12:55:16Z|
 | [CVE-2022-40032](https://www.cve.org/CVERecord?id=CVE-2022-40032) | [h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40032: Simple Task Managing System - &#x27;login&#x27; and &#x27;password&#x27; SQL Injection (Unauthenticated) | 2023-02-16T01:42:48Z|
@@ -2411,6 +2412,7 @@
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [walnutsecurity/cve-2021-42013](https://github.com/walnutsecurity/cve-2021-42013) | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | 2021-10-27T14:29:10Z|
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013) | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | 2022-11-18T17:53:46Z|
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z|
+| [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits) | Exploit CVE-2021-41773 and CVE-2021-42013 | 2023-08-02T09:50:10Z|
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z|
 | [CVE-2021-41805](https://www.cve.org/CVERecord?id=CVE-2021-41805) | [nelsondurairaj/CVE-2021-41805](https://github.com/nelsondurairaj/CVE-2021-41805) | HashiCorp Consul exploit with python. (CVE-2021-41805) | 2022-12-07T10:50:17Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT) | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | 2023-05-06T17:46:29Z|
