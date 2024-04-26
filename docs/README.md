@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-25 01:52:45.839801
+ Last generated : 2024-04-26 01:51:16.298658
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -50,6 +50,9 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Bella-Bc/xz-backdoor-CVE-2024-3094-Check](https://github.com/Bella-Bc/xz-backdoor-CVE-2024-3094-Check) | Verify if your installed version of xz-utils is vulnerable to CVE-2024-3094 backdoor | 2024-04-03T13:09:32Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [MagpieRYL/CVE-2024-3094-backdoor-env-container](https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container) | This is a container environment running CVE-2024-3094 sshd backdoor instance, working with https://github.com/amlweems/xzbot project. IT IS NOT Docker, just implemented by chroot. | 2024-04-03T10:50:47Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Security-Phoenix-demo/CVE-2024-3094-fix-exploits](https://github.com/Security-Phoenix-demo/CVE-2024-3094-fix-exploits) | Collection of Detection, Fix, and exploit for CVE-2024-3094 | 2024-04-03T07:51:49Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [weltregie/liblzma-scan](https://github.com/weltregie/liblzma-scan) | Scans liblzma from xu-utils for backdoor (CVE-2024-3094) | 2024-04-04T11:29:41Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -72,6 +75,7 @@
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z|
 | [CVE-2024-2865](https://www.cve.org/CVERecord?id=CVE-2024-2865) | [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL) | [CRITICAL] Mergen Software QMS Exploit SQL injection to RFI (Remote File Inclusion) | 2024-03-26T08:20:07Z|
+| [CVE-2024-28589](https://www.cve.org/CVERecord?id=CVE-2024-28589) | [Alaatk/CVE-2024-28589](https://github.com/Alaatk/CVE-2024-28589) | Local Privilege Escalation Vulnerability on Axigen for Windows | 2024-04-03T15:31:02Z|
 | [CVE-2024-2856](https://www.cve.org/CVERecord?id=CVE-2024-2856) | [Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP) | Tenda AC10 Router exploit stack-based buffer overflow | 2024-03-25T14:34:26Z|
 | [CVE-2024-2856](https://www.cve.org/CVERecord?id=CVE-2024-2856) | [codewhitesec/HttpRemotingObjRefLeak](https://github.com/codewhitesec/HttpRemotingObjRefLeak) | Additional resources for leaking and exploiting ObjRefs via HTTP .NET Remoting (CVE-2024-29059) | 2024-03-11T10:14:39Z|
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515) | A vuln about csapp. | 2024-03-19T01:53:48Z|
@@ -83,6 +87,8 @@
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z|
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z|
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z|
+| [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z|
+| [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z|
 | [CVE-2024-27665](https://www.cve.org/CVERecord?id=CVE-2024-27665) | [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665) | no description | 2024-03-11T04:46:19Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z|
@@ -272,6 +278,7 @@
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [h4x0r-dz/CVE-2024-21762](https://github.com/h4x0r-dz/CVE-2024-21762) | out-of-bounds write in Fortinet FortiOS  CVE-2024-21762 vulnerability | 2024-03-13T09:17:28Z|
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [cleverg0d/CVE-2024-21762-Checker](https://github.com/cleverg0d/CVE-2024-21762-Checker) | This script performs vulnerability scanning for CVE-2024-21762, a Fortinet SSL VPN remote code execution vulnerability. It checks whether a given server is vulnerable to this CVE by sending specific requests and analyzing the responses. | 2024-03-11T12:28:05Z|
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check](https://github.com/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check) | Chequea si tu firewall es vulnerable a CVE-2024-21762 (RCE sin autenticación) | 2024-03-13T22:57:00Z|
+| [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762) | no description | 2024-04-03T21:42:55Z|
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z|
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z|
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z|
@@ -475,6 +482,7 @@
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z|
+| [CVE-2023-51202](https://www.cve.org/CVERecord?id=CVE-2023-51202) | [yashpatelphd/CVE-2023-51202](https://github.com/yashpatelphd/CVE-2023-51202) | OS Command Injection Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T17:33:19Z|
 | [CVE-2023-51201](https://www.cve.org/CVERecord?id=CVE-2023-51201) | [16yashpatel/CVE-2023-51201](https://github.com/16yashpatel/CVE-2023-51201) | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | 2024-01-10T16:46:56Z|
 | [CVE-2023-51200](https://www.cve.org/CVERecord?id=CVE-2023-51200) | [16yashpatel/CVE-2023-51200](https://github.com/16yashpatel/CVE-2023-51200) | Security Misconfiguration in ROS2 Foxy Fitzroy | 2024-01-10T16:17:59Z|
 | [CVE-2023-51199](https://www.cve.org/CVERecord?id=CVE-2023-51199) | [16yashpatel/CVE-2023-51199](https://github.com/16yashpatel/CVE-2023-51199) | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T15:53:14Z|
