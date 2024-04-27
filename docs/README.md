@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-26 01:51:16.298658
+ Last generated : 2024-04-27 01:49:48.620481
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -90,6 +90,7 @@
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z|
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z|
 | [CVE-2024-27665](https://www.cve.org/CVERecord?id=CVE-2024-27665) | [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665) | no description | 2024-03-11T04:46:19Z|
+| [CVE-2024-27518](https://www.cve.org/CVERecord?id=CVE-2024-27518) | [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518) | SUPERAntiSpyware Professional X &lt;=10.0.1264 LPE Vulnerability PoC | 2024-04-03T13:41:18Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [K3ysTr0K3R/CVE-2024-27198-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT) | A PoC exploit for CVE-2024-27198 - JetBrains TeamCity Authentication Bypass | 2024-03-09T22:04:07Z|
@@ -98,6 +99,7 @@
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198) | Exploit for CVE-2024-27198 - TeamCity Server | 2024-03-05T05:43:06Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z|
+| [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z|
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z|
 | [CVE-2024-26535](https://www.cve.org/CVERecord?id=CVE-2024-26535) | [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535) | (XSS) | 2024-02-26T12:02:10Z|
 | [CVE-2024-26534](https://www.cve.org/CVERecord?id=CVE-2024-26534) | [sajaljat/CVE-2024-26534](https://github.com/sajaljat/CVE-2024-26534) | no description | 2024-02-26T11:59:59Z|
@@ -382,6 +384,7 @@
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028) | no description | 2024-01-23T19:11:11Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker) | Repository to install CVE-2023-7028 vulnerable Gitlab instance | 2024-01-25T09:56:00Z|
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028) | Python Code for Exploit Automation CVE-2023-7028 | 2024-01-26T06:29:34Z|
+| [CVE-2023-7016](https://www.cve.org/CVERecord?id=CVE-2023-7016) | [ewilded/CVE-2023-7016-POC](https://github.com/ewilded/CVE-2023-7016-POC) | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | 2024-02-27T14:48:19Z|
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985) | 10Web AI Assistant – AI content writing assistant &lt;= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | 2024-01-29T16:51:53Z|
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [X1r0z/Dubbo-RCE](https://github.com/X1r0z/Dubbo-RCE) | PoC of Apache Dubbo CVE-2023-23638 | 2023-03-22T11:23:44Z|
 | [CVE-2023-6933](https://www.cve.org/CVERecord?id=CVE-2023-6933) | [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933) | Introduction to CVE-2023-6933 Vulnerability | 2024-01-28T23:16:53Z|
@@ -482,6 +485,7 @@
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z|
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z|
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z|
+| [CVE-2023-51204](https://www.cve.org/CVERecord?id=CVE-2023-51204) | [yashpatelphd/CVE-2023-51204](https://github.com/yashpatelphd/CVE-2023-51204) | Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T17:54:59Z|
 | [CVE-2023-51202](https://www.cve.org/CVERecord?id=CVE-2023-51202) | [yashpatelphd/CVE-2023-51202](https://github.com/yashpatelphd/CVE-2023-51202) | OS Command Injection Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T17:33:19Z|
 | [CVE-2023-51201](https://www.cve.org/CVERecord?id=CVE-2023-51201) | [16yashpatel/CVE-2023-51201](https://github.com/16yashpatel/CVE-2023-51201) | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | 2024-01-10T16:46:56Z|
 | [CVE-2023-51200](https://www.cve.org/CVERecord?id=CVE-2023-51200) | [16yashpatel/CVE-2023-51200](https://github.com/16yashpatel/CVE-2023-51200) | Security Misconfiguration in ROS2 Foxy Fitzroy | 2024-01-10T16:17:59Z|
@@ -881,6 +885,7 @@
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [po6ix/POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) | no description | 2023-10-15T12:14:18Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [Mangaia/cve-test](https://github.com/Mangaia/cve-test) | testing cve-2023-41993-test | 2023-10-20T22:04:40Z|
 | [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993) | no description | 2023-11-28T00:55:11Z|
+| [CVE-2023-41993](https://www.cve.org/CVERecord?id=CVE-2023-41993) | [J3Ss0u/CVE-2023-41993](https://github.com/J3Ss0u/CVE-2023-41993) | no description | 2024-02-28T08:27:43Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991) | no description | 2023-11-28T00:38:43Z|
 | [CVE-2023-41991](https://www.cve.org/CVERecord?id=CVE-2023-41991) | [Zenyith/CVE-2023-41991](https://github.com/Zenyith/CVE-2023-41991) | no description | 2023-11-28T23:59:40Z|
 | [CVE-2023-41892](https://www.cve.org/CVERecord?id=CVE-2023-41892) | [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892) | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | 2023-10-06T01:40:34Z|
@@ -2306,6 +2311,7 @@
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388) | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | 2022-10-25T12:29:54Z|
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388) | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | 2022-05-12T16:54:52Z|
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z|
+| [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z|
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z|
 | [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z|
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z|
