@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-27 01:49:48.620481
+ Last generated : 2024-04-28 01:57:07.907604
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -53,6 +53,11 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [weltregie/liblzma-scan](https://github.com/weltregie/liblzma-scan) | Scans liblzma from xu-utils for backdoor (CVE-2024-3094) | 2024-04-04T11:29:41Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30659](https://www.cve.org/CVERecord?id=CVE-2024-30659) | [yashpatelphd/CVE-2024-30659](https://github.com/yashpatelphd/CVE-2024-30659) | Shell Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:23:02Z|
+| [CVE-2024-30658](https://www.cve.org/CVERecord?id=CVE-2024-30658) | [yashpatelphd/CVE-2024-30658](https://github.com/yashpatelphd/CVE-2024-30658) | Denial-of-Service (DoS) Vulnerability in ROS Melodic Morenia | 2024-04-05T05:17:00Z|
+| [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657) | Unauthorized Node Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:07:42Z|
+| [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor) | An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool. | 2024-04-05T01:44:26Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -812,6 +817,7 @@
 | [CVE-2023-43786](https://www.cve.org/CVERecord?id=CVE-2023-43786) | [actuator/com.altamirano.fabricio.tvbrowser](https://github.com/actuator/com.altamirano.fabricio.tvbrowser) | CVE-2023-47883 | 2023-09-17T21:01:22Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC) | PoC for Stored XSS (CVE-2023-43770) Vulnerability | 2023-09-28T13:43:25Z|
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC) | A Proof-Of-Concept for the CVE-2023-43770 vulnerability. | 2023-09-27T17:08:23Z|
+| [CVE-2023-43757](https://www.cve.org/CVERecord?id=CVE-2023-43757) | [sharmashreejaa/CVE-2023-43757](https://github.com/sharmashreejaa/CVE-2023-43757) | no description | 2024-02-28T08:58:31Z|
 | [CVE-2023-43654](https://www.cve.org/CVERecord?id=CVE-2023-43654) | [OligoCyberSecurity/ShellTorchChecker](https://github.com/OligoCyberSecurity/ShellTorchChecker) | A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654 | 2023-10-02T11:33:37Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | 2023-11-17T10:32:31Z|
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [passwa11/CVE-2023-4357-APT-Style-exploitation](https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation) | no description | 2023-11-21T05:39:15Z|
@@ -956,6 +962,7 @@
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z|
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z|
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z|
+| [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000) | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | 2024-02-28T19:36:40Z|
 | [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z|
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z|
 | [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z|
@@ -1186,6 +1193,7 @@
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z|
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z|
 | [CVE-2023-36427](https://www.cve.org/CVERecord?id=CVE-2023-36427) | [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) | Report and exploit of CVE-2023-36427 | 2023-10-09T16:55:18Z|
+| [CVE-2023-36407](https://www.cve.org/CVERecord?id=CVE-2023-36407) | [zha0/CVE-2023-36407](https://github.com/zha0/CVE-2023-36407) | no description | 2024-03-09T06:10:53Z|
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z|
 | [CVE-2023-36319](https://www.cve.org/CVERecord?id=CVE-2023-36319) | [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319) | exp4CVE-2023-36319 | 2023-09-19T08:17:21Z|
 | [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281) | PoC of CVE-2023-36281 | 2023-08-31T21:31:43Z|
@@ -2545,6 +2553,7 @@
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher) | PoC for CVE-2021-31166 and CVE-2022-21907 | 2022-11-22T09:10:36Z|
 | [CVE-2021-32305](https://www.cve.org/CVERecord?id=CVE-2021-32305) | [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305) | no description | 2023-02-27T05:38:27Z|
 | [CVE-2021-31956](https://www.cve.org/CVERecord?id=CVE-2021-31956) | [hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC) | no description | 2023-06-05T00:03:10Z|
+| [CVE-2021-31805](https://www.cve.org/CVERecord?id=CVE-2021-31805) | [nth347/CVE-2021-31805](https://github.com/nth347/CVE-2021-31805) | Vulnerable environment of CVE-2021-31805 (S2-062) for testing | 2023-08-04T03:42:37Z|
 | [CVE-2021-31800](https://www.cve.org/CVERecord?id=CVE-2021-31800) | [p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write](https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write) | A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server. | 2022-08-28T19:04:46Z|
 | [CVE-2021-31800](https://www.cve.org/CVERecord?id=CVE-2021-31800) | [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) | A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE | 2021-07-05T20:13:49Z|
 | [CVE-2021-3166](https://www.cve.org/CVERecord?id=CVE-2021-3166) | [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166) | Mastering CVE-2021-3166 | 2022-11-18T18:28:57Z|
