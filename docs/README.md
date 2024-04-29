@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-28 01:57:07.907604
+ Last generated : 2024-04-29 01:53:44.373379
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,8 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30662](https://www.cve.org/CVERecord?id=CVE-2024-30662) | [yashpatelphd/CVE-2024-30662](https://github.com/yashpatelphd/CVE-2024-30662) | Information Leakage in ROS Melodic Morenia via Plaintext Message Transmission | 2024-04-05T05:36:29Z|
+| [CVE-2024-30661](https://www.cve.org/CVERecord?id=CVE-2024-30661) | [yashpatelphd/CVE-2024-30661](https://github.com/yashpatelphd/CVE-2024-30661) | Unauthorized Information Access Vulnerability in ROS Melodic Morenia | 2024-04-05T05:32:35Z|
 | [CVE-2024-30659](https://www.cve.org/CVERecord?id=CVE-2024-30659) | [yashpatelphd/CVE-2024-30659](https://github.com/yashpatelphd/CVE-2024-30659) | Shell Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:23:02Z|
 | [CVE-2024-30658](https://www.cve.org/CVERecord?id=CVE-2024-30658) | [yashpatelphd/CVE-2024-30658](https://github.com/yashpatelphd/CVE-2024-30658) | Denial-of-Service (DoS) Vulnerability in ROS Melodic Morenia | 2024-04-05T05:17:00Z|
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657) | Unauthorized Node Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:07:42Z|
@@ -1963,6 +1965,7 @@
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) | CVE-2023-0386在ubuntu22.04上的提权 | 2023-05-05T03:02:13Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [puckiestyle/CVE-2023-0386](https://github.com/puckiestyle/CVE-2023-0386) | no description | 2023-12-23T11:01:55Z|
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [actuator/com.tcl.browser](https://github.com/actuator/com.tcl.browser) | CVE-2023-43481 | 2023-09-13T02:03:34Z|
+| [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386) | no description | 2024-02-29T06:22:50Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z|
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z|
@@ -2236,6 +2239,7 @@
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC) | CVE-2022-22965 (Spring4Shell) Proof of Concept | 2022-04-04T13:44:39Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z|
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sohamsharma966/Spring4Shell-CVE-2022-22965](https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965) | no description | 2023-09-02T10:41:05Z|
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [cxzero/CVE-2022-22965-spring4shell](https://github.com/cxzero/CVE-2022-22965-spring4shell) | CVE-2022-22965 Spring4Shell research &amp; PoC | 2022-05-19T23:16:40Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z|
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z|
@@ -2436,6 +2440,8 @@
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z|
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits) | Exploit CVE-2021-41773 and CVE-2021-42013 | 2023-08-02T09:50:10Z|
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z|
+| [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [K3ysTr0K3R/CVE-2021-4191-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT) | A PoC exploit for CVE-2021-4191 - GitLab User Enumeration. | 2023-07-22T21:06:51Z|
+| [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [firefart/hivenightmare](https://github.com/firefart/hivenightmare) | Exploit for HiveNightmare - CVE-2021–36934 | 2021-07-23T06:36:08Z|
 | [CVE-2021-41805](https://www.cve.org/CVERecord?id=CVE-2021-41805) | [nelsondurairaj/CVE-2021-41805](https://github.com/nelsondurairaj/CVE-2021-41805) | HashiCorp Consul exploit with python. (CVE-2021-41805) | 2022-12-07T10:50:17Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT) | Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution. | 2023-05-06T17:46:29Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [aqiao-jashell/CVE-2021-41773](https://github.com/aqiao-jashell/CVE-2021-41773) | apache路径穿越漏洞poc&amp;exp | 2022-11-01T05:58:59Z|
@@ -2623,6 +2629,7 @@
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [smadi0x86/CVE-2021-26084](https://github.com/smadi0x86/CVE-2021-26084) | Confluence server webwork OGNL injection | 2021-09-05T09:27:55Z|
 | [CVE-2021-25641](https://www.cve.org/CVERecord?id=CVE-2021-25641) | [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641) | A Exploit Tool For CVE-2021-25641. | 2022-11-10T06:33:54Z|
 | [CVE-2021-25253](https://www.cve.org/CVERecord?id=CVE-2021-25253) | [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253) | no description | 2023-05-12T20:51:50Z|
+| [CVE-2021-25032](https://www.cve.org/CVERecord?id=CVE-2021-25032) | [RandomRobbieBF/CVE-2021-25032](https://github.com/RandomRobbieBF/CVE-2021-25032) | PublishPress Capabilities &lt; 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | 2023-08-09T10:41:07Z|
 | [CVE-2021-24741](https://www.cve.org/CVERecord?id=CVE-2021-24741) | [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741) | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | 2021-08-28T18:34:40Z|
 | [CVE-2021-24647](https://www.cve.org/CVERecord?id=CVE-2021-24647) | [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647) | CVE-2021-24647 Pie Register &lt; 3.7.1.6 - Unauthenticated Arbitrary Login | 2023-06-15T09:51:36Z|
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z|
