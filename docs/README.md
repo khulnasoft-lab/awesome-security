@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-29 01:53:44.373379
+ Last generated : 2024-04-30 01:51:53.756314
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,7 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30663](https://www.cve.org/CVERecord?id=CVE-2024-30663) | [yashpatelphd/CVE-2024-30663](https://github.com/yashpatelphd/CVE-2024-30663) | Security Misconfiguration in ROS Melodic Morenia | 2024-04-05T05:39:58Z|
 | [CVE-2024-30662](https://www.cve.org/CVERecord?id=CVE-2024-30662) | [yashpatelphd/CVE-2024-30662](https://github.com/yashpatelphd/CVE-2024-30662) | Information Leakage in ROS Melodic Morenia via Plaintext Message Transmission | 2024-04-05T05:36:29Z|
 | [CVE-2024-30661](https://www.cve.org/CVERecord?id=CVE-2024-30661) | [yashpatelphd/CVE-2024-30661](https://github.com/yashpatelphd/CVE-2024-30661) | Unauthorized Information Access Vulnerability in ROS Melodic Morenia | 2024-04-05T05:32:35Z|
 | [CVE-2024-30659](https://www.cve.org/CVERecord?id=CVE-2024-30659) | [yashpatelphd/CVE-2024-30659](https://github.com/yashpatelphd/CVE-2024-30659) | Shell Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:23:02Z|
@@ -5103,3 +5104,4 @@
 | CVE NOT FOUND | [keru6k/Online-Admission-System-RCE-PoC](https://github.com/keru6k/Online-Admission-System-RCE-PoC) | projectworlds&#x27; Online Admission System RCE vulnerability PoC, Categorized as CVE-2024-0783 | 2024-01-21T13:26:09Z|
 | CVE NOT FOUND | [Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) | Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入 | 2024-01-26T13:11:21Z|
 | CVE NOT FOUND | [CpyRe/I-Find-CVE-2024](https://github.com/CpyRe/I-Find-CVE-2024) | CVE | 2024-01-30T08:45:47Z|
+| CVE NOT FOUND | [LI-Jialu/CVerify_Fintech-Olympiad-2022](https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022) | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | 2022-05-27T13:13:06Z|
