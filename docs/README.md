@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-04-30 01:51:53.756314
+ Last generated : 2024-05-01 01:56:49.271268
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,9 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30667](https://www.cve.org/CVERecord?id=CVE-2024-30667) | [yashpatelphd/CVE-2024-30667](https://github.com/yashpatelphd/CVE-2024-30667) | Insecure Deserialization Vulnerability in ROS Melodic Morenia | 2024-04-05T05:53:01Z|
+| [CVE-2024-30666](https://www.cve.org/CVERecord?id=CVE-2024-30666) | [yashpatelphd/CVE-2024-30666](https://github.com/yashpatelphd/CVE-2024-30666) | Buffer Overflow Vulnerability in ROS Melodic Morenia | 2024-04-05T05:49:12Z|
+| [CVE-2024-30665](https://www.cve.org/CVERecord?id=CVE-2024-30665) | [yashpatelphd/CVE-2024-30665](https://github.com/yashpatelphd/CVE-2024-30665) | OS Command Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:45:12Z|
 | [CVE-2024-30663](https://www.cve.org/CVERecord?id=CVE-2024-30663) | [yashpatelphd/CVE-2024-30663](https://github.com/yashpatelphd/CVE-2024-30663) | Security Misconfiguration in ROS Melodic Morenia | 2024-04-05T05:39:58Z|
 | [CVE-2024-30662](https://www.cve.org/CVERecord?id=CVE-2024-30662) | [yashpatelphd/CVE-2024-30662](https://github.com/yashpatelphd/CVE-2024-30662) | Information Leakage in ROS Melodic Morenia via Plaintext Message Transmission | 2024-04-05T05:36:29Z|
 | [CVE-2024-30661](https://www.cve.org/CVERecord?id=CVE-2024-30661) | [yashpatelphd/CVE-2024-30661](https://github.com/yashpatelphd/CVE-2024-30661) | Unauthorized Information Access Vulnerability in ROS Melodic Morenia | 2024-04-05T05:32:35Z|
