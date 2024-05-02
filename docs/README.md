@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-01 01:56:49.271268
+ Last generated : 2024-05-02 01:51:47.317813
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,11 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30678](https://www.cve.org/CVERecord?id=CVE-2024-30678) | [yashpatelphd/CVE-2024-30678](https://github.com/yashpatelphd/CVE-2024-30678) | Information Leakage in ROS2 Iron Irwini via Plaintext Message Transmission | 2024-04-05T06:29:53Z|
+| [CVE-2024-30676](https://www.cve.org/CVERecord?id=CVE-2024-30676) | [yashpatelphd/CVE-2024-30676](https://github.com/yashpatelphd/CVE-2024-30676) | Denial-of-Service (DoS) Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:24:24Z|
+| [CVE-2024-30675](https://www.cve.org/CVERecord?id=CVE-2024-30675) | [yashpatelphd/CVE-2024-30675](https://github.com/yashpatelphd/CVE-2024-30675) | Unauthorized Node Injection Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:21:37Z|
+| [CVE-2024-30674](https://www.cve.org/CVERecord?id=CVE-2024-30674) | [yashpatelphd/CVE-2024-30674](https://github.com/yashpatelphd/CVE-2024-30674) | Unauthorized Information Access Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:17:48Z|
+| [CVE-2024-30672](https://www.cve.org/CVERecord?id=CVE-2024-30672) | [yashpatelphd/CVE-2024-30672](https://github.com/yashpatelphd/CVE-2024-30672) | Arbitrary File Upload Vulnerability in ROS Melodic Morenia | 2024-04-05T06:07:36Z|
 | [CVE-2024-30667](https://www.cve.org/CVERecord?id=CVE-2024-30667) | [yashpatelphd/CVE-2024-30667](https://github.com/yashpatelphd/CVE-2024-30667) | Insecure Deserialization Vulnerability in ROS Melodic Morenia | 2024-04-05T05:53:01Z|
 | [CVE-2024-30666](https://www.cve.org/CVERecord?id=CVE-2024-30666) | [yashpatelphd/CVE-2024-30666](https://github.com/yashpatelphd/CVE-2024-30666) | Buffer Overflow Vulnerability in ROS Melodic Morenia | 2024-04-05T05:49:12Z|
 | [CVE-2024-30665](https://www.cve.org/CVERecord?id=CVE-2024-30665) | [yashpatelphd/CVE-2024-30665](https://github.com/yashpatelphd/CVE-2024-30665) | OS Command Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:45:12Z|
@@ -517,6 +522,7 @@
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z|
 | [CVE-2023-5043](https://www.cve.org/CVERecord?id=CVE-2023-5043) | [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043) | PoC CVE-2023-5043 | 2024-01-15T09:20:35Z|
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387) | KeyTrap (DNSSEC) | 2024-02-18T21:50:04Z|
+| [CVE-2023-50386](https://www.cve.org/CVERecord?id=CVE-2023-50386) | [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC) | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | 2024-02-29T08:57:47Z|
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z|
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164) | A scanning utility and PoC for CVE-2023-50164 | 2023-12-15T21:19:51Z|
@@ -643,6 +649,7 @@
 | [CVE-2023-48197](https://www.cve.org/CVERecord?id=CVE-2023-48197) | [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197) | no description | 2023-11-14T16:34:21Z|
 | [CVE-2023-48123](https://www.cve.org/CVERecord?id=CVE-2023-48123) | [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123) | CVE-2023-54436 Exp | 2023-11-17T02:56:26Z|
 | [CVE-2023-48104](https://www.cve.org/CVERecord?id=CVE-2023-48104) | [E1tex/CVE-2023-48104](https://github.com/E1tex/CVE-2023-48104) | HTML Injection in Alinto/SOGo Web Client | 2024-01-10T15:49:48Z|
+| [CVE-2023-48084](https://www.cve.org/CVERecord?id=CVE-2023-48084) | [Hamibubu/CVE-2023-48084](https://github.com/Hamibubu/CVE-2023-48084) | Python program to dump all the databases, exploiting NagiosXI sqli vulnerability | 2024-03-01T04:06:15Z|
 | [CVE-2023-48034](https://www.cve.org/CVERecord?id=CVE-2023-48034) | [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034) | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | 2023-11-20T16:04:24Z|
 | [CVE-2023-48031](https://www.cve.org/CVERecord?id=CVE-2023-48031) | [nitipoom-jar/CVE-2023-48031](https://github.com/nitipoom-jar/CVE-2023-48031) | no description | 2023-11-16T17:57:20Z|
 | [CVE-2023-48029](https://www.cve.org/CVERecord?id=CVE-2023-48029) | [nitipoom-jar/CVE-2023-48029](https://github.com/nitipoom-jar/CVE-2023-48029) | no description | 2023-11-16T18:42:12Z|
@@ -2231,6 +2238,7 @@
 | [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z|
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z|
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z|
+| [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [satyasai1460/CVE-2022-2414](https://github.com/satyasai1460/CVE-2022-2414) | CVE-2022-2414 POC | 2023-10-05T07:55:01Z|
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z|
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z|
 | [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [BurpRoot/CVE-2022-24086](https://github.com/BurpRoot/CVE-2022-24086) | CVE-2022-24086 POC example | 2023-09-03T17:27:58Z|
@@ -2361,6 +2369,7 @@
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z|
 | [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z|
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441) | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | 2023-06-02T01:53:32Z|
+| [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [kyukazamiqq/CVE-2022-0441](https://github.com/kyukazamiqq/CVE-2022-0441) | Checker for CVE-2022-0441 | 2023-10-03T07:07:40Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [RandomRobbieBF/CVE-2022-0439](https://github.com/RandomRobbieBF/CVE-2022-0439) | CVE-2022-0439 - Email Subscribers &amp; Newsletters &lt; 5.3.2 - Subscriber+ Blind SQL injection | 2023-06-08T21:20:22Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [c0derpwner/HTB-pwned](https://github.com/c0derpwner/HTB-pwned) | CVE-2022-24637 | 2023-05-02T08:48:35Z|
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [GrandNabil/testpdfkit](https://github.com/GrandNabil/testpdfkit) | Test de vulnérabilité du CVE 2022–25765 : pdfkit v0.8.7.2 - Command Injection | 2023-06-07T09:58:49Z|
