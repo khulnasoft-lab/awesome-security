@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-02 01:51:47.317813
+ Last generated : 2024-05-03 01:54:47.703008
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -859,6 +859,7 @@
 | [CVE-2023-43326](https://www.cve.org/CVERecord?id=CVE-2023-43326) | [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326) | mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs. | 2023-09-19T03:38:25Z|
 | [CVE-2023-43325](https://www.cve.org/CVERecord?id=CVE-2023-43325) | [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325) | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | 2023-09-16T01:05:16Z|
 | [CVE-2023-43323](https://www.cve.org/CVERecord?id=CVE-2023-43323) | [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323) | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | 2023-09-16T01:28:58Z|
+| [CVE-2023-43318](https://www.cve.org/CVERecord?id=CVE-2023-43318) | [str2ver/CVE-2023-43318](https://github.com/str2ver/CVE-2023-43318) | JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318 | 2024-03-01T11:35:47Z|
 | [CVE-2023-43317](https://www.cve.org/CVERecord?id=CVE-2023-43317) | [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317) | Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317) | 2024-01-23T07:27:30Z|
 | [CVE-2023-43284](https://www.cve.org/CVERecord?id=CVE-2023-43284) | [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284) | DLink DIR-846 Authenticated Remote Code Execution | 2023-10-04T13:07:37Z|
 | [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z|
@@ -2094,6 +2095,7 @@
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [gokul-ramesh/Spring4Shell-PoC-exploit](https://github.com/gokul-ramesh/Spring4Shell-PoC-exploit) | Demonstrable Proof of Concept Exploit for Spring4Shell Vulnerability (CVE-2022-22965) | 2023-03-12T17:37:51Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [Sic4rio/CVE-2022-42889](https://github.com/Sic4rio/CVE-2022-42889) | Text4Shell | 2023-09-06T01:13:26Z|
 | [CVE-2022-42889](https://www.cve.org/CVERecord?id=CVE-2022-42889) | [34006133/CVE-2022-42889](https://github.com/34006133/CVE-2022-42889) | RCE PoC for Apache Commons Text vuln | 2023-09-09T12:11:36Z|
+| [CVE-2022-42703](https://www.cve.org/CVERecord?id=CVE-2022-42703) | [Satheesh575555/linux-4.1.15_CVE-2022-42703](https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-42703) | no description | 2023-10-06T06:18:32Z|
 | [CVE-2022-4262](https://www.cve.org/CVERecord?id=CVE-2022-4262) | [bjrjk/CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) | Root Cause Analysis of CVE-2022-4262. | 2023-07-13T13:17:20Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475) | An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products | 2023-06-21T21:22:35Z|
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [bryanster/ioc-cve-2022-42475](https://github.com/bryanster/ioc-cve-2022-42475) | test for the ioc described for FG-IR-22-398 | 2023-01-17T20:11:04Z|
@@ -2476,6 +2478,7 @@
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns) | [ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains. | 2021-04-14T11:12:30Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits) | Exploits of different CVE IDs (CVE-2021-37910, CVE-2021-40288, CVE-2021-41435, CVE-2021-41436, CVE-2021-41437, CVE-2021-41441, CVE-2021-41442, CVE-2021-41445, CVE-2021-41449, CVE-2021-41450, CVE-2021-41451, CVE-2021-41753, CVE-2021-41788, CVE-2021-46353, CVE-2022-41540, CVE-2022-41541) | 2022-05-27T21:09:03Z|
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation) | This repository contains a script that you can run on your (windows) machine to mitigate CVE-2021-44228 | 2021-12-13T08:46:41Z|
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [belajarqywok/CVE-2021-41773-MSF](https://github.com/belajarqywok/CVE-2021-41773-MSF) | Simple Metasploit-Framework module for conducting website penetration tests (CVE-2021-41773). | 2023-08-11T12:12:09Z|
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z|
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z|
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z|
@@ -2550,6 +2553,7 @@
 | [CVE-2021-34824](https://www.cve.org/CVERecord?id=CVE-2021-34824) | [pyhrr0/pwnkit](https://github.com/pyhrr0/pwnkit) | CVE-2021-4034 PoC | 2023-01-04T15:15:31Z|
 | [CVE-2021-34767](https://www.cve.org/CVERecord?id=CVE-2021-34767) | [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767) | Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability | 2022-12-20T18:53:00Z|
 | [CVE-2021-34767](https://www.cve.org/CVERecord?id=CVE-2021-34767) | [tahaafarooq/poppy](https://github.com/tahaafarooq/poppy) | CVE-2021-4034 PoC , polkit &lt; 0.131 | 2022-01-27T14:29:55Z|
+| [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [RandomRobbieBF/CVE-2021-34621](https://github.com/RandomRobbieBF/CVE-2021-34621) | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | 2023-08-09T11:41:56Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [fardinbarashi/PsFix-CVE-2021-34527](https://github.com/fardinbarashi/PsFix-CVE-2021-34527) | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | 2023-04-07T20:14:31Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) | A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability. | 2021-12-14T06:37:59Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [m8sec/CVE-2021-34527](https://github.com/m8sec/CVE-2021-34527) | PrintNightmare (CVE-2021-34527) PoC Exploit | 2022-08-23T20:20:45Z|
@@ -2645,6 +2649,7 @@
 | [CVE-2021-25032](https://www.cve.org/CVERecord?id=CVE-2021-25032) | [RandomRobbieBF/CVE-2021-25032](https://github.com/RandomRobbieBF/CVE-2021-25032) | PublishPress Capabilities &lt; 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | 2023-08-09T10:41:07Z|
 | [CVE-2021-24741](https://www.cve.org/CVERecord?id=CVE-2021-24741) | [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741) | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | 2021-08-28T18:34:40Z|
 | [CVE-2021-24647](https://www.cve.org/CVERecord?id=CVE-2021-24647) | [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647) | CVE-2021-24647 Pie Register &lt; 3.7.1.6 - Unauthenticated Arbitrary Login | 2023-06-15T09:51:36Z|
+| [CVE-2021-24356](https://www.cve.org/CVERecord?id=CVE-2021-24356) | [RandomRobbieBF/CVE-2021-24356](https://github.com/RandomRobbieBF/CVE-2021-24356) | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | 2023-08-09T18:24:19Z|
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z|
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC) | no description | 2023-07-20T05:39:01Z|
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [NagendraPittu/CVE-2021-521-Exploit](https://github.com/NagendraPittu/CVE-2021-521-Exploit) | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | 2023-07-19T17:49:46Z|
@@ -2654,6 +2659,7 @@
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [MrDottt/CVE-2021-22911](https://github.com/MrDottt/CVE-2021-22911) | no description | 2023-06-05T22:26:26Z|
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [ChrisPritchard/CVE-2021-22911-rust](https://github.com/ChrisPritchard/CVE-2021-22911-rust) | exploit for CVE-2021-22911 in rust | 2023-04-01T07:19:54Z|
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [aydianosec/CVE2021-40444](https://github.com/aydianosec/CVE2021-40444) | no description | 2021-09-14T01:37:25Z|
+| [CVE-2021-22873](https://www.cve.org/CVERecord?id=CVE-2021-22873) | [K3ysTr0K3R/CVE-2021-22873-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT) | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | 2023-07-22T21:49:54Z|
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205) | no description | 2023-03-09T11:53:37Z|
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [hhhotdrink/CVE-2021-22205](https://github.com/hhhotdrink/CVE-2021-22205) | no description | 2023-02-27T07:42:12Z|
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-10-29T04:30:45Z|
