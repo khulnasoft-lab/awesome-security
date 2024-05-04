@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-03 01:54:47.703008
+ Last generated : 2024-05-04 01:50:18.050874
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,16 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30691](https://www.cve.org/CVERecord?id=CVE-2024-30691) | [yashpatelphd/CVE-2024-30691](https://github.com/yashpatelphd/CVE-2024-30691) | Unauthorized Access Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:18:11Z|
+| [CVE-2024-30690](https://www.cve.org/CVERecord?id=CVE-2024-30690) | [yashpatelphd/CVE-2024-30690](https://github.com/yashpatelphd/CVE-2024-30690) | Unauthorized Node Injection Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:13:52Z|
+| [CVE-2024-30688](https://www.cve.org/CVERecord?id=CVE-2024-30688) | [yashpatelphd/CVE-2024-30688](https://github.com/yashpatelphd/CVE-2024-30688) | Arbitrary File Upload Vulnerability in ROS2 Iron Irwini | 2024-04-05T07:07:24Z|
+| [CVE-2024-30687](https://www.cve.org/CVERecord?id=CVE-2024-30687) | [yashpatelphd/CVE-2024-30687](https://github.com/yashpatelphd/CVE-2024-30687) | Insecure Deserialization Vulnerability in ROS2 Iron Irwini | 2024-04-05T07:04:36Z|
+| [CVE-2024-30686](https://www.cve.org/CVERecord?id=CVE-2024-30686) | [yashpatelphd/CVE-2024-30686](https://github.com/yashpatelphd/CVE-2024-30686) | Remote Command Execution Vulnerability in ROS2 Iron Irwini | 2024-04-05T07:00:40Z|
+| [CVE-2024-30684](https://www.cve.org/CVERecord?id=CVE-2024-30684) | [yashpatelphd/CVE-2024-30684](https://github.com/yashpatelphd/CVE-2024-30684) | Insecure Logging Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:48:46Z|
+| [CVE-2024-30683](https://www.cve.org/CVERecord?id=CVE-2024-30683) | [yashpatelphd/CVE-2024-30683](https://github.com/yashpatelphd/CVE-2024-30683) | Buffer Overflow Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:45:50Z|
+| [CVE-2024-30681](https://www.cve.org/CVERecord?id=CVE-2024-30681) | [yashpatelphd/CVE-2024-30681](https://github.com/yashpatelphd/CVE-2024-30681) | OS Command Injection Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:39:18Z|
+| [CVE-2024-30680](https://www.cve.org/CVERecord?id=CVE-2024-30680) | [yashpatelphd/CVE-2024-30680](https://github.com/yashpatelphd/CVE-2024-30680) | Shell Injection Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:36:11Z|
+| [CVE-2024-30679](https://www.cve.org/CVERecord?id=CVE-2024-30679) | [yashpatelphd/CVE-2024-30679](https://github.com/yashpatelphd/CVE-2024-30679) | Security Misconfiguration in ROS2 Iron Irwini | 2024-04-05T06:33:28Z|
 | [CVE-2024-30678](https://www.cve.org/CVERecord?id=CVE-2024-30678) | [yashpatelphd/CVE-2024-30678](https://github.com/yashpatelphd/CVE-2024-30678) | Information Leakage in ROS2 Iron Irwini via Plaintext Message Transmission | 2024-04-05T06:29:53Z|
 | [CVE-2024-30676](https://www.cve.org/CVERecord?id=CVE-2024-30676) | [yashpatelphd/CVE-2024-30676](https://github.com/yashpatelphd/CVE-2024-30676) | Denial-of-Service (DoS) Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:24:24Z|
 | [CVE-2024-30675](https://www.cve.org/CVERecord?id=CVE-2024-30675) | [yashpatelphd/CVE-2024-30675](https://github.com/yashpatelphd/CVE-2024-30675) | Unauthorized Node Injection Vulnerability in ROS2 Iron Irwini | 2024-04-05T06:21:37Z|
