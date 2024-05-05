@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-04 01:50:18.050874
+ Last generated : 2024-05-05 01:55:52.939325
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,13 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30701](https://www.cve.org/CVERecord?id=CVE-2024-30701) | [yashpatelphd/CVE-2024-30701](https://github.com/yashpatelphd/CVE-2024-30701) | Insecure Logging Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:44:57Z|
+| [CVE-2024-30699](https://www.cve.org/CVERecord?id=CVE-2024-30699) | [yashpatelphd/CVE-2024-30699](https://github.com/yashpatelphd/CVE-2024-30699) | Buffer Overflow Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:40:30Z|
+| [CVE-2024-30697](https://www.cve.org/CVERecord?id=CVE-2024-30697) | [yashpatelphd/CVE-2024-30697](https://github.com/yashpatelphd/CVE-2024-30697) | Information Leakage in ROS2 Galactic Geochelone via Plaintext Message Transmission | 2024-04-05T07:34:53Z|
+| [CVE-2024-30696](https://www.cve.org/CVERecord?id=CVE-2024-30696) | [yashpatelphd/CVE-2024-30696](https://github.com/yashpatelphd/CVE-2024-30696) | OS Command Injection Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:32:26Z|
+| [CVE-2024-30695](https://www.cve.org/CVERecord?id=CVE-2024-30695) | [yashpatelphd/CVE-2024-30695](https://github.com/yashpatelphd/CVE-2024-30695) | Security Misconfiguration in ROS2 Galactic Geochelone | 2024-04-05T07:29:59Z|
+| [CVE-2024-30694](https://www.cve.org/CVERecord?id=CVE-2024-30694) | [yashpatelphd/CVE-2024-30694](https://github.com/yashpatelphd/CVE-2024-30694) | Shell Injection Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:26:05Z|
+| [CVE-2024-30692](https://www.cve.org/CVERecord?id=CVE-2024-30692) | [yashpatelphd/CVE-2024-30692](https://github.com/yashpatelphd/CVE-2024-30692) | Denial-of-Service (DoS) Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:21:20Z|
 | [CVE-2024-30691](https://www.cve.org/CVERecord?id=CVE-2024-30691) | [yashpatelphd/CVE-2024-30691](https://github.com/yashpatelphd/CVE-2024-30691) | Unauthorized Access Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:18:11Z|
 | [CVE-2024-30690](https://www.cve.org/CVERecord?id=CVE-2024-30690) | [yashpatelphd/CVE-2024-30690](https://github.com/yashpatelphd/CVE-2024-30690) | Unauthorized Node Injection Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:13:52Z|
 | [CVE-2024-30688](https://www.cve.org/CVERecord?id=CVE-2024-30688) | [yashpatelphd/CVE-2024-30688](https://github.com/yashpatelphd/CVE-2024-30688) | Arbitrary File Upload Vulnerability in ROS2 Iron Irwini | 2024-04-05T07:07:24Z|
@@ -997,6 +1004,7 @@
 | [CVE-2023-39708](https://www.cve.org/CVERecord?id=CVE-2023-39708) | [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708) | no description | 2023-08-19T19:02:23Z|
 | [CVE-2023-39707](https://www.cve.org/CVERecord?id=CVE-2023-39707) | [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707) | no description | 2023-08-19T17:35:39Z|
 | [CVE-2023-39539](https://www.cve.org/CVERecord?id=CVE-2023-39539) | [AdamWen230/CVE-2023-39539-PoC](https://github.com/AdamWen230/CVE-2023-39539-PoC) | PoC for CVE-2023-39539 in Cacti 1.2.22 | 2023-11-15T21:39:54Z|
+| [CVE-2023-39362](https://www.cve.org/CVERecord?id=CVE-2023-39362) | [jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc](https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc) | no description | 2024-02-28T16:07:37Z|
 | [CVE-2023-39320](https://www.cve.org/CVERecord?id=CVE-2023-39320) | [ayrustogaru/cve-2023-39320](https://github.com/ayrustogaru/cve-2023-39320) | no description | 2024-02-24T08:27:57Z|
 | [CVE-2023-39144](https://www.cve.org/CVERecord?id=CVE-2023-39144) | [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144) | Vulnerability in Element55 Maketime | 2023-07-27T18:32:16Z|
 | [CVE-2023-39143](https://www.cve.org/CVERecord?id=CVE-2023-39143) | [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143) | CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT) | 2023-08-17T02:57:48Z|
