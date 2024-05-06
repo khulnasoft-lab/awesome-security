@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-05 01:55:52.939325
+ Last generated : 2024-05-06 01:54:54.779512
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,11 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30707](https://www.cve.org/CVERecord?id=CVE-2024-30707) | [yashpatelphd/CVE-2024-30707](https://github.com/yashpatelphd/CVE-2024-30707) | Unauthorized Node Injection Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:31:34Z|
+| [CVE-2024-30706](https://www.cve.org/CVERecord?id=CVE-2024-30706) | [yashpatelphd/CVE-2024-30706](https://github.com/yashpatelphd/CVE-2024-30706) | Unauthorized Access Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:28:29Z|
+| [CVE-2024-30704](https://www.cve.org/CVERecord?id=CVE-2024-30704) | [yashpatelphd/CVE-2024-30704](https://github.com/yashpatelphd/CVE-2024-30704) | Insecure Deserialization Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:53:14Z|
+| [CVE-2024-30703](https://www.cve.org/CVERecord?id=CVE-2024-30703) | [yashpatelphd/CVE-2024-30703](https://github.com/yashpatelphd/CVE-2024-30703) | Arbitrary File Upload Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:50:36Z|
+| [CVE-2024-30702](https://www.cve.org/CVERecord?id=CVE-2024-30702) | [yashpatelphd/CVE-2024-30702](https://github.com/yashpatelphd/CVE-2024-30702) | Remote Command Execution Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:47:50Z|
 | [CVE-2024-30701](https://www.cve.org/CVERecord?id=CVE-2024-30701) | [yashpatelphd/CVE-2024-30701](https://github.com/yashpatelphd/CVE-2024-30701) | Insecure Logging Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:44:57Z|
 | [CVE-2024-30699](https://www.cve.org/CVERecord?id=CVE-2024-30699) | [yashpatelphd/CVE-2024-30699](https://github.com/yashpatelphd/CVE-2024-30699) | Buffer Overflow Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:40:30Z|
 | [CVE-2024-30697](https://www.cve.org/CVERecord?id=CVE-2024-30697) | [yashpatelphd/CVE-2024-30697](https://github.com/yashpatelphd/CVE-2024-30697) | Information Leakage in ROS2 Galactic Geochelone via Plaintext Message Transmission | 2024-04-05T07:34:53Z|
@@ -1446,6 +1451,7 @@
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts) | Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher | 2023-08-04T18:28:52Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629) | GameOver(lay) Ubuntu Privilege Escalation | 2023-10-09T22:02:42Z|
 | [CVE-2023-32629](https://www.cve.org/CVERecord?id=CVE-2023-32629) | [vinetsuicide/CVE-2023-2640-CVE-2023-32629](https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629) | no description | 2023-11-02T20:19:57Z|
+| [CVE-2023-3262](https://www.cve.org/CVERecord?id=CVE-2023-3262) | [SanjayRagavendar/Ubuntu-GameOver-Lay](https://github.com/SanjayRagavendar/Ubuntu-GameOver-Lay) | Escalating Privilege using CVE-2023-2640 CVE-2023-3262 | 2024-02-29T16:04:58Z|
 | [CVE-2023-32571](https://www.cve.org/CVERecord?id=CVE-2023-32571) | [Tris0n/CVE-2023-32571-POC](https://github.com/Tris0n/CVE-2023-32571-POC) | no description | 2023-11-18T04:35:37Z|
 | [CVE-2023-32571](https://www.cve.org/CVERecord?id=CVE-2023-32571) | [vert16x/CVE-2023-32571-POC](https://github.com/vert16x/CVE-2023-32571-POC) | no description | 2023-11-18T06:12:12Z|
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z|
