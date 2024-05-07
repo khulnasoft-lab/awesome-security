@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-06 01:54:54.779512
+ Last generated : 2024-05-07 01:54:59.926467
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,15 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-30719](https://www.cve.org/CVERecord?id=CVE-2024-30719) | [yashpatelphd/CVE-2024-30719](https://github.com/yashpatelphd/CVE-2024-30719) | Insecure Deserialization Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:13:48Z|
+| [CVE-2024-30718](https://www.cve.org/CVERecord?id=CVE-2024-30718) | [yashpatelphd/CVE-2024-30718](https://github.com/yashpatelphd/CVE-2024-30718) | Remote Command Execution Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:10:33Z|
+| [CVE-2024-30716](https://www.cve.org/CVERecord?id=CVE-2024-30716) | [yashpatelphd/CVE-2024-30716](https://github.com/yashpatelphd/CVE-2024-30716) | Insecure Logging Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:03:00Z|
+| [CVE-2024-30715](https://www.cve.org/CVERecord?id=CVE-2024-30715) | [yashpatelphd/CVE-2024-30715](https://github.com/yashpatelphd/CVE-2024-30715) | Buffer Overflow Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:00:47Z|
+| [CVE-2024-30713](https://www.cve.org/CVERecord?id=CVE-2024-30713) | [yashpatelphd/CVE-2024-30713](https://github.com/yashpatelphd/CVE-2024-30713) | OS Command Injection Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:55:12Z|
+| [CVE-2024-30712](https://www.cve.org/CVERecord?id=CVE-2024-30712) | [yashpatelphd/CVE-2024-30712](https://github.com/yashpatelphd/CVE-2024-30712) | Shell Injection Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:51:04Z|
+| [CVE-2024-30711](https://www.cve.org/CVERecord?id=CVE-2024-30711) | [yashpatelphd/CVE-2024-30711](https://github.com/yashpatelphd/CVE-2024-30711) | Security Misconfiguration in ROS2 Dashing Diademata | 2024-04-05T08:47:00Z|
+| [CVE-2024-30710](https://www.cve.org/CVERecord?id=CVE-2024-30710) | [yashpatelphd/CVE-2024-30710](https://github.com/yashpatelphd/CVE-2024-30710) | Information Leakage in ROS2 Dashing Diademata via Plaintext Message Transmission | 2024-04-05T08:44:11Z|
+| [CVE-2024-30708](https://www.cve.org/CVERecord?id=CVE-2024-30708) | [yashpatelphd/CVE-2024-30708](https://github.com/yashpatelphd/CVE-2024-30708) | Denial-of-Service (DoS) Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:35:00Z|
 | [CVE-2024-30707](https://www.cve.org/CVERecord?id=CVE-2024-30707) | [yashpatelphd/CVE-2024-30707](https://github.com/yashpatelphd/CVE-2024-30707) | Unauthorized Node Injection Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:31:34Z|
 | [CVE-2024-30706](https://www.cve.org/CVERecord?id=CVE-2024-30706) | [yashpatelphd/CVE-2024-30706](https://github.com/yashpatelphd/CVE-2024-30706) | Unauthorized Access Vulnerability in ROS2 Dashing Diademata | 2024-04-05T08:28:29Z|
 | [CVE-2024-30704](https://www.cve.org/CVERecord?id=CVE-2024-30704) | [yashpatelphd/CVE-2024-30704](https://github.com/yashpatelphd/CVE-2024-30704) | Insecure Deserialization Vulnerability in ROS2 Galactic Geochelone | 2024-04-05T07:53:14Z|
@@ -439,6 +448,7 @@
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z|
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z|
 | [CVE-2023-6654](https://www.cve.org/CVERecord?id=CVE-2023-6654) | [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654) | CVE-2023-6654 EXP | 2024-02-27T07:50:01Z|
+| [CVE-2023-6595](https://www.cve.org/CVERecord?id=CVE-2023-6595) | [sharmashreejaa/CVE-2023-6595](https://github.com/sharmashreejaa/CVE-2023-6595) | no description | 2024-03-02T07:35:29Z|
 | [CVE-2023-6567](https://www.cve.org/CVERecord?id=CVE-2023-6567) | [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc) | Time-based SQLi | 2024-01-11T05:43:31Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
@@ -1318,6 +1328,7 @@
 | [CVE-2023-34924](https://www.cve.org/CVERecord?id=CVE-2023-34924) | [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924) | no description | 2023-06-15T03:12:35Z|
 | [CVE-2023-34853](https://www.cve.org/CVERecord?id=CVE-2023-34853) | [risuxx/CVE-2023-34853](https://github.com/risuxx/CVE-2023-34853) | no description | 2023-08-16T15:13:49Z|
 | [CVE-2023-34852](https://www.cve.org/CVERecord?id=CVE-2023-34852) | [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852) | no description | 2023-06-15T01:23:08Z|
+| [CVE-2023-34845](https://www.cve.org/CVERecord?id=CVE-2023-34845) | [r4vanan/CVE-2023-34845](https://github.com/r4vanan/CVE-2023-34845) | Vulnerability POC for CVE-2023-34845 | 2024-03-03T10:50:16Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [hheeyywweellccoommee/CVE-2023-34843-illrj](https://github.com/hheeyywweellccoommee/CVE-2023-34843-illrj) | no description | 2023-07-01T03:01:38Z|
 | [CVE-2023-34843](https://www.cve.org/CVERecord?id=CVE-2023-34843) | [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843) | Public disclosure for CVE-2023-34843. | 2023-06-27T20:45:32Z|
 | [CVE-2023-34840](https://www.cve.org/CVERecord?id=CVE-2023-34840) | [Xh4H/CVE-2023-34840](https://github.com/Xh4H/CVE-2023-34840) | XSS in angular-ui-notification | 2023-06-27T08:20:20Z|
@@ -1400,6 +1411,7 @@
 | [CVE-2023-33731](https://www.cve.org/CVERecord?id=CVE-2023-33731) | [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731) | no description | 2023-05-30T17:58:38Z|
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730) | no description | 2023-05-30T16:22:59Z|
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [nguyendinhmanh1111/CVE2023](https://github.com/nguyendinhmanh1111/CVE2023) | no description | 2023-05-30T12:57:00Z|
+| [CVE-2023-33677](https://www.cve.org/CVERecord?id=CVE-2023-33677) | [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677) | no description | 2024-02-25T09:17:48Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668) | no description | 2023-07-08T08:56:21Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lrh2000/StackRot](https://github.com/lrh2000/StackRot) | CVE-2023-3269: Linux kernel privilege escalation vulnerability | 2023-06-28T13:22:26Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [hansengentle/CVE-2023](https://github.com/hansengentle/CVE-2023) | no description | 2023-07-07T20:16:50Z|
@@ -1749,6 +1761,7 @@
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC) | CVE-2023-24488 PoC | 2023-07-01T17:47:17Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver) | CVE-2023-25157 SQL injection vulnerability found in GeoServer | 2023-06-10T00:47:32Z|
 | [CVE-2023-24488](https://www.cve.org/CVERecord?id=CVE-2023-24488) | [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488) | Tools to perform exploit CVE-2023-24488 | 2023-07-31T11:29:16Z|
+| [CVE-2023-2437](https://www.cve.org/CVERecord?id=CVE-2023-2437) | [RxRCoder/CVE-2023-2437](https://github.com/RxRCoder/CVE-2023-2437) | no description | 2024-03-02T21:09:07Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC) | no description | 2023-08-17T10:33:52Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test) | no description | 2023-08-18T16:53:11Z|
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit) | Example of CVE-2023-24329 | 2023-10-05T01:55:05Z|
