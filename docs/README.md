@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-07 01:54:59.926467
+ Last generated : 2024-05-08 01:32:49.157449
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,11 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [CyberGuard-Foundation/CVE-2024-3094](https://github.com/CyberGuard-Foundation/CVE-2024-3094) | Our current information about the CVE-2024-3094 backdoor. | 2024-04-02T23:10:06Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094) | A tutorial on how to detect the CVE 2024-3094 | 2024-04-04T06:40:56Z|
+| [CVE-2024-30724](https://www.cve.org/CVERecord?id=CVE-2024-30724) | [yashpatelphd/CVE-2024-30724](https://github.com/yashpatelphd/CVE-2024-30724) | Unauthorized Information Access Vulnerability in ROS Kinetic Kame | 2024-04-05T11:06:04Z|
+| [CVE-2024-30723](https://www.cve.org/CVERecord?id=CVE-2024-30723) | [yashpatelphd/CVE-2024-30723](https://github.com/yashpatelphd/CVE-2024-30723) | Unauthorized Node Injection Vulnerability in ROS Kinetic Kame | 2024-04-05T11:02:29Z|
+| [CVE-2024-30722](https://www.cve.org/CVERecord?id=CVE-2024-30722) | [yashpatelphd/CVE-2024-30722](https://github.com/yashpatelphd/CVE-2024-30722) | Denial-of-Service (DoS) Vulnerability in ROS Kinetic Kame | 2024-04-05T10:59:20Z|
+| [CVE-2024-30721](https://www.cve.org/CVERecord?id=CVE-2024-30721) | [yashpatelphd/CVE-2024-30721](https://github.com/yashpatelphd/CVE-2024-30721) | Arbitrary File Upload Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:18:56Z|
 | [CVE-2024-30719](https://www.cve.org/CVERecord?id=CVE-2024-30719) | [yashpatelphd/CVE-2024-30719](https://github.com/yashpatelphd/CVE-2024-30719) | Insecure Deserialization Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:13:48Z|
 | [CVE-2024-30718](https://www.cve.org/CVERecord?id=CVE-2024-30718) | [yashpatelphd/CVE-2024-30718](https://github.com/yashpatelphd/CVE-2024-30718) | Remote Command Execution Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:10:33Z|
 | [CVE-2024-30716](https://www.cve.org/CVERecord?id=CVE-2024-30716) | [yashpatelphd/CVE-2024-30716](https://github.com/yashpatelphd/CVE-2024-30716) | Insecure Logging Vulnerability in ROS2 Dashing Diademata | 2024-04-05T09:03:00Z|
@@ -453,6 +458,7 @@
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z|
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553) | no description | 2024-01-01T16:57:17Z|
+| [CVE-2023-6548](https://www.cve.org/CVERecord?id=CVE-2023-6548) | [Roonye660/CVE-2023-6548-POC](https://github.com/Roonye660/CVE-2023-6548-POC) | 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions | 2024-03-04T08:57:27Z|
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
@@ -762,6 +768,7 @@
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604) | no description | 2023-12-16T13:50:58Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [hh-hunter/cve-2023-46604](https://github.com/hh-hunter/cve-2023-46604) | no description | 2024-01-09T03:18:19Z|
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604) | no description | 2024-02-14T18:39:49Z|
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) | ActiveMQ RCE (CVE-2023-46604) 回显利用工具 | 2024-03-05T07:09:21Z|
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z|
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z|
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z|
