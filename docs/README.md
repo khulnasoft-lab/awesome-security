@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-08 01:32:49.157449
+ Last generated : 2024-05-09 01:56:13.147746
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -55,6 +55,10 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [TheTorjanCaptain/CVE-2024-3094-Checker](https://github.com/TheTorjanCaptain/CVE-2024-3094-Checker) | The repository consists of a checker file that confirms if your xz version and xz-utils package is vulnerable to CVE-2024-3094. | 2024-04-03T19:10:43Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094) | A tutorial on how to detect the CVE 2024-3094 | 2024-04-04T06:40:56Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdebock/ansible-playbook-cve-2024-3094](https://github.com/robertdebock/ansible-playbook-cve-2024-3094) | A small repo with a single playbook. | 2024-04-04T14:52:09Z|
+| [CVE-2024-30728](https://www.cve.org/CVERecord?id=CVE-2024-30728) | [yashpatelphd/CVE-2024-30728](https://github.com/yashpatelphd/CVE-2024-30728) | Security Misconfiguration in ROS Kinetic Kame | 2024-04-05T11:18:00Z|
+| [CVE-2024-30727](https://www.cve.org/CVERecord?id=CVE-2024-30727) | [yashpatelphd/CVE-2024-30727](https://github.com/yashpatelphd/CVE-2024-30727) | Information Leakage in ROS Kinetic Kame via Plaintext Message Transmission | 2024-04-05T11:14:44Z|
+| [CVE-2024-30726](https://www.cve.org/CVERecord?id=CVE-2024-30726) | [yashpatelphd/CVE-2024-30726](https://github.com/yashpatelphd/CVE-2024-30726) | Shell Injection Vulnerability in ROS Kinetic Kame | 2024-04-05T11:11:38Z|
 | [CVE-2024-30724](https://www.cve.org/CVERecord?id=CVE-2024-30724) | [yashpatelphd/CVE-2024-30724](https://github.com/yashpatelphd/CVE-2024-30724) | Unauthorized Information Access Vulnerability in ROS Kinetic Kame | 2024-04-05T11:06:04Z|
 | [CVE-2024-30723](https://www.cve.org/CVERecord?id=CVE-2024-30723) | [yashpatelphd/CVE-2024-30723](https://github.com/yashpatelphd/CVE-2024-30723) | Unauthorized Node Injection Vulnerability in ROS Kinetic Kame | 2024-04-05T11:02:29Z|
 | [CVE-2024-30722](https://www.cve.org/CVERecord?id=CVE-2024-30722) | [yashpatelphd/CVE-2024-30722](https://github.com/yashpatelphd/CVE-2024-30722) | Denial-of-Service (DoS) Vulnerability in ROS Kinetic Kame | 2024-04-05T10:59:20Z|
