@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-09 01:56:13.147746
+ Last generated : 2024-05-10 01:57:07.844989
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -56,6 +56,13 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094) | A tutorial on how to detect the CVE 2024-3094 | 2024-04-04T06:40:56Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdebock/ansible-playbook-cve-2024-3094](https://github.com/robertdebock/ansible-playbook-cve-2024-3094) | A small repo with a single playbook. | 2024-04-04T14:52:09Z|
+| [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z|
+| [CVE-2024-30737](https://www.cve.org/CVERecord?id=CVE-2024-30737) | [yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737) | Remote Command Execution Vulnerability in ROS Kinetic Kame | 2024-04-05T11:41:48Z|
+| [CVE-2024-30736](https://www.cve.org/CVERecord?id=CVE-2024-30736) | [yashpatelphd/CVE-2024-30736](https://github.com/yashpatelphd/CVE-2024-30736) | Insecure Deserialization Vulnerability in ROS Kinetic Kame | 2024-04-05T11:37:53Z|
+| [CVE-2024-30735](https://www.cve.org/CVERecord?id=CVE-2024-30735) | [yashpatelphd/CVE-2024-30735](https://github.com/yashpatelphd/CVE-2024-30735) | Arbitrary File Upload Vulnerability in ROS Kinetic Kame | 2024-04-05T11:35:13Z|
+| [CVE-2024-30733](https://www.cve.org/CVERecord?id=CVE-2024-30733) | [yashpatelphd/CVE-2024-30733](https://github.com/yashpatelphd/CVE-2024-30733) | Buffer Overflow Vulnerability in ROS Kinetic Kame | 2024-04-05T11:30:30Z|
+| [CVE-2024-30730](https://www.cve.org/CVERecord?id=CVE-2024-30730) | [yashpatelphd/CVE-2024-30730](https://github.com/yashpatelphd/CVE-2024-30730) | Insecure Logging Vulnerability in ROS Kinetic Kame | 2024-04-05T11:23:45Z|
+| [CVE-2024-30729](https://www.cve.org/CVERecord?id=CVE-2024-30729) | [yashpatelphd/CVE-2024-30729](https://github.com/yashpatelphd/CVE-2024-30729) | OS Command Injection Vulnerability in ROS Kinetic Kame | 2024-04-05T11:20:26Z|
 | [CVE-2024-30728](https://www.cve.org/CVERecord?id=CVE-2024-30728) | [yashpatelphd/CVE-2024-30728](https://github.com/yashpatelphd/CVE-2024-30728) | Security Misconfiguration in ROS Kinetic Kame | 2024-04-05T11:18:00Z|
 | [CVE-2024-30727](https://www.cve.org/CVERecord?id=CVE-2024-30727) | [yashpatelphd/CVE-2024-30727](https://github.com/yashpatelphd/CVE-2024-30727) | Information Leakage in ROS Kinetic Kame via Plaintext Message Transmission | 2024-04-05T11:14:44Z|
 | [CVE-2024-30726](https://www.cve.org/CVERecord?id=CVE-2024-30726) | [yashpatelphd/CVE-2024-30726](https://github.com/yashpatelphd/CVE-2024-30726) | Shell Injection Vulnerability in ROS Kinetic Kame | 2024-04-05T11:11:38Z|
@@ -109,6 +116,7 @@
 | [CVE-2024-30658](https://www.cve.org/CVERecord?id=CVE-2024-30658) | [yashpatelphd/CVE-2024-30658](https://github.com/yashpatelphd/CVE-2024-30658) | Denial-of-Service (DoS) Vulnerability in ROS Melodic Morenia | 2024-04-05T05:17:00Z|
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657) | Unauthorized Node Injection Vulnerability in ROS Melodic Morenia | 2024-04-05T05:07:42Z|
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor) | An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool. | 2024-04-05T01:44:26Z|
+| [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z|
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z|
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z|
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z|
@@ -418,6 +426,7 @@
 | [CVE-2024-0679](https://www.cve.org/CVERecord?id=CVE-2024-0679) | [RandomRobbieBF/CVE-2024-0679](https://github.com/RandomRobbieBF/CVE-2024-0679) | ColorMag &lt;= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2024-01-19T22:30:51Z|
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) | LPE exploit for CVE-2024-0582 (io_uring) | 2024-03-29T14:45:22Z|
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [QDming/cve](https://github.com/QDming/cve) | Use CVE-2024-29278 | 2024-03-29T08:20:23Z|
+| [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582) | no description | 2024-04-05T15:39:48Z|
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z|
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z|
@@ -994,6 +1003,7 @@
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE) | Looney Tunables CVE-2023-4911 | 2023-11-08T09:34:04Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064) | longitudes de código para desencadenar esta vulnerabilidad | 2023-10-30T17:03:24Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [alsaeroth/CVE-2023-41064-POC](https://github.com/alsaeroth/CVE-2023-41064-POC) | C implementation of Image I/O 0-click vulnerability | 2024-02-07T07:11:41Z|
+| [CVE-2023-41014](https://www.cve.org/CVERecord?id=CVE-2023-41014) | [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014) | no description | 2024-02-25T09:16:50Z|
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z|
@@ -1423,6 +1433,7 @@
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730) | no description | 2023-05-30T16:22:59Z|
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [nguyendinhmanh1111/CVE2023](https://github.com/nguyendinhmanh1111/CVE2023) | no description | 2023-05-30T12:57:00Z|
 | [CVE-2023-33677](https://www.cve.org/CVERecord?id=CVE-2023-33677) | [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677) | no description | 2024-02-25T09:17:48Z|
+| [CVE-2023-33676](https://www.cve.org/CVERecord?id=CVE-2023-33676) | [ASR511-OO7/CVE-2023-33676](https://github.com/ASR511-OO7/CVE-2023-33676) | no description | 2024-02-25T09:18:38Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668) | no description | 2023-07-08T08:56:21Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lrh2000/StackRot](https://github.com/lrh2000/StackRot) | CVE-2023-3269: Linux kernel privilege escalation vulnerability | 2023-06-28T13:22:26Z|
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [hansengentle/CVE-2023](https://github.com/hansengentle/CVE-2023) | no description | 2023-07-07T20:16:50Z|
