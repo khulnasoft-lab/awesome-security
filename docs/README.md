@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-10 01:57:07.844989
+ Last generated : 2024-05-11 01:51:53.486502
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -56,6 +56,9 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094) | Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor) | 2024-04-04T13:31:20Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094) | A tutorial on how to detect the CVE 2024-3094 | 2024-04-04T06:40:56Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdebock/ansible-playbook-cve-2024-3094](https://github.com/robertdebock/ansible-playbook-cve-2024-3094) | A small repo with a single playbook. | 2024-04-04T14:52:09Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [iheb2b/CVE-2024-3094-Checker](https://github.com/iheb2b/CVE-2024-3094-Checker) | The CVE-2024-3094 Checker is a Bash tool for identifying if Linux systems are at risk from the CVE-2024-3094 flaw in XZ/LZMA utilities. It checks XZ versions, SSHD&#x27;s LZMA linkage, and scans for specific byte patterns, delivering results in a concise table format. | 2024-04-03T22:19:50Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC](https://github.com/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC) | CVE-2024-25733 - ARC Browser Address Bar Spoofing PoC - iOS/iPadOS | 2024-04-06T20:18:15Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [r0binak/xzk8s](https://github.com/r0binak/xzk8s) | Dockerfile and Kubernetes manifests for reproduce CVE-2024-3094 | 2024-04-02T20:07:14Z|
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z|
 | [CVE-2024-30737](https://www.cve.org/CVERecord?id=CVE-2024-30737) | [yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737) | Remote Command Execution Vulnerability in ROS Kinetic Kame | 2024-04-05T11:41:48Z|
 | [CVE-2024-30736](https://www.cve.org/CVERecord?id=CVE-2024-30736) | [yashpatelphd/CVE-2024-30736](https://github.com/yashpatelphd/CVE-2024-30736) | Insecure Deserialization Vulnerability in ROS Kinetic Kame | 2024-04-05T11:37:53Z|
@@ -154,6 +157,7 @@
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z|
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z|
 | [CVE-2024-27665](https://www.cve.org/CVERecord?id=CVE-2024-27665) | [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665) | no description | 2024-03-11T04:46:19Z|
+| [CVE-2024-27632](https://www.cve.org/CVERecord?id=CVE-2024-27632) | [ally-petitt/CVE-2024-27632](https://github.com/ally-petitt/CVE-2024-27632) | CVE-2024–27632 Reference | 2024-04-06T23:42:30Z|
 | [CVE-2024-27518](https://www.cve.org/CVERecord?id=CVE-2024-27518) | [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518) | SUPERAntiSpyware Professional X &lt;=10.0.1264 LPE Vulnerability PoC | 2024-04-03T13:41:18Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z|
@@ -530,6 +534,7 @@
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467) | CVE-2023-49070 exploit and CVE-2023-49070 &amp; CVE-2023-51467 vulnerability scanner | 2024-01-11T22:35:57Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Jake123otte1/BadBizness-CVE-2023-51467](https://github.com/Jake123otte1/BadBizness-CVE-2023-51467) | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467. | 2024-01-13T05:40:38Z|
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467) | This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user. | 2024-01-17T07:31:26Z|
+| [CVE-2023-51448](https://www.cve.org/CVERecord?id=CVE-2023-51448) | [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc) | no description | 2024-03-06T11:23:11Z|
 | [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409) | AI Engine: ChatGPT Chatbot &lt;= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload | 2024-02-22T16:26:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z|
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z|
@@ -913,6 +918,7 @@
 | [CVE-2023-43323](https://www.cve.org/CVERecord?id=CVE-2023-43323) | [ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323) | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | 2023-09-16T01:28:58Z|
 | [CVE-2023-43318](https://www.cve.org/CVERecord?id=CVE-2023-43318) | [str2ver/CVE-2023-43318](https://github.com/str2ver/CVE-2023-43318) | JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318 | 2024-03-01T11:35:47Z|
 | [CVE-2023-43317](https://www.cve.org/CVERecord?id=CVE-2023-43317) | [amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317) | Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317) | 2024-01-23T07:27:30Z|
+| [CVE-2023-43292](https://www.cve.org/CVERecord?id=CVE-2023-43292) | [ASR511-OO7/CVE-2023-43292](https://github.com/ASR511-OO7/CVE-2023-43292) | no description | 2024-02-20T08:20:18Z|
 | [CVE-2023-43284](https://www.cve.org/CVERecord?id=CVE-2023-43284) | [MateusTesser/CVE-2023-43284](https://github.com/MateusTesser/CVE-2023-43284) | DLink DIR-846 Authenticated Remote Code Execution | 2023-10-04T13:07:37Z|
 | [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z|
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z|
@@ -946,6 +952,7 @@
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC) | Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php | 2023-09-11T23:53:11Z|
 | [CVE-2023-4238](https://www.cve.org/CVERecord?id=CVE-2023-4238) | [actuator/com.full.dialer.top.secure.encrypted](https://github.com/actuator/com.full.dialer.top.secure.encrypted) | CVE-2023-42469 | 2023-09-02T17:11:58Z|
 | [CVE-2023-42362](https://www.cve.org/CVERecord?id=CVE-2023-42362) | [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362) | no description | 2023-09-12T10:46:12Z|
+| [CVE-2023-42308](https://www.cve.org/CVERecord?id=CVE-2023-42308) | [ASR511-OO7/CVE-2023-42308](https://github.com/ASR511-OO7/CVE-2023-42308) | no description | 2024-02-20T08:18:59Z|
 | [CVE-2023-42307](https://www.cve.org/CVERecord?id=CVE-2023-42307) | [ASR511-OO7/CVE-2023-42307](https://github.com/ASR511-OO7/CVE-2023-42307) | no description | 2024-02-20T08:17:57Z|
 | [CVE-2023-42284](https://www.cve.org/CVERecord?id=CVE-2023-42284) | [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284) | Proof of concept for CVE-2023-42284 in Tyk Gateway | 2023-10-30T19:24:48Z|
 | [CVE-2023-42283](https://www.cve.org/CVERecord?id=CVE-2023-42283) | [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283) | Proof of concept for CVE-2023-42283 in Tyk Gateway | 2023-10-30T19:05:41Z|
@@ -1003,6 +1010,7 @@
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE) | Looney Tunables CVE-2023-4911 | 2023-11-08T09:34:04Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064) | longitudes de código para desencadenar esta vulnerabilidad | 2023-10-30T17:03:24Z|
 | [CVE-2023-41064](https://www.cve.org/CVERecord?id=CVE-2023-41064) | [alsaeroth/CVE-2023-41064-POC](https://github.com/alsaeroth/CVE-2023-41064-POC) | C implementation of Image I/O 0-click vulnerability | 2024-02-07T07:11:41Z|
+| [CVE-2023-41015](https://www.cve.org/CVERecord?id=CVE-2023-41015) | [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015) | no description | 2024-02-25T09:15:54Z|
 | [CVE-2023-41014](https://www.cve.org/CVERecord?id=CVE-2023-41014) | [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014) | no description | 2024-02-25T09:16:50Z|
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z|
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z|
@@ -3176,6 +3184,7 @@
 | [CVE-2019-2215](https://www.cve.org/CVERecord?id=CVE-2019-2215) | [enceka/cve-2019-2215-3.18](https://github.com/enceka/cve-2019-2215-3.18) | for kernel 3.18.x | 2022-04-28T03:47:00Z|
 | [CVE-2019-2215](https://www.cve.org/CVERecord?id=CVE-2019-2215) | [mockxe/cardatabase](https://github.com/mockxe/cardatabase) | DISCLAIMER: This is a re-upload of my very first spring project from 2019. It contains old dependencies with known CVEs, a lot of bad practices and many poor design decisions. It should not be taken as any kind of reference. It is only here to remind me where I started :) | 2022-04-25T16:22:14Z|
 | [CVE-2019-2215](https://www.cve.org/CVERecord?id=CVE-2019-2215) | [mufidmb38/CVE-2019-2215](https://github.com/mufidmb38/CVE-2019-2215) | CVE-2019-2215 | 2021-05-07T16:48:40Z|
+| [CVE-2019-2215](https://www.cve.org/CVERecord?id=CVE-2019-2215) | [CrackerCat/Rootsmart-v2.0](https://github.com/CrackerCat/Rootsmart-v2.0) | Android Ransomware Development - AES256 encryption + CVE-2019-2215 (reverse root shell) + Data Exfiltration | 2022-03-25T04:24:37Z|
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933) | InfluxDB CVE-2019-20933 vulnerability exploit | 2021-04-28T16:25:31Z|
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933) | no description | 2021-07-24T11:12:13Z|
 | [CVE-2019-20372](https://www.cve.org/CVERecord?id=CVE-2019-20372) | [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372) | no description | 2022-04-06T16:53:28Z|
