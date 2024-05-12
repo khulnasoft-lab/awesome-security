@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-11 01:51:53.486502
+ Last generated : 2024-05-12 01:57:49.106677
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z|
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z|
 | [CVE-2024-31025](https://www.cve.org/CVERecord?id=CVE-2024-31025) | [mortal-sec/CVE-2024-31025](https://github.com/mortal-sec/CVE-2024-31025) | Vulnerability verification | 2024-03-28T23:50:30Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094) | no description | 2024-03-29T23:36:07Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [bioless/xz_cve-2024-3094_detection](https://github.com/bioless/xz_cve-2024-3094_detection) | Script to detect CVE-2024-3094. | 2024-03-29T23:20:22Z|
@@ -59,6 +61,9 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [iheb2b/CVE-2024-3094-Checker](https://github.com/iheb2b/CVE-2024-3094-Checker) | The CVE-2024-3094 Checker is a Bash tool for identifying if Linux systems are at risk from the CVE-2024-3094 flaw in XZ/LZMA utilities. It checks XZ versions, SSHD&#x27;s LZMA linkage, and scans for specific byte patterns, delivering results in a concise table format. | 2024-04-03T22:19:50Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC](https://github.com/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC) | CVE-2024-25733 - ARC Browser Address Bar Spoofing PoC - iOS/iPadOS | 2024-04-06T20:18:15Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [r0binak/xzk8s](https://github.com/r0binak/xzk8s) | Dockerfile and Kubernetes manifests for reproduce CVE-2024-3094 | 2024-04-02T20:07:14Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [jfrog/cve-2024-3094-tools](https://github.com/jfrog/cve-2024-3094-tools) | no description | 2024-03-31T10:46:33Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer](https://github.com/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer) | Shell scripts to identify and fix installations of xz-utils affected by the CVE-2024-3094 vulnerability. Versions 5.6.0 and 5.6.1 of xz-utils are known to be vulnerable, and this script aids in detecting them and optionally downgrading to a stable, un-compromised version (5.4.6) or upgrading to latest version.  Added Ansible Playbook | 2024-03-30T19:23:30Z|
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan) | Scan for files containing the signature from the `xz` backdoor (CVE-2024-3094) | 2024-04-06T06:29:43Z|
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z|
 | [CVE-2024-30737](https://www.cve.org/CVERecord?id=CVE-2024-30737) | [yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737) | Remote Command Execution Vulnerability in ROS Kinetic Kame | 2024-04-05T11:41:48Z|
 | [CVE-2024-30736](https://www.cve.org/CVERecord?id=CVE-2024-30736) | [yashpatelphd/CVE-2024-30736](https://github.com/yashpatelphd/CVE-2024-30736) | Insecure Deserialization Vulnerability in ROS Kinetic Kame | 2024-04-05T11:37:53Z|
@@ -139,6 +144,8 @@
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z|
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z|
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z|
+| [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z|
+| [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE) | UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. | 2024-04-08T13:54:07Z|
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z|
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z|
 | [CVE-2024-2865](https://www.cve.org/CVERecord?id=CVE-2024-2865) | [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL) | [CRITICAL] Mergen Software QMS Exploit SQL injection to RFI (Remote File Inclusion) | 2024-03-26T08:20:07Z|
@@ -158,6 +165,8 @@
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z|
 | [CVE-2024-27665](https://www.cve.org/CVERecord?id=CVE-2024-27665) | [Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665) | no description | 2024-03-11T04:46:19Z|
 | [CVE-2024-27632](https://www.cve.org/CVERecord?id=CVE-2024-27632) | [ally-petitt/CVE-2024-27632](https://github.com/ally-petitt/CVE-2024-27632) | CVE-2024–27632 Reference | 2024-04-06T23:42:30Z|
+| [CVE-2024-27631](https://www.cve.org/CVERecord?id=CVE-2024-27631) | [ally-petitt/CVE-2024-27631](https://github.com/ally-petitt/CVE-2024-27631) | CVE-2024–27631 Reference | 2024-04-06T23:30:01Z|
+| [CVE-2024-27630](https://www.cve.org/CVERecord?id=CVE-2024-27630) | [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630) | CVE-2024–27630 Reference | 2024-04-07T00:13:13Z|
 | [CVE-2024-27518](https://www.cve.org/CVERecord?id=CVE-2024-27518) | [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518) | SUPERAntiSpyware Professional X &lt;=10.0.1264 LPE Vulnerability PoC | 2024-04-03T13:41:18Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z|
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z|
@@ -478,6 +487,7 @@
 | [CVE-2023-6548](https://www.cve.org/CVERecord?id=CVE-2023-6548) | [Roonye660/CVE-2023-6548-POC](https://github.com/Roonye660/CVE-2023-6548-POC) | 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions | 2024-03-04T08:57:27Z|
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z|
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z|
+| [CVE-2023-6246](https://www.cve.org/CVERecord?id=CVE-2023-6246) | [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246) | no description | 2024-03-02T15:45:52Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z|
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z|
@@ -988,6 +998,7 @@
 | [CVE-2023-41507](https://www.cve.org/CVERecord?id=CVE-2023-41507) | [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507) | CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel. | 2023-09-05T03:26:15Z|
 | [CVE-2023-41506](https://www.cve.org/CVERecord?id=CVE-2023-41506) | [ASR511-OO7/CVE-2023-41506](https://github.com/ASR511-OO7/CVE-2023-41506) | no description | 2024-02-25T09:11:36Z|
 | [CVE-2023-41505](https://www.cve.org/CVERecord?id=CVE-2023-41505) | [ASR511-OO7/CVE-2023-41505](https://github.com/ASR511-OO7/CVE-2023-41505) | no description | 2024-02-25T09:12:31Z|
+| [CVE-2023-41504](https://www.cve.org/CVERecord?id=CVE-2023-41504) | [ASR511-OO7/CVE-2023-41504](https://github.com/ASR511-OO7/CVE-2023-41504) | no description | 2024-02-25T09:13:57Z|
 | [CVE-2023-41503](https://www.cve.org/CVERecord?id=CVE-2023-41503) | [ASR511-OO7/CVE-2023-41503](https://github.com/ASR511-OO7/CVE-2023-41503) | no description | 2024-02-25T09:14:58Z|
 | [CVE-2023-41501](https://www.cve.org/CVERecord?id=CVE-2023-41501) | [ASR511-OO7/CVE-2023-41501](https://github.com/ASR511-OO7/CVE-2023-41501) | no description | 2024-02-20T08:16:19Z|
 | [CVE-2023-41500](https://www.cve.org/CVERecord?id=CVE-2023-41500) | [ASR511-OO7/CVE-2023-41500](https://github.com/ASR511-OO7/CVE-2023-41500) | no description | 2024-02-20T08:15:32Z|
