@@ -2,13 +2,16 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-12 01:57:49.106677
+ Last generated : 2024-05-13 01:57:00.801740
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z|
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z|
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z|
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z|
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC](https://github.com/blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC) | CVE-2024-30255 This repository contains a proof-of-concept (PoC) Python script to demonstrate the CPU exhaustion vulnerability in Envoy caused  by a flood of CONTINUATION frames. | 2024-04-09T15:59:50Z|
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT) | A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE | 2024-04-09T12:26:37Z|
 | [CVE-2024-31025](https://www.cve.org/CVERecord?id=CVE-2024-31025) | [mortal-sec/CVE-2024-31025](https://github.com/mortal-sec/CVE-2024-31025) | Vulnerability verification | 2024-03-28T23:50:30Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094) | no description | 2024-03-29T23:36:07Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [bioless/xz_cve-2024-3094_detection](https://github.com/bioless/xz_cve-2024-3094_detection) | Script to detect CVE-2024-3094. | 2024-03-29T23:20:22Z|
@@ -65,6 +68,7 @@
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer](https://github.com/alokemajumder/CVE-2024-3094-Vulnerability-Checker-Fixer) | Shell scripts to identify and fix installations of xz-utils affected by the CVE-2024-3094 vulnerability. Versions 5.6.0 and 5.6.1 of xz-utils are known to be vulnerable, and this script aids in detecting them and optionally downgrading to a stable, un-compromised version (5.4.6) or upgrading to latest version.  Added Ansible Playbook | 2024-03-30T19:23:30Z|
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan) | Scan for files containing the signature from the `xz` backdoor (CVE-2024-3094) | 2024-04-06T06:29:43Z|
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z|
+| [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z|
 | [CVE-2024-30737](https://www.cve.org/CVERecord?id=CVE-2024-30737) | [yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737) | Remote Command Execution Vulnerability in ROS Kinetic Kame | 2024-04-05T11:41:48Z|
 | [CVE-2024-30736](https://www.cve.org/CVERecord?id=CVE-2024-30736) | [yashpatelphd/CVE-2024-30736](https://github.com/yashpatelphd/CVE-2024-30736) | Insecure Deserialization Vulnerability in ROS Kinetic Kame | 2024-04-05T11:37:53Z|
 | [CVE-2024-30735](https://www.cve.org/CVERecord?id=CVE-2024-30735) | [yashpatelphd/CVE-2024-30735](https://github.com/yashpatelphd/CVE-2024-30735) | Arbitrary File Upload Vulnerability in ROS Kinetic Kame | 2024-04-05T11:35:13Z|
@@ -139,6 +143,7 @@
 | [CVE-2024-29441](https://www.cve.org/CVERecord?id=CVE-2024-29441) | [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441) | Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:31:50Z|
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z|
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z|
+| [CVE-2024-29399](https://www.cve.org/CVERecord?id=CVE-2024-29399) | [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399) | CVE-2024-29399 reference | 2024-04-08T23:03:04Z|
 | [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z|
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z|
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z|
@@ -384,6 +389,7 @@
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [d0rb/CVE-2024-21378](https://github.com/d0rb/CVE-2024-21378) | This repository contains an exploit for targeting Microsoft Outlook through Exchange Online, leveraging a vulnerability to execute arbitrary code via COM DLLs. The exploit utilizes a modified version of Ruler to send a malicious form as an email, triggering the execution upon user interaction within the Outlook thick client. | 2024-03-12T14:11:58Z|
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [tmcve/CVE-2024-TEST](https://github.com/tmcve/CVE-2024-TEST) | aaa | 2024-03-13T16:16:53Z|
+| [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z|
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z|
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z|
