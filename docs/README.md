@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions 
 
- Last generated : 2024-05-13 01:57:00.801740
+ Last generated : 2024-05-14 01:53:41.001025
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -222,6 +222,9 @@
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z|
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z|
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z|
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) | Example of CVE-2024-24576 use case. | 2024-04-09T21:17:15Z|
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit) | CVE-2024-24576 Proof of Concept | 2024-04-10T14:06:09Z|
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC) | CVE-2024-27474, CVE-2024-27476, CVE-2024-27477 | 2024-04-04T13:58:33Z|
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z|
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z|
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z|
@@ -1579,6 +1582,8 @@
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547) | PoC to CVE-2023-30547 (Library vm2) | 2024-02-08T07:03:32Z|
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [Cur1iosity/CVE-2023-30547](https://github.com/Cur1iosity/CVE-2023-30547) | Tool for exploring CVE-2023-30547 | 2024-02-14T13:05:57Z|
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z|
+| [CVE-2023-3047](https://www.cve.org/CVERecord?id=CVE-2023-3047) | [Phamchie/CVE-2023-3047](https://github.com/Phamchie/CVE-2023-3047) | no description | 2024-03-07T14:46:22Z|
+| [CVE-2023-3047](https://www.cve.org/CVERecord?id=CVE-2023-3047) | [0x1x02/GLiNet-Router-Auth-Bypass](https://github.com/0x1x02/GLiNet-Router-Auth-Bypass) | Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453 | 2024-03-07T08:05:31Z|
 | [CVE-2023-30383](https://www.cve.org/CVERecord?id=CVE-2023-30383) | [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383) | no description | 2023-07-15T08:43:41Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper) | Original PoC for CVE-2023-30367 | 2023-07-08T18:16:39Z|
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [costacoco/Adiscon](https://github.com/costacoco/Adiscon) | CVE-2023-34600 | 2023-06-16T08:30:10Z|
@@ -2037,6 +2042,8 @@
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698) | no description | 2023-10-20T05:40:32Z|
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698) | WAGO系统远程代码执行漏洞(CVE-2023-1698) | 2023-10-20T12:15:39Z|
 | [CVE-2023-1521](https://www.cve.org/CVERecord?id=CVE-2023-1521) | [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521) | no description | 2023-11-15T15:31:44Z|
+| [CVE-2023-1500](https://www.cve.org/CVERecord?id=CVE-2023-1500) | [Decemberus/BugHub](https://github.com/Decemberus/BugHub) | CVEHub of CVE-2023-1498 and CVE-2023-1500 | 2023-03-19T09:06:59Z|
+| [CVE-2023-1500](https://www.cve.org/CVERecord?id=CVE-2023-1500) | [Kimsovannareth/Phamchie](https://github.com/Kimsovannareth/Phamchie) | https://github.com/Phamchie/CVE-2023-3047 | 2024-03-08T15:20:25Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln) | jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。 | 2023-06-20T08:12:49Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454) | jmreport/qurestSql 未授权SQL注入批量扫描poc | 2023-04-07T03:30:22Z|
 | [CVE-2023-1454](https://www.cve.org/CVERecord?id=CVE-2023-1454) | [shad0w0sec/CVE-2023-1454-EXP](https://github.com/shad0w0sec/CVE-2023-1454-EXP) | JeecgBoot SQL（CVE-2023-1454）sqlmap 注入不出来的情况可以使用该脚本 | 2023-12-31T06:47:01Z|
@@ -2613,6 +2620,7 @@
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z|
 | [CVE-2021-38001](https://www.cve.org/CVERecord?id=CVE-2021-38001) | [glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001) | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | 2023-05-08T14:43:03Z|
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580) | CVE-2021-37580的poc | 2021-11-17T13:26:46Z|
+| [CVE-2021-36955](https://www.cve.org/CVERecord?id=CVE-2021-36955) | [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP) | CVE-2021-36955 | 2022-07-18T07:08:56Z|
 | [CVE-2021-36782](https://www.cve.org/CVERecord?id=CVE-2021-36782) | [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782) | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | 2022-12-01T19:30:27Z|
 | [CVE-2021-36630](https://www.cve.org/CVERecord?id=CVE-2021-36630) | [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630) | no description | 2023-01-15T09:55:38Z|
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo) | no description | 2022-11-05T17:32:47Z|
@@ -2638,11 +2646,13 @@
 | [CVE-2021-34767](https://www.cve.org/CVERecord?id=CVE-2021-34767) | [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767) | Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability | 2022-12-20T18:53:00Z|
 | [CVE-2021-34767](https://www.cve.org/CVERecord?id=CVE-2021-34767) | [tahaafarooq/poppy](https://github.com/tahaafarooq/poppy) | CVE-2021-4034 PoC , polkit &lt; 0.131 | 2022-01-27T14:29:55Z|
 | [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [RandomRobbieBF/CVE-2021-34621](https://github.com/RandomRobbieBF/CVE-2021-34621) | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | 2023-08-09T11:41:56Z|
+| [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [K3ysTr0K3R/CVE-2021-34621-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT) | A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation | 2023-08-12T21:51:37Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [fardinbarashi/PsFix-CVE-2021-34527](https://github.com/fardinbarashi/PsFix-CVE-2021-34527) | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | 2023-04-07T20:14:31Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) | A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability. | 2021-12-14T06:37:59Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [m8sec/CVE-2021-34527](https://github.com/m8sec/CVE-2021-34527) | PrintNightmare (CVE-2021-34527) PoC Exploit | 2022-08-23T20:20:45Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [TotallyNotAHaxxer/f-for-java](https://github.com/TotallyNotAHaxxer/f-for-java) | a project written in go and java i abandoned for CVE-2021-44228 try to fix it if you can XD | 2021-12-20T01:31:06Z|
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [MadExploits/Laravel-debug-Checker](https://github.com/MadExploits/Laravel-debug-Checker) | CVE-2021-3129 Exploit Checker By ./MrMad | 2022-12-10T03:32:34Z|
+| [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [d0rb/CVE-2021-34527](https://github.com/d0rb/CVE-2021-34527) | CVE-2021-34527 PrintNightmare PoC | 2023-08-20T12:04:18Z|
 | [CVE-2021-34473](https://www.cve.org/CVERecord?id=CVE-2021-34473) | [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER) | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | 2022-11-16T08:22:29Z|
 | [CVE-2021-3438](https://www.cve.org/CVERecord?id=CVE-2021-3438) | [CrackerCat/CVE-2021-3438](https://github.com/CrackerCat/CVE-2021-3438) | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | 2023-05-22T00:00:34Z|
 | [CVE-2021-33959](https://www.cve.org/CVERecord?id=CVE-2021-33959) | [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959) | CVE-2021-33959 | 2023-01-15T09:47:48Z|
@@ -5208,3 +5218,4 @@
 | CVE NOT FOUND | [Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) | Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入 | 2024-01-26T13:11:21Z|
 | CVE NOT FOUND | [CpyRe/I-Find-CVE-2024](https://github.com/CpyRe/I-Find-CVE-2024) | CVE | 2024-01-30T08:45:47Z|
 | CVE NOT FOUND | [LI-Jialu/CVerify_Fintech-Olympiad-2022](https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022) | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | 2022-05-27T13:13:06Z|
+| CVE NOT FOUND | [blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC](https://github.com/blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC) | This script serves as a proof of concept (PoC) for the CVE-2024-XXXX vulnerability in AnyDesk version 7.0.15. The vulnerability involves an unquoted service path, allowing an authorized but non-privileged local user to potentially execute arbitrary code with elevated privileges on the system. | 2024-04-10T12:58:12Z|
