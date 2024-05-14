@@ -7,6 +7,8 @@ import time
 import random
 import math
 import re
+import csv
+
 db = SqliteDatabase("db/cve.sqlite")
 
 class CVE_DB(Model):
@@ -89,40 +91,40 @@ def db_match(items):
 
     return sorted(r_list, key=lambda e: e.__getitem__('created_at'))
 
+# Main function
 def main():
-    year = datetime.now().year
+    initialize_db()
+    initialize_readme()
     sorted_list = []
-    for i in range(year, 1999, -1):
-        item = get_info(i)
-        if item is None or len(item) == 0:
+    current_year = datetime.now().year
+    for year in range(current_year, 1999, -1):
+        cve_info = get_cve_info(year)
+        if not cve_info:
             continue
-        print("Year : {} : raw data obtained {} articles".format(i, len(item)))
-        sorted = db_match(item)
-        if len(sorted) != 0:
-            print("Year {} : update {} articles".format(i, len(sorted)))
-            sorted_list.extend(sorted)
-        count = random.randint(3, 15)
-        time.sleep(count)
-    cur = db.cursor()
-    cur.execute("SELECT * FROM CVE_DB ORDER BY cve DESC;")
-    result = cur.fetchall()
-    for row in result:
-    #    if row[4].startswith('20'):
-        Publish_Date=row[4]
-    #    else:
-    #        Publish_Date=""    
-    #        print("(!) Not a date")    
-        Description = row[2].replace('|','-')
-        if row[5].upper() == "CVE NOT FOUND":
-            newline = "| " + row[5].upper() + " | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
-        else:
-            newline = "| [" + row[5].upper() + "](https://www.cve.org/CVERecord?id=" + row[5].upper() + ") | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
-        write_file(newline)
-
-    # Statistics
+        print("Year {}: {} articles retrieved".format(year, len(cve_info)))
+        sorted_cves = match_and_insert_cves(cve_info)
+        if sorted_cves:
+            print("Year {}: {} articles updated".format(year, len(sorted_cves)))
+            sorted_list.extend(sorted_cves)
+        time.sleep(random.randint(3, 15))
     
-    ## TODO HERE WILL COME THE CODE FOR STATISTICS 
+    # Write CVE information to README file in CSV format
+    with open(README_FILE, 'a', newline='') as csvfile:
+        fieldnames = ['CVE', 'Name', 'Description', 'Date']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
+        writer.writeheader()
+        for cve_info in CVE_DB.select().order_by(CVE_DB.cve.desc()):
+            cve = cve_info.cve
+            full_name = cve_info.full_name
+            description = cve_info.description.replace('|', '-')
+            publish_date = cve_info.created_at
+            if cve.upper() == "CVE NOT FOUND":
+                writer.writerow({'CVE': cve.upper(), 'Name': full_name, 'Description': description, 'Date': publish_date})
+            else:
+                writer.writerow({'CVE': cve.upper(), 'Name': full_name, 'Description': description, 'Date': publish_date})
+    
+    # TODO: Add code for statistics
+
 if __name__ == "__main__":
-    init_file()
     main()
