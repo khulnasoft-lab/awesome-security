@@ -2,6 +2,7 @@ import requests
 import html
 import re
 import time
+import random
 from datetime import datetime
 from peewee import *
 
