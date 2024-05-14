@@ -1,6 +1,7 @@
 import requests
 import html
 import re
+import time
 from datetime import datetime
 from peewee import *
 
