@@ -1,13 +1,16 @@
-from functools import total_ordering
 import requests
-from peewee import *
-from datetime import datetime
 import html
-import time
-import random
-import math
 import re
-db = SqliteDatabase("db/cve.sqlite")
+from datetime import datetime
+from peewee import *
+
+# Constants
+DB_FILE = "db/cve.sqlite"
+README_FILE = "docs/README.md"
+API_URL = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=3&per_page=500"
+
+# Database setup
+db = SqliteDatabase(DB_FILE)
 
 class CVE_DB(Model):
     id = IntegerField()
@@ -20,109 +23,86 @@ class CVE_DB(Model):
     class Meta:
         database = db
 
-db.connect()
-db.create_tables([CVE_DB])
+# Initialize database
+def initialize_db():
+    db.connect()
+    db.create_tables([CVE_DB])
 
-def init_file():
-    newline = "# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions \n\n Last generated : {}\n\n| CVE | Name | Description | Date |\n|---|---|---|---|\n".format(datetime.now())
-    with open('docs/README.md','w') as f:
-        f.write(newline) 
-    f.close()
+# Initialize README file
+def initialize_readme():
+    with open(README_FILE, 'w') as f:
+        f.write("# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions\n\n")
+        f.write("Last generated: {}\n\n".format(datetime.now()))
+        f.write("| CVE | Name | Description | Date |\n|---|---|---|---|\n")
 
-def write_file(new_contents):
-    with open('docs/README.md','a') as f:
+# Write to README file
+def write_to_readme(new_contents):
+    with open(README_FILE, 'a') as f:
         f.write(new_contents)
-    f.close()
 
-def get_info(year):
+# Get CVE information from GitHub API
+def get_cve_info(year):
     try:
-        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=3&per_page=500".format(year)
-        # API
-        req = requests.get(api).json()
-        items = req["items"]
-        return items
+        req = requests.get(API_URL.format(year)).json()
+        return req.get("items", [])
     except Exception as e:
-        print("An error occurred in the network request", e)
-        return None
+        print("An error occurred in the network request:", e)
+        return []
 
-
-def db_match(items):
-    r_list = []
+# Match CVEs and insert into database
+def match_and_insert_cves(items):
     regex = r"[Cc][Vv][Ee][-_]\d{4}[-_]\d{4,7}"
-    cve = ''
+    cve_list = []
     for item in items:
         id = item["id"]
         if CVE_DB.select().where(CVE_DB.id == id).count() != 0:
             continue
         full_name = html.escape(item["full_name"])
-        description = item["description"]
-        if description == "" or description == None:
-            description = 'no description'
-        else:
-            description = html.escape(description.strip())
+        description = html.escape(item.get("description", "no description").strip())
         url = item["html_url"]
-### EXTRACT CVE 
-        matches = re.finditer(regex, url, re.MULTILINE)
-        for matchNum, match in enumerate(matches, start=1):
-            cve = match.group()
-        if not cve:
-            matches = re.finditer(regex, description, re.MULTILINE)
-            cve = "CVE Not Found"
-            for matchNum, match in enumerate(matches, start=1):
-                cve = match.group()
-### 
+        cve = re.search(regex, url + description).group() if re.search(regex, url + description) else "CVE Not Found"
         created_at = item["created_at"]
-        r_list.append({
+        cve_list.append({
             "id": id,
             "full_name": full_name,
             "description": description,
             "url": url,
             "created_at": created_at,
-            "cve": cve.replace('_','-')
+            "cve": cve.replace('_', '-')
         })
-        CVE_DB.create(id=id,
-                      full_name=full_name,
-                      description=description,
-                      url=url,
-                      created_at=created_at,
-                      cve=cve.upper().replace('_','-'))
+        CVE_DB.create(id=id, full_name=full_name, description=description, url=url, created_at=created_at, cve=cve.upper().replace('_', '-'))
+    return sorted(cve_list, key=lambda e: e["created_at"])
 
-    return sorted(r_list, key=lambda e: e.__getitem__('created_at'))
-
+# Main function
 def main():
-    year = datetime.now().year
+    initialize_db()
+    initialize_readme()
     sorted_list = []
-    for i in range(year, 1999, -1):
-        item = get_info(i)
-        if item is None or len(item) == 0:
+    current_year = datetime.now().year
+    for year in range(current_year, 1999, -1):
+        cve_info = get_cve_info(year)
+        if not cve_info:
             continue
-        print("Year : {} : raw data obtained {} articles".format(i, len(item)))
-        sorted = db_match(item)
-        if len(sorted) != 0:
-            print("Year {} : update {} articles".format(i, len(sorted)))
-            sorted_list.extend(sorted)
-        count = random.randint(3, 15)
-        time.sleep(count)
-    cur = db.cursor()
-    cur.execute("SELECT * FROM CVE_DB ORDER BY cve DESC;")
-    result = cur.fetchall()
-    for row in result:
-    #    if row[4].startswith('20'):
-        Publish_Date=row[4]
-    #    else:
-    #        Publish_Date=""    
-    #        print("(!) Not a date")    
-        Description = row[2].replace('|','-')
-        if row[5].upper() == "CVE NOT FOUND":
-            newline = "| " + row[5].upper() + " | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
-        else:
-            newline = "| [" + row[5].upper() + "](https://www.cve.org/CVERecord?id=" + row[5].upper() + ") | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
-        write_file(newline)
-
-    # Statistics
+        print("Year {}: {} articles retrieved".format(year, len(cve_info)))
+        sorted_cves = match_and_insert_cves(cve_info)
+        if sorted_cves:
+            print("Year {}: {} articles updated".format(year, len(sorted_cves)))
+            sorted_list.extend(sorted_cves)
+        time.sleep(random.randint(3, 15))
     
-    ## TODO HERE WILL COME THE CODE FOR STATISTICS 
-        
+    # Write CVE information to README file
+    for cve_info in CVE_DB.select().order_by(CVE_DB.cve.desc()):
+        cve = cve_info.cve
+        full_name = cve_info.full_name
+        description = cve_info.description.replace('|', '-')
+        publish_date = cve_info.created_at
+        if cve.upper() == "CVE NOT FOUND":
+            newline = "| {} | [{}]({}) | {} | {} |\n".format(cve.upper(), full_name, cve_info.url, description, publish_date)
+        else:
+            newline = "| [{}]({}) | [{}]({}) | {} | {} |\n".format(cve.upper(), "https://www.cve.org/CVERecord?id=" + cve.upper(), full_name, cve_info.url, description, publish_date)
+        write_to_readme(newline)
+
+    # TODO: Add code for statistics
+
 if __name__ == "__main__":
-    init_file()
     main()
