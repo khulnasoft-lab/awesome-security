@@ -60,7 +60,7 @@ def match_and_insert_cves(items):
         if CVE_DB.select().where(CVE_DB.id == id).count() != 0:
             continue
         full_name = html.escape(item["full_name"])
-        description = html.escape(item.get("description", "no description").strip())
+        description = html.escape(item.get("description", "no description")).strip()  # Handle None description gracefully
         url = item["html_url"]
         cve = re.search(regex, url + description).group() if re.search(regex, url + description) else "CVE Not Found"
         created_at = item["created_at"]
