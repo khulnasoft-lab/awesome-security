@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-15 01:57:41.809338
+Last generated: 2024-05-16 01:54:56.622125
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC](https://github.com/blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC) | CVE-2024-30255 This repository contains a proof-of-concept (PoC) Python script to demonstrate the CPU exhaustion vulnerability in Envoy caused  by a flood of CONTINUATION frames. | 2024-04-09T15:59:50Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT) | A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE | 2024-04-09T12:26:37Z |
+| [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
 | [CVE-2024-31025](https://www.cve.org/CVERecord?id=CVE-2024-31025) | [mortal-sec/CVE-2024-31025](https://github.com/mortal-sec/CVE-2024-31025) | Vulnerability verification | 2024-03-28T23:50:30Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094) | no description | 2024-03-29T23:36:07Z |
@@ -149,6 +150,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296) | CVE-2024-29296 - User enumeration on Portainer CE - 2.19.4 | 2024-04-09T20:36:03Z |
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z |
+| [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269) | Telesquare TLR-2005KSH_RCE (CVE-2024-29269) Batch scan/exploit | 2024-04-12T07:36:08Z |
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z |
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
@@ -162,6 +164,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515) | A vuln about csapp. | 2024-03-19T01:53:48Z |
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [bsekercioglu/cve2024-3094-Checker](https://github.com/bsekercioglu/cve2024-3094-Checker) | no description | 2024-03-30T11:49:27Z |
 | [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397) | to be released | 2024-03-22T04:29:34Z |
+| [CVE-2024-28255](https://www.cve.org/CVERecord?id=CVE-2024-28255) | [YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255) | OpenMetadata_RCE (CVE-2024-28255)  Batch scan/exploit | 2024-04-12T04:29:58Z |
 | [CVE-2024-28247](https://www.cve.org/CVERecord?id=CVE-2024-28247) | [T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read) | This repository provides an exploit for CVE-2024-28247, highlighting a vulnerability that permits a remote attacker to read arbitrary files on the system. | 2024-03-31T15:25:15Z |
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z |
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z |
@@ -228,6 +231,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit) | CVE-2024-24576 Proof of Concept | 2024-04-10T14:06:09Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC) | CVE-2024-27474, CVE-2024-27476, CVE-2024-27477 | 2024-04-04T13:58:33Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [foxoman/CVE-2024-24576-PoC---Nim](https://github.com/foxoman/CVE-2024-24576-PoC---Nim) | CVE-2024-24576 PoC for Nim Lang | 2024-04-11T10:22:10Z |
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [brains93/CVE-2024-24576-PoC-Python](https://github.com/brains93/CVE-2024-24576-PoC-Python) | no description | 2024-04-10T10:27:55Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
@@ -297,6 +301,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Abo5/CVE-2024-23897](https://github.com/Abo5/CVE-2024-23897) | This is an exploit script for CVE-2024-23897, a vulnerability affecting certain systems. The script is intended for educational and testing purposes only. Ensure that you have the necessary permissions before using it. | 2024-02-26T03:07:28Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897) | CVE-2024-23897 - Jenkins &lt;= 2.441 &amp; &lt;= LTS 2.426.2 PoC and scanner. | 2024-01-26T19:00:03Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897) | Perform with massive Jenkins Reading-2-RCE | 2024-02-19T02:29:12Z |
+| [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
 | [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z |
@@ -380,6 +385,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC) | no description | 2024-02-05T17:47:01Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626) | no description | 2024-03-01T09:58:50Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Sk3pper/CVE-2024-21626](https://github.com/Sk3pper/CVE-2024-21626) | no description | 2024-03-15T10:38:27Z |
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [KubernetesBachelor/CVE-2024-21626](https://github.com/KubernetesBachelor/CVE-2024-21626) | POC | 2024-04-03T11:45:19Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z |
@@ -2634,6 +2640,7 @@ Last generated: 2024-05-15 01:57:41.809338
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [asepsaepdin/CVE-2021-3560](https://github.com/asepsaepdin/CVE-2021-3560) | no description | 2023-07-10T04:26:13Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [WinMin/CVE-2021-3560](https://github.com/WinMin/CVE-2021-3560) | PolicyKit CVE-2021-3560 Exploitation (Authentication Agent) | 2022-04-30T05:53:45Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [secnigma/CVE-2021-3560-Polkit-Privilege-Esclation](https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation) | no description | 2021-06-14T20:08:20Z |
+| [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [pashayogi/ROOT-CVE-2021-3560](https://github.com/pashayogi/ROOT-CVE-2021-3560) | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | 2023-08-20T14:39:19Z |
 | [CVE-2021-35464](https://www.cve.org/CVERecord?id=CVE-2021-35464) | [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464) | openam-CVE-2021-35464 tomcat 执行命令回显 | 2021-07-01T03:51:32Z |
 | [CVE-2021-35448](https://www.cve.org/CVERecord?id=CVE-2021-35448) | [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448) | Local Privilege Escalation in Remote Mouse 3.008 | 2023-06-11T06:32:12Z |
 | [CVE-2021-35287](https://www.cve.org/CVERecord?id=CVE-2021-35287) | [l00neyhacker/CVE-2021-35287](https://github.com/l00neyhacker/CVE-2021-35287) | CVE-2021-35287 | 2023-02-05T22:37:02Z |
@@ -5226,3 +5233,4 @@ Last generated: 2024-05-15 01:57:41.809338
 | CVE NOT FOUND | [CpyRe/I-Find-CVE-2024](https://github.com/CpyRe/I-Find-CVE-2024) | CVE | 2024-01-30T08:45:47Z |
 | CVE NOT FOUND | [LI-Jialu/CVerify_Fintech-Olympiad-2022](https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022) | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | 2022-05-27T13:13:06Z |
 | CVE NOT FOUND | [blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC](https://github.com/blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC) | This script serves as a proof of concept (PoC) for the CVE-2024-XXXX vulnerability in AnyDesk version 7.0.15. The vulnerability involves an unquoted service path, allowing an authorized but non-privileged local user to potentially execute arbitrary code with elevated privileges on the system. | 2024-04-10T12:58:12Z |
+| CVE NOT FOUND | [psudo-bugboy/CVE-2024](https://github.com/psudo-bugboy/CVE-2024) | Small CRM | 2024-04-06T20:21:22Z |
