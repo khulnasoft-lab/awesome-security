@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-17 01:55:05.466460
+Last generated: 2024-05-18 01:53:08.477728
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
@@ -237,6 +238,8 @@ Last generated: 2024-05-17 01:55:05.466460
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC) | CVE-2024-27474, CVE-2024-27476, CVE-2024-27477 | 2024-04-04T13:58:33Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [foxoman/CVE-2024-24576-PoC---Nim](https://github.com/foxoman/CVE-2024-24576-PoC---Nim) | CVE-2024-24576 PoC for Nim Lang | 2024-04-11T10:22:10Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [brains93/CVE-2024-24576-PoC-Python](https://github.com/brains93/CVE-2024-24576-PoC-Python) | no description | 2024-04-10T10:27:55Z |
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [lpn/CVE-2024-24576.jl](https://github.com/lpn/CVE-2024-24576.jl) | Simple CVE-2024-24576 PoC in Julia | 2024-04-14T05:00:18Z |
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [mishalhossin/CVE-2024-24576-PoC-Python](https://github.com/mishalhossin/CVE-2024-24576-PoC-Python) | https://nvd.nist.gov/vuln/detail/CVE-2024-24576 | 2024-04-14T02:10:55Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
@@ -5240,3 +5243,4 @@ Last generated: 2024-05-17 01:55:05.466460
 | CVE NOT FOUND | [LI-Jialu/CVerify_Fintech-Olympiad-2022](https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022) | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | 2022-05-27T13:13:06Z |
 | CVE NOT FOUND | [blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC](https://github.com/blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC) | This script serves as a proof of concept (PoC) for the CVE-2024-XXXX vulnerability in AnyDesk version 7.0.15. The vulnerability involves an unquoted service path, allowing an authorized but non-privileged local user to potentially execute arbitrary code with elevated privileges on the system. | 2024-04-10T12:58:12Z |
 | CVE NOT FOUND | [psudo-bugboy/CVE-2024](https://github.com/psudo-bugboy/CVE-2024) | Small CRM | 2024-04-06T20:21:22Z |
+| CVE NOT FOUND | [Brownpanda29/cve202424576](https://github.com/Brownpanda29/cve202424576) | no description | 2024-04-14T00:35:41Z |
