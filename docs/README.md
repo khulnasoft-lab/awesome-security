@@ -2,13 +2,15 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-18 01:53:08.477728
+Last generated: 2024-05-19 01:58:19.235711
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [momika233/CVE-2024-3400](https://github.com/momika233/CVE-2024-3400) | no description | 2024-04-14T15:16:16Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
@@ -16,6 +18,7 @@ Last generated: 2024-05-18 01:53:08.477728
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT) | A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE | 2024-04-09T12:26:37Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
+| [CVE-2024-31719](https://www.cve.org/CVERecord?id=CVE-2024-31719) | [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability) | no description | 2023-07-30T00:07:14Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
 | [CVE-2024-31025](https://www.cve.org/CVERecord?id=CVE-2024-31025) | [mortal-sec/CVE-2024-31025](https://github.com/mortal-sec/CVE-2024-31025) | Vulnerability verification | 2024-03-28T23:50:30Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094) | no description | 2024-03-29T23:36:07Z |
@@ -174,6 +177,7 @@ Last generated: 2024-05-18 01:53:08.477728
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z |
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
+| [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z |
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z |
@@ -192,6 +196,7 @@ Last generated: 2024-05-18 01:53:08.477728
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198) | Exploit for CVE-2024-27198 - TeamCity Server | 2024-03-05T05:43:06Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z |
+| [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z |
 | [CVE-2024-26535](https://www.cve.org/CVERecord?id=CVE-2024-26535) | [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535) | (XSS) | 2024-02-26T12:02:10Z |
