@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-22 01:55:41.513200
+Last generated: 2024-05-23 01:54:53.988770
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -31,6 +33,10 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Ravaan21/CVE-2024-3400](https://github.com/Ravaan21/CVE-2024-3400) | CVE-2024-3400 POC written in Rust and Python | 2024-04-18T21:14:15Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [swaybs/CVE-2024-3400](https://github.com/swaybs/CVE-2024-3400) | Python script to check Palo Alto firewalls for CVE-2024-3400 exploit attempts | 2024-04-18T16:45:51Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [hahasagined/CVE-2024-3400](https://github.com/hahasagined/CVE-2024-3400) | EDL for IPs attacking customers with CVE-2024-3400 | 2024-04-18T15:06:03Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [zam89/CVE-2024-3400-pot](https://github.com/zam89/CVE-2024-3400-pot) | Simple honeypot for CVE-2024-3400 Palo Alto PAN-OS Command Injection Vulnerability | 2024-04-24T14:21:26Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [W01fh4cker/CVE-2024-3400-RCE-Scan](https://github.com/W01fh4cker/CVE-2024-3400-RCE-Scan) | CVE-2024-3400-RCE | 2024-04-16T16:18:56Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400) | no description | 2024-04-18T10:16:22Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400) | Python exploit and checker script for CVE-2024-3400 Palo Alto Command Injection and Arbitrary File Creation | 2024-04-21T12:38:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
@@ -38,7 +44,11 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT) | A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE | 2024-04-09T12:26:37Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273) | no description | 2024-04-16T09:12:58Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273) | Quick and dirty honeypot for CVE-2024-3273 | 2024-04-07T21:15:33Z |
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
+| [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
+| [CVE-2024-32258](https://www.cve.org/CVERecord?id=CVE-2024-32258) | [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258) | no description | 2024-04-18T17:07:07Z |
 | [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [asdfjkl11/CVE-2024-32238](https://github.com/asdfjkl11/CVE-2024-32238) | no description | 2024-04-20T03:55:21Z |
+| [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [FuBoLuSec/CVE-2024-32238](https://github.com/FuBoLuSec/CVE-2024-32238) | H3C ER8300G2-X config download | 2024-04-20T16:23:10Z |
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
@@ -105,6 +115,7 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan) | Scan for files containing the signature from the `xz` backdoor (CVE-2024-3094) | 2024-04-06T06:29:43Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-](https://github.com/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-) | La siguiente regla YARA ayuda a detectar la presencia del backdoor en la librería liblzma comprometida en sistemas que utilizan las versiones 5.6.0 y 5.6.1 de la herramienta de compresión XZ. | 2024-04-13T16:37:32Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy) | XZ Utils CVE-2024-3094 POC for Kubernetes | 2024-04-18T13:08:05Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [przemoc/xz-backdoor-links](https://github.com/przemoc/xz-backdoor-links) | apocalypxze: xz backdoor (2024) AKA CVE-2024-3094 related links | 2024-04-02T20:17:07Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
 | [CVE-2024-30850](https://www.cve.org/CVERecord?id=CVE-2024-30850) | [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc) | CHAOS RAT web panel path RCE PoC | 2024-04-05T21:35:04Z |
@@ -169,6 +180,7 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor) | An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool. | 2024-04-05T01:44:26Z |
 | [CVE-2024-30656](https://www.cve.org/CVERecord?id=CVE-2024-30656) | [Yashodhanvivek/Firebolt-wristphone-vulnerability](https://github.com/Yashodhanvivek/Firebolt-wristphone-vulnerability) | This repository is for Firebolt wristphone vulnerability for CVE ID CVE-2024-30656 suggested by MITRE. Mitre yet to confirm on ID | 2024-04-08T17:05:39Z |
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -256,6 +268,7 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-25280](https://www.cve.org/CVERecord?id=CVE-2024-25280) | [sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280) | Broken Access control | 2024-02-17T12:11:58Z |
 | [CVE-2024-25279](https://www.cve.org/CVERecord?id=CVE-2024-25279) | [sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279) | (XSS) | 2024-02-17T12:10:12Z |
 | [CVE-2024-25278](https://www.cve.org/CVERecord?id=CVE-2024-25278) | [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278) | no description | 2024-02-17T11:59:51Z |
+| [CVE-2024-25277](https://www.cve.org/CVERecord?id=CVE-2024-25277) | [maen08/CVE-2024-25277](https://github.com/maen08/CVE-2024-25277) | Resources and PoCs | 2024-02-25T16:54:33Z |
 | [CVE-2024-25270](https://www.cve.org/CVERecord?id=CVE-2024-25270) | [fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270) | for future article of research vulnerability in MIRAPOLIS LMS | 2024-02-22T08:18:47Z |
 | [CVE-2024-25270](https://www.cve.org/CVERecord?id=CVE-2024-25270) | [W01fh4cker/ScreenConnect-AuthBypass-RCE](https://github.com/W01fh4cker/ScreenConnect-AuthBypass-RCE) | ScreenConnect AuthBypass(cve-2024-1709) --&gt; RCE!!! | 2024-02-21T09:42:04Z |
 | [CVE-2024-25251](https://www.cve.org/CVERecord?id=CVE-2024-25251) | [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251) | no description | 2024-02-20T10:03:29Z |
@@ -280,6 +293,8 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [lpn/CVE-2024-24576.jl](https://github.com/lpn/CVE-2024-24576.jl) | Simple CVE-2024-24576 PoC in Julia | 2024-04-14T05:00:18Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [mishalhossin/CVE-2024-24576-PoC-Python](https://github.com/mishalhossin/CVE-2024-24576-PoC-Python) | https://nvd.nist.gov/vuln/detail/CVE-2024-24576 | 2024-04-14T02:10:55Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo) | This is a simple demo for the BadBatBut vulnerability CVE-2024-24576 | 2024-04-12T23:36:05Z |
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [SheL3G/CVE-2024-24576-PoC-BatBadBut](https://github.com/SheL3G/CVE-2024-24576-PoC-BatBadBut) | PoC for CVE-2024-24576 vulnerability &quot;BatBadBut&quot; | 2024-04-21T13:42:28Z |
+| [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust) | no description | 2024-04-20T18:54:00Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
@@ -452,6 +467,7 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2024-21378](https://www.cve.org/CVERecord?id=CVE-2024-21378) | [tmcve/CVE-2024-TEST](https://github.com/tmcve/CVE-2024-TEST) | aaa | 2024-03-13T16:16:53Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [hakaioffsec/CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) | Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled. | 2024-04-13T05:53:02Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338) | Fork of https://github.com/hakaioffsec/CVE-2024-21338 | 2024-04-17T10:16:21Z |
+| [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338) | PoC for the Untrusted Pointer Dereference in the appid.sys driver | 2024-04-23T19:09:22Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z |
@@ -1121,6 +1137,7 @@ Last generated: 2024-05-22 01:55:41.513200
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z |
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z |
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z |
+| [CVE-2023-40278](https://www.cve.org/CVERecord?id=CVE-2023-40278) | [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278) | no description | 2024-03-16T06:12:56Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z |
@@ -5309,3 +5326,4 @@ Last generated: 2024-05-22 01:55:41.513200
 | CVE NOT FOUND | [blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC](https://github.com/blackmagic2023/AnyDesk-7.0.15---Unquoted-Service-Path-PoC) | This script serves as a proof of concept (PoC) for the CVE-2024-XXXX vulnerability in AnyDesk version 7.0.15. The vulnerability involves an unquoted service path, allowing an authorized but non-privileged local user to potentially execute arbitrary code with elevated privileges on the system. | 2024-04-10T12:58:12Z |
 | CVE NOT FOUND | [psudo-bugboy/CVE-2024](https://github.com/psudo-bugboy/CVE-2024) | Small CRM | 2024-04-06T20:21:22Z |
 | CVE NOT FOUND | [Brownpanda29/cve202424576](https://github.com/Brownpanda29/cve202424576) | no description | 2024-04-14T00:35:41Z |
+| CVE NOT FOUND | [LearningOS/rust-rustlings-2024-spring-ChenCveral](https://github.com/LearningOS/rust-rustlings-2024-spring-ChenCveral) | rust-rustlings-2024-spring-ChenCveral created by GitHub Classroom | 2024-04-08T08:09:17Z |
