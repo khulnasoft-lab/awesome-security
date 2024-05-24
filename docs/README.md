@@ -2,13 +2,14 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-23 01:54:53.988770
+Last generated: 2024-05-24 01:56:09.715132
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -37,6 +38,7 @@ Last generated: 2024-05-23 01:54:53.988770
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [W01fh4cker/CVE-2024-3400-RCE-Scan](https://github.com/W01fh4cker/CVE-2024-3400-RCE-Scan) | CVE-2024-3400-RCE | 2024-04-16T16:18:56Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400) | no description | 2024-04-18T10:16:22Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400) | Python exploit and checker script for CVE-2024-3400 Palo Alto Command Injection and Arbitrary File Creation | 2024-04-21T12:38:13Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection](https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection) | no description | 2024-04-25T10:23:03Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
@@ -205,6 +207,7 @@ Last generated: 2024-05-23 01:54:53.988770
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE) | UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. | 2024-04-08T13:54:07Z |
+| [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876) | POC for SQLi vulnerability in Icegram express | 2024-04-25T09:53:22Z |
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z |
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z |
 | [CVE-2024-2865](https://www.cve.org/CVERecord?id=CVE-2024-2865) | [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL) | [CRITICAL] Mergen Software QMS Exploit SQL injection to RFI (Remote File Inclusion) | 2024-03-26T08:20:07Z |
@@ -507,6 +510,7 @@ Last generated: 2024-05-23 01:54:53.988770
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [Whiteh4tWolf/CVE-2024-1651-PoC](https://github.com/Whiteh4tWolf/CVE-2024-1651-PoC) | no description | 2024-04-19T16:18:59Z |
 | [CVE-2024-1642470](https://www.cve.org/CVERecord?id=CVE-2024-1642470) | [Symbolexe/CVE-2024-1642470](https://github.com/Symbolexe/CVE-2024-1642470) | CVE-2024-1642470 is a critical vulnerability discovered in the Windows USB Generic Parent Driver. The vulnerability arises due to improper input validation within the driver&#x27;s IOCTL handling mechanism. As a result, remote attackers can execute arbitrary code via crafted IOCTL requests, potentially leading to system compromise. | 2024-04-15T17:51:59Z |
 | [CVE-2024-1512](https://www.cve.org/CVERecord?id=CVE-2024-1512) | [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512) | PoC for CVE-2024-1512 in MasterStudy LMS WordPress Plugin. | 2024-03-01T11:08:37Z |
+| [CVE-2024-1441](https://www.cve.org/CVERecord?id=CVE-2024-1441) | [almkuznetsov/CVE-2024-1441](https://github.com/almkuznetsov/CVE-2024-1441) | no description | 2024-04-16T07:14:33Z |
 | [CVE-2024-1403](https://www.cve.org/CVERecord?id=CVE-2024-1403) | [horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403) | Progress OpenEdge Authentication Bypass | 2024-03-06T15:27:18Z |
 | [CVE-2024-1346](https://www.cve.org/CVERecord?id=CVE-2024-1346) | [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346) | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | 2024-02-25T11:51:03Z |
 | [CVE-2024-1304](https://www.cve.org/CVERecord?id=CVE-2024-1304) | [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS) | POC Badgermeter moni tool - CVE-2024-1304 | 2024-02-08T09:29:54Z |
@@ -1137,7 +1141,11 @@ Last generated: 2024-05-23 01:54:53.988770
 | [CVE-2023-40297](https://www.cve.org/CVERecord?id=CVE-2023-40297) | [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297) | Stakater Forecastle 1.0.127 allows directory traversal in the website component | 2023-08-14T06:18:48Z |
 | [CVE-2023-40296](https://www.cve.org/CVERecord?id=CVE-2023-40296) | [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296) | Proof of Concept for CVE-2023-40296 | 2023-08-14T05:21:27Z |
 | [CVE-2023-40295](https://www.cve.org/CVERecord?id=CVE-2023-40295) | [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295) | Proof of concept for CVE-2023-40294 and CVE-2023-40295 | 2023-08-14T05:12:05Z |
+| [CVE-2023-40280](https://www.cve.org/CVERecord?id=CVE-2023-40280) | [BugBountyHunterCVE/CVE-2023-40280](https://github.com/BugBountyHunterCVE/CVE-2023-40280) | no description | 2024-03-16T06:25:42Z |
+| [CVE-2023-40279](https://www.cve.org/CVERecord?id=CVE-2023-40279) | [BugBountyHunterCVE/CVE-2023-40279](https://github.com/BugBountyHunterCVE/CVE-2023-40279) | no description | 2024-03-16T06:30:03Z |
 | [CVE-2023-40278](https://www.cve.org/CVERecord?id=CVE-2023-40278) | [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278) | no description | 2024-03-16T06:12:56Z |
+| [CVE-2023-40277](https://www.cve.org/CVERecord?id=CVE-2023-40277) | [BugBountyHunterCVE/CVE-2023-40277](https://github.com/BugBountyHunterCVE/CVE-2023-40277) | no description | 2024-03-16T03:52:54Z |
+| [CVE-2023-40276](https://www.cve.org/CVERecord?id=CVE-2023-40276) | [BugBountyHunterCVE/CVE-2023-40276](https://github.com/BugBountyHunterCVE/CVE-2023-40276) | no description | 2024-03-16T06:06:12Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z |
@@ -2808,6 +2816,7 @@ Last generated: 2024-05-23 01:54:53.988770
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation) | A vulnerable Spring Boot application that uses log4j and is vulnerable to CVE-2021-44228, CVE-2021-44832, CVE-2021-45046 and CVE-2021-45105 | 2023-04-02T23:03:28Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb) | this web is vulnerable against CVE-2021-44228 | 2023-03-20T14:09:30Z |
 | [CVE-2021-30357](https://www.cve.org/CVERecord?id=CVE-2021-30357) | [joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC](https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC) | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client | 2023-06-18T21:52:28Z |
+| [CVE-2021-3019](https://www.cve.org/CVERecord?id=CVE-2021-3019) | [a1665454764/CVE-2021-3019](https://github.com/a1665454764/CVE-2021-3019) | CVE-2021-3019 | 2023-08-30T09:41:09Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [andyhsu024/CVE-2021-29447](https://github.com/andyhsu024/CVE-2021-29447) | no description | 2023-04-24T01:33:22Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [zeroch1ll/cve-2021-29447](https://github.com/zeroch1ll/cve-2021-29447) | no description | 2023-04-14T18:22:14Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447) | A Golang program to automate the execution of CVE-2021-29447 | 2022-11-15T03:15:59Z |
