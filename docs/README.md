@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-24 01:56:09.715132
+Last generated: 2024-05-25 01:53:57.436350
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Last generated: 2024-05-24 01:56:09.715132
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400) | no description | 2024-04-18T10:16:22Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Kr0ff/cve-2024-3400](https://github.com/Kr0ff/cve-2024-3400) | Python exploit and checker script for CVE-2024-3400 Palo Alto Command Injection and Arbitrary File Creation | 2024-04-21T12:38:13Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection](https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection) | no description | 2024-04-25T10:23:03Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker) | Check to see if your Palo Alto firewall has been compromised by running script againt support bundle. | 2024-04-24T14:30:34Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273) | D-Link NAS Command Execution Exploit | 2024-04-10T00:27:02Z |
@@ -243,6 +244,7 @@ Last generated: 2024-05-24 01:56:09.715132
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198) | Exploit for CVE-2024-27198 - TeamCity Server | 2024-03-05T05:43:06Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z |
+| [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Stuub/RCity-CVE-2024-27198](https://github.com/Stuub/RCity-CVE-2024-27198) | CVE-2024-27198 &amp; CVE-2024-27199 PoC - RCE, Admin Account Creation, Enum Users, Server Information | 2024-04-22T22:14:24Z |
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z |
@@ -1036,6 +1038,7 @@ Last generated: 2024-05-24 01:56:09.715132
 | [CVE-2023-43263](https://www.cve.org/CVERecord?id=CVE-2023-43263) | [b0marek/CVE-2023-43263](https://github.com/b0marek/CVE-2023-43263) | Repository for CVE-2023-43263 vulnerability. | 2023-09-26T08:24:16Z |
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | 2023-09-28T08:45:55Z |
 | [CVE-2023-43261](https://www.cve.org/CVERecord?id=CVE-2023-43261) | [nomis/eero-zero-length-ipv6-options-header-dos](https://github.com/nomis/eero-zero-length-ipv6-options-header-dos) | eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324) | 2023-09-30T20:32:51Z |
+| [CVE-2023-43208](https://www.cve.org/CVERecord?id=CVE-2023-43208) | [K3ysTr0K3R/CVE-2023-43208-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT) | A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE) | 2024-03-15T12:03:51Z |
 | [CVE-2023-43177](https://www.cve.org/CVERecord?id=CVE-2023-43177) | [the-emmons/CVE-2023-43177](https://github.com/the-emmons/CVE-2023-43177) | CrushFTP &lt;= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis | 2023-12-27T00:06:20Z |
 | [CVE-2023-43154](https://www.cve.org/CVERecord?id=CVE-2023-43154) | [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC) | PoC for the type confusion vulnerability in Mac&#x27;s CMS that results in authentication bypass and administrator account takeover. | 2023-09-09T00:21:58Z |
 | [CVE-2023-43149](https://www.cve.org/CVERecord?id=CVE-2023-43149) | [MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149) | CVE-2023-43149 | 2023-10-12T16:11:39Z |
