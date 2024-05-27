@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-26 01:59:36.581390
+Last generated: 2024-05-27 01:57:14.035409
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -10,6 +10,8 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mohammaddvd/CVE-2024-4040](https://github.com/Mohammaddvd/CVE-2024-4040) | Exploit CrushFTP CVE-2024-4040 | 2024-04-30T13:27:34Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server) | Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms | 2024-04-29T10:21:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -61,6 +63,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
 | [CVE-2024-31734](https://www.cve.org/CVERecord?id=CVE-2024-31734) | [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734) | CVE-2024-31734 | 2024-04-15T07:19:10Z |
 | [CVE-2024-31719](https://www.cve.org/CVERecord?id=CVE-2024-31719) | [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability) | no description | 2023-07-30T00:07:14Z |
+| [CVE-2024-3154](https://www.cve.org/CVERecord?id=CVE-2024-3154) | [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication) | how does it run？ | 2024-04-29T04:03:11Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497) | A script designed to uncover vulnerabilities in Putty by exploiting CVE-2024-31497. | 2024-04-17T04:00:20Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497) | no description | 2024-04-17T10:43:42Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
@@ -205,6 +208,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2024-29399](https://www.cve.org/CVERecord?id=CVE-2024-29399) | [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399) | CVE-2024-29399 reference | 2024-04-08T23:03:04Z |
 | [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z |
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296) | CVE-2024-29296 - User enumeration on Portainer CE - 2.19.4 | 2024-04-09T20:36:03Z |
+| [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [Lavender-exe/CVE-2024-29296-PoC](https://github.com/Lavender-exe/CVE-2024-29296-PoC) | User Enumeration through response time difference | 2024-04-29T19:09:41Z |
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269) | Telesquare TLR-2005KSH_RCE (CVE-2024-29269) Batch scan/exploit | 2024-04-12T07:36:08Z |
@@ -399,6 +403,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream](https://github.com/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream) | no description | 2024-03-17T10:56:02Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [jhonnybonny/CVE-2024-23334](https://github.com/jhonnybonny/CVE-2024-23334) | aiohttp LFI (CVE-2024-23334) | 2024-03-19T16:28:56Z |
+| [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [brian-edgar-re/poc-cve-2024-23334](https://github.com/brian-edgar-re/poc-cve-2024-23334) | This repository contains a proof of concept about the exploitation of the aiohttp library for the reported vulnerability CVE-2024-23334. | 2024-04-27T13:21:50Z |
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z |
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
@@ -536,6 +541,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
+| [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker) | no description | 2024-03-18T17:07:27Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071) | CVE-2024-1071 | 2024-03-18T16:58:46Z |
@@ -1160,6 +1166,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2023-40278](https://www.cve.org/CVERecord?id=CVE-2023-40278) | [BugBountyHunterCVE/CVE-2023-40278](https://github.com/BugBountyHunterCVE/CVE-2023-40278) | no description | 2024-03-16T06:12:56Z |
 | [CVE-2023-40277](https://www.cve.org/CVERecord?id=CVE-2023-40277) | [BugBountyHunterCVE/CVE-2023-40277](https://github.com/BugBountyHunterCVE/CVE-2023-40277) | no description | 2024-03-16T03:52:54Z |
 | [CVE-2023-40276](https://www.cve.org/CVERecord?id=CVE-2023-40276) | [BugBountyHunterCVE/CVE-2023-40276](https://github.com/BugBountyHunterCVE/CVE-2023-40276) | no description | 2024-03-16T06:06:12Z |
+| [CVE-2023-40275](https://www.cve.org/CVERecord?id=CVE-2023-40275) | [BugBountyHunterCVE/CVE-2023-40275](https://github.com/BugBountyHunterCVE/CVE-2023-40275) | no description | 2024-03-16T06:20:30Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z |
@@ -1291,6 +1298,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [d0rb/CVE-2023-38545](https://github.com/d0rb/CVE-2023-38545) | socks5 heap buffer overflow | 2023-10-17T09:03:15Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [bcdannyboy/CVE-2023-38545](https://github.com/bcdannyboy/CVE-2023-38545) | A proof of concept for testing CVE-2023-38545 against local curl | 2023-10-16T15:55:32Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [LeHeron/TC_test](https://github.com/LeHeron/TC_test) | Test repo pour la CVE-2023-42793 de TeamCity | 2023-10-16T12:52:17Z |
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [Yang-Shun-Yu/CVE-2023-38545](https://github.com/Yang-Shun-Yu/CVE-2023-38545) | no description | 2024-03-19T13:45:09Z |
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z |
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z |
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z |
@@ -1877,6 +1885,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2023-26469](https://www.cve.org/CVERecord?id=CVE-2023-26469) | [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469) | CVE-2023-26469 REC PoC | 2023-09-01T09:41:32Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z |
+| [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629) | no description | 2024-03-19T22:56:24Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360) | Exploit for Arbitrary File Read for CVE-2023-26360 - Adobe Coldfusion | 2023-12-26T06:26:01Z |
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z |
 | [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z |
@@ -2193,6 +2202,7 @@ Last generated: 2024-05-26 01:59:36.581390
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z |
+| [CVE-2023-0266](https://www.cve.org/CVERecord?id=CVE-2023-0266) | [SeanHeelan/claude_opus_cve_2023_0266](https://github.com/SeanHeelan/claude_opus_cve_2023_0266) | Demo showing Claude Opus does not find CVE-2023-0266 | 2024-03-10T04:41:34Z |
 | [CVE-2023-0255](https://www.cve.org/CVERecord?id=CVE-2023-0255) | [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC) | Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload | 2023-09-20T00:17:57Z |
 | [CVE-2023-0157](https://www.cve.org/CVERecord?id=CVE-2023-0157) | [b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157) | Repository for CVE-2023-0157 vulnerability. | 2023-09-24T08:20:30Z |
 | [CVE-2023-0156](https://www.cve.org/CVERecord?id=CVE-2023-0156) | [b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156) | Repository for CVE-2023-0156 vulnerability. | 2023-09-24T08:10:31Z |
