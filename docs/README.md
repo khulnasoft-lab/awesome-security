@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-28 01:57:23.413058
+Last generated: 2024-05-29 01:58:52.949196
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -195,6 +195,7 @@ Last generated: 2024-05-28 01:57:23.413058
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor) | An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool. | 2024-04-05T01:44:26Z |
 | [CVE-2024-30656](https://www.cve.org/CVERecord?id=CVE-2024-30656) | [Yashodhanvivek/Firebolt-wristphone-vulnerability](https://github.com/Yashodhanvivek/Firebolt-wristphone-vulnerability) | This repository is for Firebolt wristphone vulnerability for CVE ID CVE-2024-30656 suggested by MITRE. Mitre yet to confirm on ID | 2024-04-08T17:05:39Z |
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
+| [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -225,6 +226,7 @@ Last generated: 2024-05-28 01:57:23.413058
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757) | no description | 2024-05-03T04:58:24Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757) | no description | 2024-05-03T10:11:38Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757) | no description | 2024-05-03T09:21:27Z |
+| [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [saurabh2088/expat_2_1_0_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_0_CVE-2024-28757) | no description | 2024-05-03T09:24:51Z |
 | [CVE-2024-28741](https://www.cve.org/CVERecord?id=CVE-2024-28741) | [chebuya/CVE-2024-28741-northstar-agent-rce-poc](https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc) | Agent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2. | 2024-03-12T01:40:35Z |
 | [CVE-2024-28715](https://www.cve.org/CVERecord?id=CVE-2024-28715) | [Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715) | no description | 2024-03-13T01:59:57Z |
 | [CVE-2024-2865](https://www.cve.org/CVERecord?id=CVE-2024-2865) | [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL) | [CRITICAL] Mergen Software QMS Exploit SQL injection to RFI (Remote File Inclusion) | 2024-03-26T08:20:07Z |
@@ -241,7 +243,10 @@ Last generated: 2024-05-28 01:57:23.413058
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
 | [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
+| [CVE-2024-27971](https://www.cve.org/CVERecord?id=CVE-2024-27971) | [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note) | CVE-2024-27971 WordPress Premmerce Permalink Manager for WooCommerce Plugin &lt;= 2.3.10 is vulnerable to Local File Inclusion | 2024-05-03T13:38:33Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956) | CVE-2024-27956 WordPress Automatic &lt; 3.92.1 - Unauthenticated SQL Injection | 2024-04-27T11:03:36Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN) | CVE-2024-27956 WORDPRESS RCE PLUGIN | 2024-05-03T16:19:19Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [diego-tella/CVE-2024-27956-RCE](https://github.com/diego-tella/CVE-2024-27956-RCE) | PoC for SQL Injection in CVE-2024-27956 | 2024-05-01T01:58:28Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z |
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z |
@@ -487,6 +492,7 @@ Last generated: 2024-05-28 01:57:23.413058
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413) | no description | 2024-02-29T10:07:34Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [DevAkabari/CVE-2024-21413](https://github.com/DevAkabari/CVE-2024-21413) | CVE-2024-21413 exploit | 2024-02-28T07:26:24Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [CMNatic/CVE-2024-21413](https://github.com/CMNatic/CVE-2024-21413) | CVE-2024-21413 PoC for THM Lab | 2024-02-17T14:52:52Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit) | CVE-2024-21413 Microsoft Outlook RCE Exploit | 2024-05-03T16:09:54Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -2760,6 +2766,7 @@ Last generated: 2024-05-28 01:57:23.413058
 | [CVE-2021-40113](https://www.cve.org/CVERecord?id=CVE-2021-40113) | [karamMahmad/CVE-2021-40113](https://github.com/karamMahmad/CVE-2021-40113) | Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform c CVE project by @Sn0wAlice | 2023-01-30T10:30:36Z |
 | [CVE-2021-39696](https://www.cve.org/CVERecord?id=CVE-2021-39696) | [nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696) | no description | 2023-01-05T06:42:33Z |
 | [CVE-2021-39692](https://www.cve.org/CVERecord?id=CVE-2021-39692) | [nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692](https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692) | no description | 2022-04-26T13:03:35Z |
+| [CVE-2021-39473](https://www.cve.org/CVERecord?id=CVE-2021-39473) | [BrunoTeixeira1996/CVE-2021-39473](https://github.com/BrunoTeixeira1996/CVE-2021-39473) | no description | 2023-09-01T23:16:05Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE) | Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172 | 2022-09-17T07:58:33Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [GeoSn0w/Pentagram-exploit-tester](https://github.com/GeoSn0w/Pentagram-exploit-tester) | A test app to check if your device is vulnerable to CVE-2021-30955 | 2022-03-18T12:32:10Z |
 | [CVE-2021-38819](https://www.cve.org/CVERecord?id=CVE-2021-38819) | [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819) | no description | 2022-11-08T17:01:41Z |
