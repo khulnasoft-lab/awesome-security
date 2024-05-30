@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-29 01:58:52.949196
+Last generated: 2024-05-30 01:57:40.161437
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mohammaddvd/CVE-2024-4040](https://github.com/Mohammaddvd/CVE-2024-4040) | Exploit CrushFTP CVE-2024-4040 | 2024-04-30T13:27:34Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server) | Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms | 2024-04-29T10:21:53Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability) | no description | 2024-05-01T14:42:39Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-03T23:29:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -64,6 +65,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [FuBoLuSec/CVE-2024-32238](https://github.com/FuBoLuSec/CVE-2024-32238) | H3C ER8300G2-X config download | 2024-04-20T16:23:10Z |
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
+| [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
 | [CVE-2024-31734](https://www.cve.org/CVERecord?id=CVE-2024-31734) | [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734) | CVE-2024-31734 | 2024-04-15T07:19:10Z |
@@ -195,6 +197,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2024-30657](https://www.cve.org/CVERecord?id=CVE-2024-30657) | [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor) | An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool. | 2024-04-05T01:44:26Z |
 | [CVE-2024-30656](https://www.cve.org/CVERecord?id=CVE-2024-30656) | [Yashodhanvivek/Firebolt-wristphone-vulnerability](https://github.com/Yashodhanvivek/Firebolt-wristphone-vulnerability) | This repository is for Firebolt wristphone vulnerability for CVE ID CVE-2024-30656 suggested by MITRE. Mitre yet to confirm on ID | 2024-04-08T17:05:39Z |
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
+| [CVE-2024-30491](https://www.cve.org/CVERecord?id=CVE-2024-30491) | [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc) | CVE-2024-30491 ProfileGrid &lt;= 5.7.8 - Authenticated (Subscriber+) SQL Injection | 2024-05-04T14:22:15Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
@@ -276,6 +279,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2024-26521](https://www.cve.org/CVERecord?id=CVE-2024-26521) | [hackervegas001/CVE-2024-26521](https://github.com/hackervegas001/CVE-2024-26521) | Html Injection vulnearbility in CE-Phoenix-v1.0.8.20 where malicious HTML code is inserted into a website. This can lead to a variety of issues, from minor website defacement to serious data breaches. | 2024-02-16T05:40:33Z |
 | [CVE-2024-26503](https://www.cve.org/CVERecord?id=CVE-2024-26503) | [RoboGR00t/Exploit-CVE-2024-26503](https://github.com/RoboGR00t/Exploit-CVE-2024-26503) | Exploit for Open eClass – CVE-2024-26503: Unrestricted File Upload Leads to Remote Code Execution | 2024-03-15T13:01:43Z |
 | [CVE-2024-26475](https://www.cve.org/CVERecord?id=CVE-2024-26475) | [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475) | An issue in radareorg radare2 v.0.9.7 through v.5.8.6 and fixed in v.5.8.8 allows a local attacker to cause a denial of service via the grub_sfs_read_extent function. | 2024-03-10T22:51:05Z |
+| [CVE-2024-26304](https://www.cve.org/CVERecord?id=CVE-2024-26304) | [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits) | Critical RCE Vulnerabilities in HPE Aruba Devices (may 2024) | 2024-05-04T10:09:24Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
 | [CVE-2024-25832](https://www.cve.org/CVERecord?id=CVE-2024-25832) | [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) | PoC Script for CVE-2024-25832: Exploit chain reverse shell, information disclosure (root password leak) + unrestricted file upload in DataCube3 | 2024-03-06T04:11:59Z |
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z |
@@ -1194,6 +1198,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2023-40044](https://www.cve.org/CVERecord?id=CVE-2023-40044) | [kenbuckler/WS_FTP-CVE-2023-40044](https://github.com/kenbuckler/WS_FTP-CVE-2023-40044) | Analysis of WS_FTP CVE | 2023-10-02T14:55:38Z |
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z |
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z |
+| [CVE-2023-40028](https://www.cve.org/CVERecord?id=CVE-2023-40028) | [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028) | no description | 2024-03-23T15:25:49Z |
 | [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000) | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | 2024-02-28T19:36:40Z |
 | [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z |
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z |
@@ -1610,6 +1615,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [hansengentle/CVE-2023](https://github.com/hansengentle/CVE-2023) | no description | 2023-07-07T20:16:50Z |
 | [CVE-2023-33592](https://www.cve.org/CVERecord?id=CVE-2023-33592) | [Acous7icwav3/CVE-2023-33592](https://github.com/Acous7icwav3/CVE-2023-33592) | CVE-2023-33592批量漏洞利用程序 | 2023-07-14T03:15:13Z |
 | [CVE-2023-33592](https://www.cve.org/CVERecord?id=CVE-2023-33592) | [deepinstinct/Storm0978-RomCom-Campaign](https://github.com/deepinstinct/Storm0978-RomCom-Campaign) | Recent Campaign abusing CVE-2023-36884 | 2023-07-13T12:54:00Z |
+| [CVE-2023-33580](https://www.cve.org/CVERecord?id=CVE-2023-33580) | [sudovivek/My-CVE](https://github.com/sudovivek/My-CVE) | Explore CVE-2023-33580 (XSS) &amp; CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights. | 2023-06-04T11:27:20Z |
 | [CVE-2023-33567](https://www.cve.org/CVERecord?id=CVE-2023-33567) | [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567) | Unauthorized Access Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:39:52Z |
 | [CVE-2023-33566](https://www.cve.org/CVERecord?id=CVE-2023-33566) | [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566) | Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:36:33Z |
 | [CVE-2023-33565](https://www.cve.org/CVERecord?id=CVE-2023-33565) | [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565) | Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:26:55Z |
@@ -2313,6 +2319,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [fanbyprinciple/ImageMagick-lfi-poc](https://github.com/fanbyprinciple/ImageMagick-lfi-poc) | ImageMagick Arbitrary Read Files - CVE-2022-44268 | 2023-07-23T06:56:59Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito) | CVE-2022-44268_By_Kyokito | 2023-08-13T04:43:12Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [atici/Exploit-for-ImageMagick-CVE-2022-44268](https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268) | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | 2023-09-05T17:16:06Z |
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Vagebondcur/IMAGE-MAGICK-CVE-2022-44268](https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268) | no description | 2023-10-13T15:43:49Z |
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z |
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z |
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z |
@@ -2519,6 +2526,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Le1a/CVE-2022-22947](https://github.com/Le1a/CVE-2022-22947) | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | 2023-05-26T11:52:22Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [wallbreak1991/cve-2022-22947](https://github.com/wallbreak1991/cve-2022-22947) | 121 | 2023-03-15T09:33:46Z |
 | [CVE-2022-22827](https://www.cve.org/CVERecord?id=CVE-2022-22827) | [nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827) | no description | 2022-04-11T13:57:41Z |
+| [CVE-2022-22817](https://www.cve.org/CVERecord?id=CVE-2022-22817) | [JawadPy/CVE-2022-22817-Exploit](https://github.com/JawadPy/CVE-2022-22817-Exploit) | Example of CVE-2022-22817 | 2023-10-05T22:57:37Z |
 | [CVE-2022-22733](https://www.cve.org/CVERecord?id=CVE-2022-22733) | [Zeyad-Azima/CVE-2022-22733](https://github.com/Zeyad-Azima/CVE-2022-22733) | Apache ShardingSphere ElasticJob-UI Privilege Escalation &amp; RCE Exploit | 2023-04-25T11:39:40Z |
 | [CVE-2022-22620](https://www.cve.org/CVERecord?id=CVE-2022-22620) | [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620) | CVE-2022-22620: Use-after-free in Safari | 2022-06-14T22:08:14Z |
 | [CVE-2022-22274](https://www.cve.org/CVERecord?id=CVE-2022-22274) | [forthisvideo/CVE-2022-22274_poc](https://github.com/forthisvideo/CVE-2022-22274_poc) | no description | 2023-06-11T16:56:53Z |
@@ -2580,6 +2588,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study](https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study) | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | 2023-07-12T15:53:33Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388) | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | 2022-10-25T12:29:54Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388) | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | 2022-05-12T16:54:52Z |
+| [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [battleofthebots/refresh](https://github.com/battleofthebots/refresh) | CVE-2022-1388 - F5 Router RCE Replica | 2023-08-01T18:12:52Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z |
@@ -2810,6 +2819,7 @@ Last generated: 2024-05-29 01:58:52.949196
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [TotallyNotAHaxxer/f-for-java](https://github.com/TotallyNotAHaxxer/f-for-java) | a project written in go and java i abandoned for CVE-2021-44228 try to fix it if you can XD | 2021-12-20T01:31:06Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [MadExploits/Laravel-debug-Checker](https://github.com/MadExploits/Laravel-debug-Checker) | CVE-2021-3129 Exploit Checker By ./MrMad | 2022-12-10T03:32:34Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [d0rb/CVE-2021-34527](https://github.com/d0rb/CVE-2021-34527) | CVE-2021-34527 PrintNightmare PoC | 2023-08-20T12:04:18Z |
+| [CVE-2021-34523](https://www.cve.org/CVERecord?id=CVE-2021-34523) | [SUPRAAA-1337/CVE-2021-34523](https://github.com/SUPRAAA-1337/CVE-2021-34523) | test-yaml | 2023-09-02T12:26:18Z |
 | [CVE-2021-34473](https://www.cve.org/CVERecord?id=CVE-2021-34473) | [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER) | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | 2022-11-16T08:22:29Z |
 | [CVE-2021-34473](https://www.cve.org/CVERecord?id=CVE-2021-34473) | [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell) | Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207 | 2021-09-04T15:34:03Z |
 | [CVE-2021-3438](https://www.cve.org/CVERecord?id=CVE-2021-3438) | [CrackerCat/CVE-2021-3438](https://github.com/CrackerCat/CVE-2021-3438) | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege. | 2023-05-22T00:00:34Z |
