@@ -2,11 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-30 01:57:40.161437
+Last generated: 2024-05-31 01:57:12.348936
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
+| [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -14,6 +16,10 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server) | Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms | 2024-04-29T10:21:53Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability) | no description | 2024-05-01T14:42:39Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-03T23:29:53Z |
+| [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
+| [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
+| [CVE-2024-34471](https://www.cve.org/CVERecord?id=CVE-2024-34471) | [osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471) | no description | 2024-05-05T01:10:39Z |
+| [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470) | no description | 2024-05-05T00:31:31Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -46,6 +52,7 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [terminalJunki3/CVE-2024-3400-Checker](https://github.com/terminalJunki3/CVE-2024-3400-Checker) | Check to see if your Palo Alto firewall has been compromised by running script againt support bundle. | 2024-04-24T14:30:34Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400) | Exploit for GlobalProtect CVE-2024-3400 | 2024-04-27T18:58:41Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker) | A simple bash script to check for evidence of compromise related to CVE-2024-3400 | 2024-04-15T03:28:22Z |
+| [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
@@ -59,12 +66,15 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273) | no description | 2024-04-16T09:12:58Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273) | Quick and dirty honeypot for CVE-2024-3273 | 2024-04-07T21:15:33Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
+| [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
+| [CVE-2024-32369](https://www.cve.org/CVERecord?id=CVE-2024-32369) | [chucrutis/CVE-2024-32369](https://github.com/chucrutis/CVE-2024-32369) | no description | 2024-05-06T17:22:15Z |
 | [CVE-2024-32258](https://www.cve.org/CVERecord?id=CVE-2024-32258) | [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258) | no description | 2024-04-18T17:07:07Z |
 | [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [asdfjkl11/CVE-2024-32238](https://github.com/asdfjkl11/CVE-2024-32238) | no description | 2024-04-20T03:55:21Z |
 | [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [FuBoLuSec/CVE-2024-32238](https://github.com/FuBoLuSec/CVE-2024-32238) | H3C ER8300G2-X config download | 2024-04-20T16:23:10Z |
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
+| [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
@@ -133,6 +143,7 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-](https://github.com/fevar54/Detectar-Backdoor-en-liblzma-de-XZ-utils-CVE-2024-3094-) | La siguiente regla YARA ayuda a detectar la presencia del backdoor en la librería liblzma comprometida en sistemas que utilizan las versiones 5.6.0 y 5.6.1 de la herramienta de compresión XZ. | 2024-04-13T16:37:32Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy) | XZ Utils CVE-2024-3094 POC for Kubernetes | 2024-04-18T13:08:05Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [przemoc/xz-backdoor-links](https://github.com/przemoc/xz-backdoor-links) | apocalypxze: xz backdoor (2024) AKA CVE-2024-3094 related links | 2024-04-02T20:17:07Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [reuteras/CVE-2024-3094](https://github.com/reuteras/CVE-2024-3094) | Obsidian notes about CVE-2024-3094 | 2024-04-01T12:41:00Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
 | [CVE-2024-30850](https://www.cve.org/CVERecord?id=CVE-2024-30850) | [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc) | CHAOS RAT web panel path RCE PoC | 2024-04-05T21:35:04Z |
@@ -293,6 +304,7 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [K3ysTr0K3R/CVE-2024-25600-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT) | A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE) | 2024-03-01T09:28:08Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-04-17T15:21:01Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://github.com/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE) | WORDPRESS-CVE-2024-25600-EXPLOIT-RCE - WordPress Bricks Builder Remote Code Execution (RCE) | 2024-04-20T06:36:22Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [RHYru9/CVE-2024-25600-mass](https://github.com/RHYru9/CVE-2024-25600-mass) | no description | 2024-05-05T02:18:00Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
@@ -511,6 +523,7 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z |
 | [CVE-2024-21107](https://www.cve.org/CVERecord?id=CVE-2024-21107) | [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107) | Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges | 2024-04-17T06:13:20Z |
+| [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006) | no description | 2024-05-01T03:08:48Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931) | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | 2024-02-06T15:09:33Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z |
@@ -541,6 +554,7 @@ Last generated: 2024-05-30 01:57:40.161437
 | [CVE-2024-1708](https://www.cve.org/CVERecord?id=CVE-2024-1708) | [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708) | no description | 2024-04-02T04:58:38Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit) | This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698. | 2024-03-29T04:11:06Z |
+| [CVE-2024-1655](https://www.cve.org/CVERecord?id=CVE-2024-1655) | [lnversed/CVE-2024-1655](https://github.com/lnversed/CVE-2024-1655) | no description | 2024-05-06T10:56:47Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC) | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | 2024-02-23T11:04:24Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [Whiteh4tWolf/CVE-2024-1651-PoC](https://github.com/Whiteh4tWolf/CVE-2024-1651-PoC) | no description | 2024-04-19T16:18:59Z |
