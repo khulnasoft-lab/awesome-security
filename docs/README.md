@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-05-31 01:57:12.348936
+Last generated: 2024-06-01 02:00:01.764610
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -16,10 +16,17 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server) | Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms | 2024-04-29T10:21:53Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability) | no description | 2024-05-01T14:42:39Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-03T23:29:53Z |
+| [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
+| [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
 | [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
 | [CVE-2024-34471](https://www.cve.org/CVERecord?id=CVE-2024-34471) | [osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471) | no description | 2024-05-05T01:10:39Z |
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470) | no description | 2024-05-05T00:31:31Z |
+| [CVE-2024-34469](https://www.cve.org/CVERecord?id=CVE-2024-34469) | [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469) | CVE-2024-34469 | 2024-05-07T07:47:20Z |
+| [CVE-2024-34310](https://www.cve.org/CVERecord?id=CVE-2024-34310) | [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310) | CVE-2024-34310 | 2024-05-10T13:36:19Z |
+| [CVE-2024-34223](https://www.cve.org/CVERecord?id=CVE-2024-34223) | [dovankha/CVE-2024-34223](https://github.com/dovankha/CVE-2024-34223) | CVE-2024-34223 - Insecure permission | 2024-05-11T08:36:16Z |
+| [CVE-2024-34222](https://www.cve.org/CVERecord?id=CVE-2024-34222) | [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222) | CVE-2024-34222 - SQL injection | 2024-05-11T08:20:55Z |
+| [CVE-2024-34221](https://www.cve.org/CVERecord?id=CVE-2024-34221) | [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221) | CVE-2024-34221 - Insecure pemission | 2024-05-09T10:32:30Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -54,6 +61,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker) | A simple bash script to check for evidence of compromise related to CVE-2024-3400 | 2024-04-15T03:28:22Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
+| [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
 | [CVE-2024-33078](https://www.cve.org/CVERecord?id=CVE-2024-33078) | [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078) | no description | 2024-05-01T15:45:45Z |
@@ -68,6 +76,8 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
+| [CVE-2024-32371](https://www.cve.org/CVERecord?id=CVE-2024-32371) | [chucrutis/CVE-2024-32371](https://github.com/chucrutis/CVE-2024-32371) | no description | 2024-05-06T17:41:06Z |
+| [CVE-2024-32370](https://www.cve.org/CVERecord?id=CVE-2024-32370) | [chucrutis/CVE-2024-32370](https://github.com/chucrutis/CVE-2024-32370) | no description | 2024-05-06T17:28:57Z |
 | [CVE-2024-32369](https://www.cve.org/CVERecord?id=CVE-2024-32369) | [chucrutis/CVE-2024-32369](https://github.com/chucrutis/CVE-2024-32369) | no description | 2024-05-06T17:22:15Z |
 | [CVE-2024-32258](https://www.cve.org/CVERecord?id=CVE-2024-32258) | [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258) | no description | 2024-04-18T17:07:07Z |
 | [CVE-2024-32238](https://www.cve.org/CVERecord?id=CVE-2024-32238) | [asdfjkl11/CVE-2024-32238](https://github.com/asdfjkl11/CVE-2024-32238) | no description | 2024-04-20T03:55:21Z |
@@ -76,6 +86,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
+| [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
 | [CVE-2024-31734](https://www.cve.org/CVERecord?id=CVE-2024-31734) | [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734) | CVE-2024-31734 | 2024-04-15T07:19:10Z |
@@ -261,6 +272,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956) | CVE-2024-27956 WordPress Automatic &lt; 3.92.1 - Unauthenticated SQL Injection | 2024-04-27T11:03:36Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN) | CVE-2024-27956 WORDPRESS RCE PLUGIN | 2024-05-03T16:19:19Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [diego-tella/CVE-2024-27956-RCE](https://github.com/diego-tella/CVE-2024-27956-RCE) | PoC for SQL Injection in CVE-2024-27956 | 2024-05-01T01:58:28Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956) | CVE-2024-27956 | 2024-05-07T10:07:00Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z |
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z |
@@ -292,6 +304,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-26475](https://www.cve.org/CVERecord?id=CVE-2024-26475) | [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475) | An issue in radareorg radare2 v.0.9.7 through v.5.8.6 and fixed in v.5.8.8 allows a local attacker to cause a denial of service via the grub_sfs_read_extent function. | 2024-03-10T22:51:05Z |
 | [CVE-2024-26304](https://www.cve.org/CVERecord?id=CVE-2024-26304) | [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits) | Critical RCE Vulnerabilities in HPE Aruba Devices (may 2024) | 2024-05-04T10:09:24Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
+| [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026) | CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION | 2024-05-09T03:14:14Z |
 | [CVE-2024-25832](https://www.cve.org/CVERecord?id=CVE-2024-25832) | [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) | PoC Script for CVE-2024-25832: Exploit chain reverse shell, information disclosure (root password leak) + unrestricted file upload in DataCube3 | 2024-03-06T04:11:59Z |
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z |
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z |
@@ -329,6 +342,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-25153](https://www.cve.org/CVERecord?id=CVE-2024-25153) | [nettitude/CVE-2024-25153](https://github.com/nettitude/CVE-2024-25153) | Proof-of-concept exploit for CVE-2024-25153. | 2024-03-12T17:26:10Z |
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
+| [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) | Example of CVE-2024-24576 use case. | 2024-04-09T21:17:15Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit) | CVE-2024-24576 Proof of Concept | 2024-04-10T14:06:09Z |
@@ -410,6 +424,8 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897) | CVE-2024-23897 - Jenkins &lt;= 2.441 &amp; &lt;= LTS 2.426.2 PoC and scanner. | 2024-01-26T19:00:03Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897) | Perform with massive Jenkins Reading-2-RCE | 2024-02-19T02:29:12Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Athulya666/CVE-2024-23897](https://github.com/Athulya666/CVE-2024-23897) | Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability | 2024-05-03T08:18:51Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441) | no description | 2024-05-08T02:28:46Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [murataydemir/CVE-2024-23897](https://github.com/murataydemir/CVE-2024-23897) | [CVE-2024-23897] Jenkins CI Authenticated Arbitrary File Read Through the CLI Leads to Remote Code Execution (RCE) | 2024-05-07T11:00:03Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -477,6 +493,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan) | Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887. | 2024-01-19T02:12:11Z |
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887) | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | 2024-02-03T11:33:40Z |
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887) | Ivanti Connect Secure &amp;  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | 2024-02-09T18:07:06Z |
+| [CVE-2024-21793](https://www.cve.org/CVERecord?id=CVE-2024-21793) | [FeatherStark/CVE-2024-21793](https://github.com/FeatherStark/CVE-2024-21793) | no description | 2024-05-09T02:31:13Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC) | FortiOS 6.0 - 7.4.2 Out of bound exploit --&gt; RCE!!! | 2024-03-03T06:12:13Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check) | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | 2024-02-28T21:16:10Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [d0rb/CVE-2024-21762](https://github.com/d0rb/CVE-2024-21762) | The PoC demonstrates the potential for remote code execution by exploiting the identified security flaw. | 2024-03-17T09:15:22Z |
@@ -522,6 +539,7 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z |
+| [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) | Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability | 2024-04-22T07:05:04Z |
 | [CVE-2024-21107](https://www.cve.org/CVERecord?id=CVE-2024-21107) | [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107) | Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges | 2024-04-17T06:13:20Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006) | no description | 2024-05-01T03:08:48Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
@@ -588,7 +606,9 @@ Last generated: 2024-05-31 01:57:12.348936
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) | LPE exploit for CVE-2024-0582 (io_uring) | 2024-03-29T14:45:22Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [QDming/cve](https://github.com/QDming/cve) | Use CVE-2024-29278 | 2024-03-29T08:20:23Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582) | no description | 2024-04-05T15:39:48Z |
+| [CVE-2024-0566](https://www.cve.org/CVERecord?id=CVE-2024-0566) | [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566) | no description | 2024-05-09T17:30:24Z |
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z |
+| [CVE-2024-0399](https://www.cve.org/CVERecord?id=CVE-2024-0399) | [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399) | no description | 2024-05-09T18:21:42Z |
 | [CVE-2024-0305](https://www.cve.org/CVERecord?id=CVE-2024-0305) | [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp) | cve-2024-0305可用的exp | 2024-04-18T03:13:43Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z |
@@ -5412,3 +5432,4 @@ Last generated: 2024-05-31 01:57:12.348936
 | CVE NOT FOUND | [psudo-bugboy/CVE-2024](https://github.com/psudo-bugboy/CVE-2024) | Small CRM | 2024-04-06T20:21:22Z |
 | CVE NOT FOUND | [Brownpanda29/cve202424576](https://github.com/Brownpanda29/cve202424576) | no description | 2024-04-14T00:35:41Z |
 | CVE NOT FOUND | [LearningOS/rust-rustlings-2024-spring-ChenCveral](https://github.com/LearningOS/rust-rustlings-2024-spring-ChenCveral) | rust-rustlings-2024-spring-ChenCveral created by GitHub Classroom | 2024-04-08T08:09:17Z |
+| CVE NOT FOUND | [cvendedorpro2024/cvendedorpro2024](https://github.com/cvendedorpro2024/cvendedorpro2024) | Aprenda a Ganhar Dinheiro com Compra e Venda de Carros mesmo Sem Dinheiro para investir | 2024-05-07T19:41:38Z |
