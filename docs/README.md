@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-02 02:00:33.995130
+Last generated: 2024-06-03 01:58:53.960009
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
@@ -16,6 +17,8 @@ Last generated: 2024-06-02 02:00:33.995130
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server) | Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms | 2024-04-29T10:21:53Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability) | no description | 2024-05-01T14:42:39Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-03T23:29:53Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-13T17:33:36Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
@@ -95,6 +98,7 @@ Last generated: 2024-06-02 02:00:33.995130
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
 | [CVE-2024-31777](https://www.cve.org/CVERecord?id=CVE-2024-31777) | [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777) | Public exploit for CVE-2024-31777 | 2024-04-11T13:48:19Z |
+| [CVE-2024-31771](https://www.cve.org/CVERecord?id=CVE-2024-31771) | [restdone/CVE-2024-31771](https://github.com/restdone/CVE-2024-31771) | no description | 2024-04-10T17:09:34Z |
 | [CVE-2024-31734](https://www.cve.org/CVERecord?id=CVE-2024-31734) | [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734) | CVE-2024-31734 | 2024-04-15T07:19:10Z |
 | [CVE-2024-31719](https://www.cve.org/CVERecord?id=CVE-2024-31719) | [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability) | no description | 2023-07-30T00:07:14Z |
 | [CVE-2024-3154](https://www.cve.org/CVERecord?id=CVE-2024-3154) | [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication) | how does it run？ | 2024-04-29T04:03:11Z |
@@ -312,6 +316,7 @@ Last generated: 2024-06-02 02:00:33.995130
 | [CVE-2024-26304](https://www.cve.org/CVERecord?id=CVE-2024-26304) | [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits) | Critical RCE Vulnerabilities in HPE Aruba Devices (may 2024) | 2024-05-04T10:09:24Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026) | CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION | 2024-05-09T03:14:14Z |
+| [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026) | no description | 2024-05-13T22:04:01Z |
 | [CVE-2024-25832](https://www.cve.org/CVERecord?id=CVE-2024-25832) | [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) | PoC Script for CVE-2024-25832: Exploit chain reverse shell, information disclosure (root password leak) + unrestricted file upload in DataCube3 | 2024-03-06T04:11:59Z |
 | [CVE-2024-25809](https://www.cve.org/CVERecord?id=CVE-2024-25809) | [sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809) | (XSS) | 2024-02-17T12:16:29Z |
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z |
@@ -587,6 +592,7 @@ Last generated: 2024-06-02 02:00:33.995130
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [Whiteh4tWolf/CVE-2024-1651-PoC](https://github.com/Whiteh4tWolf/CVE-2024-1651-PoC) | no description | 2024-04-19T16:18:59Z |
 | [CVE-2024-1642470](https://www.cve.org/CVERecord?id=CVE-2024-1642470) | [Symbolexe/CVE-2024-1642470](https://github.com/Symbolexe/CVE-2024-1642470) | CVE-2024-1642470 is a critical vulnerability discovered in the Windows USB Generic Parent Driver. The vulnerability arises due to improper input validation within the driver&#x27;s IOCTL handling mechanism. As a result, remote attackers can execute arbitrary code via crafted IOCTL requests, potentially leading to system compromise. | 2024-04-15T17:51:59Z |
 | [CVE-2024-1561](https://www.cve.org/CVERecord?id=CVE-2024-1561) | [DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561) | Poc for CVE-2024-1561 affecting Gradio 4.12.0 | 2024-05-11T13:44:46Z |
+| [CVE-2024-1561](https://www.cve.org/CVERecord?id=CVE-2024-1561) | [DiabloHTB/Nuclei-Template-CVE-2024-1561](https://github.com/DiabloHTB/Nuclei-Template-CVE-2024-1561) | Nuclei Templates | 2024-05-12T19:55:53Z |
 | [CVE-2024-1512](https://www.cve.org/CVERecord?id=CVE-2024-1512) | [rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512) | PoC for CVE-2024-1512 in MasterStudy LMS WordPress Plugin. | 2024-03-01T11:08:37Z |
 | [CVE-2024-1441](https://www.cve.org/CVERecord?id=CVE-2024-1441) | [almkuznetsov/CVE-2024-1441](https://github.com/almkuznetsov/CVE-2024-1441) | no description | 2024-04-16T07:14:33Z |
 | [CVE-2024-1403](https://www.cve.org/CVERecord?id=CVE-2024-1403) | [horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403) | Progress OpenEdge Authentication Bypass | 2024-03-06T15:27:18Z |
