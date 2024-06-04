@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-03 01:58:53.960009
+Last generated: 2024-06-04 01:57:46.630645
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
@@ -21,6 +22,8 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
+| [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
+| [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
 | [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
 | [CVE-2024-34471](https://www.cve.org/CVERecord?id=CVE-2024-34471) | [osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471) | no description | 2024-05-05T01:10:39Z |
@@ -34,6 +37,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-34223](https://www.cve.org/CVERecord?id=CVE-2024-34223) | [dovankha/CVE-2024-34223](https://github.com/dovankha/CVE-2024-34223) | CVE-2024-34223 - Insecure permission | 2024-05-11T08:36:16Z |
 | [CVE-2024-34222](https://www.cve.org/CVERecord?id=CVE-2024-34222) | [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222) | CVE-2024-34222 - SQL injection | 2024-05-11T08:20:55Z |
 | [CVE-2024-34221](https://www.cve.org/CVERecord?id=CVE-2024-34221) | [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221) | CVE-2024-34221 - Insecure pemission | 2024-05-09T10:32:30Z |
+| [CVE-2024-34220](https://www.cve.org/CVERecord?id=CVE-2024-34220) | [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220) | CVE-2024-34220 - SQL injection | 2024-04-27T10:32:10Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -232,6 +236,8 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
 | [CVE-2024-30491](https://www.cve.org/CVERecord?id=CVE-2024-30491) | [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc) | CVE-2024-30491 ProfileGrid &lt;= 5.7.8 - Authenticated (Subscriber+) SQL Injection | 2024-05-04T14:22:15Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
+| [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
+| [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -284,6 +290,9 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN) | CVE-2024-27956 WORDPRESS RCE PLUGIN | 2024-05-03T16:19:19Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [diego-tella/CVE-2024-27956-RCE](https://github.com/diego-tella/CVE-2024-27956-RCE) | PoC for SQL Injection in CVE-2024-27956 | 2024-05-01T01:58:28Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956) | CVE-2024-27956 | 2024-05-07T10:07:00Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [FoxyProxys/CVE-2024-27956](https://github.com/FoxyProxys/CVE-2024-27956) | no description | 2024-05-05T19:50:54Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [W3BW/CVE-2024-27956-RCE-File-Package](https://github.com/W3BW/CVE-2024-27956-RCE-File-Package) | no description | 2024-05-15T07:48:54Z |
+| [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z |
 | [CVE-2024-27673](https://www.cve.org/CVERecord?id=CVE-2024-27673) | [Alaatk/CVE-2024-27673](https://github.com/Alaatk/CVE-2024-27673) | ASUS Control Center Express =&lt; 01.06.15 - Unquoted Service Path | 2024-04-03T14:47:20Z |
@@ -293,6 +302,8 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-27630](https://www.cve.org/CVERecord?id=CVE-2024-27630) | [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630) | CVE-2024–27630 Reference | 2024-04-07T00:13:13Z |
 | [CVE-2024-27518](https://www.cve.org/CVERecord?id=CVE-2024-27518) | [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518) | SUPERAntiSpyware Professional X &lt;=10.0.1264 LPE Vulnerability PoC | 2024-04-03T13:41:18Z |
 | [CVE-2024-27462](https://www.cve.org/CVERecord?id=CVE-2024-27462) | [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462) | Wondershare MobileTrans 4.5.6 - Unquoted Service Path | 2024-04-13T06:27:28Z |
+| [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460) | Plantronics Desktop Hub LPE | 2024-05-12T09:53:07Z |
+| [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460) | HP Plantronics Hub 3.2.1 Updater Privilege Escalation | 2024-05-13T11:15:14Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
@@ -491,6 +502,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2024-22369](https://www.cve.org/CVERecord?id=CVE-2024-22369) | [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369) | CVE-2024-22369 Reproducer | 2024-01-10T11:01:59Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z |
+| [CVE-2024-22026](https://www.cve.org/CVERecord?id=CVE-2024-22026) | [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026) | Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot; | 2024-05-15T11:20:45Z |
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024) | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | 2024-02-09T14:31:56Z |
 | [CVE-2024-2193](https://www.cve.org/CVERecord?id=CVE-2024-2193) | [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193) | no description | 2024-03-28T07:30:04Z |
 | [CVE-2024-21899](https://www.cve.org/CVERecord?id=CVE-2024-21899) | [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC) | Critical RCE CVE-2024-21899 Vulnerability in QNAP Products | 2024-03-27T19:19:49Z |
@@ -1314,6 +1326,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC) | Proof-of-concept of CVE-2023-38831 | 2023-12-04T11:13:43Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP) | no description | 2023-12-10T07:13:38Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [SpamixOfficial/CVE-2023-38831](https://github.com/SpamixOfficial/CVE-2023-38831) | CVE-2023-38831 Proof-of-concept code | 2023-12-12T14:54:30Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar) | evil-winrar,CVE-2023-38831漏洞利用和社会工程学攻击框架 (evil-winrar, CVE-2023-38831 Vulnerability Exploitation and Social Engineering Attack Framework) | 2024-03-25T14:05:24Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -2297,6 +2310,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2022-47909](https://www.cve.org/CVERecord?id=CVE-2022-47909) | [JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion](https://github.com/JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion) | Unauthenticated Arbitrary File Deletion by abusing Livestatus Query Language Injection in Checkmk &lt;= 2.1.0p11, Checkmk &lt;= 2.0.0p28, and all versions of Checkmk 1.6.0 (EOL) | 2023-03-27T02:16:51Z |
 | [CVE-2022-47615](https://www.cve.org/CVERecord?id=CVE-2022-47615) | [RandomRobbieBF/CVE-2022-47615](https://github.com/RandomRobbieBF/CVE-2022-47615) | LearnPress Plugin &lt; 4.2.0 - Unauthenticated LFI Description | 2023-08-18T15:04:36Z |
 | [CVE-2022-47529](https://www.cve.org/CVERecord?id=CVE-2022-47529) | [hyp3rlinx/CVE-2022-47529](https://github.com/hyp3rlinx/CVE-2022-47529) | RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution | 2023-03-24T22:50:26Z |
+| [CVE-2022-47373](https://www.cve.org/CVERecord?id=CVE-2022-47373) | [Argonx21/CVE-2022-47373](https://github.com/Argonx21/CVE-2022-47373) | Reflected Cross Site Scripting Vulnerability in PandoraFMS &lt;= v766 | 2023-02-16T17:10:25Z |
 | [CVE-2022-46836](https://www.cve.org/CVERecord?id=CVE-2022-46836) | [JacobEbben/CVE-2022-46836_remote_code_execution](https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution) | Authenticated Remote Code Execution by abusing a single quote injection to write to an auth.php file imported by the NagVis component in Checkmk &lt;= 2.1.0p10, Checkmk &lt;= 2.0.0p27, and Checkmk &lt;= 1.6.0p29 | 2023-03-27T22:30:21Z |
 | [CVE-2022-46718](https://www.cve.org/CVERecord?id=CVE-2022-46718) | [biscuitehh/cve-2022-46718-leaky-location](https://github.com/biscuitehh/cve-2022-46718-leaky-location) | CVE-2022-46718: an app may be able to read sensitive location information. | 2023-05-01T18:34:52Z |
 | [CVE-2022-46689](https://www.cve.org/CVERecord?id=CVE-2022-46689) | [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. | 2022-12-26T06:56:35Z |
@@ -2668,6 +2682,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [s3mPr1linux/CVE_2022_0847](https://github.com/s3mPr1linux/CVE_2022_0847) | no description | 2023-03-25T03:55:59Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [4bhishek0/CVE-2022-0847-Poc](https://github.com/4bhishek0/CVE-2022-0847-Poc) | no description | 2023-03-16T17:00:31Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847) | Drity Pipe Linux Kernel 1-Day Exploit | 2023-01-24T08:44:32Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [n3rada/DirtyPipe](https://github.com/n3rada/DirtyPipe) | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | 2023-10-15T20:13:11Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -2905,6 +2920,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [0x4ndy/clif](https://github.com/0x4ndy/clif) | clif is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. It was inspired by sudo vulnerability CVE-2021-3156 and the fact that for some reasons, Google&#x27;s afl-fuzz doesn&#x27;t allow for unlimited argument or option specification. | 2022-11-28T12:52:11Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [cyberxml/log4j-poc](https://github.com/cyberxml/log4j-poc) | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | 2021-12-12T21:45:33Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7) | 利用sudo提权，只针对cnetos7 | 2022-11-03T13:10:23Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [asepsaepdin/CVE-2021-3156](https://github.com/asepsaepdin/CVE-2021-3156) | no description | 2023-09-05T14:06:26Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
@@ -5451,3 +5467,7 @@ Last generated: 2024-06-03 01:58:53.960009
 | CVE NOT FOUND | [Brownpanda29/cve202424576](https://github.com/Brownpanda29/cve202424576) | no description | 2024-04-14T00:35:41Z |
 | CVE NOT FOUND | [LearningOS/rust-rustlings-2024-spring-ChenCveral](https://github.com/LearningOS/rust-rustlings-2024-spring-ChenCveral) | rust-rustlings-2024-spring-ChenCveral created by GitHub Classroom | 2024-04-08T08:09:17Z |
 | CVE NOT FOUND | [cvendedorpro2024/cvendedorpro2024](https://github.com/cvendedorpro2024/cvendedorpro2024) | Aprenda a Ganhar Dinheiro com Compra e Venda de Carros mesmo Sem Dinheiro para investir | 2024-05-07T19:41:38Z |
+| CVE NOT FOUND | [Yoga913/CVE-2024-CISCO](https://github.com/Yoga913/CVE-2024-CISCO) | CVE digunakan untuk mengidentifikasi kerentanan keamanan pada perangkat lunak dan perangkat keras2. CVE memungkinkan pengguna untuk mencari dan memperbaiki kerentanan keamanan pada sistem mereka2. | 2024-05-15T17:27:32Z |
+| CVE NOT FOUND | [momo1239/cve-2024-xxxx](https://github.com/momo1239/cve-2024-xxxx) | no description | 2024-05-08T17:52:48Z |
+| CVE NOT FOUND | [OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan) | 历史漏洞的细节以及利用方法汇总收集 | 2024-02-11T06:55:47Z |
+| CVE NOT FOUND | [Anet450/Proyecto-Modular-2024](https://github.com/Anet450/Proyecto-Modular-2024) | CVE-2024-SinNombre | 2024-02-05T00:32:55Z |
