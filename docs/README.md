@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-04 01:57:46.630645
+Last generated: 2024-06-05 01:57:28.827975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
+| [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -20,6 +21,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-03T23:29:53Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-13T17:33:36Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
@@ -74,6 +76,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
 | [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
+| [CVE-2024-33559](https://www.cve.org/CVERecord?id=CVE-2024-33559) | [absholi7ly/WordPress-XStore-theme-SQL-Injection](https://github.com/absholi7ly/WordPress-XStore-theme-SQL-Injection) | (CVE-2024-33559) The XStore theme for WordPress is vulnerable to SQL Injection  due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query | 2024-05-17T04:15:34Z |
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
 | [CVE-2024-33078](https://www.cve.org/CVERecord?id=CVE-2024-33078) | [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078) | no description | 2024-05-01T15:45:45Z |
@@ -87,6 +90,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273) | Quick and dirty honeypot for CVE-2024-3273 | 2024-04-07T21:15:33Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
+| [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
 | [CVE-2024-32523](https://www.cve.org/CVERecord?id=CVE-2024-32523) | [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc) | CVE-2024-32523 Mailster &lt;= 4.0.6 - Unauthenticated Local File Inclusion | 2024-05-11T18:16:31Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
 | [CVE-2024-32371](https://www.cve.org/CVERecord?id=CVE-2024-32371) | [chucrutis/CVE-2024-32371](https://github.com/chucrutis/CVE-2024-32371) | no description | 2024-05-06T17:41:06Z |
@@ -98,6 +102,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
+| [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
 | [CVE-2024-31819](https://www.cve.org/CVERecord?id=CVE-2024-31819) | [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819) | Unauthenticated Remote Code Execution (RCE) Vulnerability in WWBNIndex Plugin of AVideo Platform from 12.4 to 14.2 | 2024-03-27T14:41:10Z |
@@ -238,6 +243,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
+| [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -315,6 +321,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Stuub/RCity-CVE-2024-27198](https://github.com/Stuub/RCity-CVE-2024-27198) | CVE-2024-27198 &amp; CVE-2024-27199 PoC - RCE, Admin Account Creation, Enum Users, Server Information | 2024-04-22T22:14:24Z |
+| [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130) | PoC for CVE-2024-27130 | 2024-05-17T07:58:01Z |
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667) | This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload) | 2024-04-28T17:14:47Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
@@ -486,6 +493,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z |
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z |
 | [CVE-2024-22867](https://www.cve.org/CVERecord?id=CVE-2024-22867) | [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867) | no description | 2024-02-11T01:52:52Z |
+| [CVE-2024-22774](https://www.cve.org/CVERecord?id=CVE-2024-22774) | [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774) | Panoramic Dental Imaging software Stealthy Privilege Escalation Vulnerability | 2024-03-24T05:59:57Z |
 | [CVE-2024-22752](https://www.cve.org/CVERecord?id=CVE-2024-22752) | [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752) | EaseUS MobiMover 6.0.5 Build 21620 - Insecure Files and Folders Permissions | 2024-03-05T09:54:00Z |
 | [CVE-2024-22678](https://www.cve.org/CVERecord?id=CVE-2024-22678) | [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678) | no description | 2024-01-29T00:19:48Z |
 | [CVE-2024-22676](https://www.cve.org/CVERecord?id=CVE-2024-22676) | [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676) | no description | 2024-01-29T00:19:06Z |
@@ -566,6 +574,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z |
 | [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) | Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability | 2024-04-22T07:05:04Z |
+| [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del) | no description | 2024-05-17T03:09:54Z |
 | [CVE-2024-21107](https://www.cve.org/CVERecord?id=CVE-2024-21107) | [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107) | Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges | 2024-04-17T06:13:20Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006) | no description | 2024-05-01T03:08:48Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
@@ -1148,6 +1157,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115) | A small write-up with examples to understand CVE-2023-43115 | 2023-09-28T17:30:06Z |
 | [CVE-2023-43115](https://www.cve.org/CVERecord?id=CVE-2023-43115) | [skulkarni-mv/goIssue_kirkstone](https://github.com/skulkarni-mv/goIssue_kirkstone) | go CVE-2023-24538 patch issue resolver - Kirkstone | 2023-09-29T17:18:42Z |
 | [CVE-2023-4294](https://www.cve.org/CVERecord?id=CVE-2023-4294) | [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294) | Repository for CVE-2023-4294 vulnerability. | 2023-09-24T10:16:03Z |
+| [CVE-2023-42931](https://www.cve.org/CVERecord?id=CVE-2023-42931) | [d0rb/CVE-2023-42931](https://github.com/d0rb/CVE-2023-42931) | The exploit targets a critical privilege escalation vulnerability in macOS versions Monterey, Ventura, and Sonoma. | 2024-03-26T11:01:54Z |
 | [CVE-2023-42820](https://www.cve.org/CVERecord?id=CVE-2023-42820) | [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820) | CVE-2023-42820 | 2023-09-27T08:06:28Z |
 | [CVE-2023-42820](https://www.cve.org/CVERecord?id=CVE-2023-42820) | [Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820) | JumpServer | 2023-10-11T03:15:30Z |
 | [CVE-2023-42820](https://www.cve.org/CVERecord?id=CVE-2023-42820) | [C1ph3rX13/CVE-2023-42820](https://github.com/C1ph3rX13/CVE-2023-42820) | CVE-2023-42820 | 2023-10-10T06:32:51Z |
@@ -2560,6 +2570,7 @@ Last generated: 2024-06-04 01:57:46.630645
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z |
 | [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [BurpRoot/CVE-2022-24086](https://github.com/BurpRoot/CVE-2022-24086) | CVE-2022-24086 POC example | 2023-09-03T17:27:58Z |
+| [CVE-2022-23988](https://www.cve.org/CVERecord?id=CVE-2022-23988) | [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject) | Analysis and replication of CVE-2022-23988 and CVE-2022-34265 | 2023-10-12T15:58:06Z |
 | [CVE-2022-23773](https://www.cve.org/CVERecord?id=CVE-2022-23773) | [YouShengLiu/CVE-2022-23773-Reproduce](https://github.com/YouShengLiu/CVE-2022-23773-Reproduce) | no description | 2023-03-19T10:08:47Z |
 | [CVE-2022-23614](https://www.cve.org/CVERecord?id=CVE-2022-23614) | [4rtamis/CVE-2022-23614](https://github.com/4rtamis/CVE-2022-23614) | Proof of concept for CVE-2022-23614 (command injection in Twig) | 2023-07-04T15:52:50Z |
 | [CVE-2022-23305](https://www.cve.org/CVERecord?id=CVE-2022-23305) | [tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) | CVE-2022-23305 Log4J JDBCAppender SQl injection POC | 2023-07-24T18:52:15Z |
