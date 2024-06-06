@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-05 01:57:28.827975
+Last generated: 2024-06-06 01:57:13.811103
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -91,6 +91,7 @@ Last generated: 2024-06-05 01:57:28.827975
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
+| [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS) | no description | 2024-05-17T13:43:59Z |
 | [CVE-2024-32523](https://www.cve.org/CVERecord?id=CVE-2024-32523) | [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc) | CVE-2024-32523 Mailster &lt;= 4.0.6 - Unauthenticated Local File Inclusion | 2024-05-11T18:16:31Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
 | [CVE-2024-32371](https://www.cve.org/CVERecord?id=CVE-2024-32371) | [chucrutis/CVE-2024-32371](https://github.com/chucrutis/CVE-2024-32371) | no description | 2024-05-06T17:41:06Z |
@@ -456,6 +457,7 @@ Last generated: 2024-06-05 01:57:28.827975
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Athulya666/CVE-2024-23897](https://github.com/Athulya666/CVE-2024-23897) | Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability | 2024-05-03T08:18:51Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441) | no description | 2024-05-08T02:28:46Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [murataydemir/CVE-2024-23897](https://github.com/murataydemir/CVE-2024-23897) | [CVE-2024-23897] Jenkins CI Authenticated Arbitrary File Read Through the CLI Leads to Remote Code Execution (RCE) | 2024-05-07T11:00:03Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Maalfer/CVE-2024-23897](https://github.com/Maalfer/CVE-2024-23897) | Poc para explotar la vulnerabilidad CVE-2024-23897 en versiones 2.441 y anteriores de Jenkins, mediante la cual podremos leer archivos internos del sistema sin estar autenticados | 2024-05-16T09:32:51Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -1169,6 +1171,7 @@ Last generated: 2024-06-05 01:57:28.827975
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793) | PoC of CVE-2023-42793 | 2023-10-05T18:12:25Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC) | no description | 2024-01-07T22:29:18Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
+| [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
 | [CVE-2023-42468](https://www.cve.org/CVERecord?id=CVE-2023-42468) | [actuator/com.cutestudio.colordialer](https://github.com/actuator/com.cutestudio.colordialer) | CVE-2023-42468 | 2023-09-02T14:48:07Z |
 | [CVE-2023-42442](https://www.cve.org/CVERecord?id=CVE-2023-42442) | [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442) | no description | 2023-09-27T05:09:20Z |
