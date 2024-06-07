@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-06 01:57:13.811103
+Last generated: 2024-06-07 01:59:21.597883
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -103,6 +103,10 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC) | no description | 2024-05-19T05:05:07Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [M507/CVE-2024-32002](https://github.com/M507/CVE-2024-32002) | local poc for CVE-2024-32002 | 2024-05-18T02:42:33Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [safebuffer/CVE-2024-32002](https://github.com/safebuffer/CVE-2024-32002) | CVE-2024-32002 RCE PoC | 2024-05-18T15:05:28Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [markuta/hooky](https://github.com/markuta/hooky) | A submodule for exploiting CVE-2024-32002 vulnerability. | 2024-05-17T15:37:42Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -245,6 +249,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
+| [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895) | CVE-2024-29895 - RCE on CACTI 1.3.X dev | 2024-05-17T22:03:29Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -292,6 +297,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
 | [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
+| [CVE-2024-27972](https://www.cve.org/CVERecord?id=CVE-2024-27972) | [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc) | CVE-2024-27972 WP Fusion Lite &lt;= 3.41.24 - Authenticated (Contributor+) Remote Code Execution | 2024-05-18T14:17:34Z |
 | [CVE-2024-27971](https://www.cve.org/CVERecord?id=CVE-2024-27971) | [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note) | CVE-2024-27971 WordPress Premmerce Permalink Manager for WooCommerce Plugin &lt;= 2.3.10 is vulnerable to Local File Inclusion | 2024-05-03T13:38:33Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956) | CVE-2024-27956 WordPress Automatic &lt; 3.92.1 - Unauthenticated SQL Injection | 2024-04-27T11:03:36Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN) | CVE-2024-27956 WORDPRESS RCE PLUGIN | 2024-05-03T16:19:19Z |
@@ -311,6 +317,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2024-27462](https://www.cve.org/CVERecord?id=CVE-2024-27462) | [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462) | Wondershare MobileTrans 4.5.6 - Unquoted Service Path | 2024-04-13T06:27:28Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460) | Plantronics Desktop Hub LPE | 2024-05-12T09:53:07Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460) | HP Plantronics Hub 3.2.1 Updater Privilege Escalation | 2024-05-13T11:15:14Z |
+| [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer) | no description | 2024-05-18T02:25:11Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
@@ -1584,6 +1591,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit) | Nmap script to exploit CVE-2023-35078 - Mobile Iron Core | 2023-08-01T15:41:12Z |
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [LazyySec/CVE-2023-35078](https://github.com/LazyySec/CVE-2023-35078) | Tools to scanner &amp; exploit cve-2023-35078 | 2023-07-31T02:24:24Z |
 | [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078) | Ivanti Endpoint Manager Mobile (EPMM)   POC | 2023-08-30T02:36:20Z |
+| [CVE-2023-35078](https://www.cve.org/CVERecord?id=CVE-2023-35078) | [0nsec/CVE-2023-35078](https://github.com/0nsec/CVE-2023-35078) | CVE-2023-35078 Remote Unauthenticated API Access vulnerability has been discovered in Ivanti Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core. | 2024-03-29T14:15:49Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | 2023-09-01T07:41:23Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-) | nftables oob read/write exploit (CVE-2023-35001) | 2023-09-04T03:25:01Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001) | Exploit CVE-2023-35001 | 2024-01-18T08:24:07Z |
@@ -2309,6 +2317,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z |
 | [CVE-2023-0266](https://www.cve.org/CVERecord?id=CVE-2023-0266) | [SeanHeelan/claude_opus_cve_2023_0266](https://github.com/SeanHeelan/claude_opus_cve_2023_0266) | Demo showing Claude Opus does not find CVE-2023-0266 | 2024-03-10T04:41:34Z |
 | [CVE-2023-0255](https://www.cve.org/CVERecord?id=CVE-2023-0255) | [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC) | Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload | 2023-09-20T00:17:57Z |
+| [CVE-2023-0179](https://www.cve.org/CVERecord?id=CVE-2023-0179) | [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC) | no description | 2023-01-21T01:02:01Z |
 | [CVE-2023-0157](https://www.cve.org/CVERecord?id=CVE-2023-0157) | [b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157) | Repository for CVE-2023-0157 vulnerability. | 2023-09-24T08:20:30Z |
 | [CVE-2023-0156](https://www.cve.org/CVERecord?id=CVE-2023-0156) | [b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156) | Repository for CVE-2023-0156 vulnerability. | 2023-09-24T08:10:31Z |
 | [CVE-2023-0099](https://www.cve.org/CVERecord?id=CVE-2023-0099) | [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit) | simple urls &lt; 115 - Reflected XSS | 2023-09-18T06:44:44Z |
@@ -2615,6 +2624,7 @@ Last generated: 2024-06-06 01:57:13.811103
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [EzoomE/CVE-2022-21907-RCE](https://github.com/EzoomE/CVE-2022-21907-RCE) | CVE-2022-21907漏洞RCE PoC | 2023-05-06T07:50:08Z |
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [hohlovscky2017/Demo_15_11_2022_cvety](https://github.com/hohlovscky2017/Demo_15_11_2022_cvety) | no description | 2022-11-15T06:21:39Z |
 | [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907) | no description | 2023-08-17T13:58:00Z |
+| [CVE-2022-21907](https://www.cve.org/CVERecord?id=CVE-2022-21907) | [Malwareman007/CVE-2022-21907](https://github.com/Malwareman007/CVE-2022-21907) | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | 2022-10-29T18:25:26Z |
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | 2022-08-09T15:53:48Z |
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [nova-master/CVE-2022-21894-Payload-New](https://github.com/nova-master/CVE-2022-21894-Payload-New) | no description | 2023-09-26T05:52:36Z |
 | [CVE-2022-21894](https://www.cve.org/CVERecord?id=CVE-2022-21894) | [ASkyeye/CVE-2022-21894-Payload](https://github.com/ASkyeye/CVE-2022-21894-Payload) | Example payload for CVE-2022-21894 | 2022-08-18T23:45:47Z |
