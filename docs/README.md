@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-07 01:59:21.597883
+Last generated: 2024-06-08 01:57:02.655961
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -32,6 +32,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470) | no description | 2024-05-05T00:31:31Z |
 | [CVE-2024-34469](https://www.cve.org/CVERecord?id=CVE-2024-34469) | [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469) | CVE-2024-34469 | 2024-05-07T07:47:20Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
+| [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
 | [CVE-2024-34310](https://www.cve.org/CVERecord?id=CVE-2024-34310) | [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310) | CVE-2024-34310 | 2024-05-10T13:36:19Z |
 | [CVE-2024-34226](https://www.cve.org/CVERecord?id=CVE-2024-34226) | [dovankha/CVE-2024-34226](https://github.com/dovankha/CVE-2024-34226) | CVE-2024-34226 - SQL injection | 2024-05-11T10:33:04Z |
 | [CVE-2024-34225](https://www.cve.org/CVERecord?id=CVE-2024-34225) | [dovankha/CVE-2024-34225](https://github.com/dovankha/CVE-2024-34225) | CVE-20240-34225 - Cross Site Scripting | 2024-05-11T10:20:52Z |
@@ -73,6 +74,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [marconesler/CVE-2024-3400](https://github.com/marconesler/CVE-2024-3400) | Exploit for GlobalProtect CVE-2024-3400 | 2024-04-27T18:58:41Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker) | A simple bash script to check for evidence of compromise related to CVE-2024-3400 | 2024-04-15T03:28:22Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400) | no description | 2024-05-12T19:48:20Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder) | Find rows contain specific IP addresses in large files and then, extract them. This tool make for investigating logs for cve-2024-3400 | 2024-05-15T15:50:32Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
 | [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
@@ -107,6 +109,17 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [M507/CVE-2024-32002](https://github.com/M507/CVE-2024-32002) | local poc for CVE-2024-32002 | 2024-05-18T02:42:33Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [safebuffer/CVE-2024-32002](https://github.com/safebuffer/CVE-2024-32002) | CVE-2024-32002 RCE PoC | 2024-05-18T15:05:28Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [markuta/hooky](https://github.com/markuta/hooky) | A submodule for exploiting CVE-2024-32002 vulnerability. | 2024-05-17T15:37:42Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/hook](https://github.com/10cks/hook) | CVE-2024-32002-hook | 2024-05-20T02:44:07Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [aitorcastel/poc_CVE-2024-32002](https://github.com/aitorcastel/poc_CVE-2024-32002) | no description | 2024-05-19T16:33:35Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [aitorcastel/poc_CVE-2024-32002_submodule](https://github.com/aitorcastel/poc_CVE-2024-32002_submodule) | no description | 2024-05-19T16:34:11Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce) | Exploit PoC for CVE-2024-32002 | 2024-05-17T19:33:08Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [amalmurali47/hook](https://github.com/amalmurali47/hook) | Hook for the PoC for exploiting CVE-2024-32002 | 2024-05-17T19:35:44Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-linux-submod](https://github.com/10cks/CVE-2024-32002-linux-submod) | no description | 2024-05-19T05:32:08Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-linux-hulk](https://github.com/10cks/CVE-2024-32002-linux-hulk) | no description | 2024-05-19T05:31:41Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-linux-smash](https://github.com/10cks/CVE-2024-32002-linux-smash) | no description | 2024-05-19T05:32:34Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-hulk](https://github.com/10cks/CVE-2024-32002-hulk) | no description | 2024-05-19T05:08:08Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-submod](https://github.com/10cks/CVE-2024-32002-submod) | no description | 2024-05-19T05:08:22Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-smash](https://github.com/10cks/CVE-2024-32002-smash) | no description | 2024-05-19T05:08:36Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -272,6 +285,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269) | Telesquare TLR-2005KSH_RCE (CVE-2024-29269) Batch scan/exploit | 2024-04-12T07:36:08Z |
+| [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269) | An issue discovered in Telesquare TLR-2005Ksh 1.0.0 and 1.1.4 allows attackers to run arbitrary system commands via the Cmd parameter. | 2024-05-19T19:05:00Z |
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z |
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
@@ -1127,6 +1141,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357) | poc | 2023-11-29T09:52:36Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [WinnieZy/CVE-2023-4357](https://github.com/WinnieZy/CVE-2023-4357) | no description | 2024-01-09T07:31:29Z |
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z |
+| [CVE-2023-43482](https://www.cve.org/CVERecord?id=CVE-2023-43482) | [Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482) | TP-Link ER7206 Omada Gigabit VPN Router uhttpd freeStrategy Command injection Vulnerability | 2024-03-31T02:04:34Z |
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z |
 | [CVE-2023-43359](https://www.cve.org/CVERecord?id=CVE-2023-43359) | [sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu. | 2023-09-17T11:58:54Z |
 | [CVE-2023-43358](https://www.cve.org/CVERecord?id=CVE-2023-43358) | [sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News](https://github.com/sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Title in the Content - News Menu. | 2023-09-17T12:17:49Z |
@@ -1514,6 +1529,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664) | Proof of concept developed for the CVE-2023-36664 | 2023-12-02T10:28:10Z |
+| [CVE-2023-36644](https://www.cve.org/CVERecord?id=CVE-2023-36644) | [caffeinated-labs/CVE-2023-36644](https://github.com/caffeinated-labs/CVE-2023-36644) | no description | 2024-03-31T16:50:25Z |
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z |
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z |
 | [CVE-2023-36427](https://www.cve.org/CVERecord?id=CVE-2023-36427) | [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) | Report and exploit of CVE-2023-36427 | 2023-10-09T16:55:18Z |
@@ -2549,6 +2565,7 @@ Last generated: 2024-06-07 01:59:21.597883
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [acfirthh/CVE-2022-26134](https://github.com/acfirthh/CVE-2022-26134) | A PoC for CVE-2022-26134 for Educational Purposes and Security Research | 2023-09-20T19:54:05Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [asahilina/agx-exploit](https://github.com/asahilina/agx-exploit) | CVE-2022-32947 walkthough and demo | 2023-09-17T08:21:47Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [pashayogi/DirtyPipe](https://github.com/pashayogi/DirtyPipe) | CVE: CVE-2022-0847 | 2023-09-17T12:43:52Z |
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [yTxZx/CVE-2022-26134](https://github.com/yTxZx/CVE-2022-26134) | no description | 2023-10-20T07:42:36Z |
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
