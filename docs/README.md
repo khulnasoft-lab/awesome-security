@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-08 01:57:02.655961
+Last generated: 2024-06-09 02:03:40.473932
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
+| [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -105,6 +106,8 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
+| [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC) | no description | 2024-05-20T14:59:16Z |
+| [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004) | no description | 2024-05-19T13:57:46Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC) | no description | 2024-05-19T05:05:07Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [M507/CVE-2024-32002](https://github.com/M507/CVE-2024-32002) | local poc for CVE-2024-32002 | 2024-05-18T02:42:33Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [safebuffer/CVE-2024-32002](https://github.com/safebuffer/CVE-2024-32002) | CVE-2024-32002 RCE PoC | 2024-05-18T15:05:28Z |
@@ -120,6 +123,10 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-hulk](https://github.com/10cks/CVE-2024-32002-hulk) | no description | 2024-05-19T05:08:08Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-submod](https://github.com/10cks/CVE-2024-32002-submod) | no description | 2024-05-19T05:08:22Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-smash](https://github.com/10cks/CVE-2024-32002-smash) | no description | 2024-05-19T05:08:36Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [KiranKumarK20/CVE-2024-32002](https://github.com/KiranKumarK20/CVE-2024-32002) | no description | 2024-05-20T10:07:51Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [jweny/CVE-2024-32002_EXP](https://github.com/jweny/CVE-2024-32002_EXP) | no description | 2024-05-20T02:58:57Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [CrackerCat/CVE-2024-32002_EXP](https://github.com/CrackerCat/CVE-2024-32002_EXP) | no description | 2024-05-20T06:12:02Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [jweny/CVE-2024-32002_HOOK](https://github.com/jweny/CVE-2024-32002_HOOK) | no description | 2024-05-20T02:52:42Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -264,6 +271,7 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895) | CVE-2024-29895 - RCE on CACTI 1.3.X dev | 2024-05-17T22:03:29Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961) | CVE-2024–2961 Security Issue Mitigation Script | 2024-05-20T06:53:23Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -531,6 +539,7 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z |
 | [CVE-2024-22393](https://www.cve.org/CVERecord?id=CVE-2024-22393) | [omranisecurity/CVE-2024-22393](https://github.com/omranisecurity/CVE-2024-22393) | Exploit for CVE-2024-22393 Unrestricted Upload of File with Dangerous Type vulnerability in Apache Answer. | 2024-03-08T08:45:12Z |
 | [CVE-2024-22369](https://www.cve.org/CVERecord?id=CVE-2024-22369) | [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369) | CVE-2024-22369 Reproducer | 2024-01-10T11:01:59Z |
+| [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z |
 | [CVE-2024-22026](https://www.cve.org/CVERecord?id=CVE-2024-22026) | [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026) | Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot; | 2024-05-15T11:20:45Z |
@@ -1529,6 +1538,7 @@ Last generated: 2024-06-08 01:57:02.655961
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664) | Proof of concept developed for the CVE-2023-36664 | 2023-12-02T10:28:10Z |
+| [CVE-2023-36645](https://www.cve.org/CVERecord?id=CVE-2023-36645) | [caffeinated-labs/CVE-2023-36645](https://github.com/caffeinated-labs/CVE-2023-36645) | no description | 2024-03-31T16:52:48Z |
 | [CVE-2023-36644](https://www.cve.org/CVERecord?id=CVE-2023-36644) | [caffeinated-labs/CVE-2023-36644](https://github.com/caffeinated-labs/CVE-2023-36644) | no description | 2024-03-31T16:50:25Z |
 | [CVE-2023-36544](https://www.cve.org/CVERecord?id=CVE-2023-36544) | [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544) | no description | 2023-06-14T01:00:07Z |
 | [CVE-2023-36531](https://www.cve.org/CVERecord?id=CVE-2023-36531) | [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531) | LiquidPoll – Advanced Polls for Creators and Brands &lt;= 3.3.68 - Missing Authorization via activate_addon | 2023-07-06T08:55:42Z |
