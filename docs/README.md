@@ -2,11 +2,15 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-12 01:59:27.980909
+Last generated: 2024-06-13 01:58:51.609540
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [xungzzz/CVE-2024-4956](https://github.com/xungzzz/CVE-2024-4956) | CVE-2024-4956 Nuclei Template | 2024-05-23T08:15:08Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -82,6 +86,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MurrayR0123/CVE-2024-3400-Compromise-Checker](https://github.com/MurrayR0123/CVE-2024-3400-Compromise-Checker) | A simple bash script to check for evidence of compromise related to CVE-2024-3400 | 2024-04-15T03:28:22Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400) | no description | 2024-05-12T19:48:20Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder) | Find rows contain specific IP addresses in large files and then, extract them. This tool make for investigating logs for cve-2024-3400 | 2024-05-15T15:50:32Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
 | [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
@@ -146,6 +151,10 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [ycdxsb/CVE-2024-32002-submod](https://github.com/ycdxsb/CVE-2024-32002-submod) | no description | 2024-05-22T11:27:14Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [ycdxsb/CVE-2024-32002-hulk](https://github.com/ycdxsb/CVE-2024-32002-hulk) | no description | 2024-05-22T11:26:30Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [bfengj/CVE-2024-32002-hook](https://github.com/bfengj/CVE-2024-32002-hook) | no description | 2024-05-22T11:05:48Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Roronoawjd/git_rce](https://github.com/Roronoawjd/git_rce) | CVE-2024-32002 POC | 2024-05-21T13:19:15Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002) | PoC Exploit for CVE-2024-32002 | 2024-05-23T06:38:34Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [WOOOOONG/hook](https://github.com/WOOOOONG/hook) | PoC Exploit for CVE-2024-32002 | 2024-05-23T06:38:56Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-EXP](https://github.com/10cks/CVE-2024-32002-EXP) | no description | 2024-05-23T04:25:51Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -219,6 +228,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy) | XZ Utils CVE-2024-3094 POC for Kubernetes | 2024-04-18T13:08:05Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [przemoc/xz-backdoor-links](https://github.com/przemoc/xz-backdoor-links) | apocalypxze: xz backdoor (2024) AKA CVE-2024-3094 related links | 2024-04-02T20:17:07Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [reuteras/CVE-2024-3094](https://github.com/reuteras/CVE-2024-3094) | Obsidian notes about CVE-2024-3094 | 2024-04-01T12:41:00Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdebock/ansible-role-cve_2024_3094](https://github.com/robertdebock/ansible-role-cve_2024_3094) | Check xz vulnerability (cve_2024_3094) on your system. | 2024-04-02T08:31:40Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
 | [CVE-2024-30850](https://www.cve.org/CVERecord?id=CVE-2024-30850) | [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc) | CHAOS RAT web panel path RCE PoC | 2024-04-05T21:35:04Z |
@@ -566,6 +576,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2024-22120](https://www.cve.org/CVERecord?id=CVE-2024-22120) | [W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) | Time Based SQL Injection in Zabbix Server Audit Log --&gt; RCE | 2024-05-20T03:29:09Z |
 | [CVE-2024-22026](https://www.cve.org/CVERecord?id=CVE-2024-22026) | [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026) | Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot; | 2024-05-15T11:20:45Z |
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024) | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | 2024-02-09T14:31:56Z |
+| [CVE-2024-22002](https://www.cve.org/CVERecord?id=CVE-2024-22002) | [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002) | no description | 2024-01-02T18:49:21Z |
 | [CVE-2024-2193](https://www.cve.org/CVERecord?id=CVE-2024-2193) | [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193) | no description | 2024-03-28T07:30:04Z |
 | [CVE-2024-21899](https://www.cve.org/CVERecord?id=CVE-2024-21899) | [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC) | Critical RCE CVE-2024-21899 Vulnerability in QNAP Products | 2024-03-27T19:19:49Z |
 | [CVE-2024-21893](https://www.cve.org/CVERecord?id=CVE-2024-21893) | [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py) | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | 2024-02-02T22:59:21Z |
@@ -590,6 +601,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762) | no description | 2024-04-03T21:42:55Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-) | Full exploit of Cve-2024-21762! | 2024-04-16T22:06:52Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability allows an unauthenticated attacker to remotely execute arbitrary code on a vulnerable Confluence server. The vulnerability exists due to an improper validation of user-supplied input in the Confluence REST API. This allows an attacker to inject malicious code into the Confluence server, which can then be executed by the server | 2024-05-23T02:10:24Z |
+| [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability could allow an attacker to take complete control of a vulnerable Confluence server. This could allow the attacker to steal data, modify data, or disrupt the availability of the server. | 2024-05-24T05:38:18Z |
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z |
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z |
@@ -1322,6 +1334,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2023-40275](https://www.cve.org/CVERecord?id=CVE-2023-40275) | [BugBountyHunterCVE/CVE-2023-40275](https://github.com/BugBountyHunterCVE/CVE-2023-40275) | no description | 2024-03-16T06:20:30Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z |
+| [CVE-2023-40133](https://www.cve.org/CVERecord?id=CVE-2023-40133) | [uthrasri/frame_CVE-2023-40133_136_137](https://github.com/uthrasri/frame_CVE-2023-40133_136_137) | no description | 2024-04-03T06:44:22Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z |
@@ -2581,6 +2594,7 @@ Last generated: 2024-06-12 01:59:27.980909
 | [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T10:41:44Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pari-Malam/CVE-2022-29464](https://github.com/Pari-Malam/CVE-2022-29464) | Perform With Mass Exploits In WSO Management. | 2023-04-25T09:45:18Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z |
+| [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pushkarup/CVE-2022-29464](https://github.com/Pushkarup/CVE-2022-29464) | A PoC and Exploit for CVE 2022-29464 | 2023-10-24T18:54:09Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455-mass](https://github.com/tucommenceapousser/CVE-2022-29455-mass) | no description | 2023-06-01T01:44:45Z |
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z |
@@ -5562,3 +5576,4 @@ Last generated: 2024-06-12 01:59:27.980909
 | CVE NOT FOUND | [OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan) | 历史漏洞的细节以及利用方法汇总收集 | 2024-02-11T06:55:47Z |
 | CVE NOT FOUND | [Anet450/Proyecto-Modular-2024](https://github.com/Anet450/Proyecto-Modular-2024) | CVE-2024-SinNombre | 2024-02-05T00:32:55Z |
 | CVE NOT FOUND | [FeatherStark/CVE-2024-VUL](https://github.com/FeatherStark/CVE-2024-VUL) | no description | 2024-05-21T04:01:22Z |
+| CVE NOT FOUND | [ThanHuuTuan/CVE_2024](https://github.com/ThanHuuTuan/CVE_2024) | no description | 2022-06-29T02:01:14Z |
