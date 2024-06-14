@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-13 01:58:51.609540
+Last generated: 2024-06-14 01:58:46.898768
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -34,7 +34,9 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
+| [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
+| [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
@@ -103,6 +105,8 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273) | no description | 2024-04-16T09:12:58Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273) | Quick and dirty honeypot for CVE-2024-3273 | 2024-04-07T21:15:33Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [OIivr/Turvan6rkus-CVE-2024-3273](https://github.com/OIivr/Turvan6rkus-CVE-2024-3273) | no description | 2024-05-05T22:07:02Z |
+| [CVE-2024-3272](https://www.cve.org/CVERecord?id=CVE-2024-3272) | [aliask/dinkleberry](https://github.com/aliask/dinkleberry) | Patch your D-Link device affected by CVE-2024-3272 | 2024-05-21T08:40:37Z |
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS) | no description | 2024-05-17T13:43:59Z |
@@ -155,6 +159,12 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002) | PoC Exploit for CVE-2024-32002 | 2024-05-23T06:38:34Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [WOOOOONG/hook](https://github.com/WOOOOONG/hook) | PoC Exploit for CVE-2024-32002 | 2024-05-23T06:38:56Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-EXP](https://github.com/10cks/CVE-2024-32002-EXP) | no description | 2024-05-23T04:25:51Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [JakobTheDev/cve-2024-32002-poc-rce](https://github.com/JakobTheDev/cve-2024-32002-poc-rce) | no description | 2024-05-18T11:23:43Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [JakobTheDev/cve-2024-32002-poc-aw](https://github.com/JakobTheDev/cve-2024-32002-poc-aw) | A POC for CVE-2024-32002 demonstrating arbitrary write into the .git directory. | 2024-05-25T10:30:57Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [JakobTheDev/cve-2024-32002-submodule-aw](https://github.com/JakobTheDev/cve-2024-32002-submodule-aw) | A submodule to demonstrate CVE-2024-32002. Demonstrates arbitrary write into .git. | 2024-05-25T10:29:13Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [JakobTheDev/cve-2024-32002-submodule-rce](https://github.com/JakobTheDev/cve-2024-32002-submodule-rce) | no description | 2024-05-18T11:20:31Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/poc-cve-2024-32002](https://github.com/fadhilthomas/poc-cve-2024-32002) | poc of git rce using cve-2024-32002 | 2024-05-23T07:56:05Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/hook](https://github.com/fadhilthomas/hook) | part of poc cve-2024-32002 | 2024-05-24T09:23:42Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -167,6 +177,7 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497) | A script designed to uncover vulnerabilities in Putty by exploiting CVE-2024-31497. | 2024-04-17T04:00:20Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497) | no description | 2024-04-17T10:43:42Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [HugoBond/CVE-2024-31497-POC](https://github.com/HugoBond/CVE-2024-31497-POC) | Proof Of Concept that exploits PuTTy CVE-2024-31497. | 2024-05-10T14:30:50Z |
+| [CVE-2024-31351](https://www.cve.org/CVERecord?id=CVE-2024-31351) | [KTN1990/CVE-2024-31351_wordpress_exploit](https://github.com/KTN1990/CVE-2024-31351_wordpress_exploit) | Wordpress - Copymatic – AI Content Writer &amp; Generator &lt;= 1.6 - Unauthenticated Arbitrary File Upload | 2024-05-25T04:02:23Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
 | [CVE-2024-31025](https://www.cve.org/CVERecord?id=CVE-2024-31025) | [mortal-sec/CVE-2024-31025](https://github.com/mortal-sec/CVE-2024-31025) | Vulnerability verification | 2024-03-28T23:50:30Z |
 | [CVE-2024-30973](https://www.cve.org/CVERecord?id=CVE-2024-30973) | [Athos-Zago/CVE-2024-30973](https://github.com/Athos-Zago/CVE-2024-30973) | POC VIDEO -  https://youtu.be/hNzmkJj-ImM?si=NF0yoSL578rNy7wN | 2024-04-24T16:10:22Z |
@@ -672,6 +683,7 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709) | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | 2024-02-23T17:26:28Z |
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass](https://github.com/sxyrxyy/CVE-2024-1709-ConnectWise-ScreenConnect-Authentication-Bypass) | no description | 2024-03-22T21:20:19Z |
 | [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [jacobadodge/Spring2024_CVENG_8160](https://github.com/jacobadodge/Spring2024_CVENG_8160) | no description | 2024-01-19T18:49:59Z |
+| [CVE-2024-1709](https://www.cve.org/CVERecord?id=CVE-2024-1709) | [codeb0ss/CVE-2024-1709-PoC](https://github.com/codeb0ss/CVE-2024-1709-PoC) | Mass - CVE-2024-1709 - WP_Wzone &lt; Unauthenticated SQL Injection | 2024-05-24T12:02:11Z |
 | [CVE-2024-1708](https://www.cve.org/CVERecord?id=CVE-2024-1708) | [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708) | no description | 2024-04-02T04:58:38Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit) | This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698. | 2024-03-29T04:11:06Z |
@@ -2781,6 +2793,7 @@ Last generated: 2024-06-13 01:58:51.609540
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [4bhishek0/CVE-2022-0847-Poc](https://github.com/4bhishek0/CVE-2022-0847-Poc) | no description | 2023-03-16T17:00:31Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847) | Drity Pipe Linux Kernel 1-Day Exploit | 2023-01-24T08:44:32Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [n3rada/DirtyPipe](https://github.com/n3rada/DirtyPipe) | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | 2023-10-15T20:13:11Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [ayushx007/CVE-2022-0847-dirty-pipe-checker](https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker) | Bash script to check if kernel is vulnerable | 2023-10-25T11:28:22Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
