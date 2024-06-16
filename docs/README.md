@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-15 01:57:54.735531
+Last generated: 2024-06-16 02:04:00.948953
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,8 @@ Last generated: 2024-06-15 01:57:54.735531
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [xungzzz/CVE-2024-4956](https://github.com/xungzzz/CVE-2024-4956) | CVE-2024-4956 Nuclei Template | 2024-05-23T08:15:08Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [thinhap/CVE-2024-4956-PoC](https://github.com/thinhap/CVE-2024-4956-PoC) | no description | 2024-05-27T03:09:36Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956) | Nexus Repository Manager 3 Unauthenticated Path Traversal | 2024-05-23T06:47:13Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [eoslvs/CVE-2024-4956](https://github.com/eoslvs/CVE-2024-4956) | no description | 2024-05-27T13:48:15Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [ifconfig-me/CVE-2024-4956-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-4956-Bulk-Scanner) | [CVE-2024-4956] Nexus Repository Manager 3 Unauthenticated Path Traversal Bulk Scanner | 2024-05-26T06:50:48Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -43,6 +45,7 @@ Last generated: 2024-06-15 01:57:54.735531
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
+| [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
@@ -322,6 +325,7 @@ Last generated: 2024-06-15 01:57:54.735531
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895) | CVE-2024-29895 - RCE on CACTI 1.3.X dev | 2024-05-17T22:03:29Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961) | CVE-2024–2961 Security Issue Mitigation Script | 2024-05-20T06:53:23Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv() | 2024-05-27T08:30:06Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -624,6 +628,7 @@ Last generated: 2024-06-15 01:57:54.735531
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability allows an unauthenticated attacker to remotely execute arbitrary code on a vulnerable Confluence server. The vulnerability exists due to an improper validation of user-supplied input in the Confluence REST API. This allows an attacker to inject malicious code into the Confluence server, which can then be executed by the server | 2024-05-23T02:10:24Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability could allow an attacker to take complete control of a vulnerable Confluence server. This could allow the attacker to steal data, modify data, or disrupt the availability of the server. | 2024-05-24T05:38:18Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) | CVE-2024-21683 Confluence Post Auth RCE | 2024-05-23T09:05:40Z |
+| [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE) | no description | 2024-05-27T11:14:54Z |
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z |
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z |
@@ -688,6 +693,7 @@ Last generated: 2024-06-15 01:57:54.735531
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z |
 | [CVE-2024-2054](https://www.cve.org/CVERecord?id=CVE-2024-2054) | [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054) | no description | 2024-03-25T07:01:59Z |
 | [CVE-2024-20356](https://www.cve.org/CVERecord?id=CVE-2024-20356) | [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356) | This is a proof of concept for CVE-2024-20356, a Command Injection vulnerability in Cisco&#x27;s CIMC. | 2024-04-12T15:07:42Z |
+| [CVE-2024-20356](https://www.cve.org/CVERecord?id=CVE-2024-20356) | [SherllyNeo/CVE_2024_20356](https://github.com/SherllyNeo/CVE_2024_20356) | A oxidized version of https://github.com/nettitude/CVE-2024-20356/blob/main/CVE-2024-20356.py | 2024-05-20T00:57:01Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [BetterCzz/CVE-2024-20291-POC](https://github.com/BetterCzz/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T05:25:35Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [Instructor-Team8/CVE-2024-20291-POC](https://github.com/Instructor-Team8/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T08:53:14Z |
 | [CVE-2024-1874](https://www.cve.org/CVERecord?id=CVE-2024-1874) | [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-) | command injection | 2024-04-17T05:26:34Z |
