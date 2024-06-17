@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-16 02:04:00.948953
+Last generated: 2024-06-17 02:01:59.063608
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -42,6 +42,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
+| [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
@@ -175,6 +176,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [JakobTheDev/cve-2024-32002-submodule-rce](https://github.com/JakobTheDev/cve-2024-32002-submodule-rce) | no description | 2024-05-18T11:20:31Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/poc-cve-2024-32002](https://github.com/fadhilthomas/poc-cve-2024-32002) | poc of git rce using cve-2024-32002 | 2024-05-23T07:56:05Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/hook](https://github.com/fadhilthomas/hook) | part of poc cve-2024-32002 | 2024-05-24T09:23:42Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Goplush/CVE-2024-32002-git-rce](https://github.com/Goplush/CVE-2024-32002-git-rce) | no description | 2024-05-28T05:27:23Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -741,6 +743,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) | LPE exploit for CVE-2024-0582 (io_uring) | 2024-03-29T14:45:22Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [QDming/cve](https://github.com/QDming/cve) | Use CVE-2024-29278 | 2024-03-29T08:20:23Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582) | no description | 2024-04-05T15:39:48Z |
+| [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582) | no description | 2024-05-28T01:06:48Z |
 | [CVE-2024-0566](https://www.cve.org/CVERecord?id=CVE-2024-0566) | [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566) | no description | 2024-05-09T17:30:24Z |
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z |
 | [CVE-2024-0399](https://www.cve.org/CVERecord?id=CVE-2024-0399) | [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399) | no description | 2024-05-09T18:21:42Z |
@@ -2282,6 +2285,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z |
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py) | This is an exploit file which is used to check CVE-2021-21716 vulnerability | 2023-11-04T08:49:14Z |
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z |
+| [CVE-2023-21674](https://www.cve.org/CVERecord?id=CVE-2023-21674) | [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674) | no description | 2024-03-07T05:43:48Z |
 | [CVE-2023-21608](https://www.cve.org/CVERecord?id=CVE-2023-21608) | [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608) | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | 2023-01-30T12:57:48Z |
 | [CVE-2023-21554](https://www.cve.org/CVERecord?id=CVE-2023-21554) | [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | no description | 2023-08-17T17:16:46Z |
 | [CVE-2023-21288](https://www.cve.org/CVERecord?id=CVE-2023-21288) | [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288) | no description | 2023-10-04T06:42:19Z |
@@ -2412,6 +2416,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [puckiestyle/CVE-2023-0386](https://github.com/puckiestyle/CVE-2023-0386) | no description | 2023-12-23T11:01:55Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [actuator/com.tcl.browser](https://github.com/actuator/com.tcl.browser) | CVE-2023-43481 | 2023-09-13T02:03:34Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386) | no description | 2024-02-29T06:22:50Z |
+| [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386) | no description | 2024-04-05T05:47:00Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z |
@@ -2595,6 +2600,7 @@ Last generated: 2024-06-16 02:04:00.948953
 | [CVE-2022-33082](https://www.cve.org/CVERecord?id=CVE-2022-33082) | [cyberqueenmeg/cve-2022-33082-exploit](https://github.com/cyberqueenmeg/cve-2022-33082-exploit) | no description | 2023-06-22T17:50:18Z |
 | [CVE-2022-32883](https://www.cve.org/CVERecord?id=CVE-2022-32883) | [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883) | Turning Your Computer Into a GPS Tracker With Apple Maps | 2022-09-18T15:51:52Z |
 | [CVE-2022-32862](https://www.cve.org/CVERecord?id=CVE-2022-32862) | [rohitc33/CVE-2022-32862](https://github.com/rohitc33/CVE-2022-32862) | no description | 2023-09-13T18:29:27Z |
+| [CVE-2022-32548](https://www.cve.org/CVERecord?id=CVE-2022-32548) | [MosaedH/CVE-2022-32548-RCE-POC](https://github.com/MosaedH/CVE-2022-32548-RCE-POC) | no description | 2023-10-27T08:58:11Z |
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit) | no description | 2022-08-24T06:00:47Z |
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches) | This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability | 2022-10-14T04:58:26Z |
 | [CVE-2022-32199](https://www.cve.org/CVERecord?id=CVE-2022-32199) | [Toxich4/CVE-2022-32199](https://github.com/Toxich4/CVE-2022-32199) | no description | 2023-03-25T08:49:58Z |
