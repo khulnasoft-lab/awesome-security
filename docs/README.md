@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-17 02:01:59.063608
+Last generated: 2024-06-18 02:01:04.795195
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -15,6 +16,8 @@ Last generated: 2024-06-17 02:01:59.063608
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956) | Nexus Repository Manager 3 Unauthenticated Path Traversal | 2024-05-23T06:47:13Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [eoslvs/CVE-2024-4956](https://github.com/eoslvs/CVE-2024-4956) | no description | 2024-05-27T13:48:15Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [ifconfig-me/CVE-2024-4956-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-4956-Bulk-Scanner) | [CVE-2024-4956] Nexus Repository Manager 3 Unauthenticated Path Traversal Bulk Scanner | 2024-05-26T06:50:48Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956) | CVE-2024-4956 : Nexus Repository Manager 3 poc exploit | 2024-05-28T15:05:31Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [TypicalModMaker/CVE-2024-4956](https://github.com/TypicalModMaker/CVE-2024-4956) | Proof-Of-Concept (POC) for CVE-2024-4956 | 2024-05-28T21:20:53Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -45,6 +48,9 @@ Last generated: 2024-06-17 02:01:59.063608
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
+| [CVE-2024-35469](https://www.cve.org/CVERecord?id=CVE-2024-35469) | [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469) | CVE-2024-35469 - SQL injection | 2024-05-11T07:27:31Z |
+| [CVE-2024-35468](https://www.cve.org/CVERecord?id=CVE-2024-35468) | [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468) | CVE-2024-35468 - SQL injection | 2024-05-11T05:23:41Z |
+| [CVE-2024-35333](https://www.cve.org/CVERecord?id=CVE-2024-35333) | [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333) | no description | 2024-05-14T13:02:36Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
@@ -383,6 +389,7 @@ Last generated: 2024-06-17 02:01:59.063608
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [k3ppf0r/CVE-2024-27956](https://github.com/k3ppf0r/CVE-2024-27956) | CVE-2024-27956 | 2024-05-07T10:07:00Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [FoxyProxys/CVE-2024-27956](https://github.com/FoxyProxys/CVE-2024-27956) | no description | 2024-05-05T19:50:54Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [W3BW/CVE-2024-27956-RCE-File-Package](https://github.com/W3BW/CVE-2024-27956-RCE-File-Package) | no description | 2024-05-15T07:48:54Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956) | WordPress Auto Admin Account Creation and Reverse Shell cve-2024-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server. It utilizes the wp-automatic plugin&#x27;s CSV injection vulnerability to execute SQL queries | 2024-05-14T14:21:49Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
 | [CVE-2024-27674](https://www.cve.org/CVERecord?id=CVE-2024-27674) | [Alaatk/CVE-2024-27674](https://github.com/Alaatk/CVE-2024-27674) | Macro Expert &lt;= 4.9.4 - Insecure Permissions Privilege Escalation | 2024-04-03T15:16:09Z |
@@ -572,6 +579,7 @@ Last generated: 2024-06-17 02:01:59.063608
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
+| [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-22983](https://www.cve.org/CVERecord?id=CVE-2024-22983) | [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983) | An SQL injection Vulnerability in projectworlds&#x27; Visitor Management System | 2024-01-25T10:05:00Z |
 | [CVE-2024-22939](https://www.cve.org/CVERecord?id=CVE-2024-22939) | [NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939) | CVE-2024-22939 | 2024-01-25T07:00:38Z |
 | [CVE-2024-22922](https://www.cve.org/CVERecord?id=CVE-2024-22922) | [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922) | A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System | 2024-01-25T11:14:43Z |
@@ -755,6 +763,7 @@ Last generated: 2024-06-17 02:01:59.063608
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204) | GoAnywhere MFT | 2024-02-04T01:40:46Z |
 | [CVE-2024-0197](https://www.cve.org/CVERecord?id=CVE-2024-0197) | [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC) | Proof of concept for Local Privilege Escalation in Thales Sentinel HASP LDK. | 2024-02-27T15:25:58Z |
 | [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z |
+| [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
@@ -5618,3 +5627,4 @@ Last generated: 2024-06-17 02:01:59.063608
 | CVE NOT FOUND | [FeatherStark/CVE-2024-VUL](https://github.com/FeatherStark/CVE-2024-VUL) | no description | 2024-05-21T04:01:22Z |
 | CVE NOT FOUND | [ThanHuuTuan/CVE_2024](https://github.com/ThanHuuTuan/CVE_2024) | no description | 2022-06-29T02:01:14Z |
 | CVE NOT FOUND | [kaikai145154/CVE-2024](https://github.com/kaikai145154/CVE-2024) | no description | 2024-05-27T01:48:39Z |
+| CVE NOT FOUND | [SnoopyTools/Rootkit-cve2024](https://github.com/SnoopyTools/Rootkit-cve2024) | no description | 2024-05-28T23:56:22Z |
