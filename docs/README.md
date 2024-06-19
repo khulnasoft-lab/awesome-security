@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-18 02:01:04.795195
+Last generated: 2024-06-19 01:59:56.173310
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -112,6 +112,7 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
 | [CVE-2024-33078](https://www.cve.org/CVERecord?id=CVE-2024-33078) | [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078) | no description | 2024-05-01T15:45:45Z |
+| [CVE-2024-3293](https://www.cve.org/CVERecord?id=CVE-2024-3293) | [truonghuuphuc/CVE-2024-3293-Poc](https://github.com/truonghuuphuc/CVE-2024-3293-Poc) | CVE-2024-3293 rtMedia for WordPress, BuddyPress and bbPress &lt;= 4.6.18 - Authenticated (Contributor+) SQL Injection via rtmedia_gallery Shortcode | 2024-05-30T04:51:32Z |
 | [CVE-2024-32766](https://www.cve.org/CVERecord?id=CVE-2024-32766) | [3W1nd4r/CVE-2024-32766-RCE](https://github.com/3W1nd4r/CVE-2024-32766-RCE) | writeup and PoC for CVE-2024-32766 (QNAP) OS command injection and auth bypass | 2024-05-02T23:39:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273) | Exploit for CVE-2024-3273, supports single and multiple hosts | 2024-04-07T15:36:18Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) | D-Link NAS CVE-2024-3273 Exploit Tool | 2024-04-07T03:09:13Z |
@@ -183,6 +184,10 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/poc-cve-2024-32002](https://github.com/fadhilthomas/poc-cve-2024-32002) | poc of git rce using cve-2024-32002 | 2024-05-23T07:56:05Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [fadhilthomas/hook](https://github.com/fadhilthomas/hook) | part of poc cve-2024-32002 | 2024-05-24T09:23:42Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Goplush/CVE-2024-32002-git-rce](https://github.com/Goplush/CVE-2024-32002-git-rce) | no description | 2024-05-28T05:27:23Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [AD-Appledog/CVE-2024-32002](https://github.com/AD-Appledog/CVE-2024-32002) | CVE-2024-32002wakuwaku | 2024-05-31T02:40:31Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [AD-Appledog/wakuwaku](https://github.com/AD-Appledog/wakuwaku) | cve-2024-32002yahhh | 2024-05-31T02:45:44Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002) | A proof of concept for the git vulnerability CVE-2024-32002 | 2024-05-17T15:35:50Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [431m/rcetest](https://github.com/431m/rcetest) | CVE-2024-32002 poc test | 2024-05-30T06:08:33Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -334,6 +339,7 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961) | CVE-2024–2961 Security Issue Mitigation Script | 2024-05-20T06:53:23Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv() | 2024-05-27T08:30:06Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix) | Bash script to patch for CVE-2024-2961 | 2024-05-30T13:45:43Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -465,6 +471,13 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2024-25153](https://www.cve.org/CVERecord?id=CVE-2024-25153) | [rainbowhatrkn/CVE-2024-25153](https://github.com/rainbowhatrkn/CVE-2024-25153) | Proof-of-concept exploit for CVE-2024-25153. | 2024-03-18T09:02:56Z |
 | [CVE-2024-25153](https://www.cve.org/CVERecord?id=CVE-2024-25153) | [nettitude/CVE-2024-25153](https://github.com/nettitude/CVE-2024-25153) | Proof-of-concept exploit for CVE-2024-25153. | 2024-03-12T17:26:10Z |
 | [CVE-2024-25092](https://www.cve.org/CVERecord?id=CVE-2024-25092) | [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092) | NextMove Lite &lt; 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | 2024-02-14T11:30:59Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [P3wc0/CVE-2024-24919](https://github.com/P3wc0/CVE-2024-24919) | no description | 2024-05-31T01:14:19Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [am-eid/CVE-2024-24919](https://github.com/am-eid/CVE-2024-24919) | no description | 2024-05-30T23:52:53Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Bytenull00/CVE-2024-24919](https://github.com/Bytenull00/CVE-2024-24919) | Quick and simple script that takes as input a file with multiple URLs to check for the CVE-2024-24919 vulnerability in CHECKPOINT | 2024-05-30T20:14:19Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [emanueldosreis/CVE-2024-24919](https://github.com/emanueldosreis/CVE-2024-24919) | POC exploit for CVE-2024-24919 information leakage | 2024-05-30T14:41:32Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [LucasKatashi/CVE-2024-24919](https://github.com/LucasKatashi/CVE-2024-24919) | CVE-2024-24919 Exploit PoC | 2024-05-30T16:23:18Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [hendprw/CVE-2024-24919](https://github.com/hendprw/CVE-2024-24919) | no description | 2024-05-30T15:40:11Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [c3rrberu5/CVE-2024-24919](https://github.com/c3rrberu5/CVE-2024-24919) | Nuclei Template to discover CVE-2024-24919. A path traversal vulnerability in CheckPoint SSLVPN. | 2024-05-30T07:55:53Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -3130,6 +3143,7 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2021-25032](https://www.cve.org/CVERecord?id=CVE-2021-25032) | [RandomRobbieBF/CVE-2021-25032](https://github.com/RandomRobbieBF/CVE-2021-25032) | PublishPress Capabilities &lt; 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | 2023-08-09T10:41:07Z |
 | [CVE-2021-24741](https://www.cve.org/CVERecord?id=CVE-2021-24741) | [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741) | Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | 2021-08-28T18:34:40Z |
 | [CVE-2021-24647](https://www.cve.org/CVERecord?id=CVE-2021-24647) | [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647) | CVE-2021-24647 Pie Register &lt; 3.7.1.6 - Unauthenticated Arbitrary Login | 2023-06-15T09:51:36Z |
+| [CVE-2021-24499](https://www.cve.org/CVERecord?id=CVE-2021-24499) | [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499) | no description | 2023-09-29T04:53:56Z |
 | [CVE-2021-24356](https://www.cve.org/CVERecord?id=CVE-2021-24356) | [RandomRobbieBF/CVE-2021-24356](https://github.com/RandomRobbieBF/CVE-2021-24356) | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | 2023-08-09T18:24:19Z |
 | [CVE-2021-23840](https://www.cve.org/CVERecord?id=CVE-2021-23840) | [Trinadh465/openssl-1.1.1g_CVE-2021-23840](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840) | no description | 2023-09-11T09:24:54Z |
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z |
@@ -3190,6 +3204,7 @@ Last generated: 2024-06-18 02:01:04.795195
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac) | .Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner &amp; Exploit noPac | 2021-12-13T19:01:18Z |
 | [CVE-2021-0394](https://www.cve.org/CVERecord?id=CVE-2021-0394) | [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394) | no description | 2023-08-31T07:00:49Z |
 | [CVE-2021-0325](https://www.cve.org/CVERecord?id=CVE-2021-0325) | [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325) | no description | 2022-04-01T14:11:58Z |
+| [CVE-2021-0315](https://www.cve.org/CVERecord?id=CVE-2021-0315) | [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315) | no description | 2022-04-27T05:01:30Z |
 | [CVE-2020-9715](https://www.cve.org/CVERecord?id=CVE-2020-9715) | [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715) | Adobe Acrobat Reader UAF vulnerability Exploit code | 2022-08-29T14:33:40Z |
 | [CVE-2020-9715](https://www.cve.org/CVERecord?id=CVE-2020-9715) | [arafatansari/SecAssignment](https://github.com/arafatansari/SecAssignment) | A Docker image vulnerable to CVE-2020-7246. | 2022-08-27T19:47:23Z |
 | [CVE-2020-9496](https://www.cve.org/CVERecord?id=CVE-2020-9496) | [birdlinux/CVE-2020-9496](https://github.com/birdlinux/CVE-2020-9496) | ApacheOfBiz 17.12.01 Remote Code Execution | 2023-06-26T06:56:38Z |
