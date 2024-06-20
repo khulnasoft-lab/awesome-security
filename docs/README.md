@@ -2,12 +2,14 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-19 01:59:56.173310
+Last generated: 2024-06-20 01:57:23.972780
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -188,6 +190,7 @@ Last generated: 2024-06-19 01:59:56.173310
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [AD-Appledog/wakuwaku](https://github.com/AD-Appledog/wakuwaku) | cve-2024-32002yahhh | 2024-05-31T02:45:44Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002) | A proof of concept for the git vulnerability CVE-2024-32002 | 2024-05-17T15:35:50Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [431m/rcetest](https://github.com/431m/rcetest) | CVE-2024-32002 poc test | 2024-05-30T06:08:33Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002) | no description | 2024-05-31T08:10:39Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -478,6 +481,13 @@ Last generated: 2024-06-19 01:59:56.173310
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [LucasKatashi/CVE-2024-24919](https://github.com/LucasKatashi/CVE-2024-24919) | CVE-2024-24919 Exploit PoC | 2024-05-30T16:23:18Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [hendprw/CVE-2024-24919](https://github.com/hendprw/CVE-2024-24919) | no description | 2024-05-30T15:40:11Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [c3rrberu5/CVE-2024-24919](https://github.com/c3rrberu5/CVE-2024-24919) | Nuclei Template to discover CVE-2024-24919. A path traversal vulnerability in CheckPoint SSLVPN. | 2024-05-30T07:55:53Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [nexblade12/CVE-2024-24919](https://github.com/nexblade12/CVE-2024-24919) | no description | 2024-05-31T17:41:08Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GlobalsecureAcademy/CVE-2024-24919](https://github.com/GlobalsecureAcademy/CVE-2024-24919) | Exploit tool to validate CVE-2024-24919 vulnerability on Checkpoint Firewall VPNs | 2024-05-31T17:14:48Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GoatSecurity/CVE-2024-24919](https://github.com/GoatSecurity/CVE-2024-24919) | CVE-2024-24919 exploit | 2024-05-31T13:11:40Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [smackerdodi/CVE-2024-24919-nuclei-templater](https://github.com/smackerdodi/CVE-2024-24919-nuclei-templater) | Nuclei template for CVE-2024-24919 | 2024-05-31T12:33:34Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Vulnpire/CVE-2024-24919](https://github.com/Vulnpire/CVE-2024-24919) | no description | 2024-05-31T11:29:03Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [satriarizka/CVE-2024-24919](https://github.com/satriarizka/CVE-2024-24919) | A simple bash and python script to check for the vulnerability CVE-2024-24919 | 2024-05-31T08:01:13Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [zam89/CVE-2024-24919](https://github.com/zam89/CVE-2024-24919) | Simple POC Python script that check &amp; leverage Check Point CVE-2024-24919 vulnerability (Wrong Check Point) | 2024-05-31T07:59:17Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -2736,6 +2746,7 @@ Last generated: 2024-06-19 01:59:56.173310
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [J0ey17/CVE-2022-22963_Reverse-Shell-Exploit](https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit) | CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell. | 2023-03-18T11:43:00Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [lemmyz4n3771/CVE-2022-22963-PoC](https://github.com/lemmyz4n3771/CVE-2022-22963-PoC) | CVE-2022-22963 RCE PoC in python | 2023-03-13T13:28:55Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [Ki11i0n4ir3/CVE-2022-22963](https://github.com/Ki11i0n4ir3/CVE-2022-22963) | no description | 2022-04-11T10:01:25Z |
+| [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [BearClaw96/CVE-2022-22963-Poc-Bearcules](https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules) | This is a POC for CVE-2022-22963 | 2023-10-28T21:42:38Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [PenteraIO/CVE-2022-22948](https://github.com/PenteraIO/CVE-2022-22948) | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | 2021-10-17T09:59:20Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc) | SnakeYAML-CVE-2022-1471-POC | 2023-05-08T14:46:22Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [Henryisnotavailable/Dompdf-Exploit-RCE](https://github.com/Henryisnotavailable/Dompdf-Exploit-RCE) | An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine | 2023-05-07T14:49:38Z |
@@ -3041,6 +3052,7 @@ Last generated: 2024-06-19 01:59:56.173310
 | [CVE-2021-34767](https://www.cve.org/CVERecord?id=CVE-2021-34767) | [tahaafarooq/poppy](https://github.com/tahaafarooq/poppy) | CVE-2021-4034 PoC , polkit &lt; 0.131 | 2022-01-27T14:29:55Z |
 | [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [RandomRobbieBF/CVE-2021-34621](https://github.com/RandomRobbieBF/CVE-2021-34621) | ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation | 2023-08-09T11:41:56Z |
 | [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [K3ysTr0K3R/CVE-2021-34621-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT) | A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation | 2023-08-12T21:51:37Z |
+| [CVE-2021-34621](https://www.cve.org/CVERecord?id=CVE-2021-34621) | [navreet1425/CVE-2021-34621](https://github.com/navreet1425/CVE-2021-34621) | no description | 2023-09-30T14:36:58Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [fardinbarashi/PsFix-CVE-2021-34527](https://github.com/fardinbarashi/PsFix-CVE-2021-34527) | # Fix-CVE-2021-34527 Fix for the security  Script Changes ACL in the directory Stop Service PrintSpooler Spooler Changes StartupType to Disabled  Add every server in the serverlist.csv and run script. | 2023-04-07T20:14:31Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) | A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability. | 2021-12-14T06:37:59Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [m8sec/CVE-2021-34527](https://github.com/m8sec/CVE-2021-34527) | PrintNightmare (CVE-2021-34527) PoC Exploit | 2022-08-23T20:20:45Z |
