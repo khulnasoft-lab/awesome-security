@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-20 01:57:23.972780
+Last generated: 2024-06-21 01:57:51.627537
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
+| [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
@@ -20,6 +21,7 @@ Last generated: 2024-06-20 01:57:23.972780
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [ifconfig-me/CVE-2024-4956-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-4956-Bulk-Scanner) | [CVE-2024-4956] Nexus Repository Manager 3 Unauthenticated Path Traversal Bulk Scanner | 2024-05-26T06:50:48Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [GoatSecurity/CVE-2024-4956](https://github.com/GoatSecurity/CVE-2024-4956) | CVE-2024-4956 : Nexus Repository Manager 3 poc exploit | 2024-05-28T15:05:31Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [TypicalModMaker/CVE-2024-4956](https://github.com/TypicalModMaker/CVE-2024-4956) | Proof-Of-Concept (POC) for CVE-2024-4956 | 2024-05-28T21:20:53Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager) | Exploit for CVE-2024-4956 affecting all previous Sonatype Nexus Repository 3.x OSS/Pro versions up to and including 3.68.0 | 2024-05-30T08:04:27Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -488,6 +490,16 @@ Last generated: 2024-06-20 01:57:23.972780
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Vulnpire/CVE-2024-24919](https://github.com/Vulnpire/CVE-2024-24919) | no description | 2024-05-31T11:29:03Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [satriarizka/CVE-2024-24919](https://github.com/satriarizka/CVE-2024-24919) | A simple bash and python script to check for the vulnerability CVE-2024-24919 | 2024-05-31T08:01:13Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [zam89/CVE-2024-24919](https://github.com/zam89/CVE-2024-24919) | Simple POC Python script that check &amp; leverage Check Point CVE-2024-24919 vulnerability (Wrong Check Point) | 2024-05-31T07:59:17Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [0x3f3c/CVE-2024-24919](https://github.com/0x3f3c/CVE-2024-24919) | no description | 2024-05-31T12:08:28Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN) | Herramienta de explotación para explotar la vulnerabilidad CVE-2024-24919 en las VPN de Checkpoint Firewall | 2024-06-01T12:02:43Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check) | Esta herramienta se utiliza para validar la vulnerabilidad CVE-2024-24919 en las VPN de Checkpoint Firewall | 2024-06-01T11:54:39Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [YN1337/CVE-2024-24919](https://github.com/YN1337/CVE-2024-24919) | Mass scanner for CVE-2024-24919 | 2024-06-01T09:54:13Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [gurudattch/CVE-2024-24919](https://github.com/gurudattch/CVE-2024-24919) | no description | 2024-06-01T03:26:29Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [fernandobortotti/CVE-2024-24919](https://github.com/fernandobortotti/CVE-2024-24919) | no description | 2024-06-01T02:20:28Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [nicolvsrlr27/CVE-2024-24919](https://github.com/nicolvsrlr27/CVE-2024-24919) | no description | 2024-06-01T03:05:35Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [eoslvs/CVE-2024-24919](https://github.com/eoslvs/CVE-2024-24919) | no description | 2024-05-30T17:26:08Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [MohamedWagdy7/CVE-2024-24919](https://github.com/MohamedWagdy7/CVE-2024-24919) | no description | 2024-05-31T22:07:21Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [seed1337/CVE-2024-24919-POC](https://github.com/seed1337/CVE-2024-24919-POC) | no description | 2024-05-31T11:52:59Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -820,6 +832,7 @@ Last generated: 2024-06-20 01:57:23.972780
 | [CVE-2023-6663](https://www.cve.org/CVERecord?id=CVE-2023-6663) | [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663) | no description | 2023-12-23T11:39:57Z |
 | [CVE-2023-6661](https://www.cve.org/CVERecord?id=CVE-2023-6661) | [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661) | no description | 2023-12-23T11:39:50Z |
 | [CVE-2023-6654](https://www.cve.org/CVERecord?id=CVE-2023-6654) | [qfmy1024/CVE-2023-6654](https://github.com/qfmy1024/CVE-2023-6654) | CVE-2023-6654 EXP | 2024-02-27T07:50:01Z |
+| [CVE-2023-6634](https://www.cve.org/CVERecord?id=CVE-2023-6634) | [krn966/CVE-2023-6634](https://github.com/krn966/CVE-2023-6634) | CVE-2023-6634 | 2024-04-05T18:07:08Z |
 | [CVE-2023-6595](https://www.cve.org/CVERecord?id=CVE-2023-6595) | [sharmashreejaa/CVE-2023-6595](https://github.com/sharmashreejaa/CVE-2023-6595) | no description | 2024-03-02T07:35:29Z |
 | [CVE-2023-6567](https://www.cve.org/CVERecord?id=CVE-2023-6567) | [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc) | Time-based SQLi | 2024-01-11T05:43:31Z |
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) | Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution | 2023-12-13T20:26:59Z |
@@ -842,6 +855,7 @@ Last generated: 2024-06-20 01:57:23.972780
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z |
 | [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z |
 | [CVE-2023-5717](https://www.cve.org/CVERecord?id=CVE-2023-5717) | [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717) | no description | 2024-01-23T09:04:00Z |
+| [CVE-2023-5631](https://www.cve.org/CVERecord?id=CVE-2023-5631) | [soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC) | Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php | 2024-04-05T20:47:32Z |
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z |
 | [CVE-2023-5561](https://www.cve.org/CVERecord?id=CVE-2023-5561) | [pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC) | WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack | 2023-12-13T16:43:18Z |
 | [CVE-2023-5546](https://www.cve.org/CVERecord?id=CVE-2023-5546) | [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546) | no description | 2023-08-21T11:50:01Z |
@@ -1476,6 +1490,7 @@ Last generated: 2024-06-20 01:57:23.972780
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP) | no description | 2023-12-10T07:13:38Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [SpamixOfficial/CVE-2023-38831](https://github.com/SpamixOfficial/CVE-2023-38831) | CVE-2023-38831 Proof-of-concept code | 2023-12-12T14:54:30Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar) | evil-winrar,CVE-2023-38831漏洞利用和社会工程学攻击框架 (evil-winrar, CVE-2023-38831 Vulnerability Exploitation and Social Engineering Attack Framework) | 2024-03-25T14:05:24Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [RomainBayle08/CVE-2023-38831](https://github.com/RomainBayle08/CVE-2023-38831) | no description | 2024-04-06T16:55:29Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
