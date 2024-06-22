@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-21 01:57:51.627537
+Last generated: 2024-06-22 01:56:24.602979
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -193,6 +193,8 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002) | A proof of concept for the git vulnerability CVE-2024-32002 | 2024-05-17T15:35:50Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [431m/rcetest](https://github.com/431m/rcetest) | CVE-2024-32002 poc test | 2024-05-30T06:08:33Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002) | no description | 2024-05-31T08:10:39Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002) | https://www.cve.org/CVERecord?id=CVE-2024-32002 | 2024-06-01T12:27:50Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook) | no description | 2024-06-01T12:25:04Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -500,6 +502,9 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [eoslvs/CVE-2024-24919](https://github.com/eoslvs/CVE-2024-24919) | no description | 2024-05-30T17:26:08Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [MohamedWagdy7/CVE-2024-24919](https://github.com/MohamedWagdy7/CVE-2024-24919) | no description | 2024-05-31T22:07:21Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [seed1337/CVE-2024-24919-POC](https://github.com/seed1337/CVE-2024-24919-POC) | no description | 2024-05-31T11:52:59Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [mr-kasim-mehar/CVE-2024-24919-Exploit](https://github.com/mr-kasim-mehar/CVE-2024-24919-Exploit) | no description | 2024-06-02T08:19:50Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT](https://github.com/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT) | no description | 2024-06-02T06:17:06Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner) | CVE-2024-24919 [Check Point Security Gateway Information Disclosure] | 2024-06-01T10:51:14Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -586,6 +591,7 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441) | no description | 2024-05-08T02:28:46Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [murataydemir/CVE-2024-23897](https://github.com/murataydemir/CVE-2024-23897) | [CVE-2024-23897] Jenkins CI Authenticated Arbitrary File Read Through the CLI Leads to Remote Code Execution (RCE) | 2024-05-07T11:00:03Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Maalfer/CVE-2024-23897](https://github.com/Maalfer/CVE-2024-23897) | Poc para explotar la vulnerabilidad CVE-2024-23897 en versiones 2.441 y anteriores de Jenkins, mediante la cual podremos leer archivos internos del sistema sin estar autenticados | 2024-05-16T09:32:51Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897) | Un exploit con el que puedes aprovecharte de la vulnerabilidad (CVE-2024-23897) | 2024-05-26T09:35:54Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -2867,6 +2873,7 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847) | Drity Pipe Linux Kernel 1-Day Exploit | 2023-01-24T08:44:32Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [n3rada/DirtyPipe](https://github.com/n3rada/DirtyPipe) | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | 2023-10-15T20:13:11Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [ayushx007/CVE-2022-0847-dirty-pipe-checker](https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker) | Bash script to check if kernel is vulnerable | 2023-10-25T11:28:22Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [h4ckm310n/CVE-2022-0847-eBPF](https://github.com/h4ckm310n/CVE-2022-0847-eBPF) | An eBPF program to detect attacks on CVE-2022-0847 | 2023-07-06T01:31:01Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -2901,6 +2908,7 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2021-45010](https://www.cve.org/CVERecord?id=CVE-2021-45010) | [Syd-SydneyJr/CVE-2021-45010](https://github.com/Syd-SydneyJr/CVE-2021-45010) | no description | 2023-03-13T18:40:02Z |
 | [CVE-2021-45010](https://www.cve.org/CVERecord?id=CVE-2021-45010) | [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010) | 🐍 Python Exploit for CVE-2021-45010 | 2022-12-20T00:47:30Z |
 | [CVE-2021-44910](https://www.cve.org/CVERecord?id=CVE-2021-44910) | [dockererr/CVE-2021-44910_SpringBlade](https://github.com/dockererr/CVE-2021-44910_SpringBlade) | 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。 | 2023-07-22T16:48:24Z |
+| [CVE-2021-44906](https://www.cve.org/CVERecord?id=CVE-2021-44906) | [nevermoe/CVE-2021-44906](https://github.com/nevermoe/CVE-2021-44906) | no description | 2023-10-02T15:20:35Z |
 | [CVE-2021-44852](https://www.cve.org/CVERecord?id=CVE-2021-44852) | [CrackerCat/CVE-2021-44852](https://github.com/CrackerCat/CVE-2021-44852) | An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver&#x27;s device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000. | 2023-03-22T04:47:54Z |
 | [CVE-2021-44832](https://www.cve.org/CVERecord?id=CVE-2021-44832) | [name/log4j-scanner](https://github.com/name/log4j-scanner) | Discover Log4Shell vulnerability [CVE-2021-44832] | 2021-12-29T08:22:41Z |
 | [CVE-2021-44735](https://www.cve.org/CVERecord?id=CVE-2021-44735) | [defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735) | Exploit for CVE-2021-44735 | 2023-07-20T09:20:13Z |
@@ -3365,6 +3373,7 @@ Last generated: 2024-06-21 01:57:51.627537
 | [CVE-2020-2038](https://www.cve.org/CVERecord?id=CVE-2020-2038) | [west9b/F5-BIG-IP-POC](https://github.com/west9b/F5-BIG-IP-POC) | CVE-2020-5902 CVE-2021-22986 CVE-2022-1388 POC集合 | 2022-05-28T13:30:22Z |
 | [CVE-2020-2038](https://www.cve.org/CVERecord?id=CVE-2020-2038) | [jbaines-r7/overkill](https://github.com/jbaines-r7/overkill) | QNAP N-Day (Probably not CVE-2020-2509) | 2022-07-27T19:58:40Z |
 | [CVE-2020-2023](https://www.cve.org/CVERecord?id=CVE-2020-2023) | [ssst0n3/kata-cve-2020-2023-poc](https://github.com/ssst0n3/kata-cve-2020-2023-poc) | no description | 2023-05-08T03:12:46Z |
+| [CVE-2020-20093](https://www.cve.org/CVERecord?id=CVE-2020-20093) | [zadewg/RIUS](https://github.com/zadewg/RIUS) | CVE-2020-20093; 20094; 20095; 20096, 2022-28345 RTLO Injection URI Spoofing | 2019-08-15T18:22:18Z |
 | [CVE-2020-1971](https://www.cve.org/CVERecord?id=CVE-2020-1971) | [nidhi7598/OPENSSL_1.1.1g_G3_CVE-2020-1971](https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2020-1971) | no description | 2023-03-21T05:13:37Z |
 | [CVE-2020-19587](https://www.cve.org/CVERecord?id=CVE-2020-19587) | [Deepak983/CVE-2020-19587](https://github.com/Deepak983/CVE-2020-19587) | no description | 2022-08-30T10:08:07Z |
 | [CVE-2020-19587](https://www.cve.org/CVERecord?id=CVE-2020-19587) | [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest) | This repository contains a test case for CVE-2020-0796 | 2020-03-12T09:35:57Z |
