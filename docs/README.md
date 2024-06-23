@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-22 01:56:24.602979
+Last generated: 2024-06-23 02:03:15.117914
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -455,6 +455,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-04-17T15:21:01Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://github.com/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE) | WORDPRESS-CVE-2024-25600-EXPLOIT-RCE - WordPress Bricks Builder Remote Code Execution (RCE) | 2024-04-20T06:36:22Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [RHYru9/CVE-2024-25600-mass](https://github.com/RHYru9/CVE-2024-25600-mass) | no description | 2024-05-05T02:18:00Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | 0BL1V10N&#x27;s CVE-2024-25600 for Bricks Builder (TryHackMe) plugin for WordPress exploit | 2024-06-02T10:49:03Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
@@ -505,6 +506,10 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [mr-kasim-mehar/CVE-2024-24919-Exploit](https://github.com/mr-kasim-mehar/CVE-2024-24919-Exploit) | no description | 2024-06-02T08:19:50Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT](https://github.com/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT) | no description | 2024-06-02T06:17:06Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner) | CVE-2024-24919 [Check Point Security Gateway Information Disclosure] | 2024-06-01T10:51:14Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [bigb0x/CVE-2024-24919-Sniper](https://github.com/bigb0x/CVE-2024-24919-Sniper) | CVE-2024-24919 Sniper - A powerful tool for scanning Check Point Security Gateway CVE-2024-24919 vulnerability. Supports single &amp; bulk scanning, multithreading, and generates detailed CSV reports. Ideal for penetration testers and security researchers. | 2024-06-02T20:16:22Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc) | a Proof of Concept of CVE-2024-24919 | 2024-06-02T13:58:36Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC) | no description | 2024-06-02T13:09:51Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN) | no description | 2024-05-31T12:10:05Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -1421,6 +1426,8 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140) | no description | 2024-01-24T12:42:48Z |
 | [CVE-2023-40140](https://www.cve.org/CVERecord?id=CVE-2023-40140) | [hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140](https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140) | no description | 2024-02-01T07:21:01Z |
 | [CVE-2023-40133](https://www.cve.org/CVERecord?id=CVE-2023-40133) | [uthrasri/frame_CVE-2023-40133_136_137](https://github.com/uthrasri/frame_CVE-2023-40133_136_137) | no description | 2024-04-03T06:44:22Z |
+| [CVE-2023-40127](https://www.cve.org/CVERecord?id=CVE-2023-40127) | [Trinadh465/CVE-2023-40127](https://github.com/Trinadh465/CVE-2023-40127) | no description | 2024-04-09T09:35:25Z |
+| [CVE-2023-40127](https://www.cve.org/CVERecord?id=CVE-2023-40127) | [Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/Trinadh465/platform_packages_providers_MediaProvider_CVE-2023-40127) | no description | 2024-04-09T05:35:00Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121) | no description | 2023-12-29T12:13:45Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121) | no description | 2023-12-27T12:19:41Z |
 | [CVE-2023-40121](https://www.cve.org/CVERecord?id=CVE-2023-40121) | [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121) | no description | 2023-12-26T10:02:13Z |
@@ -1544,6 +1551,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [Shisones/MetabaseRCE_CVE-2023-38646](https://github.com/Shisones/MetabaseRCE_CVE-2023-38646) | no description | 2024-01-28T15:01:40Z |
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [UserConnecting/Exploit-CVE-2023-38646-Metabase](https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase) | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | 2024-02-22T02:55:55Z |
 | [CVE-2023-38632](https://www.cve.org/CVERecord?id=CVE-2023-38632) | [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632) | Proof of concept for CVE-2023-38632 | 2023-07-21T05:03:57Z |
+| [CVE-2023-38609](https://www.cve.org/CVERecord?id=CVE-2023-38609) | [mc-17/CVE-2023-38609](https://github.com/mc-17/CVE-2023-38609) | SIP bypass using package scripts | 2023-10-20T14:34:27Z |
 | [CVE-2023-38571](https://www.cve.org/CVERecord?id=CVE-2023-38571) | [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV) | Exploit for CVE-2023-38571 | 2023-09-27T13:21:43Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545) | Simple PoC causing overflow | 2023-10-11T08:11:56Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545) | 😄 CVE-2023-38545堆溢出的POC和分析文章 | 2023-10-12T07:16:49Z |
@@ -1651,6 +1659,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-) | CVE-2023-36845 и CVE-2023-36846 Juniper Junos OS J-Web RCE | 2024-02-13T14:59:59Z |
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [e11i0t4lders0n/CVE-2023-36845](https://github.com/e11i0t4lders0n/CVE-2023-36845) | CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner | 2024-02-18T15:37:58Z |
 | [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845) | Juniper - Remote Code Execution (CVE-2023-36845) PreAuth-RCE Exploits | 2024-02-15T20:17:33Z |
+| [CVE-2023-36845](https://www.cve.org/CVERecord?id=CVE-2023-36845) | [ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845) | A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to remotely execute code. | 2024-02-17T08:15:30Z |
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [watchtowrlabs/juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) | no description | 2023-08-25T07:28:06Z |
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit) | CVE-2023-38035 Recon oriented exploit, extract company name contact information | 2023-08-24T19:26:57Z |
 | [CVE-2023-36844](https://www.cve.org/CVERecord?id=CVE-2023-36844) | [Pari-Malam/CVE-2023-36844](https://github.com/Pari-Malam/CVE-2023-36844) | Perform With Massive Juniper Remote Code Execution | 2023-09-20T02:32:56Z |
@@ -2012,6 +2021,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489) | no description | 2023-10-17T11:18:53Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [SynixCyberCrimeMy/CVE-2023-29489](https://github.com/SynixCyberCrimeMy/CVE-2023-29489) | SynixCyberCrimeMY CVE-2023-29489 Scanner By SamuraiMelayu1337 &amp; h4zzzzzz@scc | 2023-11-16T20:24:11Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Makurorororororororo/Validate-CVE-2023-29489-scanner-](https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner-) | no description | 2023-12-23T06:28:32Z |
+| [CVE-2023-29478](https://www.cve.org/CVERecord?id=CVE-2023-29478) | [Exopteron/BiblioRCE](https://github.com/Exopteron/BiblioRCE) | CVE-2023-29478 - BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | 2022-10-27T06:17:24Z |
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z |
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
 | [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360) | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | 2023-09-24T21:59:23Z |
@@ -2332,6 +2342,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) | LPE exploit for CVE-2023-21768 | 2023-03-07T23:00:27Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z |
+| [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Ha0-Y/CVE-2023-21768](https://github.com/Ha0-Y/CVE-2023-21768) | CVE-2023-21768 Proof of Concept | 2024-04-07T02:26:36Z |
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z |
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z |
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z |
@@ -2459,6 +2470,7 @@ Last generated: 2024-06-22 01:56:24.602979
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild) | Learn more things, not suck all things | 2023-11-20T18:32:46Z |
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177) | no description | 2023-04-13T02:56:24Z |
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z |
+| [CVE-2023-1077](https://www.cve.org/CVERecord?id=CVE-2023-1077) | [RenukaSelvar/kernel_rt_CVE_2023_1077](https://github.com/RenukaSelvar/kernel_rt_CVE_2023_1077) | no description | 2024-04-09T08:27:58Z |
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z |
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z |
 | [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669) | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | 2023-04-06T03:40:03Z |
