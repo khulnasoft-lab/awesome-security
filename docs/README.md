@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-23 02:03:15.117914
+Last generated: 2024-06-24 02:00:49.848868
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -55,8 +55,11 @@ Last generated: 2024-06-23 02:03:15.117914
 | [CVE-2024-35469](https://www.cve.org/CVERecord?id=CVE-2024-35469) | [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469) | CVE-2024-35469 - SQL injection | 2024-05-11T07:27:31Z |
 | [CVE-2024-35468](https://www.cve.org/CVERecord?id=CVE-2024-35468) | [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468) | CVE-2024-35468 - SQL injection | 2024-05-11T05:23:41Z |
 | [CVE-2024-35333](https://www.cve.org/CVERecord?id=CVE-2024-35333) | [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333) | no description | 2024-05-14T13:02:36Z |
+| [CVE-2024-35315](https://www.cve.org/CVERecord?id=CVE-2024-35315) | [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC) | Mitel Collab Local Privilege Escalation CVE-2024-35315 PoC | 2024-06-03T14:29:35Z |
+| [CVE-2024-34958](https://www.cve.org/CVERecord?id=CVE-2024-34958) | [Gr-1m/CVE-2024-34958](https://github.com/Gr-1m/CVE-2024-34958) | idccms CSRF poc | 2024-05-20T08:15:05Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
+| [CVE-2024-34832](https://www.cve.org/CVERecord?id=CVE-2024-34832) | [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832) | CVE-2024-34832 | 2024-05-14T19:15:31Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
@@ -510,6 +513,7 @@ Last generated: 2024-06-23 02:03:15.117914
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc) | a Proof of Concept of CVE-2024-24919 | 2024-06-02T13:58:36Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC) | no description | 2024-06-02T13:09:51Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN) | no description | 2024-05-31T12:10:05Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Rug4lo/CVE-2024-24919-Exploit](https://github.com/Rug4lo/CVE-2024-24919-Exploit) | CVE-2024-24919 Exploit and PoC - Critical LFI for Remote Access VPN or Mobile Access. | 2024-06-03T12:18:35Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -858,6 +862,7 @@ Last generated: 2024-06-23 02:03:15.117914
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z |
 | [CVE-2023-6036](https://www.cve.org/CVERecord?id=CVE-2023-6036) | [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036) | POC about Web3 – Crypto wallet Login &amp; NFT token gating &lt; 3.0.0 - Authentication Bypass Wordpress plugin | 2024-01-31T16:58:48Z |
 | [CVE-2023-6036](https://www.cve.org/CVERecord?id=CVE-2023-6036) | [mdaseem03/cpanel_xss_2023](https://github.com/mdaseem03/cpanel_xss_2023) | cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel. | 2024-01-23T20:29:57Z |
+| [CVE-2023-6019](https://www.cve.org/CVERecord?id=CVE-2023-6019) | [FireWolfWang/CVE-2023-6019](https://github.com/FireWolfWang/CVE-2023-6019) | Ray OS Command Injection RCE(Unauthorized) | 2024-04-10T09:24:06Z |
 | [CVE-2023-6000](https://www.cve.org/CVERecord?id=CVE-2023-6000) | [rxerium/CVE-2023-6000](https://github.com/rxerium/CVE-2023-6000) | The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks. | 2024-03-10T16:20:22Z |
 | [CVE-2023-5966](https://www.cve.org/CVERecord?id=CVE-2023-5966) | [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966) | no description | 2022-10-20T13:00:10Z |
 | [CVE-2023-5965](https://www.cve.org/CVERecord?id=CVE-2023-5965) | [pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965) | no description | 2022-10-20T15:35:07Z |
