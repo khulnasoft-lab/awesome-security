@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-24 02:00:49.848868
+Last generated: 2024-06-25 01:59:26.265234
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -147,6 +147,7 @@ Last generated: 2024-06-24 02:00:49.848868
 | [CVE-2024-32205](https://www.cve.org/CVERecord?id=CVE-2024-32205) | [Lucky-lm/CVE-2024-32205](https://github.com/Lucky-lm/CVE-2024-32205) | no description | 2024-04-20T04:11:19Z |
 | [CVE-2024-3217](https://www.cve.org/CVERecord?id=CVE-2024-3217) | [BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC) | no description | 2024-04-17T13:43:57Z |
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
+| [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113) | Apache OFBIZ Path traversal leading to RCE POC[CVE-2024-32113 &amp; CVE-2024-36104] | 2024-06-03T15:57:59Z |
 | [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC) | no description | 2024-05-20T14:59:16Z |
 | [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004) | no description | 2024-05-19T13:57:46Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC) | no description | 2024-05-19T05:05:07Z |
@@ -350,6 +351,7 @@ Last generated: 2024-06-24 02:00:49.848868
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961) | CVE-2024–2961 Security Issue Mitigation Script | 2024-05-20T06:53:23Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv() | 2024-05-27T08:30:06Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix) | Bash script to patch for CVE-2024-2961 | 2024-05-30T13:45:43Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [exfil0/test_iconv](https://github.com/exfil0/test_iconv) | This repository contains a C program to test for CVE-2024-2961, a buffer overflow vulnerability in the iconv() function of glibc. | 2024-06-03T23:53:43Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -419,6 +421,7 @@ Last generated: 2024-06-24 02:00:49.848868
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460) | Plantronics Desktop Hub LPE | 2024-05-12T09:53:07Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460) | HP Plantronics Hub 3.2.1 Updater Privilege Escalation | 2024-05-13T11:15:14Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer) | no description | 2024-05-18T02:25:11Z |
+| [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348) | Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit | 2024-06-03T19:08:24Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
@@ -514,6 +517,8 @@ Last generated: 2024-06-24 02:00:49.848868
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC) | no description | 2024-06-02T13:09:51Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN) | no description | 2024-05-31T12:10:05Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Rug4lo/CVE-2024-24919-Exploit](https://github.com/Rug4lo/CVE-2024-24919-Exploit) | CVE-2024-24919 Exploit and PoC - Critical LFI for Remote Access VPN or Mobile Access. | 2024-06-03T12:18:35Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919) | no description | 2024-06-04T04:29:35Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919) | Nmap script to check vulnerability CVE-2024-24919 | 2024-06-03T18:17:45Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
