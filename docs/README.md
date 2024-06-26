@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-25 01:59:26.265234
+Last generated: 2024-06-26 01:58:47.610815
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -32,6 +32,8 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC) | CVE-2024-4367 arbitrary js execution in pdf js | 2024-05-20T22:56:10Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval) | CVE-2024-4367 mitigation for Odoo 14.0 | 2024-05-23T07:34:15Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367) | YARA detection rule for CVE-2024-4367 arbitrary javascript execution in PDF.js | 2024-05-22T18:05:47Z |
+| [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
+| [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
@@ -352,6 +354,8 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv() | 2024-05-27T08:30:06Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix) | Bash script to patch for CVE-2024-2961 | 2024-05-30T13:45:43Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [exfil0/test_iconv](https://github.com/exfil0/test_iconv) | This repository contains a C program to test for CVE-2024-2961, a buffer overflow vulnerability in the iconv() function of glibc. | 2024-06-03T23:53:43Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc) | no description | 2024-06-04T09:57:46Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961) | no description | 2024-06-04T08:05:09Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -519,6 +523,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Rug4lo/CVE-2024-24919-Exploit](https://github.com/Rug4lo/CVE-2024-24919-Exploit) | CVE-2024-24919 Exploit and PoC - Critical LFI for Remote Access VPN or Mobile Access. | 2024-06-03T12:18:35Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919) | no description | 2024-06-04T04:29:35Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919) | Nmap script to check vulnerability CVE-2024-24919 | 2024-06-03T18:17:45Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [birdlex/cve-2024-24919-checker](https://github.com/birdlex/cve-2024-24919-checker) | no description | 2024-06-03T08:39:09Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -736,6 +741,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [haxpunk1337/CVE-2024](https://github.com/haxpunk1337/CVE-2024) | no description | 2024-01-10T14:40:33Z |
 | [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) | Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability | 2024-04-22T07:05:04Z |
 | [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del) | no description | 2024-05-17T03:09:54Z |
+| [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [x0rsys/CVE-2024-21111](https://github.com/x0rsys/CVE-2024-21111) | Precompiled binaries for Privilege Escalation in Oracle VM Virtual box prior to 7.0.16 | 2024-06-04T04:24:47Z |
 | [CVE-2024-21107](https://www.cve.org/CVERecord?id=CVE-2024-21107) | [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107) | Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges | 2024-04-17T06:13:20Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006) | no description | 2024-05-01T03:08:48Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
@@ -963,6 +969,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z |
+| [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044) | Poc for CVE 2023 5044 | 2024-03-29T18:53:50Z |
 | [CVE-2023-5043](https://www.cve.org/CVERecord?id=CVE-2023-5043) | [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043) | PoC CVE-2023-5043 | 2024-01-15T09:20:35Z |
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387) | KeyTrap (DNSSEC) | 2024-02-18T21:50:04Z |
 | [CVE-2023-50386](https://www.cve.org/CVERecord?id=CVE-2023-50386) | [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC) | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | 2024-02-29T08:57:47Z |
@@ -1224,6 +1231,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2023-45603](https://www.cve.org/CVERecord?id=CVE-2023-45603) | [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC) | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit | 2023-10-15T01:57:25Z |
 | [CVE-2023-45542](https://www.cve.org/CVERecord?id=CVE-2023-45542) | [ahrixia/CVE-2023-45542](https://github.com/ahrixia/CVE-2023-45542) | mooSocial v3.1.8 is vulnerable to cross-site scripting on search function. | 2023-09-26T12:59:31Z |
 | [CVE-2023-45540](https://www.cve.org/CVERecord?id=CVE-2023-45540) | [soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540) | CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection | 2023-10-06T12:43:54Z |
+| [CVE-2023-45503](https://www.cve.org/CVERecord?id=CVE-2023-45503) | [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503) | CVE-2023-45503 Reference | 2024-04-07T23:43:39Z |
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z |
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z |
 | [CVE-2023-45185](https://www.cve.org/CVERecord?id=CVE-2023-45185) | [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185) | IBM i Access Client Solutions &lt; 1.1.9.4 - Remote code execution via insecure deserialisation | 2024-01-24T13:53:36Z |
@@ -2262,6 +2270,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [shellvik/CVE-2023-23752](https://github.com/shellvik/CVE-2023-23752) | Joomla Information disclosure exploit code written in C++. | 2023-12-29T08:09:24Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2023-03-24T11:50:16Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Rival420/CVE-2023-23752](https://github.com/Rival420/CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure exploit | 2024-02-19T10:27:01Z |
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [0xWhoami35/CVE-2023-23752](https://github.com/0xWhoami35/CVE-2023-23752) | no description | 2024-04-11T13:39:44Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z |
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z |
@@ -3059,6 +3068,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2021-40113](https://www.cve.org/CVERecord?id=CVE-2021-40113) | [karamMahmad/CVE-2021-40113](https://github.com/karamMahmad/CVE-2021-40113) | Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform c CVE project by @Sn0wAlice | 2023-01-30T10:30:36Z |
 | [CVE-2021-39696](https://www.cve.org/CVERecord?id=CVE-2021-39696) | [nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696) | no description | 2023-01-05T06:42:33Z |
 | [CVE-2021-39692](https://www.cve.org/CVERecord?id=CVE-2021-39692) | [nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692](https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692) | no description | 2022-04-26T13:03:35Z |
+| [CVE-2021-39475](https://www.cve.org/CVERecord?id=CVE-2021-39475) | [W4RCL0UD/CVE-2021-39475](https://github.com/W4RCL0UD/CVE-2021-39475) | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | 2021-08-19T18:03:40Z |
 | [CVE-2021-39473](https://www.cve.org/CVERecord?id=CVE-2021-39473) | [BrunoTeixeira1996/CVE-2021-39473](https://github.com/BrunoTeixeira1996/CVE-2021-39473) | no description | 2023-09-01T23:16:05Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE) | Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172 | 2022-09-17T07:58:33Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [GeoSn0w/Pentagram-exploit-tester](https://github.com/GeoSn0w/Pentagram-exploit-tester) | A test app to check if your device is vulnerable to CVE-2021-30955 | 2022-03-18T12:32:10Z |
@@ -3157,6 +3167,7 @@ Last generated: 2024-06-25 01:59:26.265234
 | [CVE-2021-3064](https://www.cve.org/CVERecord?id=CVE-2021-3064) | [0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064) | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | 2022-04-26T08:41:14Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632) | no description | 2023-03-21T07:53:43Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [yahoo/check-log4j](https://github.com/yahoo/check-log4j) | To determine if a host is vulnerable to log4j CVE‐2021‐44228 | 2021-12-15T18:47:39Z |
+| [CVE-2021-3060](https://www.cve.org/CVERecord?id=CVE-2021-3060) | [anmolksachan/CVE-2021-3060](https://github.com/anmolksachan/CVE-2021-3060) | CVE-2021-3060 | 2023-10-05T07:04:46Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551) | my exp for chrome V8 CVE-2021-30551 | 2021-08-22T14:15:23Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation) | A vulnerable Spring Boot application that uses log4j and is vulnerable to CVE-2021-44228, CVE-2021-44832, CVE-2021-45046 and CVE-2021-45105 | 2023-04-02T23:03:28Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb) | this web is vulnerable against CVE-2021-44228 | 2023-03-20T14:09:30Z |
