@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-26 01:58:47.610815
+Last generated: 2024-06-27 01:59:06.280447
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -34,10 +34,12 @@ Last generated: 2024-06-26 01:58:47.610815
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367) | YARA detection rule for CVE-2024-4367 arbitrary javascript execution in PDF.js | 2024-05-22T18:05:47Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
+| [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit) | no description | 2024-06-05T01:05:12Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
+| [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -524,6 +526,7 @@ Last generated: 2024-06-26 01:58:47.610815
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919) | no description | 2024-06-04T04:29:35Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919) | Nmap script to check vulnerability CVE-2024-24919 | 2024-06-03T18:17:45Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [birdlex/cve-2024-24919-checker](https://github.com/birdlex/cve-2024-24919-checker) | no description | 2024-06-03T08:39:09Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [RevoltSecurities/CVE-2024-24919](https://github.com/RevoltSecurities/CVE-2024-24919) | An Vulnerability detection and Exploitation tool for CVE-2024-24919 | 2024-05-31T10:18:36Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -699,6 +702,7 @@ Last generated: 2024-06-26 01:58:47.610815
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability could allow an attacker to take complete control of a vulnerable Confluence server. This could allow the attacker to steal data, modify data, or disrupt the availability of the server. | 2024-05-24T05:38:18Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) | CVE-2024-21683 Confluence Post Auth RCE | 2024-05-23T09:05:40Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE) | no description | 2024-05-27T11:14:54Z |
+| [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683) | no description | 2024-06-04T12:00:00Z |
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z |
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z |
@@ -1699,6 +1703,7 @@ Last generated: 2024-06-26 01:58:47.610815
 | [CVE-2023-36427](https://www.cve.org/CVERecord?id=CVE-2023-36427) | [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) | Report and exploit of CVE-2023-36427 | 2023-10-09T16:55:18Z |
 | [CVE-2023-36424](https://www.cve.org/CVERecord?id=CVE-2023-36424) | [Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424) | Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation | 2024-03-21T21:39:24Z |
 | [CVE-2023-36407](https://www.cve.org/CVERecord?id=CVE-2023-36407) | [zha0/CVE-2023-36407](https://github.com/zha0/CVE-2023-36407) | no description | 2024-03-09T06:10:53Z |
+| [CVE-2023-36407](https://www.cve.org/CVERecord?id=CVE-2023-36407) | [pwndorei/CVE-2023-36407](https://github.com/pwndorei/CVE-2023-36407) | PoC - CVE-2023-36407 | 2024-04-07T16:59:55Z |
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z |
 | [CVE-2023-36319](https://www.cve.org/CVERecord?id=CVE-2023-36319) | [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319) | exp4CVE-2023-36319 | 2023-09-19T08:17:21Z |
 | [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281) | PoC of CVE-2023-36281 | 2023-08-31T21:31:43Z |
@@ -2968,6 +2973,7 @@ Last generated: 2024-06-26 01:58:47.610815
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228) | DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka &quot;Log4Shell&quot; | 2022-11-08T15:29:42Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [stripe/log4j-remediation-tools](https://github.com/stripe/log4j-remediation-tools) | Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228) | 2021-12-14T21:47:04Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228) | no description | 2021-12-10T23:37:55Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228) | Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability | 2023-10-06T04:36:31Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-43890](https://www.cve.org/CVERecord?id=CVE-2021-43890) | [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc) | no description | 2022-10-28T01:46:51Z |
