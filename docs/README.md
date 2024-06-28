@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-27 01:59:06.280447
+Last generated: 2024-06-28 01:59:47.832290
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -25,6 +26,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
@@ -32,9 +34,11 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC) | CVE-2024-4367 arbitrary js execution in pdf js | 2024-05-20T22:56:10Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval) | CVE-2024-4367 mitigation for Odoo 14.0 | 2024-05-23T07:34:15Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367) | YARA detection rule for CVE-2024-4367 arbitrary javascript execution in PDF.js | 2024-05-22T18:05:47Z |
+| [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC) | CVE-2024-4367 &amp; CVE-2024-34342 Proof of Concept | 2024-05-20T10:02:23Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit) | no description | 2024-06-05T01:05:12Z |
+| [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358) | Progress Telerik Report Server pre-authenticated RCE chain (CVE-2024-4358/CVE-2024-1800) | 2024-06-03T08:22:10Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
@@ -139,6 +143,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-32651](https://www.cve.org/CVERecord?id=CVE-2024-32651) | [zcrosman/cve-2024-32651](https://github.com/zcrosman/cve-2024-32651) | changedetection rce though ssti | 2024-05-26T21:24:14Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS) | no description | 2024-05-17T13:43:59Z |
+| [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) | sql延时注入poc | 2024-06-06T08:56:34Z |
 | [CVE-2024-32523](https://www.cve.org/CVERecord?id=CVE-2024-32523) | [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc) | CVE-2024-32523 Mailster &lt;= 4.0.6 - Unauthenticated Local File Inclusion | 2024-05-11T18:16:31Z |
 | [CVE-2024-32459](https://www.cve.org/CVERecord?id=CVE-2024-32459) | [absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-](https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-) | The FreeRDP - Out-of-Bounds Read (CVE-2024-32459) vulnerability concerns FreeRDP, a free implementation of Remote Desktop Protocol. FreeRDP-based clients and servers using a version of FreeRDP prior to version 3.5.0 or 2.11.6 are vulnerable to out-of-bounds reading12. Versions 3.5.0 and 2.11.6 correct the problem | 2024-05-22T04:19:27Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
@@ -203,6 +208,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002) | no description | 2024-05-31T08:10:39Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002) | https://www.cve.org/CVERecord?id=CVE-2024-32002 | 2024-06-01T12:27:50Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook) | no description | 2024-06-01T12:25:04Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese) | none | 2024-06-01T20:19:05Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -346,6 +352,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
 | [CVE-2024-30491](https://www.cve.org/CVERecord?id=CVE-2024-30491) | [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc) | CVE-2024-30491 ProfileGrid &lt;= 5.7.8 - Authenticated (Subscriber+) SQL Injection | 2024-05-04T14:22:15Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
+| [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
@@ -468,6 +475,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://github.com/X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE) | WORDPRESS-CVE-2024-25600-EXPLOIT-RCE - WordPress Bricks Builder Remote Code Execution (RCE) | 2024-04-20T06:36:22Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [RHYru9/CVE-2024-25600-mass](https://github.com/RHYru9/CVE-2024-25600-mass) | no description | 2024-05-05T02:18:00Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | 0BL1V10N&#x27;s CVE-2024-25600 for Bricks Builder (TryHackMe) plugin for WordPress exploit | 2024-06-02T10:49:03Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600) | no description | 2024-06-06T02:13:06Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
@@ -527,6 +535,8 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919) | Nmap script to check vulnerability CVE-2024-24919 | 2024-06-03T18:17:45Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [birdlex/cve-2024-24919-checker](https://github.com/birdlex/cve-2024-24919-checker) | no description | 2024-06-03T08:39:09Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [RevoltSecurities/CVE-2024-24919](https://github.com/RevoltSecurities/CVE-2024-24919) | An Vulnerability detection and Exploitation tool for CVE-2024-24919 | 2024-05-31T10:18:36Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC) | A Simple Exploit Code(POC) to Automate CVE-2024–24919 | 2024-06-06T16:03:35Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919) | This repository contains a proof-of-concept (PoC) exploit for CVE-2024-24919, a critical vulnerability discovered in Check Point SVN. The vulnerability allows for reading system files. CVE ID: CVE-2024-24919 | 2024-05-31T18:14:19Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -1695,6 +1705,7 @@ Last generated: 2024-06-27 01:59:06.280447
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [MATRIXDEVIL/CVE](https://github.com/MATRIXDEVIL/CVE) | CVE-2023-41593 | 2023-09-07T06:59:09Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664) | Proof of concept developed for the CVE-2023-36664 | 2023-12-02T10:28:10Z |
+| [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [churamanib/CVE-2023-36664-Ghostscript-command-injection](https://github.com/churamanib/CVE-2023-36664-Ghostscript-command-injection) | no description | 2024-04-09T22:05:29Z |
 | [CVE-2023-36645](https://www.cve.org/CVERecord?id=CVE-2023-36645) | [caffeinated-labs/CVE-2023-36645](https://github.com/caffeinated-labs/CVE-2023-36645) | no description | 2024-03-31T16:52:48Z |
 | [CVE-2023-36644](https://www.cve.org/CVERecord?id=CVE-2023-36644) | [caffeinated-labs/CVE-2023-36644](https://github.com/caffeinated-labs/CVE-2023-36644) | no description | 2024-03-31T16:50:25Z |
 | [CVE-2023-36643](https://www.cve.org/CVERecord?id=CVE-2023-36643) | [caffeinated-labs/CVE-2023-36643](https://github.com/caffeinated-labs/CVE-2023-36643) | no description | 2024-03-31T16:55:17Z |
