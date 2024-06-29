@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-28 01:59:47.832290
+Last generated: 2024-06-29 01:57:44.522244
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -27,6 +27,15 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei) | CVE-2024-4577 nuclei-templates | 2024-06-08T03:12:28Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Yukiioz/CVE-2024-4577](https://github.com/Yukiioz/CVE-2024-4577) | no description | 2024-06-07T20:10:49Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Sysc4ll3r/CVE-2024-4577](https://github.com/Sysc4ll3r/CVE-2024-4577) | Nuclei Template for CVE-2024-4577 | 2024-06-07T17:01:20Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP](https://github.com/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP) | no description | 2024-06-07T17:02:52Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Wh02m1/CVE-2024-4577](https://github.com/Wh02m1/CVE-2024-4577) | no description | 2024-06-07T12:49:20Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577) | no description | 2024-06-07T10:58:57Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ohhhh693/CVE-2024-4577](https://github.com/ohhhh693/CVE-2024-4577) | CVE-2024-4577 | 2024-06-07T09:42:31Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [zjhzjhhh/CVE-2024-4577](https://github.com/zjhzjhhh/CVE-2024-4577) | CVE-2024-4577 | 2024-06-07T09:53:32Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [princew88/CVE-2024-4577](https://github.com/princew88/CVE-2024-4577) | no description | 2024-06-07T09:48:36Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
@@ -476,6 +485,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [RHYru9/CVE-2024-25600-mass](https://github.com/RHYru9/CVE-2024-25600-mass) | no description | 2024-05-05T02:18:00Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | 0BL1V10N&#x27;s CVE-2024-25600 for Bricks Builder (TryHackMe) plugin for WordPress exploit | 2024-06-02T10:49:03Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600) | no description | 2024-06-06T02:13:06Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600) | no description | 2024-06-06T03:59:06Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
@@ -537,6 +547,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [RevoltSecurities/CVE-2024-24919](https://github.com/RevoltSecurities/CVE-2024-24919) | An Vulnerability detection and Exploitation tool for CVE-2024-24919 | 2024-05-31T10:18:36Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC) | A Simple Exploit Code(POC) to Automate CVE-2024–24919 | 2024-06-06T16:03:35Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919) | This repository contains a proof-of-concept (PoC) exploit for CVE-2024-24919, a critical vulnerability discovered in Check Point SVN. The vulnerability allows for reading system files. CVE ID: CVE-2024-24919 | 2024-05-31T18:14:19Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit) | CVE-2024-24919 exploit that checks more files for better visibility | 2024-06-07T12:14:19Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -2055,6 +2066,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489) | no description | 2023-10-17T11:18:53Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [SynixCyberCrimeMy/CVE-2023-29489](https://github.com/SynixCyberCrimeMy/CVE-2023-29489) | SynixCyberCrimeMY CVE-2023-29489 Scanner By SamuraiMelayu1337 &amp; h4zzzzzz@scc | 2023-11-16T20:24:11Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Makurorororororororo/Validate-CVE-2023-29489-scanner-](https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner-) | no description | 2023-12-23T06:28:32Z |
+| [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [some-man1/CVE-2023-29489](https://github.com/some-man1/CVE-2023-29489) | # CVE-2023-29489 exploit | 2024-04-14T08:29:22Z |
 | [CVE-2023-29478](https://www.cve.org/CVERecord?id=CVE-2023-29478) | [Exopteron/BiblioRCE](https://github.com/Exopteron/BiblioRCE) | CVE-2023-29478 - BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | 2022-10-27T06:17:24Z |
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z |
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
@@ -2093,6 +2105,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432) | CVE-2023-28432 Minio Information isclosure Exploit | 2023-12-07T03:33:37Z |
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432) | no description | 2024-01-07T12:34:49Z |
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432) | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | 2024-01-11T13:41:20Z |
+| [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [0xRulez/CVE-2023-28432](https://github.com/0xRulez/CVE-2023-28432) | MinIO vulnerability exploit - CVE-2023-28432 | 2024-04-13T13:52:43Z |
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z |
 | [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z |
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z |
@@ -2612,6 +2625,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito) | CVE-2022-44268_By_Kyokito | 2023-08-13T04:43:12Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [atici/Exploit-for-ImageMagick-CVE-2022-44268](https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268) | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | 2023-09-05T17:16:06Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Vagebondcur/IMAGE-MAGICK-CVE-2022-44268](https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268) | no description | 2023-10-13T15:43:49Z |
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Sybil-Scan/imagemagick-lfi-poc](https://github.com/Sybil-Scan/imagemagick-lfi-poc) | ImageMagick LFI PoC [CVE-2022-44268] | 2023-02-06T10:44:43Z |
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z |
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z |
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z |
@@ -2921,6 +2935,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [n3rada/DirtyPipe](https://github.com/n3rada/DirtyPipe) | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | 2023-10-15T20:13:11Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [ayushx007/CVE-2022-0847-dirty-pipe-checker](https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker) | Bash script to check if kernel is vulnerable | 2023-10-25T11:28:22Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [h4ckm310n/CVE-2022-0847-eBPF](https://github.com/h4ckm310n/CVE-2022-0847-eBPF) | An eBPF program to detect attacks on CVE-2022-0847 | 2023-07-06T01:31:01Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [ayushx007/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits) | no description | 2023-11-05T15:34:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -3095,6 +3110,7 @@ Last generated: 2024-06-28 01:59:47.832290
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
 | [CVE-2021-38001](https://www.cve.org/CVERecord?id=CVE-2021-38001) | [glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001) | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | 2023-05-08T14:43:03Z |
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580) | CVE-2021-37580的poc | 2021-11-17T13:26:46Z |
+| [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-](https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-) | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | 2023-10-10T08:41:54Z |
 | [CVE-2021-36955](https://www.cve.org/CVERecord?id=CVE-2021-36955) | [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP) | CVE-2021-36955 | 2022-07-18T07:08:56Z |
 | [CVE-2021-36782](https://www.cve.org/CVERecord?id=CVE-2021-36782) | [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782) | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | 2022-12-01T19:30:27Z |
 | [CVE-2021-36630](https://www.cve.org/CVERecord?id=CVE-2021-36630) | [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630) | no description | 2023-01-15T09:55:38Z |
