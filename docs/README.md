@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-29 01:57:44.522244
+Last generated: 2024-06-30 02:05:18.645877
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -36,6 +36,7 @@ Last generated: 2024-06-29 01:57:44.522244
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ohhhh693/CVE-2024-4577](https://github.com/ohhhh693/CVE-2024-4577) | CVE-2024-4577 | 2024-06-07T09:42:31Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [zjhzjhhh/CVE-2024-4577](https://github.com/zjhzjhhh/CVE-2024-4577) | CVE-2024-4577 | 2024-06-07T09:53:32Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [princew88/CVE-2024-4577](https://github.com/princew88/CVE-2024-4577) | no description | 2024-06-07T09:48:36Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [manuelinfosec/CVE-2024-4577](https://github.com/manuelinfosec/CVE-2024-4577) | Proof Of Concept RCE exploit for critical vulnerability in PHP &lt;8.2.15 (Windows), allowing attackers to execute arbitrary commands. | 2024-06-08T05:27:44Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
@@ -548,6 +549,7 @@ Last generated: 2024-06-29 01:57:44.522244
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC) | A Simple Exploit Code(POC) to Automate CVE-2024–24919 | 2024-06-06T16:03:35Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919) | This repository contains a proof-of-concept (PoC) exploit for CVE-2024-24919, a critical vulnerability discovered in Check Point SVN. The vulnerability allows for reading system files. CVE ID: CVE-2024-24919 | 2024-05-31T18:14:19Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit) | CVE-2024-24919 exploit that checks more files for better visibility | 2024-06-07T12:14:19Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [3UR/CVE-2024-24919](https://github.com/3UR/CVE-2024-24919) | CLI based PoC for CVE-2024-24919 | 2024-05-31T09:43:14Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -1729,6 +1731,8 @@ Last generated: 2024-06-29 01:57:44.522244
 | [CVE-2023-3640](https://www.cve.org/CVERecord?id=CVE-2023-3640) | [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640) | SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640 | 2023-06-20T06:21:04Z |
 | [CVE-2023-36319](https://www.cve.org/CVERecord?id=CVE-2023-36319) | [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319) | exp4CVE-2023-36319 | 2023-09-19T08:17:21Z |
 | [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281) | PoC of CVE-2023-36281 | 2023-08-31T21:31:43Z |
+| [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [miguelc49/CVE-2023-36281-2](https://github.com/miguelc49/CVE-2023-36281-2) | no description | 2024-04-14T07:39:18Z |
+| [CVE-2023-36281](https://www.cve.org/CVERecord?id=CVE-2023-36281) | [miguelc49/CVE-2023-36281-1](https://github.com/miguelc49/CVE-2023-36281-1) | no description | 2024-04-14T07:39:20Z |
 | [CVE-2023-36250](https://www.cve.org/CVERecord?id=CVE-2023-36250) | [BrunoTeixeira1996/CVE-2023-36250](https://github.com/BrunoTeixeira1996/CVE-2023-36250) | no description | 2023-09-01T23:06:33Z |
 | [CVE-2023-36167](https://www.cve.org/CVERecord?id=CVE-2023-36167) | [TraiLeR2/CVE-2023-36167](https://github.com/TraiLeR2/CVE-2023-36167) | An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component | 2023-07-08T20:40:05Z |
 | [CVE-2023-36166](https://www.cve.org/CVERecord?id=CVE-2023-36166) | [TraiLeR2/CVE-2023-36166](https://github.com/TraiLeR2/CVE-2023-36166) | An issue in SlySoft Game Jackal Pro v.5.2.0.0 allows an attacker to execute arbitrary code via the server.exe component | 2023-07-08T20:38:51Z |
