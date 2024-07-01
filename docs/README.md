@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-06-30 02:05:18.645877
+Last generated: 2024-07-01 02:08:01.972494
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -49,6 +49,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit) | no description | 2024-06-05T01:05:12Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358) | Progress Telerik Report Server pre-authenticated RCE chain (CVE-2024-4358/CVE-2024-1800) | 2024-06-03T08:22:10Z |
+| [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358) | Authentication Bypass Vulnerability — CVE-2024–4358 — Telerik Report Server 2024 | 2024-06-09T06:30:06Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
@@ -445,6 +446,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460) | HP Plantronics Hub 3.2.1 Updater Privilege Escalation | 2024-05-13T11:15:14Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer) | no description | 2024-05-18T02:25:11Z |
 | [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348) | Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit | 2024-06-03T19:08:24Z |
+| [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348) | Apache HugeGraph Server RCE Scanner ( CVE-2024-27348 ) | 2024-05-31T20:11:37Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
@@ -550,6 +552,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919) | This repository contains a proof-of-concept (PoC) exploit for CVE-2024-24919, a critical vulnerability discovered in Check Point SVN. The vulnerability allows for reading system files. CVE ID: CVE-2024-24919 | 2024-05-31T18:14:19Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit) | CVE-2024-24919 exploit that checks more files for better visibility | 2024-06-07T12:14:19Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [3UR/CVE-2024-24919](https://github.com/3UR/CVE-2024-24919) | CLI based PoC for CVE-2024-24919 | 2024-05-31T09:43:14Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919) | no description | 2024-06-08T10:17:00Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -1430,6 +1433,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2023-41498](https://www.cve.org/CVERecord?id=CVE-2023-41498) | [ASR511-OO7/CVE-2023-41498](https://github.com/ASR511-OO7/CVE-2023-41498) | no description | 2024-02-20T08:13:10Z |
 | [CVE-2023-41497](https://www.cve.org/CVERecord?id=CVE-2023-41497) | [ASR511-OO7/CVE-2023-41497](https://github.com/ASR511-OO7/CVE-2023-41497) | no description | 2024-02-20T08:12:08Z |
 | [CVE-2023-41474](https://www.cve.org/CVERecord?id=CVE-2023-41474) | [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474) | Public disclosure of Ivanti&#x27;s Avalanche Path Traversal vulnerability | 2024-01-08T08:21:39Z |
+| [CVE-2023-4145](https://www.cve.org/CVERecord?id=CVE-2023-4145) | [miguelc49/CVE-2023-4145-1](https://github.com/miguelc49/CVE-2023-4145-1) | no description | 2024-04-14T07:39:04Z |
 | [CVE-2023-41436](https://www.cve.org/CVERecord?id=CVE-2023-41436) | [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content) | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | 2023-08-23T11:34:30Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
@@ -1608,6 +1612,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [LeHeron/TC_test](https://github.com/LeHeron/TC_test) | Test repo pour la CVE-2023-42793 de TeamCity | 2023-10-16T12:52:17Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [Yang-Shun-Yu/CVE-2023-38545](https://github.com/Yang-Shun-Yu/CVE-2023-38545) | no description | 2024-03-19T13:45:09Z |
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z |
+| [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-1](https://github.com/miguelc49/CVE-2023-38499-1) | no description | 2024-04-13T18:46:07Z |
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z |
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z |
@@ -3124,6 +3129,7 @@ Last generated: 2024-06-30 02:05:18.645877
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [WinMin/CVE-2021-3560](https://github.com/WinMin/CVE-2021-3560) | PolicyKit CVE-2021-3560 Exploitation (Authentication Agent) | 2022-04-30T05:53:45Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [secnigma/CVE-2021-3560-Polkit-Privilege-Esclation](https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation) | no description | 2021-06-14T20:08:20Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [pashayogi/ROOT-CVE-2021-3560](https://github.com/pashayogi/ROOT-CVE-2021-3560) | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | 2023-08-20T14:39:19Z |
+| [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560) | CVE-2021-3560 Bypass su - root | 2023-10-06T15:27:13Z |
 | [CVE-2021-35464](https://www.cve.org/CVERecord?id=CVE-2021-35464) | [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464) | openam-CVE-2021-35464 tomcat 执行命令回显 | 2021-07-01T03:51:32Z |
 | [CVE-2021-35448](https://www.cve.org/CVERecord?id=CVE-2021-35448) | [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448) | Local Privilege Escalation in Remote Mouse 3.008 | 2023-06-11T06:32:12Z |
 | [CVE-2021-35287](https://www.cve.org/CVERecord?id=CVE-2021-35287) | [l00neyhacker/CVE-2021-35287](https://github.com/l00neyhacker/CVE-2021-35287) | CVE-2021-35287 | 2023-02-05T22:37:02Z |
