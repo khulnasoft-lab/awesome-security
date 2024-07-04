@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-03 01:59:21.212652
+Last generated: 2024-07-04 02:00:17.609431
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE](https://github.com/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE) | no description | 2024-06-12T11:50:01Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [aaddmin1122345/CVE-2024-4577-POC](https://github.com/aaddmin1122345/CVE-2024-4577-POC) | CVE-2024-4577 | 2024-06-12T04:50:25Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577) | POC for CVE-2024-4577 with Shodan integration | 2024-06-12T06:45:08Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [VictorShem/CVE-2024-4577](https://github.com/VictorShem/CVE-2024-4577) | CVE-2024-4577 POC | 2024-06-17T17:53:31Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -94,12 +95,14 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-37889](https://www.cve.org/CVERecord?id=CVE-2024-37889) | [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889) | no description | 2024-06-17T04:50:00Z |
+| [CVE-2024-37843](https://www.cve.org/CVERecord?id=CVE-2024-37843) | [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC) | POC for CVE-2024-37843. Craft CMS time-based blind SQLi | 2024-06-18T02:27:04Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36416](https://www.cve.org/CVERecord?id=CVE-2024-36416) | [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416) | Tool for validating / testing CVE-2024-36416 | 2024-06-09T07:18:54Z |
+| [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
@@ -398,6 +401,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-30614](https://www.cve.org/CVERecord?id=CVE-2024-30614) | [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614) | no description | 2024-04-06T08:26:04Z |
 | [CVE-2024-30491](https://www.cve.org/CVERecord?id=CVE-2024-30491) | [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc) | CVE-2024-30491 ProfileGrid &lt;= 5.7.8 - Authenticated (Subscriber+) SQL Injection | 2024-05-04T14:22:15Z |
 | [CVE-2024-30212](https://www.cve.org/CVERecord?id=CVE-2024-30212) | [Fehr-GmbH/blackleak](https://github.com/Fehr-GmbH/blackleak) | CVE-2024-30212 | 2024-06-11T09:13:16Z |
+| [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
 | [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
@@ -405,6 +409,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895) | CVE-2024-29895 - RCE on CACTI 1.3.X dev | 2024-05-17T22:03:29Z |
+| [CVE-2024-29855](https://www.cve.org/CVERecord?id=CVE-2024-29855) | [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855) | PoC for the Veeam Recovery Orchestrator Authentication CVE-2024-29855 | 2024-06-13T08:32:55Z |
 | [CVE-2024-29849](https://www.cve.org/CVERecord?id=CVE-2024-29849) | [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849) | Veeam Backup Enterprise Manager Authentication Bypass (CVE-2024-29849) | 2024-06-10T06:12:20Z |
 | [CVE-2024-29824](https://www.cve.org/CVERecord?id=CVE-2024-29824) | [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824) | Ivanti EPM SQL Injection Remote Code Execution Vulnerability | 2024-06-12T13:53:32Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
@@ -522,6 +527,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit) | Windows LPE | 2024-06-11T08:03:29Z |
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [team-MineDEV/CVE-2024-26229](https://github.com/team-MineDEV/CVE-2024-26229) | Windows CSC服务特权提升漏洞。  当程序向缓冲区写入的数据超出其处理能力时，就会发生基于堆的缓冲区溢出，从而导致多余的数据溢出到相邻的内存区域。这种溢出会损坏内存，并可能使攻击者能够执行任意代码或未经授权访问系统。本质上，攻击者可以编写触发溢出的恶意代码或输入，从而控制受影响的系统、执行任意命令、安装恶意软件或访问敏感数据。  微软已发出警告成功利用此漏洞的攻击者可以获得 SYSTEM 权限，这是 Windows 系统上的最高访问级别。这增加了与 CVE-2024-26229 相关的风险，使其成为恶意行为者的主要目标。 | 2024-06-16T05:06:31Z |
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [apkc/CVE-2024-26229-BOF](https://github.com/apkc/CVE-2024-26229-BOF) | BOF implementations of CVE-2024-26229 for Cobalt Strike and BruteRatel | 2024-06-13T11:57:50Z |
+| [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229) | CWE-781: Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code | 2024-06-10T17:02:03Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026) | CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION | 2024-05-09T03:14:14Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026) | no description | 2024-05-13T22:04:01Z |
@@ -608,6 +614,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919) | no description | 2024-06-11T03:33:30Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [protonnegativo/CVE-2024-24919](https://github.com/protonnegativo/CVE-2024-24919) | Python script to automate the process of finding vulnerable sites for CVE-2024-24919. | 2024-06-10T01:29:19Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919) | POC - CVE-2024–24919 - Check Point Security Gateways | 2024-06-09T06:54:51Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [0nin0hanz0/CVE-2024-24919-PoC](https://github.com/0nin0hanz0/CVE-2024-24919-PoC) | no description | 2024-06-03T13:30:31Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -724,12 +731,15 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692) | no description | 2024-06-14T01:33:19Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE) | no description | 2024-06-13T13:13:10Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS) | Unauthenticated RCE Flaw in Rejetto HTTP File Server (CVE-2024-23692) | 2024-06-13T06:00:24Z |
+| [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP) | CVE-2024-23692 Exploit | 2024-06-18T03:27:47Z |
+| [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692) | CVE-2024-23692 | 2024-06-17T08:46:48Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream](https://github.com/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream) | no description | 2024-03-17T10:56:02Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [jhonnybonny/CVE-2024-23334](https://github.com/jhonnybonny/CVE-2024-23334) | aiohttp LFI (CVE-2024-23334) | 2024-03-19T16:28:56Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [brian-edgar-re/poc-cve-2024-23334](https://github.com/brian-edgar-re/poc-cve-2024-23334) | This repository contains a proof of concept about the exploitation of the aiohttp library for the reported vulnerability CVE-2024-23334. | 2024-04-27T13:21:50Z |
+| [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [binaryninja/CVE-2024-23334](https://github.com/binaryninja/CVE-2024-23334) | Expolit for CVE-2024-23334 (aiohttp &gt;= 1.0.5&gt; &amp;&amp; &lt;=3.9.1) | 2024-06-17T16:28:35Z |
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z |
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
@@ -985,6 +995,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2023-5843](https://www.cve.org/CVERecord?id=CVE-2023-5843) | [codeb0ss/CVE-2023-5843-PoC](https://github.com/codeb0ss/CVE-2023-5843-PoC) | no description | 2023-10-31T02:13:06Z |
 | [CVE-2023-5815](https://www.cve.org/CVERecord?id=CVE-2023-5815) | [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC) | no description | 2023-10-26T22:50:26Z |
 | [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z |
+| [CVE-2023-5720](https://www.cve.org/CVERecord?id=CVE-2023-5720) | [miguelc49/CVE-2023-5720-1](https://github.com/miguelc49/CVE-2023-5720-1) | no description | 2024-04-13T18:45:35Z |
 | [CVE-2023-5717](https://www.cve.org/CVERecord?id=CVE-2023-5717) | [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717) | no description | 2024-01-23T09:04:00Z |
 | [CVE-2023-5631](https://www.cve.org/CVERecord?id=CVE-2023-5631) | [soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC) | Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php | 2024-04-05T20:47:32Z |
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z |
@@ -2387,6 +2398,7 @@ Last generated: 2024-07-03 01:59:21.212652
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2023-03-24T11:50:16Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Rival420/CVE-2023-23752](https://github.com/Rival420/CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure exploit | 2024-02-19T10:27:01Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [0xWhoami35/CVE-2023-23752](https://github.com/0xWhoami35/CVE-2023-23752) | no description | 2024-04-11T13:39:44Z |
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [mariovata/CVE-2023-23752-Python](https://github.com/mariovata/CVE-2023-23752-Python) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2024-04-15T18:18:02Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z |
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z |
@@ -5838,3 +5850,4 @@ Last generated: 2024-07-03 01:59:21.212652
 | CVE NOT FOUND | [kaikai145154/CVE-2024](https://github.com/kaikai145154/CVE-2024) | no description | 2024-05-27T01:48:39Z |
 | CVE NOT FOUND | [SnoopyTools/Rootkit-cve2024](https://github.com/SnoopyTools/Rootkit-cve2024) | no description | 2024-05-28T23:56:22Z |
 | CVE NOT FOUND | [CharonDefalt/2024-CVE-Critical](https://github.com/CharonDefalt/2024-CVE-Critical) | no description | 2024-06-11T10:43:02Z |
+| CVE NOT FOUND | [SecG3ek/2024_CVEs](https://github.com/SecG3ek/2024_CVEs) | All 2024 CVEs as of 6/17/2024 | 2024-06-17T18:05:08Z |
