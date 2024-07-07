@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-06 02:00:12.492052
+Last generated: 2024-07-07 02:05:50.318031
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -108,6 +108,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-37888](https://www.cve.org/CVERecord?id=CVE-2024-37888) | [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888) | XSS PoC/Exploit for Open Link Plugin for CKEditor 4 | 2024-06-10T07:00:18Z |
 | [CVE-2024-37843](https://www.cve.org/CVERecord?id=CVE-2024-37843) | [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC) | POC for CVE-2024-37843. Craft CMS time-based blind SQLi | 2024-06-18T02:27:04Z |
 | [CVE-2024-37791](https://www.cve.org/CVERecord?id=CVE-2024-37791) | [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791) | 我的CVE-2024-37791 | 2024-06-19T09:16:30Z |
+| [CVE-2024-37742](https://www.cve.org/CVERecord?id=CVE-2024-37742) | [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742) | This repository contains a PoC for exploiting CVE-2024-37742, a vulnerability in Safe Exam Browser (SEB) ≤ 3.5.0 on Windows. The vulnerability enables unauthorized clipboard data sharing between SEB&#x27;s kiosk mode and the underlying system, compromising the integrity of exams. | 2024-06-20T21:01:28Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
@@ -141,6 +142,8 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-34452](https://www.cve.org/CVERecord?id=CVE-2024-34452) | [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452) | Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH | 2024-06-19T17:38:49Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
 | [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
+| [CVE-2024-34313](https://www.cve.org/CVERecord?id=CVE-2024-34313) | [vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313) | ☣️  This repository contains the description and a proof of concept for CVE-2024-34313 | 2024-06-23T09:02:07Z |
+| [CVE-2024-34312](https://www.cve.org/CVERecord?id=CVE-2024-34312) | [vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312) | ☣️ This repository contains the description and a proof of concept for CVE-2024-34312 | 2024-06-23T08:37:44Z |
 | [CVE-2024-34310](https://www.cve.org/CVERecord?id=CVE-2024-34310) | [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310) | CVE-2024-34310 | 2024-05-10T13:36:19Z |
 | [CVE-2024-34226](https://www.cve.org/CVERecord?id=CVE-2024-34226) | [dovankha/CVE-2024-34226](https://github.com/dovankha/CVE-2024-34226) | CVE-2024-34226 - SQL injection | 2024-05-11T10:33:04Z |
 | [CVE-2024-34225](https://www.cve.org/CVERecord?id=CVE-2024-34225) | [dovankha/CVE-2024-34225](https://github.com/dovankha/CVE-2024-34225) | CVE-20240-34225 - Cross Site Scripting | 2024-05-11T10:20:52Z |
@@ -275,6 +278,8 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese) | none | 2024-06-01T20:19:05Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
+| [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
+| [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [th3gokul/CVE-2024-31982](https://github.com/th3gokul/CVE-2024-31982) | A tool for vulnerability detection and exploitation tool for CVE-2024-31982 | 2024-06-22T17:04:02Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -425,6 +430,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
+| [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [lvyitian/CVE-2024-30078-](https://github.com/lvyitian/CVE-2024-30078-) | CVE-2024-30078 Detection and Command Execution Script | 2024-06-16T08:06:03Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
 | [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
@@ -856,6 +862,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Sk3pper/CVE-2024-21626](https://github.com/Sk3pper/CVE-2024-21626) | no description | 2024-03-15T10:38:27Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [KubernetesBachelor/CVE-2024-21626](https://github.com/KubernetesBachelor/CVE-2024-21626) | POC | 2024-04-03T11:45:19Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626) | no description | 2024-04-10T09:12:06Z |
+| [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z |
@@ -880,6 +887,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338) | Fork of https://github.com/hakaioffsec/CVE-2024-21338 | 2024-04-17T10:16:21Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338) | PoC for the Untrusted Pointer Dereference in the appid.sys driver | 2024-04-23T19:09:22Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-) | Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled. | 2024-05-18T15:38:34Z |
+| [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC) | no description | 2024-06-23T06:03:44Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [PhucHauDeveloper/BadBlue](https://github.com/PhucHauDeveloper/BadBlue) | CVE-2024-21306 BadBlue implementation (Using DuckyScript) | 2024-05-06T02:05:02Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
@@ -1039,6 +1047,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2023-5808](https://www.cve.org/CVERecord?id=CVE-2023-5808) | [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808) | no description | 2023-12-18T09:24:14Z |
 | [CVE-2023-5720](https://www.cve.org/CVERecord?id=CVE-2023-5720) | [miguelc49/CVE-2023-5720-1](https://github.com/miguelc49/CVE-2023-5720-1) | no description | 2024-04-13T18:45:35Z |
 | [CVE-2023-5720](https://www.cve.org/CVERecord?id=CVE-2023-5720) | [miguelc49/CVE-2023-5720-3](https://github.com/miguelc49/CVE-2023-5720-3) | no description | 2024-04-13T18:45:39Z |
+| [CVE-2023-5720](https://www.cve.org/CVERecord?id=CVE-2023-5720) | [miguelc49/CVE-2023-5720-2](https://github.com/miguelc49/CVE-2023-5720-2) | no description | 2024-04-13T18:45:31Z |
 | [CVE-2023-5717](https://www.cve.org/CVERecord?id=CVE-2023-5717) | [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717) | no description | 2024-01-23T09:04:00Z |
 | [CVE-2023-5631](https://www.cve.org/CVERecord?id=CVE-2023-5631) | [soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC) | Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php | 2024-04-05T20:47:32Z |
 | [CVE-2023-5601](https://www.cve.org/CVERecord?id=CVE-2023-5601) | [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC) | no description | 2023-10-19T00:47:06Z |
@@ -1392,6 +1401,7 @@ Last generated: 2024-07-06 02:00:12.492052
 | [CVE-2023-45503](https://www.cve.org/CVERecord?id=CVE-2023-45503) | [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503) | CVE-2023-45503 Reference | 2024-04-07T23:43:39Z |
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z |
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z |
+| [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1) | no description | 2024-04-13T18:45:21Z |
 | [CVE-2023-45185](https://www.cve.org/CVERecord?id=CVE-2023-45185) | [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185) | IBM i Access Client Solutions &lt; 1.1.9.4 - Remote code execution via insecure deserialisation | 2024-01-24T13:53:36Z |
 | [CVE-2023-45184](https://www.cve.org/CVERecord?id=CVE-2023-45184) | [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184) | IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control. | 2023-12-15T14:04:32Z |
 | [CVE-2023-45182](https://www.cve.org/CVERecord?id=CVE-2023-45182) | [afine-com/CVE-2023-45182](https://github.com/afine-com/CVE-2023-45182) | IBM i Access Client Solutions &lt; 1.1.9.4 - Weak password encryption | 2024-01-23T16:05:55Z |
