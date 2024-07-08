@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-07 02:05:50.318031
+Last generated: 2024-07-08 02:02:12.270876
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [TypicalModMaker/CVE-2024-4956](https://github.com/TypicalModMaker/CVE-2024-4956) | Proof-Of-Concept (POC) for CVE-2024-4956 | 2024-05-28T21:20:53Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager) | Exploit for CVE-2024-4956 affecting all previous Sonatype Nexus Repository 3.x OSS/Pro versions up to and including 3.68.0 | 2024-05-30T08:04:27Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956) | POC - CVE-2024–4956 - Nexus Repository Manager 3 Unauthenticated Path Traversal | 2024-06-09T10:57:29Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956) | Sonatype Nexus Repository Manager 3 (LFI) | 2024-06-03T02:49:20Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
@@ -63,6 +64,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Entropt/CVE-2024-4577_Analysis](https://github.com/Entropt/CVE-2024-4577_Analysis) | no description | 2024-06-12T07:33:41Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE](https://github.com/jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE) | no description | 2024-06-18T13:19:21Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:52:54Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend) | no description | 2024-06-24T10:48:24Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -108,6 +110,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-37888](https://www.cve.org/CVERecord?id=CVE-2024-37888) | [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888) | XSS PoC/Exploit for Open Link Plugin for CKEditor 4 | 2024-06-10T07:00:18Z |
 | [CVE-2024-37843](https://www.cve.org/CVERecord?id=CVE-2024-37843) | [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC) | POC for CVE-2024-37843. Craft CMS time-based blind SQLi | 2024-06-18T02:27:04Z |
 | [CVE-2024-37791](https://www.cve.org/CVERecord?id=CVE-2024-37791) | [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791) | 我的CVE-2024-37791 | 2024-06-19T09:16:30Z |
+| [CVE-2024-37759](https://www.cve.org/CVERecord?id=CVE-2024-37759) | [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC) | PoC of CVE-2024-37759 | 2024-06-21T02:58:40Z |
 | [CVE-2024-37742](https://www.cve.org/CVERecord?id=CVE-2024-37742) | [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742) | This repository contains a PoC for exploiting CVE-2024-37742, a vulnerability in Safe Exam Browser (SEB) ≤ 3.5.0 on Windows. The vulnerability enables unauthorized clipboard data sharing between SEB&#x27;s kiosk mode and the underlying system, compromising the integrity of exams. | 2024-06-20T21:01:28Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
@@ -522,6 +525,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956) | no description | 2024-06-09T07:21:44Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE) | no description | 2024-06-14T07:13:54Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE) | Valve Press - CVE-2024-27956-RCE - SQL Injection | 2024-06-13T02:05:31Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956) | WordPress Automatic Plugin &lt;= 3.92.0 - SQL Injection | 2024-06-07T04:40:06Z |
 | [CVE-2024-27815](https://www.cve.org/CVERecord?id=CVE-2024-27815) | [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815) | macOS/ XNU kernel buffer overflow. Introduced in macOS 14.0 (xnu-10002.1.13), fixed in macOS 14.5 (xnu-10063.121.3) | 2024-06-19T22:03:02Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
@@ -656,6 +660,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919) | POC - CVE-2024–24919 - Check Point Security Gateways | 2024-06-09T06:54:51Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [0nin0hanz0/CVE-2024-24919-PoC](https://github.com/0nin0hanz0/CVE-2024-24919-PoC) | no description | 2024-06-03T13:30:31Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919) | no description | 2024-06-04T02:53:22Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Cappricio-Securities/CVE-2024-24919](https://github.com/Cappricio-Securities/CVE-2024-24919) | Check Point Security Gateway (LFI) | 2024-06-01T01:33:00Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -952,6 +957,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212) | Unauthenticated Command Injection In Progress Kemp LoadMaster | 2024-03-19T22:23:18Z |
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z |
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z |
+| [CVE-2024-1208](https://www.cve.org/CVERecord?id=CVE-2024-1208) | [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208) | LearnDash LMS &lt; 4.10.3 - Sensitive Information Exposure | 2024-05-30T17:55:45Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
@@ -975,13 +981,16 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2024-0566](https://www.cve.org/CVERecord?id=CVE-2024-0566) | [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566) | no description | 2024-05-09T17:30:24Z |
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z |
 | [CVE-2024-0399](https://www.cve.org/CVERecord?id=CVE-2024-0399) | [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399) | no description | 2024-05-09T18:21:42Z |
+| [CVE-2024-0352](https://www.cve.org/CVERecord?id=CVE-2024-0352) | [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352) | Likeshop &lt; 2.5.7.20210311 - Arbitrary File Upload | 2024-06-12T09:46:26Z |
 | [CVE-2024-0305](https://www.cve.org/CVERecord?id=CVE-2024-0305) | [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp) | cve-2024-0305可用的exp | 2024-04-18T03:13:43Z |
+| [CVE-2024-0235](https://www.cve.org/CVERecord?id=CVE-2024-0235) | [Cappricio-Securities/CVE-2024-0235](https://github.com/Cappricio-Securities/CVE-2024-0235) | EventON (Free &lt; 2.2.8, Premium &lt; 4.5.5) - Information Disclosure | 2024-06-03T14:21:48Z |
 | [CVE-2024-0230](https://www.cve.org/CVERecord?id=CVE-2024-0230) | [keldnorman/cve-2024-0230-blue](https://github.com/keldnorman/cve-2024-0230-blue) | Helper script to POC of CVE-2024-0230 Bluetooth | 2024-05-21T22:23:57Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [m-cetin/CVE-2024-0204](https://github.com/m-cetin/CVE-2024-0204) | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | 2024-01-24T20:10:34Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204) | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | 2024-01-23T22:42:58Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204) | Authentication Bypass in GoAnywhere MFT | 2024-01-23T20:16:14Z |
 | [CVE-2024-0204](https://www.cve.org/CVERecord?id=CVE-2024-0204) | [adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204) | GoAnywhere MFT | 2024-02-04T01:40:46Z |
 | [CVE-2024-0197](https://www.cve.org/CVERecord?id=CVE-2024-0197) | [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC) | Proof of concept for Local Privilege Escalation in Thales Sentinel HASP LDK. | 2024-02-27T15:25:58Z |
+| [CVE-2024-0195](https://www.cve.org/CVERecord?id=CVE-2024-0195) | [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195) | SpiderFlow Crawler Platform - Remote Code Execution | 2024-06-11T02:34:34Z |
 | [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044) | CVE-2024-0044:  a &quot;run-as any app&quot; high-severity vulnerability affecting Android versions 12 and 13 | 2024-06-18T12:30:53Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter) | Exfiltrate sensitive user data from apps on Android 12 and 13 using CVE-2024-0044 vulnerability remotely | 2024-06-18T09:22:59Z |
@@ -1402,6 +1411,8 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z |
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1) | no description | 2024-04-13T18:45:21Z |
+| [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-2](https://github.com/miguelc49/CVE-2023-45280-2) | no description | 2024-04-14T07:22:00Z |
+| [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-3](https://github.com/miguelc49/CVE-2023-45280-3) | no description | 2024-04-13T18:45:27Z |
 | [CVE-2023-45185](https://www.cve.org/CVERecord?id=CVE-2023-45185) | [afine-com/CVE-2023-45185](https://github.com/afine-com/CVE-2023-45185) | IBM i Access Client Solutions &lt; 1.1.9.4 - Remote code execution via insecure deserialisation | 2024-01-24T13:53:36Z |
 | [CVE-2023-45184](https://www.cve.org/CVERecord?id=CVE-2023-45184) | [afine-com/CVE-2023-45184](https://github.com/afine-com/CVE-2023-45184) | IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control. | 2023-12-15T14:04:32Z |
 | [CVE-2023-45182](https://www.cve.org/CVERecord?id=CVE-2023-45182) | [afine-com/CVE-2023-45182](https://github.com/afine-com/CVE-2023-45182) | IBM i Access Client Solutions &lt; 1.1.9.4 - Weak password encryption | 2024-01-23T16:05:55Z |
@@ -1458,6 +1469,9 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC) | PoC for Stored XSS (CVE-2023-43770) Vulnerability | 2023-09-28T13:43:25Z |
 | [CVE-2023-43770](https://www.cve.org/CVERecord?id=CVE-2023-43770) | [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC) | A Proof-Of-Concept for the CVE-2023-43770 vulnerability. | 2023-09-27T17:08:23Z |
 | [CVE-2023-43757](https://www.cve.org/CVERecord?id=CVE-2023-43757) | [sharmashreejaa/CVE-2023-43757](https://github.com/sharmashreejaa/CVE-2023-43757) | no description | 2024-02-28T08:58:31Z |
+| [CVE-2023-43667](https://www.cve.org/CVERecord?id=CVE-2023-43667) | [miguelc49/CVE-2023-43667-3](https://github.com/miguelc49/CVE-2023-43667-3) | no description | 2024-04-13T18:45:57Z |
+| [CVE-2023-43667](https://www.cve.org/CVERecord?id=CVE-2023-43667) | [miguelc49/CVE-2023-43667-1](https://github.com/miguelc49/CVE-2023-43667-1) | no description | 2024-04-13T18:45:51Z |
+| [CVE-2023-43667](https://www.cve.org/CVERecord?id=CVE-2023-43667) | [miguelc49/CVE-2023-43667-2](https://github.com/miguelc49/CVE-2023-43667-2) | no description | 2024-04-13T18:45:45Z |
 | [CVE-2023-43654](https://www.cve.org/CVERecord?id=CVE-2023-43654) | [OligoCyberSecurity/ShellTorchChecker](https://github.com/OligoCyberSecurity/ShellTorchChecker) | A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654 | 2023-10-02T11:33:37Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | 2023-11-17T10:32:31Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [passwa11/CVE-2023-4357-APT-Style-exploitation](https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation) | no description | 2023-11-21T05:39:15Z |
@@ -3434,6 +3448,7 @@ Last generated: 2024-07-07 02:05:50.318031
 | [CVE-2021-22006](https://www.cve.org/CVERecord?id=CVE-2021-22006) | [Ridter/noPac](https://github.com/Ridter/noPac) | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user | 2021-12-13T10:28:12Z |
 | [CVE-2021-21985](https://www.cve.org/CVERecord?id=CVE-2021-21985) | [alt3kx/CVE-2021-21985_PoC](https://github.com/alt3kx/CVE-2021-21985_PoC) | no description | 2021-05-29T13:07:14Z |
 | [CVE-2021-21974](https://www.cve.org/CVERecord?id=CVE-2021-21974) | [n2x4/Feb2023-CVE-2021-21974-OSINT](https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT) | Analysis of the ransom demands from Shodan results | 2023-02-04T21:23:20Z |
+| [CVE-2021-21974](https://www.cve.org/CVERecord?id=CVE-2021-21974) | [hateme021202/cve-2021-21974](https://github.com/hateme021202/cve-2021-21974) | Nmap NSE script for cve-2021-21974 | 2023-10-19T02:03:44Z |
 | [CVE-2021-21972](https://www.cve.org/CVERecord?id=CVE-2021-21972) | [NS-Sp4ce/CVE-2021-21972](https://github.com/NS-Sp4ce/CVE-2021-21972) | CVE-2021-21972 Exploit | 2021-02-24T11:14:58Z |
 | [CVE-2021-21809](https://www.cve.org/CVERecord?id=CVE-2021-21809) | [anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809) | CVE-2021-21809 POC | 2022-12-20T01:44:49Z |
 | [CVE-2021-21551](https://www.cve.org/CVERecord?id=CVE-2021-21551) | [nanabingies/CVE-2021-21551](https://github.com/nanabingies/CVE-2021-21551) | Dell Driver EoP (CVE-2021-21551) | 2023-01-07T02:42:59Z |
@@ -5908,3 +5923,4 @@ Last generated: 2024-07-07 02:05:50.318031
 | CVE NOT FOUND | [SnoopyTools/Rootkit-cve2024](https://github.com/SnoopyTools/Rootkit-cve2024) | no description | 2024-05-28T23:56:22Z |
 | CVE NOT FOUND | [CharonDefalt/2024-CVE-Critical](https://github.com/CharonDefalt/2024-CVE-Critical) | no description | 2024-06-11T10:43:02Z |
 | CVE NOT FOUND | [SecG3ek/2024_CVEs](https://github.com/SecG3ek/2024_CVEs) | All 2024 CVEs as of 6/17/2024 | 2024-06-17T18:05:08Z |
+| CVE NOT FOUND | [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002) | Test CVE 2024 32002 vulnerability on the Ubuntu machine | 2024-06-24T09:16:23Z |
