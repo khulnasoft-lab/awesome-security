@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-09 02:02:05.122293
+Last generated: 2024-07-10 02:01:20.453133
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:52:54Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend) | no description | 2024-06-24T10:48:24Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template) | no description | 2024-06-07T10:40:37Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577) | no description | 2024-06-26T07:07:49Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -106,6 +107,8 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-13T17:33:36Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
+| [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
+| [CVE-2024-39248](https://www.cve.org/CVERecord?id=CVE-2024-39248) | [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248) | Publication for Cross Site Scripting (XSS) in SimpCMS v0.1 - /SimpCMS/admin.php | 2024-06-26T21:06:56Z |
 | [CVE-2024-3922](https://www.cve.org/CVERecord?id=CVE-2024-3922) | [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc) | Dokan Pro &lt;= 3.10.3 - Unauthenticated SQL Injection | 2024-06-12T07:42:10Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
@@ -440,6 +443,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2024-30270](https://www.cve.org/CVERecord?id=CVE-2024-30270) | [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC) | The script exploits Mailcow vulnerabilities via XSS and RCE, emphasizing the need for robust security measures and responsible usage to enhance web application security. | 2024-06-21T04:47:48Z |
 | [CVE-2024-30212](https://www.cve.org/CVERecord?id=CVE-2024-30212) | [Fehr-GmbH/blackleak](https://github.com/Fehr-GmbH/blackleak) | CVE-2024-30212 | 2024-06-11T09:13:16Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088) | no description | 2024-06-24T10:37:26Z |
+| [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-) | 🆘New Windows Kernel Priviledge Escalation Vulnerability | 2024-06-27T07:05:46Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
@@ -500,6 +504,8 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [huseyinstif/CVE-2024-28995-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-28995-Nuclei-Template) | no description | 2024-06-14T08:01:13Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995) | no description | 2024-06-14T07:56:03Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [krypton-kry/CVE-2024-28995](https://github.com/krypton-kry/CVE-2024-28995) | CVE-2024-28995 PoC | 2024-06-14T04:06:58Z |
+| [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [karkis3c/cves](https://github.com/karkis3c/cves) | SolarWinds Serv-U Directory Traversal Vulnerability (CVE-2024-28995) POC | 2024-06-13T12:02:33Z |
+| [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [Praison001/CVE-2024-28995-SolarWinds-Serv-U](https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U) | Exploit for CVE-2024-28995 affecting SolarWinds Serv-U 15.4.2 HF 1 and previous versions | 2024-06-26T10:51:50Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE) | UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. | 2024-04-08T13:54:07Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876) | POC for SQLi vulnerability in Icegram express | 2024-04-25T09:53:22Z |
@@ -1134,6 +1140,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [farliy-hacker/CVE-2023-51385](https://github.com/farliy-hacker/CVE-2023-51385) | CVE-2023-51385 | 2024-01-20T06:09:45Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [farliy-hacker/CVE-2023-51385-save](https://github.com/farliy-hacker/CVE-2023-51385-save) | CVE-2023-51385-save | 2024-01-20T06:20:37Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [2048JiaLi/CVE-2023-51385](https://github.com/2048JiaLi/CVE-2023-51385) | CVE-2023-51385 的exp | 2024-01-30T09:01:05Z |
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [thinkliving2020/CVE-2023-51385-](https://github.com/thinkliving2020/CVE-2023-51385-) | CVE-2023-51385 | 2024-04-16T03:01:03Z |
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z |
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z |
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z |
@@ -1421,6 +1428,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2023-45503](https://www.cve.org/CVERecord?id=CVE-2023-45503) | [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503) | CVE-2023-45503 Reference | 2024-04-07T23:43:39Z |
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z |
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z |
+| [CVE-2023-45288](https://www.cve.org/CVERecord?id=CVE-2023-45288) | [hex0punk/cont-flood-poc](https://github.com/hex0punk/cont-flood-poc) | PoC for CVE-2023-45288, continuation flood vulnerability | 2024-04-12T07:36:39Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1) | no description | 2024-04-13T18:45:21Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-2](https://github.com/miguelc49/CVE-2023-45280-2) | no description | 2024-04-14T07:22:00Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-3](https://github.com/miguelc49/CVE-2023-45280-3) | no description | 2024-04-13T18:45:27Z |
@@ -2025,6 +2033,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2023-34468](https://www.cve.org/CVERecord?id=CVE-2023-34468) | [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468) | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | 2023-11-25T12:21:48Z |
 | [CVE-2023-34458](https://www.cve.org/CVERecord?id=CVE-2023-34458) | [miguelc49/CVE-2023-34458-2](https://github.com/miguelc49/CVE-2023-34458-2) | no description | 2024-04-14T07:39:23Z |
 | [CVE-2023-34458](https://www.cve.org/CVERecord?id=CVE-2023-34458) | [miguelc49/CVE-2023-34458-3](https://github.com/miguelc49/CVE-2023-34458-3) | no description | 2024-04-14T07:39:30Z |
+| [CVE-2023-34458](https://www.cve.org/CVERecord?id=CVE-2023-34458) | [miguelc49/CVE-2023-34458-1](https://github.com/miguelc49/CVE-2023-34458-1) | no description | 2024-04-14T07:39:26Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362) | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | 2023-07-18T15:58:00Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362) | POC for CVE-2023-34362 affecting MOVEit Transfer | 2023-07-09T18:44:22Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) | MOVEit CVE-2023-34362 | 2023-06-09T19:07:32Z |
@@ -2099,6 +2108,9 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2023-33381](https://www.cve.org/CVERecord?id=CVE-2023-33381) | [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC) | CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC | 2023-05-31T22:30:20Z |
 | [CVE-2023-3338](https://www.cve.org/CVERecord?id=CVE-2023-3338) | [TurtleARM/CVE-2023-3338-DECPwn](https://github.com/TurtleARM/CVE-2023-3338-DECPwn) | Linux kernel LPE practice with an NPD vulnerability | 2023-06-29T10:12:18Z |
 | [CVE-2023-3338](https://www.cve.org/CVERecord?id=CVE-2023-3338) | [TechinsightsPro/ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS) | Search vulnerable FortiOS devices via Shodan (CVE-2023-27997) | 2023-07-11T20:41:03Z |
+| [CVE-2023-33264](https://www.cve.org/CVERecord?id=CVE-2023-33264) | [miguelc49/CVE-2023-33264-3](https://github.com/miguelc49/CVE-2023-33264-3) | no description | 2024-04-14T07:35:17Z |
+| [CVE-2023-33264](https://www.cve.org/CVERecord?id=CVE-2023-33264) | [miguelc49/CVE-2023-33264-2](https://github.com/miguelc49/CVE-2023-33264-2) | no description | 2024-04-14T07:35:13Z |
+| [CVE-2023-33264](https://www.cve.org/CVERecord?id=CVE-2023-33264) | [miguelc49/CVE-2023-33264-1](https://github.com/miguelc49/CVE-2023-33264-1) | no description | 2024-04-14T07:35:15Z |
 | [CVE-2023-33253](https://www.cve.org/CVERecord?id=CVE-2023-33253) | [Toxich4/CVE-2023-33253](https://github.com/Toxich4/CVE-2023-33253) | no description | 2023-06-08T14:34:16Z |
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246) | CVE-2023-33246 | 2023-06-13T03:51:32Z |
 | [CVE-2023-33246](https://www.cve.org/CVERecord?id=CVE-2023-33246) | [hheeyywweellccoommee/CVE-2023-33246-dgjfd](https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd) | CVE-2023-33246 | 2023-06-13T04:01:11Z |
@@ -2984,6 +2996,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z |
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z |
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z |
+| [CVE-2022-24227](https://www.cve.org/CVERecord?id=CVE-2022-24227) | [Cyber-Wo0dy/CVE-2022-24227-updated](https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated) | CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to &quot;Stored Cross-site Scripting (XSS)&quot; | 2023-11-13T12:53:56Z |
 | [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [satyasai1460/CVE-2022-2414](https://github.com/satyasai1460/CVE-2022-2414) | CVE-2022-2414 POC | 2023-10-05T07:55:01Z |
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z |
@@ -3000,6 +3013,7 @@ Last generated: 2024-07-09 02:02:05.122293
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sohamsharma966/Spring4Shell-CVE-2022-22965](https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965) | no description | 2023-09-02T10:41:05Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [cxzero/CVE-2022-22965-spring4shell](https://github.com/cxzero/CVE-2022-22965-spring4shell) | CVE-2022-22965 Spring4Shell research &amp; PoC | 2022-05-19T23:16:40Z |
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [zangcc/CVE-2022-22965-rexbb](https://github.com/zangcc/CVE-2022-22965-rexbb) | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | 2022-12-28T04:50:16Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z |
