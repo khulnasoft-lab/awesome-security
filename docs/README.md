@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-10 02:01:20.453133
+Last generated: 2024-07-11 02:03:04.937968
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -122,6 +122,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
+| [CVE-2024-37032](https://www.cve.org/CVERecord?id=CVE-2024-37032) | [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) | Path traversal in Ollama with rogue registry server | 2024-06-26T03:11:29Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
@@ -151,6 +152,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2024-34469](https://www.cve.org/CVERecord?id=CVE-2024-34469) | [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469) | CVE-2024-34469 | 2024-05-07T07:47:20Z |
 | [CVE-2024-34452](https://www.cve.org/CVERecord?id=CVE-2024-34452) | [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452) | Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH | 2024-06-19T17:38:49Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
+| [CVE-2024-34350](https://www.cve.org/CVERecord?id=CVE-2024-34350) | [Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350) | no description | 2024-06-27T14:00:34Z |
 | [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
 | [CVE-2024-34313](https://www.cve.org/CVERecord?id=CVE-2024-34313) | [vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313) | ☣️  This repository contains the description and a proof of concept for CVE-2024-34313 | 2024-06-23T09:02:07Z |
 | [CVE-2024-34312](https://www.cve.org/CVERecord?id=CVE-2024-34312) | [vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312) | ☣️ This repository contains the description and a proof of concept for CVE-2024-34312 | 2024-06-23T08:37:44Z |
@@ -162,6 +164,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2024-34222](https://www.cve.org/CVERecord?id=CVE-2024-34222) | [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222) | CVE-2024-34222 - SQL injection | 2024-05-11T08:20:55Z |
 | [CVE-2024-34221](https://www.cve.org/CVERecord?id=CVE-2024-34221) | [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221) | CVE-2024-34221 - Insecure pemission | 2024-05-09T10:32:30Z |
 | [CVE-2024-34220](https://www.cve.org/CVERecord?id=CVE-2024-34220) | [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220) | CVE-2024-34220 - SQL injection | 2024-04-27T10:32:10Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102) | no description | 2024-06-27T16:59:29Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -290,6 +293,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002](https://github.com/tobelight/cve_2024_32002) | https://www.cve.org/CVERecord?id=CVE-2024-32002 | 2024-06-01T12:27:50Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook) | no description | 2024-06-01T12:25:04Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese) | none | 2024-06-01T20:19:05Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002) | exploit for CVE-2024-32002 | 2024-06-20T07:37:09Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
@@ -866,6 +870,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762) | no description | 2024-04-03T21:42:55Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-) | Full exploit of Cve-2024-21762! | 2024-04-16T22:06:52Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker) | no description | 2024-06-20T02:58:02Z |
+| [CVE-2024-21754](https://www.cve.org/CVERecord?id=CVE-2024-21754) | [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE) | no description | 2024-06-27T18:52:06Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability allows an unauthenticated attacker to remotely execute arbitrary code on a vulnerable Confluence server. The vulnerability exists due to an improper validation of user-supplied input in the Confluence REST API. This allows an attacker to inject malicious code into the Confluence server, which can then be executed by the server | 2024-05-23T02:10:24Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server) | This vulnerability could allow an attacker to take complete control of a vulnerable Confluence server. This could allow the attacker to steal data, modify data, or disrupt the availability of the server. | 2024-05-24T05:38:18Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) | CVE-2024-21683 Confluence Post Auth RCE | 2024-05-23T09:05:40Z |
@@ -1181,6 +1186,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky) | CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript) | 2024-01-16T07:44:35Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [snyk-labs/CVE-2023-50164-POC](https://github.com/snyk-labs/CVE-2023-50164-POC) | no description | 2023-12-30T21:37:08Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [0x1717/ssrf-via-img](https://github.com/0x1717/ssrf-via-img) | CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE | 2023-05-28T07:26:49Z |
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [AsfandAliMemon25/CVE-2023-50164Analysis-](https://github.com/AsfandAliMemon25/CVE-2023-50164Analysis-) | CVE-2023-50164 An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution. Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue. | 2024-04-16T16:20:04Z |
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z |
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z |
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z |
@@ -1381,6 +1387,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [hh-hunter/cve-2023-46604](https://github.com/hh-hunter/cve-2023-46604) | no description | 2024-01-09T03:18:19Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604) | no description | 2024-02-14T18:39:49Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) | ActiveMQ RCE (CVE-2023-46604) 回显利用工具 | 2024-03-05T07:09:21Z |
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604) | A go-exploit for Apache ActiveMQ CVE-2023-46604 | 2024-04-17T13:10:34Z |
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z |
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z |
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z |
@@ -1732,6 +1739,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
 | [CVE-2023-38820](https://www.cve.org/CVERecord?id=CVE-2023-38820) | [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820) | DLL Planting in the Slack 4.33.73 - CVE-2023-38820 | 2023-08-05T14:30:24Z |
+| [CVE-2023-38817](https://www.cve.org/CVERecord?id=CVE-2023-38817) | [vxcall/kur](https://github.com/vxcall/kur) | :pager: A tiny code that performs kernel-mode read/write using CVE-2023-38817. | 2023-11-05T06:00:08Z |
 | [CVE-2023-38814](https://www.cve.org/CVERecord?id=CVE-2023-38814) | [actuator/BSIDES-Security-Rochester-2023](https://github.com/actuator/BSIDES-Security-Rochester-2023) | Hardware Hacking: A Brief Primer on Reverse Engineering Bluetooth Transmissions   -    CVE-2023-38814 | 2023-03-18T05:27:36Z |
 | [CVE-2023-38743](https://www.cve.org/CVERecord?id=CVE-2023-38743) | [PetrusViet/CVE-2023-38743](https://github.com/PetrusViet/CVE-2023-38743) | ManageEngine ADManager Command Injection | 2023-10-02T02:14:23Z |
 | [CVE-2023-38646](https://www.cve.org/CVERecord?id=CVE-2023-38646) | [0xrobiul/CVE-2023-38646](https://github.com/0xrobiul/CVE-2023-38646) | Metabase Pre-auth RCE (CVE-2023-38646)!! | 2023-07-29T13:07:00Z |
@@ -2713,6 +2721,7 @@ Last generated: 2024-07-10 02:01:20.453133
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z |
 | [CVE-2023-0830](https://www.cve.org/CVERecord?id=CVE-2023-0830) | [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830) | no description | 2023-06-29T15:23:06Z |
 | [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669) | GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept) | 2023-04-06T03:40:03Z |
+| [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | 2023-02-10T13:02:55Z |
 | [CVE-2023-0656](https://www.cve.org/CVERecord?id=CVE-2023-0656) | [BishopFox/CVE-2022-22274_CVE-2023-0656](https://github.com/BishopFox/CVE-2022-22274_CVE-2023-0656) | no description | 2024-01-12T20:03:51Z |
 | [CVE-2023-0630](https://www.cve.org/CVERecord?id=CVE-2023-0630) | [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) | CVE-2023-0630 - Slimstat Analytics &lt; 4.9.3.3 - Subscriber+ SQL Injection | 2023-06-09T12:02:55Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386) | 非常简单的CVE-2023-0386&#x27;s exp and analysis.Use c and sh. | 2023-06-28T07:49:52Z |
@@ -5951,3 +5960,6 @@ Last generated: 2024-07-10 02:01:20.453133
 | CVE NOT FOUND | [CharonDefalt/2024-CVE-Critical](https://github.com/CharonDefalt/2024-CVE-Critical) | no description | 2024-06-11T10:43:02Z |
 | CVE NOT FOUND | [SecG3ek/2024_CVEs](https://github.com/SecG3ek/2024_CVEs) | All 2024 CVEs as of 6/17/2024 | 2024-06-17T18:05:08Z |
 | CVE NOT FOUND | [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002) | Test CVE 2024 32002 vulnerability on the Ubuntu machine | 2024-06-24T09:16:23Z |
+| CVE NOT FOUND | [Sudistark/rewrites-nextjsCVE202434350](https://github.com/Sudistark/rewrites-nextjsCVE202434350) | no description | 2024-06-27T14:01:36Z |
+| CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE202434350](https://github.com/Sudistark/rewrites-nextjs-CVE202434350) | no description | 2024-06-27T14:01:28Z |
+| CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE-202434350](https://github.com/Sudistark/rewrites-nextjs-CVE-202434350) | no description | 2024-06-27T14:01:18Z |
