@@ -2,13 +2,16 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-11 02:03:04.937968
+Last generated: 2024-07-12 02:00:16.813469
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
+| [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
+| [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
+| [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
@@ -70,6 +73,7 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend) | no description | 2024-06-24T10:48:24Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template) | no description | 2024-06-07T10:40:37Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577) | no description | 2024-06-26T07:07:49Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577) | CVE-2024-4577 | 2024-06-28T10:19:59Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -107,6 +111,7 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-05-13T17:33:36Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-06-28T10:32:51Z |
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
 | [CVE-2024-39248](https://www.cve.org/CVERecord?id=CVE-2024-39248) | [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248) | Publication for Cross Site Scripting (XSS) in SimpCMS v0.1 - /SimpCMS/admin.php | 2024-06-26T21:06:56Z |
 | [CVE-2024-3922](https://www.cve.org/CVERecord?id=CVE-2024-3922) | [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc) | Dokan Pro &lt;= 3.10.3 - Unauthenticated SQL Injection | 2024-06-12T07:42:10Z |
@@ -165,6 +170,8 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2024-34221](https://www.cve.org/CVERecord?id=CVE-2024-34221) | [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221) | CVE-2024-34221 - Insecure pemission | 2024-05-09T10:32:30Z |
 | [CVE-2024-34220](https://www.cve.org/CVERecord?id=CVE-2024-34220) | [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220) | CVE-2024-34220 - SQL injection | 2024-04-27T10:32:10Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102) | no description | 2024-06-27T16:59:29Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102) | CosmicSting (CVE-2024-34102) | 2024-06-28T23:33:21Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102) | A PoC demonstration ,  critical XML entity injection vulnerability in Magento | 2024-06-28T14:50:29Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -876,6 +883,7 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) | CVE-2024-21683 Confluence Post Auth RCE | 2024-05-23T09:05:40Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE) | no description | 2024-05-27T11:14:54Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683) | no description | 2024-06-04T12:00:00Z |
+| [CVE-2024-21650](https://www.cve.org/CVERecord?id=CVE-2024-21650) | [codeb0ss/CVE-2024-21650-PoC](https://github.com/codeb0ss/CVE-2024-21650-PoC) | Mass Exploit - CVE-2024-21650 - XWiki &lt; Remote code execution (RCE) | 2024-06-28T16:00:42Z |
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z |
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [cdxiaodong/CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) | CVE-2024-21626-poc-research-Reappearance-andtodo | 2024-02-02T03:56:03Z |
@@ -903,6 +911,7 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit) | CVE-2024-21413 Microsoft Outlook RCE Exploit | 2024-05-03T16:09:54Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413) | no description | 2024-05-11T12:28:22Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413) | This script is the Proof of Concept (PoC) of the CVE-2024-21413, a significant security vulnerability discovered in the Microsoft Windows Outlook having a strong 9.8 critical CVSS score. Named as #MonikerLink Bug, this vulnerability allows the attacker to execute the arbitrary code remotely on the victim&#x27;s machine, thus becomes a full-fledged RCE. | 2024-06-18T08:11:33Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413) | CVE-2024-21413 PoC | 2024-06-28T10:27:34Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -2439,6 +2448,7 @@ Last generated: 2024-07-11 02:03:04.937968
 | [CVE-2023-25203](https://www.cve.org/CVERecord?id=CVE-2023-25203) | [Trackflaw/CVE-2023-25203](https://github.com/Trackflaw/CVE-2023-25203) | CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks | 2024-02-16T08:29:25Z |
 | [CVE-2023-25202](https://www.cve.org/CVERecord?id=CVE-2023-25202) | [Trackflaw/CVE-2023-25202](https://github.com/Trackflaw/CVE-2023-25202) | CVE-2023-25202: Insecure file upload mechanism | 2024-02-16T08:22:48Z |
 | [CVE-2023-25194](https://www.cve.org/CVERecord?id=CVE-2023-25194) | [YongYe-Security/CVE-2023-25194](https://github.com/YongYe-Security/CVE-2023-25194) | CVE-2023-25194 Scan | 2023-12-28T04:24:02Z |
+| [CVE-2023-25194](https://www.cve.org/CVERecord?id=CVE-2023-25194) | [vulncheck-oss/cve-2023-25194](https://github.com/vulncheck-oss/cve-2023-25194) | A go-exploit for Apache Druid CVE-2023-25194 | 2024-04-17T13:36:34Z |
 | [CVE-2023-25158](https://www.cve.org/CVERecord?id=CVE-2023-25158) | [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158) | GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158) | 2023-06-11T18:57:18Z |
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) | CVE-2023-25157 - GeoServer SQL Injection - PoC | 2023-06-06T14:05:09Z |
 | [CVE-2023-25157](https://www.cve.org/CVERecord?id=CVE-2023-25157) | [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker) | A script, written in golang. POC for CVE-2023-25157 | 2023-06-12T14:34:14Z |
@@ -5963,3 +5973,4 @@ Last generated: 2024-07-11 02:03:04.937968
 | CVE NOT FOUND | [Sudistark/rewrites-nextjsCVE202434350](https://github.com/Sudistark/rewrites-nextjsCVE202434350) | no description | 2024-06-27T14:01:36Z |
 | CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE202434350](https://github.com/Sudistark/rewrites-nextjs-CVE202434350) | no description | 2024-06-27T14:01:28Z |
 | CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE-202434350](https://github.com/Sudistark/rewrites-nextjs-CVE-202434350) | no description | 2024-06-27T14:01:18Z |
+| CVE NOT FOUND | [ibher16/rce_mgento](https://github.com/ibher16/rce_mgento) | cve magento 2024 | 2024-06-29T05:40:52Z |
