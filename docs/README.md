@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-12 02:00:16.813469
+Last generated: 2024-07-13 02:00:17.017635
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -74,6 +74,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template) | no description | 2024-06-07T10:40:37Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577) | no description | 2024-06-26T07:07:49Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577) | CVE-2024-4577 | 2024-06-28T10:19:59Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577) | Create lab for CVE-2024-4577 | 2024-06-28T14:11:15Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -172,6 +173,9 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102) | no description | 2024-06-27T16:59:29Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102) | CosmicSting (CVE-2024-34102) | 2024-06-28T23:33:21Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102) | A PoC demonstration ,  critical XML entity injection vulnerability in Magento | 2024-06-28T14:50:29Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102) | Magento XXE | 2024-07-01T05:06:42Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102) | POC for CVE-2024-34102 : Unauthenticated Magento XXE and bypassing WAF , You will get http connection on ur webhook | 2024-06-28T12:45:40Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102) | POC for CVE-2024-34102. A pre-authentication XML entity injection issue in Magento / Adobe Commerce. | 2024-06-27T21:57:24Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -467,6 +471,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-29973](https://www.cve.org/CVERecord?id=CVE-2024-29973) | [p0et08/CVE-2024-29973](https://github.com/p0et08/CVE-2024-29973) | PoC and Bulk Scanner for CVE-2024-29973 | 2024-06-21T06:38:50Z |
 | [CVE-2024-29973](https://www.cve.org/CVERecord?id=CVE-2024-29973) | [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973) | no description | 2024-06-20T01:52:35Z |
 | [CVE-2024-29972](https://www.cve.org/CVERecord?id=CVE-2024-29972) | [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972) | no description | 2024-06-20T11:12:52Z |
+| [CVE-2024-29972](https://www.cve.org/CVERecord?id=CVE-2024-29972) | [Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc](https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc) | This is a proof of concept for the Zyxel vulnerabilities I found. Read the blog :) | 2024-06-30T17:54:02Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
@@ -534,6 +539,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-28515](https://www.cve.org/CVERecord?id=CVE-2024-28515) | [bsekercioglu/cve2024-3094-Checker](https://github.com/bsekercioglu/cve2024-3094-Checker) | no description | 2024-03-30T11:49:27Z |
 | [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397) | to be released | 2024-03-22T04:29:34Z |
 | [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [Marven11/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape) | CVE-2024-28397: js2py sandbox escape, bypass pyimport restriction. | 2024-06-19T01:46:33Z |
+| [CVE-2024-28397](https://www.cve.org/CVERecord?id=CVE-2024-28397) | [CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape) | no description | 2024-06-21T04:43:21Z |
 | [CVE-2024-28255](https://www.cve.org/CVERecord?id=CVE-2024-28255) | [YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255) | OpenMetadata_RCE (CVE-2024-28255)  Batch scan/exploit | 2024-04-12T04:29:58Z |
 | [CVE-2024-28247](https://www.cve.org/CVERecord?id=CVE-2024-28247) | [T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read) | This repository provides an exploit for CVE-2024-28247, highlighting a vulnerability that permits a remote attacker to read arbitrary files on the system. | 2024-03-31T15:25:15Z |
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z |
@@ -830,6 +836,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z |
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z |
 | [CVE-2024-22867](https://www.cve.org/CVERecord?id=CVE-2024-22867) | [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867) | no description | 2024-02-11T01:52:52Z |
+| [CVE-2024-22853](https://www.cve.org/CVERecord?id=CVE-2024-22853) | [FaLLenSKiLL1/CVE-2024-22853](https://github.com/FaLLenSKiLL1/CVE-2024-22853) | D-LINK Go-RT-AC750 GORTAC750_A1_FW_v101b03 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session. | 2024-06-29T10:21:11Z |
 | [CVE-2024-22774](https://www.cve.org/CVERecord?id=CVE-2024-22774) | [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774) | Panoramic Dental Imaging software Stealthy Privilege Escalation Vulnerability | 2024-03-24T05:59:57Z |
 | [CVE-2024-22752](https://www.cve.org/CVERecord?id=CVE-2024-22752) | [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752) | EaseUS MobiMover 6.0.5 Build 21620 - Insecure Files and Folders Permissions | 2024-03-05T09:54:00Z |
 | [CVE-2024-22678](https://www.cve.org/CVERecord?id=CVE-2024-22678) | [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678) | no description | 2024-01-29T00:19:48Z |
@@ -912,6 +919,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413) | no description | 2024-05-11T12:28:22Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413) | This script is the Proof of Concept (PoC) of the CVE-2024-21413, a significant security vulnerability discovered in the Microsoft Windows Outlook having a strong 9.8 critical CVSS score. Named as #MonikerLink Bug, this vulnerability allows the attacker to execute the arbitrary code remotely on the victim&#x27;s machine, thus becomes a full-fledged RCE. | 2024-06-18T08:11:33Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413) | CVE-2024-21413 PoC | 2024-06-28T10:27:34Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [DerZiad/CVE-2024-21413](https://github.com/DerZiad/CVE-2024-21413) | This is a mailer that use console prompt to exploit this vulnerability | 2024-06-30T08:53:46Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -2809,6 +2817,7 @@ Last generated: 2024-07-12 02:00:16.813469
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [Finbek/CVE_APIs](https://github.com/Finbek/CVE_APIs) | This project crawls and stores CVE data since 2022 and share them via an REST API that allows users to query known vulnerabilities. | 2023-06-29T08:57:09Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [adhikara13/CVE-2022-4510-WalkingPath](https://github.com/adhikara13/CVE-2022-4510-WalkingPath) | A Python script for generating exploits targeting CVE-2022-4510 RCE Binwalk. It supports SSH, command execution, and reverse shell options. Exploits are saved in PNG format. Ideal for testing and demonstrations. | 2023-06-27T02:20:13Z |
+| [CVE-2022-45059](https://www.cve.org/CVERecord?id=CVE-2022-45059) | [martinvks/CVE-2022-45059-demo](https://github.com/martinvks/CVE-2022-45059-demo) | no description | 2023-11-12T10:51:54Z |
 | [CVE-2022-45047](https://www.cve.org/CVERecord?id=CVE-2022-45047) | [hktalent/CVE-2022-45047](https://github.com/hktalent/CVE-2022-45047) | POC,EXP,chatGPT for me | 2023-04-07T03:16:47Z |
 | [CVE-2022-45025](https://www.cve.org/CVERecord?id=CVE-2022-45025) | [andyhsu024/CVE-2022-45025](https://github.com/andyhsu024/CVE-2022-45025) | no description | 2023-06-11T13:18:12Z |
 | [CVE-2022-45004](https://www.cve.org/CVERecord?id=CVE-2022-45004) | [mha98/CVE-2022-45004](https://github.com/mha98/CVE-2022-45004) | no description | 2023-03-28T17:49:59Z |
