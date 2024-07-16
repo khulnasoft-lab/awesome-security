@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-15 02:05:55.479564
+Last generated: 2024-07-16 02:03:02.544660
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,8 +14,12 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) | a signal handler race condition in OpenSSH&#x27;s server (sshd) | 2024-07-01T10:55:29Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [lflare/cve-2024-6387-poc](https://github.com/lflare/cve-2024-6387-poc) | 32-bit PoC for CVE-2024-6387 &quot;regreSSHion&quot; -- mirror of the original 7etsuo/cve-2024-6387-poc | 2024-07-01T12:26:40Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc) | no description | 2024-07-01T14:08:23Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387) | SSH RCE PoC CVE-2024-6387 | 2024-07-02T01:08:05Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387) | no description | 2024-07-01T16:38:15Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387) | no description | 2024-07-01T18:28:25Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
+| [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -190,6 +194,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102) | POC for CVE-2024-34102 : Unauthenticated Magento XXE and bypassing WAF , You will get http connection on ur webhook | 2024-06-28T12:45:40Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102) | POC for CVE-2024-34102. A pre-authentication XML entity injection issue in Magento / Adobe Commerce. | 2024-06-27T21:57:24Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102) | no description | 2024-07-01T05:08:37Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0x0d3ad/CVE-2024-34102](https://github.com/0x0d3ad/CVE-2024-34102) | Magento XXE (CVE-2024-34102) | 2024-06-30T16:49:26Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -526,6 +531,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269) | Telesquare TLR-2005KSH_RCE (CVE-2024-29269) Batch scan/exploit | 2024-04-12T07:36:08Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269) | An issue discovered in Telesquare TLR-2005Ksh 1.0.0 and 1.1.4 allows attackers to run arbitrary system commands via the Cmd parameter. | 2024-05-19T19:05:00Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269) | An issue discovered in Telesquare TLR-2005Ksh 1.0.0 and 1.1.4 allows attackers to run arbitrary system commands via the Cmd parameter. | 2024-06-08T22:06:33Z |
+| [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT) | A PoC exploit for CVE-2024-29269 - Telesquare TLR-2005KSH Remote Code Execution (RCE) | 2024-07-01T23:49:59Z |
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z |
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z |
 | [CVE-2024-28999](https://www.cve.org/CVERecord?id=CVE-2024-28999) | [HussainFathy/CVE-2024-28999](https://github.com/HussainFathy/CVE-2024-28999) | Exploit for CVE-2024-28999 SolarWinds Platform Race Condition Vulnerability - login page | 2024-06-22T13:39:56Z |
@@ -1162,6 +1168,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2023-51467](https://www.cve.org/CVERecord?id=CVE-2023-51467) | [Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467) | This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user. | 2024-01-17T07:31:26Z |
 | [CVE-2023-51448](https://www.cve.org/CVERecord?id=CVE-2023-51448) | [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc) | no description | 2024-03-06T11:23:11Z |
 | [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409) | AI Engine: ChatGPT Chatbot &lt;= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload | 2024-02-22T16:26:57Z |
+| [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [imhunterand/CVE-2023-51409](https://github.com/imhunterand/CVE-2023-51409) | AI Engine: ChatGPT Chatbot - Unauthenticated Arbitrary File Upload via rest_upload | 2024-04-23T09:25:37Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z |
@@ -1269,6 +1276,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs) | Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation. | 2023-12-08T10:28:15Z |
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [morganwdavis/overread](https://github.com/morganwdavis/overread) | Simulates CVE-2023-4966 Citrix Bleed overread bug | 2023-12-16T21:55:04Z |
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [kn32/parallels-file-move-privesc](https://github.com/kn32/parallels-file-move-privesc) | Parallels Desktop privilege escalation - CVE-2023-50226 / ZDI-CAN-21227 | 2023-10-28T10:29:53Z |
+| [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [senpaisamp/Netscaler-CVE-2023-4966-POC](https://github.com/senpaisamp/Netscaler-CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T07:17:54Z |
 | [CVE-2023-49548](https://www.cve.org/CVERecord?id=CVE-2023-49548) | [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;lastname&quot; Parameter During &quot;save_user&quot; Operation | 2023-12-19T22:27:24Z |
 | [CVE-2023-49547](https://www.cve.org/CVERecord?id=CVE-2023-49547) | [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547) | Customer Support System 1.0 - SQL Injection Login Bypass | 2023-11-28T12:59:10Z |
 | [CVE-2023-49546](https://www.cve.org/CVERecord?id=CVE-2023-49546) | [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;email&quot; Parameter During &quot;save_staff&quot; Operation | 2023-12-19T21:54:36Z |
@@ -2101,6 +2109,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2023-34051](https://www.cve.org/CVERecord?id=CVE-2023-34051) | [horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051) | VMware Aria Operations for Logs CVE-2023-34051 | 2023-10-20T14:59:45Z |
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040) | POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040 | 2023-08-30T12:09:15Z |
 | [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [pyn3rd/CVE-2023-34040](https://github.com/pyn3rd/CVE-2023-34040) | Spring-Kafka-Deserialization-Remote-Code-Execution | 2023-09-28T11:18:35Z |
+| [CVE-2023-34040](https://www.cve.org/CVERecord?id=CVE-2023-34040) | [buiduchoang24/CVE-2023-34040](https://github.com/buiduchoang24/CVE-2023-34040) | In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers. Cre: NVD | 2024-04-24T03:54:16Z |
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) | VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039) | 2023-09-01T16:17:10Z |
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [ayhan-dev/CVE](https://github.com/ayhan-dev/CVE) | CVE-2023 | 2023-08-28T15:53:25Z |
 | [CVE-2023-34039](https://www.cve.org/CVERecord?id=CVE-2023-34039) | [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039) | VMware exploit | 2023-09-02T07:56:06Z |
@@ -2128,6 +2137,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2023-33747](https://www.cve.org/CVERecord?id=CVE-2023-33747) | [0xWhoami35/CloudPanel-CVE-2023-33747](https://github.com/0xWhoami35/CloudPanel-CVE-2023-33747) | no description | 2024-03-18T13:56:17Z |
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733) | CVE-2023-33733 reportlab RCE | 2023-05-30T22:22:50Z |
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [hoangbui24/CVE-2023-33733](https://github.com/hoangbui24/CVE-2023-33733) | Reportlab Library - Remote Code Execution | 2024-03-15T03:52:05Z |
+| [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [buiduchoang24/CVE-2023-33733](https://github.com/buiduchoang24/CVE-2023-33733) | This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. | 2024-04-22T09:32:54Z |
 | [CVE-2023-33732](https://www.cve.org/CVERecord?id=CVE-2023-33732) | [sahiloj/CVE-2023-33732](https://github.com/sahiloj/CVE-2023-33732) | no description | 2023-05-30T18:36:03Z |
 | [CVE-2023-33731](https://www.cve.org/CVERecord?id=CVE-2023-33731) | [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731) | no description | 2023-05-30T17:58:38Z |
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730) | no description | 2023-05-30T16:22:59Z |
@@ -2771,6 +2781,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [actuator/com.tcl.browser](https://github.com/actuator/com.tcl.browser) | CVE-2023-43481 | 2023-09-13T02:03:34Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386) | no description | 2024-02-29T06:22:50Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386) | no description | 2024-04-05T05:47:00Z |
+| [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [EstamelGG/CVE-2023-0386-libs](https://github.com/EstamelGG/CVE-2023-0386-libs) | CVE-2023-0386 包含所需运行库 | 2024-04-22T23:33:35Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297) | no description | 2023-06-15T14:28:05Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z |
@@ -3490,6 +3501,7 @@ Last generated: 2024-07-15 02:05:55.479564
 | [CVE-2021-26088](https://www.cve.org/CVERecord?id=CVE-2021-26088) | [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088) | PoC for CVE-2021-26088 written in PowerShell | 2023-05-09T13:13:41Z |
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [ch4t4pt/CVE-2021-26084-EXP](https://github.com/ch4t4pt/CVE-2021-26084-EXP) | no description | 2023-07-03T07:31:29Z |
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [smadi0x86/CVE-2021-26084](https://github.com/smadi0x86/CVE-2021-26084) | Confluence server webwork OGNL injection | 2021-09-05T09:27:55Z |
+| [CVE-2021-25741](https://www.cve.org/CVERecord?id=CVE-2021-25741) | [cdxiaodong/CVE-2021-25741](https://github.com/cdxiaodong/CVE-2021-25741) | fork on Betep0k/CVE-2021-25741/fork whose images is useless and test on metarget | 2023-10-19T07:26:11Z |
 | [CVE-2021-25641](https://www.cve.org/CVERecord?id=CVE-2021-25641) | [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641) | A Exploit Tool For CVE-2021-25641. | 2022-11-10T06:33:54Z |
 | [CVE-2021-25253](https://www.cve.org/CVERecord?id=CVE-2021-25253) | [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253) | no description | 2023-05-12T20:51:50Z |
 | [CVE-2021-25094](https://www.cve.org/CVERecord?id=CVE-2021-25094) | [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce) | no description | 2022-01-03T21:19:42Z |
