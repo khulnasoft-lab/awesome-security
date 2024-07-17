@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-16 02:03:02.544660
+Last generated: 2024-07-17 02:02:23.230377
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -17,6 +17,11 @@ Last generated: 2024-07-16 02:03:02.544660
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387) | SSH RCE PoC CVE-2024-6387 | 2024-07-02T01:08:05Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387) | no description | 2024-07-01T16:38:15Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387) | no description | 2024-07-01T18:28:25Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [TAM-K592/CVE-2024-6387](https://github.com/TAM-K592/CVE-2024-6387) | Recently, the OpenSSH maintainers released security updates to fix a critical vulnerability that could lead to unauthenticated remote code execution (RCE) with root privileges. This vulnerability, identified as CVE-2024-6387, resides in the OpenSSH server component (sshd), which is designed to listen for connections from client applications. | 2024-07-02T02:51:37Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion) | This is a POC I wrote for CVE-2024-6387 | 2024-07-02T02:54:05Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [muyuanlove/CVE-2024-6387fixshell](https://github.com/muyuanlove/CVE-2024-6387fixshell) | no description | 2024-07-02T02:35:24Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc) | no description | 2024-07-02T01:39:10Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test) | OpenSSH CVE-2024-6387 Vulnerability Checker | 2024-07-02T01:24:04Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -1601,6 +1606,7 @@ Last generated: 2024-07-16 02:03:02.544660
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793) | TeamCity JetBrains PoC (CVE-2023-42793) | 2023-10-07T10:23:12Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793) | PoC of CVE-2023-42793 | 2023-10-05T18:12:25Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC) | no description | 2024-01-07T22:29:18Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793) | JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE), CVE-2023-42793 | 2024-04-24T16:33:20Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
@@ -2138,6 +2144,7 @@ Last generated: 2024-07-16 02:03:02.544660
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733) | CVE-2023-33733 reportlab RCE | 2023-05-30T22:22:50Z |
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [hoangbui24/CVE-2023-33733](https://github.com/hoangbui24/CVE-2023-33733) | Reportlab Library - Remote Code Execution | 2024-03-15T03:52:05Z |
 | [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [buiduchoang24/CVE-2023-33733](https://github.com/buiduchoang24/CVE-2023-33733) | This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. | 2024-04-22T09:32:54Z |
+| [CVE-2023-33733](https://www.cve.org/CVERecord?id=CVE-2023-33733) | [onion2203/Lab_Reportlab](https://github.com/onion2203/Lab_Reportlab) | This lab was set up to test CVE-2023-33733 | 2024-03-18T09:54:02Z |
 | [CVE-2023-33732](https://www.cve.org/CVERecord?id=CVE-2023-33732) | [sahiloj/CVE-2023-33732](https://github.com/sahiloj/CVE-2023-33732) | no description | 2023-05-30T18:36:03Z |
 | [CVE-2023-33731](https://www.cve.org/CVERecord?id=CVE-2023-33731) | [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731) | no description | 2023-05-30T17:58:38Z |
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730) | no description | 2023-05-30T16:22:59Z |
@@ -2733,6 +2740,7 @@ Last generated: 2024-07-16 02:03:02.544660
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Vulnmachines/Cisco_CVE-2023-20198](https://github.com/Vulnmachines/Cisco_CVE-2023-20198) | Cisco CVE-2023-20198 | 2023-12-11T10:41:48Z |
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752) | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | 2023-12-10T16:11:37Z |
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [codeb0ss/CVE-2023-20198-PoC](https://github.com/codeb0ss/CVE-2023-20198-PoC) | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | 2023-12-13T22:45:25Z |
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [W01fh4cker/CVE-2023-20198-RCE](https://github.com/W01fh4cker/CVE-2023-20198-RCE) | CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands. | 2024-04-25T06:59:53Z |
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z |
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z |
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z |
@@ -3365,6 +3373,7 @@ Last generated: 2024-07-16 02:03:02.544660
 | [CVE-2021-39473](https://www.cve.org/CVERecord?id=CVE-2021-39473) | [BrunoTeixeira1996/CVE-2021-39473](https://github.com/BrunoTeixeira1996/CVE-2021-39473) | no description | 2023-09-01T23:16:05Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE) | Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172 | 2022-09-17T07:58:33Z |
 | [CVE-2021-39172](https://www.cve.org/CVERecord?id=CVE-2021-39172) | [GeoSn0w/Pentagram-exploit-tester](https://github.com/GeoSn0w/Pentagram-exploit-tester) | A test app to check if your device is vulnerable to CVE-2021-30955 | 2022-03-18T12:32:10Z |
+| [CVE-2021-39165](https://www.cve.org/CVERecord?id=CVE-2021-39165) | [manbolq/CVE-2021-39165](https://github.com/manbolq/CVE-2021-39165) | Python3 POC for CVE-2021-39165 in CachetHQ | 2023-09-20T22:19:55Z |
 | [CVE-2021-38819](https://www.cve.org/CVERecord?id=CVE-2021-38819) | [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819) | no description | 2022-11-08T17:01:41Z |
 | [CVE-2021-38817](https://www.cve.org/CVERecord?id=CVE-2021-38817) | [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection) | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | 2021-08-15T02:15:54Z |
 | [CVE-2021-38314](https://www.cve.org/CVERecord?id=CVE-2021-38314) | [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314) | Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin | 2023-04-28T17:03:27Z |
