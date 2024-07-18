@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-17 02:02:23.230377
+Last generated: 2024-07-18 02:01:18.975750
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -22,6 +22,10 @@ Last generated: 2024-07-17 02:02:23.230377
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [muyuanlove/CVE-2024-6387fixshell](https://github.com/muyuanlove/CVE-2024-6387fixshell) | no description | 2024-07-02T02:35:24Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc) | no description | 2024-07-02T01:39:10Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test) | OpenSSH CVE-2024-6387 Vulnerability Checker | 2024-07-02T01:24:04Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [oliferFord/CVE-2024-6387-SSH-RCE](https://github.com/oliferFord/CVE-2024-6387-SSH-RCE) | no description | 2024-07-02T06:54:54Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check) | RCE OpenSSH CVE-2024-6387 Check | 2024-07-02T05:21:29Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [thegenetic/CVE-2024-6387-exploit](https://github.com/thegenetic/CVE-2024-6387-exploit) | CVE-2024-6387 exploit | 2024-07-02T04:09:44Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher) | no description | 2024-07-02T03:48:37Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
