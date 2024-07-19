@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-18 02:01:18.975750
+Last generated: 2024-07-19 02:02:46.893517
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -26,6 +26,13 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check) | RCE OpenSSH CVE-2024-6387 Check | 2024-07-02T05:21:29Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [thegenetic/CVE-2024-6387-exploit](https://github.com/thegenetic/CVE-2024-6387-exploit) | CVE-2024-6387 exploit | 2024-07-02T04:09:44Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher) | no description | 2024-07-02T03:48:37Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [ahlfors/CVE-2024-6387](https://github.com/ahlfors/CVE-2024-6387) | no description | 2024-07-02T03:42:35Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [PrincipalAnthony/CVE-2024-6387-Updated-x64bit](https://github.com/PrincipalAnthony/CVE-2024-6387-Updated-x64bit) | Private x64 RCE exploit for CVE-2024-6387 [02.07.2024] from exploit.in | 2024-07-02T09:45:04Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Maikefee/CVE-2024-6387_Check.py](https://github.com/Maikefee/CVE-2024-6387_Check.py) | no description | 2024-07-02T03:27:03Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [CiderAndWhisky/regression-scanner](https://github.com/CiderAndWhisky/regression-scanner) | Used to detect ssh servers vulnerable to CVE-2024-6387. Shameless robbery from https://github.com/bigb0x/CVE-2024-6387 using ChatGPT to translate the code to PHP. | 2024-07-02T07:42:46Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387) | This script, created by R4Tw1z, is designed to scan IP addresses to check if they are running a potentially vulnerable version of OpenSSH. The tool leverages multi-threading to optimize scanning performance and handle multiple IP addresses concurrently. | 2024-07-02T06:40:09Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [shamo0/CVE-2024-6387_PoC](https://github.com/shamo0/CVE-2024-6387_PoC) | Script for checking CVE-2024-6387 (regreSSHion) | 2024-07-02T08:13:23Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap) | CVE-2024-6387-nmap | 2024-07-02T08:19:55Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -971,6 +978,7 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2024-21111](https://www.cve.org/CVERecord?id=CVE-2024-21111) | [x0rsys/CVE-2024-21111](https://github.com/x0rsys/CVE-2024-21111) | Precompiled binaries for Privilege Escalation in Oracle VM Virtual box prior to 7.0.16 | 2024-06-04T04:24:47Z |
 | [CVE-2024-21107](https://www.cve.org/CVERecord?id=CVE-2024-21107) | [Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107) | Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges | 2024-04-17T06:13:20Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [momika233/CVE-2024-21006](https://github.com/momika233/CVE-2024-21006) | no description | 2024-05-01T03:08:48Z |
+| [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar) | CVE-2024-21006 exp | 2024-07-02T06:25:14Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931) | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | 2024-02-06T15:09:33Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z |
@@ -1239,6 +1247,7 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [snyk-labs/CVE-2023-50164-POC](https://github.com/snyk-labs/CVE-2023-50164-POC) | no description | 2023-12-30T21:37:08Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [0x1717/ssrf-via-img](https://github.com/0x1717/ssrf-via-img) | CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE | 2023-05-28T07:26:49Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [AsfandAliMemon25/CVE-2023-50164Analysis-](https://github.com/AsfandAliMemon25/CVE-2023-50164Analysis-) | CVE-2023-50164 An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution. Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue. | 2024-04-16T16:20:04Z |
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [minhbao15677/CVE-2023-50164](https://github.com/minhbao15677/CVE-2023-50164) | no description | 2022-12-22T07:49:13Z |
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z |
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z |
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z |
@@ -1441,6 +1450,7 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [ST3G4N05/ExploitScript-CVE-2023-46604](https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604) | no description | 2024-02-14T18:39:49Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) | ActiveMQ RCE (CVE-2023-46604) 回显利用工具 | 2024-03-05T07:09:21Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604) | A go-exploit for Apache ActiveMQ CVE-2023-46604 | 2024-04-17T13:10:34Z |
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [thinkycx/activemq-rce-cve-2023-46604](https://github.com/thinkycx/activemq-rce-cve-2023-46604) | activemq-rce-cve-2023-46604 | 2024-04-26T11:42:57Z |
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z |
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z |
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z |
@@ -1558,8 +1568,10 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation) | Apt style exploitation of Chrome 0day CVE-2023-4357 | 2023-11-19T22:20:10Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357) | poc | 2023-11-29T09:52:36Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [WinnieZy/CVE-2023-4357](https://github.com/WinnieZy/CVE-2023-4357) | no description | 2024-01-09T07:31:29Z |
+| [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [lon5948/CVE-2023-4357-Exploitation](https://github.com/lon5948/CVE-2023-4357-Exploitation) | Network Security Project | 2024-03-17T08:48:19Z |
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z |
 | [CVE-2023-43482](https://www.cve.org/CVERecord?id=CVE-2023-43482) | [Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482) | TP-Link ER7206 Omada Gigabit VPN Router uhttpd freeStrategy Command injection Vulnerability | 2024-03-31T02:04:34Z |
+| [CVE-2023-43364](https://www.cve.org/CVERecord?id=CVE-2023-43364) | [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE) | no description | 2024-04-26T03:09:09Z |
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z |
 | [CVE-2023-43359](https://www.cve.org/CVERecord?id=CVE-2023-43359) | [sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu. | 2023-09-17T11:58:54Z |
 | [CVE-2023-43358](https://www.cve.org/CVERecord?id=CVE-2023-43358) | [sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News](https://github.com/sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Title in the Content - News Menu. | 2023-09-17T12:17:49Z |
@@ -3143,6 +3155,7 @@ Last generated: 2024-07-18 02:01:18.975750
 | [CVE-2022-20456](https://www.cve.org/CVERecord?id=CVE-2022-20456) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456) | no description | 2023-05-31T10:07:10Z |
 | [CVE-2022-20409](https://www.cve.org/CVERecord?id=CVE-2022-20409) | [Markakd/bad_io_uring](https://github.com/Markakd/bad_io_uring) | Android kernel exploitation for CVE-2022-20409 | 2022-11-21T22:42:50Z |
 | [CVE-2022-20347](https://www.cve.org/CVERecord?id=CVE-2022-20347) | [hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347) | no description | 2023-04-06T09:54:28Z |
+| [CVE-2022-20338](https://www.cve.org/CVERecord?id=CVE-2022-20338) | [Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338](https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338) | no description | 2023-11-14T09:21:58Z |
 | [CVE-2022-20224](https://www.cve.org/CVERecord?id=CVE-2022-20224) | [hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224) | no description | 2023-04-06T11:02:47Z |
 | [CVE-2022-20186](https://www.cve.org/CVERecord?id=CVE-2022-20186) | [Bariskizilkaya/CVE-2022-20186_CTXZ](https://github.com/Bariskizilkaya/CVE-2022-20186_CTXZ) | no description | 2022-12-15T17:57:26Z |
 | [CVE-2022-20186](https://www.cve.org/CVERecord?id=CVE-2022-20186) | [DISREL/Ring0VBA](https://github.com/DISREL/Ring0VBA) | CVE-2018-6066 using VBA | 2022-10-24T13:59:12Z |
