@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-19 02:02:46.893517
+Last generated: 2024-07-20 01:59:02.971582
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -33,6 +33,8 @@ Last generated: 2024-07-19 02:02:46.893517
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387) | This script, created by R4Tw1z, is designed to scan IP addresses to check if they are running a potentially vulnerable version of OpenSSH. The tool leverages multi-threading to optimize scanning performance and handle multiple IP addresses concurrently. | 2024-07-02T06:40:09Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [shamo0/CVE-2024-6387_PoC](https://github.com/shamo0/CVE-2024-6387_PoC) | Script for checking CVE-2024-6387 (regreSSHion) | 2024-07-02T08:13:23Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap) | CVE-2024-6387-nmap | 2024-07-02T08:19:55Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook](https://github.com/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook) | An Ansible Playbook to mitigate the risk of RCE (CVE-2024-6387) until platforms update OpenSSH to a non-vulnerable version. | 2024-07-02T10:34:17Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387) | This Go program scans targets for CVE-2024-6387 in OpenSSH, categorizing servers by vulnerability status and port availability. | 2024-07-02T09:41:40Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -3022,6 +3024,7 @@ Last generated: 2024-07-19 02:02:46.893517
 | [CVE-2022-29593](https://www.cve.org/CVERecord?id=CVE-2022-29593) | [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593) | no description | 2022-03-04T12:03:33Z |
 | [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [nidhihcl/linux-4.19.72_CVE-2022-29581](https://github.com/nidhihcl/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T12:33:21Z |
 | [CVE-2022-29581](https://www.cve.org/CVERecord?id=CVE-2022-29581) | [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581) | no description | 2022-12-23T10:41:44Z |
+| [CVE-2022-29469](https://www.cve.org/CVERecord?id=CVE-2022-29469) | [S4muraiMelayu1337/CVE-2022-29469](https://github.com/S4muraiMelayu1337/CVE-2022-29469) | no description | 2023-11-15T18:47:44Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pari-Malam/CVE-2022-29464](https://github.com/Pari-Malam/CVE-2022-29464) | Perform With Mass Exploits In WSO Management. | 2023-04-25T09:45:18Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pushkarup/CVE-2022-29464](https://github.com/Pushkarup/CVE-2022-29464) | A PoC and Exploit for CVE 2022-29464 | 2023-10-24T18:54:09Z |
