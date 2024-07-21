@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-20 01:59:02.971582
+Last generated: 2024-07-21 02:06:04.520858
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -35,6 +35,10 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap) | CVE-2024-6387-nmap | 2024-07-02T08:19:55Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook](https://github.com/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook) | An Ansible Playbook to mitigate the risk of RCE (CVE-2024-6387) until platforms update OpenSSH to a non-vulnerable version. | 2024-07-02T10:34:17Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387) | This Go program scans targets for CVE-2024-6387 in OpenSSH, categorizing servers by vulnerability status and port availability. | 2024-07-02T09:41:40Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387) | no description | 2024-07-02T12:48:27Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade) | cve-2024-6387_AImade | 2024-07-02T12:24:25Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [rumochnaya/openssh-cve-2024-6387.sh](https://github.com/rumochnaya/openssh-cve-2024-6387.sh) | openssh-cve-2024-6387.sh | 2024-07-02T11:05:07Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation) | Mitigation Guide for CVE-2024-6387 in OpenSSH | 2024-07-02T11:08:40Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -190,6 +194,7 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470) | HSC Mailinspector 5.2.17-3 through 5.2.18 - Local File Inclusion | 2024-06-20T04:01:42Z |
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [Mr-r00t11/CVE-2024-34470](https://github.com/Mr-r00t11/CVE-2024-34470) | no description | 2024-06-20T16:47:28Z |
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470) | POC and bulk scanner for CVE-2024-34470 | 2024-06-19T11:32:40Z |
+| [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470) | CVE-2024-34470 : An Unauthenticated Path Traversal Vulnerability in HSC Mailinspector | 2024-06-23T02:23:57Z |
 | [CVE-2024-34469](https://www.cve.org/CVERecord?id=CVE-2024-34469) | [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469) | CVE-2024-34469 | 2024-05-07T07:47:20Z |
 | [CVE-2024-34452](https://www.cve.org/CVERecord?id=CVE-2024-34452) | [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452) | Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH | 2024-06-19T17:38:49Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
@@ -213,6 +218,7 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102) | POC for CVE-2024-34102. A pre-authentication XML entity injection issue in Magento / Adobe Commerce. | 2024-06-27T21:57:24Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102) | no description | 2024-07-01T05:08:37Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0x0d3ad/CVE-2024-34102](https://github.com/0x0d3ad/CVE-2024-34102) | Magento XXE (CVE-2024-34102) | 2024-06-30T16:49:26Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102) | CVE-2024-34102: Unauthenticated Magento XXE | 2024-06-27T18:10:13Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -500,6 +506,7 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [lvyitian/CVE-2024-30078-](https://github.com/lvyitian/CVE-2024-30078-) | CVE-2024-30078 Detection and Command Execution Script | 2024-06-16T08:06:03Z |
+| [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI) | basic concept for the latest windows wifi driver CVE | 2024-06-20T05:58:45Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
 | [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
@@ -618,6 +625,7 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE](https://github.com/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE) | no description | 2024-06-12T08:14:39Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
+| [CVE-2024-27292](https://www.cve.org/CVERecord?id=CVE-2024-27292) | [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292) | CVE-2024-27292 : Docassemble V1.4.96 Unauthenticated Path Traversal | 2024-07-02T04:41:35Z |
 | [CVE-2024-27282](https://www.cve.org/CVERecord?id=CVE-2024-27282) | [Abo5/CVE-2024-27282](https://github.com/Abo5/CVE-2024-27282) | script to detect if the installed Ruby version on your system is vulnerable to CVE-2024-27282. You should read the description of the vulnerability for more details: https://www.ruby-lang.org/en/news/2024/04/23/arbitrary-memory-address-read-regexp-cve-2024-27282/ | 2024-06-12T23:54:03Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z |
@@ -3345,6 +3353,7 @@ Last generated: 2024-07-20 01:59:02.971582
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits) | Exploits of different CVE IDs (CVE-2021-37910, CVE-2021-40288, CVE-2021-41435, CVE-2021-41436, CVE-2021-41437, CVE-2021-41441, CVE-2021-41442, CVE-2021-41445, CVE-2021-41449, CVE-2021-41450, CVE-2021-41451, CVE-2021-41753, CVE-2021-41788, CVE-2021-46353, CVE-2022-41540, CVE-2022-41541) | 2022-05-27T21:09:03Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation) | This repository contains a script that you can run on your (windows) machine to mitigate CVE-2021-44228 | 2021-12-13T08:46:41Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [belajarqywok/CVE-2021-41773-MSF](https://github.com/belajarqywok/CVE-2021-41773-MSF) | Simple Metasploit-Framework module for conducting website penetration tests (CVE-2021-41773). | 2023-08-11T12:12:09Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773-i-](https://github.com/mightysai1997/CVE-2021-41773-i-) | no description | 2022-09-15T09:38:04Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z |
