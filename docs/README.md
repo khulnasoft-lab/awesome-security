@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-21 02:06:04.520858
+Last generated: 2024-07-22 02:05:48.273536
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,6 +39,18 @@ Last generated: 2024-07-21 02:06:04.520858
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade) | cve-2024-6387_AImade | 2024-07-02T12:24:25Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [rumochnaya/openssh-cve-2024-6387.sh](https://github.com/rumochnaya/openssh-cve-2024-6387.sh) | openssh-cve-2024-6387.sh | 2024-07-02T11:05:07Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation) | Mitigation Guide for CVE-2024-6387 in OpenSSH | 2024-07-02T11:08:40Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check) | no description | 2024-07-02T20:35:53Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [RickGeex/CVE-2024-6387-Checker](https://github.com/RickGeex/CVE-2024-6387-Checker) | CVE-2024-6387-Check is a streamlined and efficient tool created to detect servers operating on vulnerable versions of OpenSSH. | 2024-07-02T18:46:24Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [BrandonLynch2402/cve-2024-6387-nuclei-template](https://github.com/BrandonLynch2402/cve-2024-6387-nuclei-template) | no description | 2024-07-02T20:19:12Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xonoxitron/regreSSHion-checker](https://github.com/xonoxitron/regreSSHion-checker) | Quickly identifies servers vulnerable to OpenSSH &#x27;regreSSHion&#x27; (CVE-2024-6387). | 2024-07-02T18:59:54Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [n1cks0n/Test_CVE-2024-6387](https://github.com/n1cks0n/Test_CVE-2024-6387) | Test_CVE-2024-6387 is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH | 2024-07-02T18:30:28Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [th3gokul/CVE-2024-6387](https://github.com/th3gokul/CVE-2024-6387) | CVE-2024-6387 : Vulnerability Detection tool  for regreSSHion Remote Unauthenticated Code Execution in OpenSSH Server | 2024-07-02T17:04:52Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [MrR0b0t19/CVE-2024-6387-Exploit-POC](https://github.com/MrR0b0t19/CVE-2024-6387-Exploit-POC) | no description | 2024-07-02T16:34:12Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion) | CVE-2024-6387 (regreSSHion) Exploit (PoC), a vulnerability in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems. | 2024-07-02T14:41:43Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [dawnl3ss/CVE-2024-6387](https://github.com/dawnl3ss/CVE-2024-6387) | no description | 2024-07-02T15:13:33Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387) | 开箱即用的AK47 | 2024-07-02T15:13:09Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner) | A bash script for nmap to scan for vulnerable machines in regards to the latest CVE-2024-6387 | 2024-07-02T13:50:47Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC) | no description | 2024-07-02T10:05:43Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -1712,6 +1724,7 @@ Last generated: 2024-07-21 02:06:04.520858
 | [CVE-2023-41015](https://www.cve.org/CVERecord?id=CVE-2023-41015) | [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015) | no description | 2024-02-25T09:15:54Z |
 | [CVE-2023-41014](https://www.cve.org/CVERecord?id=CVE-2023-41014) | [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014) | no description | 2024-02-25T09:16:50Z |
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z |
+| [CVE-2023-40931](https://www.cve.org/CVERecord?id=CVE-2023-40931) | [sealldeveloper/CVE-2023-40931-PoC](https://github.com/sealldeveloper/CVE-2023-40931-PoC) | The sqlmap payload to exploit CVE-2023-40931 | 2024-04-27T01:42:23Z |
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z |
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z |
 | [CVE-2023-40869](https://www.cve.org/CVERecord?id=CVE-2023-40869) | [MinoTauro2020/CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869) | Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | 2023-09-02T00:47:37Z |
@@ -2660,6 +2673,7 @@ Last generated: 2024-07-21 02:06:04.520858
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515) | A simple exploit for CVE-2023-22515 | 2024-01-02T17:40:24Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass) | This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz. | 2024-01-02T14:20:10Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515) | Atlassian Confluence Data Center and Server Broken Access Control Vulnerability | 2024-02-24T16:04:35Z |
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515) | NSE script for checking the presence of CVE-2023-22515 | 2024-04-26T17:57:33Z |
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z |
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z |
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z |
@@ -3036,6 +3050,7 @@ Last generated: 2024-07-21 02:06:04.520858
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pari-Malam/CVE-2022-29464](https://github.com/Pari-Malam/CVE-2022-29464) | Perform With Mass Exploits In WSO Management. | 2023-04-25T09:45:18Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pushkarup/CVE-2022-29464](https://github.com/Pushkarup/CVE-2022-29464) | A PoC and Exploit for CVE 2022-29464 | 2023-10-24T18:54:09Z |
+| [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [SynixCyberCrimeMy/CVE-2022-29464](https://github.com/SynixCyberCrimeMy/CVE-2022-29464) | SynixCyberCrimeMY CVE Exploiter By SamuraiMelayu1337 &amp; ?/h4zzzzzz.scc | 2023-11-16T18:16:29Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455-mass](https://github.com/tucommenceapousser/CVE-2022-29455-mass) | no description | 2023-06-01T01:44:45Z |
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z |
