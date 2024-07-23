@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-22 02:05:48.273536
+Last generated: 2024-07-23 02:02:34.733600
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -51,6 +51,7 @@ Last generated: 2024-07-22 02:05:48.273536
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387) | 开箱即用的AK47 | 2024-07-02T15:13:09Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner) | A bash script for nmap to scan for vulnerable machines in regards to the latest CVE-2024-6387 | 2024-07-02T13:50:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC) | no description | 2024-07-02T10:05:43Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [grupooruss/CVE-2024-6387](https://github.com/grupooruss/CVE-2024-6387) | regreSSHion vulnerability in OpenSSH CVE-2024-6387 Testing Script | 2024-07-02T21:16:45Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -64,6 +65,7 @@ Last generated: 2024-07-22 02:05:48.273536
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -666,6 +668,7 @@ Last generated: 2024-07-22 02:05:48.273536
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [apkc/CVE-2024-26229-BOF](https://github.com/apkc/CVE-2024-26229-BOF) | BOF implementations of CVE-2024-26229 for Cobalt Strike and BruteRatel | 2024-06-13T11:57:50Z |
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229) | CWE-781: Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code | 2024-06-10T17:02:03Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
+| [CVE-2024-26144](https://www.cve.org/CVERecord?id=CVE-2024-26144) | [gmo-ierae/CVE-2024-26144-test](https://github.com/gmo-ierae/CVE-2024-26144-test) | no description | 2024-05-24T07:26:40Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026) | CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION | 2024-05-09T03:14:14Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026) | no description | 2024-05-13T22:04:01Z |
 | [CVE-2024-25832](https://www.cve.org/CVERecord?id=CVE-2024-25832) | [0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) | PoC Script for CVE-2024-25832: Exploit chain reverse shell, information disclosure (root password leak) + unrestricted file upload in DataCube3 | 2024-03-06T04:11:59Z |
@@ -1023,6 +1026,7 @@ Last generated: 2024-07-22 02:05:48.273536
 | [CVE-2024-2054](https://www.cve.org/CVERecord?id=CVE-2024-2054) | [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054) | no description | 2024-03-25T07:01:59Z |
 | [CVE-2024-20405](https://www.cve.org/CVERecord?id=CVE-2024-20405) | [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405) | no description | 2024-06-09T18:55:03Z |
 | [CVE-2024-20404](https://www.cve.org/CVERecord?id=CVE-2024-20404) | [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404) | no description | 2024-06-09T18:50:59Z |
+| [CVE-2024-20399](https://www.cve.org/CVERecord?id=CVE-2024-20399) | [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE) | Private exploit for Cisco Nexus giving RCE | 2024-07-02T23:40:49Z |
 | [CVE-2024-20356](https://www.cve.org/CVERecord?id=CVE-2024-20356) | [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356) | This is a proof of concept for CVE-2024-20356, a Command Injection vulnerability in Cisco&#x27;s CIMC. | 2024-04-12T15:07:42Z |
 | [CVE-2024-20356](https://www.cve.org/CVERecord?id=CVE-2024-20356) | [SherllyNeo/CVE_2024_20356](https://github.com/SherllyNeo/CVE_2024_20356) | A oxidized version of https://github.com/nettitude/CVE-2024-20356/blob/main/CVE-2024-20356.py | 2024-05-20T00:57:01Z |
 | [CVE-2024-20338](https://www.cve.org/CVERecord?id=CVE-2024-20338) | [annmuor/CVE-2024-20338](https://github.com/annmuor/CVE-2024-20338) | CVE-2024-20338 talk for Behind The Code Talk | 2024-06-10T15:41:41Z |
@@ -1724,6 +1728,7 @@ Last generated: 2024-07-22 02:05:48.273536
 | [CVE-2023-41015](https://www.cve.org/CVERecord?id=CVE-2023-41015) | [ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015) | no description | 2024-02-25T09:15:54Z |
 | [CVE-2023-41014](https://www.cve.org/CVERecord?id=CVE-2023-41014) | [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014) | no description | 2024-02-25T09:16:50Z |
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z |
+| [CVE-2023-40933](https://www.cve.org/CVERecord?id=CVE-2023-40933) | [sealldeveloper/CVE-2023-40933-PoC](https://github.com/sealldeveloper/CVE-2023-40933-PoC) | The sqlmap payload to exploit CVE-2023-40933 | 2024-04-27T01:44:44Z |
 | [CVE-2023-40931](https://www.cve.org/CVERecord?id=CVE-2023-40931) | [sealldeveloper/CVE-2023-40931-PoC](https://github.com/sealldeveloper/CVE-2023-40931-PoC) | The sqlmap payload to exploit CVE-2023-40931 | 2024-04-27T01:42:23Z |
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z |
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z |
