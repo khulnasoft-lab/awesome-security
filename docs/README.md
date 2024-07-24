@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-23 02:02:34.733600
+Last generated: 2024-07-24 02:02:09.126023
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -52,6 +52,9 @@ Last generated: 2024-07-23 02:02:34.733600
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner) | A bash script for nmap to scan for vulnerable machines in regards to the latest CVE-2024-6387 | 2024-07-02T13:50:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC) | no description | 2024-07-02T10:05:43Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [grupooruss/CVE-2024-6387](https://github.com/grupooruss/CVE-2024-6387) | regreSSHion vulnerability in OpenSSH CVE-2024-6387 Testing Script | 2024-07-02T21:16:45Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [t3rry327/cve-2024-6387-poc](https://github.com/t3rry327/cve-2024-6387-poc) | no description | 2024-07-03T13:21:10Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker) | no description | 2024-07-02T21:47:02Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387) | Targeting a signal handler race condition in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems. | 2024-07-03T06:08:32Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -59,6 +62,7 @@ Last generated: 2024-07-23 02:02:34.733600
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
+| [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
@@ -982,6 +986,7 @@ Last generated: 2024-07-23 02:02:34.733600
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413) | This script is the Proof of Concept (PoC) of the CVE-2024-21413, a significant security vulnerability discovered in the Microsoft Windows Outlook having a strong 9.8 critical CVSS score. Named as #MonikerLink Bug, this vulnerability allows the attacker to execute the arbitrary code remotely on the victim&#x27;s machine, thus becomes a full-fledged RCE. | 2024-06-18T08:11:33Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413) | CVE-2024-21413 PoC | 2024-06-28T10:27:34Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [DerZiad/CVE-2024-21413](https://github.com/DerZiad/CVE-2024-21413) | This is a mailer that use console prompt to exploit this vulnerability | 2024-06-30T08:53:46Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape) | no description | 2024-07-03T08:45:05Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -2786,6 +2791,7 @@ Last generated: 2024-07-23 02:02:34.733600
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752) | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | 2023-12-10T16:11:37Z |
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [codeb0ss/CVE-2023-20198-PoC](https://github.com/codeb0ss/CVE-2023-20198-PoC) | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | 2023-12-13T22:45:25Z |
 | [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [W01fh4cker/CVE-2023-20198-RCE](https://github.com/W01fh4cker/CVE-2023-20198-RCE) | CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands. | 2024-04-25T06:59:53Z |
+| [CVE-2023-20198](https://www.cve.org/CVERecord?id=CVE-2023-20198) | [Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE) | CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands. | 2024-04-28T01:25:41Z |
 | [CVE-2023-20178](https://www.cve.org/CVERecord?id=CVE-2023-20178) | [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) | no description | 2023-06-18T12:22:57Z |
 | [CVE-2023-20110](https://www.cve.org/CVERecord?id=CVE-2023-20110) | [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110) | PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability | 2023-07-16T10:53:51Z |
 | [CVE-2023-2008](https://www.cve.org/CVERecord?id=CVE-2023-2008) | [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008) | Proof of concept code for CVE-2023-2008 | 2023-06-12T14:41:53Z |
