@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-24 02:02:09.126023
+Last generated: 2024-07-25 02:02:20.052542
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -55,6 +55,8 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [t3rry327/cve-2024-6387-poc](https://github.com/t3rry327/cve-2024-6387-poc) | no description | 2024-07-03T13:21:10Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker) | no description | 2024-07-02T21:47:02Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387) | Targeting a signal handler race condition in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems. | 2024-07-03T06:08:32Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc) | CVE-2024-6387_Check 是一款轻量级、高效的工具，旨在识别运行易受攻击的 OpenSSH 版本的服务器，专门针对最近发现的regreSSHion漏洞 (CVE-2024-6387)。此脚本有助于快速扫描多个 IP 地址、域名和 CIDR 网络范围，以检测潜在漏洞并确保您的基础设施安全。 | 2024-07-04T03:51:16Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387) | CVE-2024-6387 with auto ip scanner and auto expliot | 2024-07-02T12:57:35Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -127,6 +129,7 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577) | no description | 2024-06-26T07:07:49Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577) | CVE-2024-4577 | 2024-06-28T10:19:59Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577) | Create lab for CVE-2024-4577 | 2024-06-28T14:11:15Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577) | CVE-2024-4577 EXP | 2024-07-03T15:30:52Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -165,9 +168,11 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-06-28T10:32:51Z |
+| [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
 | [CVE-2024-39248](https://www.cve.org/CVERecord?id=CVE-2024-39248) | [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248) | Publication for Cross Site Scripting (XSS) in SimpCMS v0.1 - /SimpCMS/admin.php | 2024-06-26T21:06:56Z |
 | [CVE-2024-3922](https://www.cve.org/CVERecord?id=CVE-2024-3922) | [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc) | Dokan Pro &lt;= 3.10.3 - Unauthenticated SQL Injection | 2024-06-12T07:42:10Z |
+| [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
@@ -182,6 +187,7 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2024-37762](https://www.cve.org/CVERecord?id=CVE-2024-37762) | [Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762) | no description | 2024-07-01T10:28:56Z |
 | [CVE-2024-37759](https://www.cve.org/CVERecord?id=CVE-2024-37759) | [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC) | PoC of CVE-2024-37759 | 2024-06-21T02:58:40Z |
 | [CVE-2024-37742](https://www.cve.org/CVERecord?id=CVE-2024-37742) | [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742) | This repository contains a PoC for exploiting CVE-2024-37742, a vulnerability in Safe Exam Browser (SEB) ≤ 3.5.0 on Windows. The vulnerability enables unauthorized clipboard data sharing between SEB&#x27;s kiosk mode and the underlying system, compromising the integrity of exams. | 2024-06-20T21:01:28Z |
+| [CVE-2024-37726](https://www.cve.org/CVERecord?id=CVE-2024-37726) | [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) | no description | 2024-07-03T07:26:07Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
@@ -237,6 +243,7 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102) | no description | 2024-07-01T05:08:37Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0x0d3ad/CVE-2024-34102](https://github.com/0x0d3ad/CVE-2024-34102) | Magento XXE (CVE-2024-34102) | 2024-06-30T16:49:26Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102) | CVE-2024-34102: Unauthenticated Magento XXE | 2024-06-27T18:10:13Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102) | no description | 2024-07-03T21:47:28Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -2534,6 +2541,7 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035) | ZoneMinder Snapshots - Unauthenticated | 2023-12-24T13:37:39Z |
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Faelian/zoneminder_CVE-2023-26035](https://github.com/Faelian/zoneminder_CVE-2023-26035) | Exploit for CVE-2023-26035 affecting ZoneMinder &lt; 1.36.33 and &lt; 1.37.33 | 2023-12-27T18:44:22Z |
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z |
+| [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813) | no description | 2024-04-21T17:39:05Z |
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z |
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z |
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690) | no description | 2023-12-04T16:58:53Z |
@@ -3380,6 +3388,7 @@ Last generated: 2024-07-24 02:02:09.126023
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation) | This repository contains a script that you can run on your (windows) machine to mitigate CVE-2021-44228 | 2021-12-13T08:46:41Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [belajarqywok/CVE-2021-41773-MSF](https://github.com/belajarqywok/CVE-2021-41773-MSF) | Simple Metasploit-Framework module for conducting website penetration tests (CVE-2021-41773). | 2023-08-11T12:12:09Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773-i-](https://github.com/mightysai1997/CVE-2021-41773-i-) | no description | 2022-09-15T09:38:04Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773-PoC](https://github.com/mightysai1997/CVE-2021-41773-PoC) | no description | 2022-09-15T11:01:45Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z |
