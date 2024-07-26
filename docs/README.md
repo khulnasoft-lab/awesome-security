@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-25 02:02:20.052542
+Last generated: 2024-07-26 02:01:46.347687
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,8 @@ Last generated: 2024-07-25 02:02:20.052542
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387) | Targeting a signal handler race condition in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems. | 2024-07-03T06:08:32Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc) | CVE-2024-6387_Check 是一款轻量级、高效的工具，旨在识别运行易受攻击的 OpenSSH 版本的服务器，专门针对最近发现的regreSSHion漏洞 (CVE-2024-6387)。此脚本有助于快速扫描多个 IP 地址、域名和 CIDR 网络范围，以检测潜在漏洞并确保您的基础设施安全。 | 2024-07-04T03:51:16Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387) | CVE-2024-6387 with auto ip scanner and auto expliot | 2024-07-02T12:57:35Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sms2056/CVE-2024-6387](https://github.com/sms2056/CVE-2024-6387) | no description | 2024-07-04T06:10:56Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker) | Welcome to the CVE-2024-6387 OpenSSH Vulnerability Checker repository!  This project offers multiple scripts to check the installed version of OpenSSH on your system and determine if it is vulnerable to CVE-2024-6387. It supports various environments, including Ubuntu, Mac, and Windows. | 2024-07-04T03:56:08Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -2613,6 +2615,7 @@ Last generated: 2024-07-25 02:02:20.052542
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Rival420/CVE-2023-23752](https://github.com/Rival420/CVE-2023-23752) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure exploit | 2024-02-19T10:27:01Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [0xWhoami35/CVE-2023-23752](https://github.com/0xWhoami35/CVE-2023-23752) | no description | 2024-04-11T13:39:44Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [mariovata/CVE-2023-23752-Python](https://github.com/mariovata/CVE-2023-23752-Python) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2024-04-15T18:18:02Z |
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [0xx01/CVE-2023-23752](https://github.com/0xx01/CVE-2023-23752) | A simple bash script to exploit Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2024-04-28T16:32:21Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z |
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z |
@@ -6091,3 +6094,8 @@ Last generated: 2024-07-25 02:02:20.052542
 | CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE202434350](https://github.com/Sudistark/rewrites-nextjs-CVE202434350) | no description | 2024-06-27T14:01:28Z |
 | CVE NOT FOUND | [Sudistark/rewrites-nextjs-CVE-202434350](https://github.com/Sudistark/rewrites-nextjs-CVE-202434350) | no description | 2024-06-27T14:01:18Z |
 | CVE NOT FOUND | [ibher16/rce_mgento](https://github.com/ibher16/rce_mgento) | cve magento 2024 | 2024-06-29T05:40:52Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231) | no description | 2024-07-04T06:10:59Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-Privilege-Escalation--CVE--2024--28326](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-Privilege-Escalation--CVE--2024--28326) | no description | 2024-07-04T06:03:23Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327) | no description | 2024-07-04T05:55:13Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328) | no description | 2024-07-04T05:49:51Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325](https://github.com/Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325) | no description | 2024-07-04T05:44:55Z |
