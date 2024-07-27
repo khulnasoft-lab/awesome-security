@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-26 02:01:46.347687
+Last generated: 2024-07-27 02:00:11.010228
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -158,6 +158,7 @@ Last generated: 2024-07-26 02:01:46.347687
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc) | no description | 2024-06-14T07:04:36Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
+| [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
@@ -6099,3 +6100,4 @@ Last generated: 2024-07-26 02:01:46.347687
 | CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327) | no description | 2024-07-04T05:55:13Z |
 | CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328) | no description | 2024-07-04T05:49:51Z |
 | CVE NOT FOUND | [Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325](https://github.com/Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325) | no description | 2024-07-04T05:44:55Z |
+| CVE NOT FOUND | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257) | no description | 2024-07-04T06:23:27Z |
