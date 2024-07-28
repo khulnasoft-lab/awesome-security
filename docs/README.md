@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-27 02:00:11.010228
+Last generated: 2024-07-28 02:07:03.939186
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -59,6 +59,9 @@ Last generated: 2024-07-27 02:00:11.010228
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387) | CVE-2024-6387 with auto ip scanner and auto expliot | 2024-07-02T12:57:35Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sms2056/CVE-2024-6387](https://github.com/sms2056/CVE-2024-6387) | no description | 2024-07-04T06:10:56Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker) | Welcome to the CVE-2024-6387 OpenSSH Vulnerability Checker repository!  This project offers multiple scripts to check the installed version of OpenSSH on your system and determine if it is vulnerable to CVE-2024-6387. It supports various environments, including Ubuntu, Mac, and Windows. | 2024-07-04T03:56:08Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387) | SSH Exploit for CVE-2024-6387 : RCE in OpenSSH&#x27;s server, on glibc-based Linux systems | 2024-07-03T08:22:57Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive) | rewrited SSH Exploit for CVE-2024-6387 (regreSSHion) | 2024-07-04T14:34:21Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387) | no description | 2024-07-04T13:28:53Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -1082,6 +1085,7 @@ Last generated: 2024-07-27 02:00:11.010228
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [kevcooper/CVE-2024-1086-checker](https://github.com/kevcooper/CVE-2024-1086-checker) | no description | 2024-06-03T22:04:03Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086) | no description | 2024-06-10T15:19:39Z |
+| [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) | no description | 2024-07-04T10:51:35Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker) | no description | 2024-03-18T17:07:27Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071) | CVE-2024-1071 | 2024-03-18T16:58:46Z |
@@ -2259,6 +2263,7 @@ Last generated: 2024-07-27 02:00:11.010228
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784) | no description | 2024-02-01T09:41:24Z |
+| [CVE-2023-32749](https://www.cve.org/CVERecord?id=CVE-2023-32749) | [xcr-19/CVE-2023-32749](https://github.com/xcr-19/CVE-2023-32749) | PoC for CVE-2023-32749 affecting Pydio Cells | 2024-05-01T21:37:00Z |
 | [CVE-2023-32707](https://www.cve.org/CVERecord?id=CVE-2023-32707) | [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707) | An improved POC exploit based on the reported CVE on exploitdb | 2023-11-14T04:06:08Z |
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z |
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [codeb0ss/cve-202335843](https://github.com/codeb0ss/cve-202335843) | no description | 2023-07-22T04:02:01Z |
@@ -2950,6 +2955,7 @@ Last generated: 2024-07-27 02:00:11.010228
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [atici/Exploit-for-ImageMagick-CVE-2022-44268](https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268) | A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268 | 2023-09-05T17:16:06Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Vagebondcur/IMAGE-MAGICK-CVE-2022-44268](https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268) | no description | 2023-10-13T15:43:49Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Sybil-Scan/imagemagick-lfi-poc](https://github.com/Sybil-Scan/imagemagick-lfi-poc) | ImageMagick LFI PoC [CVE-2022-44268] | 2023-02-06T10:44:43Z |
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [NataliSemi/-CVE-2022-44268](https://github.com/NataliSemi/-CVE-2022-44268) | no description | 2023-11-14T21:54:17Z |
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z |
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z |
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z |
@@ -3393,6 +3399,8 @@ Last generated: 2024-07-27 02:00:11.010228
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [belajarqywok/CVE-2021-41773-MSF](https://github.com/belajarqywok/CVE-2021-41773-MSF) | Simple Metasploit-Framework module for conducting website penetration tests (CVE-2021-41773). | 2023-08-11T12:12:09Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773-i-](https://github.com/mightysai1997/CVE-2021-41773-i-) | no description | 2022-09-15T09:38:04Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773-PoC](https://github.com/mightysai1997/CVE-2021-41773-PoC) | no description | 2022-09-15T11:01:45Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [dileepdkumar/LayarKacaSiber-CVE-2021-41773](https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773) | no description | 2022-09-20T03:45:24Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773S](https://github.com/mightysai1997/CVE-2021-41773S) | no description | 2022-09-15T14:17:45Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z |
