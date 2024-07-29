@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-28 02:07:03.939186
+Last generated: 2024-07-29 02:05:17.095225
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -62,6 +62,7 @@ Last generated: 2024-07-28 02:07:03.939186
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387) | SSH Exploit for CVE-2024-6387 : RCE in OpenSSH&#x27;s server, on glibc-based Linux systems | 2024-07-03T08:22:57Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive) | rewrited SSH Exploit for CVE-2024-6387 (regreSSHion) | 2024-07-04T14:34:21Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387) | no description | 2024-07-04T13:28:53Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [d0rb/CVE-2024-6387](https://github.com/d0rb/CVE-2024-6387) | This Python script exploits a remote code execution vulnerability (CVE-2024-6387) in OpenSSH. | 2024-07-02T06:53:35Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -202,6 +203,7 @@ Last generated: 2024-07-28 02:07:03.939186
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
 | [CVE-2024-36416](https://www.cve.org/CVERecord?id=CVE-2024-36416) | [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416) | Tool for validating / testing CVE-2024-36416 | 2024-06-09T07:18:54Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401) | POC for CVE-2024-36401. This POC will attempt to establish a reverse shell from the vlun targets. | 2024-07-04T13:19:47Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
@@ -1269,6 +1271,7 @@ Last generated: 2024-07-28 02:07:03.939186
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z |
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z |
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z |
+| [CVE-2023-50685](https://www.cve.org/CVERecord?id=CVE-2023-50685) | [UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability](https://github.com/UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability) | This POC exploits a format validation vulnerability in the RTSP service of the Hipcam RealServer/V1.0, inducing a crash for approximately 45 seconds by injecting random data into the &#x27;client_port&#x27; parameter during the RTSP SETUP request. Hipcam RealServer/V1.0 is used in many Hipcam Cameras. - CVE-2023-50685 | 2023-12-10T13:21:43Z |
 | [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z |
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z |
@@ -3509,6 +3512,7 @@ Last generated: 2024-07-28 02:07:03.939186
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [rjt-gupta/CVE-2021-33104](https://github.com/rjt-gupta/CVE-2021-33104) | CVE-2021-33104 - Improper access control in the Intel(R) OFU software | 2023-03-15T07:45:02Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor) | PKEXEC Shell Executor for CVE-2021-4034 Pwnkit | 2022-08-20T05:31:59Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Sma-Das/Log4j-PoC](https://github.com/Sma-Das/Log4j-PoC) | An educational Proof of Concept for the Log4j Vulnerability (CVE-2021-44228) in Minecraft | 2023-03-14T18:49:36Z |
+| [CVE-2021-33044](https://www.cve.org/CVERecord?id=CVE-2021-33044) | [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044) | no description | 2023-10-22T14:02:49Z |
 | [CVE-2021-32789](https://www.cve.org/CVERecord?id=CVE-2021-32789) | [and0x00/CVE-2021-32789](https://github.com/and0x00/CVE-2021-32789) | 💣 Wordpress WooCommerce users dump exploit | 2023-02-17T19:51:24Z |
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [nanopathi/linux-4.19.72_CVE-2021-32399](https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399) | no description | 2022-04-01T10:29:20Z |
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher) | PoC for CVE-2021-31166 and CVE-2022-21907 | 2022-11-22T09:10:36Z |
@@ -3599,6 +3603,7 @@ Last generated: 2024-07-28 02:07:03.939186
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC) | no description | 2023-07-20T05:39:01Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [NagendraPittu/CVE-2021-521-Exploit](https://github.com/NagendraPittu/CVE-2021-521-Exploit) | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | 2023-07-19T17:49:46Z |
+| [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [ShivamDey/CVE-2021-23017](https://github.com/ShivamDey/CVE-2021-23017) | no description | 2023-10-21T04:24:02Z |
 | [CVE-2021-22986](https://www.cve.org/CVERecord?id=CVE-2021-22986) | [amitlttwo/CVE-2021-22986](https://github.com/amitlttwo/CVE-2021-22986) | no description | 2023-02-07T11:19:20Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [overgrowncarrot1/CVE-2021-22911](https://github.com/overgrowncarrot1/CVE-2021-22911) | no description | 2023-06-19T23:56:09Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [CsEnox/CVE-2021-22911](https://github.com/CsEnox/CVE-2021-22911) | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | 2021-06-05T15:05:01Z |
