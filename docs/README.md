@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-07-29 02:05:17.095225
+Last generated: 2024-07-30 02:02:31.338726
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -63,6 +63,12 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive) | rewrited SSH Exploit for CVE-2024-6387 (regreSSHion) | 2024-07-04T14:34:21Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387) | no description | 2024-07-04T13:28:53Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [d0rb/CVE-2024-6387](https://github.com/d0rb/CVE-2024-6387) | This Python script exploits a remote code execution vulnerability (CVE-2024-6387) in OpenSSH. | 2024-07-02T06:53:35Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder) | CVE-2024-6387 SSH finder | 2024-07-05T15:15:41Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [l0n3m4n/CVE-2024-6387](https://github.com/l0n3m4n/CVE-2024-6387) | PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Scanner and Exploit) | 2024-07-02T18:32:46Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387) | no description | 2024-07-05T11:18:38Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh) | HASSH fingerprints for identifying OpenSSH servers potentially vulnerable to CVE-2024-6387 (regreSSHion). | 2024-07-05T02:46:57Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [invaderslabs/regreSSHion-CVE-2024-6387-](https://github.com/invaderslabs/regreSSHion-CVE-2024-6387-) | Provides instructions for using the script to check if your OpenSSH installation is vulnerable to CVE-2024-6387 | 2024-07-04T13:15:54Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check) | A security regression (CVE-2006-5051) was discovered in OpenSSH&#x27;s server (sshd). There is a race condition which can lead to sshd to handle some signals in an unsafe manner. An unauthenticated, remote attacker may be able to trigger it by failing to authenticate within a set time period. | 2024-07-04T21:20:26Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -179,6 +185,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
 | [CVE-2024-39248](https://www.cve.org/CVERecord?id=CVE-2024-39248) | [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248) | Publication for Cross Site Scripting (XSS) in SimpCMS v0.1 - /SimpCMS/admin.php | 2024-06-26T21:06:56Z |
 | [CVE-2024-3922](https://www.cve.org/CVERecord?id=CVE-2024-3922) | [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc) | Dokan Pro &lt;= 3.10.3 - Unauthenticated SQL Injection | 2024-06-12T07:42:10Z |
+| [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
@@ -204,6 +211,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
 | [CVE-2024-36416](https://www.cve.org/CVERecord?id=CVE-2024-36416) | [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416) | Tool for validating / testing CVE-2024-36416 | 2024-06-09T07:18:54Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401) | POC for CVE-2024-36401. This POC will attempt to establish a reverse shell from the vlun targets. | 2024-07-04T13:19:47Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401) | POC | 2024-07-05T03:02:30Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
@@ -252,6 +260,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0x0d3ad/CVE-2024-34102](https://github.com/0x0d3ad/CVE-2024-34102) | Magento XXE (CVE-2024-34102) | 2024-06-30T16:49:26Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102) | CVE-2024-34102: Unauthenticated Magento XXE | 2024-06-27T18:10:13Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102) | no description | 2024-07-03T21:47:28Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento](https://github.com/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento) | CosmicSting: critical unauthenticated XXE vulnerability in Adobe Commerce and Magento (CVE-2024-34102) | 2024-07-01T08:19:28Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -466,6 +475,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdebock/ansible-role-cve_2024_3094](https://github.com/robertdebock/ansible-role-cve_2024_3094) | Check xz vulnerability (cve_2024_3094) on your system. | 2024-04-02T08:31:40Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) | Check xz vulnerability (cve_2024_3094) on your system. | 2024-04-20T06:15:57Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094) | Basic POC to test CVE-2024-3094 vulnerability inside K8s cluster | 2024-06-11T14:19:17Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094) | SSH EXPLOIT BYPASS AUTH SSH | 2024-07-05T12:02:10Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
 | [CVE-2024-30850](https://www.cve.org/CVERecord?id=CVE-2024-30850) | [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc) | CHAOS RAT web panel path RCE PoC | 2024-04-05T21:35:04Z |
@@ -549,6 +559,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-29973](https://www.cve.org/CVERecord?id=CVE-2024-29973) | [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973) | no description | 2024-06-20T01:52:35Z |
 | [CVE-2024-29972](https://www.cve.org/CVERecord?id=CVE-2024-29972) | [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972) | no description | 2024-06-20T11:12:52Z |
 | [CVE-2024-29972](https://www.cve.org/CVERecord?id=CVE-2024-29972) | [Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc](https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc) | This is a proof of concept for the Zyxel vulnerabilities I found. Read the blog :) | 2024-06-30T17:54:02Z |
+| [CVE-2024-29972](https://www.cve.org/CVERecord?id=CVE-2024-29972) | [codeb0ss/CVE-2024-29972-PoC](https://github.com/codeb0ss/CVE-2024-29972-PoC) | CVE-2024-29972 - Exploit | 2024-07-04T21:31:07Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [secunnix/CVE-2024-29895](https://github.com/secunnix/CVE-2024-29895) | Cacti CVE-2024-29895 POC | 2024-05-16T06:29:21Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC) | CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds | 2024-05-15T13:11:45Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
@@ -579,6 +590,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2024-29441](https://www.cve.org/CVERecord?id=CVE-2024-29441) | [yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441) | Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:31:50Z |
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z |
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z |
+| [CVE-2024-29415](https://www.cve.org/CVERecord?id=CVE-2024-29415) | [felipecruz91/node-ip-vex](https://github.com/felipecruz91/node-ip-vex) | Sample project that uses VEX to supress CVE-2024-29415. | 2024-07-05T07:50:29Z |
 | [CVE-2024-29399](https://www.cve.org/CVERecord?id=CVE-2024-29399) | [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399) | CVE-2024-29399 reference | 2024-04-08T23:03:04Z |
 | [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z |
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296) | CVE-2024-29296 - User enumeration on Portainer CE - 2.19.4 | 2024-04-09T20:36:03Z |
@@ -3465,6 +3477,7 @@ Last generated: 2024-07-29 02:05:17.095225
 | [CVE-2021-36630](https://www.cve.org/CVERecord?id=CVE-2021-36630) | [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630) | no description | 2023-01-15T09:55:38Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo) | no description | 2022-11-05T17:32:47Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn) | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | 2022-03-05T19:49:52Z |
+| [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit) | no description | 2023-10-22T14:09:18Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [asepsaepdin/CVE-2021-3560](https://github.com/asepsaepdin/CVE-2021-3560) | no description | 2023-07-10T04:26:13Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [WinMin/CVE-2021-3560](https://github.com/WinMin/CVE-2021-3560) | PolicyKit CVE-2021-3560 Exploitation (Authentication Agent) | 2022-04-30T05:53:45Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [secnigma/CVE-2021-3560-Polkit-Privilege-Esclation](https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation) | no description | 2021-06-14T20:08:20Z |
@@ -6114,3 +6127,4 @@ Last generated: 2024-07-29 02:05:17.095225
 | CVE NOT FOUND | [Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328) | no description | 2024-07-04T05:49:51Z |
 | CVE NOT FOUND | [Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325](https://github.com/Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325) | no description | 2024-07-04T05:44:55Z |
 | CVE NOT FOUND | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257) | no description | 2024-07-04T06:23:27Z |
+| CVE NOT FOUND | [saberdhaouadi/OpenSSH_CVE2024_Checking](https://github.com/saberdhaouadi/OpenSSH_CVE2024_Checking) | This script used for Linux systems to check version of openSSH | 2024-07-05T12:06:04Z |
