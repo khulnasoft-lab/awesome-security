@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-01 02:09:11.969675
+Last generated: 2024-08-02 02:02:39.666054
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -148,6 +148,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577) | Create lab for CVE-2024-4577 | 2024-06-28T14:11:15Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577) | CVE-2024-4577 EXP | 2024-07-03T15:30:52Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-07-05T12:47:44Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE) | PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploit) | 2024-07-06T19:37:14Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -196,6 +197,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
+| [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
@@ -253,6 +255,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2024-34470](https://www.cve.org/CVERecord?id=CVE-2024-34470) | [th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470) | CVE-2024-34470 : An Unauthenticated Path Traversal Vulnerability in HSC Mailinspector | 2024-06-23T02:23:57Z |
 | [CVE-2024-34469](https://www.cve.org/CVERecord?id=CVE-2024-34469) | [Toxich4/CVE-2024-34469](https://github.com/Toxich4/CVE-2024-34469) | CVE-2024-34469 | 2024-05-07T07:47:20Z |
 | [CVE-2024-34452](https://www.cve.org/CVERecord?id=CVE-2024-34452) | [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452) | Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH | 2024-06-19T17:38:49Z |
+| [CVE-2024-34361](https://www.cve.org/CVERecord?id=CVE-2024-34361) | [T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE](https://github.com/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE) | This repository contains an exploit for CVE-2024-34361, a critical Pi-hole vulnerability (CVSS 8.6). It uses SSRF to achieve RCE by exploiting improper URL validation, allowing attackers to send arbitrary requests and execute commands on the system.  Disclaimer: For educational and ethical security testing only. Unauthorized use is illegal. | 2024-07-07T21:22:36Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
 | [CVE-2024-34350](https://www.cve.org/CVERecord?id=CVE-2024-34350) | [Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350) | no description | 2024-06-27T14:00:34Z |
 | [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
@@ -407,6 +410,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tobelight/cve_2024_32002_hook](https://github.com/tobelight/cve_2024_32002_hook) | no description | 2024-06-01T12:25:04Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese) | none | 2024-06-01T20:19:05Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002) | exploit for CVE-2024-32002 | 2024-06-20T07:37:09Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook) | no description | 2024-07-07T14:50:23Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
@@ -691,6 +695,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27292](https://www.cve.org/CVERecord?id=CVE-2024-27292) | [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292) | CVE-2024-27292 : Docassemble V1.4.96 Unauthenticated Path Traversal | 2024-07-02T04:41:35Z |
+| [CVE-2024-27292](https://www.cve.org/CVERecord?id=CVE-2024-27292) | [tequilasunsh1ne/CVE_2024_27292](https://github.com/tequilasunsh1ne/CVE_2024_27292) | no description | 2024-07-08T03:30:14Z |
 | [CVE-2024-27282](https://www.cve.org/CVERecord?id=CVE-2024-27282) | [Abo5/CVE-2024-27282](https://github.com/Abo5/CVE-2024-27282) | script to detect if the installed Ruby version on your system is vulnerable to CVE-2024-27282. You should read the description of the vulnerability for more details: https://www.ruby-lang.org/en/news/2024/04/23/arbitrary-memory-address-read-regexp-cve-2024-27282/ | 2024-06-12T23:54:03Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) | CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4 | 2024-03-06T03:15:03Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [rampantspark/CVE-2024-27198](https://github.com/rampantspark/CVE-2024-27198) | A PoC for CVE-2024-27198 written in golang | 2024-03-07T15:12:56Z |
@@ -2976,6 +2981,7 @@ Last generated: 2024-08-01 02:09:11.969675
 | [CVE-2022-44877](https://www.cve.org/CVERecord?id=CVE-2022-44877) | [hotpotcookie/CVE-2022-44877-white-box](https://github.com/hotpotcookie/CVE-2022-44877-white-box) | Red Team utilities for setting up CWP CentOS 7 payload &amp; reverse shell (Red Team 9 - CW2023) | 2023-02-15T15:22:48Z |
 | [CVE-2022-44877](https://www.cve.org/CVERecord?id=CVE-2022-44877) | [straight-tamago/FileSwitcherX](https://github.com/straight-tamago/FileSwitcherX) | CVE-2022-46689 | 2023-01-05T21:50:25Z |
 | [CVE-2022-44877](https://www.cve.org/CVERecord?id=CVE-2022-44877) | [RicYaben/CVE-2022-44877-LAB](https://github.com/RicYaben/CVE-2022-44877-LAB) | no description | 2023-03-04T09:15:46Z |
+| [CVE-2022-44877](https://www.cve.org/CVERecord?id=CVE-2022-44877) | [rhymsc/CVE-2022-44877-RCE](https://github.com/rhymsc/CVE-2022-44877-RCE) | no description | 2023-11-18T21:53:54Z |
 | [CVE-2022-44875](https://www.cve.org/CVERecord?id=CVE-2022-44875) | [c0d30d1n/CVE-2022-44875-Test](https://github.com/c0d30d1n/CVE-2022-44875-Test) | Testing CVE-2022-44875 | 2023-07-20T14:30:58Z |
 | [CVE-2022-44666](https://www.cve.org/CVERecord?id=CVE-2022-44666) | [j00sean/CVE-2022-44666](https://github.com/j00sean/CVE-2022-44666) | Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022. | 2023-02-15T18:12:04Z |
 | [CVE-2022-4450](https://www.cve.org/CVERecord?id=CVE-2022-4450) | [nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450](https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2022-4450) | no description | 2023-04-24T05:55:40Z |
