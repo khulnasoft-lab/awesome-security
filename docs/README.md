@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-03 02:00:43.693471
+Last generated: 2024-08-04 02:07:24.738294
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -78,6 +78,8 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [vkaushik-chef/regreSSHion](https://github.com/vkaushik-chef/regreSSHion) | Chef Inspec profile for checking regreSSHion vulnerability CVE-2024-6387 | 2024-07-08T11:48:15Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh) | SentinelSSH is an advanced, high-performance SSH vulnerability scanner written in Go. It&#x27;s specifically designed to detect the CVE-2024-6387 vulnerability in OpenSSH servers across various network environments. | 2024-07-03T10:26:23Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc) | no description | 2024-07-03T15:51:16Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387) | no description | 2024-07-09T12:16:44Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [mrmtwoj/CVE-2024-6387](https://github.com/mrmtwoj/CVE-2024-6387) | no description | 2024-07-09T14:06:02Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -196,8 +198,10 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Stuub/CVE-2024-4040-SSTI-LFI-PoC](https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC) | CVE-2024-4040 CrushFTP SSTI LFI &amp; Auth Bypass - Full Server Takeover - Wordlist Support | 2024-04-25T19:51:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-06-28T10:32:51Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-07-05T05:46:56Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
+| [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
 | [CVE-2024-39689](https://www.cve.org/CVERecord?id=CVE-2024-39689) | [roy-aladin/InfraTest](https://github.com/roy-aladin/InfraTest) | DO NOT FORK, DEPLOY, OR USE FOR ANYTHING BUT LEARNING. These requirements are vulnerable to CVE-2024-39689 | 2024-03-20T14:16:38Z |
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
@@ -206,6 +210,7 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-39211](https://www.cve.org/CVERecord?id=CVE-2024-39211) | [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211) | CVE-2024-39211 | 2024-07-04T09:24:34Z |
 | [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
+| [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
@@ -215,6 +220,7 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-37888](https://www.cve.org/CVERecord?id=CVE-2024-37888) | [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888) | XSS PoC/Exploit for Open Link Plugin for CKEditor 4 | 2024-06-10T07:00:18Z |
 | [CVE-2024-37843](https://www.cve.org/CVERecord?id=CVE-2024-37843) | [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC) | POC for CVE-2024-37843. Craft CMS time-based blind SQLi | 2024-06-18T02:27:04Z |
 | [CVE-2024-37791](https://www.cve.org/CVERecord?id=CVE-2024-37791) | [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791) | 我的CVE-2024-37791 | 2024-06-19T09:16:30Z |
+| [CVE-2024-37770](https://www.cve.org/CVERecord?id=CVE-2024-37770) | [k3ppf0r/CVE-2024-37770](https://github.com/k3ppf0r/CVE-2024-37770) | CVE-2024-37770 | 2024-07-05T16:13:34Z |
 | [CVE-2024-37765](https://www.cve.org/CVERecord?id=CVE-2024-37765) | [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765) | no description | 2024-07-01T10:39:40Z |
 | [CVE-2024-37764](https://www.cve.org/CVERecord?id=CVE-2024-37764) | [Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764) | no description | 2024-07-01T10:37:21Z |
 | [CVE-2024-37763](https://www.cve.org/CVERecord?id=CVE-2024-37763) | [Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763) | no description | 2024-07-01T10:35:51Z |
@@ -225,6 +231,7 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-37726](https://www.cve.org/CVERecord?id=CVE-2024-37726) | [NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) | no description | 2024-07-07T09:21:21Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
+| [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
 | [CVE-2024-37032](https://www.cve.org/CVERecord?id=CVE-2024-37032) | [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) | Path traversal in Ollama with rogue registry server | 2024-06-26T03:11:29Z |
@@ -422,6 +429,7 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Basyaact/CVE-2024-32002-PoC_Chinese](https://github.com/Basyaact/CVE-2024-32002-PoC_Chinese) | none | 2024-06-01T20:19:05Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002) | exploit for CVE-2024-32002 | 2024-06-20T07:37:09Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook) | no description | 2024-07-07T14:50:23Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce) | git clone rce CVE-2024-32002 | 2024-07-03T08:01:39Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
@@ -2679,6 +2687,7 @@ Last generated: 2024-08-03 02:00:43.693471
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [mariovata/CVE-2023-23752-Python](https://github.com/mariovata/CVE-2023-23752-Python) | Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2024-04-15T18:18:02Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [0xx01/CVE-2023-23752](https://github.com/0xx01/CVE-2023-23752) | A simple bash script to exploit Joomla! &lt; 4.2.8 - Unauthenticated information disclosure | 2024-04-28T16:32:21Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [JohnDoeAnonITA/CVE-2023-23752](https://github.com/JohnDoeAnonITA/CVE-2023-23752) | CVE-2023-23752 Data Extractor | 2024-03-12T10:59:10Z |
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [mil4ne/CVE-2023-23752-Joomla-v4.2.8](https://github.com/mil4ne/CVE-2023-23752-Joomla-v4.2.8) | no description | 2024-05-05T16:16:03Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z |
 | [CVE-2023-23583](https://www.cve.org/CVERecord?id=CVE-2023-23583) | [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-) | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | 2023-11-22T15:02:49Z |
