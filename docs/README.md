@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-04 02:07:24.738294
+Last generated: 2024-08-05 02:04:56.144871
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -97,6 +97,7 @@ Last generated: 2024-08-04 02:07:24.738294
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
 | [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009) | Exploit for CVE-2024-5009 | 2024-07-08T12:15:29Z |
+| [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [th3gokul/CVE-2024-5009](https://github.com/th3gokul/CVE-2024-5009) | CVE-2024-5009 : WhatsUp Gold SetAdminPassword Privilege Escalation | 2024-07-09T16:56:49Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -1731,6 +1732,7 @@ Last generated: 2024-08-04 02:07:24.738294
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793) | PoC of CVE-2023-42793 | 2023-10-05T18:12:25Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC) | no description | 2024-01-07T22:29:18Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793) | JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE), CVE-2023-42793 | 2024-04-24T16:33:20Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793) | JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation | 2024-04-21T13:52:28Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
