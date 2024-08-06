@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-05 02:04:56.144871
+Last generated: 2024-08-06 02:02:55.129310
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -80,6 +80,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc) | no description | 2024-07-03T15:51:16Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387) | no description | 2024-07-09T12:16:44Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [mrmtwoj/CVE-2024-6387](https://github.com/mrmtwoj/CVE-2024-6387) | no description | 2024-07-09T14:06:02Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [kubota/CVE-2024-6387-Vulnerability-Checker](https://github.com/kubota/CVE-2024-6387-Vulnerability-Checker) | This Rust Code is designed to check SSH servers for the CVE-2024-6387 vulnerability | 2024-07-09T21:01:15Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -236,6 +237,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
 | [CVE-2024-37032](https://www.cve.org/CVERecord?id=CVE-2024-37032) | [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) | Path traversal in Ollama with rogue registry server | 2024-06-26T03:11:29Z |
+| [CVE-2024-37032](https://www.cve.org/CVERecord?id=CVE-2024-37032) | [ahboon/CVE-2024-37032-scanner](https://github.com/ahboon/CVE-2024-37032-scanner) | CVE-2024-37032 scanner | 2024-07-10T07:24:09Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows | 2024-07-06T17:15:39Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991) | CVE-2024-36991: Path traversal that affects Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10. | 2024-07-06T15:24:24Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991) | Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows | 2024-07-06T01:00:57Z |
@@ -250,6 +252,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401) | Exploiter a Vulnerability detection and Exploitation tool for GeoServer Unauthenticated Remote Code Execution CVE-2024-36401. | 2024-07-05T15:24:50Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
+| [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
@@ -952,6 +955,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS) | Unauthenticated RCE Flaw in Rejetto HTTP File Server (CVE-2024-23692) | 2024-06-13T06:00:24Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP) | CVE-2024-23692 Exploit | 2024-06-18T03:27:47Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692) | CVE-2024-23692 | 2024-06-17T08:46:48Z |
+| [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692) | Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692) | 2024-07-10T04:44:27Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z |
@@ -3537,6 +3541,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo) | no description | 2022-11-05T17:32:47Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn) | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | 2022-03-05T19:49:52Z |
 | [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit) | no description | 2023-10-22T14:09:18Z |
+| [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260) | CVE-2021-36260 | 2021-10-18T06:40:48Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [asepsaepdin/CVE-2021-3560](https://github.com/asepsaepdin/CVE-2021-3560) | no description | 2023-07-10T04:26:13Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [WinMin/CVE-2021-3560](https://github.com/WinMin/CVE-2021-3560) | PolicyKit CVE-2021-3560 Exploitation (Authentication Agent) | 2022-04-30T05:53:45Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [secnigma/CVE-2021-3560-Polkit-Privilege-Esclation](https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation) | no description | 2021-06-14T20:08:20Z |
@@ -3569,6 +3574,7 @@ Last generated: 2024-08-05 02:04:56.144871
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [TotallyNotAHaxxer/f-for-java](https://github.com/TotallyNotAHaxxer/f-for-java) | a project written in go and java i abandoned for CVE-2021-44228 try to fix it if you can XD | 2021-12-20T01:31:06Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [MadExploits/Laravel-debug-Checker](https://github.com/MadExploits/Laravel-debug-Checker) | CVE-2021-3129 Exploit Checker By ./MrMad | 2022-12-10T03:32:34Z |
 | [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [d0rb/CVE-2021-34527](https://github.com/d0rb/CVE-2021-34527) | CVE-2021-34527 PrintNightmare PoC | 2023-08-20T12:04:18Z |
+| [CVE-2021-34527](https://www.cve.org/CVERecord?id=CVE-2021-34527) | [TieuLong21Prosper/detect_bruteforce](https://github.com/TieuLong21Prosper/detect_bruteforce) | detect bruteforce using for cve-2021-34527 | 2023-10-28T08:16:36Z |
 | [CVE-2021-34523](https://www.cve.org/CVERecord?id=CVE-2021-34523) | [SUPRAAA-1337/CVE-2021-34523](https://github.com/SUPRAAA-1337/CVE-2021-34523) | test-yaml | 2023-09-02T12:26:18Z |
 | [CVE-2021-34473](https://www.cve.org/CVERecord?id=CVE-2021-34473) | [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER) | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | 2022-11-16T08:22:29Z |
 | [CVE-2021-34473](https://www.cve.org/CVERecord?id=CVE-2021-34473) | [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell) | Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207 | 2021-09-04T15:34:03Z |
