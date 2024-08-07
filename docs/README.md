@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-06 02:02:55.129310
+Last generated: 2024-08-07 02:05:14.384810
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -81,6 +81,8 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [dgourillon/mitigate-CVE-2024-6387](https://github.com/dgourillon/mitigate-CVE-2024-6387) | no description | 2024-07-09T12:16:44Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [mrmtwoj/CVE-2024-6387](https://github.com/mrmtwoj/CVE-2024-6387) | no description | 2024-07-09T14:06:02Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [kubota/CVE-2024-6387-Vulnerability-Checker](https://github.com/kubota/CVE-2024-6387-Vulnerability-Checker) | This Rust Code is designed to check SSH servers for the CVE-2024-6387 vulnerability | 2024-07-09T21:01:15Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [filipi86/CVE-2024-6387-Vulnerability-Checker](https://github.com/filipi86/CVE-2024-6387-Vulnerability-Checker) | This Python script checks for the CVE-2024-6387 vulnerability in OpenSSH servers. It supports multiple IP addresses, URLs, CIDR ranges, and ports. The script can also read addresses from a file. | 2024-07-09T17:40:19Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [DimaMend/cve-2024-6387-poc](https://github.com/DimaMend/cve-2024-6387-poc) | no description | 2024-07-10T13:27:23Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -93,6 +95,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
+| [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
@@ -161,6 +164,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577) | CVE-2024-4577 EXP | 2024-07-03T15:30:52Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-07-05T12:47:44Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE) | PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploit) | 2024-07-06T19:37:14Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bibo318/CVE-2024-4577-RCE-ATTACK](https://github.com/bibo318/CVE-2024-4577-RCE-ATTACK) | ATTACK PoC - PHP CVE-2024-4577 | 2024-07-11T02:22:32Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -232,6 +236,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-37726](https://www.cve.org/CVERecord?id=CVE-2024-37726) | [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) | no description | 2024-07-03T07:26:07Z |
 | [CVE-2024-37726](https://www.cve.org/CVERecord?id=CVE-2024-37726) | [NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) | no description | 2024-07-07T09:21:21Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
+| [CVE-2024-37147](https://www.cve.org/CVERecord?id=CVE-2024-37147) | [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC) | no description | 2024-07-11T10:20:00Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
@@ -241,6 +246,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows | 2024-07-06T17:15:39Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991) | CVE-2024-36991: Path traversal that affects Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10. | 2024-07-06T15:24:24Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991) | Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows | 2024-07-06T01:00:57Z |
+| [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10 that allows reading sensitive files. | 2024-07-10T09:42:08Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
@@ -623,6 +629,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [exfil0/test_iconv](https://github.com/exfil0/test_iconv) | This repository contains a C program to test for CVE-2024-2961, a buffer overflow vulnerability in the iconv() function of glibc. | 2024-06-03T23:53:43Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc) | no description | 2024-06-04T09:57:46Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961) | no description | 2024-06-04T08:05:09Z |
+| [CVE-2024-29510](https://www.cve.org/CVERecord?id=CVE-2024-29510) | [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510) | POC code for CVE-2024-29510 and demo VulnApp | 2024-07-09T13:27:40Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
 | [CVE-2024-29452](https://www.cve.org/CVERecord?id=CVE-2024-29452) | [yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452) | Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:44:28Z |
@@ -998,6 +1005,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2024-22369](https://www.cve.org/CVERecord?id=CVE-2024-22369) | [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369) | CVE-2024-22369 Reproducer | 2024-01-10T11:01:59Z |
 | [CVE-2024-22275](https://www.cve.org/CVERecord?id=CVE-2024-22275) | [mbadanoiu/CVE-2024-22275](https://github.com/mbadanoiu/CVE-2024-22275) | CVE-2024-22275: Partial File Read in VMware vCenter Server | 2024-07-06T18:14:28Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274) | CVE-2024-22274: Authenticated Remote Code Execution in VMware vCenter Server | 2024-07-06T17:55:25Z |
+| [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274) | no description | 2024-07-11T04:13:59Z |
 | [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z |
@@ -1980,6 +1988,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [Yang-Shun-Yu/CVE-2023-38545](https://github.com/Yang-Shun-Yu/CVE-2023-38545) | no description | 2024-03-19T13:45:09Z |
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z |
 | [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-1](https://github.com/miguelc49/CVE-2023-38499-1) | no description | 2024-04-13T18:46:07Z |
+| [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-3](https://github.com/miguelc49/CVE-2023-38499-3) | no description | 2024-04-13T18:46:13Z |
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z |
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z |
@@ -2899,6 +2908,7 @@ Last generated: 2024-08-06 02:02:55.129310
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z |
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698) | no description | 2023-10-20T05:40:32Z |
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698) | WAGO系统远程代码执行漏洞(CVE-2023-1698) | 2023-10-20T12:15:39Z |
+| [CVE-2023-1671](https://www.cve.org/CVERecord?id=CVE-2023-1671) | [behnamvanda/CVE-2023-1671](https://github.com/behnamvanda/CVE-2023-1671) | Sophos Web Appliance pre-auth command injection Vulnerability Scanner | 2023-04-25T15:19:41Z |
 | [CVE-2023-1521](https://www.cve.org/CVERecord?id=CVE-2023-1521) | [rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521) | no description | 2023-11-15T15:31:44Z |
 | [CVE-2023-1500](https://www.cve.org/CVERecord?id=CVE-2023-1500) | [Decemberus/BugHub](https://github.com/Decemberus/BugHub) | CVEHub of CVE-2023-1498 and CVE-2023-1500 | 2023-03-19T09:06:59Z |
 | [CVE-2023-1500](https://www.cve.org/CVERecord?id=CVE-2023-1500) | [Kimsovannareth/Phamchie](https://github.com/Kimsovannareth/Phamchie) | https://github.com/Phamchie/CVE-2023-3047 | 2024-03-08T15:20:25Z |
