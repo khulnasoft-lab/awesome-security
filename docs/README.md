@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-07 02:05:14.384810
+Last generated: 2024-08-08 02:03:59.756782
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -308,6 +308,7 @@ Last generated: 2024-08-07 02:05:14.384810
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102) | no description | 2024-07-03T21:47:28Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento](https://github.com/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento) | CosmicSting: critical unauthenticated XXE vulnerability in Adobe Commerce and Magento (CVE-2024-34102) | 2024-07-01T08:19:28Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [unknownzerobit/poc](https://github.com/unknownzerobit/poc) | poc for CVE-2024-34102 | 2024-07-08T11:23:12Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [crynomore/CVE-2024-34102](https://github.com/crynomore/CVE-2024-34102) | Burp Extension to test for CVE-2024-34102 | 2024-07-11T11:54:08Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -705,6 +706,7 @@ Last generated: 2024-08-07 02:05:14.384810
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE) | no description | 2024-06-14T07:13:54Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE) | Valve Press - CVE-2024-27956-RCE - SQL Injection | 2024-06-13T02:05:31Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956) | WordPress Automatic Plugin &lt;= 3.92.0 - SQL Injection | 2024-06-07T04:40:06Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [ThatNotEasy/CVE-2024-27956](https://github.com/ThatNotEasy/CVE-2024-27956) | Perform with massive Wordpress SQLI 2 RCE | 2024-07-11T14:17:23Z |
 | [CVE-2024-27815](https://www.cve.org/CVERecord?id=CVE-2024-27815) | [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815) | macOS/ XNU kernel buffer overflow. Introduced in macOS 14.0 (xnu-10002.1.13), fixed in macOS 14.5 (xnu-10063.121.3) | 2024-06-19T22:03:02Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
@@ -1989,6 +1991,7 @@ Last generated: 2024-08-07 02:05:14.384810
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z |
 | [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-1](https://github.com/miguelc49/CVE-2023-38499-1) | no description | 2024-04-13T18:46:07Z |
 | [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-3](https://github.com/miguelc49/CVE-2023-38499-3) | no description | 2024-04-13T18:46:13Z |
+| [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-2](https://github.com/miguelc49/CVE-2023-38499-2) | no description | 2024-04-13T18:46:02Z |
 | [CVE-2023-38490](https://www.cve.org/CVERecord?id=CVE-2023-38490) | [Acceis/exploit-CVE-2023-38490](https://github.com/Acceis/exploit-CVE-2023-38490) | Kirby &lt; 3.9.6 XML External Entity exploit | 2023-07-28T09:19:23Z |
 | [CVE-2023-38434](https://www.cve.org/CVERecord?id=CVE-2023-38434) | [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434) | Proof of Concept for CVE-2023-38434 | 2023-07-18T16:09:04Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) | CVE-2023-38408 Remote Code Execution in OpenSSH&#x27;s forwarded ssh-agent | 2023-07-21T01:53:10Z |
