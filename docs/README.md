@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-08 02:03:59.756782
+Last generated: 2024-08-09 02:05:21.328878
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -83,6 +83,10 @@ Last generated: 2024-08-08 02:03:59.756782
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [kubota/CVE-2024-6387-Vulnerability-Checker](https://github.com/kubota/CVE-2024-6387-Vulnerability-Checker) | This Rust Code is designed to check SSH servers for the CVE-2024-6387 vulnerability | 2024-07-09T21:01:15Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [filipi86/CVE-2024-6387-Vulnerability-Checker](https://github.com/filipi86/CVE-2024-6387-Vulnerability-Checker) | This Python script checks for the CVE-2024-6387 vulnerability in OpenSSH servers. It supports multiple IP addresses, URLs, CIDR ranges, and ports. The script can also read addresses from a file. | 2024-07-09T17:40:19Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [DimaMend/cve-2024-6387-poc](https://github.com/DimaMend/cve-2024-6387-poc) | no description | 2024-07-10T13:27:23Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [k4t3pr0/CVE-2024-6387-Check](https://github.com/k4t3pr0/CVE-2024-6387-Check) | Lỗ hổng thực thi mã không được xác thực từ xa trong máy chủ OpenSSH | 2024-07-12T03:28:41Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Passyed/regreSSHion-Fix](https://github.com/Passyed/regreSSHion-Fix) | Fix for regreSSHion CVE-2024-6387 for Ubuntu and Debian | 2024-07-11T23:22:14Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh) | OpenSSH vulnerability CVE-2024-6387 | 2024-07-11T16:54:41Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [ThemeHackers/CVE-2024-6387](https://github.com/ThemeHackers/CVE-2024-6387) | CVE-2024-6387, also known as RegreSSHion, is a high-severity vulnerability found in OpenSSH servers (sshd) running on glibc-based Linux systems. It is a regression of a previously fixed vulnerability (CVE-2006-5051), which means the issue was reintroduced in newer versions of OpenSSH. | 2024-07-11T14:37:17Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -247,6 +251,7 @@ Last generated: 2024-08-08 02:03:59.756782
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991) | CVE-2024-36991: Path traversal that affects Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10. | 2024-07-06T15:24:24Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991) | Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows | 2024-07-06T01:00:57Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10 that allows reading sensitive files. | 2024-07-10T09:42:08Z |
+| [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991) | POC for CVE-2024-36991: This exploit will attempt to read Splunk /etc/passwd file. | 2024-07-06T00:49:40Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
@@ -1157,6 +1162,7 @@ Last generated: 2024-08-08 02:03:59.756782
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z |
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z |
 | [CVE-2024-1208](https://www.cve.org/CVERecord?id=CVE-2024-1208) | [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208) | LearnDash LMS &lt; 4.10.3 - Sensitive Information Exposure | 2024-05-30T17:55:45Z |
+| [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
@@ -1194,6 +1200,8 @@ Last generated: 2024-08-08 02:03:59.756782
 | [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044) | CVE-2024-0044:  a &quot;run-as any app&quot; high-severity vulnerability affecting Android versions 12 and 13 | 2024-06-18T12:30:53Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter) | Exfiltrate sensitive user data from apps on Android 12 and 13 using CVE-2024-0044 vulnerability remotely | 2024-06-18T09:22:59Z |
+| [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP) | 利用 CVE-2024-0044 Android 权限提升下载任意目标App沙箱文件。 | 2024-07-03T10:29:06Z |
+| [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044) | CVE-2024-0044: uma vulnerabilidade de alta gravidade do tipo &quot;executar como qualquer aplicativo&quot; que afeta as versões 12 e 13 do Android | 2024-07-11T18:46:45Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
@@ -3334,6 +3342,7 @@ Last generated: 2024-08-08 02:03:59.756782
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [battleofthebots/refresh](https://github.com/battleofthebots/refresh) | CVE-2022-1388 - F5 Router RCE Replica | 2023-08-01T18:12:52Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
+| [CVE-2022-1364](https://www.cve.org/CVERecord?id=CVE-2022-1364) | [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) | no description | 2023-11-22T10:55:34Z |
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z |
 | [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z |
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z |
