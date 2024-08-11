@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-10 02:03:59.781172
+Last generated: 2024-08-11 02:09:29.421446
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -202,6 +202,10 @@ Last generated: 2024-08-10 02:03:59.781172
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
+| [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
+| [CVE-2024-40511](https://www.cve.org/CVERecord?id=CVE-2024-40511) | [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511) | OpenPetra v.2023.02 CVE-2024-40511 | 2024-07-13T22:04:53Z |
+| [CVE-2024-40510](https://www.cve.org/CVERecord?id=CVE-2024-40510) | [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510) | OpenPetra v.2023.02 CVE-2024-40510 | 2024-07-13T22:03:17Z |
+| [CVE-2024-40509](https://www.cve.org/CVERecord?id=CVE-2024-40509) | [Jansen-C-Moreira/CVE-2024-40509](https://github.com/Jansen-C-Moreira/CVE-2024-40509) | OpenPetra v.2023.02 CVE-2024-40509 | 2024-07-13T22:01:39Z |
 | [CVE-2024-40508](https://www.cve.org/CVERecord?id=CVE-2024-40508) | [Jansen-C-Moreira/CVE-2024-40508](https://github.com/Jansen-C-Moreira/CVE-2024-40508) | OpenPetra v.2023.02 CVE-2024-40508 | 2024-07-13T21:54:07Z |
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
@@ -1438,6 +1442,7 @@ Last generated: 2024-08-10 02:03:59.781172
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [morganwdavis/overread](https://github.com/morganwdavis/overread) | Simulates CVE-2023-4966 Citrix Bleed overread bug | 2023-12-16T21:55:04Z |
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [kn32/parallels-file-move-privesc](https://github.com/kn32/parallels-file-move-privesc) | Parallels Desktop privilege escalation - CVE-2023-50226 / ZDI-CAN-21227 | 2023-10-28T10:29:53Z |
 | [CVE-2023-4966](https://www.cve.org/CVERecord?id=CVE-2023-4966) | [senpaisamp/Netscaler-CVE-2023-4966-POC](https://github.com/senpaisamp/Netscaler-CVE-2023-4966-POC) | Proof Of Concept for te NetScaler Vuln | 2023-10-25T07:17:54Z |
+| [CVE-2023-49606](https://www.cve.org/CVERecord?id=CVE-2023-49606) | [d0rb/CVE-2023-49606](https://github.com/d0rb/CVE-2023-49606) | Critical use-after-free vulnerability discovered in Tinyproxy | 2024-05-07T10:03:01Z |
 | [CVE-2023-49548](https://www.cve.org/CVERecord?id=CVE-2023-49548) | [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;lastname&quot; Parameter During &quot;save_user&quot; Operation | 2023-12-19T22:27:24Z |
 | [CVE-2023-49547](https://www.cve.org/CVERecord?id=CVE-2023-49547) | [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547) | Customer Support System 1.0 - SQL Injection Login Bypass | 2023-11-28T12:59:10Z |
 | [CVE-2023-49546](https://www.cve.org/CVERecord?id=CVE-2023-49546) | [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546) | Customer Support System 1.0 - SQL Injection Vulnerability in the &quot;email&quot; Parameter During &quot;save_staff&quot; Operation | 2023-12-19T21:54:36Z |
@@ -2641,6 +2646,7 @@ Last generated: 2024-08-10 02:03:59.781172
 | [CVE-2023-26256](https://www.cve.org/CVERecord?id=CVE-2023-26256) | [jcad123/CVE-2023-26256](https://github.com/jcad123/CVE-2023-26256) | CVE-2023-26255_POC,CVE-2023-26256_POC | 2023-09-01T00:10:36Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp) | no description | 2023-08-25T21:56:48Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6) | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | 2023-08-30T23:57:10Z |
+| [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security) | Fix open source package uses tough-cookie 2.5.0 - CVE-2023-26136, | 2024-05-06T17:32:10Z |
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [hshivhare67/Jetty_v9.4.31_CVE-2023-26049](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2023-26049) | no description | 2023-11-27T07:25:34Z |
