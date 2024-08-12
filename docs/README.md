@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-11 02:09:29.421446
+Last generated: 2024-08-12 02:06:46.195976
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -207,6 +207,8 @@ Last generated: 2024-08-11 02:09:29.421446
 | [CVE-2024-40510](https://www.cve.org/CVERecord?id=CVE-2024-40510) | [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510) | OpenPetra v.2023.02 CVE-2024-40510 | 2024-07-13T22:03:17Z |
 | [CVE-2024-40509](https://www.cve.org/CVERecord?id=CVE-2024-40509) | [Jansen-C-Moreira/CVE-2024-40509](https://github.com/Jansen-C-Moreira/CVE-2024-40509) | OpenPetra v.2023.02 CVE-2024-40509 | 2024-07-13T22:01:39Z |
 | [CVE-2024-40508](https://www.cve.org/CVERecord?id=CVE-2024-40508) | [Jansen-C-Moreira/CVE-2024-40508](https://github.com/Jansen-C-Moreira/CVE-2024-40508) | OpenPetra v.2023.02 CVE-2024-40508 | 2024-07-13T21:54:07Z |
+| [CVE-2024-40507](https://www.cve.org/CVERecord?id=CVE-2024-40507) | [Jansen-C-Moreira/CVE-2024-40507](https://github.com/Jansen-C-Moreira/CVE-2024-40507) | OpenPetra v.2023.02 Use CVE-2024-40507 | 2024-07-13T21:50:57Z |
+| [CVE-2024-40506](https://www.cve.org/CVERecord?id=CVE-2024-40506) | [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506) | OpenPetra v.2023.02 CVE-2024-40506 | 2024-07-13T21:42:23Z |
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
@@ -328,6 +330,7 @@ Last generated: 2024-08-11 02:09:29.421446
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [unknownzerobit/poc](https://github.com/unknownzerobit/poc) | poc for CVE-2024-34102 | 2024-07-08T11:23:12Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [crynomore/CVE-2024-34102](https://github.com/crynomore/CVE-2024-34102) | Burp Extension to test for CVE-2024-34102 | 2024-07-11T11:54:08Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [SamJUK/cosmicsting-validator](https://github.com/SamJUK/cosmicsting-validator) | CosmicSting (CVE-2024-34102) POC / Patch Validator | 2024-07-07T23:35:18Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102) | no description | 2024-07-14T08:40:59Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -2434,6 +2437,7 @@ Last generated: 2024-08-11 02:09:29.421446
 | [CVE-2023-31419](https://www.cve.org/CVERecord?id=CVE-2023-31419) | [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419) | Elasticsearch DoS CVE-2023-31419 exploit | 2023-10-03T13:51:37Z |
 | [CVE-2023-31320](https://www.cve.org/CVERecord?id=CVE-2023-31320) | [whypet/CVE-2023-31320](https://github.com/whypet/CVE-2023-31320) | DoS vulnerability in AMD driver that corrupts the display. | 2023-08-22T21:15:46Z |
 | [CVE-2023-31320](https://www.cve.org/CVERecord?id=CVE-2023-31320) | [Scottzxor/Citrix-Bleed-Buffer-Overread-Demo](https://github.com/Scottzxor/Citrix-Bleed-Buffer-Overread-Demo) | This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699). | 2023-11-17T19:55:30Z |
+| [CVE-2023-31290](https://www.cve.org/CVERecord?id=CVE-2023-31290) | [ohexa/py_trustwallet_wasm](https://github.com/ohexa/py_trustwallet_wasm) | (CVE-2023-31290) Trust Wallet Core before 3.1.1, as used in the Trust Wallet browser extension before 0.0.183, allows theft of funds because the entropy is 32 bits, as exploited in the wild in December 2022 and March 2023. | 2024-05-07T15:02:22Z |
 | [CVE-2023-3124](https://www.cve.org/CVERecord?id=CVE-2023-3124) | [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124) | CVE-2023-3124 PoC | 2023-09-05T12:32:50Z |
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z |
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z |
