@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-13 02:05:58.788529
+Last generated: 2024-08-14 02:04:42.053092
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -90,6 +90,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [liqhtnd/sshd-logingracetime0](https://github.com/liqhtnd/sshd-logingracetime0) | Script to address CVE-2024-6387 by changing the LoginGraceTime in sshd. | 2024-07-04T01:02:34Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Jhonsonwannaa/CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387) | OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d&#x27;exécuter du  code arbitraire | 2024-07-14T18:00:49Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check) | CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH | 2024-07-01T20:33:20Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387) | OpenSSH RCE Massive Vulnerable Scanner | 2024-07-15T16:04:57Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -132,6 +133,8 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [Mr-r00t11/CVE-2024-4879](https://github.com/Mr-r00t11/CVE-2024-4879) | no description | 2024-07-12T21:43:48Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [bigb0x/CVE-2024-4879](https://github.com/bigb0x/CVE-2024-4879) | Bulk scanning tool for ServiceNow CVE-2024-4879 vulnerability | 2024-07-12T13:02:47Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [tequilasunsh1ne/CVE_2024_4879](https://github.com/tequilasunsh1ne/CVE_2024_4879) | no description | 2024-07-15T02:51:34Z |
+| [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow) | Exploit for CVE-2024-4879 affecting Vancouver, Washington DC Now and Utah Platform releases | 2024-07-16T04:03:28Z |
+| [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879) | no description | 2024-07-15T12:27:33Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -177,6 +180,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-07-05T12:47:44Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE) | PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploit) | 2024-07-06T19:37:14Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bibo318/CVE-2024-4577-RCE-ATTACK](https://github.com/bibo318/CVE-2024-4577-RCE-ATTACK) | ATTACK PoC - PHP CVE-2024-4577 | 2024-07-11T02:22:32Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [waived/CVE-2024-4577-PHP-RCE](https://github.com/waived/CVE-2024-4577-PHP-RCE) | Automated PHP remote code execution scanner for CVE-2024-4577 | 2024-07-15T21:31:14Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -289,6 +293,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-35468](https://www.cve.org/CVERecord?id=CVE-2024-35468) | [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468) | CVE-2024-35468 - SQL injection | 2024-05-11T05:23:41Z |
 | [CVE-2024-35333](https://www.cve.org/CVERecord?id=CVE-2024-35333) | [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333) | no description | 2024-05-14T13:02:36Z |
 | [CVE-2024-35315](https://www.cve.org/CVERecord?id=CVE-2024-35315) | [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC) | Mitel Collab Local Privilege Escalation CVE-2024-35315 PoC | 2024-06-03T14:29:35Z |
+| [CVE-2024-35242](https://www.cve.org/CVERecord?id=CVE-2024-35242) | [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242) | A test repository for the vulnerability CVE-2024-35242&#x27;s PoC | 2024-07-15T15:01:31Z |
 | [CVE-2024-34958](https://www.cve.org/CVERecord?id=CVE-2024-34958) | [Gr-1m/CVE-2024-34958](https://github.com/Gr-1m/CVE-2024-34958) | idccms CSRF poc | 2024-05-20T08:15:05Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [truonghuuphuc/CVE-2024-3495-Poc](https://github.com/truonghuuphuc/CVE-2024-3495-Poc) | CVE-2024-3495 Country State City Dropdown CF7 &lt;= 2.7.2 - Unauthenticated SQL Injection | 2024-05-23T02:41:15Z |
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
@@ -335,6 +340,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [SamJUK/cosmicsting-validator](https://github.com/SamJUK/cosmicsting-validator) | CosmicSting (CVE-2024-34102) POC / Patch Validator | 2024-07-07T23:35:18Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Phantom-IN/CVE-2024-34102](https://github.com/Phantom-IN/CVE-2024-34102) | no description | 2024-07-14T08:40:59Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bughuntar/CVE-2024-34102](https://github.com/bughuntar/CVE-2024-34102) | Exploitation CVE-2024-34102 | 2024-07-13T10:25:23Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bughuntar/CVE-2024-34102-Python](https://github.com/bughuntar/CVE-2024-34102-Python) | CVE-2024-34102 Exploiter based on Python | 2024-07-13T17:31:10Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -1226,6 +1232,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter) | Exfiltrate sensitive user data from apps on Android 12 and 13 using CVE-2024-0044 vulnerability remotely | 2024-06-18T09:22:59Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP) | 利用 CVE-2024-0044 Android 权限提升下载任意目标App沙箱文件。 | 2024-07-03T10:29:06Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044) | CVE-2024-0044: uma vulnerabilidade de alta gravidade do tipo &quot;executar como qualquer aplicativo&quot; que afeta as versões 12 e 13 do Android | 2024-07-11T18:46:45Z |
+| [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP) | 利用CVE-2024-0044 在Android12、13 没有root&#x27;下进行数据备份 用法./CVE-2024-0044-EXP.sh &lt;package_name&gt; | 2024-07-15T08:45:44Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
@@ -1897,6 +1904,8 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z |
 | [CVE-2023-40028](https://www.cve.org/CVERecord?id=CVE-2023-40028) | [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028) | no description | 2024-03-23T15:25:49Z |
 | [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000) | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | 2024-02-28T19:36:40Z |
+| [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [iveresk/cve-2023-40000](https://github.com/iveresk/cve-2023-40000) | That&#x27;s a PoC of cve-2023-40000. Wordpress LiteSpeed Cache exploit. | 2024-05-13T15:25:58Z |
+| [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [quantiom/litespeed-cache-xss-poc](https://github.com/quantiom/litespeed-cache-xss-poc) | PoC for XSS vulnerability in the LiteSpeed Cache WordPress plugin (CVE-2023-40000) allowing elevated privileges. Includes code, explanations, and mitigations. | 2024-05-12T06:13:47Z |
 | [CVE-2023-39725](https://www.cve.org/CVERecord?id=CVE-2023-39725) | [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725) | no description | 2023-09-02T12:29:59Z |
 | [CVE-2023-39714](https://www.cve.org/CVERecord?id=CVE-2023-39714) | [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714) | no description | 2023-08-19T18:47:27Z |
 | [CVE-2023-39712](https://www.cve.org/CVERecord?id=CVE-2023-39712) | [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712) | no description | 2023-08-19T18:42:28Z |
@@ -3489,6 +3498,7 @@ Last generated: 2024-08-13 02:05:58.788529
 | [CVE-2021-43657](https://www.cve.org/CVERecord?id=CVE-2021-43657) | [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657) | This is a reference/POC for CVE-2021-43657 | 2022-11-08T02:13:29Z |
 | [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617) | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | 2023-06-08T08:05:36Z |
 | [CVE-2021-43258](https://www.cve.org/CVERecord?id=CVE-2021-43258) | [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258) | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | 2022-11-26T09:00:10Z |
+| [CVE-2021-43226](https://www.cve.org/CVERecord?id=CVE-2021-43226) | [Rosayxy/cve-2021-43226PoC](https://github.com/Rosayxy/cve-2021-43226PoC) | a Proof of Concept of cve-2021-43226,stack overflow in Windows driver clfs.sys | 2023-10-30T06:47:50Z |
 | [CVE-2021-43008](https://www.cve.org/CVERecord?id=CVE-2021-43008) | [p0dalirius/CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead) | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability | 2021-12-13T17:26:49Z |
 | [CVE-2021-42756](https://www.cve.org/CVERecord?id=CVE-2021-42756) | [3ndorph1n/CVE-2021-42756](https://github.com/3ndorph1n/CVE-2021-42756) | no description | 2023-02-23T15:10:06Z |
 | [CVE-2021-42717](https://www.cve.org/CVERecord?id=CVE-2021-42717) | [EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717) | Detection and Mitigation script for CVE-2021-42717 -&gt; ModSecurity DoS Vulnerability in JSON Parsing | 2022-11-20T18:01:34Z |
