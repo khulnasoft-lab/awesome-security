@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-14 02:04:42.053092
+Last generated: 2024-08-15 01:57:16.159539
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -91,6 +91,7 @@ Last generated: 2024-08-14 02:04:42.053092
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [Jhonsonwannaa/CVE-2024-6387](https://github.com/Jhonsonwannaa/CVE-2024-6387) | OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d&#x27;exécuter du  code arbitraire | 2024-07-14T18:00:49Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check) | CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH | 2024-07-01T20:33:20Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387) | OpenSSH RCE Massive Vulnerable Scanner | 2024-07-15T16:04:57Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check) | CLI Tool to Check SSH Servers for Vulnerability to CVE-2024-6387 | 2024-07-01T22:53:32Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -229,6 +230,7 @@ Last generated: 2024-08-14 02:04:42.053092
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-06-28T10:32:51Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-07-05T05:46:56Z |
+| [CVE-2024-40119](https://www.cve.org/CVERecord?id=CVE-2024-40119) | [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119) | Cross-Site Request Forgery (CSRF) vulnerability in the password  change function, which allows remote attackers to change the admin  password without the user&#x27;s consent, leading to a potential account  takeover. | 2024-07-17T03:03:42Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
@@ -382,6 +384,7 @@ Last generated: 2024-08-14 02:04:42.053092
 | [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
 | [CVE-2024-33559](https://www.cve.org/CVERecord?id=CVE-2024-33559) | [absholi7ly/WordPress-XStore-theme-SQL-Injection](https://github.com/absholi7ly/WordPress-XStore-theme-SQL-Injection) | (CVE-2024-33559) The XStore theme for WordPress is vulnerable to SQL Injection  due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query | 2024-05-17T04:15:34Z |
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
+| [CVE-2024-33352](https://www.cve.org/CVERecord?id=CVE-2024-33352) | [mmiszczyk/CVE-2024-33352](https://github.com/mmiszczyk/CVE-2024-33352) | BlueStacks privilege escalation through VM backdooring | 2024-07-16T07:38:19Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
 | [CVE-2024-33113](https://www.cve.org/CVERecord?id=CVE-2024-33113) | [tekua/CVE-2024-33113](https://github.com/tekua/CVE-2024-33113) | Le routeur D-LINK DIR-845L est vulnérable à un problème de divulgation d&#x27;informations. Plus précisément, le fichier bsc_sms_inbox.php sur l&#x27;appareil peut être exploité pour divulguer des informations sensibles. | 2024-06-25T14:16:03Z |
 | [CVE-2024-33113](https://www.cve.org/CVERecord?id=CVE-2024-33113) | [FaLLenSKiLL1/CVE-2024-33113](https://github.com/FaLLenSKiLL1/CVE-2024-33113) | D-LINK DIR-845L is vulnerable to information disclosure via the bsc_sms_inbox.php file. | 2024-06-24T19:50:13Z |
@@ -1042,6 +1045,7 @@ Last generated: 2024-08-14 02:04:42.053092
 | [CVE-2024-22275](https://www.cve.org/CVERecord?id=CVE-2024-22275) | [mbadanoiu/CVE-2024-22275](https://github.com/mbadanoiu/CVE-2024-22275) | CVE-2024-22275: Partial File Read in VMware vCenter Server | 2024-07-06T18:14:28Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274) | CVE-2024-22274: Authenticated Remote Code Execution in VMware vCenter Server | 2024-07-06T17:55:25Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274) | no description | 2024-07-11T04:13:59Z |
+| [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE) | PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit) | 2024-07-15T07:26:59Z |
 | [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z |
@@ -2719,6 +2723,7 @@ Last generated: 2024-08-14 02:04:42.053092
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit) | Example of CVE-2023-24329 | 2023-10-05T01:55:05Z |
 | [CVE-2023-24317](https://www.cve.org/CVERecord?id=CVE-2023-24317) | [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317) | Judging Management System v1.0 - Unrestricted File Upload + RCE (Unauthenticated) | 2023-03-08T22:00:44Z |
 | [CVE-2023-24317](https://www.cve.org/CVERecord?id=CVE-2023-24317) | [prasad-1808/tool-29489](https://github.com/prasad-1808/tool-29489) | This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available | 2024-01-21T19:23:47Z |
+| [CVE-2023-24203](https://www.cve.org/CVERecord?id=CVE-2023-24203) | [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204) | no description | 2024-05-14T03:53:03Z |
 | [CVE-2023-24100](https://www.cve.org/CVERecord?id=CVE-2023-24100) | [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100) | nuclei templates CVE RCE CNVD IoT | 2023-12-05T05:00:27Z |
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z |
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z |
