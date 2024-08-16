@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-15 01:57:16.159539
+Last generated: 2024-08-16 02:03:30.799384
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -182,6 +182,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE) | PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploit) | 2024-07-06T19:37:14Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bibo318/CVE-2024-4577-RCE-ATTACK](https://github.com/bibo318/CVE-2024-4577-RCE-ATTACK) | ATTACK PoC - PHP CVE-2024-4577 | 2024-07-11T02:22:32Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [waived/CVE-2024-4577-PHP-RCE](https://github.com/waived/CVE-2024-4577-PHP-RCE) | Automated PHP remote code execution scanner for CVE-2024-4577 | 2024-07-15T21:31:14Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [nNoSuger/CVE-2024-4577](https://github.com/nNoSuger/CVE-2024-4577) | CVE | 2024-07-18T16:39:27Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -210,6 +211,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
+| [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
 | [CVE-2024-40511](https://www.cve.org/CVERecord?id=CVE-2024-40511) | [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511) | OpenPetra v.2023.02 CVE-2024-40511 | 2024-07-13T22:04:53Z |
 | [CVE-2024-40510](https://www.cve.org/CVERecord?id=CVE-2024-40510) | [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510) | OpenPetra v.2023.02 CVE-2024-40510 | 2024-07-13T22:03:17Z |
@@ -383,6 +385,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
 | [CVE-2024-33722](https://www.cve.org/CVERecord?id=CVE-2024-33722) | [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits) | SOPlanning 1.52.00 CSRF/SQLi/XSS (CVE-2024-33722, CVE-2024-33724) | 2024-04-22T19:51:18Z |
 | [CVE-2024-33559](https://www.cve.org/CVERecord?id=CVE-2024-33559) | [absholi7ly/WordPress-XStore-theme-SQL-Injection](https://github.com/absholi7ly/WordPress-XStore-theme-SQL-Injection) | (CVE-2024-33559) The XStore theme for WordPress is vulnerable to SQL Injection  due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query | 2024-05-17T04:15:34Z |
+| [CVE-2024-33544](https://www.cve.org/CVERecord?id=CVE-2024-33544) | [codeb0ss/CVE-2024-33544-PoC](https://github.com/codeb0ss/CVE-2024-33544-PoC) | Mass Exploit - CVE-2024-33544 &lt; Unauthenticated &lt; SQL Injection | 2024-07-17T22:13:50Z |
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33352](https://www.cve.org/CVERecord?id=CVE-2024-33352) | [mmiszczyk/CVE-2024-33352](https://github.com/mmiszczyk/CVE-2024-33352) | BlueStacks privilege escalation through VM backdooring | 2024-07-16T07:38:19Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
@@ -632,6 +635,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088) | no description | 2024-06-24T10:37:26Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-) | 🆘New Windows Kernel Priviledge Escalation Vulnerability | 2024-06-27T07:05:46Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc) | 该漏洞存在于 NtQueryInformationToken 函数中，特别是在处理AuthzBasepCopyoutInternalSecurityAttributes 函数时，该漏洞源于内核在操作对象时对锁定机制的不当管理，这一失误可能导致恶意实体意外提升权限。 | 2024-07-05T16:02:56Z |
+| [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage) | Kernel exploit for Xbox SystemOS using CVE-2024-30088 | 2024-07-15T08:07:05Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
@@ -1046,6 +1050,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274) | CVE-2024-22274: Authenticated Remote Code Execution in VMware vCenter Server | 2024-07-06T17:55:25Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274) | no description | 2024-07-11T04:13:59Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE) | PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit) | 2024-07-15T07:26:59Z |
+| [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [Mustafa1986/CVE-2024-22274-RCE](https://github.com/Mustafa1986/CVE-2024-22274-RCE) | no description | 2024-07-18T06:18:57Z |
 | [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22145](https://www.cve.org/CVERecord?id=CVE-2024-22145) | [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145) | InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2024-01-17T20:56:21Z |
@@ -2659,6 +2664,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629) | no description | 2024-03-19T22:56:24Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360) | Exploit for Arbitrary File Read for CVE-2023-26360 - Adobe Coldfusion | 2023-12-26T06:26:01Z |
+| [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit](https://github.com/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit) | no description | 2024-05-14T11:22:35Z |
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z |
 | [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z |
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z |
@@ -3764,6 +3770,7 @@ Last generated: 2024-08-15 01:57:16.159539
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [MrDottt/CVE-2021-22911](https://github.com/MrDottt/CVE-2021-22911) | no description | 2023-06-05T22:26:26Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [ChrisPritchard/CVE-2021-22911-rust](https://github.com/ChrisPritchard/CVE-2021-22911-rust) | exploit for CVE-2021-22911 in rust | 2023-04-01T07:19:54Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [aydianosec/CVE2021-40444](https://github.com/aydianosec/CVE2021-40444) | no description | 2021-09-14T01:37:25Z |
+| [CVE-2021-22880](https://www.cve.org/CVERecord?id=CVE-2021-22880) | [halkichi0308/CVE-2021-22880](https://github.com/halkichi0308/CVE-2021-22880) | no description | 2023-10-30T08:30:12Z |
 | [CVE-2021-22873](https://www.cve.org/CVERecord?id=CVE-2021-22873) | [K3ysTr0K3R/CVE-2021-22873-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT) | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | 2023-07-22T21:49:54Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [pashayogi/CVE-2021-22555](https://github.com/pashayogi/CVE-2021-22555) | Linux Kernel 2.6.19 &lt; 5.9 - &#x27;Netfilter Local Privilege Escalation&#x27; | 2023-08-20T14:26:28Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [tukru/CVE-2021-22555](https://github.com/tukru/CVE-2021-22555) | This repo hosts TUKRU&#x27;s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | 2023-08-05T18:56:18Z |
