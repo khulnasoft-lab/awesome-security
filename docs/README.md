@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-16 02:03:30.799384
+Last generated: 2024-08-17 02:00:51.856339
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -212,6 +212,7 @@ Last generated: 2024-08-16 02:03:30.799384
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
+| [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
 | [CVE-2024-40511](https://www.cve.org/CVERecord?id=CVE-2024-40511) | [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511) | OpenPetra v.2023.02 CVE-2024-40511 | 2024-07-13T22:04:53Z |
 | [CVE-2024-40510](https://www.cve.org/CVERecord?id=CVE-2024-40510) | [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510) | OpenPetra v.2023.02 CVE-2024-40510 | 2024-07-13T22:03:17Z |
@@ -479,6 +480,8 @@ Last generated: 2024-08-16 02:03:30.799384
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002) | exploit for CVE-2024-32002 | 2024-06-20T07:37:09Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook) | no description | 2024-07-07T14:50:23Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce) | git clone rce CVE-2024-32002 | 2024-07-03T08:01:39Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce) | no description | 2024-07-20T04:31:26Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc) | no description | 2024-07-20T03:59:35Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
