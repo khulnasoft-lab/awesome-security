@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-17 02:00:51.856339
+Last generated: 2024-08-18 02:07:20.670215
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -233,6 +233,7 @@ Last generated: 2024-08-17 02:00:51.856339
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [airbus-cert/CVE-2024-4040](https://github.com/airbus-cert/CVE-2024-4040) | Scanner for CVE-2024-4040 | 2024-04-23T09:31:29Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-06-28T10:32:51Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-07-05T05:46:56Z |
+| [CVE-2024-40348](https://www.cve.org/CVERecord?id=CVE-2024-40348) | [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348) | POC for CVE-2024-40348. Will attempt to read /etc/passwd from target | 2024-07-21T00:54:55Z |
 | [CVE-2024-40119](https://www.cve.org/CVERecord?id=CVE-2024-40119) | [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119) | Cross-Site Request Forgery (CSRF) vulnerability in the password  change function, which allows remote attackers to change the admin  password without the user&#x27;s consent, leading to a potential account  takeover. | 2024-07-17T03:03:42Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
@@ -252,6 +253,7 @@ Last generated: 2024-08-17 02:00:51.856339
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
+| [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-37889](https://www.cve.org/CVERecord?id=CVE-2024-37889) | [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889) | no description | 2024-06-17T04:50:00Z |
 | [CVE-2024-37888](https://www.cve.org/CVERecord?id=CVE-2024-37888) | [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888) | XSS PoC/Exploit for Open Link Plugin for CKEditor 4 | 2024-06-10T07:00:18Z |
 | [CVE-2024-37843](https://www.cve.org/CVERecord?id=CVE-2024-37843) | [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC) | POC for CVE-2024-37843. Craft CMS time-based blind SQLi | 2024-06-18T02:27:04Z |
@@ -269,6 +271,8 @@ Last generated: 2024-08-17 02:00:51.856339
 | [CVE-2024-37147](https://www.cve.org/CVERecord?id=CVE-2024-37147) | [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC) | no description | 2024-07-11T10:20:00Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
+| [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC) | no description | 2024-07-21T08:42:23Z |
+| [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/-CVE-2024-37081-POC](https://github.com/CERTologists/-CVE-2024-37081-POC) | no description | 2024-07-21T08:41:40Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP) | CVE-2024-37051 poc and exploit | 2024-06-11T16:01:13Z |
 | [CVE-2024-37051](https://www.cve.org/CVERecord?id=CVE-2024-37051) | [mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051) | Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051) | 2024-06-13T09:15:58Z |
 | [CVE-2024-37032](https://www.cve.org/CVERecord?id=CVE-2024-37032) | [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) | Path traversal in Ollama with rogue registry server | 2024-06-26T03:11:29Z |
@@ -781,6 +785,7 @@ Last generated: 2024-08-17 02:00:51.856339
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198) | Proof of Concept for Authentication Bypass in JetBrains TeamCity Pre-2023.11.4 | 2024-03-04T22:44:36Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-](https://github.com/Shimon03/Explora-o-RCE-n-o-autenticado-JetBrains-TeamCity-CVE-2024-27198-) | Em fevereiro de 2024, foi identificado duas novas vulnerabilidades que afetam o servidor JetBrains TeamCity (CVE-2024-27198 e CVE-2024-27199) | 2024-04-02T09:46:51Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Stuub/RCity-CVE-2024-27198](https://github.com/Stuub/RCity-CVE-2024-27198) | CVE-2024-27198 &amp; CVE-2024-27199 PoC - RCE, Admin Account Creation, Enum Users, Server Information | 2024-04-22T22:14:24Z |
+| [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198) | no description | 2024-07-20T17:26:13Z |
 | [CVE-2024-27173](https://www.cve.org/CVERecord?id=CVE-2024-27173) | [Ieakd/0day-POC-for-CVE-2024-27173](https://github.com/Ieakd/0day-POC-for-CVE-2024-27173) | no description | 2024-06-14T07:04:46Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130) | PoC for CVE-2024-27130 | 2024-05-17T07:58:01Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130) | This Python script is designed as a proof-of-concept (PoC) for the CVE-2024-27130 vulnerability in QNAP QTS | 2024-05-21T11:14:22Z |
@@ -898,6 +903,7 @@ Last generated: 2024-08-17 02:00:51.856339
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [OxyDeV2/ClearML-CVE-2024-24590](https://github.com/OxyDeV2/ClearML-CVE-2024-24590) | Proof of concept for CVE-2024-24590 | 2024-06-11T22:30:26Z |
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [DemonPandaz2763/CVE-2024-24590](https://github.com/DemonPandaz2763/CVE-2024-24590) | Another CVE-2024-24590 poc | 2024-06-12T15:07:46Z |
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [junnythemarksman/CVE-2024-24590](https://github.com/junnythemarksman/CVE-2024-24590) | Deserialization of untrusted data can occur in versions 0.17.0 to 1.14.2 of the client SDK of Allegro AI’s ClearML platform, enabling a maliciously uploaded artifact to run arbitrary code on an end user’s system when interacted with. | 2024-06-20T11:23:56Z |
+| [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [sviim/ClearML-CVE-2024-24590-RCE](https://github.com/sviim/ClearML-CVE-2024-24590-RCE) | With this script you can exploit the CVE-2024-24590 | 2024-07-21T04:16:24Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) | Example of CVE-2024-24576 use case. | 2024-04-09T21:17:15Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit) | CVE-2024-24576 Proof of Concept | 2024-04-10T14:06:09Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC) | CVE-2024-27474, CVE-2024-27476, CVE-2024-27477 | 2024-04-04T13:58:33Z |
