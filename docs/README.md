@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-18 02:07:20.670215
+Last generated: 2024-08-19 02:08:31.585401
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
@@ -101,6 +102,7 @@ Last generated: 2024-08-18 02:07:20.670215
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
+| [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
@@ -323,6 +325,7 @@ Last generated: 2024-08-18 02:07:20.670215
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
 | [CVE-2024-34350](https://www.cve.org/CVERecord?id=CVE-2024-34350) | [Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350) | no description | 2024-06-27T14:00:34Z |
 | [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
+| [CVE-2024-34329](https://www.cve.org/CVERecord?id=CVE-2024-34329) | [pamoutaf/CVE-2024-34329](https://github.com/pamoutaf/CVE-2024-34329) | no description | 2024-07-22T17:39:06Z |
 | [CVE-2024-34313](https://www.cve.org/CVERecord?id=CVE-2024-34313) | [vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313) | ☣️  This repository contains the description and a proof of concept for CVE-2024-34313 | 2024-06-23T09:02:07Z |
 | [CVE-2024-34312](https://www.cve.org/CVERecord?id=CVE-2024-34312) | [vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312) | ☣️ This repository contains the description and a proof of concept for CVE-2024-34312 | 2024-06-23T08:37:44Z |
 | [CVE-2024-34310](https://www.cve.org/CVERecord?id=CVE-2024-34310) | [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310) | CVE-2024-34310 | 2024-05-10T13:36:19Z |
@@ -665,6 +668,7 @@ Last generated: 2024-08-18 02:07:20.670215
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [ticofookfook/CVE-2024-29895.py](https://github.com/ticofookfook/CVE-2024-29895.py) | no description | 2024-05-16T20:03:03Z |
 | [CVE-2024-29895](https://www.cve.org/CVERecord?id=CVE-2024-29895) | [Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895) | CVE-2024-29895 - RCE on CACTI 1.3.X dev | 2024-05-17T22:03:29Z |
 | [CVE-2024-29868](https://www.cve.org/CVERecord?id=CVE-2024-29868) | [DEVisions/CVE-2024-29868](https://github.com/DEVisions/CVE-2024-29868) | Proof of concept of CVE-2024-29868 affecting Apache StreamPipes from 0.69.0 through 0.93.0 | 2024-06-24T14:53:05Z |
+| [CVE-2024-29863](https://www.cve.org/CVERecord?id=CVE-2024-29863) | [pawlokk/qlikview-poc-CVE-2024-29863](https://github.com/pawlokk/qlikview-poc-CVE-2024-29863) | PoC for LPE with QlikView | 2024-07-22T07:38:34Z |
 | [CVE-2024-29855](https://www.cve.org/CVERecord?id=CVE-2024-29855) | [sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855) | PoC for the Veeam Recovery Orchestrator Authentication CVE-2024-29855 | 2024-06-13T08:32:55Z |
 | [CVE-2024-29849](https://www.cve.org/CVERecord?id=CVE-2024-29849) | [sinsinology/CVE-2024-29849](https://github.com/sinsinology/CVE-2024-29849) | Veeam Backup Enterprise Manager Authentication Bypass (CVE-2024-29849) | 2024-06-10T06:12:20Z |
 | [CVE-2024-29824](https://www.cve.org/CVERecord?id=CVE-2024-29824) | [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824) | Ivanti EPM SQL Injection Remote Code Execution Vulnerability | 2024-06-12T13:53:32Z |
@@ -894,6 +898,7 @@ Last generated: 2024-08-18 02:07:20.670215
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919) | no description | 2024-06-04T02:53:22Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Cappricio-Securities/CVE-2024-24919](https://github.com/Cappricio-Securities/CVE-2024-24919) | Check Point Security Gateway (LFI) | 2024-06-01T01:33:00Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919) | no description | 2024-07-14T23:26:51Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919) | Hello everyone, I am sharing a modified script from CVE-2024-24919 which can extract paths categorized as critical. | 2024-07-22T06:04:13Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -3174,6 +3179,7 @@ Last generated: 2024-08-18 02:07:20.670215
 | [CVE-2022-40127](https://www.cve.org/CVERecord?id=CVE-2022-40127) | [jakabakos/CVE-2022-40127](https://github.com/jakabakos/CVE-2022-40127) | CVE-2022-40127 PoC and exploit | 2023-07-21T12:55:16Z |
 | [CVE-2022-40032](https://www.cve.org/CVERecord?id=CVE-2022-40032) | [h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40032: Simple Task Managing System - &#x27;login&#x27; and &#x27;password&#x27; SQL Injection (Unauthenticated) | 2023-02-16T01:42:48Z |
 | [CVE-2022-39986](https://www.cve.org/CVERecord?id=CVE-2022-39986) | [tucommenceapousser/RaspAP-CVE-2022-39986-PoC](https://github.com/tucommenceapousser/RaspAP-CVE-2022-39986-PoC) | CVE-2022-39986 PoC | 2023-08-28T03:13:10Z |
+| [CVE-2022-39986](https://www.cve.org/CVERecord?id=CVE-2022-39986) | [mind2hex/CVE-2022-39986](https://github.com/mind2hex/CVE-2022-39986) | bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability | 2023-08-24T16:48:27Z |
 | [CVE-2022-39227](https://www.cve.org/CVERecord?id=CVE-2022-39227) | [user0x1337/CVE-2022-39227](https://github.com/user0x1337/CVE-2022-39227) | CVE-2022-39227 : Proof of Concept | 2023-06-07T11:11:12Z |
 | [CVE-2022-3910](https://www.cve.org/CVERecord?id=CVE-2022-3910) | [veritas501/CVE-2022-3910](https://github.com/veritas501/CVE-2022-3910) | CVE-2022-3910 | 2023-03-14T07:22:25Z |
 | [CVE-2022-3904](https://www.cve.org/CVERecord?id=CVE-2022-3904) | [RandomRobbieBF/CVE-2022-3904](https://github.com/RandomRobbieBF/CVE-2022-3904) | CVE-2022-3904 MonsterInsights &lt; 8.9.1 - Stored Cross-Site Scripting via Google Analytics | 2023-07-12T09:51:32Z |
