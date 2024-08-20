@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-19 02:08:31.585401
+Last generated: 2024-08-20 02:03:41.389217
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
+| [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
@@ -243,6 +244,7 @@ Last generated: 2024-08-19 02:08:31.585401
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929) | Detection method for Exim vulnerability CVE-2024-39929 | 2024-07-12T18:01:30Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
 | [CVE-2024-39689](https://www.cve.org/CVERecord?id=CVE-2024-39689) | [roy-aladin/InfraTest](https://github.com/roy-aladin/InfraTest) | DO NOT FORK, DEPLOY, OR USE FOR ANYTHING BUT LEARNING. These requirements are vulnerable to CVE-2024-39689 | 2024-03-20T14:16:38Z |
+| [CVE-2024-39250](https://www.cve.org/CVERecord?id=CVE-2024-39250) | [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250) | CVE-2024-39250 TimeTrax SQLi | 2024-07-13T20:29:31Z |
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
 | [CVE-2024-39248](https://www.cve.org/CVERecord?id=CVE-2024-39248) | [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248) | Publication for Cross Site Scripting (XSS) in SimpCMS v0.1 - /SimpCMS/admin.php | 2024-06-26T21:06:56Z |
 | [CVE-2024-3922](https://www.cve.org/CVERecord?id=CVE-2024-3922) | [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc) | Dokan Pro &lt;= 3.10.3 - Unauthenticated SQL Injection | 2024-06-12T07:42:10Z |
@@ -758,6 +760,7 @@ Last generated: 2024-08-19 02:08:31.585401
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE) | Valve Press - CVE-2024-27956-RCE - SQL Injection | 2024-06-13T02:05:31Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956) | WordPress Automatic Plugin &lt;= 3.92.0 - SQL Injection | 2024-06-07T04:40:06Z |
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [ThatNotEasy/CVE-2024-27956](https://github.com/ThatNotEasy/CVE-2024-27956) | Perform with massive Wordpress SQLI 2 RCE | 2024-07-11T14:17:23Z |
+| [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [CERTologists/EXPLOITING-CVE-2024-27956](https://github.com/CERTologists/EXPLOITING-CVE-2024-27956) | no description | 2024-07-23T08:24:56Z |
 | [CVE-2024-27815](https://www.cve.org/CVERecord?id=CVE-2024-27815) | [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815) | macOS/ XNU kernel buffer overflow. Introduced in macOS 14.0 (xnu-10002.1.13), fixed in macOS 14.5 (xnu-10063.121.3) | 2024-06-19T22:03:02Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27697](https://www.cve.org/CVERecord?id=CVE-2024-27697) | [SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697) | Arbitrary Code Execution on FuguHub 8.4 | 2024-03-09T22:24:03Z |
@@ -3245,6 +3248,7 @@ Last generated: 2024-08-19 02:08:31.585401
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [0xkol/badspin](https://github.com/0xkol/badspin) | Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421) | 2023-03-23T10:25:59Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pushkarup/CVE-2022-29464](https://github.com/Pushkarup/CVE-2022-29464) | A PoC and Exploit for CVE 2022-29464 | 2023-10-24T18:54:09Z |
 | [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [SynixCyberCrimeMy/CVE-2022-29464](https://github.com/SynixCyberCrimeMy/CVE-2022-29464) | SynixCyberCrimeMY CVE Exploiter By SamuraiMelayu1337 &amp; ?/h4zzzzzz.scc | 2023-11-16T18:16:29Z |
+| [CVE-2022-29464](https://www.cve.org/CVERecord?id=CVE-2022-29464) | [Pasch0/WSO2RCE](https://github.com/Pasch0/WSO2RCE) | CVE-2022-29464 Exploit | 2022-07-05T08:27:04Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455](https://github.com/tucommenceapousser/CVE-2022-29455) | no description | 2023-06-01T01:40:08Z |
 | [CVE-2022-29455](https://www.cve.org/CVERecord?id=CVE-2022-29455) | [tucommenceapousser/CVE-2022-29455-mass](https://github.com/tucommenceapousser/CVE-2022-29455-mass) | no description | 2023-06-01T01:44:45Z |
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z |
@@ -6294,3 +6298,4 @@ Last generated: 2024-08-19 02:08:31.585401
 | CVE NOT FOUND | [saberdhaouadi/OpenSSH_CVE2024_Checking](https://github.com/saberdhaouadi/OpenSSH_CVE2024_Checking) | This script used for Linux systems to check version of openSSH | 2024-07-05T12:06:04Z |
 | CVE NOT FOUND | [ildefonso0/php-7.2.34-CVE-2024](https://github.com/ildefonso0/php-7.2.34-CVE-2024) | no description | 2024-07-07T13:57:59Z |
 | CVE NOT FOUND | [Hack-Oeil/EJS_INJECTION_CVE_2022](https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022) | Injection EJS, reverse shell possible | 2023-11-18T10:38:25Z |
+| CVE NOT FOUND | [higorcamposs/zabbix-security-advisories-cve-database](https://github.com/higorcamposs/zabbix-security-advisories-cve-database) | This template monitors active security advisories and CVEs in the Zabbix environment.  It captures the latest security advisories and CVE information to generate the same view in Zabbix, ensuring continuous monitoring and integration.  Date: 2024-07-18 | 2024-07-22T13:32:52Z |
