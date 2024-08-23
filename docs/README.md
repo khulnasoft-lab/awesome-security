@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-22 02:05:44.124755
+Last generated: 2024-08-23 02:04:34.226944
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -220,6 +220,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2024-41662](https://www.cve.org/CVERecord?id=CVE-2024-41662) | [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662) | Markdown XSS leads to RCE in VNote version &lt;=3.18.1 | 2024-07-23T17:21:12Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker) | no description | 2024-07-25T08:03:15Z |
+| [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
@@ -322,6 +323,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
 | [CVE-2024-34832](https://www.cve.org/CVERecord?id=CVE-2024-34832) | [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832) | CVE-2024-34832 | 2024-05-14T19:15:31Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
+| [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
 | [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
@@ -588,6 +590,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) | Check xz vulnerability (cve_2024_3094) on your system. | 2024-04-20T06:15:57Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094) | Basic POC to test CVE-2024-3094 vulnerability inside K8s cluster | 2024-06-11T14:19:17Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094) | SSH EXPLOIT BYPASS AUTH SSH | 2024-07-05T12:02:10Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up) | GNU IFUNC is the real culprit behind CVE-2024-3094 | 2024-07-05T18:36:16Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
 | [CVE-2024-30850](https://www.cve.org/CVERecord?id=CVE-2024-30850) | [chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc) | CHAOS RAT web panel path RCE PoC | 2024-04-05T21:35:04Z |
@@ -659,6 +662,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-) | 🆘New Windows Kernel Priviledge Escalation Vulnerability | 2024-06-27T07:05:46Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc) | 该漏洞存在于 NtQueryInformationToken 函数中，特别是在处理AuthzBasepCopyoutInternalSecurityAttributes 函数时，该漏洞源于内核在操作对象时对锁定机制的不当管理，这一失误可能导致恶意实体意外提升权限。 | 2024-07-05T16:02:56Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage) | Kernel exploit for Xbox SystemOS using CVE-2024-30088 | 2024-07-15T08:07:05Z |
+| [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [Admin9961/CVE-2024-30088](https://github.com/Admin9961/CVE-2024-30088) | Questa repository contiene una replica (tentativo di replica) scritto in Python per CVE-2024-30088. | 2024-07-27T10:41:33Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
@@ -914,6 +918,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Cappricio-Securities/CVE-2024-24919](https://github.com/Cappricio-Securities/CVE-2024-24919) | Check Point Security Gateway (LFI) | 2024-06-01T01:33:00Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919) | no description | 2024-07-14T23:26:51Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919) | Hello everyone, I am sharing a modified script from CVE-2024-24919 which can extract paths categorized as critical. | 2024-07-22T06:04:13Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919) | no description | 2024-07-26T15:17:58Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -2280,6 +2285,7 @@ Last generated: 2024-08-22 02:05:44.124755
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) | Pwn2Own Vancouver 2023 Ubuntu LPE exploit | 2023-09-01T07:41:23Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-) | nftables oob read/write exploit (CVE-2023-35001) | 2023-09-04T03:25:01Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001) | Exploit CVE-2023-35001 | 2024-01-18T08:24:07Z |
+| [CVE-2023-34992](https://www.cve.org/CVERecord?id=CVE-2023-34992) | [horizon3ai/CVE-2023-34992](https://github.com/horizon3ai/CVE-2023-34992) | CVE-2023-34992: Fortinet FortiSIEM Command Injection Proof of Concept Exploit | 2024-05-17T12:07:14Z |
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z |
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z |
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z |
@@ -6322,3 +6328,4 @@ Last generated: 2024-08-22 02:05:44.124755
 | CVE NOT FOUND | [ildefonso0/php-7.2.34-CVE-2024](https://github.com/ildefonso0/php-7.2.34-CVE-2024) | no description | 2024-07-07T13:57:59Z |
 | CVE NOT FOUND | [Hack-Oeil/EJS_INJECTION_CVE_2022](https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022) | Injection EJS, reverse shell possible | 2023-11-18T10:38:25Z |
 | CVE NOT FOUND | [higorcamposs/zabbix-security-advisories-cve-database](https://github.com/higorcamposs/zabbix-security-advisories-cve-database) | This template monitors active security advisories and CVEs in the Zabbix environment.  It captures the latest security advisories and CVE information to generate the same view in Zabbix, ensuring continuous monitoring and integration.  Date: 2024-07-18 | 2024-07-22T13:32:52Z |
+| CVE NOT FOUND | [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2) | The most advanced software for CVE-2024 exploits and WordPress vulnerabilities with the latest version/method. | 2024-07-25T14:11:32Z |
