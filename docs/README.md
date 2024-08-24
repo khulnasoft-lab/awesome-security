@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-23 02:04:34.226944
+Last generated: 2024-08-24 02:03:50.264126
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -230,6 +230,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-40508](https://www.cve.org/CVERecord?id=CVE-2024-40508) | [Jansen-C-Moreira/CVE-2024-40508](https://github.com/Jansen-C-Moreira/CVE-2024-40508) | OpenPetra v.2023.02 CVE-2024-40508 | 2024-07-13T21:54:07Z |
 | [CVE-2024-40507](https://www.cve.org/CVERecord?id=CVE-2024-40507) | [Jansen-C-Moreira/CVE-2024-40507](https://github.com/Jansen-C-Moreira/CVE-2024-40507) | OpenPetra v.2023.02 Use CVE-2024-40507 | 2024-07-13T21:50:57Z |
 | [CVE-2024-40506](https://www.cve.org/CVERecord?id=CVE-2024-40506) | [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506) | OpenPetra v.2023.02 CVE-2024-40506 | 2024-07-13T21:42:23Z |
+| [CVE-2024-40498](https://www.cve.org/CVERecord?id=CVE-2024-40498) | [Dirac231/CVE-2024-40498](https://github.com/Dirac231/CVE-2024-40498) | no description | 2024-07-29T10:13:15Z |
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
@@ -246,6 +247,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-40348](https://www.cve.org/CVERecord?id=CVE-2024-40348) | [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348) | POC for CVE-2024-40348. Will attempt to read /etc/passwd from target | 2024-07-21T00:54:55Z |
 | [CVE-2024-40348](https://www.cve.org/CVERecord?id=CVE-2024-40348) | [codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC) | Mass Exploit &lt; [CVE-2024-40348 - Bazarr] - Arbitrary File Read | 2024-07-24T16:13:24Z |
 | [CVE-2024-40324](https://www.cve.org/CVERecord?id=CVE-2024-40324) | [aleksey-vi/CVE-2024-40324](https://github.com/aleksey-vi/CVE-2024-40324) | no description | 2024-07-25T13:48:22Z |
+| [CVE-2024-40318](https://www.cve.org/CVERecord?id=CVE-2024-40318) | [3v1lC0d3/RCE-QloApps-CVE-2024-40318](https://github.com/3v1lC0d3/RCE-QloApps-CVE-2024-40318) | Remote code execution Vulnerability in QloApps  (version 1.6.0.0) | 2024-06-27T22:15:16Z |
 | [CVE-2024-40119](https://www.cve.org/CVERecord?id=CVE-2024-40119) | [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119) | Cross-Site Request Forgery (CSRF) vulnerability in the password  change function, which allows remote attackers to change the admin  password without the user&#x27;s consent, leading to a potential account  takeover. | 2024-07-17T03:03:42Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
@@ -324,6 +326,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-34832](https://www.cve.org/CVERecord?id=CVE-2024-34832) | [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832) | CVE-2024-34832 | 2024-05-14T19:15:31Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
+| [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693) | no description | 2024-07-29T04:30:23Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
 | [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
@@ -503,6 +506,8 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce) | git clone rce CVE-2024-32002 | 2024-07-03T08:01:39Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce) | no description | 2024-07-20T04:31:26Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc) | no description | 2024-07-20T03:59:35Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [h3xm4n/CVE-2024-32002](https://github.com/h3xm4n/CVE-2024-32002) | RCE through git recursive cloning. | 2024-07-29T01:06:19Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002) | no description | 2024-07-27T23:44:25Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -1194,6 +1199,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-20696](https://www.cve.org/CVERecord?id=CVE-2024-20696) | [clearbluejar/CVE-2024-20696](https://github.com/clearbluejar/CVE-2024-20696) | no description | 2024-03-08T02:31:41Z |
 | [CVE-2024-20666](https://www.cve.org/CVERecord?id=CVE-2024-20666) | [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666) | PowerShell script that can help you automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2024-20666. | 2024-02-15T13:53:21Z |
 | [CVE-2024-20666](https://www.cve.org/CVERecord?id=CVE-2024-20666) | [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666) | CVE-2024-20666 vulnerability Solution patch failures in the Windows Recovery Environment (WinRE). | 2024-07-01T10:14:40Z |
+| [CVE-2024-20666](https://www.cve.org/CVERecord?id=CVE-2024-20666) | [HYZ3K/CVE-2024-20666](https://github.com/HYZ3K/CVE-2024-20666) | How to Check And Fix 0x80070643 Windows Update Error That Leads To CVE-2024-20666. | 2024-07-27T11:27:08Z |
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [Wh04m1001/CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) | no description | 2024-01-12T15:08:01Z |
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z |
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z |
@@ -1280,6 +1286,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044) | CVE-2024-0044: uma vulnerabilidade de alta gravidade do tipo &quot;executar como qualquer aplicativo&quot; que afeta as versões 12 e 13 do Android | 2024-07-11T18:46:45Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP) | 利用CVE-2024-0044 在Android12、13 没有root&#x27;下进行数据备份 用法./CVE-2024-0044-EXP.sh &lt;package_name&gt; | 2024-07-15T08:45:44Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
+| [CVE-2024-0023](https://www.cve.org/CVERecord?id=CVE-2024-0023) | [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023) | no description | 2024-07-29T09:06:34Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
@@ -2286,6 +2293,7 @@ Last generated: 2024-08-23 02:04:34.226944
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-) | nftables oob read/write exploit (CVE-2023-35001) | 2023-09-04T03:25:01Z |
 | [CVE-2023-35001](https://www.cve.org/CVERecord?id=CVE-2023-35001) | [mrbrelax/Exploit_CVE-2023-35001](https://github.com/mrbrelax/Exploit_CVE-2023-35001) | Exploit CVE-2023-35001 | 2024-01-18T08:24:07Z |
 | [CVE-2023-34992](https://www.cve.org/CVERecord?id=CVE-2023-34992) | [horizon3ai/CVE-2023-34992](https://github.com/horizon3ai/CVE-2023-34992) | CVE-2023-34992: Fortinet FortiSIEM Command Injection Proof of Concept Exploit | 2024-05-17T12:07:14Z |
+| [CVE-2023-34992](https://www.cve.org/CVERecord?id=CVE-2023-34992) | [d0rb/CVE-2023-34992-Checker](https://github.com/d0rb/CVE-2023-34992-Checker) | This script checks if a target host is vulnerable to CVE-2023-34992 by sending a crafted payload to the FortiSIEM appliance. It then analyzes the response to determine if the host is vulnerable. | 2024-05-21T12:30:57Z |
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965) | SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information. | 2023-06-12T12:42:48Z |
 | [CVE-2023-34965](https://www.cve.org/CVERecord?id=CVE-2023-34965) | [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel) | CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch) | 2023-06-12T10:44:59Z |
 | [CVE-2023-34960](https://www.cve.org/CVERecord?id=CVE-2023-34960) | [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE) | Chamilo__CVE-2023-34960_RCE批量扫描poc、exp | 2023-07-18T03:39:44Z |
