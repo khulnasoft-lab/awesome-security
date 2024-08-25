@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-24 02:03:50.264126
+Last generated: 2024-08-25 02:10:08.995098
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -219,6 +219,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
 | [CVE-2024-41662](https://www.cve.org/CVERecord?id=CVE-2024-41662) | [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662) | Markdown XSS leads to RCE in VNote version &lt;=3.18.1 | 2024-07-23T17:21:12Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
+| [CVE-2024-41628](https://www.cve.org/CVERecord?id=CVE-2024-41628) | [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628) | no description | 2024-07-29T07:12:14Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker) | no description | 2024-07-25T08:03:15Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
@@ -353,6 +354,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2024-34222](https://www.cve.org/CVERecord?id=CVE-2024-34222) | [dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222) | CVE-2024-34222 - SQL injection | 2024-05-11T08:20:55Z |
 | [CVE-2024-34221](https://www.cve.org/CVERecord?id=CVE-2024-34221) | [dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221) | CVE-2024-34221 - Insecure pemission | 2024-05-09T10:32:30Z |
 | [CVE-2024-34220](https://www.cve.org/CVERecord?id=CVE-2024-34220) | [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220) | CVE-2024-34220 - SQL injection | 2024-04-27T10:32:10Z |
+| [CVE-2024-34144](https://www.cve.org/CVERecord?id=CVE-2024-34144) | [MXWXZ/CVE-2024-34144](https://github.com/MXWXZ/CVE-2024-34144) | PoC for CVE-2024-34144 | 2024-07-29T03:02:39Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102) | no description | 2024-06-27T16:59:29Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102) | CosmicSting (CVE-2024-34102) | 2024-06-28T23:33:21Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102) | A PoC demonstration ,  critical XML entity injection vulnerability in Magento | 2024-06-28T14:50:29Z |
@@ -851,6 +853,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | 0BL1V10N&#x27;s CVE-2024-25600 for Bricks Builder (TryHackMe) plugin for WordPress exploit | 2024-06-02T10:49:03Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600) | no description | 2024-06-06T02:13:06Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600) | no description | 2024-06-06T03:59:06Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress](https://github.com/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress) | no description | 2024-07-30T09:02:31Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
@@ -1171,6 +1174,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338) | PoC for the Untrusted Pointer Dereference in the appid.sys driver | 2024-04-23T19:09:22Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-) | Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled. | 2024-05-18T15:38:34Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC) | no description | 2024-06-23T06:03:44Z |
+| [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [Crowdfense/CVE-2024-21338](https://github.com/Crowdfense/CVE-2024-21338) | Windows AppLocker Driver (appid.sys) LPE | 2024-07-29T13:18:06Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [PhucHauDeveloper/BadBlue](https://github.com/PhucHauDeveloper/BadBlue) | CVE-2024-21306 BadBlue implementation (Using DuckyScript) | 2024-05-06T02:05:02Z |
 | [CVE-2024-21305](https://www.cve.org/CVERecord?id=CVE-2024-21305) | [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305) | Report and exploit of CVE-2024-21305. | 2023-12-16T23:27:34Z |
@@ -1280,11 +1284,13 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2024-0197](https://www.cve.org/CVERecord?id=CVE-2024-0197) | [ewilded/CVE-2024-0197-POC](https://github.com/ewilded/CVE-2024-0197-POC) | Proof of concept for Local Privilege Escalation in Thales Sentinel HASP LDK. | 2024-02-27T15:25:58Z |
 | [CVE-2024-0195](https://www.cve.org/CVERecord?id=CVE-2024-0195) | [Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195) | SpiderFlow Crawler Platform - Remote Code Execution | 2024-06-11T02:34:34Z |
 | [CVE-2024-0190](https://www.cve.org/CVERecord?id=CVE-2024-0190) | [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC) | no description | 2024-01-02T22:41:35Z |
+| [CVE-2024-0049](https://www.cve.org/CVERecord?id=CVE-2024-0049) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049) | no description | 2024-07-29T11:12:32Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044) | CVE-2024-0044:  a &quot;run-as any app&quot; high-severity vulnerability affecting Android versions 12 and 13 | 2024-06-18T12:30:53Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter) | Exfiltrate sensitive user data from apps on Android 12 and 13 using CVE-2024-0044 vulnerability remotely | 2024-06-18T09:22:59Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP) | 利用 CVE-2024-0044 Android 权限提升下载任意目标App沙箱文件。 | 2024-07-03T10:29:06Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044) | CVE-2024-0044: uma vulnerabilidade de alta gravidade do tipo &quot;executar como qualquer aplicativo&quot; que afeta as versões 12 e 13 do Android | 2024-07-11T18:46:45Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP) | 利用CVE-2024-0044 在Android12、13 没有root&#x27;下进行数据备份 用法./CVE-2024-0044-EXP.sh &lt;package_name&gt; | 2024-07-15T08:45:44Z |
+| [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040) | no description | 2024-07-29T11:45:41Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
 | [CVE-2024-0023](https://www.cve.org/CVERecord?id=CVE-2024-0023) | [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023) | no description | 2024-07-29T09:06:34Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
@@ -1448,6 +1454,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044) | Poc for CVE 2023 5044 | 2024-03-29T18:53:50Z |
 | [CVE-2023-5043](https://www.cve.org/CVERecord?id=CVE-2023-5043) | [r0binak/CVE-2023-5043](https://github.com/r0binak/CVE-2023-5043) | PoC CVE-2023-5043 | 2024-01-15T09:20:35Z |
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387) | KeyTrap (DNSSEC) | 2024-02-18T21:50:04Z |
+| [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [Meirelez/SSR-DNSSEC](https://github.com/Meirelez/SSR-DNSSEC) | In this repository you can find the files used to try to produce a POC for the CVE-2023-50387 | 2024-05-23T14:41:50Z |
 | [CVE-2023-50386](https://www.cve.org/CVERecord?id=CVE-2023-50386) | [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC) | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | 2024-02-29T08:57:47Z |
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z |
@@ -2357,6 +2364,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [paulsery/CVE_2023_3420](https://github.com/paulsery/CVE_2023_3420) | V8 type confusion allows chrome sandbox escape | 2024-01-24T19:21:19Z |
 | [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [keowu/BadRentdrv2](https://github.com/keowu/BadRentdrv2) | A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976). | 2023-10-01T18:24:38Z |
 | [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152) | CVE-2023-34152 | 2023-09-27T03:37:25Z |
+| [CVE-2023-34152](https://www.cve.org/CVERecord?id=CVE-2023-34152) | [SudoIndividual/CVE-2023-34152](https://github.com/SudoIndividual/CVE-2023-34152) | POC for ImageMagick 6.9.6-4. This is a POC which was inspired by fullwaywang discovery of CVE-2023-34152. | 2024-05-23T08:33:06Z |
 | [CVE-2023-34096](https://www.cve.org/CVERecord?id=CVE-2023-34096) | [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096) | Thruk Monitoring Web Interface &lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal). | 2023-06-09T02:17:25Z |
 | [CVE-2023-34092](https://www.cve.org/CVERecord?id=CVE-2023-34092) | [FlapyPan/test-cve-2023-34092](https://github.com/FlapyPan/test-cve-2023-34092) | test-cve-2023-34092 | 2024-01-20T08:46:11Z |
 | [CVE-2023-34092](https://www.cve.org/CVERecord?id=CVE-2023-34092) | [Hkhanbing/cve-2023-poc](https://github.com/Hkhanbing/cve-2023-poc) | no description | 2024-01-20T08:06:17Z |
@@ -2715,6 +2723,7 @@ Last generated: 2024-08-24 02:03:50.264126
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629) | no description | 2024-03-19T22:56:24Z |
+| [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629) | no description | 2024-05-21T23:39:02Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360) | Exploit for Arbitrary File Read for CVE-2023-26360 - Adobe Coldfusion | 2023-12-26T06:26:01Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit](https://github.com/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit) | no description | 2024-05-14T11:22:35Z |
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z |
@@ -6337,3 +6346,4 @@ Last generated: 2024-08-24 02:03:50.264126
 | CVE NOT FOUND | [Hack-Oeil/EJS_INJECTION_CVE_2022](https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022) | Injection EJS, reverse shell possible | 2023-11-18T10:38:25Z |
 | CVE NOT FOUND | [higorcamposs/zabbix-security-advisories-cve-database](https://github.com/higorcamposs/zabbix-security-advisories-cve-database) | This template monitors active security advisories and CVEs in the Zabbix environment.  It captures the latest security advisories and CVE information to generate the same view in Zabbix, ensuring continuous monitoring and integration.  Date: 2024-07-18 | 2024-07-22T13:32:52Z |
 | CVE NOT FOUND | [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2) | The most advanced software for CVE-2024 exploits and WordPress vulnerabilities with the latest version/method. | 2024-07-25T14:11:32Z |
+| CVE NOT FOUND | [cdiwakar/CVE-2024](https://github.com/cdiwakar/CVE-2024) | no description | 2024-07-30T06:09:12Z |
