@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-25 02:10:08.995098
+Last generated: 2024-08-26 02:05:52.666893
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
 | [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
 | [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
@@ -220,10 +221,13 @@ Last generated: 2024-08-25 02:10:08.995098
 | [CVE-2024-41662](https://www.cve.org/CVERecord?id=CVE-2024-41662) | [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662) | Markdown XSS leads to RCE in VNote version &lt;=3.18.1 | 2024-07-23T17:21:12Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
 | [CVE-2024-41628](https://www.cve.org/CVERecord?id=CVE-2024-41628) | [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628) | no description | 2024-07-29T07:12:14Z |
+| [CVE-2024-41302](https://www.cve.org/CVERecord?id=CVE-2024-41302) | [patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection](https://github.com/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection) | Bookea-tu-Mesa is vulnerable to SQL Injection | 2024-07-14T13:01:36Z |
+| [CVE-2024-41301](https://www.cve.org/CVERecord?id=CVE-2024-41301) | [patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting](https://github.com/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting) | no description | 2024-07-14T12:51:17Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker) | no description | 2024-07-25T08:03:15Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
+| [CVE-2024-40617](https://www.cve.org/CVERecord?id=CVE-2024-40617) | [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617) | CVE-2024-40617 Exploit PoC | 2024-07-30T11:50:45Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
 | [CVE-2024-40511](https://www.cve.org/CVERecord?id=CVE-2024-40511) | [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511) | OpenPetra v.2023.02 CVE-2024-40511 | 2024-07-13T22:04:53Z |
 | [CVE-2024-40510](https://www.cve.org/CVERecord?id=CVE-2024-40510) | [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510) | OpenPetra v.2023.02 CVE-2024-40510 | 2024-07-13T22:03:17Z |
@@ -233,6 +237,7 @@ Last generated: 2024-08-25 02:10:08.995098
 | [CVE-2024-40506](https://www.cve.org/CVERecord?id=CVE-2024-40506) | [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506) | OpenPetra v.2023.02 CVE-2024-40506 | 2024-07-13T21:42:23Z |
 | [CVE-2024-40498](https://www.cve.org/CVERecord?id=CVE-2024-40498) | [Dirac231/CVE-2024-40498](https://github.com/Dirac231/CVE-2024-40498) | no description | 2024-07-29T10:13:15Z |
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
+| [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422) | no description | 2024-07-03T21:43:15Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -328,6 +333,7 @@ Last generated: 2024-08-25 02:10:08.995098
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693) | no description | 2024-07-29T04:30:23Z |
+| [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [Mr-r00t11/CVE-2024-34693](https://github.com/Mr-r00t11/CVE-2024-34693) | no description | 2024-07-30T18:02:25Z |
 | [CVE-2024-34582](https://www.cve.org/CVERecord?id=CVE-2024-34582) | [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582) | no description | 2024-05-16T12:40:46Z |
 | [CVE-2024-34474](https://www.cve.org/CVERecord?id=CVE-2024-34474) | [Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474) | Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\Clario and tries to load DLLs from there as SYSTEM. | 2024-05-05T05:28:15Z |
 | [CVE-2024-34472](https://www.cve.org/CVERecord?id=CVE-2024-34472) | [osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472) | no description | 2024-05-05T00:54:56Z |
@@ -510,6 +516,9 @@ Last generated: 2024-08-25 02:10:08.995098
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc) | no description | 2024-07-20T03:59:35Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [h3xm4n/CVE-2024-32002](https://github.com/h3xm4n/CVE-2024-32002) | RCE through git recursive cloning. | 2024-07-29T01:06:19Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002) | no description | 2024-07-27T23:44:25Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002) | GIT RCE CVE-2024-32002 | 2024-07-29T10:00:41Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002) | Just small script to exploit CVE-2024-32002 | 2024-07-30T23:20:51Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC) | PoC of CVE-2024-32002 - Remote Code Execution while cloning special-crafted local repositories | 2024-07-30T14:58:00Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -3218,6 +3227,7 @@ Last generated: 2024-08-25 02:10:08.995098
 | [CVE-2022-4096](https://www.cve.org/CVERecord?id=CVE-2022-4096) | [aminetitrofine/CVE-2022-4096](https://github.com/aminetitrofine/CVE-2022-4096) | This experiment is destinated to demonstrate how the DNS rebinding attack works on an emulated IoT. In the setup, we have a simulated IoT device, which can be controlled through a web interface (this is typical for many IoT devices). | 2023-05-14T13:47:05Z |
 | [CVE-2022-40799](https://www.cve.org/CVERecord?id=CVE-2022-40799) | [rtfmkiesel/CVE-2022-40799](https://github.com/rtfmkiesel/CVE-2022-40799) | D-Link DNR-322L - Authenticated Remote Code Execution | 2023-04-23T20:42:18Z |
 | [CVE-2022-40684](https://www.cve.org/CVERecord?id=CVE-2022-40684) | [Anthony1500/CVE-2022-40684](https://github.com/Anthony1500/CVE-2022-40684) | no description | 2023-09-14T21:29:03Z |
+| [CVE-2022-40635](https://www.cve.org/CVERecord?id=CVE-2022-40635) | [mbadanoiu/CVE-2022-40635](https://github.com/mbadanoiu/CVE-2022-40635) | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | 2023-12-01T10:28:27Z |
 | [CVE-2022-40634](https://www.cve.org/CVERecord?id=CVE-2022-40634) | [mbadanoiu/CVE-2022-40634](https://github.com/mbadanoiu/CVE-2022-40634) | CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS | 2023-12-01T10:06:17Z |
 | [CVE-2022-4061](https://www.cve.org/CVERecord?id=CVE-2022-4061) | [im-hanzou/JBWPer](https://github.com/im-hanzou/JBWPer) | Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP &lt; 1.2.2 - Unauthenticated Arbitrary File Upload | 2023-09-17T03:20:23Z |
 | [CVE-2022-4061](https://www.cve.org/CVERecord?id=CVE-2022-4061) | [im-hanzou/UPGer](https://github.com/im-hanzou/UPGer) | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery &lt;= 2.19 - Unauthenticated RCE | 2023-09-15T21:38:47Z |
