@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-26 02:05:52.666893
+Last generated: 2024-08-27 02:06:06.771954
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -260,6 +260,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929) | Detection method for Exim vulnerability CVE-2024-39929 | 2024-07-12T18:01:30Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
+| [CVE-2024-39700](https://www.cve.org/CVERecord?id=CVE-2024-39700) | [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC) | CVE-2024-39700 Proof of Concept | 2024-07-29T08:33:12Z |
 | [CVE-2024-39689](https://www.cve.org/CVERecord?id=CVE-2024-39689) | [roy-aladin/InfraTest](https://github.com/roy-aladin/InfraTest) | DO NOT FORK, DEPLOY, OR USE FOR ANYTHING BUT LEARNING. These requirements are vulnerable to CVE-2024-39689 | 2024-03-20T14:16:38Z |
 | [CVE-2024-39250](https://www.cve.org/CVERecord?id=CVE-2024-39250) | [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250) | CVE-2024-39250 TimeTrax SQLi | 2024-07-13T20:29:31Z |
 | [CVE-2024-39249](https://www.cve.org/CVERecord?id=CVE-2024-39249) | [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249) | no description | 2024-06-26T17:30:02Z |
@@ -268,6 +269,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2024-39211](https://www.cve.org/CVERecord?id=CVE-2024-39211) | [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211) | CVE-2024-39211 | 2024-07-04T09:24:34Z |
 | [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
+| [CVE-2024-39081](https://www.cve.org/CVERecord?id=CVE-2024-39081) | [Amirasaiyad/BLE-TPMS](https://github.com/Amirasaiyad/BLE-TPMS) | CVE-2024-39081. BLE TPMS data manipulation over bluetooth communication. | 2024-04-05T05:13:27Z |
 | [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
 | [CVE-2024-39031](https://www.cve.org/CVERecord?id=CVE-2024-39031) | [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031) | Stored Cross-Side Scripting (XSS) leads to privilege escalation in SilverPeas social-networking portal | 2024-07-08T23:21:52Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
@@ -304,6 +306,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991) | Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows | 2024-07-06T01:00:57Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10 that allows reading sensitive files. | 2024-07-10T09:42:08Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991) | POC for CVE-2024-36991: This exploit will attempt to read Splunk /etc/passwd file. | 2024-07-06T00:49:40Z |
+| [CVE-2024-36842](https://www.cve.org/CVERecord?id=CVE-2024-36842) | [abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-) | CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script! | 2024-05-09T12:28:11Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
@@ -936,6 +939,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919) | no description | 2024-07-14T23:26:51Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919) | Hello everyone, I am sharing a modified script from CVE-2024-24919 which can extract paths categorized as critical. | 2024-07-22T06:04:13Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919) | no description | 2024-07-26T15:17:58Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919) | no description | 2024-07-31T09:55:29Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
@@ -1694,6 +1698,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2023-46451](https://www.cve.org/CVERecord?id=CVE-2023-46451) | [sajaljat/CVE-2023-46451](https://github.com/sajaljat/CVE-2023-46451) | no description | 2023-10-26T12:34:03Z |
 | [CVE-2023-46450](https://www.cve.org/CVERecord?id=CVE-2023-46450) | [yte121/-CVE-2023-46450](https://github.com/yte121/-CVE-2023-46450) | CVE-2023-46450 reference | 2023-10-26T12:30:21Z |
 | [CVE-2023-46449](https://www.cve.org/CVERecord?id=CVE-2023-46449) | [sajaljat/CVE-2023-46449](https://github.com/sajaljat/CVE-2023-46449) | no description | 2023-10-26T12:03:29Z |
+| [CVE-2023-46442](https://www.cve.org/CVERecord?id=CVE-2023-46442) | [JAckLosingHeart/CVE-2023-46442_POC](https://github.com/JAckLosingHeart/CVE-2023-46442_POC) | POC for CVE-2023-46442 Denial of Service vulnerability found within Soot | 2024-05-24T10:03:38Z |
 | [CVE-2023-46404](https://www.cve.org/CVERecord?id=CVE-2023-46404) | [windecks/CVE-2023-46404](https://github.com/windecks/CVE-2023-46404) | PoC and Writeup for CVE-2023-46404. | 2023-10-26T15:01:32Z |
 | [CVE-2023-4636](https://www.cve.org/CVERecord?id=CVE-2023-4636) | [ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636) | Unauthenticated Remote Code Execution with default Imagick | 2023-12-13T17:59:02Z |
 | [CVE-2023-46344](https://www.cve.org/CVERecord?id=CVE-2023-46344) | [vinnie1717/CVE-2023-46344](https://github.com/vinnie1717/CVE-2023-46344) | no description | 2023-12-28T23:29:53Z |
@@ -2781,6 +2786,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136) | Looking into the memory when sshd 9.1p1 aborts due to a double free bug. | 2023-09-04T19:28:43Z |
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136) | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | 2023-09-21T12:05:35Z |
 | [CVE-2023-24955](https://www.cve.org/CVERecord?id=CVE-2023-24955) | [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC) | Exploit for Microsoft SharePoint 2019 | 2023-12-28T09:08:47Z |
+| [CVE-2023-24932](https://www.cve.org/CVERecord?id=CVE-2023-24932) | [ChristelVDH/Invoke-BlackLotusMitigation](https://github.com/ChristelVDH/Invoke-BlackLotusMitigation) | scripted CVE-2023-24932 mitigation guide | 2024-05-23T17:49:17Z |
 | [CVE-2023-24706](https://www.cve.org/CVERecord?id=CVE-2023-24706) | [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706) | CVE-2023-24706 | 2023-11-10T05:43:52Z |
 | [CVE-2023-24517](https://www.cve.org/CVERecord?id=CVE-2023-24517) | [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517) | no description | 2023-10-15T14:55:12Z |
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z |
@@ -3808,8 +3814,10 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [b-abderrahmane/CVE-2021-29447-POC](https://github.com/b-abderrahmane/CVE-2021-29447-POC) | no description | 2022-11-05T21:00:03Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [CreeperHost/Log4jPatcher](https://github.com/CreeperHost/Log4jPatcher) | A mitigation for CVE-2021-44228 (log4shell) that works by patching the vulnerability at runtime. (Works with any vulnerable java software, tested with java 6 and newer) | 2021-12-10T09:16:46Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [Val-Resh/CVE-2021-29447-POC](https://github.com/Val-Resh/CVE-2021-29447-POC) | Proof of Concept for CVE-2021-29447 written in Python | 2022-11-06T12:13:31Z |
+| [CVE-2021-29442](https://www.cve.org/CVERecord?id=CVE-2021-29442) | [VictorShem/QVD-2024-26473](https://github.com/VictorShem/QVD-2024-26473) | QVD-2024-26473 &amp;&amp; CVE-2021-29442 | 2024-07-31T03:56:30Z |
 | [CVE-2021-29156](https://www.cve.org/CVERecord?id=CVE-2021-29156) | [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156) | Proof-of-Concept tool for CVE-2021-29156, an LDAP injection vulnerability in ForgeRock OpenAM v13.0.0. | 2021-11-03T13:21:50Z |
 | [CVE-2021-29003](https://www.cve.org/CVERecord?id=CVE-2021-29003) | [jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003) | no description | 2021-09-15T06:14:47Z |
+| [CVE-2021-28164](https://www.cve.org/CVERecord?id=CVE-2021-28164) | [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-) | jetty /CVE-2021-28164/분석 및 결과 | 2023-10-31T14:59:29Z |
 | [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [LalieA/CVE-2021-27928](https://github.com/LalieA/CVE-2021-27928) | A Proof of Concept for the CVE-2021-27928 flaw exploitation | 2022-12-14T17:36:38Z |
 | [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [YourKeeper/SunScope](https://github.com/YourKeeper/SunScope) | Inspired by Ambassador on HackTheBox to exploit the now patched CVE-2021-43798 | 2022-12-14T05:11:57Z |
 | [CVE-2021-27928](https://www.cve.org/CVERecord?id=CVE-2021-27928) | [Al1ex/CVE-2021-27928](https://github.com/Al1ex/CVE-2021-27928) | CVE-2021-27928 MariaDB/MySQL-&#x27;wsrep provider&#x27; 命令注入漏洞 | 2021-04-15T06:40:49Z |
@@ -6199,6 +6207,7 @@ Last generated: 2024-08-26 02:05:52.666893
 | [CVE-2007-5962](https://www.cve.org/CVERecord?id=CVE-2007-5962) | [antogit-sys/CVE-2007-5962](https://github.com/antogit-sys/CVE-2007-5962) | vsftpd 2.0.5 - &#x27;CWD&#x27; (Authenticated) Remote Memory Consumption | 2023-05-22T07:57:44Z |
 | [CVE-2007-5036](https://www.cve.org/CVERecord?id=CVE-2007-5036) | [alt3kx/CVE-2007-5036](https://github.com/alt3kx/CVE-2007-5036) | Airsensor M520 - HTTPd Unauthenticated Remote Denial of Service / Buffer Overflow (PoC) | 2018-04-03T01:09:40Z |
 | [CVE-2007-4607](https://www.cve.org/CVERecord?id=CVE-2007-4607) | [joeyrideout/CVE-2007-4607](https://github.com/joeyrideout/CVE-2007-4607) | Make CVE-2007-4607 exploitable again! | 2018-09-27T02:22:45Z |
+| [CVE-2007-4559](https://www.cve.org/CVERecord?id=CVE-2007-4559) | [JamesDarf/tarpioka](https://github.com/JamesDarf/tarpioka) | YISF 2024 CTF-Web Directory (Traversal via &quot;.tar&quot; file, CVE-2007-4559), easy | 2024-07-07T16:37:22Z |
 | [CVE-2007-3831](https://www.cve.org/CVERecord?id=CVE-2007-3831) | [alt3kx/CVE-2007-3831](https://github.com/alt3kx/CVE-2007-3831) | PHP remote file inclusion in main.php in ISS Proventia Network IPS GX5108 1.3 and GX5008 1.5 | 2018-05-11T02:02:21Z |
 | [CVE-2007-3830](https://www.cve.org/CVERecord?id=CVE-2007-3830) | [alt3kx/CVE-2007-3830](https://github.com/alt3kx/CVE-2007-3830) | IBM Proventia Sensor Appliance - Multiple Input Validation Vulnerabilities | 2018-04-03T01:18:41Z |
 | [CVE-2007-2447](https://www.cve.org/CVERecord?id=CVE-2007-2447) | [MikeRega7/CVE-2007-2447-RCE](https://github.com/MikeRega7/CVE-2007-2447-RCE) | Samba 3.0.20 | 2023-06-15T20:13:17Z |
