@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-28 02:07:25.853410
+Last generated: 2024-08-29 02:08:13.041942
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
 | [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
 | [CVE-2024-6536](https://www.cve.org/CVERecord?id=CVE-2024-6536) | [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536) | no description | 2024-07-31T14:31:56Z |
+| [CVE-2024-6529](https://www.cve.org/CVERecord?id=CVE-2024-6529) | [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529) | no description | 2024-08-02T20:02:39Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
@@ -268,6 +269,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
 | [CVE-2024-39700](https://www.cve.org/CVERecord?id=CVE-2024-39700) | [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC) | CVE-2024-39700 Proof of Concept | 2024-07-29T08:33:12Z |
 | [CVE-2024-39689](https://www.cve.org/CVERecord?id=CVE-2024-39689) | [roy-aladin/InfraTest](https://github.com/roy-aladin/InfraTest) | DO NOT FORK, DEPLOY, OR USE FOR ANYTHING BUT LEARNING. These requirements are vulnerable to CVE-2024-39689 | 2024-03-20T14:16:38Z |
+| [CVE-2024-39614](https://www.cve.org/CVERecord?id=CVE-2024-39614) | [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614) | no description | 2024-08-02T20:11:29Z |
 | [CVE-2024-39306](https://www.cve.org/CVERecord?id=CVE-2024-39306) | [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306) | no description | 2024-07-31T14:57:03Z |
 | [CVE-2024-39304](https://www.cve.org/CVERecord?id=CVE-2024-39304) | [apena-ba/CVE-2024-39304](https://github.com/apena-ba/CVE-2024-39304) | no description | 2024-07-31T14:48:57Z |
 | [CVE-2024-39250](https://www.cve.org/CVERecord?id=CVE-2024-39250) | [efrann/CVE-2024-39250](https://github.com/efrann/CVE-2024-39250) | CVE-2024-39250 TimeTrax SQLi | 2024-07-13T20:29:31Z |
@@ -282,6 +284,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-39031](https://www.cve.org/CVERecord?id=CVE-2024-39031) | [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031) | Stored Cross-Side Scripting (XSS) leads to privilege escalation in SilverPeas social-networking portal | 2024-07-08T23:21:52Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
+| [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473) | no description | 2024-08-02T19:57:52Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
@@ -301,6 +304,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-37726](https://www.cve.org/CVERecord?id=CVE-2024-37726) | [NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) | no description | 2024-07-07T09:21:21Z |
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37147](https://www.cve.org/CVERecord?id=CVE-2024-37147) | [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC) | no description | 2024-07-11T10:20:00Z |
+| [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085) | Vulnerability Scanner for CVE-2024-37085 and Exploits ( For Educational Purpose only) | 2024-08-02T13:31:59Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC) | no description | 2024-07-21T08:42:23Z |
@@ -326,6 +330,8 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401) | Exploiter a Vulnerability detection and Exploitation tool for GeoServer Unauthenticated Remote Code Execution CVE-2024-36401. | 2024-07-05T15:24:50Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE) | no description | 2024-07-12T07:01:12Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [ahisec/geoserver-](https://github.com/ahisec/geoserver-) | geoserver CVE-2024-36401漏洞利用工具 | 2024-07-17T02:25:21Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401) | GeoServer Remote Code Execution | 2024-07-30T18:43:40Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC) | no description | 2024-08-01T21:22:51Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -533,6 +539,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002) | GIT RCE CVE-2024-32002 | 2024-07-29T10:00:41Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002) | Just small script to exploit CVE-2024-32002 | 2024-07-30T23:20:51Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC) | PoC of CVE-2024-32002 - Remote Code Execution while cloning special-crafted local repositories | 2024-07-30T14:58:00Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002) | A Reverse shell generator for gitlab-shell vulnerability cve 2024-32002 | 2024-07-28T14:22:01Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -1880,6 +1887,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [johnossawy/CVE-2023-42793_POC](https://github.com/johnossawy/CVE-2023-42793_POC) | no description | 2024-01-07T22:29:18Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793) | JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE), CVE-2023-42793 | 2024-04-24T16:33:20Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793) | JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation | 2024-04-21T13:52:28Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793) | TeamCity CVE-2023-42793 exploit written in Rust | 2024-05-27T03:31:57Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
@@ -2573,6 +2581,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2023-30367](https://www.cve.org/CVERecord?id=CVE-2023-30367) | [costacoco/Adiscon](https://github.com/costacoco/Adiscon) | CVE-2023-34600 | 2023-06-16T08:30:10Z |
 | [CVE-2023-30347](https://www.cve.org/CVERecord?id=CVE-2023-30347) | [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347) | Reflected Cross-Site-Scripting | 2023-06-21T07:03:43Z |
 | [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup) | no description | 2024-01-27T06:01:02Z |
+| [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253) | Dolibarr before 17.0.1 allows remote code execution by an authenticated user via an uppercase manipulation: &lt;?PHP instead of &lt;?php in injected data. | 2024-05-26T15:43:08Z |
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z |
@@ -3193,6 +3202,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Vagebondcur/IMAGE-MAGICK-CVE-2022-44268](https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268) | no description | 2023-10-13T15:43:49Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [Sybil-Scan/imagemagick-lfi-poc](https://github.com/Sybil-Scan/imagemagick-lfi-poc) | ImageMagick LFI PoC [CVE-2022-44268] | 2023-02-06T10:44:43Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [NataliSemi/-CVE-2022-44268](https://github.com/NataliSemi/-CVE-2022-44268) | no description | 2023-11-14T21:54:17Z |
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [CygnusX-26/CVE-2022-44268-fixed-PoC](https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC) | no description | 2023-12-04T08:48:28Z |
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z |
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z |
 | [CVE-2022-43959](https://www.cve.org/CVERecord?id=CVE-2022-43959) | [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959) | Bitrix Vulnerability CVE-2022-43959 | 2022-10-28T08:52:17Z |
@@ -3294,6 +3304,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [Decstor5/2022-32250LPE](https://github.com/Decstor5/2022-32250LPE) | CVE-2022-32250-LPE | 2023-11-09T12:27:26Z |
 | [CVE-2022-32199](https://www.cve.org/CVERecord?id=CVE-2022-32199) | [Toxich4/CVE-2022-32199](https://github.com/Toxich4/CVE-2022-32199) | no description | 2023-03-25T08:49:58Z |
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [dkstar11q/CVE-2022-31814](https://github.com/dkstar11q/CVE-2022-31814) | pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2023-03-26T17:22:40Z |
+| [CVE-2022-31692](https://www.cve.org/CVERecord?id=CVE-2022-31692) | [hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692) | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | 2023-10-29T17:31:23Z |
 | [CVE-2022-31007](https://www.cve.org/CVERecord?id=CVE-2022-31007) | [gregscharf/CVE-2022-31007-Python-POC](https://github.com/gregscharf/CVE-2022-31007-Python-POC) | elabFTW &lt; 4.1.0 - account lockout bypass and login brute force | 2022-12-01T22:53:59Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [yosef0x01/CVE-2022-30507-PoC](https://github.com/yosef0x01/CVE-2022-30507-PoC) | PoC for Arbitrary Code Execution in Notable | 2022-07-16T15:55:28Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [hotblac/text4shell](https://github.com/hotblac/text4shell) | A demonstration of CVE-2022-42889 (text4shell) remote code execution vulnerability | 2023-03-01T20:56:37Z |
@@ -4086,6 +4097,7 @@ Last generated: 2024-08-28 02:07:25.853410
 | [CVE-2020-14882](https://www.cve.org/CVERecord?id=CVE-2020-14882) | [nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882) | no description | 2023-04-11T08:38:47Z |
 | [CVE-2020-14882](https://www.cve.org/CVERecord?id=CVE-2020-14882) | [Serendipity-Lucky/CVE-2020-14882_ALL](https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL) | 综合利用工具 | 2023-02-24T11:44:06Z |
 | [CVE-2020-14882](https://www.cve.org/CVERecord?id=CVE-2020-14882) | [Manor99/CVE-2020-14882-](https://github.com/Manor99/CVE-2020-14882-) | no description | 2022-12-31T23:17:40Z |
+| [CVE-2020-14882](https://www.cve.org/CVERecord?id=CVE-2020-14882) | [lolminerxmrig/CVE-2020-14882_ALL](https://github.com/lolminerxmrig/CVE-2020-14882_ALL) | 综合利用工具 | 2023-02-28T14:30:09Z |
 | [CVE-2020-1472](https://www.cve.org/CVERecord?id=CVE-2020-1472) | [SecuraBV/CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) | Test tool for CVE-2020-1472 | 2020-09-08T08:58:37Z |
 | [CVE-2020-1472](https://www.cve.org/CVERecord?id=CVE-2020-1472) | [G0urmetD/Zerologon-CVE-2020-1472](https://github.com/G0urmetD/Zerologon-CVE-2020-1472) | Zerologon exploit for CVE-2020-1472 | 2023-05-05T15:46:06Z |
 | [CVE-2020-1472](https://www.cve.org/CVERecord?id=CVE-2020-1472) | [Akash7350/CVE-2020-1472](https://github.com/Akash7350/CVE-2020-1472) | no description | 2023-04-30T16:41:55Z |
@@ -6384,3 +6396,4 @@ Last generated: 2024-08-28 02:07:25.853410
 | CVE NOT FOUND | [higorcamposs/zabbix-security-advisories-cve-database](https://github.com/higorcamposs/zabbix-security-advisories-cve-database) | This template monitors active security advisories and CVEs in the Zabbix environment.  It captures the latest security advisories and CVE information to generate the same view in Zabbix, ensuring continuous monitoring and integration.  Date: 2024-07-18 | 2024-07-22T13:32:52Z |
 | CVE NOT FOUND | [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2) | The most advanced software for CVE-2024 exploits and WordPress vulnerabilities with the latest version/method. | 2024-07-25T14:11:32Z |
 | CVE NOT FOUND | [cdiwakar/CVE-2024](https://github.com/cdiwakar/CVE-2024) | no description | 2024-07-30T06:09:12Z |
+| CVE NOT FOUND | [Abdurahmon3236/CVE-2024-poc-s](https://github.com/Abdurahmon3236/CVE-2024-poc-s) | new poc&#x27;s | 2024-08-02T11:31:59Z |
