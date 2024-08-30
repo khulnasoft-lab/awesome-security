@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-08-29 02:08:13.041942
+Last generated: 2024-08-30 02:09:04.780163
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -114,6 +114,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
+| [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
@@ -145,6 +146,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [tequilasunsh1ne/CVE_2024_4879](https://github.com/tequilasunsh1ne/CVE_2024_4879) | no description | 2024-07-15T02:51:34Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow) | Exploit for CVE-2024-4879 affecting Vancouver, Washington DC Now and Utah Platform releases | 2024-07-16T04:03:28Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879) | no description | 2024-07-15T12:27:33Z |
+| [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning) | CVE-2024-4879 &amp; CVE-2024-5217 ServiceNow RCE Scanning Using Nuclei &amp; Shodan Dork to find it. | 2024-07-28T06:51:33Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -261,6 +263,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2024-40324](https://www.cve.org/CVERecord?id=CVE-2024-40324) | [aleksey-vi/CVE-2024-40324](https://github.com/aleksey-vi/CVE-2024-40324) | no description | 2024-07-25T13:48:22Z |
 | [CVE-2024-40318](https://www.cve.org/CVERecord?id=CVE-2024-40318) | [3v1lC0d3/RCE-QloApps-CVE-2024-40318](https://github.com/3v1lC0d3/RCE-QloApps-CVE-2024-40318) | Remote code execution Vulnerability in QloApps  (version 1.6.0.0) | 2024-06-27T22:15:16Z |
 | [CVE-2024-40119](https://www.cve.org/CVERecord?id=CVE-2024-40119) | [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119) | Cross-Site Request Forgery (CSRF) vulnerability in the password  change function, which allows remote attackers to change the admin  password without the user&#x27;s consent, leading to a potential account  takeover. | 2024-07-17T03:03:42Z |
+| [CVE-2024-40110](https://www.cve.org/CVERecord?id=CVE-2024-40110) | [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110) | no description | 2024-08-02T20:17:25Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
@@ -321,6 +324,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2024-36842](https://www.cve.org/CVERecord?id=CVE-2024-36842) | [abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-) | CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script! | 2024-05-09T12:28:11Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
+| [CVE-2024-36539](https://www.cve.org/CVERecord?id=CVE-2024-36539) | [Abdurahmon3236/CVE-2024-36539](https://github.com/Abdurahmon3236/CVE-2024-36539) | no description | 2024-08-03T06:37:21Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
 | [CVE-2024-36416](https://www.cve.org/CVERecord?id=CVE-2024-36416) | [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416) | Tool for validating / testing CVE-2024-36416 | 2024-06-09T07:18:54Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401) | POC for CVE-2024-36401. This POC will attempt to establish a reverse shell from the vlun targets. | 2024-07-04T13:19:47Z |
@@ -978,6 +982,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo) | This is a simple demo for the BadBatBut vulnerability CVE-2024-24576 | 2024-04-12T23:36:05Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [SheL3G/CVE-2024-24576-PoC-BatBadBut](https://github.com/SheL3G/CVE-2024-24576-PoC-BatBadBut) | PoC for CVE-2024-24576 vulnerability &quot;BatBadBut&quot; | 2024-04-21T13:42:28Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust) | no description | 2024-04-20T18:54:00Z |
+| [CVE-2024-24549](https://www.cve.org/CVERecord?id=CVE-2024-24549) | [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549) | no description | 2024-08-02T21:05:34Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
@@ -2582,6 +2587,7 @@ Last generated: 2024-08-29 02:08:13.041942
 | [CVE-2023-30347](https://www.cve.org/CVERecord?id=CVE-2023-30347) | [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347) | Reflected Cross-Site-Scripting | 2023-06-21T07:03:43Z |
 | [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup) | no description | 2024-01-27T06:01:02Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253) | Dolibarr before 17.0.1 allows remote code execution by an authenticated user via an uppercase manipulation: &lt;?PHP instead of &lt;?php in injected data. | 2024-05-26T15:43:08Z |
+| [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [04Shivam/CVE-2023-30253-Exploit](https://github.com/04Shivam/CVE-2023-30253-Exploit) | Poc for CVE-2023-30253 | 2024-05-27T11:00:43Z |
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z |
