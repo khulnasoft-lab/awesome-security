@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-01 02:20:56.555862
+Last generated: 2024-09-02 02:10:47.915671
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC) | Mass Exploit &lt; [CVE-2024-7120 - Raisecom] - Command Injection | 2024-08-01T17:39:45Z |
+| [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782) | Calibre 远程代码执行（CVE-2024-6782）Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-06T15:31:48Z |
 | [CVE-2024-6704](https://www.cve.org/CVERecord?id=CVE-2024-6704) | [codeb0ss/CVE-2024-6704](https://github.com/codeb0ss/CVE-2024-6704) | CVE-2024-6704 - [Wordpress wpDiscuz_Plugin] &lt; Unauthenticated HTML Injection Exploiter | 2024-08-03T22:33:57Z |
 | [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
 | [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
@@ -102,6 +103,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [prelearn-code/CVE-2024-6387](https://github.com/prelearn-code/CVE-2024-6387) | no description | 2024-07-25T02:32:19Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [alex14324/ssh_poc2024](https://github.com/alex14324/ssh_poc2024) | An exploit for CVE-2024-6387, targeting a signal handler race condition in OpenSSH&#x27;s server | 2024-07-31T14:19:19Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
+| [CVE-2024-6222](https://www.cve.org/CVERecord?id=CVE-2024-6222) | [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222) | Docker Extension/Dashboard RCE Vulnerability | 2024-08-06T18:20:46Z |
 | [CVE-2024-6050](https://www.cve.org/CVERecord?id=CVE-2024-6050) | [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050) | Reflected XSS in SOWA OPAC | 2024-07-01T14:31:37Z |
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
@@ -250,6 +252,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
 | [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422) | no description | 2024-07-03T21:43:15Z |
 | [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [codeb0ss/CVE-2024-40422-PoC](https://github.com/codeb0ss/CVE-2024-40422-PoC) | Mass Exploit &lt; [CVE-2024-40422 - Devika v1] - Path Traversal | 2024-08-05T22:21:06Z |
+| [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [j3r1ch0123/CVE-2024-40422](https://github.com/j3r1ch0123/CVE-2024-40422) | Found this on exploit-db, decided to make my own for practice. This exploit will search out the passwd file and print the contents on a vulnerable system. | 2024-08-06T07:09:47Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rbih-boulanouar/CVE-2024-4040](https://github.com/rbih-boulanouar/CVE-2024-4040) | no description | 2024-04-25T04:45:38Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [tucommenceapousser/CVE-2024-4040-Scanner](https://github.com/tucommenceapousser/CVE-2024-4040-Scanner) | Scanner of vulnerability on crushftp instance | 2024-04-25T04:01:23Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [Mufti22/CVE-2024-4040](https://github.com/Mufti22/CVE-2024-4040) | A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server. | 2024-04-25T05:18:06Z |
@@ -296,6 +299,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2024-38472](https://www.cve.org/CVERecord?id=CVE-2024-38472) | [Abdurahmon3236/CVE-2024-38472](https://github.com/Abdurahmon3236/CVE-2024-38472) | no description | 2024-08-03T16:08:28Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
+| [CVE-2024-38100](https://www.cve.org/CVERecord?id=CVE-2024-38100) | [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC) | CVE-2024-38100 Windows Leaked Wallpaper Escelation to RCE vulnerability | 2024-08-06T18:26:50Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-37889](https://www.cve.org/CVERecord?id=CVE-2024-37889) | [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889) | no description | 2024-06-17T04:50:00Z |
@@ -314,6 +318,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2024-37393](https://www.cve.org/CVERecord?id=CVE-2024-37393) | [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393) | Vulnerability check script for CVE-2024-37393 (SecurEnvoy MFA 9.4.513) | 2024-06-10T12:42:57Z |
 | [CVE-2024-37147](https://www.cve.org/CVERecord?id=CVE-2024-37147) | [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC) | no description | 2024-07-11T10:20:00Z |
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085) | Vulnerability Scanner for CVE-2024-37085 and Exploits ( For Educational Purpose only) | 2024-08-02T13:31:59Z |
+| [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC) | CVE-2024-37085 VMware ESXi RCE Vulnerability | 2024-08-06T18:23:43Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC) | no description | 2024-07-21T08:42:23Z |
@@ -1068,6 +1073,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [murataydemir/CVE-2024-23897](https://github.com/murataydemir/CVE-2024-23897) | [CVE-2024-23897] Jenkins CI Authenticated Arbitrary File Read Through the CLI Leads to Remote Code Execution (RCE) | 2024-05-07T11:00:03Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Maalfer/CVE-2024-23897](https://github.com/Maalfer/CVE-2024-23897) | Poc para explotar la vulnerabilidad CVE-2024-23897 en versiones 2.441 y anteriores de Jenkins, mediante la cual podremos leer archivos internos del sistema sin estar autenticados | 2024-05-16T09:32:51Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Surko888/Surko-Exploit-Jenkins-CVE-2024-23897](https://github.com/Surko888/Surko-Exploit-Jenkins-CVE-2024-23897) | Un exploit con el que puedes aprovecharte de la vulnerabilidad (CVE-2024-23897) | 2024-05-26T09:35:54Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [NoSpaceAvailable/CVE-2024-23897](https://github.com/NoSpaceAvailable/CVE-2024-23897) | Reproduce CVE-2024–23897 | 2024-08-06T05:27:50Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -1728,6 +1734,7 @@ Last generated: 2024-09-01 02:20:56.555862
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) | ActiveMQ RCE (CVE-2023-46604) 回显利用工具 | 2024-03-05T07:09:21Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604) | A go-exploit for Apache ActiveMQ CVE-2023-46604 | 2024-04-17T13:10:34Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [thinkycx/activemq-rce-cve-2023-46604](https://github.com/thinkycx/activemq-rce-cve-2023-46604) | activemq-rce-cve-2023-46604 | 2024-04-26T11:42:57Z |
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) | CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise. | 2024-05-29T14:56:41Z |
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z |
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z |
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z |
