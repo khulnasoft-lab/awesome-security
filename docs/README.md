@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-02 02:10:47.915671
+Last generated: 2024-09-03 02:07:59.950651
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -225,8 +225,11 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
+| [CVE-2024-4320](https://www.cve.org/CVERecord?id=CVE-2024-4320) | [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320) | no description | 2024-08-08T03:54:38Z |
+| [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc) | no description | 2024-06-14T07:04:36Z |
+| [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -412,6 +415,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bughuntar/CVE-2024-34102-Python](https://github.com/bughuntar/CVE-2024-34102-Python) | CVE-2024-34102 Exploiter based on Python | 2024-07-13T17:31:10Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC) | CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce | 2024-08-01T17:36:33Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE) | CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce | 2024-07-30T04:42:45Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch) | Magento 2 patch for CVE-2024-34102(aka CosmicSting). Another way(as an extension) to hotfix the security hole if you cannot apply the official patch or cannot upgrade Magento. | 2024-08-08T07:47:24Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -492,6 +496,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2024-32136](https://www.cve.org/CVERecord?id=CVE-2024-32136) | [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136) | no description | 2024-05-05T10:49:08Z |
 | [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113) | Apache OFBIZ Path traversal leading to RCE POC[CVE-2024-32113 &amp; CVE-2024-36104] | 2024-06-03T15:57:59Z |
 | [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [RacerZ-fighting/CVE-2024-32113-POC](https://github.com/RacerZ-fighting/CVE-2024-32113-POC) | Apache OfBiz vulns | 2024-04-10T13:22:11Z |
+| [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [YongYe-Security/CVE-2024-32113](https://github.com/YongYe-Security/CVE-2024-32113) | CVE-2024-32113 Apache OFBIZ Batch Scanning | 2024-08-07T07:12:56Z |
 | [CVE-2024-32104](https://www.cve.org/CVERecord?id=CVE-2024-32104) | [Cerberus-HiproPlus/CVE-2024-32104](https://github.com/Cerberus-HiproPlus/CVE-2024-32104) | no description | 2024-07-31T12:20:07Z |
 | [CVE-2024-32030](https://www.cve.org/CVERecord?id=CVE-2024-32030) | [huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template) | no description | 2024-06-24T11:57:26Z |
 | [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC) | no description | 2024-05-20T14:59:16Z |
@@ -1092,6 +1097,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [akabe1/Graver](https://github.com/akabe1/Graver) | Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116) | 2024-03-24T13:14:52Z |
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [douglasbuzatto/G3-Loop-DoS](https://github.com/douglasbuzatto/G3-Loop-DoS) | This Python script automates the process of scanning for systems potentially vulnerable to the Loop DoS attack and the hypothetical CVE-2024-2169 vulnerability. It focuses on scanning ports associated with protocols susceptible to denial-of-service (DoS) attacks. The script can be used for educational purposes or authorized penetration testing. | 2024-03-24T07:53:52Z |
 | [CVE-2024-23722](https://www.cve.org/CVERecord?id=CVE-2024-23722) | [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc) | no description | 2024-03-25T17:50:33Z |
+| [CVE-2024-23708](https://www.cve.org/CVERecord?id=CVE-2024-23708) | [uthrasri/CVE-2024-23708](https://github.com/uthrasri/CVE-2024-23708) | no description | 2024-08-08T13:16:58Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692) | no description | 2024-06-11T07:21:04Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp) | CVE-2024-23692 exp | 2024-06-16T07:04:01Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692) | no description | 2024-06-13T09:12:06Z |
@@ -1347,6 +1353,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [hunter24x24/cve_2024_0044](https://github.com/hunter24x24/cve_2024_0044) | CVE-2024-0044: a &quot;run-as any app&quot; high-severity vulnerability affecting Android versions 12 and 13 | 2024-08-01T20:14:22Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [nexussecelite/EvilDroid](https://github.com/nexussecelite/EvilDroid) | EvilDroid automates the exploitation of CVE-2024-0044, installing malicious payloads on a target device and extracting sensitive data. It features automated ADB connection checks, APK pushing, UID extraction, payload generation, and real-time progress updates, providing a seamless and professional user experience. | 2024-08-04T13:14:10Z |
 | [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040) | no description | 2024-07-29T11:45:41Z |
+| [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [uthrasri/frameworks_av_CVE-2024-0040](https://github.com/uthrasri/frameworks_av_CVE-2024-0040) | no description | 2024-08-06T06:13:59Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
 | [CVE-2024-0023](https://www.cve.org/CVERecord?id=CVE-2024-0023) | [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023) | no description | 2024-07-29T09:06:34Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
@@ -1735,6 +1742,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604) | A go-exploit for Apache ActiveMQ CVE-2023-46604 | 2024-04-17T13:10:34Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [thinkycx/activemq-rce-cve-2023-46604](https://github.com/thinkycx/activemq-rce-cve-2023-46604) | activemq-rce-cve-2023-46604 | 2024-04-26T11:42:57Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) | CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise. | 2024-05-29T14:56:41Z |
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [pulentoski/CVE-2023-46604](https://github.com/pulentoski/CVE-2023-46604) | El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604) | 2024-05-31T00:38:47Z |
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z |
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z |
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z |
@@ -2160,6 +2168,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [bcdannyboy/CVE-2023-38545](https://github.com/bcdannyboy/CVE-2023-38545) | A proof of concept for testing CVE-2023-38545 against local curl | 2023-10-16T15:55:32Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [LeHeron/TC_test](https://github.com/LeHeron/TC_test) | Test repo pour la CVE-2023-42793 de TeamCity | 2023-10-16T12:52:17Z |
 | [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [Yang-Shun-Yu/CVE-2023-38545](https://github.com/Yang-Shun-Yu/CVE-2023-38545) | no description | 2024-03-19T13:45:09Z |
+| [CVE-2023-38545](https://www.cve.org/CVERecord?id=CVE-2023-38545) | [nphuang/NS-Project-2024-Spring](https://github.com/nphuang/NS-Project-2024-Spring) | Network Security Project CVE-2023-38545 | 2024-03-28T06:05:37Z |
 | [CVE-2023-38501](https://www.cve.org/CVERecord?id=CVE-2023-38501) | [codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit) | Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS] | 2023-10-06T02:55:05Z |
 | [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-1](https://github.com/miguelc49/CVE-2023-38499-1) | no description | 2024-04-13T18:46:07Z |
 | [CVE-2023-38499](https://www.cve.org/CVERecord?id=CVE-2023-38499) | [miguelc49/CVE-2023-38499-3](https://github.com/miguelc49/CVE-2023-38499-3) | no description | 2024-04-13T18:46:13Z |
@@ -2807,6 +2816,7 @@ Last generated: 2024-09-02 02:10:47.915671
 | [CVE-2023-26256](https://www.cve.org/CVERecord?id=CVE-2023-26256) | [jcad123/CVE-2023-26256](https://github.com/jcad123/CVE-2023-26256) | CVE-2023-26255_POC,CVE-2023-26256_POC | 2023-09-01T00:10:36Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp) | no description | 2023-08-25T21:56:48Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6) | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | 2023-08-30T23:57:10Z |
+| [CVE-2023-26144](https://www.cve.org/CVERecord?id=CVE-2023-26144) | [tadhglewis/apollo-koa-minimal](https://github.com/tadhglewis/apollo-koa-minimal) | GraphQL vulnerability disclosure: CVE-2023-26144 | 2023-08-16T11:44:22Z |
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security) | Fix open source package uses tough-cookie 2.5.0 - CVE-2023-26136, | 2024-05-06T17:32:10Z |
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z |
