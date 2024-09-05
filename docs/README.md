@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-04 02:09:18.102994
+Last generated: 2024-09-05 02:09:42.445910
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -301,6 +301,7 @@ Last generated: 2024-09-04 02:09:18.102994
 | [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
 | [CVE-2024-39031](https://www.cve.org/CVERecord?id=CVE-2024-39031) | [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031) | Stored Cross-Side Scripting (XSS) leads to privilege escalation in SilverPeas social-networking portal | 2024-07-08T23:21:52Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC) | Mass Exploit - CVE-2024-38856 [Remote Code Execution] | 2024-08-09T11:26:09Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856) | Perform With Massive Apache OFBiz Zero-Day Scanner &amp; RCE | 2024-08-10T03:05:34Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473) | no description | 2024-08-02T19:57:52Z |
@@ -312,6 +313,7 @@ Last generated: 2024-09-04 02:09:18.102994
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Sec-Link/CVE-2024-38077](https://github.com/Sec-Link/CVE-2024-38077) | no description | 2024-08-09T07:37:49Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Wlibang/CVE-2024-38077](https://github.com/Wlibang/CVE-2024-38077) | CVE-2024-38077，本仓库仅用作备份， | 2024-08-09T07:46:09Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [SecStarBot/CVE-2024-38077-POC](https://github.com/SecStarBot/CVE-2024-38077-POC) | no description | 2024-08-09T01:24:59Z |
+| [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [zhuxi1965/CVE-2024-38077-RDLCheck](https://github.com/zhuxi1965/CVE-2024-38077-RDLCheck) | 检测RDL服务是否运行，快速排查受影响资产 | 2024-08-10T01:10:06Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-37889](https://www.cve.org/CVERecord?id=CVE-2024-37889) | [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889) | no description | 2024-06-17T04:50:00Z |
@@ -2628,6 +2630,7 @@ Last generated: 2024-09-04 02:09:18.102994
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547) | PoC Exploit  for VM2 Sandbox Escape Vulnerability | 2023-12-10T08:32:26Z |
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547) | PoC to CVE-2023-30547 (Library vm2) | 2024-02-08T07:03:32Z |
 | [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [Cur1iosity/CVE-2023-30547](https://github.com/Cur1iosity/CVE-2023-30547) | Tool for exploring CVE-2023-30547 | 2024-02-14T13:05:57Z |
+| [CVE-2023-30547](https://www.cve.org/CVERecord?id=CVE-2023-30547) | [junnythemarksman/CVE-2023-30547](https://github.com/junnythemarksman/CVE-2023-30547) | no description | 2024-06-04T10:01:41Z |
 | [CVE-2023-30533](https://www.cve.org/CVERecord?id=CVE-2023-30533) | [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533) | CVE-2023-30533 | 2023-08-09T06:48:32Z |
 | [CVE-2023-3047](https://www.cve.org/CVERecord?id=CVE-2023-3047) | [Phamchie/CVE-2023-3047](https://github.com/Phamchie/CVE-2023-3047) | no description | 2024-03-07T14:46:22Z |
 | [CVE-2023-3047](https://www.cve.org/CVERecord?id=CVE-2023-3047) | [0x1x02/GLiNet-Router-Auth-Bypass](https://github.com/0x1x02/GLiNet-Router-Auth-Bypass) | Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453 | 2024-03-07T08:05:31Z |
