@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-07 02:07:26.378940
+Last generated: 2024-09-08 02:15:00.427826
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -144,6 +144,7 @@ Last generated: 2024-09-07 02:07:26.378940
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956) | POC - CVE-2024–4956 - Nexus Repository Manager 3 Unauthenticated Path Traversal | 2024-06-09T10:57:29Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956) | Sonatype Nexus Repository Manager 3 (LFI) | 2024-06-03T02:49:20Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [fin3ss3g0d/CVE-2024-4956](https://github.com/fin3ss3g0d/CVE-2024-4956) | CVE-2024-4956 Python exploitation utility | 2024-06-05T15:37:39Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956) | no description | 2024-08-14T16:41:01Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-4885](https://www.cve.org/CVERecord?id=CVE-2024-4885) | [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885) | Exploit for CVE-2024-4885 | 2024-07-08T12:14:42Z |
@@ -360,6 +361,7 @@ Last generated: 2024-09-07 02:07:26.378940
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991) | Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows | 2024-07-06T01:00:57Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991) | Path traversal vulnerability in Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10 that allows reading sensitive files. | 2024-07-10T09:42:08Z |
 | [CVE-2024-36991](https://www.cve.org/CVERecord?id=CVE-2024-36991) | [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991) | POC for CVE-2024-36991: This exploit will attempt to read Splunk /etc/passwd file. | 2024-07-06T00:49:40Z |
+| [CVE-2024-36877](https://www.cve.org/CVERecord?id=CVE-2024-36877) | [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877) | Exploit POC for CVE-2024-36877 | 2024-08-09T15:33:04Z |
 | [CVE-2024-36842](https://www.cve.org/CVERecord?id=CVE-2024-36842) | [abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-) | CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script! | 2024-05-09T12:28:11Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
@@ -3034,6 +3036,7 @@ Last generated: 2024-09-07 02:07:26.378940
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass) | This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz. | 2024-01-02T14:20:10Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515) | Atlassian Confluence Data Center and Server Broken Access Control Vulnerability | 2024-02-24T16:04:35Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515) | NSE script for checking the presence of CVE-2023-22515 | 2024-04-26T17:57:33Z |
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515) | NSE script to check if app is vulnerable to cve-2023-22515 | 2024-06-08T20:04:44Z |
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z |
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z |
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z |
