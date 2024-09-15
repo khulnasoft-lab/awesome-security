@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-14 02:09:03.354739
+Last generated: 2024-09-15 02:19:15.787583
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -273,6 +273,7 @@ Last generated: 2024-09-14 02:09:03.354739
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker) | no description | 2024-07-25T08:03:15Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
+| [CVE-2024-40892](https://www.cve.org/CVERecord?id=CVE-2024-40892) | [xen0bit/fwbt](https://github.com/xen0bit/fwbt) | Proof of Concept code for interaction with Firewalla via Bluetooth Low-Energy and exploitation of CVE-2024-40892 / CVE-2024-40893 | 2024-08-21T17:27:21Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
 | [CVE-2024-40617](https://www.cve.org/CVERecord?id=CVE-2024-40617) | [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617) | CVE-2024-40617 Exploit PoC | 2024-07-30T11:50:45Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
@@ -1231,6 +1232,7 @@ Last generated: 2024-09-14 02:09:03.354739
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [ninhpn1337/CVE-2024-22274](https://github.com/ninhpn1337/CVE-2024-22274) | no description | 2024-07-11T04:13:59Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE) | PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit) | 2024-07-15T07:26:59Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [Mustafa1986/CVE-2024-22274-RCE](https://github.com/Mustafa1986/CVE-2024-22274-RCE) | no description | 2024-07-18T06:18:57Z |
+| [CVE-2024-22263](https://www.cve.org/CVERecord?id=CVE-2024-22263) | [securelayer7/CVE-2024-22263_Scanner](https://github.com/securelayer7/CVE-2024-22263_Scanner) | (CVE-2024-22263) Spring Cloud Dataflow Arbitrary File Writing Scanner | 2024-08-21T19:58:25Z |
 | [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22198](https://www.cve.org/CVERecord?id=CVE-2024-22198) | [xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker) | Identify Nginx-ui version and check if it&#x27;s vulnerable to CVE-2024-22198 | 2024-07-24T13:59:51Z |
