@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-15 02:19:15.787583
+Last generated: 2024-09-16 02:19:05.807519
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -122,6 +122,7 @@ Last generated: 2024-09-15 02:19:15.787583
 | [CVE-2024-6028](https://www.cve.org/CVERecord?id=CVE-2024-6028) | [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc) | CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter | 2024-06-25T13:55:27Z |
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
 | [CVE-2024-5947](https://www.cve.org/CVERecord?id=CVE-2024-5947) | [Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947) | Deep Sea Electronics DSE855 - Authentication Bypass | 2024-07-07T14:03:49Z |
+| [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC) | Proof-of-Concept for CVE-2024-5932  GiveWP PHP Object Injection | 2024-08-21T09:51:21Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -250,6 +251,7 @@ Last generated: 2024-09-15 02:19:15.787583
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430) | This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044 | 2024-08-08T11:55:32Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC) | CVE-2024-43044的利用方式 | 2024-08-13T07:32:35Z |
+| [CVE-2024-42992](https://www.cve.org/CVERecord?id=CVE-2024-42992) | [thanhh23/CVE-2024-42992](https://github.com/thanhh23/CVE-2024-42992) | CVE-2024-42992 | 2024-08-26T03:13:45Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc) | no description | 2024-06-14T07:04:36Z |
 | [CVE-2024-42919](https://www.cve.org/CVERecord?id=CVE-2024-42919) | [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919) | no description | 2024-08-19T19:50:50Z |
@@ -332,6 +334,7 @@ Last generated: 2024-09-15 02:19:15.787583
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC) | Mass Exploit - CVE-2024-38856 [Remote Code Execution] | 2024-08-09T11:26:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856) | Perform With Massive Apache OFBiz Zero-Day Scanner &amp; RCE | 2024-08-10T03:05:34Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz) | Exploit for CVE-2024-38856 affecting Apache OFBiz versions before 18.12.15 | 2024-08-18T15:19:58Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP) | CVE-2024-38856 Exploit | 2024-08-22T04:05:02Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -352,11 +355,13 @@ Last generated: 2024-09-15 02:19:15.787583
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [psl-b/CVE-2024-38077-check](https://github.com/psl-b/CVE-2024-38077-check) | no description | 2024-08-09T22:01:46Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [qi4L/CVE-2024-38077](https://github.com/qi4L/CVE-2024-38077) | RDL的堆溢出导致的RCE | 2024-08-09T05:00:44Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [BBD-YZZ/fyne-gui](https://github.com/BBD-YZZ/fyne-gui) | CVE-2024-38077,仅支持扫描测试~ | 2024-08-15T07:14:00Z |
+| [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Destiny0991/check_38077](https://github.com/Destiny0991/check_38077) | Windows远程桌面授权服务CVE-2024-38077检测工具 | 2024-08-23T08:32:40Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063) | mitigation script by disabling ipv6 of all interfaces | 2024-08-15T12:41:01Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [noradlb1/CVE-2024-38063-VB](https://github.com/noradlb1/CVE-2024-38063-VB) | CVE-2024-38063 VB | 2024-08-17T01:11:12Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix) | A PowerShell script to temporarily mitigate the CVE-2024-38063 vulnerability by disabling IPv6 on Windows systems. This workaround modifies the registry to reduce the risk of exploitation without needing the immediate installation of the official Microsoft KB update. Intended as a temporary fix | 2024-08-20T08:48:08Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [p33d/cve-2024-38063](https://github.com/p33d/cve-2024-38063) | Poc for cve-2024-38063 | 2024-08-18T22:24:43Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation) | no description | 2024-08-19T19:44:37Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research) | CVE 2024-38063 Research and POC development | 2024-08-22T03:51:43Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -2210,6 +2215,7 @@ Last generated: 2024-09-15 02:19:15.787583
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar) | evil-winrar,CVE-2023-38831漏洞利用和社会工程学攻击框架 (evil-winrar, CVE-2023-38831 Vulnerability Exploitation and Social Engineering Attack Framework) | 2024-03-25T14:05:24Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [RomainBayle08/CVE-2023-38831](https://github.com/RomainBayle08/CVE-2023-38831) | no description | 2024-04-06T16:55:29Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [imbyter/imbyter-WinRAR_CVE-2023-38831](https://github.com/imbyter/imbyter-WinRAR_CVE-2023-38831) | WinRAR漏洞测试复现。详参：https://flowus.cn/share/a3b35db0-ab5e-4abc-b8d3-5ff284e82e7b | 2024-06-17T07:30:47Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC) | This is my malware | 2024-04-01T15:59:34Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
