@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-18 02:10:56.414621
+Last generated: 2024-09-19 02:13:02.286966
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -882,6 +882,7 @@ Last generated: 2024-09-18 02:10:56.414621
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [Praison001/CVE-2024-28995-SolarWinds-Serv-U](https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U) | Exploit for CVE-2024-28995 affecting SolarWinds Serv-U 15.4.2 HF 1 and previous versions | 2024-06-26T10:51:50Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [Stuub/CVE-2024-28995](https://github.com/Stuub/CVE-2024-28995) | CVE-2024-28955 Exploitation PoC | 2024-07-01T11:49:51Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995) | SolarWinds Serv-U was susceptible to a directory transversal vulnerability that would allow access to read sensitive files on the host machine. | 2024-08-24T17:05:48Z |
+| [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC) | Chrome(CVE-2024-2887)RCE-POC | 2024-08-25T07:30:25Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE) | UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. | 2024-04-08T13:54:07Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876) | POC for SQLi vulnerability in Icegram express | 2024-04-25T09:53:22Z |
@@ -906,6 +907,7 @@ Last generated: 2024-09-18 02:10:56.414621
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z |
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
+| [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [Alucard0x1/CVE-2024-28000](https://github.com/Alucard0x1/CVE-2024-28000) | LiteSpeed Cache Privilege Escalation PoC | 2024-08-24T05:12:56Z |
 | [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
 | [CVE-2024-27972](https://www.cve.org/CVERecord?id=CVE-2024-27972) | [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc) | CVE-2024-27972 WP Fusion Lite &lt;= 3.41.24 - Authenticated (Contributor+) Remote Code Execution | 2024-05-18T14:17:34Z |
 | [CVE-2024-27971](https://www.cve.org/CVERecord?id=CVE-2024-27971) | [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note) | CVE-2024-27971 WordPress Premmerce Permalink Manager for WooCommerce Plugin &lt;= 2.3.10 is vulnerable to Local File Inclusion | 2024-05-03T13:38:33Z |
@@ -1378,6 +1380,7 @@ Last generated: 2024-09-18 02:10:56.414621
 | [CVE-2024-20338](https://www.cve.org/CVERecord?id=CVE-2024-20338) | [annmuor/CVE-2024-20338](https://github.com/annmuor/CVE-2024-20338) | CVE-2024-20338 talk for Behind The Code Talk | 2024-06-10T15:41:41Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [BetterCzz/CVE-2024-20291-POC](https://github.com/BetterCzz/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T05:25:35Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [Instructor-Team8/CVE-2024-20291-POC](https://github.com/Instructor-Team8/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T08:53:14Z |
+| [CVE-2024-1939](https://www.cve.org/CVERecord?id=CVE-2024-1939) | [rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939) | For V8CTF M122 | 2024-08-25T12:08:54Z |
 | [CVE-2024-1931](https://www.cve.org/CVERecord?id=CVE-2024-1931) | [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction) | CVE-2024-1931-reproduction | 2024-08-13T14:09:20Z |
 | [CVE-2024-1874](https://www.cve.org/CVERecord?id=CVE-2024-1874) | [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-) | command injection | 2024-04-17T05:26:34Z |
 | [CVE-2024-1874](https://www.cve.org/CVERecord?id=CVE-2024-1874) | [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874) | Proof Of Concept for CVE-2024-1874 | 2024-07-18T15:25:17Z |
@@ -3516,6 +3519,7 @@ Last generated: 2024-09-18 02:10:56.414621
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z |
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [l3ragio/CVE-2022-29361_Werkzeug_Client-Side-Desync-to-XSS](https://github.com/l3ragio/CVE-2022-29361_Werkzeug_Client-Side-Desync-to-XSS) | no description | 2023-11-25T12:56:50Z |
 | [CVE-2022-29078](https://www.cve.org/CVERecord?id=CVE-2022-29078) | [liam-star-black-master/expluatation_CVE-2022-29078](https://github.com/liam-star-black-master/expluatation_CVE-2022-29078) | no description | 2023-07-26T18:42:09Z |
+| [CVE-2022-29063](https://www.cve.org/CVERecord?id=CVE-2022-29063) | [mbadanoiu/CVE-2022-29063](https://github.com/mbadanoiu/CVE-2022-29063) | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | 2023-12-17T21:11:30Z |
 | [CVE-2022-28672](https://www.cve.org/CVERecord?id=CVE-2022-28672) | [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672) | Foxit PDF Reader Remote Code Execution Exploit | 2022-12-02T18:52:20Z |
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [rvizx/CVE-2022-28368](https://github.com/rvizx/CVE-2022-28368) | Dompdf RCE PoC Exploit - CVE-2022-28368 | 2023-02-13T08:10:00Z |
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [straight-tamago/NoCameraSound](https://github.com/straight-tamago/NoCameraSound) | CVE-2022-46689 | 2022-12-26T00:08:55Z |
@@ -3849,6 +3853,7 @@ Last generated: 2024-09-18 02:10:56.414621
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [dileepdkumar/LayarKacaSiber-CVE-2021-41773](https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773) | no description | 2022-09-20T03:45:24Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773S](https://github.com/mightysai1997/CVE-2021-41773S) | no description | 2022-09-15T14:17:45Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773) | MASS CVE-2021-41773 | 2021-10-07T15:13:18Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [Iris288/CVE-2021-41773](https://github.com/Iris288/CVE-2021-41773) | no description | 2023-11-20T09:57:07Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z |
