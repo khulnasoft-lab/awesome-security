@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-20 02:12:45.359618
+Last generated: 2024-09-21 02:10:42.611732
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -225,6 +225,8 @@ Last generated: 2024-09-20 02:12:45.359618
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR) | no description | 2024-08-08T14:04:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-08-17T02:01:57Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE) | PHP CGI Argument Injection (CVE-2024-4577) RCE | 2024-08-20T02:56:03Z |
+| [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
+| [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle) | Chaincode for blockchain Hyperledger Fabric provides accurate time to other chaincodes. Thus solving the security problem associated with transaction time manipulation (CVE-2024-45244). | 2024-07-28T19:19:42Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/HLF_TxTime_spoofing](https://github.com/shanker-sec/HLF_TxTime_spoofing) | PoC covering the problem of transaction time manipulation (CVE-2024-45244) in the Hyperledger Fabric blockchain. | 2024-06-23T14:56:14Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241) | Path Traversal in CentralSquare&#x27;s CryWolf | 2024-08-25T15:57:40Z |
@@ -2412,6 +2414,7 @@ Last generated: 2024-09-20 02:12:45.359618
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [4zur-0312/CVE-2023-36802](https://github.com/4zur-0312/CVE-2023-36802) | CVE-2023-36802 ITW case | 2023-10-19T23:34:37Z |
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE) | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | 2023-10-20T02:05:27Z |
 | [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [Nero22k/cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | 2023-10-23T18:33:41Z |
+| [CVE-2023-36802](https://www.cve.org/CVERecord?id=CVE-2023-36802) | [ISH2YU/CVE-2023-36802](https://github.com/ISH2YU/CVE-2023-36802) | Procedure to Recreate the Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | 2024-06-12T06:19:50Z |
 | [CVE-2023-36745](https://www.cve.org/CVERecord?id=CVE-2023-36745) | [N1k0la-T/CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) | no description | 2023-10-23T19:06:36Z |
 | [CVE-2023-36723](https://www.cve.org/CVERecord?id=CVE-2023-36723) | [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723) | no description | 2023-09-28T21:20:23Z |
 | [CVE-2023-36664](https://www.cve.org/CVERecord?id=CVE-2023-36664) | [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection) | Ghostscript command injection vulnerability PoC (CVE-2023-36664) | 2023-08-12T18:33:57Z |
@@ -3125,6 +3128,7 @@ Last generated: 2024-09-20 02:12:45.359618
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515) | Atlassian Confluence Data Center and Server Broken Access Control Vulnerability | 2024-02-24T16:04:35Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515) | NSE script for checking the presence of CVE-2023-22515 | 2024-04-26T17:57:33Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515) | NSE script to check if app is vulnerable to cve-2023-22515 | 2024-06-08T20:04:44Z |
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [s1d6point7bugcrowd/CVE-2023-22515-check](https://github.com/s1d6point7bugcrowd/CVE-2023-22515-check) | This script will inform the user if the Confluence instance is vulnerable, but it will not proceed with the exploitation steps. | 2024-06-05T19:56:16Z |
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z |
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z |
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z |
