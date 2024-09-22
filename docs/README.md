@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-21 02:10:42.611732
+Last generated: 2024-09-22 02:20:12.985053
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2024-09-21 02:10:42.611732
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928) | CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability | 2024-08-23T15:50:30Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928) | CVE-2024-7928 FastAdmin &lt; V1.3.4.20220530 exploit | 2024-08-22T14:39:13Z |
 | [CVE-2024-7703](https://www.cve.org/CVERecord?id=CVE-2024-7703) | [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703) | This repository contains an exploit for CVE-2024-7703 in the ARMember WordPress plugin. It allows attackers with Subscriber-level access or higher to upload SVG files with malicious JavaScript, leading to Stored XSS attacks. This can result in executing scripts when the file is accessed, potentially compromising user sessions or data. | 2024-08-17T14:44:08Z |
+| [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC) | CVE-2024-7593 &lt; Ivanti vTM [Authentication Bypass] | 2024-08-26T11:03:00Z |
 | [CVE-2024-7339](https://www.cve.org/CVERecord?id=CVE-2024-7339) | [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339) | An Vulnerability detection and Exploitation tool for  CVE-2024-7339 | 2024-08-05T16:26:18Z |
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
@@ -172,6 +173,7 @@ Last generated: 2024-09-21 02:10:42.611732
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879) | no description | 2024-07-15T12:27:33Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning) | CVE-2024-4879 &amp; CVE-2024-5217 ServiceNow RCE Scanning Using Nuclei &amp; Shodan Dork to find it. | 2024-07-28T06:51:33Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879) | Python script designed to detect specific vulnerabilities in ServiceNow instances and dump database connection details if the vulnerability is found. This tool is particularly useful for security researchers and penetration testers. | 2024-08-14T06:55:41Z |
+| [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879) | Jelly Template Injection Vulnerability in ServiceNow - POC CVE-2024-4879 | 2024-08-27T03:43:28Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -377,6 +379,7 @@ Last generated: 2024-09-21 02:10:42.611732
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation) | no description | 2024-08-19T19:44:37Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research) | CVE 2024-38063 Research and POC development | 2024-08-22T03:51:43Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool) | This is a functional proof of concept (PoC) for CVE-2024-38063. However, it&#x27;s important to note that this CVE is theoretical and not exploitable in a real-world scenario. To enhance understanding for learners, I have developed a research tool that covers both past and newly reported TCP/IP vulnerabilities in CVEs | 2024-08-24T15:04:54Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) | poc for CVE-2024-38063 (RCE in tcpip.sys) | 2024-08-24T18:25:46Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -2795,6 +2798,7 @@ Last generated: 2024-09-21 02:10:42.611732
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Makurorororororororo/Validate-CVE-2023-29489-scanner-](https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner-) | no description | 2023-12-23T06:28:32Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [some-man1/CVE-2023-29489](https://github.com/some-man1/CVE-2023-29489) | # CVE-2023-29489 exploit | 2024-04-14T08:29:22Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489) | CVE-2023-29489 is a vulnerability to exploitable in cross-site scripting ( xss ) reflect the cpanel | 2024-05-30T07:20:09Z |
+| [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Cappricio-Securities/CVE-2023-29489](https://github.com/Cappricio-Securities/CVE-2023-29489) | An issue was discovered in cPanel before 11.109.9999.116. Cross-Site Scripting can occur on the cpsrvd error page via an invalid webcall ID. | 2024-04-21T12:26:22Z |
 | [CVE-2023-29478](https://www.cve.org/CVERecord?id=CVE-2023-29478) | [Exopteron/BiblioRCE](https://github.com/Exopteron/BiblioRCE) | CVE-2023-29478 - BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | 2022-10-27T06:17:24Z |
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z |
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
