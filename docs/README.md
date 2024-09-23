@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-22 02:20:12.985053
+Last generated: 2024-09-23 02:15:41.554199
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928) | Will attempt to retrieve DB details for FastAdmin instances | 2024-08-20T03:09:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928) | CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning | 2024-08-20T12:15:48Z |
@@ -350,6 +351,7 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856) | Perform With Massive Apache OFBiz Zero-Day Scanner &amp; RCE | 2024-08-10T03:05:34Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz) | Exploit for CVE-2024-38856 affecting Apache OFBiz versions before 18.12.15 | 2024-08-18T15:19:58Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP) | CVE-2024-38856 Exploit | 2024-08-22T04:05:02Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE) | Apache OFBiz CVE-2024-38856 | 2024-08-28T03:17:22Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -380,6 +382,8 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research) | CVE 2024-38063 Research and POC development | 2024-08-22T03:51:43Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool) | This is a functional proof of concept (PoC) for CVE-2024-38063. However, it&#x27;s important to note that this CVE is theoretical and not exploitable in a real-world scenario. To enhance understanding for learners, I have developed a research tool that covers both past and newly reported TCP/IP vulnerabilities in CVEs | 2024-08-24T15:04:54Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) | poc for CVE-2024-38063 (RCE in tcpip.sys) | 2024-08-24T18:25:46Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063) | Windows TCP/IP IPv6(CVE-2024-38063) | 2024-08-28T01:46:44Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063) | no description | 2024-08-27T15:21:25Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -433,6 +437,7 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [ahisec/geoserver-](https://github.com/ahisec/geoserver-) | geoserver CVE-2024-36401漏洞利用工具 | 2024-07-17T02:25:21Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401) | GeoServer Remote Code Execution | 2024-07-30T18:43:40Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC) | no description | 2024-08-01T21:22:51Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer) | Mass scanner for CVE-2024-36401 | 2024-08-27T15:28:04Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -467,6 +472,7 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2024-34452](https://www.cve.org/CVERecord?id=CVE-2024-34452) | [surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452) | Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH | 2024-06-19T17:38:49Z |
 | [CVE-2024-34361](https://www.cve.org/CVERecord?id=CVE-2024-34361) | [T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE](https://github.com/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE) | This repository contains an exploit for CVE-2024-34361, a critical Pi-hole vulnerability (CVSS 8.6). It uses SSRF to achieve RCE by exploiting improper URL validation, allowing attackers to send arbitrary requests and execute commands on the system.  Disclaimer: For educational and ethical security testing only. Unauthorized use is illegal. | 2024-07-07T21:22:36Z |
 | [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351) | no description | 2024-05-12T10:49:41Z |
+| [CVE-2024-34351](https://www.cve.org/CVERecord?id=CVE-2024-34351) | [God4n/nextjs-CVE-2024-34351-_exploit](https://github.com/God4n/nextjs-CVE-2024-34351-_exploit) | PoC for a full exploitation of NextJS SSRF (CVE-2024-34351) | 2024-08-27T15:10:26Z |
 | [CVE-2024-34350](https://www.cve.org/CVERecord?id=CVE-2024-34350) | [Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350) | no description | 2024-06-27T14:00:34Z |
 | [CVE-2024-3435](https://www.cve.org/CVERecord?id=CVE-2024-3435) | [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435) | no description | 2024-05-20T02:17:44Z |
 | [CVE-2024-34329](https://www.cve.org/CVERecord?id=CVE-2024-34329) | [pamoutaf/CVE-2024-34329](https://github.com/pamoutaf/CVE-2024-34329) | no description | 2024-07-22T17:39:06Z |
@@ -920,6 +926,7 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z |
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
+| [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [oditynet/sleepall](https://github.com/oditynet/sleepall) | trojan CVE-2024-28085 CVE 28085 | 2024-08-27T08:34:15Z |
 | [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [Alucard0x1/CVE-2024-28000](https://github.com/Alucard0x1/CVE-2024-28000) | LiteSpeed Cache Privilege Escalation PoC | 2024-08-24T05:12:56Z |
 | [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
 | [CVE-2024-27972](https://www.cve.org/CVERecord?id=CVE-2024-27972) | [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc) | CVE-2024-27972 WP Fusion Lite &lt;= 3.41.24 - Authenticated (Contributor+) Remote Code Execution | 2024-05-18T14:17:34Z |
@@ -1524,6 +1531,7 @@ Last generated: 2024-09-22 02:20:12.985053
 | [CVE-2023-6319](https://www.cve.org/CVERecord?id=CVE-2023-6319) | [illixion/root-my-webos-tv](https://github.com/illixion/root-my-webos-tv) | CVE-2023-6319 proof of concept | 2024-04-11T18:58:17Z |
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z |
 | [CVE-2023-6246](https://www.cve.org/CVERecord?id=CVE-2023-6246) | [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246) | no description | 2024-03-02T15:45:52Z |
+| [CVE-2023-6241](https://www.cve.org/CVERecord?id=CVE-2023-6241) | [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241) | CVE-2023-6241 for Pixel 8 | 2024-05-02T02:17:31Z |
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z |
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [thesafdari/CVE-2023-6063](https://github.com/thesafdari/CVE-2023-6063) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-16T17:41:59Z |
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC) | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | 2023-11-16T16:36:44Z |
