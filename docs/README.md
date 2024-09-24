@@ -2,18 +2,20 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-23 02:15:41.554199
+Last generated: 2024-09-24 02:16:03.990282
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
+| [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954) | This exploit will attempt to execute system commands on SPIP targets. | 2024-08-28T14:54:56Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928) | Will attempt to retrieve DB details for FastAdmin instances | 2024-08-20T03:09:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928) | CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning | 2024-08-20T12:15:48Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928) | CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability | 2024-08-23T15:50:30Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928) | CVE-2024-7928 FastAdmin &lt; V1.3.4.20220530 exploit | 2024-08-22T14:39:13Z |
 | [CVE-2024-7703](https://www.cve.org/CVERecord?id=CVE-2024-7703) | [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703) | This repository contains an exploit for CVE-2024-7703 in the ARMember WordPress plugin. It allows attackers with Subscriber-level access or higher to upload SVG files with malicious JavaScript, leading to Stored XSS attacks. This can result in executing scripts when the file is accessed, potentially compromising user sessions or data. | 2024-08-17T14:44:08Z |
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC) | CVE-2024-7593 &lt; Ivanti vTM [Authentication Bypass] | 2024-08-26T11:03:00Z |
+| [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593) | Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel. | 2024-08-28T10:02:05Z |
 | [CVE-2024-7339](https://www.cve.org/CVERecord?id=CVE-2024-7339) | [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339) | An Vulnerability detection and Exploitation tool for  CVE-2024-7339 | 2024-08-05T16:26:18Z |
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
@@ -352,6 +354,7 @@ Last generated: 2024-09-23 02:15:41.554199
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz) | Exploit for CVE-2024-38856 affecting Apache OFBiz versions before 18.12.15 | 2024-08-18T15:19:58Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP) | CVE-2024-38856 Exploit | 2024-08-22T04:05:02Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE) | Apache OFBiz CVE-2024-38856 | 2024-08-28T03:17:22Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -384,6 +387,7 @@ Last generated: 2024-09-23 02:15:41.554199
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) | poc for CVE-2024-38063 (RCE in tcpip.sys) | 2024-08-24T18:25:46Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063) | Windows TCP/IP IPv6(CVE-2024-38063) | 2024-08-28T01:46:44Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063) | no description | 2024-08-27T15:21:25Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [zenzue/CVE-2024-38063-POC](https://github.com/zenzue/CVE-2024-38063-POC) | potential memory corruption vulnerabilities in IPv6 networks. | 2024-08-28T08:57:23Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -3814,6 +3818,7 @@ Last generated: 2024-09-23 02:15:41.554199
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [stripe/log4j-remediation-tools](https://github.com/stripe/log4j-remediation-tools) | Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228) | 2021-12-14T21:47:04Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228) | no description | 2021-12-10T23:37:55Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228) | Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability | 2023-10-06T04:36:31Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [felixslama/log4shell-minecraft-demo](https://github.com/felixslama/log4shell-minecraft-demo) | Log4Shell (CVE-2021-44228) minecraft demo. Used for education fairs | 2023-11-21T15:45:31Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-43890](https://www.cve.org/CVERecord?id=CVE-2021-43890) | [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc) | no description | 2022-10-28T01:46:51Z |
