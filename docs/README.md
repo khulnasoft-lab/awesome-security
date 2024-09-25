@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-24 02:16:03.990282
+Last generated: 2024-09-25 02:17:02.349872
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -130,6 +130,7 @@ Last generated: 2024-09-24 02:16:03.990282
 | [CVE-2024-5961](https://www.cve.org/CVERecord?id=CVE-2024-5961) | [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961) | Reflected XSS in 2ClickPortal | 2024-07-01T11:17:48Z |
 | [CVE-2024-5947](https://www.cve.org/CVERecord?id=CVE-2024-5947) | [Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947) | Deep Sea Electronics DSE855 - Authentication Bypass | 2024-07-07T14:03:49Z |
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC) | Proof-of-Concept for CVE-2024-5932  GiveWP PHP Object Injection | 2024-08-21T09:51:21Z |
+| [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932) | Proof-of-Concept for CVE-2024-5932 | 2024-08-25T11:51:36Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -355,6 +356,7 @@ Last generated: 2024-09-24 02:16:03.990282
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP) | CVE-2024-38856 Exploit | 2024-08-22T04:05:02Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE) | Apache OFBiz CVE-2024-38856 | 2024-08-28T03:17:22Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -388,6 +390,7 @@ Last generated: 2024-09-24 02:16:03.990282
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063) | Windows TCP/IP IPv6(CVE-2024-38063) | 2024-08-28T01:46:44Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063) | no description | 2024-08-27T15:21:25Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [zenzue/CVE-2024-38063-POC](https://github.com/zenzue/CVE-2024-38063-POC) | potential memory corruption vulnerabilities in IPv6 networks. | 2024-08-28T08:57:23Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [Sachinart/CVE-2024-38063-poc](https://github.com/Sachinart/CVE-2024-38063-poc) | Note: I am not responsible for any bad act. This is written by Chirag Artani to demonstrate the vulnerability. | 2024-08-17T14:58:36Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -1012,6 +1015,7 @@ Last generated: 2024-09-24 02:16:03.990282
 | [CVE-2024-25735](https://www.cve.org/CVERecord?id=CVE-2024-25735) | [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC) | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | 2024-02-16T12:03:20Z |
 | [CVE-2024-25731](https://www.cve.org/CVERecord?id=CVE-2024-25731) | [actuator/com.cn.dq.ipc](https://github.com/actuator/com.cn.dq.ipc) | CVE-2024-25731 | 2024-02-06T04:38:12Z |
 | [CVE-2024-25723](https://www.cve.org/CVERecord?id=CVE-2024-25723) | [david-botelho-mariano/exploit-CVE-2024-25723](https://github.com/david-botelho-mariano/exploit-CVE-2024-25723) | no description | 2024-03-20T01:28:09Z |
+| [CVE-2024-25641](https://www.cve.org/CVERecord?id=CVE-2024-25641) | [thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26](https://github.com/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26) | CVE-2024-25641 - RCE Automated Exploit - Cacti 1.2.26 | 2024-08-27T01:19:25Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-02-22T10:53:45Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template) | Nuclei template and information about the POC for CVE-2024-25600 | 2024-02-21T00:27:33Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks &lt;= 1.9.6 | 2024-02-20T20:16:09Z |
@@ -1099,6 +1103,7 @@ Last generated: 2024-09-24 02:16:03.990282
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919) | Hello everyone, I am sharing a modified script from CVE-2024-24919 which can extract paths categorized as critical. | 2024-07-22T06:04:13Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919) | no description | 2024-07-26T15:17:58Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919) | no description | 2024-07-31T09:55:29Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919) | no description | 2024-08-29T12:59:40Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
 | [CVE-2024-24760](https://www.cve.org/CVERecord?id=CVE-2024-24760) | [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760) | mailcow: Docker Container Exposure to Local Network | 2024-03-04T00:53:35Z |
