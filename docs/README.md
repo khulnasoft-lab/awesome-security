@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-09-30 02:20:34.971059
+Last generated: 2024-10-01 02:24:31.169749
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1700,6 +1700,7 @@ Last generated: 2024-09-30 02:20:34.971059
 | [CVE-2023-51000](https://www.cve.org/CVERecord?id=CVE-2023-51000) | [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000) | no description | 2024-02-12T12:06:07Z |
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917) | MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques | 2023-10-29T05:10:09Z |
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z |
+| [CVE-2023-5089](https://www.cve.org/CVERecord?id=CVE-2023-5089) | [Cappricio-Securities/CVE-2023-5089](https://github.com/Cappricio-Securities/CVE-2023-5089) | Defender Security &lt; 4.1.0 - Protection Bypass (Hidden Login Page) | 2024-05-24T07:14:55Z |
 | [CVE-2023-50868](https://www.cve.org/CVERecord?id=CVE-2023-50868) | [Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack](https://github.com/Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack) | This project generates DNS zonefiles with custom NSEC3 parameters to reproduce and evaluate the attacks in CVE-2023-50868. | 2024-03-19T16:13:14Z |
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z |
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z |
