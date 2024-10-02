@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-01 02:24:31.169749
+Last generated: 2024-10-02 02:15:24.483514
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -244,6 +244,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR) | no description | 2024-08-08T14:04:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-08-17T02:01:57Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE) | PHP CGI Argument Injection (CVE-2024-4577) RCE | 2024-08-20T02:56:03Z |
+| [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
 | [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle) | Chaincode for blockchain Hyperledger Fabric provides accurate time to other chaincodes. Thus solving the security problem associated with transaction time manipulation (CVE-2024-45244). | 2024-07-28T19:19:42Z |
@@ -1442,6 +1443,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240109](https://github.com/NUDTTAN91/CVE20240109) | no description | 2024-01-09T00:53:24Z |
 | [CVE-2024-20656](https://www.cve.org/CVERecord?id=CVE-2024-20656) | [NUDTTAN91/CVE20240108](https://github.com/NUDTTAN91/CVE20240108) | no description | 2024-01-08T09:02:56Z |
 | [CVE-2024-2054](https://www.cve.org/CVERecord?id=CVE-2024-2054) | [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054) | no description | 2024-03-25T07:01:59Z |
+| [CVE-2024-20419](https://www.cve.org/CVERecord?id=CVE-2024-20419) | [codeb0ss/CVE-2024-20419-PoC](https://github.com/codeb0ss/CVE-2024-20419-PoC) | CVE-2024-20419 - Cisco SSM On-Prem &lt; Mass Password Reset Account Takeover Exploit | 2024-09-05T19:10:30Z |
 | [CVE-2024-20405](https://www.cve.org/CVERecord?id=CVE-2024-20405) | [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405) | no description | 2024-06-09T18:55:03Z |
 | [CVE-2024-20404](https://www.cve.org/CVERecord?id=CVE-2024-20404) | [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404) | no description | 2024-06-09T18:50:59Z |
 | [CVE-2024-20399](https://www.cve.org/CVERecord?id=CVE-2024-20399) | [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE) | Private exploit for Cisco Nexus giving RCE | 2024-07-02T23:40:49Z |
@@ -1512,6 +1514,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582) | no description | 2024-05-28T01:06:48Z |
 | [CVE-2024-0566](https://www.cve.org/CVERecord?id=CVE-2024-0566) | [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566) | no description | 2024-05-09T17:30:24Z |
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z |
+| [CVE-2024-0507](https://www.cve.org/CVERecord?id=CVE-2024-0507) | [convisolabs/CVE-2024-0507_CVE-2024-0200-github](https://github.com/convisolabs/CVE-2024-0507_CVE-2024-0200-github) | Exploits for GitHub Enterprise CVE-2024-0507 and CVE-2024-0200 | 2024-03-18T03:19:14Z |
 | [CVE-2024-0399](https://www.cve.org/CVERecord?id=CVE-2024-0399) | [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399) | no description | 2024-05-09T18:21:42Z |
 | [CVE-2024-0352](https://www.cve.org/CVERecord?id=CVE-2024-0352) | [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352) | Likeshop &lt; 2.5.7.20210311 - Arbitrary File Upload | 2024-06-12T09:46:26Z |
 | [CVE-2024-0305](https://www.cve.org/CVERecord?id=CVE-2024-0305) | [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp) | cve-2024-0305可用的exp | 2024-04-18T03:13:43Z |
@@ -2979,6 +2982,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732) | Python 2.7 | 2023-06-06T02:59:22Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass) | CVE-2023-2732 Mass | 2023-05-31T02:43:11Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Pari-Malam/CVE-2023-2732](https://github.com/Pari-Malam/CVE-2023-2732) | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | 2023-08-05T06:38:53Z |
+| [CVE-2023-2728](https://www.cve.org/CVERecord?id=CVE-2023-2728) | [Cgv-Dev/Metasploit-Module-TFM](https://github.com/Cgv-Dev/Metasploit-Module-TFM) | Module written in Ruby with the objective of exploiting vulnerabilities CVE-2023-2728 and CVE-2024-3177, both related to the secret mount policy in a Kubernetes cluster using a custom Metasploit module.  Part of a Cybersecurity Master&#x27;s degree finalization project. | 2024-09-05T15:30:51Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163) | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | 2023-07-19T04:35:58Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163) | CVE-2023-27163 | 2023-07-20T00:18:38Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163) | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&lt;= v.1.2.1) | 2023-07-11T18:08:05Z |
@@ -3088,6 +3092,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z |
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T10:11:24Z |
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [ag-rodriguez/CVE-2023-24078](https://github.com/ag-rodriguez/CVE-2023-24078) | no description | 2023-12-07T03:45:27Z |
+| [CVE-2023-24044](https://www.cve.org/CVERecord?id=CVE-2023-24044) | [Cappricio-Securities/CVE-2023-24044](https://github.com/Cappricio-Securities/CVE-2023-24044) | Plesk Obsidian &lt;=18.0.49 - Open Redirect | 2024-05-26T06:56:05Z |
 | [CVE-2023-23946](https://www.cve.org/CVERecord?id=CVE-2023-23946) | [bruno-1337/CVE-2023-23946-POC](https://github.com/bruno-1337/CVE-2023-23946-POC) | Explanation and POC of the CVE-2023-23946 | 2023-09-07T10:07:25Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752) | Joomla未授权访问漏洞 | 2023-06-16T07:53:22Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752) | Perform With Mass Exploiter In Joomla 4.2.8. | 2023-04-09T13:20:48Z |
@@ -3638,6 +3643,7 @@ Last generated: 2024-10-01 02:24:31.169749
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [asahilina/agx-exploit](https://github.com/asahilina/agx-exploit) | CVE-2022-32947 walkthough and demo | 2023-09-17T08:21:47Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [pashayogi/DirtyPipe](https://github.com/pashayogi/DirtyPipe) | CVE: CVE-2022-0847 | 2023-09-17T12:43:52Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [yTxZx/CVE-2022-26134](https://github.com/yTxZx/CVE-2022-26134) | no description | 2023-10-20T07:42:36Z |
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [DARKSTUFF-LAB/-CVE-2022-26134](https://github.com/DARKSTUFF-LAB/-CVE-2022-26134) | no description | 2023-12-29T06:51:38Z |
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
