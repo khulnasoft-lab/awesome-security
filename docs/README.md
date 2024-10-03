@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-02 02:15:24.483514
+Last generated: 2024-10-03 02:16:05.329743
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -258,6 +258,7 @@ Last generated: 2024-10-02 02:15:24.483514
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
 | [CVE-2024-44083](https://www.cve.org/CVERecord?id=CVE-2024-44083) | [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083) | Makes IDA (most versions) to crash upon opening it. | 2024-08-25T12:33:14Z |
+| [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000 is a vulnerability in the LiteSpeed Cache plugin, a popular WordPress plugin. This vulnerability affects session management in LiteSpeed Cache, allowing attackers to gain unauthorized access to sensitive data. | 2024-09-06T03:38:13Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC) | CVE-2024-4367 arbitrary js execution in pdf js | 2024-05-20T22:56:10Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval) | CVE-2024-4367 mitigation for Odoo 14.0 | 2024-05-23T07:34:15Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367) | YARA detection rule for CVE-2024-4367 arbitrary javascript execution in PDF.js | 2024-05-22T18:05:47Z |
@@ -379,6 +380,7 @@ Last generated: 2024-10-02 02:15:24.483514
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
+| [CVE-2024-38526](https://www.cve.org/CVERecord?id=CVE-2024-38526) | [putget/pollypull](https://github.com/putget/pollypull) | CVE-2024-38526 -  Polyfill Scanner | 2024-09-05T17:09:50Z |
 | [CVE-2024-38475](https://www.cve.org/CVERecord?id=CVE-2024-38475) | [p0in7s/CVE-2024-38475](https://github.com/p0in7s/CVE-2024-38475) | no description | 2024-08-18T11:30:50Z |
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473) | no description | 2024-08-02T19:57:52Z |
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template) | Nuclei template to detect Apache servers vulnerable to CVE-2024-38473 | 2024-08-23T14:39:31Z |
@@ -867,6 +869,7 @@ Last generated: 2024-10-02 02:15:24.483514
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI) | basic concept for the latest windows wifi driver CVE | 2024-06-20T05:58:45Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [a-roshbaik/CVE_2024_30078_POC_WIFI](https://github.com/a-roshbaik/CVE_2024_30078_POC_WIFI) | no description | 2024-07-24T20:56:54Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
+| [CVE-2024-30051](https://www.cve.org/CVERecord?id=CVE-2024-30051) | [fortra/CVE-2024-30051](https://github.com/fortra/CVE-2024-30051) | no description | 2024-08-14T16:20:38Z |
 | [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
 | [CVE-2024-29973](https://www.cve.org/CVERecord?id=CVE-2024-29973) | [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973) | no description | 2024-06-19T09:28:46Z |
@@ -1209,6 +1212,7 @@ Last generated: 2024-10-02 02:15:24.483514
 | [CVE-2024-24092](https://www.cve.org/CVERecord?id=CVE-2024-24092) | [ASR511-OO7/CVE-2024-24092](https://github.com/ASR511-OO7/CVE-2024-24092) | no description | 2024-02-20T08:21:12Z |
 | [CVE-2024-24035](https://www.cve.org/CVERecord?id=CVE-2024-24035) | [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035) | no description | 2024-02-06T18:49:34Z |
 | [CVE-2024-24034](https://www.cve.org/CVERecord?id=CVE-2024-24034) | [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034) | no description | 2024-02-06T16:47:07Z |
+| [CVE-2024-23997](https://www.cve.org/CVERecord?id=CVE-2024-23997) | [EQSTLab/CVE-2024-23997](https://github.com/EQSTLab/CVE-2024-23997) | PoC for CVE-2024-23997 | 2024-09-06T06:07:12Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z |
@@ -2834,6 +2838,7 @@ Last generated: 2024-10-02 02:15:24.483514
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253) | Dolibarr before 17.0.1 allows remote code execution by an authenticated user via an uppercase manipulation: &lt;?PHP instead of &lt;?php in injected data. | 2024-05-26T15:43:08Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [04Shivam/CVE-2023-30253-Exploit](https://github.com/04Shivam/CVE-2023-30253-Exploit) | Poc for CVE-2023-30253 | 2024-05-27T11:00:43Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253) | Reverse Shell POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253), PHP Code Injection | 2024-05-27T15:10:12Z |
+| [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253) | In Dolibarr 17.0.0 with the CMS Website plugin (core) enabled, an authenticated attacker can obtain remote command execution via php code injection bypassing the application restrictions. | 2024-06-24T16:22:31Z |
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z |
