@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-03 02:16:05.329743
+Last generated: 2024-10-04 02:16:03.438245
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1074,6 +1074,8 @@ Last generated: 2024-10-03 02:16:05.329743
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
 | [CVE-2024-25381](https://www.cve.org/CVERecord?id=CVE-2024-25381) | [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381) | no description | 2024-02-01T11:42:48Z |
 | [CVE-2024-25376](https://www.cve.org/CVERecord?id=CVE-2024-25376) | [ewilded/CVE-2024-25376-POC](https://github.com/ewilded/CVE-2024-25376-POC) | CVE-2024-25376 - Local Privilege Escalation in TUSBAudio | 2024-02-24T09:30:45Z |
+| [CVE-2024-25293](https://www.cve.org/CVERecord?id=CVE-2024-25293) | [EQSTLab/CVE-2024-25293](https://github.com/EQSTLab/CVE-2024-25293) | PoC for CVE-2024-25293 | 2024-09-06T06:12:32Z |
+| [CVE-2024-25291](https://www.cve.org/CVERecord?id=CVE-2024-25291) | [EQSTLab/CVE-2024-25291](https://github.com/EQSTLab/CVE-2024-25291) | PoC for CVE-2024-25291 | 2024-09-06T06:15:35Z |
 | [CVE-2024-25281](https://www.cve.org/CVERecord?id=CVE-2024-25281) | [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281) | (XSS) | 2024-02-17T12:14:56Z |
 | [CVE-2024-25280](https://www.cve.org/CVERecord?id=CVE-2024-25280) | [sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280) | Broken Access control | 2024-02-17T12:11:58Z |
 | [CVE-2024-25279](https://www.cve.org/CVERecord?id=CVE-2024-25279) | [sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279) | (XSS) | 2024-02-17T12:10:12Z |
@@ -1212,7 +1214,9 @@ Last generated: 2024-10-03 02:16:05.329743
 | [CVE-2024-24092](https://www.cve.org/CVERecord?id=CVE-2024-24092) | [ASR511-OO7/CVE-2024-24092](https://github.com/ASR511-OO7/CVE-2024-24092) | no description | 2024-02-20T08:21:12Z |
 | [CVE-2024-24035](https://www.cve.org/CVERecord?id=CVE-2024-24035) | [ELIZEUOPAIN/CVE-2024-24035](https://github.com/ELIZEUOPAIN/CVE-2024-24035) | no description | 2024-02-06T18:49:34Z |
 | [CVE-2024-24034](https://www.cve.org/CVERecord?id=CVE-2024-24034) | [ELIZEUOPAIN/CVE-2024-24034](https://github.com/ELIZEUOPAIN/CVE-2024-24034) | no description | 2024-02-06T16:47:07Z |
+| [CVE-2024-23998](https://www.cve.org/CVERecord?id=CVE-2024-23998) | [EQSTLab/CVE-2024-23998](https://github.com/EQSTLab/CVE-2024-23998) | PoC for CVE-2024-23998 | 2024-09-06T06:11:15Z |
 | [CVE-2024-23997](https://www.cve.org/CVERecord?id=CVE-2024-23997) | [EQSTLab/CVE-2024-23997](https://github.com/EQSTLab/CVE-2024-23997) | PoC for CVE-2024-23997 | 2024-09-06T06:07:12Z |
+| [CVE-2024-23995](https://www.cve.org/CVERecord?id=CVE-2024-23995) | [EQSTLab/CVE-2024-23995](https://github.com/EQSTLab/CVE-2024-23995) | PoC for CVE-2024-23995 | 2024-09-06T06:14:36Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [10T4/PoC-Fix-jenkins-rce_CVE-2024-23897](https://github.com/10T4/PoC-Fix-jenkins-rce_CVE-2024-23897) | on this git you can find all information on the CVE-2024-23897 | 2024-01-27T13:27:57Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897) | CVE-2024-23897 jenkins-cli | 2024-01-27T12:57:28Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897) | Scanner for CVE-2024-23897 - Jenkins | 2024-01-27T04:35:20Z |
@@ -1297,6 +1301,7 @@ Last generated: 2024-10-03 02:16:05.329743
 | [CVE-2024-22909](https://www.cve.org/CVERecord?id=CVE-2024-22909) | [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909) | no description | 2024-01-12T00:40:29Z |
 | [CVE-2024-22899](https://www.cve.org/CVERecord?id=CVE-2024-22899) | [Chocapikk/CVE-2024-22899-to-22903-ExploitChain](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup &amp; Recovery &lt;= 7.2 | 2023-11-06T09:24:15Z |
 | [CVE-2024-22894](https://www.cve.org/CVERecord?id=CVE-2024-22894) | [Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894) | no description | 2024-01-27T18:17:48Z |
+| [CVE-2024-22891](https://www.cve.org/CVERecord?id=CVE-2024-22891) | [EQSTLab/CVE-2024-22891](https://github.com/EQSTLab/CVE-2024-22891) | PoC for CVE-2024-22891 | 2024-09-06T06:13:39Z |
 | [CVE-2024-22890](https://www.cve.org/CVERecord?id=CVE-2024-22890) | [BurakSevben/CVE-2024-22890](https://github.com/BurakSevben/CVE-2024-22890) | no description | 2024-01-11T22:30:50Z |
 | [CVE-2024-22889](https://www.cve.org/CVERecord?id=CVE-2024-22889) | [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9) | no description | 2024-01-25T10:26:29Z |
 | [CVE-2024-22867](https://www.cve.org/CVERecord?id=CVE-2024-22867) | [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867) | no description | 2024-02-11T01:52:52Z |
@@ -4121,6 +4126,7 @@ Last generated: 2024-10-03 02:16:05.329743
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551) | my exp for chrome V8 CVE-2021-30551 | 2021-08-22T14:15:23Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation) | A vulnerable Spring Boot application that uses log4j and is vulnerable to CVE-2021-44228, CVE-2021-44832, CVE-2021-45046 and CVE-2021-45105 | 2023-04-02T23:03:28Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb) | this web is vulnerable against CVE-2021-44228 | 2023-03-20T14:09:30Z |
+| [CVE-2021-30461](https://www.cve.org/CVERecord?id=CVE-2021-30461) | [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461) | CVE-2021-30461 | 2021-05-06T22:50:32Z |
 | [CVE-2021-30357](https://www.cve.org/CVERecord?id=CVE-2021-30357) | [joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC](https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC) | Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client | 2023-06-18T21:52:28Z |
 | [CVE-2021-3019](https://www.cve.org/CVERecord?id=CVE-2021-3019) | [a1665454764/CVE-2021-3019](https://github.com/a1665454764/CVE-2021-3019) | CVE-2021-3019 | 2023-08-30T09:41:09Z |
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [andyhsu024/CVE-2021-29447](https://github.com/andyhsu024/CVE-2021-29447) | no description | 2023-04-24T01:33:22Z |
