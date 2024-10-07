@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-06 02:21:21.381980
+Last generated: 2024-10-07 02:18:56.233749
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2012,6 +2012,7 @@ Last generated: 2024-10-06 02:21:21.381980
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker](https://github.com/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker) | CVE-2024-6387-checker is a tool or script designed to detect the security vulnerability known as CVE-2024-6387 OpenSSH. CVE-2024-6387 OpenSSH is an entry in the Common Vulnerabilities and Exposures (CVE) that documents security weaknesses discovered in certain software or systems. | 2024-08-06T08:12:48Z |
 | [CVE-2023-4596](https://www.cve.org/CVERecord?id=CVE-2023-4596) | [RHYru9/CVE-2023-4596-checker](https://github.com/RHYru9/CVE-2023-4596-checker) | no description | 2024-06-13T10:41:33Z |
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py) | no description | 2024-01-23T21:39:41Z |
+| [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [cisnarfu/Bluepop](https://github.com/cisnarfu/Bluepop) | CVE-2023-45866 | 2024-06-29T19:06:37Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z |
