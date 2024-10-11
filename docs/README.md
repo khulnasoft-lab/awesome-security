@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-10 02:15:48.028443
+Last generated: 2024-10-11 02:15:08.239399
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
+| [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954) | This exploit will attempt to execute system commands on SPIP targets. | 2024-08-28T14:54:56Z |
@@ -157,6 +158,7 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
+| [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
@@ -250,7 +252,9 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR) | no description | 2024-08-08T14:04:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577) | CVE-2024-4577 Exploits | 2024-08-17T02:01:57Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE) | PHP CGI Argument Injection (CVE-2024-4577) RCE | 2024-08-20T02:56:03Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner) | Scanning CVE-2024-4577 vulnerability with a url list. | 2024-09-10T17:31:07Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
+| [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
 | [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
@@ -262,9 +266,11 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-44946](https://www.cve.org/CVERecord?id=CVE-2024-44946) | [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946) | no description | 2024-09-01T13:45:12Z |
 | [CVE-2024-44902](https://www.cve.org/CVERecord?id=CVE-2024-44902) | [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902) | no description | 2024-09-05T15:22:22Z |
 | [CVE-2024-44867](https://www.cve.org/CVERecord?id=CVE-2024-44867) | [ChengZyin/CVE-2024-44867](https://github.com/ChengZyin/CVE-2024-44867) | no description | 2024-09-10T01:49:36Z |
+| [CVE-2024-44849](https://www.cve.org/CVERecord?id=CVE-2024-44849) | [extencil/CVE-2024-44849](https://github.com/extencil/CVE-2024-44849) | 🔥 CVE-2024-44849 Exploit | 2024-09-07T00:00:20Z |
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-44815](https://www.cve.org/CVERecord?id=CVE-2024-44815) | [nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-) | CVE-2024-44815 | 2024-08-31T10:17:11Z |
 | [CVE-2024-44812](https://www.cve.org/CVERecord?id=CVE-2024-44812) | [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC) | Proof of Concept Exploit for CVE-2024-44812 - SQL Injection Authentication Bypass vulnerability in Online Complaint Site v1.0 | 2024-08-31T15:20:27Z |
+| [CVE-2024-44541](https://www.cve.org/CVERecord?id=CVE-2024-44541) | [pointedsec/CVE-2024-44541](https://github.com/pointedsec/CVE-2024-44541) | This repository details a SQL Injection vulnerability in Inventio Lite v4&#x27;s, including exploitation steps and a Python script to automate the attack. It provides information on the vulnerable code, recommended fixes, and how to extract and decrypt administrative credentials. | 2024-08-07T08:45:43Z |
 | [CVE-2024-44450](https://www.cve.org/CVERecord?id=CVE-2024-44450) | [VoidSecOrg/CVE-2024-44450](https://github.com/VoidSecOrg/CVE-2024-44450) | no description | 2024-09-06T11:53:03Z |
 | [CVE-2024-4443](https://www.cve.org/CVERecord?id=CVE-2024-4443) | [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) | CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress &lt;= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter | 2024-05-26T16:34:58Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
@@ -458,6 +464,7 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC) | CVE-2024-37085 VMware ESXi RCE Vulnerability | 2024-08-06T18:23:43Z |
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [WTN-arny/Vmware-ESXI](https://github.com/WTN-arny/Vmware-ESXI) | CVE-2024-37085 unauthenticated shell upload to full administrator on domain-joined esxi hypervisors. | 2024-08-12T17:44:17Z |
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [WTN-arny/CVE-2024-37085](https://github.com/WTN-arny/CVE-2024-37085) | no description | 2024-08-18T17:48:34Z |
+| [CVE-2024-37084](https://www.cve.org/CVERecord?id=CVE-2024-37084) | [vuhz/CVE-2024-37084](https://github.com/vuhz/CVE-2024-37084) | Spring Cloud Remote Code Execution | 2024-09-11T14:09:50Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC) | no description | 2024-07-21T08:42:23Z |
@@ -730,6 +737,7 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-31771](https://www.cve.org/CVERecord?id=CVE-2024-31771) | [restdone/CVE-2024-31771](https://github.com/restdone/CVE-2024-31771) | no description | 2024-04-10T17:09:34Z |
 | [CVE-2024-31734](https://www.cve.org/CVERecord?id=CVE-2024-31734) | [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734) | CVE-2024-31734 | 2024-04-15T07:19:10Z |
 | [CVE-2024-31719](https://www.cve.org/CVERecord?id=CVE-2024-31719) | [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability) | no description | 2023-07-30T00:07:14Z |
+| [CVE-2024-31666](https://www.cve.org/CVERecord?id=CVE-2024-31666) | [hapa3/CVE-2024-31666](https://github.com/hapa3/CVE-2024-31666) | no description | 2024-03-31T08:27:30Z |
 | [CVE-2024-3154](https://www.cve.org/CVERecord?id=CVE-2024-3154) | [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication) | how does it run？ | 2024-04-29T04:03:11Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497) | A script designed to uncover vulnerabilities in Putty by exploiting CVE-2024-31497. | 2024-04-17T04:00:20Z |
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497) | no description | 2024-04-17T10:43:42Z |
@@ -993,6 +1001,7 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [arch1m3d/CVE-2024-28000](https://github.com/arch1m3d/CVE-2024-28000) | PoC for the CVE-2024 Litespeed Cache Privilege Escalation | 2024-08-27T07:20:44Z |
 | [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [ebrasha/CVE-2024-28000](https://github.com/ebrasha/CVE-2024-28000) | LiteSpeed Cache Privilege Escalation PoC - CVE-2024-28000 | 2024-08-25T16:57:24Z |
 | [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [SSSSuperX/CVE-2024-28000](https://github.com/SSSSuperX/CVE-2024-28000) | CVE-2024-28000 LiteSpeed Cache Privilege Escalation Scan&amp;Exp | 2024-09-09T06:19:54Z |
+| [CVE-2024-28000](https://www.cve.org/CVERecord?id=CVE-2024-28000) | [JohnDoeAnonITA/CVE-2024-28000](https://github.com/JohnDoeAnonITA/CVE-2024-28000) | CVE-2024-28000 Exploit for litespeed-cache =&lt;6.3 allows Privilege Escalation with creation of administrator account | 2024-09-10T08:16:16Z |
 | [CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983) | [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2) | CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers. | 2024-04-14T11:34:52Z |
 | [CVE-2024-27972](https://www.cve.org/CVERecord?id=CVE-2024-27972) | [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc) | CVE-2024-27972 WP Fusion Lite &lt;= 3.41.24 - Authenticated (Contributor+) Remote Code Execution | 2024-05-18T14:17:34Z |
 | [CVE-2024-27971](https://www.cve.org/CVERecord?id=CVE-2024-27971) | [truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note) | CVE-2024-27971 WordPress Premmerce Permalink Manager for WooCommerce Plugin &lt;= 2.3.10 is vulnerable to Local File Inclusion | 2024-05-03T13:38:33Z |
@@ -1050,6 +1059,7 @@ Last generated: 2024-10-10 02:15:48.028443
 | [CVE-2024-27088](https://www.cve.org/CVERecord?id=CVE-2024-27088) | [200101WhoAmI/CVE-2024-27088](https://github.com/200101WhoAmI/CVE-2024-27088) | redos | 2024-08-21T05:21:38Z |
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667) | This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload) | 2024-04-28T17:14:47Z |
+| [CVE-2024-26581](https://www.cve.org/CVERecord?id=CVE-2024-26581) | [laoqin1234/Linux-Root-CVE-2024-26581-PoC](https://github.com/laoqin1234/Linux-Root-CVE-2024-26581-PoC) | no description | 2024-09-11T08:29:40Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z |
 | [CVE-2024-26535](https://www.cve.org/CVERecord?id=CVE-2024-26535) | [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535) | (XSS) | 2024-02-26T12:02:10Z |
