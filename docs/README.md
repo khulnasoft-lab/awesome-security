@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-12 02:12:31.021057
+Last generated: 2024-10-13 03:12:45.489232
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
+| [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
@@ -32,6 +33,7 @@ Last generated: 2024-10-12 02:12:31.021057
 | [CVE-2024-6893](https://www.cve.org/CVERecord?id=CVE-2024-6893) | [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC) | Mass Exploit &lt; [CVE-2024-6893/CWE-611 - Journyx] - XML External Entities Injection (XXE) Exploit | 2024-08-17T22:47:45Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782) | Calibre 远程代码执行（CVE-2024-6782）Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-06T15:31:48Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782) | Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-09T06:25:03Z |
+| [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [R4idB0Y/CVE-2024-6782-PoC](https://github.com/R4idB0Y/CVE-2024-6782-PoC) | Unauthenticated remote code execution via Calibre’s content server in Calibre &amp;lt;= 7.14.0. | 2024-09-15T18:45:44Z |
 | [CVE-2024-6768](https://www.cve.org/CVERecord?id=CVE-2024-6768) | [fortra/CVE-2024-6768](https://github.com/fortra/CVE-2024-6768) | no description | 2024-07-18T07:52:46Z |
 | [CVE-2024-6704](https://www.cve.org/CVERecord?id=CVE-2024-6704) | [codeb0ss/CVE-2024-6704](https://github.com/codeb0ss/CVE-2024-6704) | CVE-2024-6704 - [Wordpress wpDiscuz_Plugin] &lt; Unauthenticated HTML Injection Exploiter | 2024-08-03T22:33:57Z |
 | [CVE-2024-6694](https://www.cve.org/CVERecord?id=CVE-2024-6694) | [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC) | CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter) | 2024-07-21T21:41:02Z |
@@ -342,6 +344,7 @@ Last generated: 2024-10-12 02:12:31.021057
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
 | [CVE-2024-40892](https://www.cve.org/CVERecord?id=CVE-2024-40892) | [xen0bit/fwbt](https://github.com/xen0bit/fwbt) | Proof of Concept code for interaction with Firewalla via Bluetooth Low-Energy and exploitation of CVE-2024-40892 / CVE-2024-40893 | 2024-08-21T17:27:21Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
+| [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711) | Pre-Auth Exploit for CVE-2024-40711 | 2024-09-15T17:25:32Z |
 | [CVE-2024-40617](https://www.cve.org/CVERecord?id=CVE-2024-40617) | [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617) | CVE-2024-40617 Exploit PoC | 2024-07-30T11:50:45Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
 | [CVE-2024-40511](https://www.cve.org/CVERecord?id=CVE-2024-40511) | [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511) | OpenPetra v.2023.02 CVE-2024-40511 | 2024-07-13T22:04:53Z |
@@ -1038,6 +1041,7 @@ Last generated: 2024-10-12 02:12:31.021057
 | [CVE-2024-27631](https://www.cve.org/CVERecord?id=CVE-2024-27631) | [ally-petitt/CVE-2024-27631](https://github.com/ally-petitt/CVE-2024-27631) | CVE-2024–27631 Reference | 2024-04-06T23:30:01Z |
 | [CVE-2024-27630](https://www.cve.org/CVERecord?id=CVE-2024-27630) | [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630) | CVE-2024–27630 Reference | 2024-04-07T00:13:13Z |
 | [CVE-2024-27564](https://www.cve.org/CVERecord?id=CVE-2024-27564) | [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564) | no description | 2024-09-15T10:25:01Z |
+| [CVE-2024-27564](https://www.cve.org/CVERecord?id=CVE-2024-27564) | [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564) | no description | 2024-09-15T15:11:54Z |
 | [CVE-2024-27518](https://www.cve.org/CVERecord?id=CVE-2024-27518) | [secunnix/CVE-2024-27518](https://github.com/secunnix/CVE-2024-27518) | SUPERAntiSpyware Professional X &lt;=10.0.1264 LPE Vulnerability PoC | 2024-04-03T13:41:18Z |
 | [CVE-2024-27462](https://www.cve.org/CVERecord?id=CVE-2024-27462) | [Alaatk/CVE-2024-27462](https://github.com/Alaatk/CVE-2024-27462) | Wondershare MobileTrans 4.5.6 - Unquoted Service Path | 2024-04-13T06:27:28Z |
 | [CVE-2024-27460](https://www.cve.org/CVERecord?id=CVE-2024-27460) | [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460) | Plantronics Desktop Hub LPE | 2024-05-12T09:53:07Z |
@@ -3873,6 +3877,7 @@ Last generated: 2024-10-12 02:12:31.021057
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388) | cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE | 2022-10-25T12:29:54Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388) | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | 2022-05-12T16:54:52Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [battleofthebots/refresh](https://github.com/battleofthebots/refresh) | CVE-2022-1388 - F5 Router RCE Replica | 2023-08-01T18:12:52Z |
+| [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nvk0x/CVE-2022-1388-exploit](https://github.com/nvk0x/CVE-2022-1388-exploit) | exploit poc | 2024-01-03T12:28:06Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
 | [CVE-2022-1364](https://www.cve.org/CVERecord?id=CVE-2022-1364) | [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) | no description | 2023-11-22T10:55:34Z |
@@ -3978,6 +3983,7 @@ Last generated: 2024-10-12 02:12:31.021057
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [felixslama/log4shell-minecraft-demo](https://github.com/felixslama/log4shell-minecraft-demo) | Log4Shell (CVE-2021-44228) minecraft demo. Used for education fairs | 2023-11-21T15:45:31Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
+| [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
 | [CVE-2021-43890](https://www.cve.org/CVERecord?id=CVE-2021-43890) | [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc) | no description | 2022-10-28T01:46:51Z |
 | [CVE-2021-43858](https://www.cve.org/CVERecord?id=CVE-2021-43858) | [khuntor/CVE-2021-43858-MinIO](https://github.com/khuntor/CVE-2021-43858-MinIO) | no description | 2023-04-12T07:34:03Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [nuker/CVE-2021-43798](https://github.com/nuker/CVE-2021-43798) | POC for CVE-2021-43798 written in python | 2023-07-19T04:16:39Z |
