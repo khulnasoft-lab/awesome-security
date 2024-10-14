@@ -2,14 +2,16 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-13 03:12:45.489232
+Last generated: 2024-10-14 02:18:26.922035
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
+| [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
+| [CVE-2024-7965](https://www.cve.org/CVERecord?id=CVE-2024-7965) | [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965) | This repository contains PoC for CVE-2024-7965. This is the vulnerability in the V8 that occurs only within ARM64. | 2024-09-16T19:04:57Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954) | This exploit will attempt to execute system commands on SPIP targets. | 2024-08-28T14:54:56Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-09-01T10:59:45Z |
@@ -286,6 +288,7 @@ Last generated: 2024-10-13 03:12:45.489232
 | [CVE-2024-44083](https://www.cve.org/CVERecord?id=CVE-2024-44083) | [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083) | Makes IDA (most versions) to crash upon opening it. | 2024-08-25T12:33:14Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000 is a vulnerability in the LiteSpeed Cache plugin, a popular WordPress plugin. This vulnerability affects session management in LiteSpeed Cache, allowing attackers to gain unauthorized access to sensitive data. | 2024-09-06T03:38:13Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000) | LiteSpeed Unauthorized Account Takeover | 2024-09-06T13:43:30Z |
+| [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000-LiteSpeed-Cache | 2024-09-16T14:13:52Z |
 | [CVE-2024-43998](https://www.cve.org/CVERecord?id=CVE-2024-43998) | [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998) | Blogpoet &lt;= 1.0.2 - Missing Authorization via blogpoet_install_and_activate_plugins() | 2024-09-10T09:38:20Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC) | CVE-2024-4367 arbitrary js execution in pdf js | 2024-05-20T22:56:10Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval) | CVE-2024-4367 mitigation for Odoo 14.0 | 2024-05-23T07:34:15Z |
@@ -3766,6 +3769,7 @@ Last generated: 2024-10-13 03:12:45.489232
 | [CVE-2022-24500](https://www.cve.org/CVERecord?id=CVE-2022-24500) | [0xZipp0/CVE-2022-24500](https://github.com/0xZipp0/CVE-2022-24500) | no description | 2023-08-03T01:55:15Z |
 | [CVE-2022-24491](https://www.cve.org/CVERecord?id=CVE-2022-24491) | [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491) | A Zeek CVE-2022-24491 detector. | 2022-04-13T12:40:57Z |
 | [CVE-2022-24481](https://www.cve.org/CVERecord?id=CVE-2022-24481) | [robotMD5/CVE-2022-24481-POC](https://github.com/robotMD5/CVE-2022-24481-POC) | POC for CLFS CVE-2022-24481 | 2023-05-14T07:30:23Z |
+| [CVE-2022-24442](https://www.cve.org/CVERecord?id=CVE-2022-24442) | [mbadanoiu/CVE-2022-24442](https://github.com/mbadanoiu/CVE-2022-24442) | CVE-2022-24442: FreeMarker Server-Side Template Injection in JetBrains YouTrack | 2024-01-05T00:04:41Z |
 | [CVE-2022-24227](https://www.cve.org/CVERecord?id=CVE-2022-24227) | [Cyber-Wo0dy/CVE-2022-24227-updated](https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated) | CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to &quot;Stored Cross-site Scripting (XSS)&quot; | 2023-11-13T12:53:56Z |
 | [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [satyasai1460/CVE-2022-2414](https://github.com/satyasai1460/CVE-2022-2414) | CVE-2022-2414 POC | 2023-10-05T07:55:01Z |
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z |
@@ -3830,6 +3834,7 @@ Last generated: 2024-10-13 03:12:45.489232
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [WellingtonEspindula/SSI-CVE-2022-21661](https://github.com/WellingtonEspindula/SSI-CVE-2022-21661) | Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3. | 2023-01-13T13:31:34Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [z92g/CVE-2022-21661](https://github.com/z92g/CVE-2022-21661) | WordPress WP_Query SQL Injection POC | 2022-07-28T13:12:51Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [Wack0/batondrop_armv7](https://github.com/Wack0/batondrop_armv7) | An implementation of baton drop (CVE-2022-21894) for armv7 (MSM8960) | 2023-03-11T14:38:13Z |
+| [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [p4ncontomat3/CVE-2022-21661](https://github.com/p4ncontomat3/CVE-2022-21661) | Script to validate WordPress CVE-2022-21661 | 2024-01-04T15:49:00Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
 | [CVE-2022-21392](https://www.cve.org/CVERecord?id=CVE-2022-21392) | [mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392) | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager | 2023-12-08T20:13:23Z |
@@ -5534,6 +5539,7 @@ Last generated: 2024-10-13 03:12:45.489232
 | [CVE-2017-0144](https://www.cve.org/CVERecord?id=CVE-2017-0144) | [quynhold/Detect-CVE-2017-0144-attack](https://github.com/quynhold/Detect-CVE-2017-0144-attack) | Chương trình theo dõi, giám sát lưu lượng mạng được viết bằng Python, nó sẽ đưa ra cảnh báo khi phát hiện tấn công CVE-2017-0144 | 2022-12-16T11:10:13Z |
 | [CVE-2017-0144](https://www.cve.org/CVERecord?id=CVE-2017-0144) | [EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution](https://github.com/EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution) | no description | 2021-03-22T09:33:51Z |
 | [CVE-2017-0144](https://www.cve.org/CVERecord?id=CVE-2017-0144) | [vidaAhmadi/sample-CVE](https://github.com/vidaAhmadi/sample-CVE) | The sample CVE-ID 2017-2020 in VRM paper | 2021-02-28T20:53:14Z |
+| [CVE-2017-0144](https://www.cve.org/CVERecord?id=CVE-2017-0144) | [AnugiArrawwala/CVE-Research](https://github.com/AnugiArrawwala/CVE-Research) | CVE-2017-0144 (Eternal Blue) - CVE-2023-3881 - CVE-2011-2523 | 2024-07-03T06:30:54Z |
 | [CVE-2017-0143](https://www.cve.org/CVERecord?id=CVE-2017-0143) | [crypticdante/MS17-010_CVE-2017-0143](https://github.com/crypticdante/MS17-010_CVE-2017-0143) | no description | 2021-07-08T17:35:50Z |
 | [CVE-2017-0143](https://www.cve.org/CVERecord?id=CVE-2017-0143) | [fastify/send](https://github.com/fastify/send) | Fork of the send module to deal with CVE-2017-20165 | 2023-01-11T10:20:27Z |
 | [CVE-2017-0143](https://www.cve.org/CVERecord?id=CVE-2017-0143) | [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces) | 😛 Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | 2022-09-09T23:09:40Z |
