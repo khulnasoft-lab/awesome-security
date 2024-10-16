@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-15 02:17:30.992673
+Last generated: 2024-10-16 02:18:00.672435
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -312,6 +312,7 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
 | [CVE-2024-4320](https://www.cve.org/CVERecord?id=CVE-2024-4320) | [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320) | no description | 2024-08-08T03:54:38Z |
+| [CVE-2024-43160](https://www.cve.org/CVERecord?id=CVE-2024-43160) | [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160) | The BerqWP – Automated All-In-One PageSpeed Optimization Plugin for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript plugin for WordPress is vulnerable to arbitrary file uploads | 2024-09-17T04:19:54Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430) | This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044 | 2024-08-08T11:55:32Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC) | CVE-2024-43044的利用方式 | 2024-08-13T07:32:35Z |
@@ -989,6 +990,7 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE) | UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. | 2024-04-08T13:54:07Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876) | POC for SQLi vulnerability in Icegram express | 2024-04-25T09:53:22Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876) | no description | 2024-09-14T16:08:56Z |
+| [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876) | no description | 2024-09-17T05:54:18Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757) | no description | 2024-05-03T04:58:24Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757) | no description | 2024-05-03T10:11:38Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757) | no description | 2024-05-03T09:21:27Z |
@@ -1393,6 +1395,7 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2024-22026](https://www.cve.org/CVERecord?id=CVE-2024-22026) | [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026) | Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot; | 2024-05-15T11:20:45Z |
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024) | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | 2024-02-09T14:31:56Z |
 | [CVE-2024-22002](https://www.cve.org/CVERecord?id=CVE-2024-22002) | [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002) | no description | 2024-01-02T18:49:21Z |
+| [CVE-2024-21978](https://www.cve.org/CVERecord?id=CVE-2024-21978) | [Freax13/cve-2024-21978-poc](https://github.com/Freax13/cve-2024-21978-poc) | no description | 2024-01-07T11:07:01Z |
 | [CVE-2024-2193](https://www.cve.org/CVERecord?id=CVE-2024-2193) | [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193) | no description | 2024-03-28T07:30:04Z |
 | [CVE-2024-21899](https://www.cve.org/CVERecord?id=CVE-2024-21899) | [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC) | Critical RCE CVE-2024-21899 Vulnerability in QNAP Products | 2024-03-27T19:19:49Z |
 | [CVE-2024-21893](https://www.cve.org/CVERecord?id=CVE-2024-21893) | [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py) | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | 2024-02-02T22:59:21Z |
@@ -2211,6 +2214,7 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [Zyad-Elsayed/CVE-2023-42793](https://github.com/Zyad-Elsayed/CVE-2023-42793) | JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE), CVE-2023-42793 | 2024-04-24T16:33:20Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793) | JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation | 2024-04-21T13:52:28Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793) | TeamCity CVE-2023-42793 exploit written in Rust | 2024-05-27T03:31:57Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793) | TeamCity RCE for Linux (CVE-2023-42793) | 2024-07-05T17:39:25Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
@@ -2730,6 +2734,7 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs) | CVE-2023-34362-IOCs. More information on Deep Instinct&#x27;s blog site. | 2023-06-06T15:33:49Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362) | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | 2024-01-01T00:55:07Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [glen-pearson/MoveIT-CVE-2023-34362-RCE](https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE) | Modified RCE with a remote shell and logging | 2024-06-28T17:13:15Z |
+| [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [aditibv/MOVEit-CVE-2023-34362](https://github.com/aditibv/MOVEit-CVE-2023-34362) | This repository investigates the exploitation of CVE-2023-34362 in the MOVEit file transfer server by the TA505 (Cl0p) ransomware group. It explores the group&#x27;s tactics and past campaigns targeting file transfer applications, aiming to enhance understanding and defensive measures against such threats. | 2024-07-04T21:13:48Z |
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z |
 | [CVE-2023-34212](https://www.cve.org/CVERecord?id=CVE-2023-34212) | [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | 2023-11-23T22:14:49Z |
 | [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [paulsery/CVE_2023_3420](https://github.com/paulsery/CVE_2023_3420) | V8 type confusion allows chrome sandbox escape | 2024-01-24T19:21:19Z |
@@ -3354,7 +3359,9 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2023-21094](https://www.cve.org/CVERecord?id=CVE-2023-21094) | [Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094) | no description | 2023-10-25T07:54:39Z |
 | [CVE-2023-21086](https://www.cve.org/CVERecord?id=CVE-2023-21086) | [Trinadh465/packages_apps_Settings_CVE-2023-21086](https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086) | no description | 2023-10-25T11:42:32Z |
 | [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963) | no description | 2023-10-20T09:11:00Z |
+| [CVE-2023-20963](https://www.cve.org/CVERecord?id=CVE-2023-20963) | [Ailenchick/CVE-2023-20963](https://github.com/Ailenchick/CVE-2023-20963) | no description | 2024-07-05T15:02:07Z |
 | [CVE-2023-20955](https://www.cve.org/CVERecord?id=CVE-2023-20955) | [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955) | no description | 2023-10-26T13:19:06Z |
+| [CVE-2023-20945](https://www.cve.org/CVERecord?id=CVE-2023-20945) | [Ailenchick/CVE-2023-20945](https://github.com/Ailenchick/CVE-2023-20945) | no description | 2024-07-05T15:03:40Z |
 | [CVE-2023-20944](https://www.cve.org/CVERecord?id=CVE-2023-20944) | [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944) | no description | 2023-11-29T06:09:52Z |
 | [CVE-2023-20932](https://www.cve.org/CVERecord?id=CVE-2023-20932) | [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932) | no description | 2023-11-17T09:23:28Z |
 | [CVE-2023-20921](https://www.cve.org/CVERecord?id=CVE-2023-20921) | [Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921](https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921) | no description | 2023-11-29T06:42:43Z |
@@ -3526,6 +3533,8 @@ Last generated: 2024-10-15 02:17:30.992673
 | [CVE-2022-45808](https://www.cve.org/CVERecord?id=CVE-2022-45808) | [RandomRobbieBF/CVE-2022-45808](https://github.com/RandomRobbieBF/CVE-2022-45808) | LearnPress Plugin &lt; 4.2.0 - Unauthenticated SQLi | 2023-08-18T15:43:50Z |
 | [CVE-2022-45771](https://www.cve.org/CVERecord?id=CVE-2022-45771) | [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE) | Pwndoc local file inclusion to remote code execution of Node.js code on the server | 2022-12-13T10:03:14Z |
 | [CVE-2022-45770](https://www.cve.org/CVERecord?id=CVE-2022-45770) | [Marsel-marsel/CVE-2022-45770](https://github.com/Marsel-marsel/CVE-2022-45770) | LPE exploit via windows driver | 2023-01-21T10:32:02Z |
+| [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp2](https://github.com/scabench/jsonorg-fp2) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T00:14:20Z |
+| [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp1](https://github.com/scabench/jsonorg-fp1) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-28T23:52:36Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
