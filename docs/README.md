@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-16 02:18:00.672435
+Last generated: 2024-10-17 02:16:06.876667
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -42,6 +42,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2024-6670](https://www.cve.org/CVERecord?id=CVE-2024-6670) | [sinsinology/CVE-2024-6670](https://github.com/sinsinology/CVE-2024-6670) | no description | 2024-08-30T17:13:14Z |
 | [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
 | [CVE-2024-6624](https://www.cve.org/CVERecord?id=CVE-2024-6624) | [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624) | JSON API User &lt;= 3.9.3 - Unauthenticated Privilege Escalation | 2024-09-10T12:08:55Z |
+| [CVE-2024-6592](https://www.cve.org/CVERecord?id=CVE-2024-6592) | [RedTeamPentesting/watchguard-sso-client](https://github.com/RedTeamPentesting/watchguard-sso-client) | Client Implementation for the WatchGuard SSO Agent Protocol used for Security Research (CVE-2024-6592, CVE-2024-6593, CVE-2024-6594) | 2024-09-17T14:01:10Z |
 | [CVE-2024-6536](https://www.cve.org/CVERecord?id=CVE-2024-6536) | [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536) | no description | 2024-07-31T14:31:56Z |
 | [CVE-2024-6529](https://www.cve.org/CVERecord?id=CVE-2024-6529) | [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529) | no description | 2024-08-02T20:02:39Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
@@ -285,6 +286,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
+| [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44083](https://www.cve.org/CVERecord?id=CVE-2024-44083) | [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083) | Makes IDA (most versions) to crash upon opening it. | 2024-08-25T12:33:14Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000 is a vulnerability in the LiteSpeed Cache plugin, a popular WordPress plugin. This vulnerability affects session management in LiteSpeed Cache, allowing attackers to gain unauthorized access to sensitive data. | 2024-09-06T03:38:13Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000) | LiteSpeed Unauthorized Account Takeover | 2024-09-06T13:43:30Z |
@@ -529,6 +531,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2024-3495](https://www.cve.org/CVERecord?id=CVE-2024-3495) | [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) | The Country State City Dropdown CF7 WordPress plugin (versions up to 2.7.2) is vulnerable to SQL Injection via &#x27;cnt&#x27; and &#x27;sid&#x27; parameters. Insufficient escaping and lack of preparation in the SQL query allow unauthenticated attackers to append queries, potentially extracting sensitive database information. | 2024-05-28T02:57:12Z |
 | [CVE-2024-34833](https://www.cve.org/CVERecord?id=CVE-2024-34833) | [ShellUnease/CVE-2024-34833-payroll-management-system-rce](https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce) | no description | 2024-05-02T10:37:56Z |
 | [CVE-2024-34832](https://www.cve.org/CVERecord?id=CVE-2024-34832) | [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832) | CVE-2024-34832 | 2024-05-14T19:15:31Z |
+| [CVE-2024-34831](https://www.cve.org/CVERecord?id=CVE-2024-34831) | [enzored/CVE-2024-34831](https://github.com/enzored/CVE-2024-34831) | Disclosure of CVE-2024-34831 | 2024-09-08T23:58:09Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693) | no description | 2024-07-29T04:30:23Z |
@@ -650,6 +653,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32700](https://www.cve.org/CVERecord?id=CVE-2024-32700) | [nastar-id/CVE-2024-32700](https://github.com/nastar-id/CVE-2024-32700) | no description | 2024-08-03T07:41:30Z |
 | [CVE-2024-32651](https://www.cve.org/CVERecord?id=CVE-2024-32651) | [zcrosman/cve-2024-32651](https://github.com/zcrosman/cve-2024-32651) | changedetection rce though ssti | 2024-05-26T21:24:14Z |
+| [CVE-2024-32651](https://www.cve.org/CVERecord?id=CVE-2024-32651) | [s0ck3t-s3c/CVE-2024-32651-changedetection-RCE](https://github.com/s0ck3t-s3c/CVE-2024-32651-changedetection-RCE) | Server-Side Template Injection Exploit | 2024-09-16T13:11:38Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS) | no description | 2024-05-17T13:43:59Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) | sql延时注入poc | 2024-06-06T08:56:34Z |
@@ -3535,6 +3539,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2022-45770](https://www.cve.org/CVERecord?id=CVE-2022-45770) | [Marsel-marsel/CVE-2022-45770](https://github.com/Marsel-marsel/CVE-2022-45770) | LPE exploit via windows driver | 2023-01-21T10:32:02Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp2](https://github.com/scabench/jsonorg-fp2) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T00:14:20Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp1](https://github.com/scabench/jsonorg-fp1) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-28T23:52:36Z |
+| [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp3](https://github.com/scabench/jsonorg-fp3) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T02:01:22Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
@@ -4069,6 +4074,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [Iris288/CVE-2021-41773](https://github.com/Iris288/CVE-2021-41773) | no description | 2023-11-20T09:57:07Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
+| [CVE-2021-41349](https://www.cve.org/CVERecord?id=CVE-2021-41349) | [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349) | Microsoft Exchange Server Spoofing Vulnerability Exploit! | 2022-07-30T10:51:55Z |
 | [CVE-2021-41277](https://www.cve.org/CVERecord?id=CVE-2021-41277) | [RubXkuB/PoC-Metabase-CVE-2021-41277](https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277) | no description | 2023-04-24T16:34:13Z |
 | [CVE-2021-41160](https://www.cve.org/CVERecord?id=CVE-2021-41160) | [Jajangjaman/CVE-2021-41160](https://github.com/Jajangjaman/CVE-2021-41160) | FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. In affected versions a malicious server might trigger out of bound writes in a connected client. Connections using GDI or SurfaceCommands to send graphics updates to the client might send `0` width/height or out of CVE project by @Sn0wAlice | 2022-12-28T02:59:42Z |
 | [CVE-2021-41160](https://www.cve.org/CVERecord?id=CVE-2021-41160) | [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder) | Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105) | 2021-12-14T10:04:42Z |
@@ -4082,6 +4088,7 @@ Last generated: 2024-10-16 02:18:00.672435
 | [CVE-2021-40444](https://www.cve.org/CVERecord?id=CVE-2021-40444) | [hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444) | no description | 2023-06-05T02:27:21Z |
 | [CVE-2021-40444](https://www.cve.org/CVERecord?id=CVE-2021-40444) | [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs) | Exploit created in python3 to exploit known vulnerabilities in Apache web server (CVE-2021-41773, CVE-2021-42013) | 2023-06-03T22:59:20Z |
 | [CVE-2021-40444](https://www.cve.org/CVERecord?id=CVE-2021-40444) | [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | 2021-09-15T22:34:35Z |
+| [CVE-2021-40444](https://www.cve.org/CVERecord?id=CVE-2021-40444) | [MohamedAboHelal/CVE-2021-40444](https://github.com/MohamedAboHelal/CVE-2021-40444) | CVE-2021-40444 | 2023-12-24T16:20:39Z |
 | [CVE-2021-40438](https://www.cve.org/CVERecord?id=CVE-2021-40438) | [sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit](https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit) | CVE-2021-40438 Apache &lt;= 2.4.48 SSRF exploit | 2023-12-12T11:56:23Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Y3A/CVE-2021-4034](https://github.com/Y3A/CVE-2021-4034) | no description | 2022-01-26T04:05:50Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [asepsaepdin/CVE-2021-4034](https://github.com/asepsaepdin/CVE-2021-4034) | no description | 2023-07-10T08:05:17Z |
