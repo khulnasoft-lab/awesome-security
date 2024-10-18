@@ -2,10 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-17 02:16:06.876667
+Last generated: 2024-10-18 02:16:44.866325
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
+| [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
@@ -208,6 +210,7 @@ Last generated: 2024-10-17 02:16:06.876667
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
+| [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256) | POC_CVE-2024-46256 | 2024-09-19T09:35:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei) | CVE-2024-4577 nuclei-templates | 2024-06-08T03:12:28Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Yukiioz/CVE-2024-4577](https://github.com/Yukiioz/CVE-2024-4577) | no description | 2024-06-07T20:10:49Z |
@@ -264,11 +267,13 @@ Last generated: 2024-10-17 02:16:06.876667
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
+| [CVE-2024-45383](https://www.cve.org/CVERecord?id=CVE-2024-45383) | [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383) | poc for CVE-2024-45383 | 2024-09-18T15:40:19Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
 | [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle) | Chaincode for blockchain Hyperledger Fabric provides accurate time to other chaincodes. Thus solving the security problem associated with transaction time manipulation (CVE-2024-45244). | 2024-07-28T19:19:42Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/HLF_TxTime_spoofing](https://github.com/shanker-sec/HLF_TxTime_spoofing) | PoC covering the problem of transaction time manipulation (CVE-2024-45244) in the Hyperledger Fabric blockchain. | 2024-06-23T14:56:14Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241) | Path Traversal in CentralSquare&#x27;s CryWolf | 2024-08-25T15:57:40Z |
+| [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241) | no description | 2024-09-19T12:43:48Z |
 | [CVE-2024-45058](https://www.cve.org/CVERecord?id=CVE-2024-45058) | [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058) | PoC for CVE-2024-45058 Broken Access Control, allowing any user with view permission in the user configuration section to become an administrator changing their own user type. | 2024-08-30T18:44:05Z |
 | [CVE-2024-44947](https://www.cve.org/CVERecord?id=CVE-2024-44947) | [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947) | no description | 2024-09-03T18:37:40Z |
 | [CVE-2024-44946](https://www.cve.org/CVERecord?id=CVE-2024-44946) | [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946) | no description | 2024-09-01T13:45:12Z |
@@ -331,6 +336,7 @@ Last generated: 2024-10-17 02:16:06.876667
 | [CVE-2024-42758](https://www.cve.org/CVERecord?id=CVE-2024-42758) | [1s1ldur/CVE-2024-42758](https://github.com/1s1ldur/CVE-2024-42758) | CVE-2024-42758 - Dokuwiki (indexmenu plugin) - XSS Vulnerability | 2024-08-15T13:59:50Z |
 | [CVE-2024-42658](https://www.cve.org/CVERecord?id=CVE-2024-42658) | [sudo-subho/CVE-2024-42658](https://github.com/sudo-subho/CVE-2024-42658) | CVE-2024-42658 An issue in wishnet Nepstech Wifi Router NTPL-XPON1GFEVN v1.0 allows a remote attacker to obtain sensitive information via the cookies parameter | 2024-08-17T03:02:20Z |
 | [CVE-2024-42657](https://www.cve.org/CVERecord?id=CVE-2024-42657) | [sudo-subho/CVE-2024-42657](https://github.com/sudo-subho/CVE-2024-42657) | CVE-2024-42657 An issue in wishnet Nepstech Wifi Router NTPL-XPON1GFEVN v1.0 allows a remote attacker to obtain sensitive information via the lack of encryption during login process. | 2024-08-17T02:55:14Z |
+| [CVE-2024-42642](https://www.cve.org/CVERecord?id=CVE-2024-42642) | [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642) | no description | 2024-08-30T17:24:58Z |
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
@@ -1339,6 +1345,7 @@ Last generated: 2024-10-17 02:16:06.876667
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP) | CVE-2024-23692 Exploit | 2024-06-18T03:27:47Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692) | CVE-2024-23692 | 2024-06-17T08:46:48Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692) | Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692) | 2024-07-10T04:44:27Z |
+| [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692) | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | 2024-09-15T12:15:35Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23339](https://www.cve.org/CVERecord?id=CVE-2024-23339) | [200101WhoAmI/CVE-2024-23339](https://github.com/200101WhoAmI/CVE-2024-23339) | pp | 2024-08-21T05:03:32Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z |
@@ -1933,6 +1940,7 @@ Last generated: 2024-10-17 02:16:06.876667
 | [CVE-2023-48199](https://www.cve.org/CVERecord?id=CVE-2023-48199) | [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199) | no description | 2023-11-14T16:50:31Z |
 | [CVE-2023-48198](https://www.cve.org/CVERecord?id=CVE-2023-48198) | [nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198) | no description | 2023-11-14T16:40:03Z |
 | [CVE-2023-48197](https://www.cve.org/CVERecord?id=CVE-2023-48197) | [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197) | no description | 2023-11-14T16:34:21Z |
+| [CVE-2023-48194](https://www.cve.org/CVERecord?id=CVE-2023-48194) | [zt20xx/CVE-2023-48194](https://github.com/zt20xx/CVE-2023-48194) | no description | 2024-07-06T12:37:56Z |
 | [CVE-2023-4813](https://www.cve.org/CVERecord?id=CVE-2023-4813) | [tnishiox/cve-2023-4813](https://github.com/tnishiox/cve-2023-4813) | no description | 2024-06-06T12:12:57Z |
 | [CVE-2023-48123](https://www.cve.org/CVERecord?id=CVE-2023-48123) | [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123) | CVE-2023-54436 Exp | 2023-11-17T02:56:26Z |
 | [CVE-2023-48104](https://www.cve.org/CVERecord?id=CVE-2023-48104) | [E1tex/CVE-2023-48104](https://github.com/E1tex/CVE-2023-48104) | HTML Injection in Alinto/SOGo Web Client | 2024-01-10T15:49:48Z |
