@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-18 02:16:44.866325
+Last generated: 2024-10-19 02:14:18.537989
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -210,6 +210,8 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
+| [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
+| [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
 | [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256) | POC_CVE-2024-46256 | 2024-09-19T09:35:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei) | CVE-2024-4577 nuclei-templates | 2024-06-08T03:12:28Z |
@@ -329,6 +331,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc) | no description | 2024-06-14T07:04:36Z |
 | [CVE-2024-42919](https://www.cve.org/CVERecord?id=CVE-2024-42919) | [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919) | no description | 2024-08-19T19:50:50Z |
+| [CVE-2024-42861](https://www.cve.org/CVERecord?id=CVE-2024-42861) | [qiupy123/CVE-2024-42861](https://github.com/qiupy123/CVE-2024-42861) | the | 2024-09-21T01:24:25Z |
 | [CVE-2024-42850](https://www.cve.org/CVERecord?id=CVE-2024-42850) | [njmbb8/CVE-2024-42850](https://github.com/njmbb8/CVE-2024-42850) | An issue in Silverpeas v6.4.2 and lower allows for the bypassing of password complexity requirements. | 2024-08-15T21:32:29Z |
 | [CVE-2024-42849](https://www.cve.org/CVERecord?id=CVE-2024-42849) | [njmbb8/CVE-2024-42849](https://github.com/njmbb8/CVE-2024-42849) | An issue in Silverpeas v.6.4.2 and lower allows a remote attacker to cause a denial of service via the password change function. | 2024-08-15T21:57:29Z |
 | [CVE-2024-42845](https://www.cve.org/CVERecord?id=CVE-2024-42845) | [partywavesec/invesalius3_vulnerabilities](https://github.com/partywavesec/invesalius3_vulnerabilities) | InVesalius discovered CVE. CVE-2024-42845 | 2024-08-23T13:43:27Z |
@@ -418,6 +421,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE) | Apache OFBiz CVE-2024-38856 | 2024-08-28T03:17:22Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
+| [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo) | no description | 2024-09-20T02:09:23Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -463,6 +467,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [KernelKraze/CVE-2024-38063_PoC](https://github.com/KernelKraze/CVE-2024-38063_PoC) | This is a C language program designed to test the Windows TCP/IP Remote Code Execution Vulnerability (CVE-2024-38063). It sends specially crafted IPv6 packets with embedded shellcode to exploit the vulnerability. | 2024-09-01T09:20:02Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [Faizan-Khanx/CVE-2024-38063](https://github.com/Faizan-Khanx/CVE-2024-38063) | CVE-2024-38063 - Remotely Exploiting The Kernel Via IPv6 | 2024-09-10T07:15:20Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [ThemeHackers/CVE-2024-38063](https://github.com/ThemeHackers/CVE-2024-38063) | CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE) | 2024-08-31T13:56:26Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [ArenaldyP/CVE-2024-38063-Medium](https://github.com/ArenaldyP/CVE-2024-38063-Medium) | Kode Eksploitasi CVE-2024-38063 | 2024-09-21T17:33:52Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -655,6 +660,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273) | Quick and dirty honeypot for CVE-2024-3273 | 2024-04-07T21:15:33Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [mrrobot0o/CVE-2024-3273-](https://github.com/mrrobot0o/CVE-2024-3273-) | no description | 2024-04-23T06:31:19Z |
 | [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [OIivr/Turvan6rkus-CVE-2024-3273](https://github.com/OIivr/Turvan6rkus-CVE-2024-3273) | no description | 2024-05-05T22:07:02Z |
+| [CVE-2024-3273](https://www.cve.org/CVERecord?id=CVE-2024-3273) | [X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE](https://github.com/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE) | CVE-2024-3273 - D-Link Remote Code Execution (RCE) | 2024-09-21T11:17:34Z |
 | [CVE-2024-3272](https://www.cve.org/CVERecord?id=CVE-2024-3272) | [aliask/dinkleberry](https://github.com/aliask/dinkleberry) | Patch your D-Link device affected by CVE-2024-3272 | 2024-05-21T08:40:37Z |
 | [CVE-2024-32709](https://www.cve.org/CVERecord?id=CVE-2024-32709) | [truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc) | CVE-2024-32709 WP-Recall – Registration, Profile, Commerce &amp; More &lt;= 16.26.5 - Unauthenticated SQL Injection | 2024-05-05T17:21:55Z |
 | [CVE-2024-32700](https://www.cve.org/CVERecord?id=CVE-2024-32700) | [nastar-id/CVE-2024-32700](https://github.com/nastar-id/CVE-2024-32700) | no description | 2024-08-03T07:41:30Z |
@@ -1421,6 +1427,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan) | Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887. | 2024-01-19T02:12:11Z |
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887) | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | 2024-02-03T11:33:40Z |
 | [CVE-2024-21887](https://www.cve.org/CVERecord?id=CVE-2024-21887) | [imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887) | Ivanti Connect Secure &amp;  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | 2024-02-09T18:07:06Z |
+| [CVE-2024-2188](https://www.cve.org/CVERecord?id=CVE-2024-2188) | [hacefresko/CVE-2024-2188](https://github.com/hacefresko/CVE-2024-2188) | Exploit for stored XSS vulnerability found in the TP-Link Archer AX50 router. | 2024-09-17T14:33:13Z |
 | [CVE-2024-21793](https://www.cve.org/CVERecord?id=CVE-2024-21793) | [FeatherStark/CVE-2024-21793](https://github.com/FeatherStark/CVE-2024-21793) | no description | 2024-05-09T02:31:13Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [redCode001/CVE-2024-21762-POC](https://github.com/redCode001/CVE-2024-21762-POC) | FortiOS 6.0 - 7.4.2 Out of bound exploit --&gt; RCE!!! | 2024-03-03T06:12:13Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [BishopFox/cve-2024-21762-check](https://github.com/BishopFox/cve-2024-21762-check) | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | 2024-02-28T21:16:10Z |
@@ -1584,6 +1591,7 @@ Last generated: 2024-10-18 02:16:44.866325
 | [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z |
 | [CVE-2024-0944](https://www.cve.org/CVERecord?id=CVE-2024-0944) | [Artemisxxx37/cve-2024-0944](https://github.com/Artemisxxx37/cve-2024-0944) | no description | 2024-09-10T13:23:25Z |
 | [CVE-2024-0844](https://www.cve.org/CVERecord?id=CVE-2024-0844) | [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844) | CVE-2024-0844 - Popup More &lt;= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | 2023-12-31T15:36:51Z |
+| [CVE-2024-0762](https://www.cve.org/CVERecord?id=CVE-2024-0762) | [tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762) | Detecting vulnerabilities like CVE-2024-0762, particularly in UEFI firmware, is quite challenging due to the low-level nature | 2024-09-05T03:25:58Z |
 | [CVE-2024-0757](https://www.cve.org/CVERecord?id=CVE-2024-0757) | [hunThubSpace/CVE-2024-0757-Exploit](https://github.com/hunThubSpace/CVE-2024-0757-Exploit) | A PoC Exploit for CVE-2024-0757 - Insert or Embed Articulate Content into WordPress Remote Code Execution (RCE) | 2024-06-17T07:46:21Z |
 | [CVE-2024-0741](https://www.cve.org/CVERecord?id=CVE-2024-0741) | [HyHy100/Firefox-ANGLE-CVE-2024-0741](https://github.com/HyHy100/Firefox-ANGLE-CVE-2024-0741) | PoC for an OOB write vulnerability I reported to Mozilla in ANGLE Translator (aka WebGL Shader Compiler). | 2024-08-12T05:57:34Z |
 | [CVE-2024-0713](https://www.cve.org/CVERecord?id=CVE-2024-0713) | [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713) | no description | 2024-03-12T08:32:26Z |
