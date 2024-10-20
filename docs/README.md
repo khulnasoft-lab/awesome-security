@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-19 02:14:18.537989
+Last generated: 2024-10-20 02:22:42.985418
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
+| [CVE-2024-8484](https://www.cve.org/CVERecord?id=CVE-2024-8484) | [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484) | REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection | 2024-09-24T13:46:02Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
@@ -17,6 +18,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-08-10T20:15:41Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954) | This exploit will attempt to execute system commands on SPIP targets. | 2024-08-28T14:54:56Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-09-01T10:59:45Z |
+| [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [TheCyberguy-17/RCE_CVE-2024-7954](https://github.com/TheCyberguy-17/RCE_CVE-2024-7954) | no description | 2024-09-23T16:11:20Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928) | Will attempt to retrieve DB details for FastAdmin instances | 2024-08-20T03:09:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928) | CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning | 2024-08-20T12:15:48Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928) | CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability | 2024-08-23T15:50:30Z |
@@ -212,6 +214,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
+| [CVE-2024-46377](https://www.cve.org/CVERecord?id=CVE-2024-46377) | [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377) | no description | 2024-09-23T03:47:36Z |
 | [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256) | POC_CVE-2024-46256 | 2024-09-19T09:35:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei) | CVE-2024-4577 nuclei-templates | 2024-06-08T03:12:28Z |
@@ -299,6 +302,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000) | LiteSpeed Unauthorized Account Takeover | 2024-09-06T13:43:30Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000-LiteSpeed-Cache | 2024-09-16T14:13:52Z |
 | [CVE-2024-43998](https://www.cve.org/CVERecord?id=CVE-2024-43998) | [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998) | Blogpoet &lt;= 1.0.2 - Missing Authorization via blogpoet_install_and_activate_plugins() | 2024-09-10T09:38:20Z |
+| [CVE-2024-43918](https://www.cve.org/CVERecord?id=CVE-2024-43918) | [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918) | WBW Product Table Pro &lt;= 1.9.4 - Unauthenticated Arbitrary SQL Execution to RCE | 2024-09-24T05:50:03Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC) | CVE-2024-4367 arbitrary js execution in pdf js | 2024-05-20T22:56:10Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval) | CVE-2024-4367 mitigation for Odoo 14.0 | 2024-05-23T07:34:15Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367) | YARA detection rule for CVE-2024-4367 arbitrary javascript execution in PDF.js | 2024-05-22T18:05:47Z |
@@ -492,6 +496,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [WTN-arny/Vmware-ESXI](https://github.com/WTN-arny/Vmware-ESXI) | CVE-2024-37085 unauthenticated shell upload to full administrator on domain-joined esxi hypervisors. | 2024-08-12T17:44:17Z |
 | [CVE-2024-37085](https://www.cve.org/CVERecord?id=CVE-2024-37085) | [WTN-arny/CVE-2024-37085](https://github.com/WTN-arny/CVE-2024-37085) | no description | 2024-08-18T17:48:34Z |
 | [CVE-2024-37084](https://www.cve.org/CVERecord?id=CVE-2024-37084) | [vuhz/CVE-2024-37084](https://github.com/vuhz/CVE-2024-37084) | Spring Cloud Remote Code Execution | 2024-09-11T14:09:50Z |
+| [CVE-2024-37084](https://www.cve.org/CVERecord?id=CVE-2024-37084) | [Kayiyan/CVE-2024-37084-Poc](https://github.com/Kayiyan/CVE-2024-37084-Poc) | Analysis , Demo exploit and poc about CVE-2024-37084 | 2024-09-10T16:58:54Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081) | CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server | 2024-07-06T18:29:13Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [Mr-r00t11/CVE-2024-37081](https://github.com/Mr-r00t11/CVE-2024-37081) | no description | 2024-07-09T16:14:41Z |
 | [CVE-2024-37081](https://www.cve.org/CVERecord?id=CVE-2024-37081) | [CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC) | no description | 2024-07-21T08:42:23Z |
@@ -1095,6 +1100,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667) | This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload) | 2024-04-28T17:14:47Z |
 | [CVE-2024-26581](https://www.cve.org/CVERecord?id=CVE-2024-26581) | [laoqin1234/Linux-Root-CVE-2024-26581-PoC](https://github.com/laoqin1234/Linux-Root-CVE-2024-26581-PoC) | no description | 2024-09-11T08:29:40Z |
+| [CVE-2024-26581](https://www.cve.org/CVERecord?id=CVE-2024-26581) | [madfxr/CVE-2024-26581-Checker](https://github.com/madfxr/CVE-2024-26581-Checker) | [CVE-2024-26581] Vulnerability Checker for BGN Internal | 2024-09-10T09:32:25Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
 | [CVE-2024-26560](https://www.cve.org/CVERecord?id=CVE-2024-26560) | [sajaljat/CVE-2024-26560](https://github.com/sajaljat/CVE-2024-26560) | (XSS) | 2024-02-26T12:03:43Z |
 | [CVE-2024-26535](https://www.cve.org/CVERecord?id=CVE-2024-26535) | [sajaljat/CVE-2024-26535](https://github.com/sajaljat/CVE-2024-26535) | (XSS) | 2024-02-26T12:02:10Z |
@@ -4099,6 +4105,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2021-4045](https://www.cve.org/CVERecord?id=CVE-2021-4045) | [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC) | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | 2021-11-15T14:48:14Z |
 | [CVE-2021-4045](https://www.cve.org/CVERecord?id=CVE-2021-4045) | [Zeyad-Azima/OpayForMe](https://github.com/Zeyad-Azima/OpayForMe) | CVE-2021-43150 Exploit for `opay` android app webview | 2022-12-31T22:09:56Z |
 | [CVE-2021-4045](https://www.cve.org/CVERecord?id=CVE-2021-4045) | [julian911015/Log4j-Scanner-Exploit](https://github.com/julian911015/Log4j-Scanner-Exploit) | Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota. | 2021-12-20T15:22:50Z |
+| [CVE-2021-4045](https://www.cve.org/CVERecord?id=CVE-2021-4045) | [pl4int3xt/CVE-2021-4045](https://github.com/pl4int3xt/CVE-2021-4045) | 🔐 &quot;PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (&lt;= v1.1.16 Build 211209)&quot; 🔓 | 2023-12-26T08:20:49Z |
 | [CVE-2021-40449](https://www.cve.org/CVERecord?id=CVE-2021-40449) | [toanthang1842002/CVE-2021-40449](https://github.com/toanthang1842002/CVE-2021-40449) | no description | 2023-07-17T04:07:44Z |
 | [CVE-2021-40449](https://www.cve.org/CVERecord?id=CVE-2021-40449) | [hheeyywweellccoommee/CVE-2021-40449-xarrd](https://github.com/hheeyywweellccoommee/CVE-2021-40449-xarrd) | no description | 2023-07-15T16:02:13Z |
 | [CVE-2021-40444](https://www.cve.org/CVERecord?id=CVE-2021-40444) | [hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444) | no description | 2023-06-05T02:27:21Z |
@@ -4212,6 +4219,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [nanopathi/linux-4.19.72_CVE-2021-32399](https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399) | no description | 2022-04-01T10:29:20Z |
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher) | PoC for CVE-2021-31166 and CVE-2022-21907 | 2022-11-22T09:10:36Z |
 | [CVE-2021-32305](https://www.cve.org/CVERecord?id=CVE-2021-32305) | [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305) | no description | 2023-02-27T05:38:27Z |
+| [CVE-2021-32305](https://www.cve.org/CVERecord?id=CVE-2021-32305) | [FredBrave/CVE-2021-32305-websvn-2.6.0](https://github.com/FredBrave/CVE-2021-32305-websvn-2.6.0) | This is a exploit of CVE-2021-32305 a web vulnerability to command injection on search.php path, this exploit allows execute commands. | 2023-12-26T20:20:00Z |
 | [CVE-2021-31956](https://www.cve.org/CVERecord?id=CVE-2021-31956) | [hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC) | no description | 2023-06-05T00:03:10Z |
 | [CVE-2021-31805](https://www.cve.org/CVERecord?id=CVE-2021-31805) | [nth347/CVE-2021-31805](https://github.com/nth347/CVE-2021-31805) | Vulnerable environment of CVE-2021-31805 (S2-062) for testing | 2023-08-04T03:42:37Z |
 | [CVE-2021-31800](https://www.cve.org/CVERecord?id=CVE-2021-31800) | [p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write](https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write) | A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server. | 2022-08-28T19:04:46Z |
@@ -4229,6 +4237,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [cyberxml/log4j-poc](https://github.com/cyberxml/log4j-poc) | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | 2021-12-12T21:45:33Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7) | 利用sudo提权，只针对cnetos7 | 2022-11-03T13:10:23Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [asepsaepdin/CVE-2021-3156](https://github.com/asepsaepdin/CVE-2021-3156) | no description | 2023-09-05T14:06:26Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156) | no description | 2023-12-27T03:52:17Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
@@ -4308,6 +4317,7 @@ Last generated: 2024-10-19 02:14:18.537989
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [ShivamDey/CVE-2021-23017](https://github.com/ShivamDey/CVE-2021-23017) | no description | 2023-10-21T04:24:02Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC) | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | 2022-06-30T04:39:58Z |
 | [CVE-2021-22986](https://www.cve.org/CVERecord?id=CVE-2021-22986) | [amitlttwo/CVE-2021-22986](https://github.com/amitlttwo/CVE-2021-22986) | no description | 2023-02-07T11:19:20Z |
+| [CVE-2021-22986](https://www.cve.org/CVERecord?id=CVE-2021-22986) | [huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986) | Custom POC of CVE-2021-22986 by Al1ex@Heptagram | 2023-12-28T01:49:24Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [overgrowncarrot1/CVE-2021-22911](https://github.com/overgrowncarrot1/CVE-2021-22911) | no description | 2023-06-19T23:56:09Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [CsEnox/CVE-2021-22911](https://github.com/CsEnox/CVE-2021-22911) | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | 2021-06-05T15:05:01Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [MrDottt/CVE-2021-22911](https://github.com/MrDottt/CVE-2021-22911) | no description | 2023-06-05T22:26:26Z |
