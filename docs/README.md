@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-20 02:22:42.985418
+Last generated: 2024-10-21 02:19:07.363855
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Last generated: 2024-10-20 02:22:42.985418
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
 | [CVE-2024-8484](https://www.cve.org/CVERecord?id=CVE-2024-8484) | [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484) | REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection | 2024-09-24T13:46:02Z |
+| [CVE-2024-8349](https://www.cve.org/CVERecord?id=CVE-2024-8349) | [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350) | Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash. | 2024-09-17T13:44:04Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
@@ -211,6 +212,7 @@ Last generated: 2024-10-20 02:22:42.985418
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879) | no description | 2024-09-13T01:20:34Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
+| [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
@@ -1005,6 +1007,7 @@ Last generated: 2024-10-20 02:22:42.985418
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [Stuub/CVE-2024-28995](https://github.com/Stuub/CVE-2024-28995) | CVE-2024-28955 Exploitation PoC | 2024-07-01T11:49:51Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995) | SolarWinds Serv-U was susceptible to a directory transversal vulnerability that would allow access to read sensitive files on the host machine. | 2024-08-24T17:05:48Z |
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC) | Web Help Desk Hardcoded Credential Vulnerability (CVE-2024-28987) | 2024-09-05T09:01:58Z |
+| [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987) | Proof of Concept Exploit for CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability | 2024-09-24T18:12:38Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC) | Chrome(CVE-2024-2887)RCE-POC | 2024-08-25T07:30:25Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887) | For V8CTF M123 | 2024-08-25T12:13:07Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
@@ -2257,6 +2260,7 @@ Last generated: 2024-10-20 02:22:42.985418
 | [CVE-2023-42284](https://www.cve.org/CVERecord?id=CVE-2023-42284) | [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284) | Proof of concept for CVE-2023-42284 in Tyk Gateway | 2023-10-30T19:24:48Z |
 | [CVE-2023-42283](https://www.cve.org/CVERecord?id=CVE-2023-42283) | [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283) | Proof of concept for CVE-2023-42283 in Tyk Gateway | 2023-10-30T19:05:41Z |
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220) | Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell. | 2024-07-07T15:53:54Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
 | [CVE-2023-4207](https://www.cve.org/CVERecord?id=CVE-2023-4207) | [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207) | no description | 2023-11-23T04:50:24Z |
