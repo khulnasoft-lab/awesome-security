@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-22 02:17:10.148370
+Last generated: 2024-10-23 02:16:01.578062
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
@@ -433,6 +434,7 @@ Last generated: 2024-10-22 02:17:10.148370
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo) | no description | 2024-09-20T02:09:23Z |
+| [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC) | CVE-2024-38816 Proof of Concept | 2024-09-28T23:16:23Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
@@ -3693,6 +3695,7 @@ Last generated: 2024-10-22 02:17:10.148370
 | [CVE-2022-36804](https://www.cve.org/CVERecord?id=CVE-2022-36804) | [benjaminhays/CVE-2022-36804-PoC-Exploit](https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit) | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | 2022-09-20T02:35:53Z |
 | [CVE-2022-36779](https://www.cve.org/CVERecord?id=CVE-2022-36779) | [rootDR/CVE-2022-36779](https://github.com/rootDR/CVE-2022-36779) | Exploit for CVE-2022-36779 authenticated Command Injection | 2023-12-24T10:46:50Z |
 | [CVE-2022-36537](https://www.cve.org/CVERecord?id=CVE-2022-36537) | [Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537) | POC of CVE-2022-36537 | 2022-12-09T14:15:52Z |
+| [CVE-2022-36267](https://www.cve.org/CVERecord?id=CVE-2022-36267) | [0xNslabs/CVE-2022-36267-PoC](https://github.com/0xNslabs/CVE-2022-36267-PoC) | PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna. | 2024-01-08T22:23:57Z |
 | [CVE-2022-36234](https://www.cve.org/CVERecord?id=CVE-2022-36234) | [Halcy0nic/CVE-2022-36234](https://github.com/Halcy0nic/CVE-2022-36234) | Proof of concept for CVE-2022-36234 | 2023-01-31T20:59:35Z |
 | [CVE-2022-36200](https://www.cve.org/CVERecord?id=CVE-2022-36200) | [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200) | CVE-2022-36200 PoC | 2022-08-29T11:03:09Z |
 | [CVE-2022-36193](https://www.cve.org/CVERecord?id=CVE-2022-36193) | [G37SYS73M/CVE-2022-36193](https://github.com/G37SYS73M/CVE-2022-36193) | SQL injection in School Management System 1.0 allows remote attackers to modify or delete data, causing persistent changes to the application&#x27;s content or behavior by using malicious SQL queries. | 2023-03-21T08:00:49Z |
