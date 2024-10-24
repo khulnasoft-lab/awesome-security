@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-23 02:16:01.578062
+Last generated: 2024-10-24 02:15:52.276947
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Last generated: 2024-10-23 02:16:01.578062
 | [CVE-2024-8484](https://www.cve.org/CVERecord?id=CVE-2024-8484) | [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484) | REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection | 2024-09-24T13:46:02Z |
 | [CVE-2024-8349](https://www.cve.org/CVERecord?id=CVE-2024-8349) | [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350) | Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash. | 2024-09-17T13:44:04Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
+| [CVE-2024-8275](https://www.cve.org/CVERecord?id=CVE-2024-8275) | [p33d/CVE-2024-8275](https://github.com/p33d/CVE-2024-8275) | no description | 2024-09-26T07:16:21Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7965](https://www.cve.org/CVERecord?id=CVE-2024-7965) | [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965) | This repository contains PoC for CVE-2024-7965. This is the vulnerability in the V8 that occurs only within ARM64. | 2024-09-16T19:04:57Z |
@@ -539,6 +540,7 @@ Last generated: 2024-10-23 02:16:01.578062
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401) | GeoServer Remote Code Execution | 2024-07-30T18:43:40Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC) | no description | 2024-08-01T21:22:51Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer) | Mass scanner for CVE-2024-36401 | 2024-08-27T15:28:04Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC) | Proof-of-Concept Exploit for CVE-2024-36401 GeoServer 2.25.1 | 2024-09-13T10:28:48Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -2270,6 +2272,7 @@ Last generated: 2024-10-23 02:16:01.578062
 | [CVE-2023-42283](https://www.cve.org/CVERecord?id=CVE-2023-42283) | [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283) | Proof of concept for CVE-2023-42283 in Tyk Gateway | 2023-10-30T19:05:41Z |
 | [CVE-2023-42222](https://www.cve.org/CVERecord?id=CVE-2023-42222) | [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222) | no description | 2023-09-27T17:36:30Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220) | Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell. | 2024-07-07T15:53:54Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit](https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit) | This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location &quot;/main/inc/lib/javascript/bigupload/inc/bigUpload.php&quot; in Chamilo LMS &lt;= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell. | 2024-07-08T09:48:38Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
 | [CVE-2023-4207](https://www.cve.org/CVERecord?id=CVE-2023-4207) | [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207) | no description | 2023-11-23T04:50:24Z |
@@ -3062,6 +3065,7 @@ Last generated: 2024-10-23 02:16:01.578062
 | [CVE-2023-2825](https://www.cve.org/CVERecord?id=CVE-2023-2825) | [caopengyan/CVE-2023-2825](https://github.com/caopengyan/CVE-2023-2825) | no description | 2023-09-10T14:51:30Z |
 | [CVE-2023-28244](https://www.cve.org/CVERecord?id=CVE-2023-28244) | [sk3w/cve-2023-28244](https://github.com/sk3w/cve-2023-28244) | no description | 2023-05-31T16:43:34Z |
 | [CVE-2023-28229](https://www.cve.org/CVERecord?id=CVE-2023-28229) | [Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) | no description | 2023-09-04T07:48:13Z |
+| [CVE-2023-28229](https://www.cve.org/CVERecord?id=CVE-2023-28229) | [byt3n33dl3/CrackKeyIso](https://github.com/byt3n33dl3/CrackKeyIso) | it&#x27;s a CVE-2023-28229 ( patched ), but feel free to use it for check any outdated software or reseach | 2024-03-27T20:57:46Z |
 | [CVE-2023-2822](https://www.cve.org/CVERecord?id=CVE-2023-2822) | [cberman/CVE-2023-2822-demo](https://github.com/cberman/CVE-2023-2822-demo) | Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822. | 2023-05-22T00:46:24Z |
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121) | Python 2.7 | 2023-07-20T09:28:26Z |
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [im-hanzou/Mass-CVE-2023-28121](https://github.com/im-hanzou/Mass-CVE-2023-28121) | CVE-2023-28121 -  WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ] | 2023-07-12T02:41:26Z |
