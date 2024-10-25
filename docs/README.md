@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-24 02:15:52.276947
+Last generated: 2024-10-25 02:17:30.708457
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -199,6 +199,7 @@ Last generated: 2024-10-24 02:15:52.276947
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956) | Sonatype Nexus Repository Manager 3 (LFI) | 2024-06-03T02:49:20Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [fin3ss3g0d/CVE-2024-4956](https://github.com/fin3ss3g0d/CVE-2024-4956) | CVE-2024-4956 Python exploitation utility | 2024-06-05T15:37:39Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956) | no description | 2024-08-14T16:41:01Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956) | no description | 2024-09-26T15:05:41Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-4885](https://www.cve.org/CVERecord?id=CVE-2024-4885) | [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885) | Exploit for CVE-2024-4885 | 2024-07-08T12:14:42Z |
@@ -279,6 +280,7 @@ Last generated: 2024-10-24 02:15:52.276947
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC) | CVE-2024-45519 unauthenticated OS commoand Injection in Zimbra prior to 8.8.15***. | 2024-09-26T01:13:19Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
+| [CVE-2024-45410](https://www.cve.org/CVERecord?id=CVE-2024-45410) | [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc) | A proof of concept of traefik CVE to understand the impact | 2024-09-26T09:58:27Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
 | [CVE-2024-45383](https://www.cve.org/CVERecord?id=CVE-2024-45383) | [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383) | poc for CVE-2024-45383 | 2024-09-18T15:40:19Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
@@ -769,6 +771,9 @@ Last generated: 2024-10-24 02:15:52.276947
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing) | adapting CVE-2024-32002 for running offline and locally | 2024-08-02T18:44:00Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [sanan2004/CVE-2024-32002](https://github.com/sanan2004/CVE-2024-32002) | POC | 2024-08-17T16:43:26Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002) | no description | 2024-07-30T21:22:29Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC) | This is a demo for CVE-2024-32002 POC | 2024-09-27T03:10:04Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Masamuneee/hook](https://github.com/Masamuneee/hook) | This is a demo for CVE-2024-32002 POC | 2024-09-27T03:09:18Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC) | Proof of Concept for CVE-2024-32002 | 2024-09-27T03:29:15Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -3698,6 +3703,7 @@ Last generated: 2024-10-24 02:15:52.276947
 | [CVE-2022-36946](https://www.cve.org/CVERecord?id=CVE-2022-36946) | [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946) | CVE-2022-36946 linux kernel panic in netfilter_queue | 2022-07-28T11:22:13Z |
 | [CVE-2022-36804](https://www.cve.org/CVERecord?id=CVE-2022-36804) | [benjaminhays/CVE-2022-36804-PoC-Exploit](https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit) | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | 2022-09-20T02:35:53Z |
 | [CVE-2022-36779](https://www.cve.org/CVERecord?id=CVE-2022-36779) | [rootDR/CVE-2022-36779](https://github.com/rootDR/CVE-2022-36779) | Exploit for CVE-2022-36779 authenticated Command Injection | 2023-12-24T10:46:50Z |
+| [CVE-2022-36553](https://www.cve.org/CVERecord?id=CVE-2022-36553) | [0xNslabs/CVE-2022-36553-PoC](https://github.com/0xNslabs/CVE-2022-36553-PoC) | PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device. | 2024-01-08T21:53:46Z |
 | [CVE-2022-36537](https://www.cve.org/CVERecord?id=CVE-2022-36537) | [Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537) | POC of CVE-2022-36537 | 2022-12-09T14:15:52Z |
 | [CVE-2022-36267](https://www.cve.org/CVERecord?id=CVE-2022-36267) | [0xNslabs/CVE-2022-36267-PoC](https://github.com/0xNslabs/CVE-2022-36267-PoC) | PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna. | 2024-01-08T22:23:57Z |
 | [CVE-2022-36234](https://www.cve.org/CVERecord?id=CVE-2022-36234) | [Halcy0nic/CVE-2022-36234](https://github.com/Halcy0nic/CVE-2022-36234) | Proof of concept for CVE-2022-36234 | 2023-01-31T20:59:35Z |
@@ -3937,6 +3943,7 @@ Last generated: 2024-10-24 02:15:52.276947
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388) | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | 2022-05-12T16:54:52Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [battleofthebots/refresh](https://github.com/battleofthebots/refresh) | CVE-2022-1388 - F5 Router RCE Replica | 2023-08-01T18:12:52Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nvk0x/CVE-2022-1388-exploit](https://github.com/nvk0x/CVE-2022-1388-exploit) | exploit poc | 2024-01-03T12:28:06Z |
+| [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nico989/CVE-2022-1388](https://github.com/nico989/CVE-2022-1388) | PoC for CVE-2022-1388 affecting F5 BIG-IP. | 2024-01-09T19:52:36Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
 | [CVE-2022-1364](https://www.cve.org/CVERecord?id=CVE-2022-1364) | [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) | no description | 2023-11-22T10:55:34Z |
