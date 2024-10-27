@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-26 02:13:19.445571
+Last generated: 2024-10-27 02:22:08.108076
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
+| [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
@@ -530,6 +531,7 @@ Last generated: 2024-10-26 02:13:19.445571
 | [CVE-2024-36877](https://www.cve.org/CVERecord?id=CVE-2024-36877) | [CERTologists/POC-CVE-2024-36877](https://github.com/CERTologists/POC-CVE-2024-36877) | no description | 2024-08-17T20:47:52Z |
 | [CVE-2024-36842](https://www.cve.org/CVERecord?id=CVE-2024-36842) | [abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-) | CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script! | 2024-05-09T12:28:11Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
+| [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837) | CVE-2024-36837 POC | 2024-09-28T10:44:03Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
 | [CVE-2024-36539](https://www.cve.org/CVERecord?id=CVE-2024-36539) | [Abdurahmon3236/CVE-2024-36539](https://github.com/Abdurahmon3236/CVE-2024-36539) | no description | 2024-08-03T06:37:21Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
@@ -546,6 +548,7 @@ Last generated: 2024-10-26 02:13:19.445571
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [yisas93/CVE-2024-36401-PoC](https://github.com/yisas93/CVE-2024-36401-PoC) | no description | 2024-08-01T21:22:51Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer) | Mass scanner for CVE-2024-36401 | 2024-08-27T15:28:04Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC) | Proof-of-Concept Exploit for CVE-2024-36401 GeoServer 2.25.1 | 2024-09-13T10:28:48Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [PunitTailor55/GeoServer-CVE-2024-36401](https://github.com/PunitTailor55/GeoServer-CVE-2024-36401) | GeoServer CVE-2024-36401: Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions | 2024-09-28T14:55:50Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -1278,6 +1281,7 @@ Last generated: 2024-10-26 02:13:19.445571
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-03-25T20:51:56Z |
+| [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-09-28T15:00:55Z |
 | [CVE-2024-24402](https://www.cve.org/CVERecord?id=CVE-2024-24402) | [MAWK0235/CVE-2024-24402](https://github.com/MAWK0235/CVE-2024-24402) | Priv esc in Nagios 2024R1.01 | 2024-02-18T20:33:28Z |
 | [CVE-2024-24401](https://www.cve.org/CVERecord?id=CVE-2024-24401) | [MAWK0235/CVE-2024-24401](https://github.com/MAWK0235/CVE-2024-24401) | Auto exploitation tool for CVE-2024-24401. | 2024-02-18T20:05:46Z |
 | [CVE-2024-24398](https://www.cve.org/CVERecord?id=CVE-2024-24398) | [trustcves/CVE-2024-24398](https://github.com/trustcves/CVE-2024-24398) | no description | 2024-02-05T09:15:17Z |
@@ -1385,6 +1389,7 @@ Last generated: 2024-10-26 02:13:19.445571
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692) | Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692) | 2024-07-10T04:44:27Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692) | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | 2024-09-15T12:15:35Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
+| [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23339](https://www.cve.org/CVERecord?id=CVE-2024-23339) | [200101WhoAmI/CVE-2024-23339](https://github.com/200101WhoAmI/CVE-2024-23339) | pp | 2024-08-21T05:03:32Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z |
@@ -3787,6 +3792,7 @@ Last generated: 2024-10-26 02:13:19.445571
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [Prikalel/django-xss-example](https://github.com/Prikalel/django-xss-example) | This repo reproduce xss attack on django 4.0.1 (see CVE-2022-22818) | 2022-12-10T12:38:08Z |
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [That-Guy-Steve/CVE-2022-28368-handler](https://github.com/That-Guy-Steve/CVE-2022-28368-handler) | This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request | 2023-04-28T09:49:05Z |
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [xiao-zhu-zhu/pig_CS4.4](https://github.com/xiao-zhu-zhu/pig_CS4.4) | Cobalt Strike 4.4 猪猪版 去暗桩 去流量特征  beacon仿造真实API服务  修补CVE-2022-39197补丁 | 2023-04-28T06:31:38Z |
+| [CVE-2022-28346](https://www.cve.org/CVERecord?id=CVE-2022-28346) | [kamal-marouane/CVE-2022-28346](https://github.com/kamal-marouane/CVE-2022-28346) | A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely. | 2024-01-19T00:15:59Z |
 | [CVE-2022-28171](https://www.cve.org/CVERecord?id=CVE-2022-28171) | [NyaMeeEain/CVE-2022-28171-POC](https://github.com/NyaMeeEain/CVE-2022-28171-POC) | no description | 2023-07-16T07:30:22Z |
 | [CVE-2022-28132](https://www.cve.org/CVERecord?id=CVE-2022-28132) | [alpernae/CVE-2022-28132](https://github.com/alpernae/CVE-2022-28132) | no description | 2022-06-08T16:19:47Z |
 | [CVE-2022-28117](https://www.cve.org/CVERecord?id=CVE-2022-28117) | [kimstars/POC-CVE-2022-28117](https://github.com/kimstars/POC-CVE-2022-28117) | no description | 2023-12-26T06:51:54Z |
