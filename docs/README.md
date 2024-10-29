@@ -2,10 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-28 02:20:35.171856
+Last generated: 2024-10-29 02:18:09.185687
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
+| [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
@@ -13,6 +15,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
 | [CVE-2024-8484](https://www.cve.org/CVERecord?id=CVE-2024-8484) | [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484) | REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection | 2024-09-24T13:46:02Z |
+| [CVE-2024-8353](https://www.cve.org/CVERecord?id=CVE-2024-8353) | [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353) | Proof-of-Concept for CVE-2024-8353 | 2024-09-30T17:33:59Z |
 | [CVE-2024-8349](https://www.cve.org/CVERecord?id=CVE-2024-8349) | [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350) | Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash. | 2024-09-17T13:44:04Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8275](https://www.cve.org/CVERecord?id=CVE-2024-8275) | [p33d/CVE-2024-8275](https://github.com/p33d/CVE-2024-8275) | no description | 2024-09-26T07:16:21Z |
@@ -172,6 +175,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
+| [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
@@ -286,6 +290,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner) | Scanning CVE-2024-4577 vulnerability with a url list. | 2024-09-10T17:31:07Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [phirojshah/CVE-2024-4577](https://github.com/phirojshah/CVE-2024-4577) | no description | 2024-09-12T19:27:52Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-) | 🚨 New Incident Report Completed! 🚨 Just wrapped up &quot;Event ID 268: SOC292 - Possible PHP Injection Detected (CVE-2024-4577)&quot; on LetsDefend.io. This analysis involved investigating an attempted Command Injection targeting our PHP server. Staying ahead of these threats with continuous monitoring and swift containment! 🛡️ | 2024-09-12T19:10:38Z |
+| [CVE-2024-45614](https://www.cve.org/CVERecord?id=CVE-2024-45614) | [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614) | Puma Header normalization CVE-2024-45614 確認 | 2024-09-28T06:29:00Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC) | CVE-2024-45519 unauthenticated OS commoand Injection in Zimbra prior to 8.8.15***. | 2024-09-26T01:13:19Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519) | no description | 2024-09-28T08:29:06Z |
@@ -299,6 +304,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/HLF_TxTime_spoofing](https://github.com/shanker-sec/HLF_TxTime_spoofing) | PoC covering the problem of transaction time manipulation (CVE-2024-45244) in the Hyperledger Fabric blockchain. | 2024-06-23T14:56:14Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241) | Path Traversal in CentralSquare&#x27;s CryWolf | 2024-08-25T15:57:40Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241) | no description | 2024-09-19T12:43:48Z |
+| [CVE-2024-45200](https://www.cve.org/CVERecord?id=CVE-2024-45200) | [latte-soft/kartlanpwn](https://github.com/latte-soft/kartlanpwn) | Information &amp; PoC for CVE-2024-45200, Mario Kart 8 Deluxe&#x27;s &quot;KartLANPwn&quot; buffer overflow vulnerability | 2024-09-13T00:41:32Z |
 | [CVE-2024-45058](https://www.cve.org/CVERecord?id=CVE-2024-45058) | [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058) | PoC for CVE-2024-45058 Broken Access Control, allowing any user with view permission in the user configuration section to become an administrator changing their own user type. | 2024-08-30T18:44:05Z |
 | [CVE-2024-44947](https://www.cve.org/CVERecord?id=CVE-2024-44947) | [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947) | no description | 2024-09-03T18:37:40Z |
 | [CVE-2024-44946](https://www.cve.org/CVERecord?id=CVE-2024-44946) | [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946) | no description | 2024-09-01T13:45:12Z |
@@ -381,6 +387,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2024-41312](https://www.cve.org/CVERecord?id=CVE-2024-41312) | [Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.) | InstantCMS - Stored Cross Site Scripting (XSS) | 2024-08-26T06:32:49Z |
 | [CVE-2024-41302](https://www.cve.org/CVERecord?id=CVE-2024-41302) | [patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection](https://github.com/patrickdeanramos/CVE-2024-41302-Bookea-tu-Mesa-is-vulnerable-to-SQL-Injection) | Bookea-tu-Mesa is vulnerable to SQL Injection | 2024-07-14T13:01:36Z |
 | [CVE-2024-41301](https://www.cve.org/CVERecord?id=CVE-2024-41301) | [patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting](https://github.com/patrickdeanramos/CVE-2024-41301-Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting) | no description | 2024-07-14T12:51:17Z |
+| [CVE-2024-41290](https://www.cve.org/CVERecord?id=CVE-2024-41290) | [paragbagul111/CVE-2024-41290](https://github.com/paragbagul111/CVE-2024-41290) | FlatPress CMS v1.3.1 1.3 was discovered to use insecure methods to &gt; store authentication data | 2024-10-01T14:35:39Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker) | no description | 2024-07-25T08:03:15Z |
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
@@ -4222,6 +4229,7 @@ Last generated: 2024-10-28 02:20:35.171856
 | [CVE-2021-36630](https://www.cve.org/CVERecord?id=CVE-2021-36630) | [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630) | no description | 2023-01-15T09:55:38Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo) | no description | 2022-11-05T17:32:47Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn) | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | 2022-03-05T19:49:52Z |
+| [CVE-2021-36393](https://www.cve.org/CVERecord?id=CVE-2021-36393) | [StackOverflowExcept1on/CVE-2021-36393](https://github.com/StackOverflowExcept1on/CVE-2021-36393) | Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4 | 2023-10-27T17:13:55Z |
 | [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit) | no description | 2023-10-22T14:09:18Z |
 | [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260) | CVE-2021-36260 | 2021-10-18T06:40:48Z |
 | [CVE-2021-35975](https://www.cve.org/CVERecord?id=CVE-2021-35975) | [fbkcs/CVE-2021-35975](https://github.com/fbkcs/CVE-2021-35975) | Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products | 2023-11-17T08:47:20Z |
@@ -6912,3 +6920,4 @@ Last generated: 2024-10-28 02:20:35.171856
 | CVE NOT FOUND | [thijor/gbcic_2024_cvep_workshop](https://github.com/thijor/gbcic_2024_cvep_workshop) | This repository contains all resources (e.g., slides) for the c-VEP workshop presented at the Graz BCI Conference in 2024. | 2024-09-06T16:22:58Z |
 | CVE NOT FOUND | [sudoCreate258/lab1_patch](https://github.com/sudoCreate258/lab1_patch) | Patch for CVE - 2024 - 0906 | 2024-09-10T18:08:26Z |
 | CVE NOT FOUND | [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE) | Remote Code Execution for Chamilo LMS | 2024-07-09T20:47:00Z |
+| CVE NOT FOUND | [M-nj/cvelistV5-2024-09-10-corrector](https://github.com/M-nj/cvelistV5-2024-09-10-corrector) | test repo for corrector 2024-09-10 | 2024-09-10T15:00:02Z |
