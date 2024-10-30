@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-29 02:18:09.185687
+Last generated: 2024-10-30 02:17:15.078899
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
+| [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [havokzero/ViciDial](https://github.com/havokzero/ViciDial) | CVE-2024-8504 | 2024-09-22T20:17:10Z |
 | [CVE-2024-8484](https://www.cve.org/CVERecord?id=CVE-2024-8484) | [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484) | REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection | 2024-09-24T13:46:02Z |
 | [CVE-2024-8353](https://www.cve.org/CVERecord?id=CVE-2024-8353) | [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353) | Proof-of-Concept for CVE-2024-8353 | 2024-09-30T17:33:59Z |
 | [CVE-2024-8349](https://www.cve.org/CVERecord?id=CVE-2024-8349) | [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350) | Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash. | 2024-09-17T13:44:04Z |
@@ -233,6 +234,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
+| [CVE-2024-46635](https://www.cve.org/CVERecord?id=CVE-2024-46635) | [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635) | no description | 2024-10-01T03:07:04Z |
 | [CVE-2024-46627](https://www.cve.org/CVERecord?id=CVE-2024-46627) | [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627) | CVE-2024-46627 - Incorrect access control in BECN DATAGERRY v2.2 allows attackers to &gt; execute arbitrary commands via crafted web requests. | 2024-09-25T10:32:53Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
 | [CVE-2024-46377](https://www.cve.org/CVERecord?id=CVE-2024-46377) | [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377) | no description | 2024-09-23T03:47:36Z |
@@ -1050,6 +1052,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995) | SolarWinds Serv-U was susceptible to a directory transversal vulnerability that would allow access to read sensitive files on the host machine. | 2024-08-24T17:05:48Z |
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC) | Web Help Desk Hardcoded Credential Vulnerability (CVE-2024-28987) | 2024-09-05T09:01:58Z |
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987) | Proof of Concept Exploit for CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability | 2024-09-24T18:12:38Z |
+| [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987) | CVE-2024-28987 Scanner &amp; Exploiter - SolarWinds Web Help Desk | 2024-09-30T16:12:14Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC) | Chrome(CVE-2024-2887)RCE-POC | 2024-08-25T07:30:25Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887) | For V8CTF M123 | 2024-08-25T12:13:07Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
@@ -1697,6 +1700,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [nahid0x1/CVE-2024-0044](https://github.com/nahid0x1/CVE-2024-0044) | a vulnerability affecting Android version 12 &amp; 13 | 2024-08-13T15:15:47Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [MrW0l05zyn/cve-2024-0044](https://github.com/MrW0l05zyn/cve-2024-0044) | CVE-2024-0044 | 2024-08-19T02:51:14Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044) | PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app | 2024-09-27T09:02:08Z |
+| [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [a-roshbaik/cve_2024_0044](https://github.com/a-roshbaik/cve_2024_0044) | no description | 2024-10-02T19:31:19Z |
 | [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040) | no description | 2024-07-29T11:45:41Z |
 | [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [uthrasri/frameworks_av_CVE-2024-0040](https://github.com/uthrasri/frameworks_av_CVE-2024-0040) | no description | 2024-08-06T06:13:59Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
@@ -2919,6 +2923,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784) | no description | 2024-02-01T09:41:24Z |
+| [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [Cmadhushanka/CVE-2023-32784-Exploitation](https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation) | year 2 semester 1 Systems and Network Programming Assignment | 2024-07-10T17:55:48Z |
 | [CVE-2023-32749](https://www.cve.org/CVERecord?id=CVE-2023-32749) | [xcr-19/CVE-2023-32749](https://github.com/xcr-19/CVE-2023-32749) | PoC for CVE-2023-32749 affecting Pydio Cells | 2024-05-01T21:37:00Z |
 | [CVE-2023-32707](https://www.cve.org/CVERecord?id=CVE-2023-32707) | [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707) | An improved POC exploit based on the reported CVE on exploitdb | 2023-11-14T04:06:08Z |
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z |
@@ -3623,6 +3628,7 @@ Last generated: 2024-10-29 02:18:09.185687
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp2](https://github.com/scabench/jsonorg-fp2) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T00:14:20Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp1](https://github.com/scabench/jsonorg-fp1) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-28T23:52:36Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp3](https://github.com/scabench/jsonorg-fp3) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T02:01:22Z |
+| [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-tp1](https://github.com/scabench/jsonorg-tp1) | simple application with a CVE-2022-45688 vulnerability | 2023-12-27T22:05:06Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
@@ -6921,3 +6927,4 @@ Last generated: 2024-10-29 02:18:09.185687
 | CVE NOT FOUND | [sudoCreate258/lab1_patch](https://github.com/sudoCreate258/lab1_patch) | Patch for CVE - 2024 - 0906 | 2024-09-10T18:08:26Z |
 | CVE NOT FOUND | [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE) | Remote Code Execution for Chamilo LMS | 2024-07-09T20:47:00Z |
 | CVE NOT FOUND | [M-nj/cvelistV5-2024-09-10-corrector](https://github.com/M-nj/cvelistV5-2024-09-10-corrector) | test repo for corrector 2024-09-10 | 2024-09-10T15:00:02Z |
+| CVE NOT FOUND | [M-nj/cvelistv5-2024-09-30-corrector](https://github.com/M-nj/cvelistv5-2024-09-30-corrector) | dev copy of the cvelistv5 built starting off at 2024-09-30T16:03:17.464Z | 2024-10-01T14:03:03Z |
