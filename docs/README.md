@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-30 02:17:15.078899
+Last generated: 2024-10-31 02:18:21.795901
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
@@ -38,6 +39,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC) | CVE-2024-7593 &lt; Ivanti vTM [Authentication Bypass] | 2024-08-26T11:03:00Z |
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593) | Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel. | 2024-08-28T10:02:05Z |
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit) | CVE-2024-7593 Ivanti Virtual Traffic Manager 22.2R1 / 22.7R2 Admin Panel Authentication Bypass PoC [EXPLOIT] | 2024-09-24T22:24:35Z |
+| [CVE-2024-7479](https://www.cve.org/CVERecord?id=CVE-2024-7479) | [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) | TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006. | 2024-09-29T10:58:15Z |
 | [CVE-2024-7339](https://www.cve.org/CVERecord?id=CVE-2024-7339) | [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339) | An Vulnerability detection and Exploitation tool for  CVE-2024-7339 | 2024-08-05T16:26:18Z |
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
@@ -230,10 +232,12 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [mr-r3b00t/CVE-2024-47176](https://github.com/mr-r3b00t/CVE-2024-47176) | Scanner | 2024-09-28T16:02:41Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [nma-io/CVE-2024-47176](https://github.com/nma-io/CVE-2024-47176) | A simple CVE-2024-47176 (cups_browsed) check tool written in go. | 2024-09-29T17:53:50Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176) | Vulnerability Scanner for CUPS: CVE-2024-47176 | 2024-09-28T19:01:31Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [l0n3m4n/CVE-2024-47176](https://github.com/l0n3m4n/CVE-2024-47176) | Unauthenticated RCE on cups-browsed (exploit and nuclei template) | 2024-10-03T15:53:04Z |
 | [CVE-2024-47076](https://www.cve.org/CVERecord?id=CVE-2024-47076) | [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076) | Linux ve Unix sistemlerinizin CVE-2024-47076 açığından etkilenip etkilenmediğini bu script ile öğrenebilirsiniz. | 2024-09-29T15:13:58Z |
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
+| [CVE-2024-46658](https://www.cve.org/CVERecord?id=CVE-2024-46658) | [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658) | Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 | 2024-10-03T12:12:23Z |
 | [CVE-2024-46635](https://www.cve.org/CVERecord?id=CVE-2024-46635) | [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635) | no description | 2024-10-01T03:07:04Z |
 | [CVE-2024-46627](https://www.cve.org/CVERecord?id=CVE-2024-46627) | [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627) | CVE-2024-46627 - Incorrect access control in BECN DATAGERRY v2.2 allows attackers to &gt; execute arbitrary commands via crafted web requests. | 2024-09-25T10:32:53Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
@@ -327,6 +331,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346) | Public Disclosure | 2024-09-13T10:27:23Z |
+| [CVE-2024-44193](https://www.cve.org/CVERecord?id=CVE-2024-44193) | [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193) | Hacking Windows through iTunes  - Local Privilege Escalation 0-day | 2024-10-04T14:20:15Z |
 | [CVE-2024-44083](https://www.cve.org/CVERecord?id=CVE-2024-44083) | [Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083) | Makes IDA (most versions) to crash upon opening it. | 2024-08-25T12:33:14Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000 is a vulnerability in the LiteSpeed Cache plugin, a popular WordPress plugin. This vulnerability affects session management in LiteSpeed Cache, allowing attackers to gain unauthorized access to sensitive data. | 2024-09-06T03:38:13Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000) | LiteSpeed Unauthorized Account Takeover | 2024-09-06T13:43:30Z |
@@ -587,6 +592,8 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-34833](https://www.cve.org/CVERecord?id=CVE-2024-34833) | [ShellUnease/CVE-2024-34833-payroll-management-system-rce](https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce) | no description | 2024-05-02T10:37:56Z |
 | [CVE-2024-34832](https://www.cve.org/CVERecord?id=CVE-2024-34832) | [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832) | CVE-2024-34832 | 2024-05-14T19:15:31Z |
 | [CVE-2024-34831](https://www.cve.org/CVERecord?id=CVE-2024-34831) | [enzored/CVE-2024-34831](https://github.com/enzored/CVE-2024-34831) | Disclosure of CVE-2024-34831 | 2024-09-08T23:58:09Z |
+| [CVE-2024-34741](https://www.cve.org/CVERecord?id=CVE-2024-34741) | [uthrasri/CVE-2024-34741](https://github.com/uthrasri/CVE-2024-34741) | no description | 2024-10-04T13:41:09Z |
+| [CVE-2024-34739](https://www.cve.org/CVERecord?id=CVE-2024-34739) | [uthrasri/CVE-2024-34739](https://github.com/uthrasri/CVE-2024-34739) | no description | 2024-10-04T09:40:59Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693) | no description | 2024-07-29T04:30:23Z |
@@ -1040,6 +1047,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-29197](https://www.cve.org/CVERecord?id=CVE-2024-29197) | [mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit) | TENDA ROUTER AC10 - RCE (full research) | 2024-03-25T09:47:01Z |
 | [CVE-2024-29194](https://www.cve.org/CVERecord?id=CVE-2024-29194) | [mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC) | exploit for OneUptime - grab the master_key, escalate to admin | 2024-03-25T09:29:37Z |
 | [CVE-2024-29184](https://www.cve.org/CVERecord?id=CVE-2024-29184) | [abdulbugblaster/CVE-2024-29184](https://github.com/abdulbugblaster/CVE-2024-29184) | no description | 2024-09-07T04:08:36Z |
+| [CVE-2024-29050](https://www.cve.org/CVERecord?id=CVE-2024-29050) | [Akrachli/CVE-2024-29050](https://github.com/Akrachli/CVE-2024-29050) | CVE-2024-29050 is a vulnerability found in the Windows Cryptographic Services. | 2024-10-04T08:19:11Z |
 | [CVE-2024-28999](https://www.cve.org/CVERecord?id=CVE-2024-28999) | [HussainFathy/CVE-2024-28999](https://github.com/HussainFathy/CVE-2024-28999) | Exploit for CVE-2024-28999 SolarWinds Platform Race Condition Vulnerability - login page | 2024-06-22T13:39:56Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [bigb0x/CVE-2024-28995](https://github.com/bigb0x/CVE-2024-28995) | CVE-2024-28995 POC Vulnerability Scanner | 2024-06-14T23:05:40Z |
 | [CVE-2024-28995](https://www.cve.org/CVERecord?id=CVE-2024-28995) | [0xc4t/CVE-2024-28995](https://github.com/0xc4t/CVE-2024-28995) | Exploit for CVE-2024-28995 | 2024-06-14T08:04:48Z |
@@ -1166,6 +1174,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229) | CWE-781: Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code | 2024-06-10T17:02:03Z |
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [Cracked5pider/eop24-26229](https://github.com/Cracked5pider/eop24-26229) | A firebeam plugin that exploits the CVE-2024-26229 vulnerability to perform elevation of privilege from a  unprivileged user | 2024-08-04T17:40:51Z |
 | [CVE-2024-26218](https://www.cve.org/CVERecord?id=CVE-2024-26218) | [exploits-forsale/CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) | Proof-of-Concept for CVE-2024-26218 | 2024-04-26T16:41:04Z |
+| [CVE-2024-26160](https://www.cve.org/CVERecord?id=CVE-2024-26160) | [0x00Alchemist/CVE-2024-26160](https://github.com/0x00Alchemist/CVE-2024-26160) | cldflt.sys information disclosure vulnerability (KB5034765 - KB5035853, Win 11). | 2024-10-04T00:04:42Z |
 | [CVE-2024-26144](https://www.cve.org/CVERecord?id=CVE-2024-26144) | [gmo-ierae/CVE-2024-26144-test](https://github.com/gmo-ierae/CVE-2024-26144-test) | no description | 2024-05-24T07:26:40Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026) | CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION | 2024-05-09T03:14:14Z |
 | [CVE-2024-26026](https://www.cve.org/CVERecord?id=CVE-2024-26026) | [GRTMALDET/Big-IP-Next-CVE-2024-26026](https://github.com/GRTMALDET/Big-IP-Next-CVE-2024-26026) | no description | 2024-05-13T22:04:01Z |
@@ -1667,6 +1676,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [QDming/cve](https://github.com/QDming/cve) | Use CVE-2024-29278 | 2024-03-29T08:20:23Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582) | no description | 2024-04-05T15:39:48Z |
 | [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582) | no description | 2024-05-28T01:06:48Z |
+| [CVE-2024-0582](https://www.cve.org/CVERecord?id=CVE-2024-0582) | [geniuszlyy/CVE-2024-0582](https://github.com/geniuszlyy/CVE-2024-0582) | is a PoC exploit targeting a specific vulnerability in the Linux kernel (CVE-2024-0582) | 2024-10-03T07:56:36Z |
 | [CVE-2024-0566](https://www.cve.org/CVERecord?id=CVE-2024-0566) | [xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566) | no description | 2024-05-09T17:30:24Z |
 | [CVE-2024-0519](https://www.cve.org/CVERecord?id=CVE-2024-0519) | [Oxdestiny/CVE-2024-0519-Chrome-exploit](https://github.com/Oxdestiny/CVE-2024-0519-Chrome-exploit) | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | 2024-03-27T19:10:45Z |
 | [CVE-2024-0509](https://www.cve.org/CVERecord?id=CVE-2024-0509) | [kodaichodai/CVE-2024-0509](https://github.com/kodaichodai/CVE-2024-0509) | a PoC for CVE-2024-0509/WP Plugin - WP 404 Auto Redirect to Similar Post (&lt;= 5.4.14) | 2024-09-11T05:05:05Z |
@@ -2319,6 +2329,8 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220) | Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell. | 2024-07-07T15:53:54Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit](https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit) | This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location &quot;/main/inc/lib/javascript/bigupload/inc/bigUpload.php&quot; in Chamilo LMS &lt;= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell. | 2024-07-08T09:48:38Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [HO4XXX/cve-2023-4220-poc](https://github.com/HO4XXX/cve-2023-4220-poc) | PoC for CVE-2023-4220 - Chamilo LMS - Unauthenticated File Upload in BigUpload | 2024-07-09T16:09:18Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [nr4x4/CVE-2023-4220](https://github.com/nr4x4/CVE-2023-4220) | CVE-2023–4220 Exploit | 2024-07-11T13:06:17Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220) | RCE Chamilo 1.11.24 | 2024-07-07T16:57:18Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
 | [CVE-2023-4207](https://www.cve.org/CVERecord?id=CVE-2023-4207) | [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207) | no description | 2023-11-23T04:50:24Z |
@@ -3629,6 +3641,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp1](https://github.com/scabench/jsonorg-fp1) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-28T23:52:36Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp3](https://github.com/scabench/jsonorg-fp3) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T02:01:22Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-tp1](https://github.com/scabench/jsonorg-tp1) | simple application with a CVE-2022-45688 vulnerability | 2023-12-27T22:05:06Z |
+| [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fn1](https://github.com/scabench/jsonorg-fn1) | simple application with a CVE-2022-45688 vulnerability | 2024-01-21T01:28:23Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
@@ -4246,6 +4259,7 @@ Last generated: 2024-10-30 02:17:15.078899
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560) | CVE-2021-3560 Bypass su - root | 2023-10-06T15:27:13Z |
 | [CVE-2021-35464](https://www.cve.org/CVERecord?id=CVE-2021-35464) | [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464) | openam-CVE-2021-35464 tomcat 执行命令回显 | 2021-07-01T03:51:32Z |
 | [CVE-2021-35448](https://www.cve.org/CVERecord?id=CVE-2021-35448) | [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448) | Local Privilege Escalation in Remote Mouse 3.008 | 2023-06-11T06:32:12Z |
+| [CVE-2021-35296](https://www.cve.org/CVERecord?id=CVE-2021-35296) | [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296) | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | 2021-09-30T18:18:27Z |
 | [CVE-2021-35287](https://www.cve.org/CVERecord?id=CVE-2021-35287) | [l00neyhacker/CVE-2021-35287](https://github.com/l00neyhacker/CVE-2021-35287) | CVE-2021-35287 | 2023-02-05T22:37:02Z |
 | [CVE-2021-35286](https://www.cve.org/CVERecord?id=CVE-2021-35286) | [l00neyhacker/CVE-2021-35286](https://github.com/l00neyhacker/CVE-2021-35286) | CVE-2021-35286 | 2023-02-05T22:35:04Z |
 | [CVE-2021-35250](https://www.cve.org/CVERecord?id=CVE-2021-35250) | [rissor41/SolarWinds-CVE-2021-35250](https://github.com/rissor41/SolarWinds-CVE-2021-35250) | no description | 2023-04-13T05:13:38Z |
