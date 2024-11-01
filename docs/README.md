@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-10-31 02:18:21.795901
+Last generated: 2024-11-01 02:24:07.150975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -28,11 +28,13 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954) | This exploit will attempt to execute system commands on SPIP targets. | 2024-08-28T14:54:56Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-09-01T10:59:45Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [TheCyberguy-17/RCE_CVE-2024-7954](https://github.com/TheCyberguy-17/RCE_CVE-2024-7954) | no description | 2024-09-23T16:11:20Z |
+| [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954) | no description | 2024-10-05T07:24:57Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928) | Will attempt to retrieve DB details for FastAdmin instances | 2024-08-20T03:09:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928) | CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning | 2024-08-20T12:15:48Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928) | CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability | 2024-08-23T15:50:30Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928) | CVE-2024-7928 FastAdmin &lt; V1.3.4.20220530 exploit | 2024-08-22T14:39:13Z |
 | [CVE-2024-7856](https://www.cve.org/CVERecord?id=CVE-2024-7856) | [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856) | Proof-of-Concept for CVE-2024-7856 | 2024-09-09T08:34:09Z |
+| [CVE-2024-7854](https://www.cve.org/CVERecord?id=CVE-2024-7854) | [RandomRobbieBF/CVE-2024-7854](https://github.com/RandomRobbieBF/CVE-2024-7854) | Woo Inquiry &lt;= 0.1 - Unauthenticated SQL Injection | 2024-10-04T14:59:36Z |
 | [CVE-2024-7703](https://www.cve.org/CVERecord?id=CVE-2024-7703) | [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703) | This repository contains an exploit for CVE-2024-7703 in the ARMember WordPress plugin. It allows attackers with Subscriber-level access or higher to upload SVG files with malicious JavaScript, leading to Stored XSS attacks. This can result in executing scripts when the file is accessed, potentially compromising user sessions or data. | 2024-08-17T14:44:08Z |
 | [CVE-2024-7646](https://www.cve.org/CVERecord?id=CVE-2024-7646) | [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646) | PoC CVE-2024-7646 | 2024-08-29T19:10:08Z |
 | [CVE-2024-7646](https://www.cve.org/CVERecord?id=CVE-2024-7646) | [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646) | PoC CVE-2024-7646 | 2024-09-25T11:13:07Z |
@@ -209,6 +211,7 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [fin3ss3g0d/CVE-2024-4956](https://github.com/fin3ss3g0d/CVE-2024-4956) | CVE-2024-4956 Python exploitation utility | 2024-06-05T15:37:39Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956) | no description | 2024-08-14T16:41:01Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956) | no description | 2024-09-26T15:05:41Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack) | Simple hash cracker for Apache Shiro hashes written in Golang. Useful for exploiting CVE-2024-4956. | 2024-10-04T19:54:05Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-4885](https://www.cve.org/CVERecord?id=CVE-2024-4885) | [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885) | Exploit for CVE-2024-4885 | 2024-07-08T12:14:42Z |
@@ -296,10 +299,12 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner) | Scanning CVE-2024-4577 vulnerability with a url list. | 2024-09-10T17:31:07Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [phirojshah/CVE-2024-4577](https://github.com/phirojshah/CVE-2024-4577) | no description | 2024-09-12T19:27:52Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-) | 🚨 New Incident Report Completed! 🚨 Just wrapped up &quot;Event ID 268: SOC292 - Possible PHP Injection Detected (CVE-2024-4577)&quot; on LetsDefend.io. This analysis involved investigating an attempted Command Injection targeting our PHP server. Staying ahead of these threats with continuous monitoring and swift containment! 🛡️ | 2024-09-12T19:10:38Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [JeninSutradhar/CVE-2024-4577-checker](https://github.com/JeninSutradhar/CVE-2024-4577-checker) | A Bash script designed to scan multiple domains for the CVE-2024-4577 vulnerability in PHP-CGI. | 2024-10-04T13:10:19Z |
 | [CVE-2024-45614](https://www.cve.org/CVERecord?id=CVE-2024-45614) | [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614) | Puma Header normalization CVE-2024-45614 確認 | 2024-09-28T06:29:00Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC) | CVE-2024-45519 unauthenticated OS commoand Injection in Zimbra prior to 8.8.15***. | 2024-09-26T01:13:19Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519) | no description | 2024-09-28T08:29:06Z |
+| [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) | Zimbra - Remote Command Execution (CVE-2024-45519) | 2024-10-05T00:15:18Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45410](https://www.cve.org/CVERecord?id=CVE-2024-45410) | [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc) | A proof of concept of traefik CVE to understand the impact | 2024-09-26T09:58:27Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
@@ -983,6 +988,7 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI) | basic concept for the latest windows wifi driver CVE | 2024-06-20T05:58:45Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [a-roshbaik/CVE_2024_30078_POC_WIFI](https://github.com/a-roshbaik/CVE_2024_30078_POC_WIFI) | no description | 2024-07-24T20:56:54Z |
 | [CVE-2024-30056](https://www.cve.org/CVERecord?id=CVE-2024-30056) | [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure) | CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability | 2024-05-27T06:37:34Z |
+| [CVE-2024-30052](https://www.cve.org/CVERecord?id=CVE-2024-30052) | [ynwarcs/CVE-2024-30052](https://github.com/ynwarcs/CVE-2024-30052) | Materials for CVE-2024-30052. | 2024-10-04T19:09:45Z |
 | [CVE-2024-30051](https://www.cve.org/CVERecord?id=CVE-2024-30051) | [fortra/CVE-2024-30051](https://github.com/fortra/CVE-2024-30051) | no description | 2024-08-14T16:20:38Z |
 | [CVE-2024-30043](https://www.cve.org/CVERecord?id=CVE-2024-30043) | [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) | Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing | 2024-06-06T18:31:57Z |
 | [CVE-2024-29988](https://www.cve.org/CVERecord?id=CVE-2024-29988) | [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit) | Exploit for Microsoft SmartScreen malicious execution (april 2024) | 2024-05-03T12:17:25Z |
@@ -1166,6 +1172,7 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2024-26475](https://www.cve.org/CVERecord?id=CVE-2024-26475) | [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475) | An issue in radareorg radare2 v.0.9.7 through v.5.8.6 and fixed in v.5.8.8 allows a local attacker to cause a denial of service via the grub_sfs_read_extent function. | 2024-03-10T22:51:05Z |
 | [CVE-2024-26308](https://www.cve.org/CVERecord?id=CVE-2024-26308) | [crazycatMyopic/cve](https://github.com/crazycatMyopic/cve) | Docker Deskop giving issue CVE-2024-26308 for maven [reproduce] | 2024-08-11T14:10:14Z |
 | [CVE-2024-26304](https://www.cve.org/CVERecord?id=CVE-2024-26304) | [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits) | Critical RCE Vulnerabilities in HPE Aruba Devices (may 2024) | 2024-05-04T10:09:24Z |
+| [CVE-2024-26304](https://www.cve.org/CVERecord?id=CVE-2024-26304) | [X-Projetion/CVE-2024-26304-RCE-exploit](https://github.com/X-Projetion/CVE-2024-26304-RCE-exploit) | CVE-2024-26304 is a critical vulnerability (CVSS score of 9.8) affecting ArubaOS | 2024-10-05T01:38:36Z |
 | [CVE-2024-26230](https://www.cve.org/CVERecord?id=CVE-2024-26230) | [kiwids0220/CVE-2024-26230](https://github.com/kiwids0220/CVE-2024-26230) | no description | 2024-04-11T03:59:28Z |
 | [CVE-2024-26230](https://www.cve.org/CVERecord?id=CVE-2024-26230) | [Wa1nut4/CVE-2024-26230](https://github.com/Wa1nut4/CVE-2024-26230) | LPE of CVE-2024-26230 | 2024-08-28T16:31:26Z |
 | [CVE-2024-26229](https://www.cve.org/CVERecord?id=CVE-2024-26229) | [RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit) | Windows LPE | 2024-06-11T08:03:29Z |
@@ -4151,6 +4158,7 @@ Last generated: 2024-10-31 02:18:21.795901
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013) | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | 2022-11-18T17:53:46Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits) | Exploit CVE-2021-41773 and CVE-2021-42013 | 2023-08-02T09:50:10Z |
+| [CVE-2021-41946](https://www.cve.org/CVERecord?id=CVE-2021-41946) | [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946) | no description | 2022-05-17T15:23:12Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [K3ysTr0K3R/CVE-2021-4191-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT) | A PoC exploit for CVE-2021-4191 - GitLab User Enumeration. | 2023-07-22T21:06:51Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [firefart/hivenightmare](https://github.com/firefart/hivenightmare) | Exploit for HiveNightmare - CVE-2021–36934 | 2021-07-23T06:36:08Z |
