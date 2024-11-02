@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-01 02:24:07.150975
+Last generated: 2024-11-02 02:13:53.987917
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -236,6 +236,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [nma-io/CVE-2024-47176](https://github.com/nma-io/CVE-2024-47176) | A simple CVE-2024-47176 (cups_browsed) check tool written in go. | 2024-09-29T17:53:50Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176) | Vulnerability Scanner for CUPS: CVE-2024-47176 | 2024-09-28T19:01:31Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [l0n3m4n/CVE-2024-47176](https://github.com/l0n3m4n/CVE-2024-47176) | Unauthenticated RCE on cups-browsed (exploit and nuclei template) | 2024-10-03T15:53:04Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [gumerzzzindo/CVE-2024-47176](https://github.com/gumerzzzindo/CVE-2024-47176) | no description | 2024-10-05T09:22:36Z |
 | [CVE-2024-47076](https://www.cve.org/CVERecord?id=CVE-2024-47076) | [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076) | Linux ve Unix sistemlerinizin CVE-2024-47076 açığından etkilenip etkilenmediğini bu script ile öğrenebilirsiniz. | 2024-09-29T15:13:58Z |
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -245,6 +246,8 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-46627](https://www.cve.org/CVERecord?id=CVE-2024-46627) | [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627) | CVE-2024-46627 - Incorrect access control in BECN DATAGERRY v2.2 allows attackers to &gt; execute arbitrary commands via crafted web requests. | 2024-09-25T10:32:53Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
 | [CVE-2024-46377](https://www.cve.org/CVERecord?id=CVE-2024-46377) | [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377) | no description | 2024-09-23T03:47:36Z |
+| [CVE-2024-46310](https://www.cve.org/CVERecord?id=CVE-2024-46310) | [UwUtisum/CVE-2024-46310](https://github.com/UwUtisum/CVE-2024-46310) | POC for CVE-2024-46310 For FXServer version&#x27;s v9601 and prior,  Incorrect Access Control in FXServer version&#x27;s v9601 and prior, for CFX.re FiveM, allows unauthenticated users to modify and read userdata via exposed api endpoint | 2024-08-28T19:36:52Z |
+| [CVE-2024-46278](https://www.cve.org/CVERecord?id=CVE-2024-46278) | [ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover](https://github.com/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover) | 【Teedy 1.11】Account Takeover via XSS | 2024-08-28T03:17:37Z |
 | [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256) | POC_CVE-2024-46256 | 2024-09-19T09:35:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei) | CVE-2024-4577 nuclei-templates | 2024-06-08T03:12:28Z |
@@ -307,6 +310,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) | Zimbra - Remote Command Execution (CVE-2024-45519) | 2024-10-05T00:15:18Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45410](https://www.cve.org/CVERecord?id=CVE-2024-45410) | [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc) | A proof of concept of traefik CVE to understand the impact | 2024-09-26T09:58:27Z |
+| [CVE-2024-45409](https://www.cve.org/CVERecord?id=CVE-2024-45409) | [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409) | Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409) exploit | 2024-10-07T09:24:46Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
 | [CVE-2024-45383](https://www.cve.org/CVERecord?id=CVE-2024-45383) | [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383) | poc for CVE-2024-45383 | 2024-09-18T15:40:19Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
@@ -334,6 +338,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439) | The provided exploit code leverages a stored Cross-Site Scripting (XSS) vulnerability (CVE-2024-4439) in WordPress Core versions up to 6.5.1. | 2024-05-06T09:07:36Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
+| [CVE-2024-44349](https://www.cve.org/CVERecord?id=CVE-2024-44349) | [AndreaF17/PoC-CVE-2024-44349](https://github.com/AndreaF17/PoC-CVE-2024-44349) | no description | 2024-07-26T09:24:37Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346) | Public Disclosure | 2024-09-13T10:27:23Z |
 | [CVE-2024-44193](https://www.cve.org/CVERecord?id=CVE-2024-44193) | [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193) | Hacking Windows through iTunes  - Local Privilege Escalation 0-day | 2024-10-04T14:20:15Z |
@@ -478,6 +483,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473) | no description | 2024-08-02T19:57:52Z |
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template) | Nuclei template to detect Apache servers vulnerable to CVE-2024-38473 | 2024-08-23T14:39:31Z |
 | [CVE-2024-38472](https://www.cve.org/CVERecord?id=CVE-2024-38472) | [Abdurahmon3236/CVE-2024-38472](https://github.com/Abdurahmon3236/CVE-2024-38472) | no description | 2024-08-03T16:08:28Z |
+| [CVE-2024-38472](https://www.cve.org/CVERecord?id=CVE-2024-38472) | [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing) | Apache HTTP Server Vulnerability Testing Tool - PoC for CVE-2024-38472 , CVE-2024-39573 , CVE-2024-38477 , CVE-2024-38476 , CVE-2024-38475 , CVE-2024-38474 ,  CVE-2024-38473 , CVE-2023-38709 | 2024-10-05T20:32:45Z |
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
 | [CVE-2024-38189](https://www.cve.org/CVERecord?id=CVE-2024-38189) | [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189) | no description | 2024-08-20T12:41:57Z |
@@ -1094,6 +1100,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213) | Here&#x27;s a brief description of CVE-2024-28213:  &quot;CVE-2024-28213 is a critical vulnerability affecting versions prior to 3.5.9 of nGrinder. It allows unauthenticated users to send serialized Java objects to the application, potentially leading to the execution of arbitrary code through unsafe Java object deserialization. | 2024-03-07T17:38:41Z |
 | [CVE-2024-28213](https://www.cve.org/CVERecord?id=CVE-2024-28213) | [bsekercioglu/cve2024-21762-ShodanChecker](https://github.com/bsekercioglu/cve2024-21762-ShodanChecker) | no description | 2024-03-07T13:13:21Z |
 | [CVE-2024-28116](https://www.cve.org/CVERecord?id=CVE-2024-28116) | [gunzf0x/Grav-CMS-RCE-Authenticated](https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated) | Exploit against Grav CMS (versions below 1.7.45) that allows Remote Code Execution for an authenticated user - CVE-2024-28116 | 2024-09-07T05:00:19Z |
+| [CVE-2024-28116](https://www.cve.org/CVERecord?id=CVE-2024-28116) | [geniuszlyy/GenGravSSTIExploit](https://github.com/geniuszlyy/GenGravSSTIExploit) | is a PoC Python script that exploits an authenticated Server-Side Template Injection (SSTI) vulnerability in Grav CMS versions &lt;= 1.7.44 (CVE-2024-28116) | 2024-10-05T12:05:06Z |
 | [CVE-2024-28088](https://www.cve.org/CVERecord?id=CVE-2024-28088) | [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc) | no description | 2024-03-14T07:02:11Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085) | WallEscape vulnerability in util-linux | 2024-03-11T00:15:03Z |
 | [CVE-2024-28085](https://www.cve.org/CVERecord?id=CVE-2024-28085) | [oditynet/sleepall](https://github.com/oditynet/sleepall) | trojan CVE-2024-28085 CVE 28085 | 2024-08-27T08:34:15Z |
@@ -4394,6 +4401,7 @@ Last generated: 2024-11-01 02:24:07.150975
 | [CVE-2021-268855](https://www.cve.org/CVERecord?id=CVE-2021-268855) | [sikkertech/CVE-2021-268855](https://github.com/sikkertech/CVE-2021-268855) | Exploiting Microsoft CVE-2021-268855 in Exchange (Getting RCE) | 2022-12-01T20:30:56Z |
 | [CVE-2021-268855](https://www.cve.org/CVERecord?id=CVE-2021-268855) | [MeterianHQ/log4j-vuln-coverage-check](https://github.com/MeterianHQ/log4j-vuln-coverage-check) | A simple project to check coverage of Log4J vuln CVE-2021-44228 (and related) | 2021-12-15T14:44:14Z |
 | [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [iceberg-N/cve-2021-26855](https://github.com/iceberg-N/cve-2021-26855) | no description | 2023-04-25T04:29:35Z |
+| [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [r0xdeadbeef/CVE-2021-26855](https://github.com/r0xdeadbeef/CVE-2021-26855) | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | 2021-03-11T19:35:35Z |
 | [CVE-2021-26700](https://www.cve.org/CVERecord?id=CVE-2021-26700) | [jason-ntu/CVE-2021-26700](https://github.com/jason-ntu/CVE-2021-26700) | no description | 2023-03-16T14:49:28Z |
 | [CVE-2021-26258](https://www.cve.org/CVERecord?id=CVE-2021-26258) | [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258) | Files and tools for CVE-2021-26258 | 2022-12-17T00:59:32Z |
 | [CVE-2021-26088](https://www.cve.org/CVERecord?id=CVE-2021-26088) | [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088) | PoC for CVE-2021-26088 written in PowerShell | 2023-05-09T13:13:41Z |
