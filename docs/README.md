@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-02 02:13:53.987917
+Last generated: 2024-11-03 02:21:22.193468
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -3877,6 +3877,7 @@ Last generated: 2024-11-02 02:13:53.987917
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
 | [CVE-2022-25813](https://www.cve.org/CVERecord?id=CVE-2022-25813) | [mbadanoiu/CVE-2022-25813](https://github.com/mbadanoiu/CVE-2022-25813) | CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz | 2023-12-17T20:43:26Z |
 | [CVE-2022-25765](https://www.cve.org/CVERecord?id=CVE-2022-25765) | [UNICORDev/exploit-CVE-2022-25765](https://github.com/UNICORDev/exploit-CVE-2022-25765) | Exploit for CVE-2022–25765 (pdfkit) - Command Injection | 2023-02-10T00:50:35Z |
+| [CVE-2022-25765](https://www.cve.org/CVERecord?id=CVE-2022-25765) | [lowercasenumbers/CVE-2022-25765](https://github.com/lowercasenumbers/CVE-2022-25765) | Exploit for CVE-2022-25765 | 2024-01-22T14:45:34Z |
 | [CVE-2022-25315](https://www.cve.org/CVERecord?id=CVE-2022-25315) | [hshivhare67/external_expat_v2.1.0_CVE-2022-25315](https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315) | no description | 2023-04-06T05:42:39Z |
 | [CVE-2022-25313](https://www.cve.org/CVERecord?id=CVE-2022-25313) | [Trinadh465/external_expat-2.1.0_CVE-2022-25313](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313) | no description | 2023-04-12T05:30:46Z |
 | [CVE-2022-25313](https://www.cve.org/CVERecord?id=CVE-2022-25313) | [qjawls2003/BlackLotus-Detection](https://github.com/qjawls2003/BlackLotus-Detection) | Public repo for anything CVE-2022-21894 | 2023-04-12T05:01:50Z |
