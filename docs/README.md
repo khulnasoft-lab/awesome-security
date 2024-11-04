@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-03 02:21:22.193468
+Last generated: 2024-11-04 02:19:52.423292
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2345,6 +2345,7 @@ Last generated: 2024-11-03 02:21:22.193468
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [HO4XXX/cve-2023-4220-poc](https://github.com/HO4XXX/cve-2023-4220-poc) | PoC for CVE-2023-4220 - Chamilo LMS - Unauthenticated File Upload in BigUpload | 2024-07-09T16:09:18Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [nr4x4/CVE-2023-4220](https://github.com/nr4x4/CVE-2023-4220) | CVE-2023–4220 Exploit | 2024-07-11T13:06:17Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220) | RCE Chamilo 1.11.24 | 2024-07-07T16:57:18Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Al3xGD/CVE-2023-4220-Exploit](https://github.com/Al3xGD/CVE-2023-4220-Exploit) | LMS Chamilo 1.11.24 CVE-2023-4220  Exploit | 2024-07-15T01:38:47Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
 | [CVE-2023-4207](https://www.cve.org/CVERecord?id=CVE-2023-4207) | [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207) | no description | 2023-11-23T04:50:24Z |
