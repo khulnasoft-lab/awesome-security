@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-04 02:19:52.423292
+Last generated: 2024-11-05 02:13:58.564582
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -237,6 +237,10 @@ Last generated: 2024-11-04 02:19:52.423292
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176) | Vulnerability Scanner for CUPS: CVE-2024-47176 | 2024-09-28T19:01:31Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [l0n3m4n/CVE-2024-47176](https://github.com/l0n3m4n/CVE-2024-47176) | Unauthenticated RCE on cups-browsed (exploit and nuclei template) | 2024-10-03T15:53:04Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [gumerzzzindo/CVE-2024-47176](https://github.com/gumerzzzindo/CVE-2024-47176) | no description | 2024-10-05T09:22:36Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [lkarlslund/jugular](https://github.com/lkarlslund/jugular) | Ultrafast CUPS-browsed scanner (CVE-2024-47176) | 2024-09-29T09:05:30Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [GO0dspeed/spill](https://github.com/GO0dspeed/spill) | POC scanner for CVE-2024-47176 | 2024-09-27T01:22:43Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [MalwareTech/CVE-2024-47176-Scanner](https://github.com/MalwareTech/CVE-2024-47176-Scanner) | A simple scanner for identifying vulnerable cups-browsed instances on your network | 2024-10-07T07:25:18Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176) | This repository contains a scanner for detecting vulnerabilities in the cups-browsed service of CUPS (Common Unix Printing System). The vulnerability CVE-2024-47176 allows a remote attacker to exploit an insecure configuration of the daemon, potentially leading to arbitrary code execution. | 2024-10-07T16:14:37Z |
 | [CVE-2024-47076](https://www.cve.org/CVERecord?id=CVE-2024-47076) | [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076) | Linux ve Unix sistemlerinizin CVE-2024-47076 açığından etkilenip etkilenmediğini bu script ile öğrenebilirsiniz. | 2024-09-29T15:13:58Z |
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -367,6 +371,7 @@ Last generated: 2024-11-04 02:19:52.423292
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358) | Telerik Report Server deserialization and authentication bypass exploit chain for CVE-2024-4358/CVE-2024-1800 | 2024-08-24T10:09:09Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
+| [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
@@ -584,6 +589,7 @@ Last generated: 2024-11-04 02:19:52.423292
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [justin-p/geoexplorer](https://github.com/justin-p/geoexplorer) | Mass scanner for CVE-2024-36401 | 2024-08-27T15:28:04Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC) | Proof-of-Concept Exploit for CVE-2024-36401 GeoServer 2.25.1 | 2024-09-13T10:28:48Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [PunitTailor55/GeoServer-CVE-2024-36401](https://github.com/PunitTailor55/GeoServer-CVE-2024-36401) | GeoServer CVE-2024-36401: Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions | 2024-09-28T14:55:50Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) | geoserver图形化漏洞利用工具 | 2024-10-05T10:08:55Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -1310,6 +1316,7 @@ Last generated: 2024-11-04 02:19:52.423292
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [junnythemarksman/CVE-2024-24590](https://github.com/junnythemarksman/CVE-2024-24590) | Deserialization of untrusted data can occur in versions 0.17.0 to 1.14.2 of the client SDK of Allegro AI’s ClearML platform, enabling a maliciously uploaded artifact to run arbitrary code on an end user’s system when interacted with. | 2024-06-20T11:23:56Z |
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [sviim/ClearML-CVE-2024-24590-RCE](https://github.com/sviim/ClearML-CVE-2024-24590-RCE) | With this script you can exploit the CVE-2024-24590 | 2024-07-21T04:16:24Z |
 | [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [Bigb972003/cve-2024-24590](https://github.com/Bigb972003/cve-2024-24590) | no description | 2024-08-11T09:21:08Z |
+| [CVE-2024-24590](https://www.cve.org/CVERecord?id=CVE-2024-24590) | [j3r1ch0123/CVE-2024-24590](https://github.com/j3r1ch0123/CVE-2024-24590) | Created this exploit for the Hack The Box machine, Blurry. | 2024-10-07T17:07:10Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) | Example of CVE-2024-24576 use case. | 2024-04-09T21:17:15Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit) | CVE-2024-24576 Proof of Concept | 2024-04-10T14:06:09Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC) | CVE-2024-27474, CVE-2024-27476, CVE-2024-27477 | 2024-04-04T13:58:33Z |
@@ -2899,6 +2906,7 @@ Last generated: 2024-11-04 02:19:52.423292
 | [CVE-2023-33730](https://www.cve.org/CVERecord?id=CVE-2023-33730) | [nguyendinhmanh1111/CVE2023](https://github.com/nguyendinhmanh1111/CVE2023) | no description | 2023-05-30T12:57:00Z |
 | [CVE-2023-33677](https://www.cve.org/CVERecord?id=CVE-2023-33677) | [ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677) | no description | 2024-02-25T09:17:48Z |
 | [CVE-2023-33676](https://www.cve.org/CVERecord?id=CVE-2023-33676) | [ASR511-OO7/CVE-2023-33676](https://github.com/ASR511-OO7/CVE-2023-33676) | no description | 2024-02-25T09:18:38Z |
+| [CVE-2023-33669](https://www.cve.org/CVERecord?id=CVE-2023-33669) | [retr0reg/tenda-ac8v4-rop](https://github.com/retr0reg/tenda-ac8v4-rop) | Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675) | 2023-05-13T04:10:15Z |
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668) | no description | 2023-07-08T08:56:21Z |
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [lrh2000/StackRot](https://github.com/lrh2000/StackRot) | CVE-2023-3269: Linux kernel privilege escalation vulnerability | 2023-06-28T13:22:26Z |
 | [CVE-2023-33668](https://www.cve.org/CVERecord?id=CVE-2023-33668) | [hansengentle/CVE-2023](https://github.com/hansengentle/CVE-2023) | no description | 2023-07-07T20:16:50Z |
