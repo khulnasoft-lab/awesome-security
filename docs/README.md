@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-07 02:14:07.273263
+Last generated: 2024-11-08 02:14:24.039846
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2615,6 +2615,7 @@ Last generated: 2024-11-07 02:14:07.273263
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408) | PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2 | 2023-08-09T19:56:07Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [LucasPDiniz/CVE-2023-38408](https://github.com/LucasPDiniz/CVE-2023-38408) | Takeover Account OpenSSH | 2023-11-09T04:34:39Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [wxrdnx/CVE-2023-38408](https://github.com/wxrdnx/CVE-2023-38408) | no description | 2024-02-16T18:20:12Z |
+| [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [mrtacojr/CVE-2023-38408](https://github.com/mrtacojr/CVE-2023-38408) | Script para eliminar vulnerabilidad de openssh de ubuntu 22.04 LTS | 2024-07-17T02:00:31Z |
 | [CVE-2023-38389](https://www.cve.org/CVERecord?id=CVE-2023-38389) | [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC) | CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover | 2023-08-27T00:30:16Z |
 | [CVE-2023-38388](https://www.cve.org/CVERecord?id=CVE-2023-38388) | [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388) | Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload | 2023-08-26T05:51:06Z |
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z |
@@ -3049,6 +3050,7 @@ Last generated: 2024-11-07 02:14:07.273263
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [RubyCat1337/CVE-2023-30943](https://github.com/RubyCat1337/CVE-2023-30943) | CVE-2023-30943 (Moodle XSS) | 2024-03-21T08:08:52Z |
 | [CVE-2023-30861](https://www.cve.org/CVERecord?id=CVE-2023-30861) | [JawadPy/CVE-2023-30861-Exploit](https://github.com/JawadPy/CVE-2023-30861-Exploit) | Explaining how to exploit CVE-2023-30861 | 2023-10-13T08:27:03Z |
 | [CVE-2023-30845](https://www.cve.org/CVERecord?id=CVE-2023-30845) | [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845) | Explore CVE 2023-30845 automatically across multiple subdomains | 2023-09-22T01:14:20Z |
+| [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC) | Proof of concept for CVE-2023-30800 | 2024-07-17T06:24:41Z |
 | [CVE-2023-3079](https://www.cve.org/CVERecord?id=CVE-2023-3079) | [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) | no description | 2023-08-15T04:16:46Z |
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z |
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z |
