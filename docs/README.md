@@ -2,19 +2,22 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-08 02:14:24.039846
+Last generated: 2024-11-09 02:10:06.089256
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
 | [CVE-2024-9464](https://www.cve.org/CVERecord?id=CVE-2024-9464) | [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464) | Proof of Concept Exploit for CVE-2024-9464 | 2024-10-09T16:36:25Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
+| [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
+| [CVE-2024-8698](https://www.cve.org/CVERecord?id=CVE-2024-8698) | [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC) | i&#x27;m noob with saml and keycloak . J4f | 2024-10-10T11:50:07Z |
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
 | [CVE-2024-8504](https://www.cve.org/CVERecord?id=CVE-2024-8504) | [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504) | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | 2024-09-14T06:27:11Z |
@@ -176,6 +179,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2024-5947](https://www.cve.org/CVERecord?id=CVE-2024-5947) | [Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947) | Deep Sea Electronics DSE855 - Authentication Bypass | 2024-07-07T14:03:49Z |
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC) | Proof-of-Concept for CVE-2024-5932  GiveWP PHP Object Injection | 2024-08-21T09:51:21Z |
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932) | Proof-of-Concept for CVE-2024-5932 | 2024-08-25T11:51:36Z |
+| [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932) | no description | 2024-10-11T08:12:38Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -357,6 +361,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000 is a vulnerability in the LiteSpeed Cache plugin, a popular WordPress plugin. This vulnerability affects session management in LiteSpeed Cache, allowing attackers to gain unauthorized access to sensitive data. | 2024-09-06T03:38:13Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000) | LiteSpeed Unauthorized Account Takeover | 2024-09-06T13:43:30Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000-LiteSpeed-Cache | 2024-09-16T14:13:52Z |
+| [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [geniuszlyy/CVE-2024-44000](https://github.com/geniuszlyy/CVE-2024-44000) | is a PoC tool designed to exploit insecurely exposed debug logs from WordPress sites and extract session cookies | 2024-10-10T15:58:10Z |
 | [CVE-2024-43998](https://www.cve.org/CVERecord?id=CVE-2024-43998) | [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998) | Blogpoet &lt;= 1.0.2 - Missing Authorization via blogpoet_install_and_activate_plugins() | 2024-09-10T09:38:20Z |
 | [CVE-2024-43918](https://www.cve.org/CVERecord?id=CVE-2024-43918) | [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918) | WBW Product Table Pro &lt;= 1.9.4 - Unauthenticated Arbitrary SQL Execution to RCE | 2024-09-24T05:50:03Z |
 | [CVE-2024-43917](https://www.cve.org/CVERecord?id=CVE-2024-43917) | [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917) | no description | 2024-09-29T06:23:35Z |
@@ -1317,6 +1322,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919) | no description | 2024-08-29T12:59:40Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-) | 🔍 Just wrapped up an incident report on a Phishing Alert (Event ID 257, SOC282). Enhancing my expertise in email threat detection and response! 🚨 #Cybersecurity #SOCAnalyst #LetsDefend | 2024-08-31T16:57:06Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [geniuszlyy/CVE-2024-24919](https://github.com/geniuszlyy/CVE-2024-24919) | PoC script for CVE-2024-24919 vulnerability. It scans a list of target URLs to identify security issues by sending HTTP POST requests and analyzing server responses | 2024-09-29T08:20:56Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [skyrowalker/CVE-2024-24919](https://github.com/skyrowalker/CVE-2024-24919) | no description | 2024-10-09T17:54:28Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24809](https://www.cve.org/CVERecord?id=CVE-2024-24809) | [fa-rrel/CVE-2024-24809-Proof-of-concept](https://github.com/fa-rrel/CVE-2024-24809-Proof-of-concept) | Critical Flaws in Traccar GPS System Expose Users to Remote Attacks | 2024-09-03T09:56:13Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
@@ -1467,6 +1473,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z |
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
+| [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113) | no description | 2024-10-11T08:13:10Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-23002](https://www.cve.org/CVERecord?id=CVE-2024-23002) | [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002) | this is test POC for git_rce | 2024-07-07T12:55:29Z |
@@ -3797,6 +3804,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2022-38694](https://www.cve.org/CVERecord?id=CVE-2022-38694) | [TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader) | unlock bootloader for theoretically ALL unisoc ud710 and ums512 model | 2023-06-10T08:31:26Z |
 | [CVE-2022-38604](https://www.cve.org/CVERecord?id=CVE-2022-38604) | [LucaBarile/CVE-2022-38604](https://github.com/LucaBarile/CVE-2022-38604) | Exploits and reports for CVE-2022-38604 | 2022-08-02T13:53:18Z |
 | [CVE-2022-38601](https://www.cve.org/CVERecord?id=CVE-2022-38601) | [jet-pentest/CVE-2022-38601](https://github.com/jet-pentest/CVE-2022-38601) | CVE-2022-38601 | 2023-10-23T13:34:53Z |
+| [CVE-2022-38577](https://www.cve.org/CVERecord?id=CVE-2022-38577) | [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker) | ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators. | 2022-09-21T04:29:42Z |
 | [CVE-2022-38181](https://www.cve.org/CVERecord?id=CVE-2022-38181) | [Pro-me3us/CVE_2022_38181_Gazelle](https://github.com/Pro-me3us/CVE_2022_38181_Gazelle) | CVE-2022-38181 POC for FireTV 3rd gen Cube (gazelle) | 2023-04-13T13:25:09Z |
 | [CVE-2022-38181](https://www.cve.org/CVERecord?id=CVE-2022-38181) | [Pro-me3us/CVE_2022_38181_Raven](https://github.com/Pro-me3us/CVE_2022_38181_Raven) | CVE-2022-38181 POC for FireTV 2nd gen Cube (raven) | 2023-04-13T13:19:04Z |
 | [CVE-2022-37969](https://www.cve.org/CVERecord?id=CVE-2022-37969) | [fortra/CVE-2022-37969](https://github.com/fortra/CVE-2022-37969) | Windows LPE exploit for CVE-2022-37969 | 2023-03-09T21:17:44Z |
@@ -4268,6 +4276,7 @@ Last generated: 2024-11-08 02:14:24.039846
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [galoget/PwnKit-CVE-2021-4034](https://github.com/galoget/PwnKit-CVE-2021-4034) | no description | 2022-01-28T12:08:25Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [tuntin9x/CheckHKRCE](https://github.com/tuntin9x/CheckHKRCE) | CVE-2021-36260 | 2021-12-13T09:23:36Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [JohnGilbert57/CVE-2021-4034-Capture-the-flag](https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag) | no description | 2023-07-28T17:12:18Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch) | touch 生成文件 | 2024-01-04T07:43:02Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -6989,3 +6998,4 @@ Last generated: 2024-11-08 02:14:24.039846
 | CVE NOT FOUND | [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE) | Remote Code Execution for Chamilo LMS | 2024-07-09T20:47:00Z |
 | CVE NOT FOUND | [M-nj/cvelistV5-2024-09-10-corrector](https://github.com/M-nj/cvelistV5-2024-09-10-corrector) | test repo for corrector 2024-09-10 | 2024-09-10T15:00:02Z |
 | CVE NOT FOUND | [M-nj/cvelistv5-2024-09-30-corrector](https://github.com/M-nj/cvelistv5-2024-09-30-corrector) | dev copy of the cvelistv5 built starting off at 2024-09-30T16:03:17.464Z | 2024-10-01T14:03:03Z |
+| CVE NOT FOUND | [Locj41/demo-cve2021-45105](https://github.com/Locj41/demo-cve2021-45105) | no description | 2024-01-02T14:10:54Z |
