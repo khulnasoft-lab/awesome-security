@@ -2,16 +2,19 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-09 02:10:06.089256
+Last generated: 2024-11-10 02:17:59.555162
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9821](https://www.cve.org/CVERecord?id=CVE-2024-9821) | [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821) | Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass | 2024-10-11T15:35:39Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
+| [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
 | [CVE-2024-9464](https://www.cve.org/CVERecord?id=CVE-2024-9464) | [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464) | Proof of Concept Exploit for CVE-2024-9464 | 2024-10-09T16:36:25Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
+| [CVE-2024-9224](https://www.cve.org/CVERecord?id=CVE-2024-9224) | [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224) | Hello World &lt;= 2.1.1 - Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T09:17:20Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
@@ -48,10 +51,12 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC) | CVE-2024-7593 &lt; Ivanti vTM [Authentication Bypass] | 2024-08-26T11:03:00Z |
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593) | Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel. | 2024-08-28T10:02:05Z |
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit) | CVE-2024-7593 Ivanti Virtual Traffic Manager 22.2R1 / 22.7R2 Admin Panel Authentication Bypass PoC [EXPLOIT] | 2024-09-24T22:24:35Z |
+| [CVE-2024-7514](https://www.cve.org/CVERecord?id=CVE-2024-7514) | [RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514) | WordPress Comments Import &amp; Export &lt;= 2.3.7 - Authenticated (Author+) Arbitrary File Read via Directory Traversal | 2024-10-11T10:43:22Z |
 | [CVE-2024-7479](https://www.cve.org/CVERecord?id=CVE-2024-7479) | [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) | TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006. | 2024-09-29T10:58:15Z |
 | [CVE-2024-7339](https://www.cve.org/CVERecord?id=CVE-2024-7339) | [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339) | An Vulnerability detection and Exploitation tool for  CVE-2024-7339 | 2024-08-05T16:26:18Z |
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
+| [CVE-2024-7135](https://www.cve.org/CVERecord?id=CVE-2024-7135) | [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135) | Tainacan &lt;= 0.21.7 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T10:56:59Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC) | Mass Exploit &lt; [CVE-2024-7120 - Raisecom] - Command Injection | 2024-08-01T17:39:45Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [fa-rrel/CVE-2024-7120](https://github.com/fa-rrel/CVE-2024-7120) | ⚠️⚠️ CVE-2024-7120 Command Injection Vulnerability in RAISECOM Gateway Devices | 2024-08-30T15:50:50Z |
 | [CVE-2024-7094](https://www.cve.org/CVERecord?id=CVE-2024-7094) | [nastar-id/CVE-2024-7094](https://github.com/nastar-id/CVE-2024-7094) | CVE-2024-7094 Vulnerability checker | 2024-08-18T09:27:54Z |
@@ -254,6 +259,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
+| [CVE-2024-46901](https://www.cve.org/CVERecord?id=CVE-2024-46901) | [devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901) | Subversion CVE-2024-46901 PoC | 2024-10-11T13:28:55Z |
 | [CVE-2024-46658](https://www.cve.org/CVERecord?id=CVE-2024-46658) | [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658) | Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 | 2024-10-03T12:12:23Z |
 | [CVE-2024-46635](https://www.cve.org/CVERecord?id=CVE-2024-46635) | [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635) | no description | 2024-10-01T03:07:04Z |
 | [CVE-2024-46627](https://www.cve.org/CVERecord?id=CVE-2024-46627) | [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627) | CVE-2024-46627 - Incorrect access control in BECN DATAGERRY v2.2 allows attackers to &gt; execute arbitrary commands via crafted web requests. | 2024-09-25T10:32:53Z |
@@ -1103,6 +1109,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876) | POC for SQLi vulnerability in Icegram express | 2024-04-25T09:53:22Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876) | no description | 2024-09-14T16:08:56Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876) | no description | 2024-09-17T05:54:18Z |
+| [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876) | no description | 2024-10-09T19:24:53Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757) | no description | 2024-05-03T04:58:24Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757) | no description | 2024-05-03T10:11:38Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757) | no description | 2024-05-03T09:21:27Z |
@@ -1474,6 +1481,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113) | no description | 2024-10-11T08:13:10Z |
+| [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [CheckCve2/CVE-2024-23113](https://github.com/CheckCve2/CVE-2024-23113) | test_private_CVE | 2024-10-11T15:16:00Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-23002](https://www.cve.org/CVERecord?id=CVE-2024-23002) | [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002) | this is test POC for git_rce | 2024-07-07T12:55:29Z |
@@ -3317,6 +3325,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2023-25136](https://www.cve.org/CVERecord?id=CVE-2023-25136) | [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136) | OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept | 2023-09-21T12:05:35Z |
 | [CVE-2023-24955](https://www.cve.org/CVERecord?id=CVE-2023-24955) | [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC) | Exploit for Microsoft SharePoint 2019 | 2023-12-28T09:08:47Z |
 | [CVE-2023-24932](https://www.cve.org/CVERecord?id=CVE-2023-24932) | [ChristelVDH/Invoke-BlackLotusMitigation](https://github.com/ChristelVDH/Invoke-BlackLotusMitigation) | scripted CVE-2023-24932 mitigation guide | 2024-05-23T17:49:17Z |
+| [CVE-2023-24871](https://www.cve.org/CVERecord?id=CVE-2023-24871) | [ynwarcs/CVE-2023-24871](https://github.com/ynwarcs/CVE-2023-24871) | pocs &amp; exploit for CVE-2023-24871 (rce + lpe) | 2024-06-21T15:01:15Z |
 | [CVE-2023-24706](https://www.cve.org/CVERecord?id=CVE-2023-24706) | [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706) | CVE-2023-24706 | 2023-11-10T05:43:52Z |
 | [CVE-2023-24517](https://www.cve.org/CVERecord?id=CVE-2023-24517) | [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517) | no description | 2023-10-15T14:55:12Z |
 | [CVE-2023-24489](https://www.cve.org/CVERecord?id=CVE-2023-24489) | [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile) | This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs. | 2023-07-12T13:01:33Z |
@@ -3384,6 +3393,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [alsaeroth/CVE-2023-23397-POC](https://github.com/alsaeroth/CVE-2023-23397-POC) | C implementation of Outlook 0-click vulnerability | 2024-02-07T07:08:55Z |
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [TheUnknownSoul/CVE-2023-23397-PoW](https://github.com/TheUnknownSoul/CVE-2023-23397-PoW) | Proof of Work of CVE-2023-23397 for vulnerable Microsoft Outlook client application. | 2024-03-20T09:49:01Z |
 | [CVE-2023-23397](https://www.cve.org/CVERecord?id=CVE-2023-23397) | [Symbolexe/CVE-2023-23397](https://github.com/Symbolexe/CVE-2023-23397) | CVE-2023-23397: Remote Code Execution Vulnerability in Microsoft Outlook | 2024-06-22T14:25:39Z |
+| [CVE-2023-23388](https://www.cve.org/CVERecord?id=CVE-2023-23388) | [ynwarcs/CVE-2023-23388](https://github.com/ynwarcs/CVE-2023-23388) | poc for CVE-2023-23388 (LPE in Windows 10/11 bthserv service) | 2024-06-23T19:52:09Z |
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333) | command injection vulnerability in SolarView Compact poc version 6.0 | 2023-06-25T09:16:16Z |
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333) | SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates | 2023-06-16T14:33:31Z |
 | [CVE-2023-23333](https://www.cve.org/CVERecord?id=CVE-2023-23333) | [NCSC-NL/Progress-MoveIT-CVE-2023](https://github.com/NCSC-NL/Progress-MoveIT-CVE-2023) | Information about Progress MoveIT CVE | 2023-06-02T12:27:42Z |
@@ -4163,6 +4173,7 @@ Last generated: 2024-11-09 02:10:06.089256
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228) | no description | 2021-12-10T23:37:55Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228) | Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability | 2023-10-06T04:36:31Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [felixslama/log4shell-minecraft-demo](https://github.com/felixslama/log4shell-minecraft-demo) | Log4Shell (CVE-2021-44228) minecraft demo. Used for education fairs | 2023-11-21T15:45:31Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | 2021-12-24T13:18:49Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
