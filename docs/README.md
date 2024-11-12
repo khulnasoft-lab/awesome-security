@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-11 02:15:39.297236
+Last generated: 2024-11-12 02:12:35.364787
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -619,6 +619,7 @@ Last generated: 2024-11-11 02:15:39.297236
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC) | Proof-of-Concept Exploit for CVE-2024-36401 GeoServer 2.25.1 | 2024-09-13T10:28:48Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [PunitTailor55/GeoServer-CVE-2024-36401](https://github.com/PunitTailor55/GeoServer-CVE-2024-36401) | GeoServer CVE-2024-36401: Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions | 2024-09-28T14:55:50Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) | geoserver图形化漏洞利用工具 | 2024-10-05T10:08:55Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401) | no description | 2024-10-14T15:57:06Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -1680,6 +1681,7 @@ Last generated: 2024-11-11 02:15:39.297236
 | [CVE-2024-1708](https://www.cve.org/CVERecord?id=CVE-2024-1708) | [cjybao/CVE-2024-1709-and-CVE-2024-1708](https://github.com/cjybao/CVE-2024-1709-and-CVE-2024-1708) | no description | 2024-04-02T04:58:38Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit) | This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698. | 2024-03-29T04:11:06Z |
+| [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698) | no description | 2024-10-14T13:02:26Z |
 | [CVE-2024-1655](https://www.cve.org/CVERecord?id=CVE-2024-1655) | [lnversed/CVE-2024-1655](https://github.com/lnversed/CVE-2024-1655) | no description | 2024-05-06T10:56:47Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC) | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | 2024-02-23T11:04:24Z |
@@ -3829,6 +3831,7 @@ Last generated: 2024-11-11 02:15:39.297236
 | [CVE-2022-37969](https://www.cve.org/CVERecord?id=CVE-2022-37969) | [fortra/CVE-2022-37969](https://github.com/fortra/CVE-2022-37969) | Windows LPE exploit for CVE-2022-37969 | 2023-03-09T21:17:44Z |
 | [CVE-2022-37706](https://www.cve.org/CVERecord?id=CVE-2022-37706) | [GrayHatZone/CVE-2022-37706-LPE-exploit](https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit) | no description | 2023-04-25T19:28:32Z |
 | [CVE-2022-37434](https://www.cve.org/CVERecord?id=CVE-2022-37434) | [Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434](https://github.com/Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434) | no description | 2024-02-02T06:57:18Z |
+| [CVE-2022-37434](https://www.cve.org/CVERecord?id=CVE-2022-37434) | [Trinadh465/external_zlib_CVE-2022-37434](https://github.com/Trinadh465/external_zlib_CVE-2022-37434) | no description | 2024-02-02T14:25:28Z |
 | [CVE-2022-36946](https://www.cve.org/CVERecord?id=CVE-2022-36946) | [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946) | CVE-2022-36946 linux kernel panic in netfilter_queue | 2022-07-28T11:22:13Z |
 | [CVE-2022-36804](https://www.cve.org/CVERecord?id=CVE-2022-36804) | [benjaminhays/CVE-2022-36804-PoC-Exploit](https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit) | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | 2022-09-20T02:35:53Z |
 | [CVE-2022-36779](https://www.cve.org/CVERecord?id=CVE-2022-36779) | [rootDR/CVE-2022-36779](https://github.com/rootDR/CVE-2022-36779) | Exploit for CVE-2022-36779 authenticated Command Injection | 2023-12-24T10:46:50Z |
