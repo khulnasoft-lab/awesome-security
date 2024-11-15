@@ -2,18 +2,21 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-14 02:15:29.783221
+Last generated: 2024-11-15 02:21:57.068631
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-9821](https://www.cve.org/CVERecord?id=CVE-2024-9821) | [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821) | Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass | 2024-10-11T15:35:39Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
+| [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
+| [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593) | Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution | 2024-10-18T09:11:03Z |
 | [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
 | [CVE-2024-9464](https://www.cve.org/CVERecord?id=CVE-2024-9464) | [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464) | Proof of Concept Exploit for CVE-2024-9464 | 2024-10-09T16:36:25Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
+| [CVE-2024-9234](https://www.cve.org/CVERecord?id=CVE-2024-9234) | [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234) | GutenKit &lt;= 2.1.0 - Unauthenticated Arbitrary File Upload | 2024-10-17T18:48:12Z |
 | [CVE-2024-9224](https://www.cve.org/CVERecord?id=CVE-2024-9224) | [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224) | Hello World &lt;= 2.1.1 - Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T09:17:20Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
@@ -246,6 +249,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879) | Jelly Template Injection Vulnerability in ServiceNow - POC CVE-2024-4879 | 2024-08-27T03:43:28Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879) | no description | 2024-09-13T01:20:34Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
+| [CVE-2024-48644](https://www.cve.org/CVERecord?id=CVE-2024-48644) | [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644) | Reolink Duo 2 WiFi v1.0.280 - Account Enumeration Vulnerability | 2024-10-17T23:27:04Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
@@ -259,6 +263,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [GO0dspeed/spill](https://github.com/GO0dspeed/spill) | POC scanner for CVE-2024-47176 | 2024-09-27T01:22:43Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [MalwareTech/CVE-2024-47176-Scanner](https://github.com/MalwareTech/CVE-2024-47176-Scanner) | A simple scanner for identifying vulnerable cups-browsed instances on your network | 2024-10-07T07:25:18Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176) | This repository contains a scanner for detecting vulnerabilities in the cups-browsed service of CUPS (Common Unix Printing System). The vulnerability CVE-2024-47176 allows a remote attacker to exploit an insecure configuration of the daemon, potentially leading to arbitrary code execution. | 2024-10-07T16:14:37Z |
+| [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [gianlu111/CUPS-CVE-2024-47176](https://github.com/gianlu111/CUPS-CVE-2024-47176) | A Mass Scanner designed to detect the CVE-2024-47176 vulnerability across systems running the Common Unix Printing System (CUPS). | 2024-10-17T18:21:10Z |
 | [CVE-2024-47076](https://www.cve.org/CVERecord?id=CVE-2024-47076) | [mutkus/CVE-2024-47076](https://github.com/mutkus/CVE-2024-47076) | Linux ve Unix sistemlerinizin CVE-2024-47076 açığından etkilenip etkilenmediğini bu script ile öğrenebilirsiniz. | 2024-09-29T15:13:58Z |
 | [CVE-2024-47066](https://www.cve.org/CVERecord?id=CVE-2024-47066) | [l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) | Proof-of-Concept for CVE-2024-47066 | 2024-09-24T09:59:27Z |
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
@@ -446,6 +451,10 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711) | Pre-Auth Exploit for CVE-2024-40711 | 2024-09-15T17:25:32Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp) | CVE-2024-40711-exp | 2024-10-16T05:02:27Z |
 | [CVE-2024-40676](https://www.cve.org/CVERecord?id=CVE-2024-40676) | [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676) | no description | 2024-10-17T11:29:33Z |
+| [CVE-2024-40676](https://www.cve.org/CVERecord?id=CVE-2024-40676) | [Aakashmom/accounts_CVE-2024-40676-](https://github.com/Aakashmom/accounts_CVE-2024-40676-) | no description | 2024-10-17T11:40:21Z |
+| [CVE-2024-40675](https://www.cve.org/CVERecord?id=CVE-2024-40675) | [Aakashmom/intent_CVE-2024-40675](https://github.com/Aakashmom/intent_CVE-2024-40675) | no description | 2024-10-17T11:46:29Z |
+| [CVE-2024-40673](https://www.cve.org/CVERecord?id=CVE-2024-40673) | [Aakashmom/G3_libcore_native_CVE-2024-40673](https://github.com/Aakashmom/G3_libcore_native_CVE-2024-40673) | no description | 2024-10-17T12:26:24Z |
+| [CVE-2024-40662](https://www.cve.org/CVERecord?id=CVE-2024-40662) | [Aakashmom/net_G2.5_CVE-2024-40662](https://github.com/Aakashmom/net_G2.5_CVE-2024-40662) | no description | 2024-10-17T12:39:21Z |
 | [CVE-2024-40658](https://www.cve.org/CVERecord?id=CVE-2024-40658) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-40658) | no description | 2024-07-23T05:04:03Z |
 | [CVE-2024-40617](https://www.cve.org/CVERecord?id=CVE-2024-40617) | [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617) | CVE-2024-40617 Exploit PoC | 2024-07-30T11:50:45Z |
 | [CVE-2024-40512](https://www.cve.org/CVERecord?id=CVE-2024-40512) | [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512) | OpenPetra v.2023.02 CVE-2024-40512 | 2024-07-13T22:06:16Z |
@@ -868,6 +877,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC) | This is a demo for CVE-2024-32002 POC | 2024-09-27T03:10:04Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Masamuneee/hook](https://github.com/Masamuneee/hook) | This is a demo for CVE-2024-32002 POC | 2024-09-27T03:09:18Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC) | Proof of Concept for CVE-2024-32002 | 2024-09-27T03:29:15Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002) | hihihihaa | 2024-10-08T10:57:17Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -2588,6 +2598,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [imbyter/imbyter-WinRAR_CVE-2023-38831](https://github.com/imbyter/imbyter-WinRAR_CVE-2023-38831) | WinRAR漏洞测试复现。详参：https://flowus.cn/share/a3b35db0-ab5e-4abc-b8d3-5ff284e82e7b | 2024-06-17T07:30:47Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC) | This is my malware | 2024-04-01T15:59:34Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [khanhtranngoccva/cve-2023-38831-poc](https://github.com/khanhtranngoccva/cve-2023-38831-poc) | no description | 2024-07-16T13:54:09Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MaorBuskila/Windows-X64-RAT](https://github.com/MaorBuskila/Windows-X64-RAT) | Remote Access Trojan (RAT) for Windows x64 using a combination of vulnerability CVE-2023-38831 (WinRAR &lt; 6.23 vulnerability) and Shellcode exploitation technique. | 2024-07-23T17:20:06Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -3621,6 +3632,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2023-20048](https://www.cve.org/CVERecord?id=CVE-2023-20048) | [0zer0d4y/FuegoTest](https://github.com/0zer0d4y/FuegoTest) | A CLI tool for detecting CVE-2023-20048 vulnerability in Cisco Firepower Management Center. | 2024-03-14T01:32:41Z |
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z |
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z |
+| [CVE-2023-1773](https://www.cve.org/CVERecord?id=CVE-2023-1773) | [CTF-Archives/xinhu-v2.3.2](https://github.com/CTF-Archives/xinhu-v2.3.2) | 信呼 v2.3.2 针对CVE-2023-1773的研究环境 | 2024-07-22T17:07:33Z |
 | [CVE-2023-1714](https://www.cve.org/CVERecord?id=CVE-2023-1714) | [ForceFledgling/CVE-2023-1714](https://github.com/ForceFledgling/CVE-2023-1714) | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | 2023-11-06T23:41:36Z |
 | [CVE-2023-1713](https://www.cve.org/CVERecord?id=CVE-2023-1713) | [ForceFledgling/CVE-2023-1713](https://github.com/ForceFledgling/CVE-2023-1713) | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | 2023-11-06T23:35:44Z |
 | [CVE-2023-1698](https://www.cve.org/CVERecord?id=CVE-2023-1698) | [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC) | Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution | 2023-09-10T01:29:48Z |
@@ -3654,6 +3666,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2023-0669](https://www.cve.org/CVERecord?id=CVE-2023-0669) | [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) | CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. | 2023-02-10T13:02:55Z |
 | [CVE-2023-0656](https://www.cve.org/CVERecord?id=CVE-2023-0656) | [BishopFox/CVE-2022-22274_CVE-2023-0656](https://github.com/BishopFox/CVE-2022-22274_CVE-2023-0656) | no description | 2024-01-12T20:03:51Z |
 | [CVE-2023-0630](https://www.cve.org/CVERecord?id=CVE-2023-0630) | [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) | CVE-2023-0630 - Slimstat Analytics &lt; 4.9.3.3 - Subscriber+ SQL Injection | 2023-06-09T12:02:55Z |
+| [CVE-2023-0400](https://www.cve.org/CVERecord?id=CVE-2023-0400) | [pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400) | trellix DLP Bypass | 2024-07-24T09:04:55Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386) | 非常简单的CVE-2023-0386&#x27;s exp and analysis.Use c and sh. | 2023-06-28T07:49:52Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) | CVE-2023-0386在ubuntu22.04上的提权 | 2023-05-05T03:02:13Z |
 | [CVE-2023-0386](https://www.cve.org/CVERecord?id=CVE-2023-0386) | [puckiestyle/CVE-2023-0386](https://github.com/puckiestyle/CVE-2023-0386) | no description | 2023-12-23T11:01:55Z |
@@ -4252,6 +4265,7 @@ Last generated: 2024-11-14 02:15:29.783221
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013) | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | 2022-11-18T17:53:46Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits) | Exploit CVE-2021-41773 and CVE-2021-42013 | 2023-08-02T09:50:10Z |
+| [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [K3ysTr0K3R/CVE-2021-42013-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT) | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution | 2023-08-25T19:51:01Z |
 | [CVE-2021-41946](https://www.cve.org/CVERecord?id=CVE-2021-41946) | [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946) | no description | 2022-05-17T15:23:12Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [K3ysTr0K3R/CVE-2021-4191-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT) | A PoC exploit for CVE-2021-4191 - GitLab User Enumeration. | 2023-07-22T21:06:51Z |
