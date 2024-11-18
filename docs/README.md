@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-17 02:25:14.145890
+Last generated: 2024-11-18 02:23:55.831238
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264) | File Read Proof of Concept for CVE-2024-9264 | 2024-10-20T01:13:37Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264) | Exploit for Grafana arbitrary file-read (CVE-2024-9264) | 2024-10-19T13:50:52Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264) | no description | 2024-10-21T10:25:27Z |
+| [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit) | Grafana RCE exploit (CVE-2024-9264) | 2024-10-21T03:36:05Z |
 | [CVE-2024-9234](https://www.cve.org/CVERecord?id=CVE-2024-9234) | [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234) | GutenKit &lt;= 2.1.0 - Unauthenticated Arbitrary File Upload | 2024-10-17T18:48:12Z |
 | [CVE-2024-9224](https://www.cve.org/CVERecord?id=CVE-2024-9224) | [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224) | Hello World &lt;= 2.1.1 - Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T09:17:20Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
@@ -258,6 +259,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-48652](https://www.cve.org/CVERecord?id=CVE-2024-48652) | [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652) | Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field | 2024-10-19T10:06:58Z |
 | [CVE-2024-48644](https://www.cve.org/CVERecord?id=CVE-2024-48644) | [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644) | Reolink Duo 2 WiFi v1.0.280 - Account Enumeration Vulnerability | 2024-10-17T23:27:04Z |
+| [CVE-2024-48605](https://www.cve.org/CVERecord?id=CVE-2024-48605) | [surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack) | Helakuru Version 1.1 DLL Hijack - CVE-2024-48605 | 2024-09-25T18:23:06Z |
 | [CVE-2024-48415](https://www.cve.org/CVERecord?id=CVE-2024-48415) | [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415) | no description | 2024-10-19T06:58:56Z |
 | [CVE-2024-47854](https://www.cve.org/CVERecord?id=CVE-2024-47854) | [MarioTesoro/CVE-2024-47854](https://github.com/MarioTesoro/CVE-2024-47854) | Proof of concept of multiple Reflected Cross-Site Scripting (XSS) vulnerabilities discovered in Veritas Data Insight before 7.1. | 2024-10-19T13:38:23Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
@@ -499,6 +501,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040) | CVE-2024-4040 PoC | 2024-07-05T05:46:56Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [geniuszlyy/GenCrushSSTIExploit](https://github.com/geniuszlyy/GenCrushSSTIExploit) | is a PoC for CVE-2024-4040 tool for exploiting the SSTI vulnerability in CrushFTP | 2024-09-30T16:18:07Z |
 | [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [safeer-accuknox/CrushFTP-cve-2024-4040-poc](https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc) | no description | 2024-09-18T04:45:54Z |
+| [CVE-2024-4040](https://www.cve.org/CVERecord?id=CVE-2024-4040) | [rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040) | no description | 2024-10-23T06:29:19Z |
 | [CVE-2024-40348](https://www.cve.org/CVERecord?id=CVE-2024-40348) | [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348) | POC for CVE-2024-40348. Will attempt to read /etc/passwd from target | 2024-07-21T00:54:55Z |
 | [CVE-2024-40348](https://www.cve.org/CVERecord?id=CVE-2024-40348) | [codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC) | Mass Exploit &lt; [CVE-2024-40348 - Bazarr] - Arbitrary File Read | 2024-07-24T16:13:24Z |
 | [CVE-2024-40324](https://www.cve.org/CVERecord?id=CVE-2024-40324) | [aleksey-vi/CVE-2024-40324](https://github.com/aleksey-vi/CVE-2024-40324) | no description | 2024-07-25T13:48:22Z |
@@ -897,6 +900,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Masamuneee/hook](https://github.com/Masamuneee/hook) | This is a demo for CVE-2024-32002 POC | 2024-09-27T03:09:18Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC) | Proof of Concept for CVE-2024-32002 | 2024-09-27T03:29:15Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002) | hihihihaa | 2024-10-08T10:57:17Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002) | no description | 2024-10-22T12:44:44Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -1769,6 +1773,8 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Trackflaw/CVE-2024-1071-Docker](https://github.com/Trackflaw/CVE-2024-1071-Docker) | CVE-2024-1071 with Docker | 2024-03-04T18:29:17Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [fa-rrel/CVE-2024-1071-SQL-Injection](https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection) | Proof of concept : CVE-2024-1071: WordPress Vulnerability Exploited | 2024-08-30T04:23:04Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071) | no description | 2024-09-15T11:28:47Z |
+| [CVE-2024-10355](https://www.cve.org/CVERecord?id=CVE-2024-10355) | [K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355) | no description | 2024-10-23T08:59:51Z |
+| [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
 | [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z |
@@ -1846,6 +1852,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028) | Python Code for Exploit Automation CVE-2023-7028 | 2024-01-26T06:29:34Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [yoryio/CVE-2023-7028](https://github.com/yoryio/CVE-2023-7028) | Exploit for CVE-2023-7028 - GitLab CE/EE | 2024-01-18T05:17:00Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [olebris/Exploit_CVE_2023_7028-](https://github.com/olebris/Exploit_CVE_2023_7028-) | Exploit_CVE_2023_7028 | 2024-06-28T09:54:59Z |
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [soltanali0/CVE-2023-7028](https://github.com/soltanali0/CVE-2023-7028) | Implementation and exploitation of CVE-2023-7028 account takeover vulnerability related to GO-TO CVE weekly articles of the 11th week. | 2024-07-25T11:39:01Z |
 | [CVE-2023-7016](https://www.cve.org/CVERecord?id=CVE-2023-7016) | [ewilded/CVE-2023-7016-POC](https://github.com/ewilded/CVE-2023-7016-POC) | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | 2024-02-27T14:48:19Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985) | 10Web AI Assistant – AI content writing assistant &lt;= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | 2024-01-29T16:51:53Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [X1r0z/Dubbo-RCE](https://github.com/X1r0z/Dubbo-RCE) | PoC of Apache Dubbo CVE-2023-23638 | 2023-03-22T11:23:44Z |
@@ -3531,6 +3538,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515) | NSE script for checking the presence of CVE-2023-22515 | 2024-04-26T17:57:33Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515) | NSE script to check if app is vulnerable to cve-2023-22515 | 2024-06-08T20:04:44Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [s1d6point7bugcrowd/CVE-2023-22515-check](https://github.com/s1d6point7bugcrowd/CVE-2023-22515-check) | This script will inform the user if the Confluence instance is vulnerable, but it will not proceed with the exploitation steps. | 2024-06-05T19:56:16Z |
+| [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Onedy1703/CVE-2023-22515](https://github.com/Onedy1703/CVE-2023-22515) | CVE 2023-22515 | 2024-07-21T17:19:36Z |
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z |
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z |
 | [CVE-2023-22074](https://www.cve.org/CVERecord?id=CVE-2023-22074) | [emad-almousa/CVE-2023-22074](https://github.com/emad-almousa/CVE-2023-22074) | CVE-2023-22074 | 2023-10-25T15:26:17Z |
@@ -4606,6 +4614,7 @@ Last generated: 2024-11-17 02:25:14.145890
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [henry861010/Network_Security_NYCU](https://github.com/henry861010/Network_Security_NYCU) | CVE-2021-21300 | 2023-05-04T07:46:35Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [edsonjt81/CVE-2021-1675](https://github.com/edsonjt81/CVE-2021-1675) | no description | 2021-07-05T12:10:43Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675) | no description | 2022-10-25T06:47:20Z |
+| [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [peckre/PNCVE-Win10-20H2-Exploit](https://github.com/peckre/PNCVE-Win10-20H2-Exploit) | A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675 | 2024-01-17T20:22:29Z |
 | [CVE-2021-1366](https://www.cve.org/CVERecord?id=CVE-2021-1366) | [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366) | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | 2023-09-08T09:20:20Z |
 | [CVE-2021-0586](https://www.cve.org/CVERecord?id=CVE-2021-0586) | [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586) | no description | 2022-04-25T07:58:29Z |
 | [CVE-2021-0399](https://www.cve.org/CVERecord?id=CVE-2021-0399) | [nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-](https://github.com/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-) | no description | 2023-03-15T07:52:05Z |
