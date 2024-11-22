@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-21 02:20:52.429333
+Last generated: 2024-11-22 02:21:51.456227
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9821](https://www.cve.org/CVERecord?id=CVE-2024-9821) | [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821) | Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass | 2024-10-11T15:35:39Z |
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-10-18T14:30:42Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
@@ -66,6 +67,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-7593](https://www.cve.org/CVERecord?id=CVE-2024-7593) | [skyrowalker/CVE-2024-7593](https://github.com/skyrowalker/CVE-2024-7593) | no description | 2024-10-12T02:17:14Z |
 | [CVE-2024-7514](https://www.cve.org/CVERecord?id=CVE-2024-7514) | [RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514) | WordPress Comments Import &amp; Export &lt;= 2.3.7 - Authenticated (Author+) Arbitrary File Read via Directory Traversal | 2024-10-11T10:43:22Z |
 | [CVE-2024-7479](https://www.cve.org/CVERecord?id=CVE-2024-7479) | [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) | TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006. | 2024-09-29T10:58:15Z |
+| [CVE-2024-7456](https://www.cve.org/CVERecord?id=CVE-2024-7456) | [77Philly/CVE-2024-7456scripts](https://github.com/77Philly/CVE-2024-7456scripts) | no description | 2024-11-02T02:42:27Z |
 | [CVE-2024-7339](https://www.cve.org/CVERecord?id=CVE-2024-7339) | [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339) | An Vulnerability detection and Exploitation tool for  CVE-2024-7339 | 2024-08-05T16:26:18Z |
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
@@ -93,6 +95,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-6536](https://www.cve.org/CVERecord?id=CVE-2024-6536) | [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536) | no description | 2024-07-31T14:31:56Z |
 | [CVE-2024-6529](https://www.cve.org/CVERecord?id=CVE-2024-6529) | [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529) | no description | 2024-08-02T20:02:39Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
+| [CVE-2024-6473](https://www.cve.org/CVERecord?id=CVE-2024-6473) | [12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC) | Proof of concept (exploit) for CVE-2024-6473 | 2024-11-02T05:37:30Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc) | no description | 2024-07-01T12:48:36Z |
@@ -218,8 +221,11 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
 | [CVE-2024-51435](https://www.cve.org/CVERecord?id=CVE-2024-51435) | [bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435) | bloodbank POCs | 2024-10-25T23:28:09Z |
 | [CVE-2024-51430](https://www.cve.org/CVERecord?id=CVE-2024-51430) | [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430) | The Online Diagnostic Lab Management System has a security problem called Cross-Site Scripting (XSS) in the Borrower section. | 2024-10-29T19:32:05Z |
+| [CVE-2024-51378](https://www.cve.org/CVERecord?id=CVE-2024-51378) | [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378) | Exploit for CyberPanel Pre-Auth RCE via Command Injection | 2024-10-29T23:34:27Z |
+| [CVE-2024-51358](https://www.cve.org/CVERecord?id=CVE-2024-51358) | [Kov404/CVE-2024-51358](https://github.com/Kov404/CVE-2024-51358) | no description | 2024-11-02T14:55:00Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
@@ -270,12 +276,14 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-48392](https://www.cve.org/CVERecord?id=CVE-2024-48392) | [Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC) | no description | 2024-10-25T09:00:11Z |
 | [CVE-2024-48360](https://www.cve.org/CVERecord?id=CVE-2024-48360) | [OpenXP-Research/CVE-2024-48360](https://github.com/OpenXP-Research/CVE-2024-48360) | CVE-2024-48360 Poc | 2024-10-30T14:55:07Z |
 | [CVE-2024-48359](https://www.cve.org/CVERecord?id=CVE-2024-48359) | [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359) | CVE-2024-48359 PoC | 2024-10-30T14:52:04Z |
+| [CVE-2024-48217](https://www.cve.org/CVERecord?id=CVE-2024-48217) | [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217) | CVE-2024-48217 Sismart Vulnerability | 2024-11-01T04:44:17Z |
 | [CVE-2024-47854](https://www.cve.org/CVERecord?id=CVE-2024-47854) | [MarioTesoro/CVE-2024-47854](https://github.com/MarioTesoro/CVE-2024-47854) | Proof of concept of multiple Reflected Cross-Site Scripting (XSS) vulnerabilities discovered in Veritas Data Insight before 7.1. | 2024-10-19T13:38:23Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [groshi/CVE-2024-47575-POC](https://github.com/groshi/CVE-2024-47575-POC) | CVE-2024-47575: Critical Remote Code Execution (RCE) Vulnerability in VMware Horizon | 2024-10-28T17:32:53Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575) | no description | 2024-10-25T14:49:32Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [hazesecurity/CVE-2024-47575](https://github.com/hazesecurity/CVE-2024-47575) | no description | 2024-10-28T12:16:23Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575) | no description | 2024-10-25T15:18:53Z |
+| [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575) | no description | 2024-11-01T13:52:07Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176) | CUPS Browsd Check_CVE-2024-47176 | 2024-09-27T18:23:16Z |
@@ -367,6 +375,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519) | no description | 2024-09-28T08:29:06Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) | Zimbra - Remote Command Execution (CVE-2024-45519) | 2024-10-05T00:15:18Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
+| [CVE-2024-45492](https://www.cve.org/CVERecord?id=CVE-2024-45492) | [nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492) | no description | 2024-11-01T10:27:39Z |
 | [CVE-2024-45436](https://www.cve.org/CVERecord?id=CVE-2024-45436) | [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436) | CVE-2024-45436 | 2024-10-21T05:44:49Z |
 | [CVE-2024-45410](https://www.cve.org/CVERecord?id=CVE-2024-45410) | [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc) | A proof of concept of traefik CVE to understand the impact | 2024-09-26T09:58:27Z |
 | [CVE-2024-45409](https://www.cve.org/CVERecord?id=CVE-2024-45409) | [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409) | Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409) exploit | 2024-10-07T09:24:46Z |
@@ -691,6 +700,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-35333](https://www.cve.org/CVERecord?id=CVE-2024-35333) | [momo1239/CVE-2024-35333](https://github.com/momo1239/CVE-2024-35333) | no description | 2024-05-14T13:02:36Z |
 | [CVE-2024-35315](https://www.cve.org/CVERecord?id=CVE-2024-35315) | [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC) | Mitel Collab Local Privilege Escalation CVE-2024-35315 PoC | 2024-06-03T14:29:35Z |
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF) | Cobalt Strike 的 CVE-2024-35250 的 BOF。(请给我加个星，谢谢。) | 2024-10-15T07:23:47Z |
+| [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF) | Cobalt Strike 的 CVE-2024-35250 的 BOF。(请给我加个星，谢谢。) | 2024-10-25T10:06:09Z |
 | [CVE-2024-35242](https://www.cve.org/CVERecord?id=CVE-2024-35242) | [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242) | A test repository for the vulnerability CVE-2024-35242&#x27;s PoC | 2024-07-15T15:01:31Z |
 | [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205) | [cyb3r-w0lf/Dirty_Stream-Android-POC](https://github.com/cyb3r-w0lf/Dirty_Stream-Android-POC) | Dirty Stream exploit for MI-File Explorer V1-210567 version. CVE-2024-35205 | 2024-06-17T08:10:47Z |
 | [CVE-2024-35133](https://www.cve.org/CVERecord?id=CVE-2024-35133) | [Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133](https://github.com/Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133) | Security Bulletin for CVE-2024-35133 - With PoC | 2024-10-18T09:49:27Z |
@@ -1572,6 +1582,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [HazeLook/CVE-2024-23113](https://github.com/HazeLook/CVE-2024-23113) | no description | 2024-10-16T18:48:58Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [groshi/CVE-2024-23113-Private-POC](https://github.com/groshi/CVE-2024-23113-Private-POC) | CVE-2024-23113-Private-POC | 2024-10-25T11:41:32Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [p33d/CVE-2024-23113](https://github.com/p33d/CVE-2024-23113) | no description | 2024-10-21T10:27:52Z |
+| [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113) | no description | 2024-10-31T07:44:06Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-23002](https://www.cve.org/CVERecord?id=CVE-2024-23002) | [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002) | this is test POC for git_rce | 2024-07-07T12:55:29Z |
@@ -1803,6 +1814,9 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Trackflaw/CVE-2024-1071-Docker](https://github.com/Trackflaw/CVE-2024-1071-Docker) | CVE-2024-1071 with Docker | 2024-03-04T18:29:17Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [fa-rrel/CVE-2024-1071-SQL-Injection](https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection) | Proof of concept : CVE-2024-1071: WordPress Vulnerability Exploited | 2024-08-30T04:23:04Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071) | no description | 2024-09-15T11:28:47Z |
+| [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script) | wp/ultimate-member  -  SQL Injection Vulnerability Exploit Script. | 2024-11-01T14:57:34Z |
+| [CVE-2024-10654](https://www.cve.org/CVERecord?id=CVE-2024-10654) | [c0nyy/IoT_vuln](https://github.com/c0nyy/IoT_vuln) | POC CVE-2024-10654 | 2024-10-31T03:48:22Z |
+| [CVE-2024-10605](https://www.cve.org/CVERecord?id=CVE-2024-10605) | [bevennyamande/CVE-2024-10605](https://github.com/bevennyamande/CVE-2024-10605) | no description | 2024-10-30T22:56:24Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
 | [CVE-2024-10410](https://www.cve.org/CVERecord?id=CVE-2024-10410) | [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410) | no description | 2024-10-25T14:15:56Z |
@@ -3986,6 +4000,7 @@ Last generated: 2024-11-21 02:20:52.429333
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [ToxicEnvelope/FOLLINA-CVE-2022-30190](https://github.com/ToxicEnvelope/FOLLINA-CVE-2022-30190) | Implementation of FOLLINA-CVE-2022-30190 | 2023-03-14T07:00:47Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [DerZiad/CVE-2022-30190](https://github.com/DerZiad/CVE-2022-30190) | no description | 2022-06-04T19:48:37Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [Jump-Wang-111/AmzWord](https://github.com/Jump-Wang-111/AmzWord) | An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography. | 2023-11-28T03:47:32Z |
+| [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [AbdulRKB/Follina](https://github.com/AbdulRKB/Follina) | Remote Access Shell for Windows (based on cve-2022-30190) | 2022-06-04T14:18:38Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [fortra/CVE-2022-30136](https://github.com/fortra/CVE-2022-30136) | Windows Network File System Remote exploit for CVE-2022-30136 | 2023-03-15T10:59:08Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136) | Windows Network File System Remote exploit (DoS) PoC | 2023-06-23T17:13:22Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2) | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | 2023-06-23T00:16:52Z |
