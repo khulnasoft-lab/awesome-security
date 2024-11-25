@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-24 02:27:03.516045
+Last generated: 2024-11-25 02:23:38.298991
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264) | no description | 2024-10-21T10:25:27Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit) | Grafana RCE exploit (CVE-2024-9264) | 2024-10-21T03:36:05Z |
 | [CVE-2024-9234](https://www.cve.org/CVERecord?id=CVE-2024-9234) | [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234) | GutenKit &lt;= 2.1.0 - Unauthenticated Arbitrary File Upload | 2024-10-17T18:48:12Z |
+| [CVE-2024-9234](https://www.cve.org/CVERecord?id=CVE-2024-9234) | [CallMeBatosay/CVE-2024-9234](https://github.com/CallMeBatosay/CVE-2024-9234) | no description | 2024-11-07T04:56:44Z |
 | [CVE-2024-9224](https://www.cve.org/CVERecord?id=CVE-2024-9224) | [RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224) | Hello World &lt;= 2.1.1 - Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T09:17:20Z |
 | [CVE-2024-9166](https://www.cve.org/CVERecord?id=CVE-2024-9166) | [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166) | A vulnerability scanner that searches for the CVE-2024-9166 vulnerability on websites, more info about this vulnerability here: https://www.tenable.com/cve/CVE-2024-9166 | 2024-09-26T23:21:06Z |
 | [CVE-2024-9162](https://www.cve.org/CVERecord?id=CVE-2024-9162) | [d0n601/CVE-2024-9162](https://github.com/d0n601/CVE-2024-9162) | All-in-One WP Migration and Backup &lt;= 7.86 - Authenticated (Administrator+) Arbitrary PHP Code Injection | 2024-09-29T19:34:59Z |
@@ -61,6 +62,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928) | CVE-2024-7928 FastAdmin &lt; V1.3.4.20220530 exploit | 2024-08-22T14:39:13Z |
 | [CVE-2024-7856](https://www.cve.org/CVERecord?id=CVE-2024-7856) | [l8BL/CVE-2024-7856](https://github.com/l8BL/CVE-2024-7856) | Proof-of-Concept for CVE-2024-7856 | 2024-09-09T08:34:09Z |
 | [CVE-2024-7854](https://www.cve.org/CVERecord?id=CVE-2024-7854) | [RandomRobbieBF/CVE-2024-7854](https://github.com/RandomRobbieBF/CVE-2024-7854) | Woo Inquiry &lt;= 0.1 - Unauthenticated SQL Injection | 2024-10-04T14:59:36Z |
+| [CVE-2024-7808](https://www.cve.org/CVERecord?id=CVE-2024-7808) | [TheUnknownSoul/CVE-2024-7808](https://github.com/TheUnknownSoul/CVE-2024-7808) | RCE  exploit for low privileged user via CSRF in open-webui | 2024-11-07T15:42:53Z |
 | [CVE-2024-7703](https://www.cve.org/CVERecord?id=CVE-2024-7703) | [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703) | This repository contains an exploit for CVE-2024-7703 in the ARMember WordPress plugin. It allows attackers with Subscriber-level access or higher to upload SVG files with malicious JavaScript, leading to Stored XSS attacks. This can result in executing scripts when the file is accessed, potentially compromising user sessions or data. | 2024-08-17T14:44:08Z |
 | [CVE-2024-7646](https://www.cve.org/CVERecord?id=CVE-2024-7646) | [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646) | PoC CVE-2024-7646 | 2024-08-29T19:10:08Z |
 | [CVE-2024-7646](https://www.cve.org/CVERecord?id=CVE-2024-7646) | [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646) | PoC CVE-2024-7646 | 2024-09-25T11:13:07Z |
@@ -225,6 +227,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
+| [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [thehash007/CVE-2024-51567-RCE-EXPLOIT](https://github.com/thehash007/CVE-2024-51567-RCE-EXPLOIT) | cbyerpanel rce exploit | 2024-11-07T13:52:37Z |
 | [CVE-2024-51435](https://www.cve.org/CVERecord?id=CVE-2024-51435) | [bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435) | bloodbank POCs | 2024-10-25T23:28:09Z |
 | [CVE-2024-51430](https://www.cve.org/CVERecord?id=CVE-2024-51430) | [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430) | The Online Diagnostic Lab Management System has a security problem called Cross-Site Scripting (XSS) in the Borrower section. | 2024-10-29T19:32:05Z |
 | [CVE-2024-51378](https://www.cve.org/CVERecord?id=CVE-2024-51378) | [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378) | Exploit for CyberPanel Pre-Auth RCE via Command Injection | 2024-10-29T23:34:27Z |
@@ -246,6 +249,9 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-504781](https://www.cve.org/CVERecord?id=CVE-2024-504781) | [RandomRobbieBF/CVE-2024-50478](https://github.com/RandomRobbieBF/CVE-2024-50478) | 1-Click Login: Passwordless Authentication 1.4.5 - Authentication Bypass via Account Takeover | 2024-11-05T22:04:55Z |
 | [CVE-2024-50476](https://www.cve.org/CVERecord?id=CVE-2024-50476) | [RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476) | GRÜN spendino Spendenformular &lt;= 1.0.1 - Unauthenticated Arbitrary Options Update | 2024-11-04T09:30:36Z |
 | [CVE-2024-50475](https://www.cve.org/CVERecord?id=CVE-2024-50475) | [RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475) | Signup Page &lt;= 1.0 - Unauthenticated Arbitrary Options Update | 2024-11-04T10:46:46Z |
+| [CVE-2024-50450](https://www.cve.org/CVERecord?id=CVE-2024-50450) | [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450) | WordPress Meta Data and Taxonomies Filter (MDTF) &lt;= 1.3.3.4 - Unauthenticated Arbitrary Shortcode Execution | 2024-11-08T11:24:16Z |
+| [CVE-2024-50427](https://www.cve.org/CVERecord?id=CVE-2024-50427) | [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427) | SurveyJS: Drag &amp; Drop WordPress Form Builder &lt;= 1.9.136 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-11-08T12:24:06Z |
+| [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009) | Exploit for CVE-2024-5009 | 2024-07-08T12:15:29Z |
 | [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [th3gokul/CVE-2024-5009](https://github.com/th3gokul/CVE-2024-5009) | CVE-2024-5009 : WhatsUp Gold SetAdminPassword Privilege Escalation | 2024-07-09T16:56:49Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
@@ -457,6 +463,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [snyk-labs/pdfjs-vuln-demo](https://github.com/snyk-labs/pdfjs-vuln-demo) | This project is intended to serve as a proof of concept to demonstrate exploiting the vulnerability in the PDF.js (pdfjs-dist) library reported in CVE-2024-4367 | 2024-06-17T11:39:41Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo) | PoC - Prueba de Concepto de CVE-2024-4367 en conjunto al CVE-2023-38831 en un solo Script | 2024-06-19T23:23:07Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis) | no description | 2024-09-04T14:43:33Z |
+| [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample) | no description | 2024-11-06T19:15:38Z |
 | [CVE-2024-43582](https://www.cve.org/CVERecord?id=CVE-2024-43582) | [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE) | Metasploit Module for CVE-2024-43582 RPC Remote  Desktop Service crititcal RCE | 2024-10-09T12:50:24Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
@@ -622,6 +629,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [BBD-YZZ/fyne-gui](https://github.com/BBD-YZZ/fyne-gui) | CVE-2024-38077,仅支持扫描测试~ | 2024-08-15T07:14:00Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Destiny0991/check_38077](https://github.com/Destiny0991/check_38077) | Windows远程桌面授权服务CVE-2024-38077检测工具 | 2024-08-23T08:32:40Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [mrmtwoj/CVE-2024-38077](https://github.com/mrmtwoj/CVE-2024-38077) | CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service | 2024-10-09T06:39:21Z |
+| [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [amfg145/CVE-2024-38077](https://github.com/amfg145/CVE-2024-38077) | CVE-2024-38077 private for 10 hands | 2024-11-07T14:31:42Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063) | mitigation script by disabling ipv6 of all interfaces | 2024-08-15T12:41:01Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [noradlb1/CVE-2024-38063-VB](https://github.com/noradlb1/CVE-2024-38063-VB) | CVE-2024-38063 VB | 2024-08-17T01:11:12Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix) | A PowerShell script to temporarily mitigate the CVE-2024-38063 vulnerability by disabling IPv6 on Windows systems. This workaround modifies the registry to reduce the risk of exploitation without needing the immediate installation of the official Microsoft KB update. Intended as a temporary fix | 2024-08-20T08:48:08Z |
@@ -647,6 +655,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [becrevex/CVE-2024-38063](https://github.com/becrevex/CVE-2024-38063) | no description | 2024-10-08T06:24:54Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [idkwastaken/CVE-2024-38063](https://github.com/idkwastaken/CVE-2024-38063) | no description | 2024-10-14T17:46:58Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [thanawee321/CVE-2024-38063](https://github.com/thanawee321/CVE-2024-38063) | Vulnerability CVE-2024-38063 | 2024-10-15T03:18:51Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [AliHj98/cve-2024-38063-Anonyvader](https://github.com/AliHj98/cve-2024-38063-Anonyvader) | no description | 2024-11-07T09:36:32Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -741,6 +750,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-34741](https://www.cve.org/CVERecord?id=CVE-2024-34741) | [uthrasri/CVE-2024-34741](https://github.com/uthrasri/CVE-2024-34741) | no description | 2024-10-04T13:41:09Z |
 | [CVE-2024-34739](https://www.cve.org/CVERecord?id=CVE-2024-34739) | [uthrasri/CVE-2024-34739](https://github.com/uthrasri/CVE-2024-34739) | no description | 2024-10-04T09:40:59Z |
 | [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC) | no description | 2024-05-14T18:48:41Z |
+| [CVE-2024-34716](https://www.cve.org/CVERecord?id=CVE-2024-34716) | [0xDTC/Prestashop-CVE-2024-34716](https://github.com/0xDTC/Prestashop-CVE-2024-34716) | no description | 2024-10-28T18:03:30Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693) | CVE-2024-34693: Server Arbitrary File Read in Apache Superset | 2024-07-27T21:28:11Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693) | no description | 2024-07-29T04:30:23Z |
 | [CVE-2024-34693](https://www.cve.org/CVERecord?id=CVE-2024-34693) | [Mr-r00t11/CVE-2024-34693](https://github.com/Mr-r00t11/CVE-2024-34693) | no description | 2024-07-30T18:02:25Z |
@@ -1188,6 +1198,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z |
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296) | CVE-2024-29296 - User enumeration on Portainer CE - 2.19.4 | 2024-04-09T20:36:03Z |
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [Lavender-exe/CVE-2024-29296-PoC](https://github.com/Lavender-exe/CVE-2024-29296-PoC) | User Enumeration through response time difference | 2024-04-29T19:09:41Z |
+| [CVE-2024-2928](https://www.cve.org/CVERecord?id=CVE-2024-2928) | [nuridincersaygili/CVE-2024-2928](https://github.com/nuridincersaygili/CVE-2024-2928) | Arbitrary file read exploit for CVE-2024-2928 in mlflow | 2024-11-08T03:55:08Z |
 | [CVE-2024-29275](https://www.cve.org/CVERecord?id=CVE-2024-29275) | [Cyphercoda/nuclei_template](https://github.com/Cyphercoda/nuclei_template) | CVE-2024-29275.yaml | 2024-06-20T16:19:30Z |
 | [CVE-2024-29272](https://www.cve.org/CVERecord?id=CVE-2024-29272) | [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272) | no description | 2024-03-25T22:43:42Z |
 | [CVE-2024-29269](https://www.cve.org/CVERecord?id=CVE-2024-29269) | [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269) | CVE-2024-29269 | 2024-04-03T02:02:27Z |
@@ -3241,6 +3252,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253) | Reverse Shell POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253), PHP Code Injection | 2024-05-27T15:10:12Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253) | In Dolibarr 17.0.0 with the CMS Website plugin (core) enabled, an authenticated attacker can obtain remote command execution via php code injection bypassing the application restrictions. | 2024-06-24T16:22:31Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [andria-dev/DolibabyPhp](https://github.com/andria-dev/DolibabyPhp) | An authenticated RCE exploit for Dolibarr ERP/CRM CVE-2023-30253. | 2024-07-10T05:39:01Z |
+| [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [g4nkd/CVE-2023-30253-PoC](https://github.com/g4nkd/CVE-2023-30253-PoC) | CVE-2023-30253 PoC | 2024-06-21T01:41:34Z |
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z |
@@ -5167,6 +5179,7 @@ Last generated: 2024-11-24 02:27:03.516045
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [tucommenceapousser/CVE-2019-19492](https://github.com/tucommenceapousser/CVE-2019-19492) | no description | 2023-05-23T20:14:33Z |
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [AppyAppy/super-octo-carnival](https://github.com/AppyAppy/super-octo-carnival) | CVE 2019-9053 Python 3 Update | 2023-05-23T18:44:08Z |
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [hadrian3689/nagiosxi_5.6.6](https://github.com/hadrian3689/nagiosxi_5.6.6) | CVE-2019–15949 for Nagiosxi  &lt; 5.6.6 | 2023-01-02T22:41:12Z |
+| [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [Chocapikk/CVE-2019-19492](https://github.com/Chocapikk/CVE-2019-19492) | FreeSWITCH Exploit (CVE-2019-19492) | 2023-05-23T19:53:54Z |
 | [CVE-2019-19194](https://www.cve.org/CVERecord?id=CVE-2019-19194) | [louisabricot/writeup-cve-2019-19194](https://github.com/louisabricot/writeup-cve-2019-19194) | A writeup and theoretical Proof-of-Concept for CVE-2019-19194 | 2023-05-09T13:12:44Z |
 | [CVE-2019-18935](https://www.cve.org/CVERecord?id=CVE-2019-18935) | [ThanHuuTuan/Telerik_CVE-2019-18935](https://github.com/ThanHuuTuan/Telerik_CVE-2019-18935) | TelerikUI Vulnerability Scanner (CVE-2019-18935) | 2020-05-25T08:37:51Z |
 | [CVE-2019-18935](https://www.cve.org/CVERecord?id=CVE-2019-18935) | [noperator/CVE-2019-18935](https://github.com/noperator/CVE-2019-18935) | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | 2019-12-12T07:58:11Z |
