@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-27 02:24:30.955614
+Last generated: 2024-11-28 02:24:04.332841
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -49,6 +49,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-8349](https://www.cve.org/CVERecord?id=CVE-2024-8349) | [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350) | Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash. | 2024-09-17T13:44:04Z |
 | [CVE-2024-8277](https://www.cve.org/CVERecord?id=CVE-2024-8277) | [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277) | CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin | 2024-09-12T14:40:59Z |
 | [CVE-2024-8275](https://www.cve.org/CVERecord?id=CVE-2024-8275) | [p33d/CVE-2024-8275](https://github.com/p33d/CVE-2024-8275) | no description | 2024-09-26T07:16:21Z |
+| [CVE-2024-8275](https://www.cve.org/CVERecord?id=CVE-2024-8275) | [whiterose7777/CVE-2024-8275](https://github.com/whiterose7777/CVE-2024-8275) | no description | 2024-11-11T08:53:27Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [tequilasunsh1ne/ivanti_CVE_2024_8190](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_8190) | no description | 2024-10-08T09:35:01Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
@@ -229,6 +230,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-51665](https://www.cve.org/CVERecord?id=CVE-2024-51665) | [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665) | Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery | 2024-11-10T12:01:52Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [thehash007/CVE-2024-51567-RCE-EXPLOIT](https://github.com/thehash007/CVE-2024-51567-RCE-EXPLOIT) | cbyerpanel rce exploit | 2024-11-07T13:52:37Z |
 | [CVE-2024-51435](https://www.cve.org/CVERecord?id=CVE-2024-51435) | [bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435) | bloodbank POCs | 2024-10-25T23:28:09Z |
@@ -417,6 +419,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC) | CVE-2024-45519 unauthenticated OS commoand Injection in Zimbra prior to 8.8.15***. | 2024-09-26T01:13:19Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519) | no description | 2024-09-28T08:29:06Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) | Zimbra - Remote Command Execution (CVE-2024-45519) | 2024-10-05T00:15:18Z |
+| [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519) | no description | 2024-11-11T08:57:44Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45492](https://www.cve.org/CVERecord?id=CVE-2024-45492) | [nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492) | no description | 2024-11-01T10:27:39Z |
 | [CVE-2024-45436](https://www.cve.org/CVERecord?id=CVE-2024-45436) | [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436) | CVE-2024-45436 | 2024-10-21T05:44:49Z |
@@ -552,6 +555,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-40498](https://www.cve.org/CVERecord?id=CVE-2024-40498) | [Dirac231/CVE-2024-40498](https://github.com/Dirac231/CVE-2024-40498) | no description | 2024-07-29T10:13:15Z |
 | [CVE-2024-40492](https://www.cve.org/CVERecord?id=CVE-2024-40492) | [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492) | no description | 2024-07-13T04:57:48Z |
 | [CVE-2024-40457](https://www.cve.org/CVERecord?id=CVE-2024-40457) | [jeppojeps/CVE-2024-40457-PoC](https://github.com/jeppojeps/CVE-2024-40457-PoC) | CVE PoC 2024-40457 | 2024-10-30T16:51:31Z |
+| [CVE-2024-40443](https://www.cve.org/CVERecord?id=CVE-2024-40443) | [Yuma-Tsushima07/CVE-2024-40443](https://github.com/Yuma-Tsushima07/CVE-2024-40443) | CVE-2024-40443 - A SQL Injection vulnerability in Computer Laboratory Management System v1.0 allows attackers to execute arbitrary SQL commands | 2024-11-10T17:35:14Z |
 | [CVE-2024-40431](https://www.cve.org/CVERecord?id=CVE-2024-40431) | [SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN) | CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) | 2024-09-17T06:28:17Z |
 | [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422) | no description | 2024-07-03T21:43:15Z |
 | [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | [codeb0ss/CVE-2024-40422-PoC](https://github.com/codeb0ss/CVE-2024-40422-PoC) | Mass Exploit &lt; [CVE-2024-40422 - Devika v1] - Path Traversal | 2024-08-05T22:21:06Z |
@@ -1857,6 +1861,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
+| [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
@@ -1874,6 +1879,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script) | wp/ultimate-member  -  SQL Injection Vulnerability Exploit Script. | 2024-11-01T14:57:34Z |
 | [CVE-2024-10654](https://www.cve.org/CVERecord?id=CVE-2024-10654) | [c0nyy/IoT_vuln](https://github.com/c0nyy/IoT_vuln) | POC CVE-2024-10654 | 2024-10-31T03:48:22Z |
 | [CVE-2024-10605](https://www.cve.org/CVERecord?id=CVE-2024-10605) | [bevennyamande/CVE-2024-10605](https://github.com/bevennyamande/CVE-2024-10605) | no description | 2024-10-30T22:56:24Z |
+| [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470) | WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion | 2024-11-08T19:47:34Z |
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
@@ -4607,6 +4613,7 @@ Last generated: 2024-11-27 02:24:30.955614
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [asepsaepdin/CVE-2021-3156](https://github.com/asepsaepdin/CVE-2021-3156) | no description | 2023-09-05T14:06:26Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156) | no description | 2023-12-27T03:52:17Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [DASICS-ICT/DASICS-CVE-2021-3156](https://github.com/DASICS-ICT/DASICS-CVE-2021-3156) | no description | 2023-12-30T13:22:34Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [wurwur/CVE-2021-3156](https://github.com/wurwur/CVE-2021-3156) | Different files for computer security coursework | 2024-01-22T04:42:34Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
