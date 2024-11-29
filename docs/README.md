@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-28 02:24:04.332841
+Last generated: 2024-11-29 02:23:51.027722
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -249,6 +249,7 @@ Last generated: 2024-11-28 02:24:04.332841
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
+| [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498) | WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution | 2024-11-04T22:13:45Z |
 | [CVE-2024-50493](https://www.cve.org/CVERecord?id=CVE-2024-50493) | [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) | Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload | 2024-11-10T08:17:41Z |
 | [CVE-2024-50490](https://www.cve.org/CVERecord?id=CVE-2024-50490) | [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490) | PegaPoll &lt;= 1.0.2 - Unauthenticated Arbitrary Options Update | 2024-11-05T12:27:41Z |
@@ -535,6 +536,7 @@ Last generated: 2024-11-28 02:24:04.332841
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
 | [CVE-2024-40892](https://www.cve.org/CVERecord?id=CVE-2024-40892) | [xen0bit/fwbt](https://github.com/xen0bit/fwbt) | Proof of Concept code for interaction with Firewalla via Bluetooth Low-Energy and exploitation of CVE-2024-40892 / CVE-2024-40893 | 2024-08-21T17:27:21Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
+| [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898) | no description | 2024-11-11T09:00:22Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711) | Pre-Auth Exploit for CVE-2024-40711 | 2024-09-15T17:25:32Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp) | CVE-2024-40711-exp | 2024-10-16T05:02:27Z |
 | [CVE-2024-40676](https://www.cve.org/CVERecord?id=CVE-2024-40676) | [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676) | no description | 2024-10-17T11:29:33Z |
@@ -2748,6 +2750,7 @@ Last generated: 2024-11-28 02:24:04.332841
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC) | This is my malware | 2024-04-01T15:59:34Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [khanhtranngoccva/cve-2023-38831-poc](https://github.com/khanhtranngoccva/cve-2023-38831-poc) | no description | 2024-07-16T13:54:09Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MaorBuskila/Windows-X64-RAT](https://github.com/MaorBuskila/Windows-X64-RAT) | Remote Access Trojan (RAT) for Windows x64 using a combination of vulnerability CVE-2023-38831 (WinRAR &lt; 6.23 vulnerability) and Shellcode exploitation technique. | 2024-07-23T17:20:06Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [yezzfusl/cve_2023_38831_scanner](https://github.com/yezzfusl/cve_2023_38831_scanner) | This Python application scans for the CVE-2023-38831 vulnerability in WinRAR. | 2024-08-06T13:21:27Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -3889,6 +3892,7 @@ Last generated: 2024-11-28 02:24:04.332841
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [fgsoftware1/CVE-2022-4611](https://github.com/fgsoftware1/CVE-2022-4611) | no description | 2023-07-06T21:28:29Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [Phamchie/CVE-2022-4611](https://github.com/Phamchie/CVE-2022-4611) | no description | 2023-07-06T16:40:08Z |
+| [CVE-2022-46088](https://www.cve.org/CVERecord?id=CVE-2022-46088) | [ASR511-OO7/CVE-2022-46088](https://github.com/ASR511-OO7/CVE-2022-46088) | no description | 2024-02-25T09:24:51Z |
 | [CVE-2022-46087](https://www.cve.org/CVERecord?id=CVE-2022-46087) | [G37SYS73M/CVE-2022-46087](https://github.com/G37SYS73M/CVE-2022-46087) | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | 2023-03-21T08:02:48Z |
 | [CVE-2022-46080](https://www.cve.org/CVERecord?id=CVE-2022-46080) | [yerodin/CVE-2022-46080](https://github.com/yerodin/CVE-2022-46080) | Nexxt Router 15.03.06.60 Authentication Bypass and Remote Command Execution | 2023-07-04T08:31:04Z |
 | [CVE-2022-45934](https://www.cve.org/CVERecord?id=CVE-2022-45934) | [Satheesh575555/linux-4.1.15_CVE-2022-45934](https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934) | no description | 2023-03-24T08:16:44Z |
