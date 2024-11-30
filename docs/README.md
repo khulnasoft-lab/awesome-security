@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-11-29 02:23:51.027722
+Last generated: 2024-11-30 02:19:57.709927
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -245,6 +245,8 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2024-51032](https://www.cve.org/CVERecord?id=CVE-2024-51032) | [Shree-Chandragiri/CVE-2024-51032](https://github.com/Shree-Chandragiri/CVE-2024-51032) | A Cross-site Scripting (XSS) vulnerability in manage_recipient.php of Sourcecodester Toll Tax Management System 1.0 allows remote authenticated users to inject arbitrary web scripts via the &quot;owner&quot; input field. | 2024-11-05T20:41:15Z |
 | [CVE-2024-51031](https://www.cve.org/CVERecord?id=CVE-2024-51031) | [vighneshnair7/CVE-2024-51031](https://github.com/vighneshnair7/CVE-2024-51031) | no description | 2024-11-05T20:59:14Z |
 | [CVE-2024-51030](https://www.cve.org/CVERecord?id=CVE-2024-51030) | [vighneshnair7/CVE-2024-51030](https://github.com/vighneshnair7/CVE-2024-51030) | no description | 2024-11-05T20:33:56Z |
+| [CVE-2024-51026](https://www.cve.org/CVERecord?id=CVE-2024-51026) | [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview) | Sistema NetAdmin IAM 4 é vulnerável a Cross Site Scripting (XSS), no endpoint /BalloonSave.ashx | 2024-11-11T14:49:47Z |
+| [CVE-2024-50968](https://www.cve.org/CVERecord?id=CVE-2024-50968) | [Akhlak2511/CVE-2024-50968](https://github.com/Akhlak2511/CVE-2024-50968) | no description | 2024-11-12T12:48:17Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
@@ -266,6 +268,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2024-50427](https://www.cve.org/CVERecord?id=CVE-2024-50427) | [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427) | SurveyJS: Drag &amp; Drop WordPress Form Builder &lt;= 1.9.136 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-11-08T12:24:06Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
+| [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
 | [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [sinsinology/CVE-2024-5009](https://github.com/sinsinology/CVE-2024-5009) | Exploit for CVE-2024-5009 | 2024-07-08T12:15:29Z |
 | [CVE-2024-5009](https://www.cve.org/CVERecord?id=CVE-2024-5009) | [th3gokul/CVE-2024-5009](https://github.com/th3gokul/CVE-2024-5009) | CVE-2024-5009 : WhatsUp Gold SetAdminPassword Privilege Escalation | 2024-07-09T16:56:49Z |
 | [CVE-2024-49681](https://www.cve.org/CVERecord?id=CVE-2024-49681) | [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681) | WP Sessions Time Monitoring Full Automatic &lt;= 1.0.9 - Unauthenticated SQL Injection | 2024-11-09T15:24:16Z |
@@ -286,6 +289,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956) | no description | 2024-08-14T16:41:01Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956) | no description | 2024-09-26T15:05:41Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack) | Simple hash cracker for Apache Shiro hashes written in Golang. Useful for exploiting CVE-2024-4956. | 2024-10-04T19:54:05Z |
+| [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
@@ -860,6 +864,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [andrelia-hacks/CVE-2024-3400](https://github.com/andrelia-hacks/CVE-2024-3400) | no description | 2024-05-12T19:48:20Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder) | Find rows contain specific IP addresses in large files and then, extract them. This tool make for investigating logs for cve-2024-3400 | 2024-05-15T15:50:32Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33896](https://www.cve.org/CVERecord?id=CVE-2024-33896) | [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC) | Proof of concept CVE-2024-33896 | 2024-08-20T13:49:15Z |
 | [CVE-2024-33883](https://www.cve.org/CVERecord?id=CVE-2024-33883) | [Grantzile/PoC-CVE-2024-33883](https://github.com/Grantzile/PoC-CVE-2024-33883) | PoC of CVE-2024-33883, RCE vulnerability of ejs. | 2024-06-25T18:40:31Z |
@@ -1863,6 +1868,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
+| [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
@@ -4469,6 +4475,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [mightysai1997/CVE-2021-41773S](https://github.com/mightysai1997/CVE-2021-41773S) | no description | 2022-09-15T14:17:45Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773) | MASS CVE-2021-41773 | 2021-10-07T15:13:18Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [Iris288/CVE-2021-41773](https://github.com/Iris288/CVE-2021-41773) | no description | 2023-11-20T09:57:07Z |
+| [CVE-2021-41703](https://www.cve.org/CVERecord?id=CVE-2021-41703) | [Yanoro/CVE-2021-41703](https://github.com/Yanoro/CVE-2021-41703) | no description | 2024-01-15T19:43:48Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
 | [CVE-2021-41349](https://www.cve.org/CVERecord?id=CVE-2021-41349) | [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349) | Microsoft Exchange Server Spoofing Vulnerability Exploit! | 2022-07-30T10:51:55Z |
@@ -4510,6 +4517,7 @@ Last generated: 2024-11-29 02:23:51.027722
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [tuntin9x/CheckHKRCE](https://github.com/tuntin9x/CheckHKRCE) | CVE-2021-36260 | 2021-12-13T09:23:36Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [JohnGilbert57/CVE-2021-4034-Capture-the-flag](https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag) | no description | 2023-07-28T17:12:18Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch) | touch 生成文件 | 2024-01-04T07:43:02Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034) | PoC de Polkit | 2024-01-17T22:55:46Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
