@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-01 02:45:32.871337
+Last generated: 2024-12-02 02:27:33.518390
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -36,6 +36,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9061](https://www.cve.org/CVERecord?id=CVE-2024-9061) | [RandomRobbieBF/CVE-2024-9061](https://github.com/RandomRobbieBF/CVE-2024-9061) | WP Popup Builder – Popup Forms and Marketing Lead Generation &lt;= 1.3.5 - Unauthenticated Arbitrary Shortcode Execution via wp_ajax_nopriv_shortcode_Api_Add | 2024-10-16T07:57:48Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
+| [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8698](https://www.cve.org/CVERecord?id=CVE-2024-8698) | [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC) | i&#x27;m noob with saml and keycloak . J4f | 2024-10-10T11:50:07Z |
@@ -81,6 +82,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
 | [CVE-2024-7135](https://www.cve.org/CVERecord?id=CVE-2024-7135) | [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135) | Tainacan &lt;= 0.21.7 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T10:56:59Z |
+| [CVE-2024-7124](https://www.cve.org/CVERecord?id=CVE-2024-7124) | [kac89/CVE-2024-7124](https://github.com/kac89/CVE-2024-7124) | Improper Neutralization of Input During Web Page Generation vulnerability in DInGO dLibra software in the parameter &#x27;filter&#x27; in the endpoint &#x27;indexsearch&#x27; allows a Reflected Cross-Site Scripting (XSS). | 2024-11-14T16:05:44Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC) | Mass Exploit &lt; [CVE-2024-7120 - Raisecom] - Command Injection | 2024-08-01T17:39:45Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [fa-rrel/CVE-2024-7120](https://github.com/fa-rrel/CVE-2024-7120) | ⚠️⚠️ CVE-2024-7120 Command Injection Vulnerability in RAISECOM Gateway Devices | 2024-08-30T15:50:50Z |
 | [CVE-2024-7094](https://www.cve.org/CVERecord?id=CVE-2024-7094) | [nastar-id/CVE-2024-7094](https://github.com/nastar-id/CVE-2024-7094) | CVE-2024-7094 Vulnerability checker | 2024-08-18T09:27:54Z |
@@ -339,6 +341,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [hazesecurity/CVE-2024-47575](https://github.com/hazesecurity/CVE-2024-47575) | no description | 2024-10-28T12:16:23Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575) | no description | 2024-10-25T15:18:53Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575) | no description | 2024-11-01T13:52:07Z |
+| [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575) | Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575 | 2024-11-07T21:03:30Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176) | CUPS Browsd Check_CVE-2024-47176 | 2024-09-27T18:23:16Z |
@@ -366,6 +369,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-46532](https://www.cve.org/CVERecord?id=CVE-2024-46532) | [KamenRiderDarker/CVE-2024-46532](https://github.com/KamenRiderDarker/CVE-2024-46532) | Reproduction of SQL Injection Vulnerabilities in OpenHIS | 2024-09-27T14:39:54Z |
 | [CVE-2024-46483](https://www.cve.org/CVERecord?id=CVE-2024-46483) | [kn32/cve-2024-46483](https://github.com/kn32/cve-2024-46483) | Pre-Authentication Heap Overflow in Xlight SFTP server &lt;= 3.9.4.2 | 2024-10-18T11:46:14Z |
 | [CVE-2024-46451](https://www.cve.org/CVERecord?id=CVE-2024-46451) | [vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451) | no description | 2024-09-22T14:47:57Z |
+| [CVE-2024-46383](https://www.cve.org/CVERecord?id=CVE-2024-46383) | [nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383](https://github.com/nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383) | CVE-2024-46383 | 2024-09-27T04:19:42Z |
 | [CVE-2024-46377](https://www.cve.org/CVERecord?id=CVE-2024-46377) | [vidura2/CVE-2024-46377](https://github.com/vidura2/CVE-2024-46377) | no description | 2024-09-23T03:47:36Z |
 | [CVE-2024-46310](https://www.cve.org/CVERecord?id=CVE-2024-46310) | [UwUtisum/CVE-2024-46310](https://github.com/UwUtisum/CVE-2024-46310) | POC for CVE-2024-46310 For FXServer version&#x27;s v9601 and prior,  Incorrect Access Control in FXServer version&#x27;s v9601 and prior, for CFX.re FiveM, allows unauthenticated users to modify and read userdata via exposed api endpoint | 2024-08-28T19:36:52Z |
 | [CVE-2024-46278](https://www.cve.org/CVERecord?id=CVE-2024-46278) | [ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover](https://github.com/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover) | 【Teedy 1.11】Account Takeover via XSS | 2024-08-28T03:17:37Z |
@@ -456,6 +460,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-4484](https://www.cve.org/CVERecord?id=CVE-2024-4484) | [Abo5/CVE-2024-4484](https://github.com/Abo5/CVE-2024-4484) | This script uses HTTParty to detect stored cross-site scripting (XSS) vulnerabilities in WordPress sites using the xai_username parameter. It sends a payload to the specified URL and checks if the payload is reflected in the response, indicating a vulnerability. | 2024-06-12T23:09:39Z |
 | [CVE-2024-44815](https://www.cve.org/CVERecord?id=CVE-2024-44815) | [nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-) | CVE-2024-44815 | 2024-08-31T10:17:11Z |
 | [CVE-2024-44812](https://www.cve.org/CVERecord?id=CVE-2024-44812) | [b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC) | Proof of Concept Exploit for CVE-2024-44812 - SQL Injection Authentication Bypass vulnerability in Online Complaint Site v1.0 | 2024-08-31T15:20:27Z |
+| [CVE-2024-44625](https://www.cve.org/CVERecord?id=CVE-2024-44625) | [Fysac/CVE-2024-44625](https://github.com/Fysac/CVE-2024-44625) | Symbolic link path traversal vulnerability in Gogs | 2024-11-13T16:16:31Z |
 | [CVE-2024-44623](https://www.cve.org/CVERecord?id=CVE-2024-44623) | [merbinr/CVE-2024-44623](https://github.com/merbinr/CVE-2024-44623) | Details about the Blind RCE issue(SPX-GC) in SPX-GC | 2024-09-13T17:11:16Z |
 | [CVE-2024-44610](https://www.cve.org/CVERecord?id=CVE-2024-44610) | [BertoldVdb/PcanExploit](https://github.com/BertoldVdb/PcanExploit) | CVE-2024-44610: Authenticated remote root exploit in Peak PCAN-Ethernet CAN-(FD) gateways | 2024-07-23T10:34:19Z |
 | [CVE-2024-44542](https://www.cve.org/CVERecord?id=CVE-2024-44542) | [alphandbelt/CVE-2024-44542](https://github.com/alphandbelt/CVE-2024-44542) | no description | 2024-09-13T15:05:17Z |
@@ -1879,6 +1884,7 @@ Last generated: 2024-12-01 02:45:32.871337
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass | 2024-11-14T16:59:52Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
