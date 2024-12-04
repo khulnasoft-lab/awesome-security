@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-03 02:26:14.670129
+Last generated: 2024-12-04 02:26:03.462500
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -234,6 +234,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
+| [CVE-2024-51747](https://www.cve.org/CVERecord?id=CVE-2024-51747) | [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) | no description | 2024-11-15T03:40:49Z |
 | [CVE-2024-51665](https://www.cve.org/CVERecord?id=CVE-2024-51665) | [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665) | Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery | 2024-11-10T12:01:52Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [thehash007/CVE-2024-51567-RCE-EXPLOIT](https://github.com/thehash007/CVE-2024-51567-RCE-EXPLOIT) | cbyerpanel rce exploit | 2024-11-07T13:52:37Z |
@@ -510,6 +511,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358) | Authentication Bypass Vulnerability — CVE-2024–4358 — Telerik Report Server 2024 | 2024-06-09T06:30:06Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358) | Telerik Report Server deserialization and authentication bypass exploit chain for CVE-2024-4358/CVE-2024-1800 | 2024-08-24T10:09:09Z |
 | [CVE-2024-43532](https://www.cve.org/CVERecord?id=CVE-2024-43532) | [HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532) | no description | 2024-10-25T15:25:57Z |
+| [CVE-2024-43532](https://www.cve.org/CVERecord?id=CVE-2024-43532) | [expl0itsecurity/CVE-2024-43532](https://github.com/expl0itsecurity/CVE-2024-43532) | no description | 2024-11-15T13:15:39Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
 | [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
@@ -921,6 +923,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) | CVE-2024-32640 - Automated SQLi Exploitation PoC | 2024-05-16T01:02:32Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS) | no description | 2024-05-17T13:43:59Z |
 | [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) | sql延时注入poc | 2024-06-06T08:56:34Z |
+| [CVE-2024-32640](https://www.cve.org/CVERecord?id=CVE-2024-32640) | [pizza-power/CVE-2024-32640](https://github.com/pizza-power/CVE-2024-32640) | Python POC for CVE-2024-32640 Mura CMS SQLi | 2024-11-12T20:50:11Z |
 | [CVE-2024-32523](https://www.cve.org/CVERecord?id=CVE-2024-32523) | [truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc) | CVE-2024-32523 Mailster &lt;= 4.0.6 - Unauthenticated Local File Inclusion | 2024-05-11T18:16:31Z |
 | [CVE-2024-32459](https://www.cve.org/CVERecord?id=CVE-2024-32459) | [absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-](https://github.com/absholi7ly/FreeRDP-Out-of-Bounds-Read-CVE-2024-32459-) | The FreeRDP - Out-of-Bounds Read (CVE-2024-32459) vulnerability concerns FreeRDP, a free implementation of Remote Desktop Protocol. FreeRDP-based clients and servers using a version of FreeRDP prior to version 3.5.0 or 2.11.6 are vulnerable to out-of-bounds reading12. Versions 3.5.0 and 2.11.6 correct the problem | 2024-05-22T04:19:27Z |
 | [CVE-2024-32399](https://www.cve.org/CVERecord?id=CVE-2024-32399) | [NN0b0dy/CVE-2024-32399](https://github.com/NN0b0dy/CVE-2024-32399) | no description | 2024-04-22T15:15:37Z |
@@ -1267,6 +1270,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987) | Proof of Concept Exploit for CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability | 2024-09-24T18:12:38Z |
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987) | CVE-2024-28987 Scanner &amp; Exploiter - SolarWinds Web Help Desk | 2024-09-30T16:12:14Z |
 | [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [HazeLook/CVE-2024-28987](https://github.com/HazeLook/CVE-2024-28987) | no description | 2024-10-17T19:01:08Z |
+| [CVE-2024-28987](https://www.cve.org/CVERecord?id=CVE-2024-28987) | [expl0itsecurity/CVE-2024-28987](https://github.com/expl0itsecurity/CVE-2024-28987) | no description | 2024-11-15T13:27:46Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-POC) | Chrome(CVE-2024-2887)RCE-POC | 2024-08-25T07:30:25Z |
 | [CVE-2024-2887](https://www.cve.org/CVERecord?id=CVE-2024-2887) | [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887) | For V8CTF M123 | 2024-08-25T12:13:07Z |
 | [CVE-2024-2879](https://www.cve.org/CVERecord?id=CVE-2024-2879) | [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879) | CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection | 2024-04-08T18:50:02Z |
@@ -1656,6 +1660,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [s4botai/CVE-2024-23334-PoC](https://github.com/s4botai/CVE-2024-23334-PoC) | A proof of concept of the LFI vulnerability on aiohttp 3.9.1 | 2024-09-08T10:37:29Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [wizarddos/CVE-2024-23334](https://github.com/wizarddos/CVE-2024-23334) | Proof-of-Concept for LFI/Path Traversal vulnerability in Aiohttp =&lt; 3.9.1 | 2024-10-20T15:28:58Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [Arc4he/CVE-2024-23334-PoC](https://github.com/Arc4he/CVE-2024-23334-PoC) | Proof of concept of the parh traversal in python AioHTTP library =&lt; 3.9.1 | 2024-11-09T13:59:28Z |
+| [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC](https://github.com/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC) | Bash script to automate Local File Inclusion (LFI) attacks on aiohttp server version 3.9.1. | 2024-11-14T21:43:29Z |
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z |
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
@@ -1666,6 +1671,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [groshi/CVE-2024-23113-Private-POC](https://github.com/groshi/CVE-2024-23113-Private-POC) | CVE-2024-23113-Private-POC | 2024-10-25T11:41:32Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [p33d/CVE-2024-23113](https://github.com/p33d/CVE-2024-23113) | no description | 2024-10-21T10:27:52Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113) | no description | 2024-10-31T07:44:06Z |
+| [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113) | no description | 2024-11-15T13:23:19Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-23002](https://www.cve.org/CVERecord?id=CVE-2024-23002) | [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002) | this is test POC for git_rce | 2024-07-07T12:55:29Z |
@@ -1694,6 +1700,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-22526](https://www.cve.org/CVERecord?id=CVE-2024-22526) | [200101WhoAmI/CVE-2024-22526](https://github.com/200101WhoAmI/CVE-2024-22526) | bandi view | 2024-08-21T05:11:26Z |
 | [CVE-2024-22515](https://www.cve.org/CVERecord?id=CVE-2024-22515) | [Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability) | no description | 2024-01-27T18:51:26Z |
 | [CVE-2024-22514](https://www.cve.org/CVERecord?id=CVE-2024-22514) | [Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution) | no description | 2024-01-27T19:04:56Z |
+| [CVE-2024-2242](https://www.cve.org/CVERecord?id=CVE-2024-2242) | [RandomRobbieBF/CVE-2024-2242](https://github.com/RandomRobbieBF/CVE-2024-2242) | Contact Form 7 &lt;= 5.9 - Reflected Cross-Site Scripting | 2024-11-15T07:32:31Z |
 | [CVE-2024-22416](https://www.cve.org/CVERecord?id=CVE-2024-22416) | [mindstorm38/ensimag-secu3a-cve-2024-22416](https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416) | CVE-2024-22416 exploit experiments | 2024-01-18T08:49:07Z |
 | [CVE-2024-22411](https://www.cve.org/CVERecord?id=CVE-2024-22411) | [tamaloa/avo-CVE-2024-22411](https://github.com/tamaloa/avo-CVE-2024-22411) | no description | 2024-01-19T09:19:52Z |
 | [CVE-2024-22393](https://www.cve.org/CVERecord?id=CVE-2024-22393) | [omranisecurity/CVE-2024-22393](https://github.com/omranisecurity/CVE-2024-22393) | Exploit for CVE-2024-22393 Unrestricted Upload of File with Dangerous Type vulnerability in Apache Answer. | 2024-03-08T08:45:12Z |
@@ -1890,6 +1897,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass | 2024-11-14T16:59:52Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
+| [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
@@ -4426,6 +4434,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | 2021-12-24T13:18:49Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [scabench/l4j-tp1](https://github.com/scabench/l4j-tp1) | jee web project with log4shell (CVE-2021-44228) vulnerability | 2023-12-18T05:07:59Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [scabench/l4j-fp1](https://github.com/scabench/l4j-fp1) | jee web project with sanitised log4shell (CVE-2021-44228) vulnerability | 2023-12-27T08:49:38Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation) | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | 2022-09-08T00:22:57Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
@@ -4543,6 +4552,7 @@ Last generated: 2024-12-03 02:26:14.670129
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [JohnGilbert57/CVE-2021-4034-Capture-the-flag](https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag) | no description | 2023-07-28T17:12:18Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch) | touch 生成文件 | 2024-01-04T07:43:02Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034) | PoC de Polkit | 2024-01-17T22:55:46Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Pol-Ruiz/CVE-2021-4034](https://github.com/Pol-Ruiz/CVE-2021-4034) | no description | 2024-01-16T10:18:38Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
