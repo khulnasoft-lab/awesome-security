@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-04 02:26:03.462500
+Last generated: 2024-12-05 02:26:33.780708
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -61,6 +61,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE) | Unauthenticated Remote Code Execution in SPIP versions up to and including 4.2.12 | 2024-09-01T10:59:45Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [TheCyberguy-17/RCE_CVE-2024-7954](https://github.com/TheCyberguy-17/RCE_CVE-2024-7954) | no description | 2024-09-23T16:11:20Z |
 | [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954) | no description | 2024-10-05T07:24:57Z |
+| [CVE-2024-7954](https://www.cve.org/CVERecord?id=CVE-2024-7954) | [issamjr/CVE-2024-7954](https://github.com/issamjr/CVE-2024-7954) | The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request. | 2024-11-15T21:08:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928) | Will attempt to retrieve DB details for FastAdmin instances | 2024-08-20T03:09:47Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928) | CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning | 2024-08-20T12:15:48Z |
 | [CVE-2024-7928](https://www.cve.org/CVERecord?id=CVE-2024-7928) | [th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928) | CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability | 2024-08-23T15:50:30Z |
@@ -234,6 +235,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
+| [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research) | A bit of research around CVE-2024-52301 | 2024-11-15T19:11:35Z |
 | [CVE-2024-51747](https://www.cve.org/CVERecord?id=CVE-2024-51747) | [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) | no description | 2024-11-15T03:40:49Z |
 | [CVE-2024-51665](https://www.cve.org/CVERecord?id=CVE-2024-51665) | [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665) | Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery | 2024-11-10T12:01:52Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
@@ -259,6 +261,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-50964](https://www.cve.org/CVERecord?id=CVE-2024-50964) | [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) | MX Server misconfiguration | 2024-11-13T07:49:09Z |
 | [CVE-2024-50962](https://www.cve.org/CVERecord?id=CVE-2024-50962) | [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) | A Cross-Site Scripting (XSS) vulnerability | 2024-11-13T07:47:38Z |
 | [CVE-2024-50961](https://www.cve.org/CVERecord?id=CVE-2024-50961) | [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) | Remote attacker can access sensitive data exposed on the URL | 2024-11-13T07:43:06Z |
+| [CVE-2024-50848](https://www.cve.org/CVERecord?id=CVE-2024-50848) | [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848) | no description | 2024-11-15T18:57:25Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
@@ -346,6 +349,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575) | no description | 2024-11-01T13:52:07Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575) | Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575 | 2024-11-07T21:03:30Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575) | FortiManager Unauthenticated Remote Code Execution (CVE-2024-47575) | 2024-11-15T03:43:51Z |
+| [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575) | no description | 2024-11-15T13:19:33Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176) | CUPS Browsd Check_CVE-2024-47176 | 2024-09-27T18:23:16Z |
@@ -520,6 +524,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
 | [CVE-2024-4320](https://www.cve.org/CVERecord?id=CVE-2024-4320) | [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320) | no description | 2024-08-08T03:54:38Z |
 | [CVE-2024-43160](https://www.cve.org/CVERecord?id=CVE-2024-43160) | [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160) | The BerqWP – Automated All-In-One PageSpeed Optimization Plugin for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript plugin for WordPress is vulnerable to arbitrary file uploads | 2024-09-17T04:19:54Z |
+| [CVE-2024-43093](https://www.cve.org/CVERecord?id=CVE-2024-43093) | [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093) | CVE-2024-43093 | 2024-11-05T15:06:52Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430) | This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044 | 2024-08-08T11:55:32Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC) | CVE-2024-43044的利用方式 | 2024-08-13T07:32:35Z |
@@ -1279,6 +1284,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876) | no description | 2024-09-14T16:08:56Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876) | no description | 2024-09-17T05:54:18Z |
 | [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876) | no description | 2024-10-09T19:24:53Z |
+| [CVE-2024-2876](https://www.cve.org/CVERecord?id=CVE-2024-2876) | [issamjr/CVE-2024-2876](https://github.com/issamjr/CVE-2024-2876) | WP-SQL-Injection CVE-2024-2876 AND 2024-CVE-2024-3495 | 2024-11-15T22:39:48Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757) | no description | 2024-05-03T04:58:24Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757) | no description | 2024-05-03T10:11:38Z |
 | [CVE-2024-28757](https://www.cve.org/CVERecord?id=CVE-2024-28757) | [RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757) | no description | 2024-05-03T09:21:27Z |
@@ -2657,6 +2663,8 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2023-4145](https://www.cve.org/CVERecord?id=CVE-2023-4145) | [miguelc49/CVE-2023-4145-2](https://github.com/miguelc49/CVE-2023-4145-2) | no description | 2024-04-14T07:39:01Z |
 | [CVE-2023-41436](https://www.cve.org/CVERecord?id=CVE-2023-41436) | [sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content](https://github.com/sromanhu/CVE-2023-41436-CSZ-CMS-Stored-XSS---Pages-Content) | CSZ CMS 1.3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Additional Meta Tag parameter in the Pages Content Menu. | 2023-08-23T11:34:30Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425) | WonderCMS RCE CVE-2023-41425 | 2024-08-12T06:16:17Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [charlesgargasson/CVE-2023-41425](https://github.com/charlesgargasson/CVE-2023-41425) | Wonder CMS RCE (XSS) | 2024-08-11T16:43:56Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
 | [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z |
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z |
@@ -3616,6 +3624,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [JohnDoeAnonITA/CVE-2023-23752](https://github.com/JohnDoeAnonITA/CVE-2023-23752) | CVE-2023-23752 Data Extractor | 2024-03-12T10:59:10Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [mil4ne/CVE-2023-23752-Joomla-v4.2.8](https://github.com/mil4ne/CVE-2023-23752-Joomla-v4.2.8) | no description | 2024-05-05T16:16:03Z |
 | [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [N3rdyN3xus/CVE-2023-23752](https://github.com/N3rdyN3xus/CVE-2023-23752) | Joomla! v4.2.8 - Unauthenticated information disclosure | 2024-05-04T18:44:12Z |
+| [CVE-2023-23752](https://www.cve.org/CVERecord?id=CVE-2023-23752) | [Aureum01/CVE-2023-23752](https://github.com/Aureum01/CVE-2023-23752) | A bash automation that exploits the vulnerable endpoints for the Joomla! API 4.0 - 4.2.7 | 2024-08-11T14:55:50Z |
 | [CVE-2023-2375](https://www.cve.org/CVERecord?id=CVE-2023-2375) | [0x0jr/HTB-Devvortex-CVE-2023-2375-PoC](https://github.com/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC) | CVE-2023-23752 Unauthenticated Information Disclosure Showcase Using Devvortex From HTB. | 2024-07-02T23:50:31Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) | Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践 | 2023-05-11T07:37:52Z |
 | [CVE-2023-23638](https://www.cve.org/CVERecord?id=CVE-2023-23638) | [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools) | no description | 2023-06-08T05:14:01Z |
@@ -4278,6 +4287,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
 | [CVE-2022-21392](https://www.cve.org/CVERecord?id=CVE-2022-21392) | [mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392) | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager | 2023-12-08T20:13:23Z |
+| [CVE-2022-21350](https://www.cve.org/CVERecord?id=CVE-2022-21350) | [hktalent/CVE-2022-21350](https://github.com/hktalent/CVE-2022-21350) | no description | 2022-09-28T05:38:15Z |
 | [CVE-2022-21306](https://www.cve.org/CVERecord?id=CVE-2022-21306) | [hktalent/CVE-2022-21306](https://github.com/hktalent/CVE-2022-21306) | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | 2023-04-07T03:59:07Z |
 | [CVE-2022-20818](https://www.cve.org/CVERecord?id=CVE-2022-20818) | [mbadanoiu/CVE-2022-20818](https://github.com/mbadanoiu/CVE-2022-20818) | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | 2024-01-13T00:17:53Z |
 | [CVE-2022-2078](https://www.cve.org/CVERecord?id=CVE-2022-2078) | [delsploit/CVE-2022-2078](https://github.com/delsploit/CVE-2022-2078) | no description | 2023-03-06T12:49:29Z |
@@ -4681,6 +4691,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2021-3064](https://www.cve.org/CVERecord?id=CVE-2021-3064) | [0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064) | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | 2022-04-26T08:41:14Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632) | no description | 2023-03-21T07:53:43Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [yahoo/check-log4j](https://github.com/yahoo/check-log4j) | To determine if a host is vulnerable to log4j CVE‐2021‐44228 | 2021-12-15T18:47:39Z |
+| [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [paulsery/CVE-2021-30632](https://github.com/paulsery/CVE-2021-30632) | m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632 | 2024-01-31T03:28:58Z |
 | [CVE-2021-3060](https://www.cve.org/CVERecord?id=CVE-2021-3060) | [anmolksachan/CVE-2021-3060](https://github.com/anmolksachan/CVE-2021-3060) | CVE-2021-3060 | 2023-10-05T07:04:46Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551) | my exp for chrome V8 CVE-2021-30551 | 2021-08-22T14:15:23Z |
 | [CVE-2021-30551](https://www.cve.org/CVERecord?id=CVE-2021-30551) | [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation) | A vulnerable Spring Boot application that uses log4j and is vulnerable to CVE-2021-44228, CVE-2021-44832, CVE-2021-45046 and CVE-2021-45105 | 2023-04-02T23:03:28Z |
@@ -4717,6 +4728,7 @@ Last generated: 2024-12-04 02:26:03.462500
 | [CVE-2021-27850](https://www.cve.org/CVERecord?id=CVE-2021-27850) | [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC) | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | 2021-06-25T13:55:41Z |
 | [CVE-2021-27850](https://www.cve.org/CVERecord?id=CVE-2021-27850) | [winnpixie/log4noshell](https://github.com/winnpixie/log4noshell) | Java agent that disables Apache Log4J&#x27;s JNDI Lookup. Fixes CVE-2021-44228, aka &quot;Log4Shell.&quot; | 2021-12-10T21:59:31Z |
 | [CVE-2021-27198](https://www.cve.org/CVERecord?id=CVE-2021-27198) | [rwincey/CVE-2021-27198](https://github.com/rwincey/CVE-2021-27198) | no description | 2023-10-25T01:22:07Z |
+| [CVE-2021-27180](https://www.cve.org/CVERecord?id=CVE-2021-27180) | [chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories) | MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183 | 2021-04-09T16:34:28Z |
 | [CVE-2021-268855](https://www.cve.org/CVERecord?id=CVE-2021-268855) | [sikkertech/CVE-2021-268855](https://github.com/sikkertech/CVE-2021-268855) | Exploiting Microsoft CVE-2021-268855 in Exchange (Getting RCE) | 2022-12-01T20:30:56Z |
 | [CVE-2021-268855](https://www.cve.org/CVERecord?id=CVE-2021-268855) | [MeterianHQ/log4j-vuln-coverage-check](https://github.com/MeterianHQ/log4j-vuln-coverage-check) | A simple project to check coverage of Log4J vuln CVE-2021-44228 (and related) | 2021-12-15T14:44:14Z |
 | [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [iceberg-N/cve-2021-26855](https://github.com/iceberg-N/cve-2021-26855) | no description | 2023-04-25T04:29:35Z |
