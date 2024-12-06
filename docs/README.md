@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-05 02:26:33.780708
+Last generated: 2024-12-06 02:25:27.190850
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Last generated: 2024-12-05 02:26:33.780708
 | [CVE-2024-9890](https://www.cve.org/CVERecord?id=CVE-2024-9890) | [RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890) | User Toolkit &lt;= 1.2.3 - Authenticated (Subscriber+) Authentication Bypass | 2024-11-08T12:56:55Z |
 | [CVE-2024-9821](https://www.cve.org/CVERecord?id=CVE-2024-9821) | [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821) | Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass | 2024-10-11T15:35:39Z |
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-10-18T14:30:42Z |
+| [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [issamjr/CVE-2024-9796](https://github.com/issamjr/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-11-15T22:55:18Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593) | Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution | 2024-10-18T09:11:03Z |
@@ -215,6 +216,7 @@ Last generated: 2024-12-05 02:26:33.780708
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC) | Proof-of-Concept for CVE-2024-5932  GiveWP PHP Object Injection | 2024-08-21T09:51:21Z |
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [EQSTLab/CVE-2024-5932](https://github.com/EQSTLab/CVE-2024-5932) | Proof-of-Concept for CVE-2024-5932 | 2024-08-25T11:51:36Z |
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932) | no description | 2024-10-11T08:12:38Z |
+| [CVE-2024-5910](https://www.cve.org/CVERecord?id=CVE-2024-5910) | [p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464) | no description | 2024-11-15T23:46:01Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-5764](https://www.cve.org/CVERecord?id=CVE-2024-5764) | [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764) | CVE-2024-5764 exploitation script | 2024-11-14T20:08:45Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
@@ -266,6 +268,7 @@ Last generated: 2024-12-05 02:26:33.780708
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
+| [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498) | WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution | 2024-11-04T22:13:45Z |
 | [CVE-2024-50493](https://www.cve.org/CVERecord?id=CVE-2024-50493) | [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) | Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload | 2024-11-10T08:17:41Z |
@@ -3938,6 +3941,7 @@ Last generated: 2024-12-05 02:26:33.780708
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [fgsoftware1/CVE-2022-4611](https://github.com/fgsoftware1/CVE-2022-4611) | no description | 2023-07-06T21:28:29Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [Phamchie/CVE-2022-4611](https://github.com/Phamchie/CVE-2022-4611) | no description | 2023-07-06T16:40:08Z |
+| [CVE-2022-46089](https://www.cve.org/CVERecord?id=CVE-2022-46089) | [ASR511-OO7/CVE-2022-46089](https://github.com/ASR511-OO7/CVE-2022-46089) | no description | 2024-02-25T09:23:52Z |
 | [CVE-2022-46088](https://www.cve.org/CVERecord?id=CVE-2022-46088) | [ASR511-OO7/CVE-2022-46088](https://github.com/ASR511-OO7/CVE-2022-46088) | no description | 2024-02-25T09:24:51Z |
 | [CVE-2022-46087](https://www.cve.org/CVERecord?id=CVE-2022-46087) | [G37SYS73M/CVE-2022-46087](https://github.com/G37SYS73M/CVE-2022-46087) | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | 2023-03-21T08:02:48Z |
 | [CVE-2022-46080](https://www.cve.org/CVERecord?id=CVE-2022-46080) | [yerodin/CVE-2022-46080](https://github.com/yerodin/CVE-2022-46080) | Nexxt Router 15.03.06.60 Authentication Bypass and Remote Command Execution | 2023-07-04T08:31:04Z |
