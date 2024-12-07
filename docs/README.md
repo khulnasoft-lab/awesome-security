@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-06 02:25:27.190850
+Last generated: 2024-12-07 02:23:41.793133
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
+| [CVE-2024-8856](https://www.cve.org/CVERecord?id=CVE-2024-8856) | [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856) | WordPress WP Time Capsule Plugin Arbitrary File Upload Vulnerability | 2024-11-16T20:04:11Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8698](https://www.cve.org/CVERecord?id=CVE-2024-8698) | [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC) | i&#x27;m noob with saml and keycloak . J4f | 2024-10-10T11:50:07Z |
 | [CVE-2024-8529](https://www.cve.org/CVERecord?id=CVE-2024-8529) | [RandomRobbieBF/CVE-2024-8529](https://github.com/RandomRobbieBF/CVE-2024-8529) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_fields&#x27; | 2024-10-12T20:52:32Z |
@@ -255,6 +256,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-51031](https://www.cve.org/CVERecord?id=CVE-2024-51031) | [vighneshnair7/CVE-2024-51031](https://github.com/vighneshnair7/CVE-2024-51031) | no description | 2024-11-05T20:59:14Z |
 | [CVE-2024-51030](https://www.cve.org/CVERecord?id=CVE-2024-51030) | [vighneshnair7/CVE-2024-51030](https://github.com/vighneshnair7/CVE-2024-51030) | no description | 2024-11-05T20:33:56Z |
 | [CVE-2024-51026](https://www.cve.org/CVERecord?id=CVE-2024-51026) | [BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview) | Sistema NetAdmin IAM 4 é vulnerável a Cross Site Scripting (XSS), no endpoint /BalloonSave.ashx | 2024-11-11T14:49:47Z |
+| [CVE-2024-50986](https://www.cve.org/CVERecord?id=CVE-2024-50986) | [riftsandroses/CVE-2024-50986](https://github.com/riftsandroses/CVE-2024-50986) | An issue in Clementine v.1.3.1 allows a local attacker to execute arbitrary code via a crafted DLL file (DLL Hijacking) | 2024-11-13T03:49:07Z |
 | [CVE-2024-50972](https://www.cve.org/CVERecord?id=CVE-2024-50972) | [Akhlak2511/CVE-2024-50972](https://github.com/Akhlak2511/CVE-2024-50972) | no description | 2024-11-12T17:40:54Z |
 | [CVE-2024-50971](https://www.cve.org/CVERecord?id=CVE-2024-50971) | [Akhlak2511/CVE-2024-50971](https://github.com/Akhlak2511/CVE-2024-50971) | no description | 2024-11-12T17:36:02Z |
 | [CVE-2024-50970](https://www.cve.org/CVERecord?id=CVE-2024-50970) | [Akhlak2511/CVE-2024-50970](https://github.com/Akhlak2511/CVE-2024-50970) | no description | 2024-11-12T17:30:00Z |
@@ -268,6 +270,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
+| [CVE-2024-50804](https://www.cve.org/CVERecord?id=CVE-2024-50804) | [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804) | MSI Center Pro 2.1.37.0 - CVE-2024-50804 | 2024-11-04T15:38:19Z |
 | [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498) | WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution | 2024-11-04T22:13:45Z |
@@ -307,6 +310,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956) | no description | 2024-08-14T16:41:01Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956) | no description | 2024-09-26T15:05:41Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack) | Simple hash cracker for Apache Shiro hashes written in Golang. Useful for exploiting CVE-2024-4956. | 2024-10-04T19:54:05Z |
+| [CVE-2024-49379](https://www.cve.org/CVERecord?id=CVE-2024-49379) | [OHDUDEOKNICE/CVE-2024-49379](https://github.com/OHDUDEOKNICE/CVE-2024-49379) | CVE-2024-49379 PoC | 2024-11-16T19:05:28Z |
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
@@ -1900,6 +1904,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-1208](https://www.cve.org/CVERecord?id=CVE-2024-1208) | [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208) | LearnDash LMS &lt; 4.10.3 - Sensitive Information Exposure | 2024-05-30T17:55:45Z |
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
+| [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
@@ -1907,6 +1912,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
+| [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [ThemeHackers/CVE-2024-10914](https://github.com/ThemeHackers/CVE-2024-10914) | CVE-2024-10914 is a critical command injection vulnerability affecting several legacy D-Link Network Attached Storage (NAS) devices. | 2024-11-16T16:32:05Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
@@ -1914,6 +1920,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086) | no description | 2024-06-10T15:19:39Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) | no description | 2024-07-04T10:51:35Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64) | no description | 2024-10-21T10:45:49Z |
+| [CVE-2024-10728](https://www.cve.org/CVERecord?id=CVE-2024-10728) | [RandomRobbieBF/CVE-2024-10728](https://github.com/RandomRobbieBF/CVE-2024-10728) | PostX &lt;= 4.1.16 - Missing Authorization to Arbitrary Plugin Installation/Activation | 2024-11-16T10:51:56Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker) | no description | 2024-03-18T17:07:27Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071](https://github.com/Matrexdz/CVE-2024-1071) | CVE-2024-1071 | 2024-03-18T16:58:46Z |
@@ -3908,6 +3915,8 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2022-46689](https://www.cve.org/CVERecord?id=CVE-2022-46689) | [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. | 2022-12-26T06:56:35Z |
 | [CVE-2022-46638](https://www.cve.org/CVERecord?id=CVE-2022-46638) | [naonymous101/CVE-2022-46638](https://github.com/naonymous101/CVE-2022-46638) | Blog Pribadi | 2019-02-16T16:50:50Z |
 | [CVE-2022-46604](https://www.cve.org/CVERecord?id=CVE-2022-46604) | [galoget/ResponsiveFileManager-CVE-2022-46604](https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604) | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | 2023-02-03T08:56:16Z |
+| [CVE-2022-46498](https://www.cve.org/CVERecord?id=CVE-2022-46498) | [ASR511-OO7/CVE-2022-46498](https://github.com/ASR511-OO7/CVE-2022-46498) | no description | 2024-02-25T09:20:32Z |
+| [CVE-2022-46497](https://www.cve.org/CVERecord?id=CVE-2022-46497) | [ASR511-OO7/CVE-2022-46497](https://github.com/ASR511-OO7/CVE-2022-46497) | no description | 2024-02-25T09:21:29Z |
 | [CVE-2022-46463](https://www.cve.org/CVERecord?id=CVE-2022-46463) | [404tk/CVE-2022-46463](https://github.com/404tk/CVE-2022-46463) | harbor unauthorized detection | 2023-03-21T10:40:19Z |
 | [CVE-2022-46395](https://www.cve.org/CVERecord?id=CVE-2022-46395) | [Pro-me3us/CVE_2022_46395_Gazelle](https://github.com/Pro-me3us/CVE_2022_46395_Gazelle) | CVE-2022-46395 POC for FireTV 3rd gen Cube (gazelle) | 2023-06-29T18:54:27Z |
 | [CVE-2022-46196](https://www.cve.org/CVERecord?id=CVE-2022-46196) | [dpgg101/CVE-2022-46196](https://github.com/dpgg101/CVE-2022-46196) | no description | 2023-04-30T18:23:41Z |
@@ -3941,6 +3950,7 @@ Last generated: 2024-12-06 02:25:27.190850
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [fgsoftware1/CVE-2022-4611](https://github.com/fgsoftware1/CVE-2022-4611) | no description | 2023-07-06T21:28:29Z |
 | [CVE-2022-4611](https://www.cve.org/CVERecord?id=CVE-2022-4611) | [Phamchie/CVE-2022-4611](https://github.com/Phamchie/CVE-2022-4611) | no description | 2023-07-06T16:40:08Z |
+| [CVE-2022-46091](https://www.cve.org/CVERecord?id=CVE-2022-46091) | [ASR511-OO7/CVE-2022-46091](https://github.com/ASR511-OO7/CVE-2022-46091) | no description | 2024-02-25T09:23:01Z |
 | [CVE-2022-46089](https://www.cve.org/CVERecord?id=CVE-2022-46089) | [ASR511-OO7/CVE-2022-46089](https://github.com/ASR511-OO7/CVE-2022-46089) | no description | 2024-02-25T09:23:52Z |
 | [CVE-2022-46088](https://www.cve.org/CVERecord?id=CVE-2022-46088) | [ASR511-OO7/CVE-2022-46088](https://github.com/ASR511-OO7/CVE-2022-46088) | no description | 2024-02-25T09:24:51Z |
 | [CVE-2022-46087](https://www.cve.org/CVERecord?id=CVE-2022-46087) | [G37SYS73M/CVE-2022-46087](https://github.com/G37SYS73M/CVE-2022-46087) | CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user. | 2023-03-21T08:02:48Z |
