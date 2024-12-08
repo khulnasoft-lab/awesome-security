@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-07 02:23:41.793133
+Last generated: 2024-12-08 02:38:20.010377
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Last generated: 2024-12-07 02:23:41.793133
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593) | Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution | 2024-10-18T09:11:03Z |
+| [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [0x4f5da2-venom/CVE-2024-9593-EXP](https://github.com/0x4f5da2-venom/CVE-2024-9593-EXP) | CVE-2024-9593  WordPress插件的远程代码执行 | 2024-11-18T08:22:44Z |
 | [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9466](https://www.cve.org/CVERecord?id=CVE-2024-9466) | [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466) | CVE-2024-9466 poc | 2024-10-19T08:22:13Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
@@ -524,6 +525,7 @@ Last generated: 2024-12-07 02:23:41.793133
 | [CVE-2024-43532](https://www.cve.org/CVERecord?id=CVE-2024-43532) | [HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532) | no description | 2024-10-25T15:25:57Z |
 | [CVE-2024-43532](https://www.cve.org/CVERecord?id=CVE-2024-43532) | [expl0itsecurity/CVE-2024-43532](https://github.com/expl0itsecurity/CVE-2024-43532) | no description | 2024-11-15T13:15:39Z |
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
+| [CVE-2024-4351](https://www.cve.org/CVERecord?id=CVE-2024-4351) | [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351) | no description | 2024-11-17T21:37:55Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
 | [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
@@ -1339,6 +1341,7 @@ Last generated: 2024-12-07 02:23:41.793133
 | [CVE-2024-27956](https://www.cve.org/CVERecord?id=CVE-2024-27956) | [CERTologists/EXPLOITING-CVE-2024-27956](https://github.com/CERTologists/EXPLOITING-CVE-2024-27956) | no description | 2024-07-23T08:24:56Z |
 | [CVE-2024-27954](https://www.cve.org/CVERecord?id=CVE-2024-27954) | [fa-rrel/CVE-2024-27954](https://github.com/fa-rrel/CVE-2024-27954) | Automatic Plugin for WordPress &lt; 3.92.1 Multiples Vulnerabilities | 2024-10-29T00:46:35Z |
 | [CVE-2024-27954](https://www.cve.org/CVERecord?id=CVE-2024-27954) | [Quantum-Hacker/CVE-2024-27954](https://github.com/Quantum-Hacker/CVE-2024-27954) | no description | 2024-10-30T10:14:54Z |
+| [CVE-2024-27821](https://www.cve.org/CVERecord?id=CVE-2024-27821) | [0xilis/CVE-2024-27821](https://github.com/0xilis/CVE-2024-27821) | Writeup and PoC of CVE-2024-27821, for education purposes. | 2024-11-17T20:56:41Z |
 | [CVE-2024-27815](https://www.cve.org/CVERecord?id=CVE-2024-27815) | [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815) | macOS/ XNU kernel buffer overflow. Introduced in macOS 14.0 (xnu-10002.1.13), fixed in macOS 14.5 (xnu-10063.121.3) | 2024-06-19T22:03:02Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27766](https://www.cve.org/CVERecord?id=CVE-2024-27766) | [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766) | Database authenticated code execution | 2023-03-02T11:20:48Z |
@@ -1920,6 +1923,7 @@ Last generated: 2024-12-07 02:23:41.793133
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [feely666/CVE-2024-1086](https://github.com/feely666/CVE-2024-1086) | no description | 2024-06-10T15:19:39Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) | no description | 2024-07-04T10:51:35Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64) | no description | 2024-10-21T10:45:49Z |
+| [CVE-2024-10793](https://www.cve.org/CVERecord?id=CVE-2024-10793) | [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793) | CVE-2024-10793 poc exploit | 2024-11-17T18:44:53Z |
 | [CVE-2024-10728](https://www.cve.org/CVERecord?id=CVE-2024-10728) | [RandomRobbieBF/CVE-2024-10728](https://github.com/RandomRobbieBF/CVE-2024-10728) | PostX &lt;= 4.1.16 - Missing Authorization to Arbitrary Plugin Installation/Activation | 2024-11-16T10:51:56Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [gbrsh/CVE-2024-1071](https://github.com/gbrsh/CVE-2024-1071) | Ultimate Member Unauthorized Database Access / SQLi | 2024-02-27T11:41:53Z |
 | [CVE-2024-1071](https://www.cve.org/CVERecord?id=CVE-2024-1071) | [Matrexdz/CVE-2024-1071-Docker](https://github.com/Matrexdz/CVE-2024-1071-Docker) | no description | 2024-03-18T17:07:27Z |
@@ -1939,6 +1943,7 @@ Last generated: 2024-12-07 02:23:41.793133
 | [CVE-2024-10410](https://www.cve.org/CVERecord?id=CVE-2024-10410) | [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410) | no description | 2024-10-25T14:15:56Z |
 | [CVE-2024-10355](https://www.cve.org/CVERecord?id=CVE-2024-10355) | [K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355) | no description | 2024-10-23T08:59:51Z |
 | [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
+| [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
 | [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z |
