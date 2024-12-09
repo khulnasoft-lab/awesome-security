@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-08 02:38:20.010377
+Last generated: 2024-12-09 02:35:50.836531
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
+| [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
 | [CVE-2024-9933](https://www.cve.org/CVERecord?id=CVE-2024-9933) | [RandomRobbieBF/CVE-2024-9933](https://github.com/RandomRobbieBF/CVE-2024-9933) | WatchTowerHQ &lt;= 3.10.1 - Authentication Bypass to Administrator due to Missing Empty Value Check | 2024-11-05T20:55:09Z |
 | [CVE-2024-9932](https://www.cve.org/CVERecord?id=CVE-2024-9932) | [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932) | Wux Blog Editor &lt;= 3.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-05T15:00:39Z |
 | [CVE-2024-9926](https://www.cve.org/CVERecord?id=CVE-2024-9926) | [m3ssap0/wordpress-jetpack-broken-access-control-exploit](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-exploit) | Exploits Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). | 2024-11-01T14:03:55Z |
@@ -4785,6 +4786,7 @@ Last generated: 2024-12-08 02:38:20.010377
 | [CVE-2021-22873](https://www.cve.org/CVERecord?id=CVE-2021-22873) | [K3ysTr0K3R/CVE-2021-22873-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT) | A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability. | 2023-07-22T21:49:54Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [pashayogi/CVE-2021-22555](https://github.com/pashayogi/CVE-2021-22555) | Linux Kernel 2.6.19 &lt; 5.9 - &#x27;Netfilter Local Privilege Escalation&#x27; | 2023-08-20T14:26:28Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [tukru/CVE-2021-22555](https://github.com/tukru/CVE-2021-22555) | This repo hosts TUKRU&#x27;s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | 2023-08-05T18:56:18Z |
+| [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [letsr00t/-2021-LOCALROOT-CVE-2021-22555](https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555) | no description | 2024-02-05T07:05:13Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205) | no description | 2023-03-09T11:53:37Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [hhhotdrink/CVE-2021-22205](https://github.com/hhhotdrink/CVE-2021-22205) | no description | 2023-02-27T07:42:12Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-10-29T04:30:45Z |
