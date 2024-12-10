@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-09 02:35:50.836531
+Last generated: 2024-12-10 02:28:04.857125
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -236,6 +236,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
+| [CVE-2024-52940](https://www.cve.org/CVERecord?id=CVE-2024-52940) | [ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector) | CVE-2024-52940 - A zero-day vulnerability in AnyDesk&#x27;s &quot;Allow Direct Connections&quot; feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages. | 2024-10-27T15:29:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
@@ -267,6 +268,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-50964](https://www.cve.org/CVERecord?id=CVE-2024-50964) | [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) | MX Server misconfiguration | 2024-11-13T07:49:09Z |
 | [CVE-2024-50962](https://www.cve.org/CVERecord?id=CVE-2024-50962) | [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) | A Cross-Site Scripting (XSS) vulnerability | 2024-11-13T07:47:38Z |
 | [CVE-2024-50961](https://www.cve.org/CVERecord?id=CVE-2024-50961) | [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) | Remote attacker can access sensitive data exposed on the URL | 2024-11-13T07:43:06Z |
+| [CVE-2024-50849](https://www.cve.org/CVERecord?id=CVE-2024-50849) | [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849) | no description | 2024-11-15T19:51:18Z |
 | [CVE-2024-50848](https://www.cve.org/CVERecord?id=CVE-2024-50848) | [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848) | no description | 2024-11-15T18:57:25Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
@@ -528,6 +530,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4351](https://www.cve.org/CVERecord?id=CVE-2024-4351) | [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351) | no description | 2024-11-17T21:37:55Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
+| [CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416) | [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC) | no description | 2024-11-18T19:58:42Z |
 | [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC) | This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution. | 2024-05-20T15:04:13Z |
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323) | Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server. | 2024-05-21T12:59:16Z |
@@ -555,6 +558,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-42642](https://www.cve.org/CVERecord?id=CVE-2024-42642) | [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642) | no description | 2024-08-30T17:24:58Z |
 | [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library | 2024-10-09T14:35:06Z |
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
+| [CVE-2024-42346](https://www.cve.org/CVERecord?id=CVE-2024-42346) | [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346) | CVE-2024-42346 POC | 2024-11-18T18:31:03Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -668,6 +672,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-38396](https://www.cve.org/CVERecord?id=CVE-2024-38396) | [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396) | PoC for iTerm2 CVEs CVE-2024-38396 and CVE-2024-38395 which allow code execution | 2024-06-16T09:43:46Z |
 | [CVE-2024-38366](https://www.cve.org/CVERecord?id=CVE-2024-38366) | [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366) | CocoaPods RCE Vulnerability CVE-2024-38366 | 2024-06-28T13:11:28Z |
 | [CVE-2024-38200](https://www.cve.org/CVERecord?id=CVE-2024-38200) | [passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200) | CVE-2024-38200 - Microsoft Office NTLMv2 Disclosure Vulnerability | 2024-09-24T19:24:55Z |
+| [CVE-2024-38193](https://www.cve.org/CVERecord?id=CVE-2024-38193) | [killvxk/CVE-2024-38193-Nephster](https://github.com/killvxk/CVE-2024-38193-Nephster) | no description | 2024-12-03T08:56:59Z |
 | [CVE-2024-38189](https://www.cve.org/CVERecord?id=CVE-2024-38189) | [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189) | no description | 2024-08-20T12:41:57Z |
 | [CVE-2024-38144](https://www.cve.org/CVERecord?id=CVE-2024-38144) | [Dor00tkit/CVE-2024-38144](https://github.com/Dor00tkit/CVE-2024-38144) | CVE-2024-38144 - DoS PoC | 2024-09-29T07:04:58Z |
 | [CVE-2024-38127](https://www.cve.org/CVERecord?id=CVE-2024-38127) | [pwndorei/CVE-2024-38127](https://github.com/pwndorei/CVE-2024-38127) | no description | 2024-09-15T07:38:44Z |
@@ -713,6 +718,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [idkwastaken/CVE-2024-38063](https://github.com/idkwastaken/CVE-2024-38063) | no description | 2024-10-14T17:46:58Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [thanawee321/CVE-2024-38063](https://github.com/thanawee321/CVE-2024-38063) | Vulnerability CVE-2024-38063 | 2024-10-15T03:18:51Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [AliHj98/cve-2024-38063-Anonyvader](https://github.com/AliHj98/cve-2024-38063-Anonyvader) | no description | 2024-11-07T09:36:32Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [selenagomez25/CVE-2024-38063](https://github.com/selenagomez25/CVE-2024-38063) | poc for exploiting cve-2024-38063 | 2024-11-18T15:20:24Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -1936,8 +1942,10 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-10654](https://www.cve.org/CVERecord?id=CVE-2024-10654) | [c0nyy/IoT_vuln](https://github.com/c0nyy/IoT_vuln) | POC CVE-2024-10654 | 2024-10-31T03:48:22Z |
 | [CVE-2024-10629](https://www.cve.org/CVERecord?id=CVE-2024-10629) | [RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629) | GPX Viewer &lt;= 2.2.8 - Authenticated (Subscriber+) Arbitrary File Creation | 2024-11-12T16:36:20Z |
 | [CVE-2024-10605](https://www.cve.org/CVERecord?id=CVE-2024-10605) | [bevennyamande/CVE-2024-10605](https://github.com/bevennyamande/CVE-2024-10605) | no description | 2024-10-30T22:56:24Z |
+| [CVE-2024-10592](https://www.cve.org/CVERecord?id=CVE-2024-10592) | [windz3r0day/CVE-2024-10592](https://github.com/windz3r0day/CVE-2024-10592) | CVE-2024-10592 poc exploit | 2024-11-18T20:34:38Z |
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
+| [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508) | no description | 2024-11-19T02:47:59Z |
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470) | WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion | 2024-11-08T19:47:34Z |
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
@@ -1946,6 +1954,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
 | [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
+| [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
 | [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z |
 | [CVE-2024-0944](https://www.cve.org/CVERecord?id=CVE-2024-0944) | [Artemisxxx37/cve-2024-0944](https://github.com/Artemisxxx37/cve-2024-0944) | no description | 2024-09-10T13:23:25Z |
@@ -4666,6 +4675,7 @@ Last generated: 2024-12-09 02:35:50.836531
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Sma-Das/Log4j-PoC](https://github.com/Sma-Das/Log4j-PoC) | An educational Proof of Concept for the Log4j Vulnerability (CVE-2021-44228) in Minecraft | 2023-03-14T18:49:36Z |
 | [CVE-2021-33044](https://www.cve.org/CVERecord?id=CVE-2021-33044) | [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044) | no description | 2023-10-22T14:02:49Z |
 | [CVE-2021-32789](https://www.cve.org/CVERecord?id=CVE-2021-32789) | [and0x00/CVE-2021-32789](https://github.com/and0x00/CVE-2021-32789) | 💣 Wordpress WooCommerce users dump exploit | 2023-02-17T19:51:24Z |
+| [CVE-2021-32789](https://www.cve.org/CVERecord?id=CVE-2021-32789) | [DonVorrin/CVE-2021-32789](https://github.com/DonVorrin/CVE-2021-32789) | Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions &gt;= 2.5.0 | 2024-02-08T19:02:17Z |
 | [CVE-2021-32682](https://www.cve.org/CVERecord?id=CVE-2021-32682) | [nickswink/CVE-2021-32682](https://github.com/nickswink/CVE-2021-32682) | elFinder Commands Injection (CVE-2021-32682) | 2023-11-10T16:16:47Z |
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [nanopathi/linux-4.19.72_CVE-2021-32399](https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399) | no description | 2022-04-01T10:29:20Z |
 | [CVE-2021-32399](https://www.cve.org/CVERecord?id=CVE-2021-32399) | [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher) | PoC for CVE-2021-31166 and CVE-2022-21907 | 2022-11-22T09:10:36Z |
