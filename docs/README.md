@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-10 02:28:04.857125
+Last generated: 2024-12-11 02:25:46.710382
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -240,6 +240,7 @@ Last generated: 2024-12-10 02:28:04.857125
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-52302](https://www.cve.org/CVERecord?id=CVE-2024-52302) | [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302) | common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE) | 2024-11-14T16:04:00Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research) | A bit of research around CVE-2024-52301 | 2024-11-15T19:11:35Z |
 | [CVE-2024-51747](https://www.cve.org/CVERecord?id=CVE-2024-51747) | [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) | no description | 2024-11-15T03:40:49Z |
@@ -1889,6 +1890,7 @@ Last generated: 2024-12-10 02:28:04.857125
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC) | Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection | 2024-03-19T14:22:45Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit) | This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698. | 2024-03-29T04:11:06Z |
 | [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698) | no description | 2024-10-14T13:02:26Z |
+| [CVE-2024-1698](https://www.cve.org/CVERecord?id=CVE-2024-1698) | [jesicatjan/WordPress-NotificationX-CVE-2024-1698](https://github.com/jesicatjan/WordPress-NotificationX-CVE-2024-1698) | no description | 2024-11-16T15:21:24Z |
 | [CVE-2024-1655](https://www.cve.org/CVERecord?id=CVE-2024-1655) | [lnversed/CVE-2024-1655](https://github.com/lnversed/CVE-2024-1655) | no description | 2024-05-06T10:56:47Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE) | (Mirorring) | 2024-02-29T20:06:30Z |
 | [CVE-2024-1651](https://www.cve.org/CVERecord?id=CVE-2024-1651) | [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC) | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | 2024-02-23T11:04:24Z |
@@ -1919,6 +1921,7 @@ Last generated: 2024-12-10 02:28:04.857125
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass | 2024-11-14T16:59:52Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924) | Simple Python script | 2024-11-19T03:06:49Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
@@ -3930,6 +3933,7 @@ Last generated: 2024-12-10 02:28:04.857125
 | [CVE-2022-46689](https://www.cve.org/CVERecord?id=CVE-2022-46689) | [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. | 2022-12-26T06:56:35Z |
 | [CVE-2022-46638](https://www.cve.org/CVERecord?id=CVE-2022-46638) | [naonymous101/CVE-2022-46638](https://github.com/naonymous101/CVE-2022-46638) | Blog Pribadi | 2019-02-16T16:50:50Z |
 | [CVE-2022-46604](https://www.cve.org/CVERecord?id=CVE-2022-46604) | [galoget/ResponsiveFileManager-CVE-2022-46604](https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604) | Responsive FileManager v.9.9.5 vulnerable to CVE-2022-46604. | 2023-02-03T08:56:16Z |
+| [CVE-2022-46499](https://www.cve.org/CVERecord?id=CVE-2022-46499) | [ASR511-OO7/CVE-2022-46499](https://github.com/ASR511-OO7/CVE-2022-46499) | no description | 2024-02-25T09:19:32Z |
 | [CVE-2022-46498](https://www.cve.org/CVERecord?id=CVE-2022-46498) | [ASR511-OO7/CVE-2022-46498](https://github.com/ASR511-OO7/CVE-2022-46498) | no description | 2024-02-25T09:20:32Z |
 | [CVE-2022-46497](https://www.cve.org/CVERecord?id=CVE-2022-46497) | [ASR511-OO7/CVE-2022-46497](https://github.com/ASR511-OO7/CVE-2022-46497) | no description | 2024-02-25T09:21:29Z |
 | [CVE-2022-46463](https://www.cve.org/CVERecord?id=CVE-2022-46463) | [404tk/CVE-2022-46463](https://github.com/404tk/CVE-2022-46463) | harbor unauthorized detection | 2023-03-21T10:40:19Z |
@@ -7328,3 +7332,4 @@ Last generated: 2024-12-10 02:28:04.857125
 | CVE NOT FOUND | [M-nj/cvelistv5-2024-09-30-corrector](https://github.com/M-nj/cvelistv5-2024-09-30-corrector) | dev copy of the cvelistv5 built starting off at 2024-09-30T16:03:17.464Z | 2024-10-01T14:03:03Z |
 | CVE NOT FOUND | [Locj41/demo-cve2021-45105](https://github.com/Locj41/demo-cve2021-45105) | no description | 2024-01-02T14:10:54Z |
 | CVE NOT FOUND | [ckloh720/cve2023-29374](https://github.com/ckloh720/cve2023-29374) | no description | 2024-07-28T11:15:30Z |
+| CVE NOT FOUND | [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111) | no description | 2024-11-19T06:02:34Z |
