@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-11 02:25:46.710382
+Last generated: 2024-12-12 02:25:35.560347
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -319,6 +319,7 @@ Last generated: 2024-12-11 02:25:46.710382
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
+| [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -1877,6 +1878,7 @@ Last generated: 2024-12-11 02:25:46.710382
 | [CVE-2024-20017](https://www.cve.org/CVERecord?id=CVE-2024-20017) | [mellow-hype/cve-2024-20017](https://github.com/mellow-hype/cve-2024-20017) | exploits for CVE-2024-20017 | 2024-08-30T05:54:36Z |
 | [CVE-2024-1939](https://www.cve.org/CVERecord?id=CVE-2024-1939) | [rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939) | For V8CTF M122 | 2024-08-25T12:08:54Z |
 | [CVE-2024-1931](https://www.cve.org/CVERecord?id=CVE-2024-1931) | [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction) | CVE-2024-1931-reproduction | 2024-08-13T14:09:20Z |
+| [CVE-2024-19002](https://www.cve.org/CVERecord?id=CVE-2024-19002) | [adminlove520/cve-2024-19002](https://github.com/adminlove520/cve-2024-19002) | 测试 | 2024-11-19T09:19:11Z |
 | [CVE-2024-1874](https://www.cve.org/CVERecord?id=CVE-2024-1874) | [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-) | command injection | 2024-04-17T05:26:34Z |
 | [CVE-2024-1874](https://www.cve.org/CVERecord?id=CVE-2024-1874) | [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874) | Proof Of Concept for CVE-2024-1874 | 2024-07-18T15:25:17Z |
 | [CVE-2024-1781](https://www.cve.org/CVERecord?id=CVE-2024-1781) | [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781) | CVE-2024-1781 | 2024-02-12T13:26:03Z |
@@ -1922,6 +1924,8 @@ Last generated: 2024-12-11 02:25:46.710382
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass | 2024-11-14T16:59:52Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924) | Simple Python script | 2024-11-19T03:06:49Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [m3ssap0/wordpress-really-simple-security-authn-bypass-exploit](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit) | Exploits Really Simple Security &lt; 9.1.2 authentication bypass (CVE-2024-10924). | 2024-11-19T10:07:28Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Really Simple Security &lt; 9.1.2 authentication bypass (CVE-2024-10924). Run it at your own risk! | 2024-11-18T20:37:07Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
@@ -2019,6 +2023,8 @@ Last generated: 2024-12-11 02:25:46.710382
 | [CVE-2024-0023](https://www.cve.org/CVERecord?id=CVE-2024-0023) | [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023) | no description | 2024-07-29T09:06:34Z |
 | [CVE-2024-0023](https://www.cve.org/CVERecord?id=CVE-2024-0023) | [Aakashmom/frameworks_av_android10_r33_CVE-2024-0023](https://github.com/Aakashmom/frameworks_av_android10_r33_CVE-2024-0023) | no description | 2024-09-03T12:47:32Z |
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [Sachinart/CVE-2024-0012-POC](https://github.com/Sachinart/CVE-2024-0012-POC) | CVE-2024-0012 PAN-OS: Authentication Bypass in the Management Web Interface (PAN-SA-2024-0015) RCE POC | 2024-11-19T11:30:25Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012) | no description | 2024-11-19T08:29:32Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z |
