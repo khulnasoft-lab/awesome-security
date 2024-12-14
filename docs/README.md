@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-13 02:27:13.508205
+Last generated: 2024-12-14 02:21:54.957800
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -22,6 +22,8 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [0x4f5da2-venom/CVE-2024-9593-EXP](https://github.com/0x4f5da2-venom/CVE-2024-9593-EXP) | CVE-2024-9593  WordPress插件的远程代码执行 | 2024-11-18T08:22:44Z |
 | [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474) | PAN-OS auth bypass + RCE | 2024-11-19T17:26:27Z |
+| [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474) | PoC for PAN-OS Exploit | 2024-11-20T22:31:50Z |
+| [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474) | no description | 2024-11-20T16:42:26Z |
 | [CVE-2024-9466](https://www.cve.org/CVERecord?id=CVE-2024-9466) | [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466) | CVE-2024-9466 poc | 2024-10-19T08:22:13Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
@@ -242,6 +244,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-52711](https://www.cve.org/CVERecord?id=CVE-2024-52711) | [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711) | POC-Proof-of-exploit CVE-2024-52711 | 2024-11-19T14:55:16Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-52316](https://www.cve.org/CVERecord?id=CVE-2024-52316) | [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316) | CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability | 2024-11-20T10:22:50Z |
 | [CVE-2024-52302](https://www.cve.org/CVERecord?id=CVE-2024-52302) | [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302) | common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE) | 2024-11-14T16:04:00Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research) | A bit of research around CVE-2024-52301 | 2024-11-15T19:11:35Z |
@@ -323,6 +326,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC) | PoC for CVE-2024-48990 | 2024-11-20T18:41:25Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -563,6 +567,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-42657](https://www.cve.org/CVERecord?id=CVE-2024-42657) | [sudo-subho/CVE-2024-42657](https://github.com/sudo-subho/CVE-2024-42657) | CVE-2024-42657 An issue in wishnet Nepstech Wifi Router NTPL-XPON1GFEVN v1.0 allows a remote attacker to obtain sensitive information via the lack of encryption during login process. | 2024-08-17T02:55:14Z |
 | [CVE-2024-42642](https://www.cve.org/CVERecord?id=CVE-2024-42642) | [VL4DR/CVE-2024-42642](https://github.com/VL4DR/CVE-2024-42642) | no description | 2024-08-30T17:24:58Z |
 | [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library | 2024-10-09T14:35:06Z |
+| [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library (npm:bower) | 2024-11-19T23:54:30Z |
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
 | [CVE-2024-42346](https://www.cve.org/CVERecord?id=CVE-2024-42346) | [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346) | CVE-2024-42346 POC | 2024-11-18T18:31:03Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
@@ -725,6 +730,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [thanawee321/CVE-2024-38063](https://github.com/thanawee321/CVE-2024-38063) | Vulnerability CVE-2024-38063 | 2024-10-15T03:18:51Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [AliHj98/cve-2024-38063-Anonyvader](https://github.com/AliHj98/cve-2024-38063-Anonyvader) | no description | 2024-11-07T09:36:32Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [selenagomez25/CVE-2024-38063](https://github.com/selenagomez25/CVE-2024-38063) | poc for exploiting cve-2024-38063 | 2024-11-18T15:20:24Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [Dragkob/CVE-2024-38063](https://github.com/Dragkob/CVE-2024-38063) | PoC for Windows&#x27; IPv6 CVE-2024-38063 | 2024-11-16T17:22:08Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -2029,6 +2035,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2024-0015](https://www.cve.org/CVERecord?id=CVE-2024-0015) | [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015) | a demo poc for CVE-2024-0015 | 2024-03-19T10:00:21Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [Sachinart/CVE-2024-0012-POC](https://github.com/Sachinart/CVE-2024-0012-POC) | CVE-2024-0012 PAN-OS: Authentication Bypass in the Management Web Interface (PAN-SA-2024-0015) RCE POC | 2024-11-19T11:30:25Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012) | no description | 2024-11-19T08:29:32Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012) | no description | 2024-11-20T16:25:41Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z |
@@ -2780,6 +2787,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z |
 | [CVE-2023-39063](https://www.cve.org/CVERecord?id=CVE-2023-39063) | [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063) | POC of the CVE-2023-39063 | 2023-08-24T20:57:27Z |
 | [CVE-2023-39062](https://www.cve.org/CVERecord?id=CVE-2023-39062) | [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062) | Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files | 2023-08-23T21:07:24Z |
+| [CVE-2023-3897](https://www.cve.org/CVERecord?id=CVE-2023-3897) | [jFriedli/CVE-2023-3897](https://github.com/jFriedli/CVE-2023-3897) | no description | 2024-08-13T09:20:21Z |
 | [CVE-2023-38891](https://www.cve.org/CVERecord?id=CVE-2023-38891) | [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891) | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | 2023-09-12T22:58:41Z |
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z |
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836) | Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0 | 2023-08-16T14:30:30Z |
@@ -4380,6 +4388,7 @@ Last generated: 2024-12-13 02:27:13.508205
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nico989/CVE-2022-1388](https://github.com/nico989/CVE-2022-1388) | PoC for CVE-2022-1388 affecting F5 BIG-IP. | 2024-01-09T19:52:36Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
+| [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [satyasai1460/CVE-2022-1386](https://github.com/satyasai1460/CVE-2022-1386) | no description | 2024-03-07T06:35:33Z |
 | [CVE-2022-1364](https://www.cve.org/CVERecord?id=CVE-2022-1364) | [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) | no description | 2023-11-22T10:55:34Z |
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z |
 | [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z |
