@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-14 02:21:54.957800
+Last generated: 2024-12-15 02:38:26.898935
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -3525,6 +3525,7 @@ Last generated: 2024-12-14 02:21:54.957800
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass) | CVE-2023-2732 Mass | 2023-05-31T02:43:11Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Pari-Malam/CVE-2023-2732](https://github.com/Pari-Malam/CVE-2023-2732) | Perform With Massive Authentication Bypass (Wordpress Mstore-API) | 2023-08-05T06:38:53Z |
 | [CVE-2023-2728](https://www.cve.org/CVERecord?id=CVE-2023-2728) | [Cgv-Dev/Metasploit-Module-TFM](https://github.com/Cgv-Dev/Metasploit-Module-TFM) | Module written in Ruby with the objective of exploiting vulnerabilities CVE-2023-2728 and CVE-2024-3177, both related to the secret mount policy in a Kubernetes cluster using a custom Metasploit module.  Part of a Cybersecurity Master&#x27;s degree finalization project. | 2024-09-05T15:30:51Z |
+| [CVE-2023-27216](https://www.cve.org/CVERecord?id=CVE-2023-27216) | [HoangREALER/CVE-2023-27216](https://github.com/HoangREALER/CVE-2023-27216) | Newbie&#x27;s approach to firmware hacking | 2024-08-09T10:05:34Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163) | To assist in enumerating the webserver behind the webserver SSRF CVE-2023-27163 | 2023-07-19T04:35:58Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163) | CVE-2023-27163 | 2023-07-20T00:18:38Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163) | Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&lt;= v.1.2.1) | 2023-07-11T18:08:05Z |
