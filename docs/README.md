@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-15 02:38:26.898935
+Last generated: 2024-12-16 02:35:56.500001
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -45,6 +45,7 @@ Last generated: 2024-12-15 02:38:26.898935
 | [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
 | [CVE-2024-8856](https://www.cve.org/CVERecord?id=CVE-2024-8856) | [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856) | WordPress WP Time Capsule Plugin Arbitrary File Upload Vulnerability | 2024-11-16T20:04:11Z |
+| [CVE-2024-8856](https://www.cve.org/CVERecord?id=CVE-2024-8856) | [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856) | This tool scans WordPress websites for vulnerabilities in the WP Time Capsule plugin related to CVE-2024-8856. It identifies plugin versions below 1.22.22 as vulnerable and logs results to vuln.txt. Simple and efficient, it helps security researchers and admins detect and address risks quickly. | 2024-11-21T04:01:27Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8698](https://www.cve.org/CVERecord?id=CVE-2024-8698) | [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC) | i&#x27;m noob with saml and keycloak . J4f | 2024-10-10T11:50:07Z |
 | [CVE-2024-8529](https://www.cve.org/CVERecord?id=CVE-2024-8529) | [RandomRobbieBF/CVE-2024-8529](https://github.com/RandomRobbieBF/CVE-2024-8529) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_fields&#x27; | 2024-10-12T20:52:32Z |
@@ -244,6 +245,7 @@ Last generated: 2024-12-15 02:38:26.898935
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-52711](https://www.cve.org/CVERecord?id=CVE-2024-52711) | [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711) | POC-Proof-of-exploit CVE-2024-52711 | 2024-11-19T14:55:16Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
 | [CVE-2024-52316](https://www.cve.org/CVERecord?id=CVE-2024-52316) | [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316) | CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability | 2024-11-20T10:22:50Z |
 | [CVE-2024-52302](https://www.cve.org/CVERecord?id=CVE-2024-52302) | [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302) | common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE) | 2024-11-14T16:04:00Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
@@ -1963,6 +1965,7 @@ Last generated: 2024-12-15 02:38:26.898935
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508) | no description | 2024-11-19T02:47:59Z |
+| [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [Jenderal92/CVE-2024-10508](https://github.com/Jenderal92/CVE-2024-10508) | This tool scans WordPress sites for vulnerabilities in the &quot;RegistrationMagic&quot; plugin (CVE-2024-10508). It checks for the presence of a specific version (`6.0.2.6`) and marks the site as vulnerable if found. The results are saved in a file (`vuln.txt`) for further analysis. | 2024-11-21T04:32:19Z |
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470) | WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion | 2024-11-08T19:47:34Z |
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
@@ -2036,6 +2039,7 @@ Last generated: 2024-12-15 02:38:26.898935
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [Sachinart/CVE-2024-0012-POC](https://github.com/Sachinart/CVE-2024-0012-POC) | CVE-2024-0012 PAN-OS: Authentication Bypass in the Management Web Interface (PAN-SA-2024-0015) RCE POC | 2024-11-19T11:30:25Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012) | no description | 2024-11-19T08:29:32Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012) | no description | 2024-11-20T16:25:41Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012) | Palo Alto CVE-2024-0012 Exploit POC | 2024-11-21T03:08:00Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z |
@@ -3699,6 +3703,7 @@ Last generated: 2024-12-15 02:38:26.898935
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Chan9Yan9/CVE-2023-22809](https://github.com/Chan9Yan9/CVE-2023-22809) | Analysis &amp; Exploit | 2023-06-20T00:38:08Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z |
+| [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809) | no description | 2024-08-14T07:48:10Z |
 | [CVE-2023-22622](https://www.cve.org/CVERecord?id=CVE-2023-22622) | [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622) | Python Script that will DoS a WP server that is utilizing WP-CRON | 2024-03-20T13:48:48Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [Mathieuleto/CVE-2023-2255](https://github.com/Mathieuleto/CVE-2023-2255) | exploit from CVE-2023-2255 | 2024-01-19T20:49:31Z |
@@ -7353,3 +7358,4 @@ Last generated: 2024-12-15 02:38:26.898935
 | CVE NOT FOUND | [Locj41/demo-cve2021-45105](https://github.com/Locj41/demo-cve2021-45105) | no description | 2024-01-02T14:10:54Z |
 | CVE NOT FOUND | [ckloh720/cve2023-29374](https://github.com/ckloh720/cve2023-29374) | no description | 2024-07-28T11:15:30Z |
 | CVE NOT FOUND | [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111) | no description | 2024-11-19T06:02:34Z |
+| CVE NOT FOUND | [CamilaGL/CVET-2023-Comparative](https://github.com/CamilaGL/CVET-2023-Comparative) | no description | 2024-08-14T13:09:46Z |
