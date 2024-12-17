@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-16 02:35:56.500001
+Last generated: 2024-12-17 02:25:26.370239
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -245,6 +245,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-52711](https://www.cve.org/CVERecord?id=CVE-2024-52711) | [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711) | POC-Proof-of-exploit CVE-2024-52711 | 2024-11-19T14:55:16Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
+| [CVE-2024-52318](https://www.cve.org/CVERecord?id=CVE-2024-52318) | [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318) | CVE-2024-52318 - Apache Tomcat XSS Vulnerability in Generated JSPs | 2024-11-21T06:38:48Z |
 | [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
 | [CVE-2024-52316](https://www.cve.org/CVERecord?id=CVE-2024-52316) | [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316) | CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability | 2024-11-20T10:22:50Z |
 | [CVE-2024-52302](https://www.cve.org/CVERecord?id=CVE-2024-52302) | [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302) | common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE) | 2024-11-14T16:04:00Z |
@@ -282,6 +283,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084) | WordPress Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-25T03:49:04Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [z1gazaga/CVE-2024-5084](https://github.com/z1gazaga/CVE-2024-5084) | Материалы для научной работы | 2024-11-21T06:26:21Z |
 | [CVE-2024-50804](https://www.cve.org/CVERecord?id=CVE-2024-50804) | [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804) | MSI Center Pro 2.1.37.0 - CVE-2024-50804 | 2024-11-04T15:38:19Z |
 | [CVE-2024-50803](https://www.cve.org/CVERecord?id=CVE-2024-50803) | [Praison001/CVE-2024-50803-Redaxo](https://github.com/Praison001/CVE-2024-50803-Redaxo) | Stored XSS in mediapool feature of Redaxo | 2024-11-15T17:05:04Z |
 | [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
@@ -471,6 +473,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45492](https://www.cve.org/CVERecord?id=CVE-2024-45492) | [nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492) | no description | 2024-11-01T10:27:39Z |
 | [CVE-2024-45436](https://www.cve.org/CVERecord?id=CVE-2024-45436) | [pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436) | CVE-2024-45436 | 2024-10-21T05:44:49Z |
+| [CVE-2024-45436](https://www.cve.org/CVERecord?id=CVE-2024-45436) | [XiaomingX/cve-2024-45436-exp](https://github.com/XiaomingX/cve-2024-45436-exp) | This repository contains an exploit demonstration for CVE-2024-45436, a critical vulnerability affecting specific software versions. It highlights the exploitation mechanism and provides insights for security researchers to understand and mitigate the risk. | 2024-11-21T09:03:21Z |
 | [CVE-2024-45410](https://www.cve.org/CVERecord?id=CVE-2024-45410) | [jphetphoumy/traefik-CVE-2024-45410-poc](https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc) | A proof of concept of traefik CVE to understand the impact | 2024-09-26T09:58:27Z |
 | [CVE-2024-45409](https://www.cve.org/CVERecord?id=CVE-2024-45409) | [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409) | Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409) exploit | 2024-10-07T09:24:46Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
@@ -502,6 +505,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439) | CVE-2024-4439 PoC | 2024-05-06T08:50:23Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [soltanali0/CVE-2024-4439](https://github.com/soltanali0/CVE-2024-4439) | aa | 2024-10-10T09:30:11Z |
+| [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [w0r1i0g1ht/CVE-2024-4439](https://github.com/w0r1i0g1ht/CVE-2024-4439) | CVE-2024-4439 docker and poc | 2024-11-21T13:36:25Z |
 | [CVE-2024-44349](https://www.cve.org/CVERecord?id=CVE-2024-44349) | [AndreaF17/PoC-CVE-2024-44349](https://github.com/AndreaF17/PoC-CVE-2024-44349) | no description | 2024-07-26T09:24:37Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346) | Public Disclosure | 2024-09-13T10:27:23Z |
@@ -1973,6 +1977,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2024-10355](https://www.cve.org/CVERecord?id=CVE-2024-10355) | [K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355) | no description | 2024-10-23T08:59:51Z |
 | [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
 | [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
+| [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks) | CVE-2024-10220 Test repo | 2024-11-21T06:59:21Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
@@ -3516,6 +3521,7 @@ Last generated: 2024-12-16 02:35:56.500001
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC) | This is a PoC for CVE-2023-27372 and spawns a fully interactive shell. | 2023-09-07T16:17:03Z |
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [ErikWynter/opentsdb_key_cmd_injection](https://github.com/ErikWynter/opentsdb_key_cmd_injection) | An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran | 2023-09-07T13:47:13Z |
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [dream434/CVE-2023-27372](https://github.com/dream434/CVE-2023-27372) | spip | 2023-07-01T17:08:36Z |
+| [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [1amthebest1/CVE-2023-27372](https://github.com/1amthebest1/CVE-2023-27372) | no description | 2024-08-15T20:36:59Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363) | 福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现 | 2023-06-14T01:18:09Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363) | no description | 2023-05-15T16:09:19Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-) | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | 2023-10-10T08:52:08Z |
