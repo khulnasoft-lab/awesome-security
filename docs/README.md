@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-19 02:21:46.980563
+Last generated: 2024-12-20 02:15:43.521942
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -248,6 +248,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-52711](https://www.cve.org/CVERecord?id=CVE-2024-52711) | [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711) | POC-Proof-of-exploit CVE-2024-52711 | 2024-11-19T14:55:16Z |
+| [CVE-2024-52475](https://www.cve.org/CVERecord?id=CVE-2024-52475) | [ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475) | Broken Authentication in Wordpress plugin (Wawp Plugin &lt; 3.0.18) | 2024-11-22T18:29:54Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-52433](https://www.cve.org/CVERecord?id=CVE-2024-52433) | [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433) | My Geo Posts Free &lt;= 1.2 - Unauthenticated PHP Object Injection | 2024-11-22T08:56:58Z |
 | [CVE-2024-52429](https://www.cve.org/CVERecord?id=CVE-2024-52429) | [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) | WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation | 2024-11-22T10:26:55Z |
@@ -339,6 +340,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC) | PoC for CVE-2024-48990 | 2024-11-20T18:41:25Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990) | Exploit for CVE-2024-48990 (Local Privilege Escalation in needrestart &lt; 3.8) | 2024-11-21T23:59:49Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990) | Qualys needsrestart vulnerability CVE-2024-48990 | 2024-11-22T17:35:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -609,6 +611,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898) | no description | 2024-11-11T09:00:22Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711) | Pre-Auth Exploit for CVE-2024-40711 | 2024-09-15T17:25:32Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp) | CVE-2024-40711-exp | 2024-10-16T05:02:27Z |
+| [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [XiaomingX/cve-2024-40711-poc](https://github.com/XiaomingX/cve-2024-40711-poc) | CVE-2024-40711 是 Veeam Backup &amp; Replication 软件中的一个严重漏洞，允许未经身份验证的攻击者远程执行代码。 | 2024-11-23T04:02:34Z |
 | [CVE-2024-40676](https://www.cve.org/CVERecord?id=CVE-2024-40676) | [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676) | no description | 2024-10-17T11:29:33Z |
 | [CVE-2024-40676](https://www.cve.org/CVERecord?id=CVE-2024-40676) | [Aakashmom/accounts_CVE-2024-40676-](https://github.com/Aakashmom/accounts_CVE-2024-40676-) | no description | 2024-10-17T11:40:21Z |
 | [CVE-2024-40675](https://www.cve.org/CVERecord?id=CVE-2024-40675) | [Aakashmom/intent_CVE-2024-40675](https://github.com/Aakashmom/intent_CVE-2024-40675) | no description | 2024-10-17T11:46:29Z |
@@ -683,6 +686,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [BBD-YZZ/CVE-2024-38856-RCE](https://github.com/BBD-YZZ/CVE-2024-38856-RCE) | Apache OFBiz CVE-2024-38856 | 2024-08-28T03:17:22Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc) | CVE-2024-38856 是 Apache OFBiz 中的一个严重漏洞，允许未经身份验证的攻击者在受影响的系统上执行任意代码。 | 2024-11-23T03:54:28Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821) | cve-2024-38821 | 2024-10-30T14:38:37Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo) | no description | 2024-09-20T02:09:23Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC) | CVE-2024-38816 Proof of Concept | 2024-09-28T23:16:23Z |
@@ -1064,6 +1068,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC) | Proof of Concept for CVE-2024-32002 | 2024-09-27T03:29:15Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002) | hihihihaa | 2024-10-08T10:57:17Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002) | no description | 2024-10-22T12:44:44Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [XiaomingX/cve-2024-32002-poc](https://github.com/XiaomingX/cve-2024-32002-poc) | CVE-2024-32002 是 Git 中的一个严重漏洞，允许攻击者在用户执行 git clone 操作时远程执行任意代码（RCE）。 | 2024-11-23T04:06:33Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -1703,6 +1708,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692) | CVE-2024-23692 | 2024-06-17T08:46:48Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692) | Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692) | 2024-07-10T04:44:27Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692) | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | 2024-09-15T12:15:35Z |
+| [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc) | CVE-2024-23692 是影响 Rejetto HTTP File Server（HFS）2.3m 及之前版本的模板注入漏洞。该漏洞允许远程未授权的攻击者通过发送特制的 HTTP 请求，在受影响的系统上执行任意命令。 | 2024-11-23T03:59:13Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346) | This repository contains a Crystallographic Information File (CIF) intended for use on the &quot;Chemistry&quot; machine on Hack The Box (HTB). | 2024-11-05T14:27:06Z |
@@ -1768,6 +1774,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [l0n3m4n/CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE) | PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit) | 2024-07-15T07:26:59Z |
 | [CVE-2024-22274](https://www.cve.org/CVERecord?id=CVE-2024-22274) | [Mustafa1986/CVE-2024-22274-RCE](https://github.com/Mustafa1986/CVE-2024-22274-RCE) | no description | 2024-07-18T06:18:57Z |
 | [CVE-2024-22263](https://www.cve.org/CVERecord?id=CVE-2024-22263) | [securelayer7/CVE-2024-22263_Scanner](https://github.com/securelayer7/CVE-2024-22263_Scanner) | (CVE-2024-22263) Spring Cloud Dataflow Arbitrary File Writing Scanner | 2024-08-21T19:58:25Z |
+| [CVE-2024-22262](https://www.cve.org/CVERecord?id=CVE-2024-22262) | [Performant-Labs/CVE-2024-22262](https://github.com/Performant-Labs/CVE-2024-22262) | no description | 2024-11-19T20:08:57Z |
 | [CVE-2024-22243](https://www.cve.org/CVERecord?id=CVE-2024-22243) | [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243) | Example exploitable scenarios for CVE-2024-22243 affecting the Spring framework (open redirect &amp; SSRF). | 2024-02-21T12:55:22Z |
 | [CVE-2024-22234](https://www.cve.org/CVERecord?id=CVE-2024-22234) | [shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) | env of CVE-2024-22243&amp;CVE-2024-22234 | 2024-02-23T10:09:51Z |
 | [CVE-2024-22198](https://www.cve.org/CVERecord?id=CVE-2024-22198) | [xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker) | Identify Nginx-ui version and check if it&#x27;s vulnerable to CVE-2024-22198 | 2024-07-24T13:59:51Z |
@@ -1829,6 +1836,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [dorser/cve-2024-21626](https://github.com/dorser/cve-2024-21626) | no description | 2024-04-10T09:12:06Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626) | no description | 2024-08-25T15:11:42Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions) | no description | 2024-11-07T11:17:45Z |
+| [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke) | Some scripts to simulate an attack (used for CVE-2024-21626) | 2024-11-22T21:55:11Z |
 | [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
@@ -1951,7 +1959,10 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-11432](https://www.cve.org/CVERecord?id=CVE-2024-11432) | [windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432) | CVE-2024-11432 poc exploit | 2024-11-22T16:46:24Z |
+| [CVE-2024-11428](https://www.cve.org/CVERecord?id=CVE-2024-11428) | [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428) | CVE-2024-11428 poc exploit | 2024-11-22T16:51:47Z |
+| [CVE-2024-11412](https://www.cve.org/CVERecord?id=CVE-2024-11412) | [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412) | CVE-2024-11412 poc exploit | 2024-11-22T16:50:08Z |
 | [CVE-2024-11388](https://www.cve.org/CVERecord?id=CVE-2024-11388) | [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388) | CVE-2024-11388 poc exploit | 2024-11-22T16:48:21Z |
+| [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
@@ -2065,6 +2076,8 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012) | no description | 2024-11-20T16:25:41Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012) | Palo Alto CVE-2024-0012 Exploit POC | 2024-11-21T03:08:00Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc) | CVE-2024-0012是Palo Alto Networks PAN-OS软件中的一个身份验证绕过漏洞。该漏洞允许未经身份验证的攻击者通过网络访问管理Web界面，获取PAN-OS管理员权限，从而执行管理操作、篡改配置，或利用其他需要身份验证的特权提升漏洞（如CVE-2024-9474） | 2024-11-22T14:11:56Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [punitdarji/Paloalto-CVE-2024-0012](https://github.com/punitdarji/Paloalto-CVE-2024-0012) | no description | 2024-11-22T20:58:17Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [greaselovely/CVE-2024-0012](https://github.com/greaselovely/CVE-2024-0012) | PANW NGFW CVE-2024-0012 | 2024-11-20T15:35:29Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z |
@@ -2208,6 +2221,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [c0deur/CVE-2023-51385](https://github.com/c0deur/CVE-2023-51385) | no description | 2024-05-27T19:29:55Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [endasugrue/CVE-2023-51385_poc](https://github.com/endasugrue/CVE-2023-51385_poc) | no description | 2024-06-12T19:38:42Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [MiningBot-eth/CVE-2023-51385-exploit](https://github.com/MiningBot-eth/CVE-2023-51385-exploit) | no description | 2024-06-15T08:27:46Z |
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Featherw1t/CVE-2023-51385_test](https://github.com/Featherw1t/CVE-2023-51385_test) | no description | 2024-08-20T02:25:58Z |
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z |
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z |
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z |
@@ -4199,6 +4213,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [dkstar11q/CVE-2022-31814](https://github.com/dkstar11q/CVE-2022-31814) | pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2023-03-26T17:22:40Z |
 | [CVE-2022-31692](https://www.cve.org/CVERecord?id=CVE-2022-31692) | [hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692) | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | 2023-10-29T17:31:23Z |
 | [CVE-2022-31007](https://www.cve.org/CVERecord?id=CVE-2022-31007) | [gregscharf/CVE-2022-31007-Python-POC](https://github.com/gregscharf/CVE-2022-31007-Python-POC) | elabFTW &lt; 4.1.0 - account lockout bypass and login brute force | 2022-12-01T22:53:59Z |
+| [CVE-2022-30780](https://www.cve.org/CVERecord?id=CVE-2022-30780) | [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service) | CVE-2022-30780 - lighttpd remote denial of service | 2022-05-18T12:01:17Z |
 | [CVE-2022-30525](https://www.cve.org/CVERecord?id=CVE-2022-30525) | [arajsingh-infosec/CVE-2022-30525_Exploit](https://github.com/arajsingh-infosec/CVE-2022-30525_Exploit) | Exploit for CVE-2022-30525 | 2024-02-27T03:31:37Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [yosef0x01/CVE-2022-30507-PoC](https://github.com/yosef0x01/CVE-2022-30507-PoC) | PoC for Arbitrary Code Execution in Notable | 2022-07-16T15:55:28Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [hotblac/text4shell](https://github.com/hotblac/text4shell) | A demonstration of CVE-2022-42889 (text4shell) remote code execution vulnerability | 2023-03-01T20:56:37Z |
@@ -5399,6 +5414,7 @@ Last generated: 2024-12-19 02:21:46.980563
 | [CVE-2019-17662](https://www.cve.org/CVERecord?id=CVE-2019-17662) | [rajendrakumaryadav/CVE-2019-17662-Exploit](https://github.com/rajendrakumaryadav/CVE-2019-17662-Exploit) | Exploit For CVE-2019-17662 | 2021-10-18T08:26:47Z |
 | [CVE-2019-17662](https://www.cve.org/CVERecord?id=CVE-2019-17662) | [whokilleddb/CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662) | Exploit for CVE-2019-17662 (ThinVNC 1.0b1) | 2021-10-02T15:57:11Z |
 | [CVE-2019-17662](https://www.cve.org/CVERecord?id=CVE-2019-17662) | [MuirlandOracle/CVE-2019-17662](https://github.com/MuirlandOracle/CVE-2019-17662) | Exploit code for CVE-2019-17662 | 2021-08-31T19:30:09Z |
+| [CVE-2019-17662](https://www.cve.org/CVERecord?id=CVE-2019-17662) | [medarov411/vnc-lab-cve-2019-17662](https://github.com/medarov411/vnc-lab-cve-2019-17662) | no description | 2023-06-22T11:19:27Z |
 | [CVE-2019-17621](https://www.cve.org/CVERecord?id=CVE-2019-17621) | [Squirre17/CVE-2019-17621](https://github.com/Squirre17/CVE-2019-17621) | CVE-2019-17621 DLink_RCE | 2022-07-20T09:39:36Z |
 | [CVE-2019-17564](https://www.cve.org/CVERecord?id=CVE-2019-17564) | [Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget](https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget) | Basic code for creating the Alibaba FastJson + Spring gadget chain, as used to exploit Apache Dubbo in CVE-2019-17564 - more information available at https://www.checkmarx.com/blog/apache-dubbo-unauthenticated-remote-code-execution-vulnerability | 2020-02-20T08:28:55Z |
 | [CVE-2019-17558](https://www.cve.org/CVERecord?id=CVE-2019-17558) | [narrowinxt/CVE-2019-17558](https://github.com/narrowinxt/CVE-2019-17558) | no description | 2023-06-05T07:47:01Z |
