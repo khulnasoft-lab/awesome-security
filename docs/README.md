@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-20 02:15:43.521942
+Last generated: 2024-12-21 02:12:46.974795
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -341,6 +341,8 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC) | PoC for CVE-2024-48990 | 2024-11-20T18:41:25Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990) | Exploit for CVE-2024-48990 (Local Privilege Escalation in needrestart &lt; 3.8) | 2024-11-21T23:59:49Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990) | Qualys needsrestart vulnerability CVE-2024-48990 | 2024-11-22T17:35:58Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing) | Testing POC for use cases | 2024-11-24T07:33:06Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC) | My take on the needrestart Python CVE-2024-48990 | 2024-11-24T02:12:36Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -822,6 +824,7 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) | geoserver图形化漏洞利用工具 | 2024-10-05T10:08:55Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401) | no description | 2024-10-14T15:57:06Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc) | CVE-2024-36401是GeoServer中的一个高危远程代码执行漏洞。GeoServer是一款开源的地理数据服务器软件，主要用于发布、共享和处理各种地理空间数据。  ALIYUN  漏洞原理： 该漏洞源于GeoServer在处理属性名称时，将其不安全地解析为XPath表达式。具体而言，GeoServer调用的GeoTools库API在评估要素类型的属性名称时，以不安全的方式将其传递给commons-jxpath库。由于commons-jxpath库在解析XPath表达式时允许执行任意代码，攻击者可以通过构造特定的输入，利用多个OGC请求参数（如WFS GetFeature、WFS GetPropertyValue、WMS GetMap等），在未经身份验证的情况下远程执行任意代码。 | 2024-11-22T14:21:53Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin) | CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件 | 2024-11-22T03:57:12Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -1837,6 +1840,7 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626) | no description | 2024-08-25T15:11:42Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [Sk3pper/CVE-2024-21626-old-docker-versions](https://github.com/Sk3pper/CVE-2024-21626-old-docker-versions) | no description | 2024-11-07T11:17:45Z |
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke) | Some scripts to simulate an attack (used for CVE-2024-21626) | 2024-11-22T21:55:11Z |
+| [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [XiaomingX/cve-2024-21534-poc](https://github.com/XiaomingX/cve-2024-21534-poc) | jsonpath-plus 包（版本 &lt;=10.0.7）存在严重的远程代码执行（RCE）漏洞，允许攻击者通过 Node.js 的 VM 模块执行任意代码。该漏洞由于输入验证不严格导致，影响版本为 10.0.7 以下，CVSS 分数为 9.8（极其严重）。漏洞首次公开于 2024 年 10 月 11 日。 | 2024-11-23T05:54:24Z |
 | [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
@@ -1963,6 +1967,8 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2024-11412](https://www.cve.org/CVERecord?id=CVE-2024-11412) | [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412) | CVE-2024-11412 poc exploit | 2024-11-22T16:50:08Z |
 | [CVE-2024-11388](https://www.cve.org/CVERecord?id=CVE-2024-11388) | [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388) | CVE-2024-11388 poc exploit | 2024-11-22T16:48:21Z |
 | [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
+| [CVE-2024-11201](https://www.cve.org/CVERecord?id=CVE-2024-11201) | [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) | TEST | 2024-11-23T09:00:58Z |
+| [CVE-2024-11199](https://www.cve.org/CVERecord?id=CVE-2024-11199) | [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199) | CVE-2024-11199 poc exploit | 2024-11-23T21:43:20Z |
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
@@ -2542,6 +2548,7 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2023-45503](https://www.cve.org/CVERecord?id=CVE-2023-45503) | [ally-petitt/CVE-2023-45503](https://github.com/ally-petitt/CVE-2023-45503) | CVE-2023-45503 Reference | 2024-04-07T23:43:39Z |
 | [CVE-2023-4549](https://www.cve.org/CVERecord?id=CVE-2023-4549) | [b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549) | Repository for CVE-2023-4549 vulnerability. | 2023-09-24T11:57:46Z |
 | [CVE-2023-45471](https://www.cve.org/CVERecord?id=CVE-2023-45471) | [itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471) | no description | 2023-10-14T15:20:37Z |
+| [CVE-2023-4542](https://www.cve.org/CVERecord?id=CVE-2023-4542) | [PumpkinBridge/CVE-2023-4542](https://github.com/PumpkinBridge/CVE-2023-4542) | no description | 2023-08-09T05:57:13Z |
 | [CVE-2023-45288](https://www.cve.org/CVERecord?id=CVE-2023-45288) | [hex0punk/cont-flood-poc](https://github.com/hex0punk/cont-flood-poc) | PoC for CVE-2023-45288, continuation flood vulnerability | 2024-04-12T07:36:39Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-1](https://github.com/miguelc49/CVE-2023-45280-1) | no description | 2024-04-13T18:45:21Z |
 | [CVE-2023-45280](https://www.cve.org/CVERecord?id=CVE-2023-45280) | [miguelc49/CVE-2023-45280-2](https://github.com/miguelc49/CVE-2023-45280-2) | no description | 2024-04-14T07:22:00Z |
@@ -4549,6 +4556,7 @@ Last generated: 2024-12-20 02:15:43.521942
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [scabench/l4j-tp1](https://github.com/scabench/l4j-tp1) | jee web project with log4shell (CVE-2021-44228) vulnerability | 2023-12-18T05:07:59Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [scabench/l4j-fp1](https://github.com/scabench/l4j-fp1) | jee web project with sanitised log4shell (CVE-2021-44228) vulnerability | 2023-12-27T08:49:38Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation) | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | 2022-09-08T00:22:57Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Super-Binary/cve-2021-44228](https://github.com/Super-Binary/cve-2021-44228) | 这是安徽大学 “漏洞分析实验”（大三秋冬）期中作业归档。完整文档位于https://testgames.me/2024/11/10/cve-2021-44228/ | 2024-11-15T01:11:25Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
@@ -7406,3 +7414,4 @@ Last generated: 2024-12-20 02:15:43.521942
 | CVE NOT FOUND | [ckloh720/cve2023-29374](https://github.com/ckloh720/cve2023-29374) | no description | 2024-07-28T11:15:30Z |
 | CVE NOT FOUND | [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111) | no description | 2024-11-19T06:02:34Z |
 | CVE NOT FOUND | [CamilaGL/CVET-2023-Comparative](https://github.com/CamilaGL/CVET-2023-Comparative) | no description | 2024-08-14T13:09:46Z |
+| CVE NOT FOUND | [gh-ost00/CVE-2024-Collection](https://github.com/gh-ost00/CVE-2024-Collection) | &quot;Collection of CVE PoCs for WordPress plugins - for educational and research purposes only.&quot; | 2024-11-24T00:11:23Z |
