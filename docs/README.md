@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-21 02:12:46.974795
+Last generated: 2024-12-22 02:20:39.357671
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -212,6 +212,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [identity-threat-labs/Article-RegreSSHion-CVE-2024-6387](https://github.com/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387) | In an era where digital security is crucial, a new vulnerability in OpenSSH, identified as CVE-2024-6387, has drawn the attention of system administrators and security professionals worldwide. Named &quot;regreSSHion,&quot; this severe security flaw allows remote code execution (RCE) and could significant threat to the integrity of vulnerable systems. | 2024-08-29T15:00:56Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [identity-threat-labs/CVE-2024-6387-Vulnerability-Checker](https://github.com/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker) | This Python script checks for the CVE-2024-6387 vulnerability in OpenSSH servers. It supports multiple IP addresses, URLs, CIDR ranges, and ports. The script can also read addresses from a file. | 2024-08-28T13:28:08Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387) | Proof of concept python script for regreSSHion exploit. | 2024-07-30T06:13:11Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387) | no description | 2024-11-24T17:12:26Z |
 | [CVE-2024-6386](https://www.cve.org/CVERecord?id=CVE-2024-6386) | [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386) | Research and PoC for CVE-2024-6386 | 2024-09-05T14:44:36Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
 | [CVE-2024-6239](https://www.cve.org/CVERecord?id=CVE-2024-6239) | [Sharkkcode/CVE_2024_6239_slide](https://github.com/Sharkkcode/CVE_2024_6239_slide) | CVE_2024_6239_slide | 2024-08-30T16:23:16Z |
@@ -310,6 +311,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-50473](https://www.cve.org/CVERecord?id=CVE-2024-50473) | [RandomRobbieBF/CVE-2024-50473](https://github.com/RandomRobbieBF/CVE-2024-50473) | Ajar in5 Embed &lt;= 3.1.3 - Unauthenticated Arbitrary File Upload | 2024-11-09T07:46:54Z |
 | [CVE-2024-50450](https://www.cve.org/CVERecord?id=CVE-2024-50450) | [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450) | WordPress Meta Data and Taxonomies Filter (MDTF) &lt;= 1.3.3.4 - Unauthenticated Arbitrary Shortcode Execution | 2024-11-08T11:24:16Z |
 | [CVE-2024-50427](https://www.cve.org/CVERecord?id=CVE-2024-50427) | [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427) | SurveyJS: Drag &amp; Drop WordPress Form Builder &lt;= 1.9.136 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-11-08T12:24:06Z |
+| [CVE-2024-50395](https://www.cve.org/CVERecord?id=CVE-2024-50395) | [neko-hat/CVE-2024-50395](https://github.com/neko-hat/CVE-2024-50395) | no description | 2024-11-25T06:06:25Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -343,6 +345,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990) | Qualys needsrestart vulnerability CVE-2024-48990 | 2024-11-22T17:35:58Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing) | Testing POC for use cases | 2024-11-24T07:33:06Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC) | My take on the needrestart Python CVE-2024-48990 | 2024-11-24T02:12:36Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [ally-petitt/CVE-2024-48990-Exploit](https://github.com/ally-petitt/CVE-2024-48990-Exploit) | My exploit for CVE-2024-48990. Full details of how I made this are on my blog. | 2024-11-25T05:28:20Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -944,6 +947,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
+| [CVE-2024-33901](https://www.cve.org/CVERecord?id=CVE-2024-33901) | [gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept) | Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7 | 2024-11-24T05:43:27Z |
 | [CVE-2024-33896](https://www.cve.org/CVERecord?id=CVE-2024-33896) | [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC) | Proof of concept CVE-2024-33896 | 2024-08-20T13:49:15Z |
 | [CVE-2024-33883](https://www.cve.org/CVERecord?id=CVE-2024-33883) | [Grantzile/PoC-CVE-2024-33883](https://github.com/Grantzile/PoC-CVE-2024-33883) | PoC of CVE-2024-33883, RCE vulnerability of ejs. | 2024-06-25T18:40:31Z |
 | [CVE-2024-33775](https://www.cve.org/CVERecord?id=CVE-2024-33775) | [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775) | no description | 2024-05-01T15:46:32Z |
@@ -1726,6 +1730,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [wizarddos/CVE-2024-23334](https://github.com/wizarddos/CVE-2024-23334) | Proof-of-Concept for LFI/Path Traversal vulnerability in Aiohttp =&lt; 3.9.1 | 2024-10-20T15:28:58Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [Arc4he/CVE-2024-23334-PoC](https://github.com/Arc4he/CVE-2024-23334-PoC) | Proof of concept of the parh traversal in python AioHTTP library =&lt; 3.9.1 | 2024-11-09T13:59:28Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC](https://github.com/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC) | Bash script to automate Local File Inclusion (LFI) attacks on aiohttp server version 3.9.1. | 2024-11-14T21:43:29Z |
+| [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [Pylonet/CVE-2024-23334](https://github.com/Pylonet/CVE-2024-23334) | no description | 2024-11-07T21:37:05Z |
 | [CVE-2024-23208](https://www.cve.org/CVERecord?id=CVE-2024-23208) | [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test) | no description | 2024-02-04T07:37:21Z |
 | [CVE-2024-23200](https://www.cve.org/CVERecord?id=CVE-2024-23200) | [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200) | CVE-2024-23200 | 2024-01-14T21:46:27Z |
 | [CVE-2024-23199](https://www.cve.org/CVERecord?id=CVE-2024-23199) | [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199) | CVE-2024-23199 | 2024-01-14T21:43:45Z |
@@ -1815,6 +1820,7 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762) | no description | 2024-04-03T21:42:55Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-) | Full exploit of Cve-2024-21762! | 2024-04-16T22:06:52Z |
 | [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker) | no description | 2024-06-20T02:58:02Z |
+| [CVE-2024-21762](https://www.cve.org/CVERecord?id=CVE-2024-21762) | [XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc) | CVE-2024-21762 是 Fortinet 公司的 FortiOS 和 FortiProxy 产品中的一个严重漏洞，存在于其 SSL VPN 组件中。 | 2024-11-24T07:20:45Z |
 | [CVE-2024-21754](https://www.cve.org/CVERecord?id=CVE-2024-21754) | [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE) | no description | 2024-06-27T18:52:06Z |
 | [CVE-2024-21733](https://www.cve.org/CVERecord?id=CVE-2024-21733) | [LtmThink/CVE-2024-21733](https://github.com/LtmThink/CVE-2024-21733) | 一个验证对CVE-2024-21733 | 2024-08-15T09:47:32Z |
 | [CVE-2024-21689](https://www.cve.org/CVERecord?id=CVE-2024-21689) | [salvadornakamura/CVE-2024-21689](https://github.com/salvadornakamura/CVE-2024-21689) | CVE-2024–21689 RCE Bamboo Data Center and Server Atlassian POC | 2024-08-23T15:32:50Z |
@@ -1966,7 +1972,9 @@ Last generated: 2024-12-21 02:12:46.974795
 | [CVE-2024-11428](https://www.cve.org/CVERecord?id=CVE-2024-11428) | [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428) | CVE-2024-11428 poc exploit | 2024-11-22T16:51:47Z |
 | [CVE-2024-11412](https://www.cve.org/CVERecord?id=CVE-2024-11412) | [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412) | CVE-2024-11412 poc exploit | 2024-11-22T16:50:08Z |
 | [CVE-2024-11388](https://www.cve.org/CVERecord?id=CVE-2024-11388) | [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388) | CVE-2024-11388 poc exploit | 2024-11-22T16:48:21Z |
+| [CVE-2024-11387](https://www.cve.org/CVERecord?id=CVE-2024-11387) | [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387) | CVE-2024-11387 poc exploit | 2024-11-24T22:14:03Z |
 | [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
+| [CVE-2024-11318](https://www.cve.org/CVERecord?id=CVE-2024-11318) | [xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) | This repository details an IDOR vulnerability in AbsysNet 2.3.1, which allows a remote attacker to brute-force session IDs via the /cgi-bin/ocap/ endpoint. Successful exploitation can compromise active user sessions, exposing authentication tokens in HTML. The attack is limited to active sessions and is terminated if the user logs out. | 2024-05-21T18:35:35Z |
 | [CVE-2024-11201](https://www.cve.org/CVERecord?id=CVE-2024-11201) | [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) | TEST | 2024-11-23T09:00:58Z |
 | [CVE-2024-11199](https://www.cve.org/CVERecord?id=CVE-2024-11199) | [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199) | CVE-2024-11199 poc exploit | 2024-11-23T21:43:20Z |
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
