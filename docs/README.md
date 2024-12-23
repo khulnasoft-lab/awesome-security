@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-22 02:20:39.357671
+Last generated: 2024-12-23 02:16:58.909044
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -252,8 +252,10 @@ Last generated: 2024-12-22 02:20:39.357671
 | [CVE-2024-52475](https://www.cve.org/CVERecord?id=CVE-2024-52475) | [ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475) | Broken Authentication in Wordpress plugin (Wawp Plugin &lt; 3.0.18) | 2024-11-22T18:29:54Z |
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-52433](https://www.cve.org/CVERecord?id=CVE-2024-52433) | [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433) | My Geo Posts Free &lt;= 1.2 - Unauthenticated PHP Object Injection | 2024-11-22T08:56:58Z |
+| [CVE-2024-52430](https://www.cve.org/CVERecord?id=CVE-2024-52430) | [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430) | Lis Video Gallery &lt;= 0.2.1 - Unauthenticated PHP Object Injection | 2024-11-25T13:55:39Z |
 | [CVE-2024-52429](https://www.cve.org/CVERecord?id=CVE-2024-52429) | [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) | WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation | 2024-11-22T10:26:55Z |
 | [CVE-2024-52382](https://www.cve.org/CVERecord?id=CVE-2024-52382) | [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) | Matix Popup Builder &lt;= 1.0.0 - Unauthenticated Arbitrary Options Update | 2024-11-21T16:19:12Z |
+| [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380) | Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-25T14:56:38Z |
 | [CVE-2024-52318](https://www.cve.org/CVERecord?id=CVE-2024-52318) | [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318) | CVE-2024-52318 - Apache Tomcat XSS Vulnerability in Generated JSPs | 2024-11-21T06:38:48Z |
 | [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
 | [CVE-2024-52316](https://www.cve.org/CVERecord?id=CVE-2024-52316) | [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316) | CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability | 2024-11-20T10:22:50Z |
@@ -390,6 +392,7 @@ Last generated: 2024-12-22 02:20:39.357671
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575) | FortiManager Unauthenticated Remote Code Execution (CVE-2024-47575) | 2024-11-15T03:43:51Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575) | no description | 2024-11-15T13:19:33Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp) | CVE-2024-47575是Fortinet的FortiManager和FortiManager Cloud产品中的一个严重漏洞，源于fgfmsd守护进程缺乏对关键功能的身份验证。 | 2024-11-22T03:13:03Z |
+| [CVE-2024-47533](https://www.cve.org/CVERecord?id=CVE-2024-47533) | [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533) | CVE-2024-47533: Improper Authentication (CWE-287) | 2024-11-19T09:28:48Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176) | CUPS Browsd Check_CVE-2024-47176 | 2024-09-27T18:23:16Z |
@@ -2109,6 +2112,7 @@ Last generated: 2024-12-22 02:20:39.357671
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [yoryio/CVE-2023-7028](https://github.com/yoryio/CVE-2023-7028) | Exploit for CVE-2023-7028 - GitLab CE/EE | 2024-01-18T05:17:00Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [olebris/Exploit_CVE_2023_7028-](https://github.com/olebris/Exploit_CVE_2023_7028-) | Exploit_CVE_2023_7028 | 2024-06-28T09:54:59Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [soltanali0/CVE-2023-7028](https://github.com/soltanali0/CVE-2023-7028) | Implementation and exploitation of CVE-2023-7028 account takeover vulnerability related to GO-TO CVE weekly articles of the 11th week. | 2024-07-25T11:39:01Z |
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [gh-ost00/CVE-2023-7028](https://github.com/gh-ost00/CVE-2023-7028) | CVE-2023-7028 POC &amp;&amp; Exploit | 2024-08-21T04:14:55Z |
 | [CVE-2023-7016](https://www.cve.org/CVERecord?id=CVE-2023-7016) | [ewilded/CVE-2023-7016-POC](https://github.com/ewilded/CVE-2023-7016-POC) | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | 2024-02-27T14:48:19Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985) | 10Web AI Assistant – AI content writing assistant &lt;= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | 2024-01-29T16:51:53Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [X1r0z/Dubbo-RCE](https://github.com/X1r0z/Dubbo-RCE) | PoC of Apache Dubbo CVE-2023-23638 | 2023-03-22T11:23:44Z |
@@ -3472,6 +3476,7 @@ Last generated: 2024-12-22 02:20:39.357671
 | [CVE-2023-29478](https://www.cve.org/CVERecord?id=CVE-2023-29478) | [Exopteron/BiblioRCE](https://github.com/Exopteron/BiblioRCE) | CVE-2023-29478 - BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | 2022-10-27T06:17:24Z |
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z |
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
+| [CVE-2023-29384](https://www.cve.org/CVERecord?id=CVE-2023-29384) | [nastar-id/CVE-2023-29384](https://github.com/nastar-id/CVE-2023-29384) | CVE-2023-29384 Auto Exploiter on WordPress Job Board and Recruitment Plugin | 2024-08-20T14:43:33Z |
 | [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360) | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | 2023-09-24T21:59:23Z |
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357) | Microsoft SharePoint Server Elevation of Privilege Vulnerability | 2023-09-26T16:18:41Z |
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE) | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | 2023-10-10T13:41:21Z |
