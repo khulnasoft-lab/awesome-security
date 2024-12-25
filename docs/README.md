@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-24 02:15:23.778099
+Last generated: 2024-12-25 02:13:39.078355
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -33,6 +33,7 @@ Last generated: 2024-12-24 02:15:23.778099
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc) | CVE-2024-9441是影响Linear eMerge e3系列（版本1.00-07及之前）的操作系统命令注入漏洞。未经身份验证的远程攻击者可通过HTTP请求中“forgot_password”功能的“login_id”参数，执行任意操作系统命令。 | 2024-11-22T02:04:21Z |
+| [CVE-2024-9326](https://www.cve.org/CVERecord?id=CVE-2024-9326) | [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC) | This PoC script is designed to verify the presence of CVE-2024-9326, a high SQL Injection vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates the exploitation process to determine if the target web application is vulnerable, allowing security professionals to assess and confirm the flaw&#x27;s existence. | 2024-11-27T14:49:54Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264) | File Read Proof of Concept for CVE-2024-9264 | 2024-10-20T01:13:37Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264) | Exploit for Grafana arbitrary file-read (CVE-2024-9264) | 2024-10-19T13:50:52Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264) | no description | 2024-10-21T10:25:27Z |
@@ -1308,6 +1309,7 @@ Last generated: 2024-12-24 02:15:23.778099
 | [CVE-2024-29440](https://www.cve.org/CVERecord?id=CVE-2024-29440) | [yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440) | Unauthorized Access Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:48:01Z |
 | [CVE-2024-29439](https://www.cve.org/CVERecord?id=CVE-2024-29439) | [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439) | Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T13:43:22Z |
 | [CVE-2024-29415](https://www.cve.org/CVERecord?id=CVE-2024-29415) | [felipecruz91/node-ip-vex](https://github.com/felipecruz91/node-ip-vex) | Sample project that uses VEX to supress CVE-2024-29415. | 2024-07-05T07:50:29Z |
+| [CVE-2024-29404](https://www.cve.org/CVERecord?id=CVE-2024-29404) | [mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer) | no description | 2024-11-24T13:43:36Z |
 | [CVE-2024-29399](https://www.cve.org/CVERecord?id=CVE-2024-29399) | [ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399) | CVE-2024-29399 reference | 2024-04-08T23:03:04Z |
 | [CVE-2024-29375](https://www.cve.org/CVERecord?id=CVE-2024-29375) | [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375) | CSV Injection in Addactis IBNRS 3.10.3.107 | 2024-03-11T16:32:41Z |
 | [CVE-2024-29296](https://www.cve.org/CVERecord?id=CVE-2024-29296) | [ThaySolis/CVE-2024-29296](https://github.com/ThaySolis/CVE-2024-29296) | CVE-2024-29296 - User enumeration on Portainer CE - 2.19.4 | 2024-04-09T20:36:03Z |
@@ -1987,17 +1989,21 @@ Last generated: 2024-12-24 02:15:23.778099
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
+| [CVE-2024-11003](https://www.cve.org/CVERecord?id=CVE-2024-11003) | [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC) | CVE-2024-11003 Perl Poc | 2024-11-28T06:13:42Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass | 2024-11-14T16:59:52Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [MattJButler/CVE-2024-10924](https://github.com/MattJButler/CVE-2024-10924) | Simple Python script | 2024-11-19T03:06:49Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [m3ssap0/wordpress-really-simple-security-authn-bypass-exploit](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-exploit) | Exploits Really Simple Security &lt; 9.1.2 authentication bypass (CVE-2024-10924). | 2024-11-19T10:07:28Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Really Simple Security &lt; 9.1.2 authentication bypass (CVE-2024-10924). Run it at your own risk! | 2024-11-18T20:37:07Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker) | Vulnerable docker container for Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass CVE-2023-50164 | 2024-11-20T16:50:24Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Maalfer/CVE-2024-10924-PoC](https://github.com/Maalfer/CVE-2024-10924-PoC) | Bypass del MFA en WordPress con el plugin Really Simple Security instalado entre las versiones 9.0.0 – 9.1.1.1. | 2024-11-27T11:19:47Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [ThemeHackers/CVE-2024-10914](https://github.com/ThemeHackers/CVE-2024-10914) | CVE-2024-10914 is a critical command injection vulnerability affecting several legacy D-Link Network Attached Storage (NAS) devices. | 2024-11-16T16:32:05Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [verylazytech/CVE-2024-10914](https://github.com/verylazytech/CVE-2024-10914) | POC - CVE-2024–10914- Command Injection Vulnerability in `name` parameter for D-Link NAS | 2024-11-10T12:01:21Z |
+| [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [K3ysTr0K3R/CVE-2024-10914-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT) | A PoC exploit for CVE-2024-10914 - D-Link Remote Code Execution (RCE) | 2024-11-27T23:10:20Z |
+| [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [retuci0/cve-2024-10914-port](https://github.com/retuci0/cve-2024-10914-port) | dlink vulnerability thing in python and rust | 2024-11-27T19:11:55Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
