@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-25 02:13:39.078355
+Last generated: 2024-12-26 02:14:20.124127
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -65,6 +65,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-8275](https://www.cve.org/CVERecord?id=CVE-2024-8275) | [whiterose7777/CVE-2024-8275](https://github.com/whiterose7777/CVE-2024-8275) | no description | 2024-11-11T08:53:27Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190) | CVE-2024-8190: Ivanti Cloud Service Appliance Command Injection | 2024-09-16T15:33:46Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [tequilasunsh1ne/ivanti_CVE_2024_8190](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_8190) | no description | 2024-10-08T09:35:01Z |
+| [CVE-2024-8069](https://www.cve.org/CVERecord?id=CVE-2024-8069) | [XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN) | Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE | 2024-11-13T02:50:56Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7988](https://www.cve.org/CVERecord?id=CVE-2024-7988) | [hatvix1/CVE-2024-7988-Private-POC](https://github.com/hatvix1/CVE-2024-7988-Private-POC) | CVE-2024-7988-Private-POC | 2024-11-03T13:22:45Z |
 | [CVE-2024-7965](https://www.cve.org/CVERecord?id=CVE-2024-7965) | [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965) | This repository contains PoC for CVE-2024-7965. This is the vulnerability in the V8 that occurs only within ARM64. | 2024-09-16T19:04:57Z |
@@ -244,6 +245,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
+| [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
@@ -688,6 +690,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39205](https://www.cve.org/CVERecord?id=CVE-2024-39205) | [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE) | Pyload RCE with js2py sandbox escape | 2024-10-26T01:01:35Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
+| [CVE-2024-39090](https://www.cve.org/CVERecord?id=CVE-2024-39090) | [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC) | This PoC script exploits CVE-2024-39090, a CSRF to Stored XSS vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates CSRF attacks to inject persistent JavaScript payloads, which execute when a privileged user accesses the affected page, enabling actions such as session hijacking or credential theft. | 2024-11-27T14:55:58Z |
 | [CVE-2024-39081](https://www.cve.org/CVERecord?id=CVE-2024-39081) | [Amirasaiyad/BLE-TPMS](https://github.com/Amirasaiyad/BLE-TPMS) | CVE-2024-39081. BLE TPMS data manipulation over bluetooth communication. | 2024-04-05T05:13:27Z |
 | [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
 | [CVE-2024-39031](https://www.cve.org/CVERecord?id=CVE-2024-39031) | [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031) | Stored Cross-Side Scripting (XSS) leads to privilege escalation in SilverPeas social-networking portal | 2024-07-08T23:21:52Z |
@@ -849,6 +852,8 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-35315](https://www.cve.org/CVERecord?id=CVE-2024-35315) | [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC) | Mitel Collab Local Privilege Escalation CVE-2024-35315 PoC | 2024-06-03T14:29:35Z |
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF) | Cobalt Strike 的 CVE-2024-35250 的 BOF。(请给我加个星，谢谢。) | 2024-10-15T07:23:47Z |
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF) | Cobalt Strike 的 CVE-2024-35250 的 BOF。(请给我加个星，谢谢。) | 2024-10-25T10:06:09Z |
+| [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250) | PoC for the Untrusted Pointer Dereference in the ks.sys driver | 2024-10-13T19:30:20Z |
+| [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF) | CVE-2024-35250 的 Beacon Object File (BOF) 实现。 | 2024-11-23T12:12:00Z |
 | [CVE-2024-35242](https://www.cve.org/CVERecord?id=CVE-2024-35242) | [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242) | A test repository for the vulnerability CVE-2024-35242&#x27;s PoC | 2024-07-15T15:01:31Z |
 | [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205) | [cyb3r-w0lf/Dirty_Stream-Android-POC](https://github.com/cyb3r-w0lf/Dirty_Stream-Android-POC) | Dirty Stream exploit for MI-File Explorer V1-210567 version. CVE-2024-35205 | 2024-06-17T08:10:47Z |
 | [CVE-2024-35133](https://www.cve.org/CVERecord?id=CVE-2024-35133) | [Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133](https://github.com/Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133) | Security Bulletin for CVE-2024-35133 - With PoC | 2024-10-18T09:49:27Z |
@@ -1751,6 +1756,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113) | no description | 2024-10-31T07:44:06Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113) | no description | 2024-11-15T13:23:19Z |
 | [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp) | CVE-2024-23113 是一个严重的安全漏洞，影响 Fortinet 的多款产品，包括 FortiOS、FortiProxy、FortiPAM 和 FortiSwitchManager。该漏洞允许未经身份验证的远程攻击者通过特制的请求，在受影响的设备上执行任意代码或命令，可能导致系统被完全控制。 | 2024-11-22T01:46:58Z |
+| [CVE-2024-23113](https://www.cve.org/CVERecord?id=CVE-2024-23113) | [XiaomingX/cve-2024-23113-poc](https://github.com/XiaomingX/cve-2024-23113-poc) | CVE-2024-23113 是一个在 Linux Kernel 中被发现的漏洞，它属于 任意代码执行漏洞，影响了 bpf (Berkeley Packet Filter) 子系统。具体来说，这个漏洞影响了 bpf 程序的 bpf_prog 类型的对象，并且可以允许攻击者通过构造恶意的 BPF 程序来在内核空间执行恶意代码。 | 2024-11-28T06:30:02Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108) | CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection | 2024-05-20T14:34:09Z |
 | [CVE-2024-23108](https://www.cve.org/CVERecord?id=CVE-2024-23108) | [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108) | POC iteration for CVE-2024-23108 which can use -l for list input | 2024-05-28T17:21:11Z |
 | [CVE-2024-23002](https://www.cve.org/CVERecord?id=CVE-2024-23002) | [xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002) | this is test POC for git_rce | 2024-07-07T12:55:29Z |
@@ -1837,6 +1843,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) | CVE-2024-21683 Confluence Post Auth RCE | 2024-05-23T09:05:40Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE) | no description | 2024-05-27T11:14:54Z |
 | [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683) | no description | 2024-06-04T12:00:00Z |
+| [CVE-2024-21683](https://www.cve.org/CVERecord?id=CVE-2024-21683) | [XiaomingX/cve-2024-21683-rce](https://github.com/XiaomingX/cve-2024-21683-rce) | CVE-2024-21683 Confluence Post Auth RCE | 2024-11-29T13:27:37Z |
 | [CVE-2024-21650](https://www.cve.org/CVERecord?id=CVE-2024-21650) | [codeb0ss/CVE-2024-21650-PoC](https://github.com/codeb0ss/CVE-2024-21650-PoC) | Mass Exploit - CVE-2024-21650 - XWiki &lt; Remote code execution (RCE) | 2024-06-28T16:00:42Z |
 | [CVE-2024-21644](https://www.cve.org/CVERecord?id=CVE-2024-21644) | [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc) | no description | 2024-03-30T01:00:31Z |
 | [CVE-2024-21633](https://www.cve.org/CVERecord?id=CVE-2024-21633) | [0x33c0unt/CVE-2024-21633](https://github.com/0x33c0unt/CVE-2024-21633) | MobSF Remote code execution (via CVE-2024-21633) | 2024-01-07T21:34:09Z |
@@ -1856,6 +1863,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-21626](https://www.cve.org/CVERecord?id=CVE-2024-21626) | [adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke) | Some scripts to simulate an attack (used for CVE-2024-21626) | 2024-11-22T21:55:11Z |
 | [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [XiaomingX/cve-2024-21534-poc](https://github.com/XiaomingX/cve-2024-21534-poc) | jsonpath-plus 包（版本 &lt;=10.0.7）存在严重的远程代码执行（RCE）漏洞，允许攻击者通过 Node.js 的 VM 模块执行任意代码。该漏洞由于输入验证不严格导致，影响版本为 10.0.7 以下，CVSS 分数为 9.8（极其严重）。漏洞首次公开于 2024 年 10 月 11 日。 | 2024-11-23T05:54:24Z |
 | [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534) | Proof-of-concept (PoC) exploit for JSONPath-plus vulnerability | 2024-11-13T07:56:10Z |
+| [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [verylazytech/cve-2024-21534](https://github.com/verylazytech/cve-2024-21534) | POC - CVE-2024-21534 Jsonpath-plus vulnerable to Remote Code Execution (RCE) due to improper input sanitization | 2024-11-28T17:47:53Z |
 | [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
@@ -1970,6 +1978,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-1301](https://www.cve.org/CVERecord?id=CVE-2024-1301) | [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection) | POC Badgermeter moni tool - CVE-2024-1301 | 2024-02-08T09:08:05Z |
 | [CVE-2024-12883](https://www.cve.org/CVERecord?id=CVE-2024-12883) | [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883) | no description | 2024-03-14T21:40:40Z |
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
+| [CVE-2024-12345](https://www.cve.org/CVERecord?id=CVE-2024-12345) | [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC) | no description | 2024-11-29T11:04:57Z |
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212) | Unauthenticated Command Injection In Progress Kemp LoadMaster | 2024-03-19T22:23:18Z |
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [nak000/CVE-2024-1212](https://github.com/nak000/CVE-2024-1212) | no description | 2024-09-04T16:50:08Z |
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z |
@@ -2037,6 +2046,7 @@ Last generated: 2024-12-25 02:13:39.078355
 | [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
 | [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks) | CVE-2024-10220 Test repo | 2024-11-21T06:59:21Z |
+| [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [any2sec/cve-2024-10220](https://github.com/any2sec/cve-2024-10220) | no description | 2024-11-29T09:20:30Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
