@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-26 02:14:20.124127
+Last generated: 2024-12-27 02:15:19.474123
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -261,6 +261,7 @@ Last generated: 2024-12-26 02:14:20.124127
 | [CVE-2024-52429](https://www.cve.org/CVERecord?id=CVE-2024-52429) | [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) | WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation | 2024-11-22T10:26:55Z |
 | [CVE-2024-52382](https://www.cve.org/CVERecord?id=CVE-2024-52382) | [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) | Matix Popup Builder &lt;= 1.0.0 - Unauthenticated Arbitrary Options Update | 2024-11-21T16:19:12Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380) | Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-25T14:56:38Z |
+| [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380) | no description | 2024-11-30T02:43:11Z |
 | [CVE-2024-52318](https://www.cve.org/CVERecord?id=CVE-2024-52318) | [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318) | CVE-2024-52318 - Apache Tomcat XSS Vulnerability in Generated JSPs | 2024-11-21T06:38:48Z |
 | [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
 | [CVE-2024-52316](https://www.cve.org/CVERecord?id=CVE-2024-52316) | [TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316) | CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability | 2024-11-20T10:22:50Z |
@@ -2039,6 +2040,7 @@ Last generated: 2024-12-26 02:14:20.124127
 | [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508) | no description | 2024-11-19T02:47:59Z |
 | [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [Jenderal92/CVE-2024-10508](https://github.com/Jenderal92/CVE-2024-10508) | This tool scans WordPress sites for vulnerabilities in the &quot;RegistrationMagic&quot; plugin (CVE-2024-10508). It checks for the presence of a specific version (`6.0.2.6`) and marks the site as vulnerable if found. The results are saved in a file (`vuln.txt`) for further analysis. | 2024-11-21T04:32:19Z |
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470) | WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion | 2024-11-08T19:47:34Z |
+| [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [0xshoriful/CVE-2024-10470](https://github.com/0xshoriful/CVE-2024-10470) | no description | 2024-11-30T02:45:52Z |
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
 | [CVE-2024-10410](https://www.cve.org/CVERecord?id=CVE-2024-10410) | [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410) | no description | 2024-10-25T14:15:56Z |
@@ -2574,6 +2576,7 @@ Last generated: 2024-12-26 02:14:20.124127
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [terrorist/HTTP-2-Rapid-Reset-Client](https://github.com/terrorist/HTTP-2-Rapid-Reset-Client) | A tool to check how well a system can handle Rapid Reset DDoS attacks (CVE-2023-44487). | 2023-11-24T18:26:36Z |
 | [CVE-2023-45828](https://www.cve.org/CVERecord?id=CVE-2023-45828) | [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828) | RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest | 2023-10-17T08:41:54Z |
+| [CVE-2023-45827](https://www.cve.org/CVERecord?id=CVE-2023-45827) | [200101WhoAmI/CVE-2023-45827](https://github.com/200101WhoAmI/CVE-2023-45827) | pp | 2024-08-21T04:40:33Z |
 | [CVE-2023-45779](https://www.cve.org/CVERecord?id=CVE-2023-45779) | [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779) | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | 2024-01-26T21:17:38Z |
 | [CVE-2023-4568](https://www.cve.org/CVERecord?id=CVE-2023-4568) | [Cappricio-Securities/CVE-2023-4568](https://github.com/Cappricio-Securities/CVE-2023-4568) | PaperCut NG Unauthenticated XMLRPC Functionality | 2024-05-20T17:41:47Z |
 | [CVE-2023-45657](https://www.cve.org/CVERecord?id=CVE-2023-45657) | [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657) | Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via &#x27;to&#x27; and &#x27;from&#x27; | 2023-10-20T12:01:15Z |
