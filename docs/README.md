@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-27 02:15:19.474123
+Last generated: 2024-12-28 02:12:05.554512
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -268,6 +268,7 @@ Last generated: 2024-12-27 02:15:19.474123
 | [CVE-2024-52302](https://www.cve.org/CVERecord?id=CVE-2024-52302) | [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302) | common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE) | 2024-11-14T16:04:00Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301) | no description | 2024-11-14T18:41:31Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research) | A bit of research around CVE-2024-52301 | 2024-11-15T19:11:35Z |
+| [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301) | Arbitrary Argument Injection Scanner CVE-2024-52301 | 2024-11-30T04:25:06Z |
 | [CVE-2024-51747](https://www.cve.org/CVERecord?id=CVE-2024-51747) | [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) | no description | 2024-11-15T03:40:49Z |
 | [CVE-2024-51665](https://www.cve.org/CVERecord?id=CVE-2024-51665) | [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665) | Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery | 2024-11-10T12:01:52Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
@@ -959,6 +960,7 @@ Last generated: 2024-12-27 02:15:19.474123
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder) | Find rows contain specific IP addresses in large files and then, extract them. This tool make for investigating logs for cve-2024-3400 | 2024-05-15T15:50:32Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) | CVE-2024-3400 PAN-OS Vulnerability Scanner. | 2024-11-30T05:47:12Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33901](https://www.cve.org/CVERecord?id=CVE-2024-33901) | [gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept) | Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7 | 2024-11-24T05:43:27Z |
 | [CVE-2024-33896](https://www.cve.org/CVERecord?id=CVE-2024-33896) | [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC) | Proof of concept CVE-2024-33896 | 2024-08-20T13:49:15Z |
@@ -2297,6 +2299,7 @@ Last generated: 2024-12-27 02:15:19.474123
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387) | KeyTrap (DNSSEC) | 2024-02-18T21:50:04Z |
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [Meirelez/SSR-DNSSEC](https://github.com/Meirelez/SSR-DNSSEC) | In this repository you can find the files used to try to produce a POC for the CVE-2023-50387 | 2024-05-23T14:41:50Z |
 | [CVE-2023-50386](https://www.cve.org/CVERecord?id=CVE-2023-50386) | [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC) | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | 2024-02-29T08:57:47Z |
+| [CVE-2023-50245](https://www.cve.org/CVERecord?id=CVE-2023-50245) | [200101WhoAmI/CVE-2023-50245](https://github.com/200101WhoAmI/CVE-2023-50245) | exr viewer | 2024-08-21T04:49:18Z |
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [bcdannyboy/CVE-2023-50164](https://github.com/bcdannyboy/CVE-2023-50164) | A scanning utility and PoC for CVE-2023-50164 | 2023-12-15T21:19:51Z |
@@ -7455,3 +7458,4 @@ Last generated: 2024-12-27 02:15:19.474123
 | CVE NOT FOUND | [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111) | no description | 2024-11-19T06:02:34Z |
 | CVE NOT FOUND | [CamilaGL/CVET-2023-Comparative](https://github.com/CamilaGL/CVET-2023-Comparative) | no description | 2024-08-14T13:09:46Z |
 | CVE NOT FOUND | [gh-ost00/CVE-2024-Collection](https://github.com/gh-ost00/CVE-2024-Collection) | &quot;Collection of CVE PoCs for WordPress plugins - for educational and research purposes only.&quot; | 2024-11-24T00:11:23Z |
+| CVE NOT FOUND | [CNK2100/2024-CVE](https://github.com/CNK2100/2024-CVE) | Reference file for vulnerability description | 2024-11-28T08:35:33Z |
