@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-28 02:12:05.554512
+Last generated: 2024-12-29 02:21:59.346136
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -251,6 +251,7 @@ Last generated: 2024-12-28 02:12:05.554512
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
 | [CVE-2024-53255](https://www.cve.org/CVERecord?id=CVE-2024-53255) | [0x4M3R/CVE-2024-53255](https://github.com/0x4M3R/CVE-2024-53255) | boid CMS 2.1.1 - reflected Cross-Site Scripting (XSS) | 2024-11-26T09:41:54Z |
 | [CVE-2024-52940](https://www.cve.org/CVERecord?id=CVE-2024-52940) | [ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector) | CVE-2024-52940 - A zero-day vulnerability in AnyDesk&#x27;s &quot;Allow Direct Connections&quot; feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages. | 2024-10-27T15:29:56Z |
+| [CVE-2024-52800](https://www.cve.org/CVERecord?id=CVE-2024-52800) | [JAckLosingHeart/GHSA-4cx5-89vm-833x-POC](https://github.com/JAckLosingHeart/GHSA-4cx5-89vm-833x-POC) | GHSA-4cx5-89vm-833x/CVE-2024-52800 | 2024-11-30T06:55:07Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) | Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities | 2024-07-10T02:15:56Z |
 | [CVE-2024-5274](https://www.cve.org/CVERecord?id=CVE-2024-5274) | [mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274) | no description | 2024-08-29T11:58:25Z |
 | [CVE-2024-52711](https://www.cve.org/CVERecord?id=CVE-2024-52711) | [14mb1v45h/cyberspace-CVE-2024-52711](https://github.com/14mb1v45h/cyberspace-CVE-2024-52711) | POC-Proof-of-exploit CVE-2024-52711 | 2024-11-19T14:55:16Z |
@@ -303,6 +304,7 @@ Last generated: 2024-12-28 02:12:05.554512
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084) | no description | 2024-06-06T03:25:44Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084) | PoC Exploit for CVE-2024-5084 | 2024-07-03T04:24:43Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [z1gazaga/CVE-2024-5084](https://github.com/z1gazaga/CVE-2024-5084) | Материалы для научной работы | 2024-11-21T06:26:21Z |
+| [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Raeezrbr/CVE-2024-5084](https://github.com/Raeezrbr/CVE-2024-5084) | no description | 2024-11-30T09:15:34Z |
 | [CVE-2024-50804](https://www.cve.org/CVERecord?id=CVE-2024-50804) | [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804) | MSI Center Pro 2.1.37.0 - CVE-2024-50804 | 2024-11-04T15:38:19Z |
 | [CVE-2024-50803](https://www.cve.org/CVERecord?id=CVE-2024-50803) | [Praison001/CVE-2024-50803-Redaxo](https://github.com/Praison001/CVE-2024-50803-Redaxo) | Stored XSS in mediapool feature of Redaxo | 2024-11-15T17:05:04Z |
 | [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
@@ -2668,6 +2670,7 @@ Last generated: 2024-12-28 02:12:05.554512
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [lon5948/CVE-2023-4357-Exploitation](https://github.com/lon5948/CVE-2023-4357-Exploitation) | Network Security Project | 2024-03-17T08:48:19Z |
 | [CVE-2023-4357](https://www.cve.org/CVERecord?id=CVE-2023-4357) | [CamillaFranceschini/CVE-2023-4357](https://github.com/CamillaFranceschini/CVE-2023-4357) | no description | 2024-06-20T13:20:43Z |
 | [CVE-2023-4350](https://www.cve.org/CVERecord?id=CVE-2023-4350) | [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350) | creating an hack for that cve as a research and attack | 2023-09-11T14:09:48Z |
+| [CVE-2023-43494](https://www.cve.org/CVERecord?id=CVE-2023-43494) | [mqxmm/CVE-2023-43494](https://github.com/mqxmm/CVE-2023-43494) | Jenkins 2.50 through 2.423 (both inclusive), LTS 2.60.1 through 2.414.1 (both inclusive) File Read | 2024-08-21T19:26:09Z |
 | [CVE-2023-43482](https://www.cve.org/CVERecord?id=CVE-2023-43482) | [Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482) | TP-Link ER7206 Omada Gigabit VPN Router uhttpd freeStrategy Command injection Vulnerability | 2024-03-31T02:04:34Z |
 | [CVE-2023-43364](https://www.cve.org/CVERecord?id=CVE-2023-43364) | [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE) | no description | 2024-04-26T03:09:09Z |
 | [CVE-2023-43360](https://www.cve.org/CVERecord?id=CVE-2023-43360) | [sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension) | Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu. | 2023-09-17T12:06:56Z |
