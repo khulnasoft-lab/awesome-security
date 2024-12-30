@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-29 02:21:59.346136
+Last generated: 2024-12-30 02:17:36.726975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -540,6 +540,7 @@ Last generated: 2024-12-29 02:21:59.346136
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346) | Public Disclosure | 2024-09-13T10:27:23Z |
 | [CVE-2024-44337](https://www.cve.org/CVERecord?id=CVE-2024-44337) | [Brinmon/CVE-2024-44337](https://github.com/Brinmon/CVE-2024-44337) | CVE-2024-44337 POC  The package `github.com/gomarkdown/markdown` is a Go library for parsing Markdown text and rendering as HTML. which allowed a remote attacker to cause a denial of service (DoS) condition by providing a tailor-made input that caused an infinite loop, causing the program to hang and consume resources indefinitely. | 2024-10-15T13:44:20Z |
+| [CVE-2024-44285](https://www.cve.org/CVERecord?id=CVE-2024-44285) | [slds1/explt](https://github.com/slds1/explt) | App for CVE-2024-44285 | 2024-11-30T13:22:05Z |
 | [CVE-2024-44258](https://www.cve.org/CVERecord?id=CVE-2024-44258) | [ifpdz/CVE-2024-44258](https://github.com/ifpdz/CVE-2024-44258) | CVE-2024-44258 | 2024-10-29T09:45:03Z |
 | [CVE-2024-44193](https://www.cve.org/CVERecord?id=CVE-2024-44193) | [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193) | Hacking Windows through iTunes  - Local Privilege Escalation 0-day | 2024-10-04T14:20:15Z |
 | [CVE-2024-44133](https://www.cve.org/CVERecord?id=CVE-2024-44133) | [Ununp3ntium115/prevent_cve_2024_44133](https://github.com/Ununp3ntium115/prevent_cve_2024_44133) | prevent_cve_2024_44133 | 2024-11-09T21:30:04Z |
@@ -842,6 +843,7 @@ Last generated: 2024-12-29 02:21:59.346136
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401) | no description | 2024-10-14T15:57:06Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc) | CVE-2024-36401是GeoServer中的一个高危远程代码执行漏洞。GeoServer是一款开源的地理数据服务器软件，主要用于发布、共享和处理各种地理空间数据。  ALIYUN  漏洞原理： 该漏洞源于GeoServer在处理属性名称时，将其不安全地解析为XPath表达式。具体而言，GeoServer调用的GeoTools库API在评估要素类型的属性名称时，以不安全的方式将其传递给commons-jxpath库。由于commons-jxpath库在解析XPath表达式时允许执行任意代码，攻击者可以通过构造特定的输入，利用多个OGC请求参数（如WFS GetFeature、WFS GetPropertyValue、WMS GetMap等），在未经身份验证的情况下远程执行任意代码。 | 2024-11-22T14:21:53Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin) | CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件 | 2024-11-22T03:57:12Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401) | CVE-2024-36401 (GeoServer Remote Code Execution) | 2024-11-27T19:13:49Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
@@ -1998,6 +2000,7 @@ Last generated: 2024-12-29 02:21:59.346136
 | [CVE-2024-11387](https://www.cve.org/CVERecord?id=CVE-2024-11387) | [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387) | CVE-2024-11387 poc exploit | 2024-11-24T22:14:03Z |
 | [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
 | [CVE-2024-11318](https://www.cve.org/CVERecord?id=CVE-2024-11318) | [xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) | This repository details an IDOR vulnerability in AbsysNet 2.3.1, which allows a remote attacker to brute-force session IDs via the /cgi-bin/ocap/ endpoint. Successful exploitation can compromise active user sessions, exposing authentication tokens in HTML. The attack is limited to active sessions and is terminated if the user logs out. | 2024-05-21T18:35:35Z |
+| [CVE-2024-11252](https://www.cve.org/CVERecord?id=CVE-2024-11252) | [reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS](https://github.com/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS) | no description | 2024-11-30T14:20:57Z |
 | [CVE-2024-11201](https://www.cve.org/CVERecord?id=CVE-2024-11201) | [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) | TEST | 2024-11-23T09:00:58Z |
 | [CVE-2024-11199](https://www.cve.org/CVERecord?id=CVE-2024-11199) | [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199) | CVE-2024-11199 poc exploit | 2024-11-23T21:43:20Z |
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
