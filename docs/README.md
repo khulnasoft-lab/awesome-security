@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-30 02:17:36.726975
+Last generated: 2024-12-31 02:14:10.102362
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -608,6 +608,7 @@ Last generated: 2024-12-30 02:17:36.726975
 | [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library (npm:bower) | 2024-11-19T23:54:30Z |
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
 | [CVE-2024-42346](https://www.cve.org/CVERecord?id=CVE-2024-42346) | [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346) | CVE-2024-42346 POC | 2024-11-18T18:31:03Z |
+| [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327) | cve-2024-42327 ZBX-25623 | 2024-12-01T00:15:27Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -2056,6 +2057,7 @@ Last generated: 2024-12-30 02:17:36.726975
 | [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks) | CVE-2024-10220 Test repo | 2024-11-21T06:59:21Z |
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [any2sec/cve-2024-10220](https://github.com/any2sec/cve-2024-10220) | no description | 2024-11-29T09:20:30Z |
+| [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [XiaomingX/cve-2024-10220-githooks](https://github.com/XiaomingX/cve-2024-10220-githooks) | CVE-2024-10220 Test repo | 2024-12-01T05:15:25Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
@@ -2812,6 +2814,7 @@ Last generated: 2024-12-30 02:17:36.726975
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425) | WonderCMS Authenticated RCE - CVE-2023-41425 | 2023-11-05T15:06:43Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425) | WonderCMS RCE CVE-2023-41425 | 2024-08-12T06:16:17Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [charlesgargasson/CVE-2023-41425](https://github.com/charlesgargasson/CVE-2023-41425) | Wonder CMS RCE (XSS) | 2024-08-11T16:43:56Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [SpycioKon/CVE-2023-41425](https://github.com/SpycioKon/CVE-2023-41425) | Research | 2024-08-22T23:27:48Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
 | [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z |
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z |
@@ -3491,6 +3494,7 @@ Last generated: 2024-12-30 02:17:36.726975
 | [CVE-2023-30146](https://www.cve.org/CVERecord?id=CVE-2023-30146) | [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146) | Some Assmann manufactured IP-Cams leak the administrator password in their backup. | 2023-06-08T18:18:47Z |
 | [CVE-2023-3009](https://www.cve.org/CVERecord?id=CVE-2023-3009) | [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009) | Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi | 2023-05-31T16:23:23Z |
 | [CVE-2023-30033](https://www.cve.org/CVERecord?id=CVE-2023-30033) | [phucodeexp/CVE-2023-30033](https://github.com/phucodeexp/CVE-2023-30033) | no description | 2023-10-24T02:23:03Z |
+| [CVE-2023-29929](https://www.cve.org/CVERecord?id=CVE-2023-29929) | [YSaxon/CVE-2023-29929](https://github.com/YSaxon/CVE-2023-29929) | no description | 2023-04-14T15:41:12Z |
 | [CVE-2023-29923](https://www.cve.org/CVERecord?id=CVE-2023-29923) | [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923) | PowerJob V4.3.1 Unauthorized Vulnerability Exploit | 2023-05-29T05:48:35Z |
 | [CVE-2023-29922](https://www.cve.org/CVERecord?id=CVE-2023-29922) | [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-) | Powerjob 未授权访问漏洞(CVE-2023-29922) | 2023-10-10T08:35:00Z |
 | [CVE-2023-2986](https://www.cve.org/CVERecord?id=CVE-2023-2986) | [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986) | Proof of Concept for vulnerability CVE-2023-2986 in &#x27;Abandoned Cart Lite for WooCommerce&#x27; Plugin in WordPress | 2023-06-09T17:44:09Z |
