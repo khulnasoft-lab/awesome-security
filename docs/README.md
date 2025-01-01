@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2024-12-31 02:14:10.102362
+Last generated: 2025-01-01 02:22:08.499433
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -358,6 +358,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing) | Testing POC for use cases | 2024-11-24T07:33:06Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC) | My take on the needrestart Python CVE-2024-48990 | 2024-11-24T02:12:36Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [ally-petitt/CVE-2024-48990-Exploit](https://github.com/ally-petitt/CVE-2024-48990-Exploit) | My exploit for CVE-2024-48990. Full details of how I made this are on my blog. | 2024-11-25T05:28:20Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [r0xdeadbeef/CVE-2024-48990](https://github.com/r0xdeadbeef/CVE-2024-48990) | Needrestart, prior to version 3.8, contains a vulnerability that allows local attackers to execute arbitrary code with root privileges. This is achieved by manipulating the PYTHONPATH environment variable to trick needrestart into running the Python interpreter in an unsafe context. | 2024-12-01T16:26:44Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -1190,6 +1191,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094) | Basic POC to test CVE-2024-3094 vulnerability inside K8s cluster | 2024-06-11T14:19:17Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094) | SSH EXPLOIT BYPASS AUTH SSH | 2024-07-05T12:02:10Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up) | GNU IFUNC is the real culprit behind CVE-2024-3094 | 2024-07-05T18:36:16Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [XiaomingX/cve-2024-3094-xz-backdoor-exploit](https://github.com/XiaomingX/cve-2024-3094-xz-backdoor-exploit) | CVE-2024-3094 (XZ Backdoor) Tools | 2024-12-01T05:22:08Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30875](https://www.cve.org/CVERecord?id=CVE-2024-30875) | [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875) | Reflected Cross Site Scripting - RXSS | 2024-09-03T07:11:08Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
@@ -1782,6 +1784,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2024-22853](https://www.cve.org/CVERecord?id=CVE-2024-22853) | [FaLLenSKiLL1/CVE-2024-22853](https://github.com/FaLLenSKiLL1/CVE-2024-22853) | D-LINK Go-RT-AC750 GORTAC750_A1_FW_v101b03 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session. | 2024-06-29T10:21:11Z |
 | [CVE-2024-22774](https://www.cve.org/CVERecord?id=CVE-2024-22774) | [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774) | Panoramic Dental Imaging software Stealthy Privilege Escalation Vulnerability | 2024-03-24T05:59:57Z |
 | [CVE-2024-22752](https://www.cve.org/CVERecord?id=CVE-2024-22752) | [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752) | EaseUS MobiMover 6.0.5 Build 21620 - Insecure Files and Folders Permissions | 2024-03-05T09:54:00Z |
+| [CVE-2024-22734](https://www.cve.org/CVERecord?id=CVE-2024-22734) | [securekomodo/CVE-2024-22734](https://github.com/securekomodo/CVE-2024-22734) | Exploit POC for CVE-2024-22734 affecting AMCS Trux Software | 2024-12-01T17:47:16Z |
 | [CVE-2024-22678](https://www.cve.org/CVERecord?id=CVE-2024-22678) | [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678) | no description | 2024-01-29T00:19:48Z |
 | [CVE-2024-22676](https://www.cve.org/CVERecord?id=CVE-2024-22676) | [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676) | no description | 2024-01-29T00:19:06Z |
 | [CVE-2024-22675](https://www.cve.org/CVERecord?id=CVE-2024-22675) | [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675) | no description | 2024-01-29T00:17:51Z |
@@ -2000,6 +2003,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2024-11388](https://www.cve.org/CVERecord?id=CVE-2024-11388) | [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388) | CVE-2024-11388 poc exploit | 2024-11-22T16:48:21Z |
 | [CVE-2024-11387](https://www.cve.org/CVERecord?id=CVE-2024-11387) | [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387) | CVE-2024-11387 poc exploit | 2024-11-24T22:14:03Z |
 | [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
+| [CVE-2024-11320](https://www.cve.org/CVERecord?id=CVE-2024-11320) | [mhaskar/CVE-2024-11320](https://github.com/mhaskar/CVE-2024-11320) | Exploit for Pandora FMS Remote Code Execution CVE-2024-11320 | 2024-12-01T12:39:49Z |
 | [CVE-2024-11318](https://www.cve.org/CVERecord?id=CVE-2024-11318) | [xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) | This repository details an IDOR vulnerability in AbsysNet 2.3.1, which allows a remote attacker to brute-force session IDs via the /cgi-bin/ocap/ endpoint. Successful exploitation can compromise active user sessions, exposing authentication tokens in HTML. The attack is limited to active sessions and is terminated if the user logs out. | 2024-05-21T18:35:35Z |
 | [CVE-2024-11252](https://www.cve.org/CVERecord?id=CVE-2024-11252) | [reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS](https://github.com/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS) | no description | 2024-11-30T14:20:57Z |
 | [CVE-2024-11201](https://www.cve.org/CVERecord?id=CVE-2024-11201) | [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) | TEST | 2024-11-23T09:00:58Z |
@@ -3513,6 +3517,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [some-man1/CVE-2023-29489](https://github.com/some-man1/CVE-2023-29489) | # CVE-2023-29489 exploit | 2024-04-14T08:29:22Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489) | CVE-2023-29489 is a vulnerability to exploitable in cross-site scripting ( xss ) reflect the cpanel | 2024-05-30T07:20:09Z |
 | [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [Cappricio-Securities/CVE-2023-29489](https://github.com/Cappricio-Securities/CVE-2023-29489) | An issue was discovered in cPanel before 11.109.9999.116. Cross-Site Scripting can occur on the cpsrvd error page via an invalid webcall ID. | 2024-04-21T12:26:22Z |
+| [CVE-2023-29489](https://www.cve.org/CVERecord?id=CVE-2023-29489) | [0-d3y/CVE-2023-29489](https://github.com/0-d3y/CVE-2023-29489) | Mass Scaning vulnerability in Cpanel [XSS] | 2023-05-17T20:46:59Z |
 | [CVE-2023-29478](https://www.cve.org/CVERecord?id=CVE-2023-29478) | [Exopteron/BiblioRCE](https://github.com/Exopteron/BiblioRCE) | CVE-2023-29478 - BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | 2022-10-27T06:17:24Z |
 | [CVE-2023-29439](https://www.cve.org/CVERecord?id=CVE-2023-29439) | [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439) | PoC of CVE-2023-29439 | 2023-07-05T13:04:39Z |
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
@@ -4837,6 +4842,7 @@ Last generated: 2024-12-31 02:14:10.102362
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [DDayLuong/CVE-2021-3156](https://github.com/DDayLuong/CVE-2021-3156) | no description | 2023-12-27T03:52:17Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [DASICS-ICT/DASICS-CVE-2021-3156](https://github.com/DASICS-ICT/DASICS-CVE-2021-3156) | no description | 2023-12-30T13:22:34Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [wurwur/CVE-2021-3156](https://github.com/wurwur/CVE-2021-3156) | Different files for computer security coursework | 2024-01-22T04:42:34Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156) | no description | 2024-02-12T11:24:31Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
