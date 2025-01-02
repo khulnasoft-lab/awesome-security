@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-01 02:22:08.499433
+Last generated: 2025-01-02 02:13:55.745933
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -515,6 +515,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/HLF_TxTime_spoofing](https://github.com/shanker-sec/HLF_TxTime_spoofing) | PoC covering the problem of transaction time manipulation (CVE-2024-45244) in the Hyperledger Fabric blockchain. | 2024-06-23T14:56:14Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241) | Path Traversal in CentralSquare&#x27;s CryWolf | 2024-08-25T15:57:40Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241) | no description | 2024-09-19T12:43:48Z |
+| [CVE-2024-45216](https://www.cve.org/CVERecord?id=CVE-2024-45216) | [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc) | no description | 2024-12-02T04:09:04Z |
 | [CVE-2024-45200](https://www.cve.org/CVERecord?id=CVE-2024-45200) | [latte-soft/kartlanpwn](https://github.com/latte-soft/kartlanpwn) | Information &amp; PoC for CVE-2024-45200, Mario Kart 8 Deluxe&#x27;s &quot;KartLANPwn&quot; buffer overflow vulnerability | 2024-09-13T00:41:32Z |
 | [CVE-2024-45058](https://www.cve.org/CVERecord?id=CVE-2024-45058) | [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058) | PoC for CVE-2024-45058 Broken Access Control, allowing any user with view permission in the user configuration section to become an administrator changing their own user type. | 2024-08-30T18:44:05Z |
 | [CVE-2024-44947](https://www.cve.org/CVERecord?id=CVE-2024-44947) | [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947) | no description | 2024-09-03T18:37:40Z |
@@ -713,6 +714,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo) | no description | 2024-09-20T02:09:23Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC) | CVE-2024-38816 Proof of Concept | 2024-09-28T23:16:23Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [Galaxy-system/cve-2024-38816](https://github.com/Galaxy-system/cve-2024-38816) | no description | 2024-10-15T11:33:13Z |
+| [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [Anthony1078/App-vulnerable](https://github.com/Anthony1078/App-vulnerable) | CVE-2024-38816 | 2024-12-02T02:14:49Z |
 | [CVE-2024-38812](https://www.cve.org/CVERecord?id=CVE-2024-38812) | [groshi/CVE-2024-38812-POC-5-Hands-Private](https://github.com/groshi/CVE-2024-38812-POC-5-Hands-Private) | CVE-2024-38812 : Critical Heap-Buffer Overflow vulnerability in VMWare vCenter. | 2024-10-24T12:52:49Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
@@ -2133,6 +2135,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [punitdarji/Paloalto-CVE-2024-0012](https://github.com/punitdarji/Paloalto-CVE-2024-0012) | no description | 2024-11-22T20:58:17Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [greaselovely/CVE-2024-0012](https://github.com/greaselovely/CVE-2024-0012) | PANW NGFW CVE-2024-0012 | 2024-11-20T15:35:29Z |
 | [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc) | CVE-2024-0012批量检测脚本 | 2024-11-22T07:52:11Z |
+| [CVE-2024-0012](https://www.cve.org/CVERecord?id=CVE-2024-0012) | [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012) | CVE-2024-0012 PAN-OS: Authentication Bypass in the Management Web Interface (PAN-SA-2024-0015) RCE POC | 2024-11-30T16:06:02Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP) | no description | 2023-12-08T10:01:42Z |
 | [CVE-2024-0001](https://www.cve.org/CVERecord?id=CVE-2024-0001) | [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001) | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method - Add-MpPreference -ExclusionPath &quot;C:\&quot; #Enable Dll = True, Process = Roblox | 2024-03-04T05:40:39Z |
 | [CVE-2023-9999](https://www.cve.org/CVERecord?id=CVE-2023-9999) | [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999) | test | 2023-08-21T12:02:45Z |
@@ -2739,6 +2742,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [hotplugin0x01/CVE-2023-42793](https://github.com/hotplugin0x01/CVE-2023-42793) | JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation | 2024-04-21T13:52:28Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793) | TeamCity CVE-2023-42793 exploit written in Rust | 2024-05-27T03:31:57Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793) | TeamCity RCE for Linux (CVE-2023-42793) | 2024-07-05T17:39:25Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [FlojBoj/CVE-2023-42793](https://github.com/FlojBoj/CVE-2023-42793) | TeamCity CVE-2023-42793 RCE (Remote Code Execution) | 2024-08-24T17:17:21Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
 | [CVE-2023-4278](https://www.cve.org/CVERecord?id=CVE-2023-4278) | [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278) | Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation | 2023-09-04T14:16:32Z |
@@ -3813,6 +3817,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809) | no description | 2023-06-08T18:39:44Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809) | no description | 2024-08-14T07:48:10Z |
+| [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [laxmiyamkolu/SUDO-privilege-escalation](https://github.com/laxmiyamkolu/SUDO-privilege-escalation) | Sudo Privilege Escalation: CVE-2023-22809 Simulation  This project simulates the Sudo privilege escalation vulnerability (CVE-2023-22809) to demonstrate how unauthorized root access can be gained. It involves identifying and exploiting this vulnerability in a controlled environment using Parrot OS, the Sudo command, and Bash scripting. | 2024-08-26T06:27:59Z |
 | [CVE-2023-22622](https://www.cve.org/CVERecord?id=CVE-2023-22622) | [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622) | Python Script that will DoS a WP server that is utilizing WP-CRON | 2024-03-20T13:48:48Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [Mathieuleto/CVE-2023-2255](https://github.com/Mathieuleto/CVE-2023-2255) | exploit from CVE-2023-2255 | 2024-01-19T20:49:31Z |
@@ -4986,6 +4991,7 @@ Last generated: 2025-01-01 02:22:08.499433
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [edsonjt81/CVE-2021-1675](https://github.com/edsonjt81/CVE-2021-1675) | no description | 2021-07-05T12:10:43Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675) | no description | 2022-10-25T06:47:20Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [peckre/PNCVE-Win10-20H2-Exploit](https://github.com/peckre/PNCVE-Win10-20H2-Exploit) | A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675 | 2024-01-17T20:22:29Z |
+| [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [whoami-chmod777/CVE-2021-1675-CVE-2021-34527](https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527) | no description | 2024-02-12T20:54:51Z |
 | [CVE-2021-1366](https://www.cve.org/CVERecord?id=CVE-2021-1366) | [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366) | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | 2023-09-08T09:20:20Z |
 | [CVE-2021-0586](https://www.cve.org/CVERecord?id=CVE-2021-0586) | [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586) | no description | 2022-04-25T07:58:29Z |
 | [CVE-2021-0399](https://www.cve.org/CVERecord?id=CVE-2021-0399) | [nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-](https://github.com/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-) | no description | 2023-03-15T07:52:05Z |
