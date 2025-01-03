@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-02 02:13:55.745933
+Last generated: 2025-01-03 02:15:25.297861
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Last generated: 2025-01-02 02:13:55.745933
 | [CVE-2024-9466](https://www.cve.org/CVERecord?id=CVE-2024-9466) | [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466) | CVE-2024-9466 poc | 2024-10-19T08:22:13Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
+| [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [XiaomingX/cve-2024-9465-poc](https://github.com/XiaomingX/cve-2024-9465-poc) | Proof of Concept Exploit for CVE-2024-9465 | 2024-12-03T12:16:44Z |
 | [CVE-2024-9464](https://www.cve.org/CVERecord?id=CVE-2024-9464) | [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464) | Proof of Concept Exploit for CVE-2024-9464 | 2024-10-09T16:36:25Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
@@ -52,6 +53,7 @@ Last generated: 2025-01-02 02:13:55.745933
 | [CVE-2024-8856](https://www.cve.org/CVERecord?id=CVE-2024-8856) | [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856) | This tool scans WordPress websites for vulnerabilities in the WP Time Capsule plugin related to CVE-2024-8856. It identifies plugin versions below 1.22.22 as vulnerable and logs results to vuln.txt. Simple and efficient, it helps security researchers and admins detect and address risks quickly. | 2024-11-21T04:01:27Z |
 | [CVE-2024-8752](https://www.cve.org/CVERecord?id=CVE-2024-8752) | [D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752) | poc of cve-2024-8752(WebIQ 2.15.9) | 2024-09-19T02:20:48Z |
 | [CVE-2024-8698](https://www.cve.org/CVERecord?id=CVE-2024-8698) | [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC) | i&#x27;m noob with saml and keycloak . J4f | 2024-10-10T11:50:07Z |
+| [CVE-2024-8672](https://www.cve.org/CVERecord?id=CVE-2024-8672) | [Chocapikk/CVE-2024-8672](https://github.com/Chocapikk/CVE-2024-8672) | Widget Options – The #1 WordPress Widget &amp; Block Control Plugin &lt;= 4.0.7 - Authenticated (Contributor+) Remote Code Execution | 2024-12-02T19:59:31Z |
 | [CVE-2024-8529](https://www.cve.org/CVERecord?id=CVE-2024-8529) | [RandomRobbieBF/CVE-2024-8529](https://github.com/RandomRobbieBF/CVE-2024-8529) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_fields&#x27; | 2024-10-12T20:52:32Z |
 | [CVE-2024-8522](https://www.cve.org/CVERecord?id=CVE-2024-8522) | [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522) | LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27; | 2024-09-19T07:04:12Z |
 | [CVE-2024-8517](https://www.cve.org/CVERecord?id=CVE-2024-8517) | [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) | SPIP BigUp Plugin Unauthenticated RCE | 2024-09-06T18:17:18Z |
@@ -280,6 +282,7 @@ Last generated: 2025-01-02 02:13:55.745933
 | [CVE-2024-51378](https://www.cve.org/CVERecord?id=CVE-2024-51378) | [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378) | Exploit for CyberPanel Pre-Auth RCE via Command Injection | 2024-10-29T23:34:27Z |
 | [CVE-2024-51358](https://www.cve.org/CVERecord?id=CVE-2024-51358) | [Kov404/CVE-2024-51358](https://github.com/Kov404/CVE-2024-51358) | no description | 2024-11-02T14:55:00Z |
 | [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124) | no description | 2024-10-30T09:53:42Z |
+| [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [XiaomingX/cve-2024-5124-poc](https://github.com/XiaomingX/cve-2024-5124-poc) | CVE-2024-5124 poc | 2024-12-03T03:18:48Z |
 | [CVE-2024-51179](https://www.cve.org/CVERecord?id=CVE-2024-51179) | [Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179) | no description | 2024-11-08T11:47:07Z |
 | [CVE-2024-51136](https://www.cve.org/CVERecord?id=CVE-2024-51136) | [JAckLosingHeart/CVE-2024-51136-POC](https://github.com/JAckLosingHeart/CVE-2024-51136-POC) | no description | 2024-11-05T02:04:01Z |
 | [CVE-2024-51135](https://www.cve.org/CVERecord?id=CVE-2024-51135) | [JAckLosingHeart/CVE-2024-51135](https://github.com/JAckLosingHeart/CVE-2024-51135) | no description | 2024-11-09T02:57:22Z |
@@ -611,6 +614,7 @@ Last generated: 2025-01-02 02:13:55.745933
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
 | [CVE-2024-42346](https://www.cve.org/CVERecord?id=CVE-2024-42346) | [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346) | CVE-2024-42346 POC | 2024-11-18T18:31:03Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327) | cve-2024-42327 ZBX-25623 | 2024-12-01T00:15:27Z |
+| [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327) | PoC for CVE-2024-42327 / ZBX-25623 | 2024-12-03T12:44:07Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -2021,6 +2025,9 @@ Last generated: 2025-01-02 02:13:55.745933
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Really Simple Security &lt; 9.1.2 authentication bypass (CVE-2024-10924). Run it at your own risk! | 2024-11-18T20:37:07Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker) | Vulnerable docker container for Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass CVE-2023-50164 | 2024-11-20T16:50:24Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Maalfer/CVE-2024-10924-PoC](https://github.com/Maalfer/CVE-2024-10924-PoC) | Bypass del MFA en WordPress con el plugin Really Simple Security instalado entre las versiones 9.0.0 – 9.1.1.1. | 2024-11-27T11:19:47Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Hunt3r850/CVE-2024-10924-Wordpress-Docker](https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker) | no description | 2024-12-03T13:12:58Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Hunt3r850/CVE-2024-10924-PoC](https://github.com/Hunt3r850/CVE-2024-10924-PoC) | no description | 2024-12-03T13:09:46Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB) | no description | 2024-12-01T14:43:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
