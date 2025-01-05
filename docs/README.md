@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-04 02:12:33.712613
+Last generated: 2025-01-05 02:20:54.789287
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -624,6 +624,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
 | [CVE-2024-41992](https://www.cve.org/CVERecord?id=CVE-2024-41992) | [fj016/CVE-2024-41992-PoC](https://github.com/fj016/CVE-2024-41992-PoC) | PoC for the CVE-2024-41992 (RCE on devices running WiFi-TestSuite-DUT) | 2024-08-23T23:48:01Z |
 | [CVE-2024-41958](https://www.cve.org/CVERecord?id=CVE-2024-41958) | [OrangeJuiceHU/CVE-2024-41958-PoC](https://github.com/OrangeJuiceHU/CVE-2024-41958-PoC) | This is a small proof of concept for CVE-2024-41958 | 2024-08-05T19:10:08Z |
+| [CVE-2024-41713](https://www.cve.org/CVERecord?id=CVE-2024-41713) | [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713) | no description | 2024-12-05T06:13:57Z |
 | [CVE-2024-41662](https://www.cve.org/CVERecord?id=CVE-2024-41662) | [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662) | Markdown XSS leads to RCE in VNote version &lt;=3.18.1 | 2024-07-23T17:21:12Z |
 | [CVE-2024-41651](https://www.cve.org/CVERecord?id=CVE-2024-41651) | [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651) | CVE-2024-41651 | 2024-08-08T17:25:30Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
@@ -1131,6 +1132,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2024-31497](https://www.cve.org/CVERecord?id=CVE-2024-31497) | [HugoBond/CVE-2024-31497-POC](https://github.com/HugoBond/CVE-2024-31497-POC) | Proof Of Concept that exploits PuTTy CVE-2024-31497. | 2024-05-10T14:30:50Z |
 | [CVE-2024-31351](https://www.cve.org/CVERecord?id=CVE-2024-31351) | [KTN1990/CVE-2024-31351_wordpress_exploit](https://github.com/KTN1990/CVE-2024-31351_wordpress_exploit) | Wordpress - Copymatic – AI Content Writer &amp; Generator &lt;= 1.6 - Unauthenticated Arbitrary File Upload | 2024-05-25T04:02:23Z |
 | [CVE-2024-31319](https://www.cve.org/CVERecord?id=CVE-2024-31319) | [23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039) | no description | 2024-08-23T06:28:12Z |
+| [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [fuhei/CVE-2024-31317](https://github.com/fuhei/CVE-2024-31317) | CVE-2024-31317 | 2024-12-05T01:36:59Z |
 | [CVE-2024-31211](https://www.cve.org/CVERecord?id=CVE-2024-31211) | [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211) | no description | 2024-08-03T19:26:55Z |
 | [CVE-2024-31210](https://www.cve.org/CVERecord?id=CVE-2024-31210) | [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210) | This Ruby script checks if a given WordPress site is vulnerable to CVE-2024-31210, which allows administrator-level users on single-site installations and Super Admin-level users on Multisite installations to execute arbitrary PHP code via the plugin upload mechanism. | 2024-06-13T00:24:56Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
@@ -1905,6 +1907,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape) | no description | 2024-07-03T08:45:05Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [HYZ3K/CVE-2024-21413](https://github.com/HYZ3K/CVE-2024-21413) | Microsoft Outlook Remote Code Execution Vulnerability. | 2024-08-01T05:53:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [ThemeHackers/CVE-2024-21413](https://github.com/ThemeHackers/CVE-2024-21413) | CVE-2024-21413 - Microsoft Outlook Remote Code Execution Vulnerability PoC | 2024-08-31T13:18:43Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB](https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB) | no description | 2024-12-04T10:26:37Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -4474,6 +4477,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [p4ncontomat3/CVE-2022-21661](https://github.com/p4ncontomat3/CVE-2022-21661) | Script to validate WordPress CVE-2022-21661 | 2024-01-04T15:49:00Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
+| [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic](https://github.com/hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic) | no description | 2024-03-12T04:47:02Z |
 | [CVE-2022-21392](https://www.cve.org/CVERecord?id=CVE-2022-21392) | [mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392) | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager | 2023-12-08T20:13:23Z |
 | [CVE-2022-21350](https://www.cve.org/CVERecord?id=CVE-2022-21350) | [hktalent/CVE-2022-21350](https://github.com/hktalent/CVE-2022-21350) | no description | 2022-09-28T05:38:15Z |
 | [CVE-2022-21306](https://www.cve.org/CVERecord?id=CVE-2022-21306) | [hktalent/CVE-2022-21306](https://github.com/hktalent/CVE-2022-21306) | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | 2023-04-07T03:59:07Z |
@@ -4538,6 +4542,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [pivik271/CVE-2022-1015](https://github.com/pivik271/CVE-2022-1015) | no description | 2023-03-22T09:16:58Z |
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [delsploit/CVE-2022-1015](https://github.com/delsploit/CVE-2022-1015) | no description | 2023-03-06T12:50:43Z |
 | [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [more-kohii/CVE-2022-1015](https://github.com/more-kohii/CVE-2022-1015) | Linux Kernel 1-Day Analysis &amp; Exploitation | 2023-08-06T10:46:49Z |
+| [CVE-2022-1015](https://www.cve.org/CVERecord?id=CVE-2022-1015) | [0range1337/CVE-2022-1015](https://github.com/0range1337/CVE-2022-1015) | no description | 2023-10-01T11:18:48Z |
 | [CVE-2022-1011](https://www.cve.org/CVERecord?id=CVE-2022-1011) | [xkaneiki/CVE-2022-1011](https://github.com/xkaneiki/CVE-2022-1011) | 这个漏洞感觉只能信息泄露？ | 2023-06-16T03:02:38Z |
 | [CVE-2022-0995](https://www.cve.org/CVERecord?id=CVE-2022-0995) | [AndreevSemen/CVE-2022-0995](https://github.com/AndreevSemen/CVE-2022-0995) | Реализация средств повышения привилегий в Linux | 2023-03-10T07:05:45Z |
 | [CVE-2022-0995](https://www.cve.org/CVERecord?id=CVE-2022-0995) | [1nzag/CVE-2022-0995](https://github.com/1nzag/CVE-2022-0995) | CVE-2022-0995 exploit | 2024-01-03T11:03:45Z |
@@ -4565,6 +4570,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2022-0778) | no description | 2023-09-12T05:16:27Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [jeongjunsoo/CVE-2022-0778](https://github.com/jeongjunsoo/CVE-2022-0778) | no description | 2023-10-26T04:39:44Z |
+| [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [hshivhare67/OpenSSL_1.0.1g_CVE-2022-0778](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2022-0778) | no description | 2024-03-18T12:00:39Z |
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z |
 | [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z |
 | [CVE-2022-0543](https://www.cve.org/CVERecord?id=CVE-2022-0543) | [0x7eTeam/CVE-2022-0543](https://github.com/0x7eTeam/CVE-2022-0543) | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | 2022-03-16T06:41:50Z |
@@ -4931,6 +4937,7 @@ Last generated: 2025-01-04 02:12:33.712613
 | [CVE-2021-26088](https://www.cve.org/CVERecord?id=CVE-2021-26088) | [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088) | PoC for CVE-2021-26088 written in PowerShell | 2023-05-09T13:13:41Z |
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [ch4t4pt/CVE-2021-26084-EXP](https://github.com/ch4t4pt/CVE-2021-26084-EXP) | no description | 2023-07-03T07:31:29Z |
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [smadi0x86/CVE-2021-26084](https://github.com/smadi0x86/CVE-2021-26084) | Confluence server webwork OGNL injection | 2021-09-05T09:27:55Z |
+| [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [BBD-YZZ/Confluence-RCE](https://github.com/BBD-YZZ/Confluence-RCE) | confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527) | 2024-05-29T03:20:22Z |
 | [CVE-2021-25741](https://www.cve.org/CVERecord?id=CVE-2021-25741) | [cdxiaodong/CVE-2021-25741](https://github.com/cdxiaodong/CVE-2021-25741) | fork on Betep0k/CVE-2021-25741/fork whose images is useless and test on metarget | 2023-10-19T07:26:11Z |
 | [CVE-2021-25641](https://www.cve.org/CVERecord?id=CVE-2021-25641) | [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641) | A Exploit Tool For CVE-2021-25641. | 2022-11-10T06:33:54Z |
 | [CVE-2021-25253](https://www.cve.org/CVERecord?id=CVE-2021-25253) | [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253) | no description | 2023-05-12T20:51:50Z |
