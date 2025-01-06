@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-05 02:20:54.789287
+Last generated: 2025-01-06 02:19:22.043695
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -244,6 +244,7 @@ Last generated: 2025-01-05 02:20:54.789287
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
+| [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
@@ -383,6 +384,7 @@ Last generated: 2025-01-05 02:20:54.789287
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879) | Jelly Template Injection Vulnerability in ServiceNow - POC CVE-2024-4879 | 2024-08-27T03:43:28Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879) | no description | 2024-09-13T01:20:34Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
+| [CVE-2024-48705](https://www.cve.org/CVERecord?id=CVE-2024-48705) | [L41KAA/CVE-2024-48705](https://github.com/L41KAA/CVE-2024-48705) | Wavlink AC1200 with firmware versions M32A3_V1410_230602 and M32A3_V1410_240222 are vulnerable to a post-authentication command injection while resetting the password. This vulnerability is specifically found within the &quot;set_sys_adm&quot; function of the &quot;adm.cgi&quot; binary, and is due to improper santization of the user provided &quot;newpass&quot; field. | 2024-12-05T22:45:58Z |
 | [CVE-2024-48652](https://www.cve.org/CVERecord?id=CVE-2024-48652) | [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652) | Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field | 2024-10-19T10:06:58Z |
 | [CVE-2024-48644](https://www.cve.org/CVERecord?id=CVE-2024-48644) | [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644) | Reolink Duo 2 WiFi v1.0.280 - Account Enumeration Vulnerability | 2024-10-17T23:27:04Z |
 | [CVE-2024-48605](https://www.cve.org/CVERecord?id=CVE-2024-48605) | [surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack) | Helakuru Version 1.1 DLL Hijack - CVE-2024-48605 | 2024-09-25T18:23:06Z |
@@ -616,6 +618,7 @@ Last generated: 2025-01-05 02:20:54.789287
 | [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library | 2024-10-09T14:35:06Z |
 | [CVE-2024-42640](https://www.cve.org/CVERecord?id=CVE-2024-42640) | [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640) | Unauthenticated Remote Code Execution via Angular-Base64-Upload Library (npm:bower) | 2024-11-19T23:54:30Z |
 | [CVE-2024-42461](https://www.cve.org/CVERecord?id=CVE-2024-42461) | [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461) | Se han identificado problemas en la verificación de firmas ECDSA y EDDSA en el proyecto Wycheproof. Las comprobaciones ausentes durante la etapa de decodificación de firmas permiten agregar o eliminar bytes cero, lo que afecta la capacidad de envío de correos. | 2024-08-06T21:56:15Z |
+| [CVE-2024-42448](https://www.cve.org/CVERecord?id=CVE-2024-42448) | [h3lye/CVE-2024-42448-RCE](https://github.com/h3lye/CVE-2024-42448-RCE) | Veeam Service Provider Console (VSPC) remote code execution. | 2024-12-05T13:12:44Z |
 | [CVE-2024-42346](https://www.cve.org/CVERecord?id=CVE-2024-42346) | [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346) | CVE-2024-42346 POC | 2024-11-18T18:31:03Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327) | cve-2024-42327 ZBX-25623 | 2024-12-01T00:15:27Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327) | PoC for CVE-2024-42327 / ZBX-25623 | 2024-12-03T12:44:07Z |
@@ -2068,6 +2071,7 @@ Last generated: 2025-01-05 02:20:54.789287
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10542](https://www.cve.org/CVERecord?id=CVE-2024-10542) | [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542) | WordPress Spam protection, AntiSpam, FireWall by CleanTalk Plugin &lt;= 6.43.2 is vulnerable to Unauthenticated Arbitrary Plugin Installation | 2024-11-26T23:47:17Z |
+| [CVE-2024-10516](https://www.cve.org/CVERecord?id=CVE-2024-10516) | [RandomRobbieBF/CVE-2024-10516](https://github.com/RandomRobbieBF/CVE-2024-10516) | Swift Performance Lite &lt;= 2.3.7.1 - Unauthenticated Local PHP File Inclusion via &#x27;ajaxify&#x27; | 2024-12-06T11:24:19Z |
 | [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508) | no description | 2024-11-19T02:47:59Z |
 | [CVE-2024-10508](https://www.cve.org/CVERecord?id=CVE-2024-10508) | [Jenderal92/CVE-2024-10508](https://github.com/Jenderal92/CVE-2024-10508) | This tool scans WordPress sites for vulnerabilities in the &quot;RegistrationMagic&quot; plugin (CVE-2024-10508). It checks for the presence of a specific version (`6.0.2.6`) and marks the site as vulnerable if found. The results are saved in a file (`vuln.txt`) for further analysis. | 2024-11-21T04:32:19Z |
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470) | WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion | 2024-11-08T19:47:34Z |
@@ -4597,6 +4601,7 @@ Last generated: 2025-01-05 02:20:54.789287
 | [CVE-2021-46422](https://www.cve.org/CVERecord?id=CVE-2021-46422) | [yyqxi/CVE-2021-46422](https://github.com/yyqxi/CVE-2021-46422) | CVE-2021-46422poc | 2022-10-16T11:34:26Z |
 | [CVE-2021-46398](https://www.cve.org/CVERecord?id=CVE-2021-46398) | [LalieA/CVE-2021-46398](https://github.com/LalieA/CVE-2021-46398) | A Proof of Concept for the CVE-2021-46398 flaw exploitation | 2023-01-03T09:49:22Z |
 | [CVE-2021-46364](https://www.cve.org/CVERecord?id=CVE-2021-46364) | [mbadanoiu/CVE-2021-46364](https://github.com/mbadanoiu/CVE-2021-46364) | CVE-2021-46364: YAML Deserialization in Magnolia CMS | 2023-11-23T22:37:01Z |
+| [CVE-2021-46363](https://www.cve.org/CVERecord?id=CVE-2021-46363) | [mbadanoiu/CVE-2021-46363](https://github.com/mbadanoiu/CVE-2021-46363) | CVE-2021-46363: Formula Injection in Magnolia CMS | 2024-02-13T20:36:24Z |
 | [CVE-2021-45960](https://www.cve.org/CVERecord?id=CVE-2021-45960) | [hshivhare67/external_expat_v2.2.6_CVE-2021-45960](https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960) | no description | 2023-04-06T06:20:55Z |
 | [CVE-2021-45901](https://www.cve.org/CVERecord?id=CVE-2021-45901) | [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901) | no description | 2021-09-01T05:35:59Z |
 | [CVE-2021-45232](https://www.cve.org/CVERecord?id=CVE-2021-45232) | [Kuibagit/CVE-2021-45232-RCE](https://github.com/Kuibagit/CVE-2021-45232-RCE) | CVE-2021-45232-RCE | 2022-01-05T09:07:35Z |
