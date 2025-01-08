@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-07 02:16:31.564707
+Last generated: 2025-01-08 02:15:01.400783
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474) | PoC for PAN-OS Exploit | 2024-11-20T22:31:50Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474) | no description | 2024-11-20T16:42:26Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [k4nfr3/CVE-2024-9474](https://github.com/k4nfr3/CVE-2024-9474) | no description | 2024-11-19T22:03:13Z |
+| [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [coskper-papa/PAN-OS_CVE-2024-9474](https://github.com/coskper-papa/PAN-OS_CVE-2024-9474) | Palo Alto Networks PAN-OS(CVE-2024-9474) POC | 2024-12-11T03:10:41Z |
 | [CVE-2024-9466](https://www.cve.org/CVERecord?id=CVE-2024-9466) | [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466) | CVE-2024-9466 poc | 2024-10-19T08:22:13Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
@@ -34,6 +35,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) | Nortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441) | 2024-10-03T11:28:46Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441) | no description | 2024-10-10T21:29:08Z |
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc) | CVE-2024-9441是影响Linear eMerge e3系列（版本1.00-07及之前）的操作系统命令注入漏洞。未经身份验证的远程攻击者可通过HTTP请求中“forgot_password”功能的“login_id”参数，执行任意操作系统命令。 | 2024-11-22T02:04:21Z |
+| [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [jk-mayne/CVE-2024-9441-Checker](https://github.com/jk-mayne/CVE-2024-9441-Checker) | A simple python script to test for CVE-2024-9441. | 2024-12-09T17:49:37Z |
 | [CVE-2024-9326](https://www.cve.org/CVERecord?id=CVE-2024-9326) | [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC) | This PoC script is designed to verify the presence of CVE-2024-9326, a high SQL Injection vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates the exploitation process to determine if the target web application is vulnerable, allowing security professionals to assess and confirm the flaw&#x27;s existence. | 2024-11-27T14:49:54Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264) | File Read Proof of Concept for CVE-2024-9264 | 2024-10-20T01:13:37Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264) | Exploit for Grafana arbitrary file-read (CVE-2024-9264) | 2024-10-19T13:50:52Z |
@@ -242,9 +244,11 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
+| [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
+| [CVE-2024-55099](https://www.cve.org/CVERecord?id=CVE-2024-55099) | [ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-) | no description | 2024-12-10T19:40:26Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
@@ -628,6 +632,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327) | PoC for CVE-2024-42327 / ZBX-25623 | 2024-12-03T12:44:07Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [watchdog1337/CVE-2024-42327_Zabbix_SQLI](https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI) | POC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method | 2024-12-07T21:25:40Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [depers-rus/CVE-2024-42327](https://github.com/depers-rus/CVE-2024-42327) | no description | 2024-12-06T16:06:00Z |
+| [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [itform-fr/Zabbix---CVE-2024-42327](https://github.com/itform-fr/Zabbix---CVE-2024-42327) | no description | 2024-12-11T00:39:26Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -1767,6 +1772,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346) | This repository contains a Crystallographic Information File (CIF) intended for use on the &quot;Chemistry&quot; machine on Hack The Box (HTB). | 2024-11-05T14:27:06Z |
+| [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [MAWK0235/CVE-2024-23346](https://github.com/MAWK0235/CVE-2024-23346) | This is an exploit for CVE-2024-23346 that acts as a &quot;terminal&quot; (tested on chemistry.htb) | 2024-12-09T22:34:44Z |
 | [CVE-2024-23339](https://www.cve.org/CVERecord?id=CVE-2024-23339) | [200101WhoAmI/CVE-2024-23339](https://github.com/200101WhoAmI/CVE-2024-23339) | pp | 2024-08-21T05:03:32Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334) | CVE-2024-23334 | 2024-02-28T22:30:21Z |
 | [CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334) | [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC) | A proof of concept of the path traversal vulnerability in the python AioHTTP library =&lt; 3.9.1 | 2024-03-18T20:39:27Z |
@@ -2160,6 +2166,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [MrW0l05zyn/cve-2024-0044](https://github.com/MrW0l05zyn/cve-2024-0044) | CVE-2024-0044 | 2024-08-19T02:51:14Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044) | PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app | 2024-09-27T09:02:08Z |
 | [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [a-roshbaik/cve_2024_0044](https://github.com/a-roshbaik/cve_2024_0044) | no description | 2024-10-02T19:31:19Z |
+| [CVE-2024-0044](https://www.cve.org/CVERecord?id=CVE-2024-0044) | [Dit-Developers/CVE-2024-0044-](https://github.com/Dit-Developers/CVE-2024-0044-) | CVE-2024-0044: a &quot;run-as any app&quot; high-severity vulnerability affecting Android versions 12 and 13 | 2024-12-09T19:05:57Z |
 | [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040) | no description | 2024-07-29T11:45:41Z |
 | [CVE-2024-0040](https://www.cve.org/CVERecord?id=CVE-2024-0040) | [uthrasri/frameworks_av_CVE-2024-0040](https://github.com/uthrasri/frameworks_av_CVE-2024-0040) | no description | 2024-08-06T06:13:59Z |
 | [CVE-2024-0039](https://www.cve.org/CVERecord?id=CVE-2024-0039) | [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit) | Эксплойт для уязвимости CVE-2024-0039 на Android, который позволяет выполнять произвольный код через MP4 файл. Этот репозиторий создан для образовательных целей. | 2024-05-29T22:13:04Z |
@@ -2995,6 +3002,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [khanhtranngoccva/cve-2023-38831-poc](https://github.com/khanhtranngoccva/cve-2023-38831-poc) | no description | 2024-07-16T13:54:09Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [MaorBuskila/Windows-X64-RAT](https://github.com/MaorBuskila/Windows-X64-RAT) | Remote Access Trojan (RAT) for Windows x64 using a combination of vulnerability CVE-2023-38831 (WinRAR &lt; 6.23 vulnerability) and Shellcode exploitation technique. | 2024-07-23T17:20:06Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [yezzfusl/cve_2023_38831_scanner](https://github.com/yezzfusl/cve_2023_38831_scanner) | This Python application scans for the CVE-2023-38831 vulnerability in WinRAR. | 2024-08-06T13:21:27Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [FirFirdaus/CVE-2023-38831](https://github.com/FirFirdaus/CVE-2023-38831) | A POC demo on CVE-2023-38831 | 2024-08-30T14:48:26Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -3568,6 +3576,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2023-29409](https://www.cve.org/CVERecord?id=CVE-2023-29409) | [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409) | CVE-2023-29409 reproducer | 2023-08-21T15:59:26Z |
 | [CVE-2023-29384](https://www.cve.org/CVERecord?id=CVE-2023-29384) | [nastar-id/CVE-2023-29384](https://github.com/nastar-id/CVE-2023-29384) | CVE-2023-29384 Auto Exploiter on WordPress Job Board and Recruitment Plugin | 2024-08-20T14:43:33Z |
 | [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360) | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | 2023-09-24T21:59:23Z |
+| [CVE-2023-29360](https://www.cve.org/CVERecord?id=CVE-2023-29360) | [0xDivyanshu-new/CVE-2023-29360](https://github.com/0xDivyanshu-new/CVE-2023-29360) | POC for CVE-2023-29360 | 2024-08-31T21:08:39Z |
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357) | Microsoft SharePoint Server Elevation of Privilege Vulnerability | 2023-09-26T16:18:41Z |
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [KeyStrOke95/CVE-2023-29357-ExE](https://github.com/KeyStrOke95/CVE-2023-29357-ExE) | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | 2023-10-10T13:41:21Z |
 | [CVE-2023-29357](https://www.cve.org/CVERecord?id=CVE-2023-29357) | [LuemmelSec/CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357) | no description | 2023-09-30T23:17:04Z |
@@ -3747,6 +3756,7 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035) | ZoneMinder Snapshots - Unauthenticated | 2023-12-24T13:37:39Z |
 | [CVE-2023-26035](https://www.cve.org/CVERecord?id=CVE-2023-26035) | [Faelian/zoneminder_CVE-2023-26035](https://github.com/Faelian/zoneminder_CVE-2023-26035) | Exploit for CVE-2023-26035 affecting ZoneMinder &lt; 1.36.33 and &lt; 1.37.33 | 2023-12-27T18:44:22Z |
 | [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | 2023-11-16T23:41:27Z |
+| [CVE-2023-2598](https://www.cve.org/CVERecord?id=CVE-2023-2598) | [cainiao159357/CVE-2023-2598](https://github.com/cainiao159357/CVE-2023-2598) | no description | 2024-08-31T09:14:53Z |
 | [CVE-2023-2581312](https://www.cve.org/CVERecord?id=CVE-2023-2581312) | [White-BAO/CVE-2023-25813](https://github.com/White-BAO/CVE-2023-25813) | 12 | 2024-07-30T14:36:48Z |
 | [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813) | no description | 2024-04-21T17:39:05Z |
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z |
@@ -4620,6 +4630,8 @@ Last generated: 2025-01-07 02:16:31.564707
 | [CVE-2021-46422](https://www.cve.org/CVERecord?id=CVE-2021-46422) | [polerstar/CVE-2021-46422-poc](https://github.com/polerstar/CVE-2021-46422-poc) | 漏洞检测 | 2022-10-16T13:00:59Z |
 | [CVE-2021-46422](https://www.cve.org/CVERecord?id=CVE-2021-46422) | [yyqxi/CVE-2021-46422](https://github.com/yyqxi/CVE-2021-46422) | CVE-2021-46422poc | 2022-10-16T11:34:26Z |
 | [CVE-2021-46398](https://www.cve.org/CVERecord?id=CVE-2021-46398) | [LalieA/CVE-2021-46398](https://github.com/LalieA/CVE-2021-46398) | A Proof of Concept for the CVE-2021-46398 flaw exploitation | 2023-01-03T09:49:22Z |
+| [CVE-2021-46366](https://www.cve.org/CVERecord?id=CVE-2021-46366) | [mbadanoiu/CVE-2021-46366](https://github.com/mbadanoiu/CVE-2021-46366) | CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS | 2024-02-13T21:09:53Z |
+| [CVE-2021-46365](https://www.cve.org/CVERecord?id=CVE-2021-46365) | [mbadanoiu/CVE-2021-46365](https://github.com/mbadanoiu/CVE-2021-46365) | CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS | 2024-02-13T20:52:49Z |
 | [CVE-2021-46364](https://www.cve.org/CVERecord?id=CVE-2021-46364) | [mbadanoiu/CVE-2021-46364](https://github.com/mbadanoiu/CVE-2021-46364) | CVE-2021-46364: YAML Deserialization in Magnolia CMS | 2023-11-23T22:37:01Z |
 | [CVE-2021-46363](https://www.cve.org/CVERecord?id=CVE-2021-46363) | [mbadanoiu/CVE-2021-46363](https://github.com/mbadanoiu/CVE-2021-46363) | CVE-2021-46363: Formula Injection in Magnolia CMS | 2024-02-13T20:36:24Z |
 | [CVE-2021-45960](https://www.cve.org/CVERecord?id=CVE-2021-45960) | [hshivhare67/external_expat_v2.2.6_CVE-2021-45960](https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960) | no description | 2023-04-06T06:20:55Z |
