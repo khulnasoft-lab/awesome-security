@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-09 02:47:07.379545
+Last generated: 2025-01-10 02:18:17.225017
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2648,6 +2648,7 @@ Last generated: 2025-01-09 02:47:07.379545
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py) | no description | 2024-01-23T21:39:41Z |
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [cisnarfu/Bluepop](https://github.com/cisnarfu/Bluepop) | CVE-2023-45866 | 2024-06-29T19:06:37Z |
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky) | 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard) | 2024-01-16T06:52:02Z |
+| [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [AvishekDhakal/CVE-2023-45866_EXPLOITS](https://github.com/AvishekDhakal/CVE-2023-45866_EXPLOITS) | Exploits Tested in Mi A2 Lite and Realme 2 pro | 2024-09-02T10:13:27Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z |
