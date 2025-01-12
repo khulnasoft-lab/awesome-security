@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-11 02:14:54.654054
+Last generated: 2025-01-12 02:22:50.490392
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -328,6 +328,10 @@ Last generated: 2025-01-11 02:14:54.654054
 | [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623) | Cleo Unrestricted file upload and download PoC (CVE-2024-50623) | 2024-12-11T14:19:55Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
+| [CVE-2024-50510](https://www.cve.org/CVERecord?id=CVE-2024-50510) | [RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510) | AR For Woocommerce &lt;= 6.2 - Unauthenticated Arbitrary File Upload | 2024-12-16T20:15:56Z |
+| [CVE-2024-50509](https://www.cve.org/CVERecord?id=CVE-2024-50509) | [RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509) | Woocommerce Product Design &lt;= 1.0.0 - Unauthenticated Arbitrary File Deletion | 2024-12-16T19:17:07Z |
+| [CVE-2024-50508](https://www.cve.org/CVERecord?id=CVE-2024-50508) | [RandomRobbieBF/CVE-2024-50508](https://github.com/RandomRobbieBF/CVE-2024-50508) | Woocommerce Product Design &lt;= 1.0.0 - Unauthenticated Arbitrary File Download | 2024-12-16T20:00:24Z |
+| [CVE-2024-50507](https://www.cve.org/CVERecord?id=CVE-2024-50507) | [RandomRobbieBF/CVE-2024-50507](https://github.com/RandomRobbieBF/CVE-2024-50507) | DS.DownloadList &lt;= 1.3 - Unauthenticated PHP Object Injection | 2024-12-16T19:36:26Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498) | WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution | 2024-11-04T22:13:45Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498) | This is a exploit for CVE-2024-50498 | 2024-12-04T01:30:19Z |
 | [CVE-2024-50493](https://www.cve.org/CVERecord?id=CVE-2024-50493) | [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) | Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload | 2024-11-10T08:17:41Z |
@@ -373,6 +377,7 @@ Last generated: 2025-01-11 02:14:54.654054
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
+| [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor) | A short scraper looking for a POC of CVE-2024-49112 | 2024-12-16T13:41:40Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039) | no description | 2024-12-16T13:25:56Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC) | PoC for CVE-2024-48990 | 2024-11-20T18:41:25Z |
