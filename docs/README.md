@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-12 02:22:50.490392
+Last generated: 2025-01-13 02:20:15.900406
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -248,6 +248,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
+| [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
@@ -258,6 +259,9 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677) | s2-067(CVE-2024-53677) | 2024-12-12T08:30:14Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677) | no description | 2024-12-17T02:22:38Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker) | A Docker-based environment to reproduce the CVE-2024-53677 vulnerability in Apache Struts 2. | 2024-12-17T06:42:16Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
@@ -377,6 +381,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
+| [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor) | A short scraper looking for a POC of CVE-2024-49112 | 2024-12-16T13:41:40Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039) | no description | 2024-12-16T13:25:56Z |
@@ -541,6 +546,8 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-45409](https://www.cve.org/CVERecord?id=CVE-2024-45409) | [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409) | Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409) exploit | 2024-10-07T09:24:46Z |
 | [CVE-2024-45388](https://www.cve.org/CVERecord?id=CVE-2024-45388) | [codeb0ss/CVE-2024-45388-PoC](https://github.com/codeb0ss/CVE-2024-45388-PoC) | Mass Exploit - CVE-2024-45388 - Hoverfly &lt; Arbitrary File Read | 2024-09-09T11:35:10Z |
 | [CVE-2024-45383](https://www.cve.org/CVERecord?id=CVE-2024-45383) | [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383) | poc for CVE-2024-45383 | 2024-09-18T15:40:19Z |
+| [CVE-2024-45337](https://www.cve.org/CVERecord?id=CVE-2024-45337) | [NHAS/CVE-2024-45337-POC](https://github.com/NHAS/CVE-2024-45337-POC) | Proof of concept (POC) for CVE-2024-45337 | 2024-12-17T22:07:53Z |
+| [CVE-2024-45337](https://www.cve.org/CVERecord?id=CVE-2024-45337) | [NHAS/VULNERABLE-CVE-2024-45337](https://github.com/NHAS/VULNERABLE-CVE-2024-45337) | An example project that showcases golang code vulnerable to CVE-2024-45337 | 2024-12-17T22:22:03Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
 | [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle) | Chaincode for blockchain Hyperledger Fabric provides accurate time to other chaincodes. Thus solving the security problem associated with transaction time manipulation (CVE-2024-45244). | 2024-07-28T19:19:42Z |
@@ -1352,6 +1359,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-29824](https://www.cve.org/CVERecord?id=CVE-2024-29824) | [horizon3ai/CVE-2024-29824](https://github.com/horizon3ai/CVE-2024-29824) | Ivanti EPM SQL Injection Remote Code Execution Vulnerability | 2024-06-12T13:53:32Z |
 | [CVE-2024-29824](https://www.cve.org/CVERecord?id=CVE-2024-29824) | [R4be1/CVE-2024-29824](https://github.com/R4be1/CVE-2024-29824) | Ivanti EPM SQL Injection Remote Code Execution Vulnerability（Optimized version based on h3） | 2024-06-18T09:07:23Z |
 | [CVE-2024-29824](https://www.cve.org/CVERecord?id=CVE-2024-29824) | [codeb0ss/CVE-2024-29824-PoC](https://github.com/codeb0ss/CVE-2024-29824-PoC) | Mass Exploit - CVE-2024-29824  - Ivanti EPM - Remote Code Execution (RCE) | 2024-07-12T19:26:10Z |
+| [CVE-2024-29671](https://www.cve.org/CVERecord?id=CVE-2024-29671) | [laskdjlaskdj12/CVE-2024-29671-POC](https://github.com/laskdjlaskdj12/CVE-2024-29671-POC) | This is POC of CVE-2024-29671 | 2024-11-21T11:51:04Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961) | Quick mitigation script | 2024-04-24T07:32:08Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961) | CVE-2024–2961 Security Issue Mitigation Script | 2024-05-20T06:53:23Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv() | 2024-05-27T08:30:06Z |
@@ -1675,6 +1683,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [SheL3G/CVE-2024-24576-PoC-BatBadBut](https://github.com/SheL3G/CVE-2024-24576-PoC-BatBadBut) | PoC for CVE-2024-24576 vulnerability &quot;BatBadBut&quot; | 2024-04-21T13:42:28Z |
 | [CVE-2024-24576](https://www.cve.org/CVERecord?id=CVE-2024-24576) | [Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust) | no description | 2024-04-20T18:54:00Z |
 | [CVE-2024-24549](https://www.cve.org/CVERecord?id=CVE-2024-24549) | [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549) | no description | 2024-08-02T21:05:34Z |
+| [CVE-2024-24549](https://www.cve.org/CVERecord?id=CVE-2024-24549) | [JFOZ1010/CVE-2024-24549](https://github.com/JFOZ1010/CVE-2024-24549) | Proof of concept of the CVE-2024-24549, Exploit in Python. | 2024-12-09T04:59:07Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
@@ -2050,6 +2059,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-12345](https://www.cve.org/CVERecord?id=CVE-2024-12345) | [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC) | no description | 2024-11-29T11:04:57Z |
 | [CVE-2024-12270](https://www.cve.org/CVERecord?id=CVE-2024-12270) | [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270) | Beautiful Taxonomy Filters &lt;= 2.4.3 - Unauthenticated SQL Injection | 2024-12-09T13:22:10Z |
 | [CVE-2024-12209](https://www.cve.org/CVERecord?id=CVE-2024-12209) | [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209) | WP Umbrella: Update Backup Restore &amp; Monitoring &lt;= 2.17.0 - Unauthenticated Local File Inclusion | 2024-12-09T11:51:10Z |
+| [CVE-2024-12172](https://www.cve.org/CVERecord?id=CVE-2024-12172) | [RandomRobbieBF/CVE-2024-12172](https://github.com/RandomRobbieBF/CVE-2024-12172) | WP Courses LMS – Online Courses Builder, eLearning Courses, Courses Solution, Education Courses &lt;= 3.2.21 - Missing Authorization to Authenticated (Subscriber+) Arbitrary User Meta Update | 2024-12-16T23:39:17Z |
 | [CVE-2024-12155](https://www.cve.org/CVERecord?id=CVE-2024-12155) | [McTavishSue/CVE-2024-12155](https://github.com/McTavishSue/CVE-2024-12155) | CVE-2024-12155 Missing Authorization (CWE-862) | 2024-12-06T13:03:09Z |
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212) | Unauthenticated Command Injection In Progress Kemp LoadMaster | 2024-03-19T22:23:18Z |
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [nak000/CVE-2024-1212](https://github.com/nak000/CVE-2024-1212) | no description | 2024-09-04T16:50:08Z |
@@ -2138,6 +2148,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [any2sec/cve-2024-10220](https://github.com/any2sec/cve-2024-10220) | no description | 2024-11-29T09:20:30Z |
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [XiaomingX/cve-2024-10220-githooks](https://github.com/XiaomingX/cve-2024-10220-githooks) | CVE-2024-10220 Test repo | 2024-12-01T05:15:25Z |
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [filipzag/CVE-2024-10220](https://github.com/filipzag/CVE-2024-10220) | no description | 2024-12-15T11:25:42Z |
+| [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [candranapits/poc-CVE-2024-10220](https://github.com/candranapits/poc-CVE-2024-10220) | CVE-2024-10220 POC | 2024-12-17T08:17:58Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-10124](https://www.cve.org/CVERecord?id=CVE-2024-10124) | [RandomRobbieBF/CVE-2024-10124](https://github.com/RandomRobbieBF/CVE-2024-10124) | Vayu Blocks – Gutenberg Blocks for WordPress &amp; WooCommerce &lt;= 1.1.1 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-12-12T15:13:30Z |
 | [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
@@ -5022,6 +5033,7 @@ Last generated: 2025-01-12 02:22:50.490392
 | [CVE-2021-24647](https://www.cve.org/CVERecord?id=CVE-2021-24647) | [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647) | CVE-2021-24647 Pie Register &lt; 3.7.1.6 - Unauthenticated Arbitrary Login | 2023-06-15T09:51:36Z |
 | [CVE-2021-24499](https://www.cve.org/CVERecord?id=CVE-2021-24499) | [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499) | no description | 2023-09-29T04:53:56Z |
 | [CVE-2021-24356](https://www.cve.org/CVERecord?id=CVE-2021-24356) | [RandomRobbieBF/CVE-2021-24356](https://github.com/RandomRobbieBF/CVE-2021-24356) | Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation | 2023-08-09T18:24:19Z |
+| [CVE-2021-2394](https://www.cve.org/CVERecord?id=CVE-2021-2394) | [fasanhlieu/CVE-2021-2394](https://github.com/fasanhlieu/CVE-2021-2394) | no description | 2021-12-15T16:09:54Z |
 | [CVE-2021-23840](https://www.cve.org/CVERecord?id=CVE-2021-23840) | [Trinadh465/openssl-1.1.1g_CVE-2021-23840](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840) | no description | 2023-09-11T09:24:54Z |
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC) | no description | 2023-07-20T05:39:01Z |
