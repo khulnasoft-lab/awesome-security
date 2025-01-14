@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-13 02:20:15.900406
+Last generated: 2025-01-14 02:10:13.133971
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -262,6 +262,7 @@ Last generated: 2025-01-13 02:20:15.900406
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677) | s2-067(CVE-2024-53677) | 2024-12-12T08:30:14Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677) | no description | 2024-12-17T02:22:38Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker) | A Docker-based environment to reproduce the CVE-2024-53677 vulnerability in Apache Struts 2. | 2024-12-17T06:42:16Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067) | A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads. | 2024-12-18T02:03:56Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
@@ -410,6 +411,7 @@ Last generated: 2025-01-13 02:20:15.900406
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879) | Python script designed to detect specific vulnerabilities in ServiceNow instances and dump database connection details if the vulnerability is found. This tool is particularly useful for security researchers and penetration testers. | 2024-08-14T06:55:41Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [fa-rrel/CVE-2024-4879](https://github.com/fa-rrel/CVE-2024-4879) | Jelly Template Injection Vulnerability in ServiceNow - POC CVE-2024-4879 | 2024-08-27T03:43:28Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879) | no description | 2024-09-13T01:20:34Z |
+| [CVE-2024-48762](https://www.cve.org/CVERecord?id=CVE-2024-48762) | [YZS17/CVE-2024-48762](https://github.com/YZS17/CVE-2024-48762) | Command injection vulnerability in FLIR AX8 up to 1.46.16 | 2024-10-02T16:32:08Z |
 | [CVE-2024-4875](https://www.cve.org/CVERecord?id=CVE-2024-4875) | [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875) | HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update | 2024-05-21T14:15:16Z |
 | [CVE-2024-48705](https://www.cve.org/CVERecord?id=CVE-2024-48705) | [L41KAA/CVE-2024-48705](https://github.com/L41KAA/CVE-2024-48705) | Wavlink AC1200 with firmware versions M32A3_V1410_230602 and M32A3_V1410_240222 are vulnerable to a post-authentication command injection while resetting the password. This vulnerability is specifically found within the &quot;set_sys_adm&quot; function of the &quot;adm.cgi&quot; binary, and is due to improper santization of the user provided &quot;newpass&quot; field. | 2024-12-05T22:45:58Z |
 | [CVE-2024-48652](https://www.cve.org/CVERecord?id=CVE-2024-48652) | [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652) | Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field | 2024-10-19T10:06:58Z |
@@ -677,6 +679,7 @@ Last generated: 2025-01-13 02:20:15.900406
 | [CVE-2024-40892](https://www.cve.org/CVERecord?id=CVE-2024-40892) | [xen0bit/fwbt](https://github.com/xen0bit/fwbt) | Proof of Concept code for interaction with Firewalla via Bluetooth Low-Energy and exploitation of CVE-2024-40892 / CVE-2024-40893 | 2024-08-21T17:27:21Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898) | no description | 2024-11-11T09:00:22Z |
+| [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [soltanali0/CVE-2024-40725](https://github.com/soltanali0/CVE-2024-40725) | exploit CVE-2024-40725 (Apache httpd) with | 2024-12-18T15:09:38Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711) | Pre-Auth Exploit for CVE-2024-40711 | 2024-09-15T17:25:32Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp) | CVE-2024-40711-exp | 2024-10-16T05:02:27Z |
 | [CVE-2024-40711](https://www.cve.org/CVERecord?id=CVE-2024-40711) | [XiaomingX/cve-2024-40711-poc](https://github.com/XiaomingX/cve-2024-40711-poc) | CVE-2024-40711 是 Veeam Backup &amp; Replication 软件中的一个严重漏洞，允许未经身份验证的攻击者远程执行代码。 | 2024-11-23T04:02:34Z |
@@ -1801,6 +1804,7 @@ Last generated: 2025-01-13 02:20:15.900406
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692) | Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692) | 2024-07-10T04:44:27Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692) | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | 2024-09-15T12:15:35Z |
 | [CVE-2024-23692](https://www.cve.org/CVERecord?id=CVE-2024-23692) | [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc) | CVE-2024-23692 是影响 Rejetto HTTP File Server（HFS）2.3m 及之前版本的模板注入漏洞。该漏洞允许远程未授权的攻击者通过发送特制的 HTTP 请求，在受影响的系统上执行任意命令。 | 2024-11-23T03:59:13Z |
+| [CVE-2024-23653](https://www.cve.org/CVERecord?id=CVE-2024-23653) | [666asd/CVE-2024-23653](https://github.com/666asd/CVE-2024-23653) | no description | 2024-12-13T18:27:39Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346) | This repository contains a Crystallographic Information File (CIF) intended for use on the &quot;Chemistry&quot; machine on Hack The Box (HTB). | 2024-11-05T14:27:06Z |
