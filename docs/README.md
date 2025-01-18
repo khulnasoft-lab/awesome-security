@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-17 02:10:45.814716
+Last generated: 2025-01-18 02:07:54.027296
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -248,6 +248,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
+| [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
@@ -369,6 +370,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [iSee857/CVE-2024-50379-PoC](https://github.com/iSee857/CVE-2024-50379-PoC) | Apache Tomcat（CVE-2024-50379）条件竞争致远程代码执行漏洞批量检测脚本 | 2024-12-20T05:24:10Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [JFOZ1010/Nuclei-Template-CVE-2024-50379](https://github.com/JFOZ1010/Nuclei-Template-CVE-2024-50379) | Repositorio para alojar un template de Nuclei para probar el CVE-2024-50379 (en fase de prueba) | 2024-12-20T03:43:47Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379) | CVE-2024-50379 is a critical vulnerability affecting multiple versions of Apache Tomcat, an open source web server and servlet container widely used for deploying Java-based web applications. The vulnerability arises from a  Time-of-Use (TOCTOU) race condition that occurs when compiling JavaServer Pages (JSPs). | 2024-12-20T21:30:49Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc) | RCE through a race condition in Apache Tomcat | 2024-12-21T05:54:29Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -446,6 +448,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-48322](https://www.cve.org/CVERecord?id=CVE-2024-48322) | [trqt/CVE-2024-48322](https://github.com/trqt/CVE-2024-48322) | no description | 2024-11-09T13:52:50Z |
 | [CVE-2024-48217](https://www.cve.org/CVERecord?id=CVE-2024-48217) | [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217) | CVE-2024-48217 Sismart Vulnerability | 2024-11-01T04:44:17Z |
 | [CVE-2024-48208](https://www.cve.org/CVERecord?id=CVE-2024-48208) | [rohilchaudhry/CVE-2024-48208](https://github.com/rohilchaudhry/CVE-2024-48208) | This repo contains all the work surrounding the development of the PoC for CVE-2024-48208, and how a simple OOB(Out-of-bound) read can result in jail escapes as well as broken access control. | 2024-10-30T01:44:32Z |
+| [CVE-2024-48197](https://www.cve.org/CVERecord?id=CVE-2024-48197) | [GCatt-AS/CVE-2024-48197](https://github.com/GCatt-AS/CVE-2024-48197) | Reflected XSS in AudioCodes MP-202b | 2024-12-21T13:07:51Z |
 | [CVE-2024-47854](https://www.cve.org/CVERecord?id=CVE-2024-47854) | [MarioTesoro/CVE-2024-47854](https://github.com/MarioTesoro/CVE-2024-47854) | Proof of concept of multiple Reflected Cross-Site Scripting (XSS) vulnerabilities discovered in Veritas Data Insight before 7.1. | 2024-10-19T13:38:23Z |
 | [CVE-2024-4761](https://www.cve.org/CVERecord?id=CVE-2024-4761) | [michredteam/CVE-2024-4761](https://github.com/michredteam/CVE-2024-4761) | High CVE-2024-4761 Exploit | 2024-05-14T17:45:22Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [groshi/CVE-2024-47575-POC](https://github.com/groshi/CVE-2024-47575-POC) | CVE-2024-47575: Critical Remote Code Execution (RCE) Vulnerability in VMware Horizon | 2024-10-28T17:32:53Z |
@@ -683,6 +686,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-41958](https://www.cve.org/CVERecord?id=CVE-2024-41958) | [OrangeJuiceHU/CVE-2024-41958-PoC](https://github.com/OrangeJuiceHU/CVE-2024-41958-PoC) | This is a small proof of concept for CVE-2024-41958 | 2024-08-05T19:10:08Z |
 | [CVE-2024-41713](https://www.cve.org/CVERecord?id=CVE-2024-41713) | [watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713](https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713) | no description | 2024-12-05T06:13:57Z |
 | [CVE-2024-41713](https://www.cve.org/CVERecord?id=CVE-2024-41713) | [zxj-hub/CVE-2024-41713POC](https://github.com/zxj-hub/CVE-2024-41713POC) | Mitel MiCollab 企业协作平台 任意文件读取漏洞(CVE-2024-41713)由于Mitel MiCollab软件的 NuPoint 统一消息 (NPM) 组件中存在身份验证绕过漏洞，并且输入验证不足，未经身份验证的远程攻击者可利用该漏洞执行路径遍历攻击，成功利用可能导致未授权访问、破坏或删除用户的数据和系统配置。影响范围：version &lt; MiCollab 9.8 SP2 (9.8.2.12) | 2024-12-21T02:26:26Z |
+| [CVE-2024-41713](https://www.cve.org/CVERecord?id=CVE-2024-41713) | [Sanandd/cve-2024-CVE-2024-41713](https://github.com/Sanandd/cve-2024-CVE-2024-41713) | cve-2024-CVE-2024-41713 | 2024-12-21T09:35:12Z |
 | [CVE-2024-41662](https://www.cve.org/CVERecord?id=CVE-2024-41662) | [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662) | Markdown XSS leads to RCE in VNote version &lt;=3.18.1 | 2024-07-23T17:21:12Z |
 | [CVE-2024-41651](https://www.cve.org/CVERecord?id=CVE-2024-41651) | [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651) | CVE-2024-41651 | 2024-08-08T17:25:30Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
@@ -754,6 +758,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929) | Detection method for Exim vulnerability CVE-2024-39929 | 2024-07-12T18:01:30Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929) | POC to test CVE-2024-39929 against EXIM mail servers | 2024-07-29T15:09:53Z |
+| [CVE-2024-39914](https://www.cve.org/CVERecord?id=CVE-2024-39914) | [9874621368/FOG-Project](https://github.com/9874621368/FOG-Project) | FOG Project CVE-2024-39914 命令执行漏洞 | 2024-12-21T08:30:00Z |
 | [CVE-2024-39908](https://www.cve.org/CVERecord?id=CVE-2024-39908) | [SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908) | CVE-2024-39908 full poc | 2024-12-19T18:59:52Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
 | [CVE-2024-39700](https://www.cve.org/CVERecord?id=CVE-2024-39700) | [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC) | CVE-2024-39700 Proof of Concept | 2024-07-29T08:33:12Z |
@@ -852,6 +857,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [selenagomez25/CVE-2024-38063](https://github.com/selenagomez25/CVE-2024-38063) | poc for exploiting cve-2024-38063 | 2024-11-18T15:20:24Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [Dragkob/CVE-2024-38063](https://github.com/Dragkob/CVE-2024-38063) | PoC for Windows&#x27; IPv6 CVE-2024-38063 | 2024-11-16T17:22:08Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [Laukage/Windows-CVE-2024-38063](https://github.com/Laukage/Windows-CVE-2024-38063) | no description | 2024-12-06T21:45:09Z |
+| [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [jamesbishop785/CVE-2024-38063](https://github.com/jamesbishop785/CVE-2024-38063) | no description | 2024-12-22T05:28:56Z |
 | [CVE-2024-3806](https://www.cve.org/CVERecord?id=CVE-2024-3806) | [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc) | CVE-2024-3806: Porto &lt;= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto &lt;= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta | 2024-05-10T16:13:07Z |
 | [CVE-2024-38041](https://www.cve.org/CVERecord?id=CVE-2024-38041) | [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041) | Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver. | 2024-07-21T02:29:18Z |
 | [CVE-2024-38036](https://www.cve.org/CVERecord?id=CVE-2024-38036) | [hnytgl/CVE-2024-38036](https://github.com/hnytgl/CVE-2024-38036) | 排查ipv6使用情况 | 2024-08-16T01:38:21Z |
@@ -4407,6 +4413,8 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [elsvital/cve-2022-33891-fix](https://github.com/elsvital/cve-2022-33891-fix) | no description | 2023-11-26T13:09:28Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [K3ysTr0K3R/CVE-2022-33891-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT) | A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE) | 2024-02-22T15:05:00Z |
 | [CVE-2022-33082](https://www.cve.org/CVERecord?id=CVE-2022-33082) | [cyberqueenmeg/cve-2022-33082-exploit](https://github.com/cyberqueenmeg/cve-2022-33082-exploit) | no description | 2023-06-22T17:50:18Z |
+| [CVE-2022-32932](https://www.cve.org/CVERecord?id=CVE-2022-32932) | [ox1111/CVE-2022-32932](https://github.com/ox1111/CVE-2022-32932) | no description | 2024-03-25T23:00:41Z |
+| [CVE-2022-32898](https://www.cve.org/CVERecord?id=CVE-2022-32898) | [ox1111/CVE-2022-32898](https://github.com/ox1111/CVE-2022-32898) | no description | 2024-03-24T09:26:29Z |
 | [CVE-2022-32883](https://www.cve.org/CVERecord?id=CVE-2022-32883) | [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883) | Turning Your Computer Into a GPS Tracker With Apple Maps | 2022-09-18T15:51:52Z |
 | [CVE-2022-32862](https://www.cve.org/CVERecord?id=CVE-2022-32862) | [rohitc33/CVE-2022-32862](https://github.com/rohitc33/CVE-2022-32862) | no description | 2023-09-13T18:29:27Z |
 | [CVE-2022-32548](https://www.cve.org/CVERecord?id=CVE-2022-32548) | [MosaedH/CVE-2022-32548-RCE-POC](https://github.com/MosaedH/CVE-2022-32548-RCE-POC) | no description | 2023-10-27T08:58:11Z |
@@ -4594,6 +4602,7 @@ Last generated: 2025-01-17 02:10:45.814716
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [z92g/CVE-2022-21661](https://github.com/z92g/CVE-2022-21661) | WordPress WP_Query SQL Injection POC | 2022-07-28T13:12:51Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [Wack0/batondrop_armv7](https://github.com/Wack0/batondrop_armv7) | An implementation of baton drop (CVE-2022-21894) for armv7 (MSM8960) | 2023-03-11T14:38:13Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [p4ncontomat3/CVE-2022-21661](https://github.com/p4ncontomat3/CVE-2022-21661) | Script to validate WordPress CVE-2022-21661 | 2024-01-04T15:49:00Z |
+| [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [CharonDefalt/WordPress--CVE-2022-21661](https://github.com/CharonDefalt/WordPress--CVE-2022-21661) | no description | 2024-03-24T07:03:35Z |
 | [CVE-2022-21449](https://www.cve.org/CVERecord?id=CVE-2022-21449) | [AlexanderZinoni/CVE-2022-21449](https://github.com/AlexanderZinoni/CVE-2022-21449) | no description | 2022-09-04T11:56:58Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
