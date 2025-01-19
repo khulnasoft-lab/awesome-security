@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-18 02:07:54.027296
+Last generated: 2025-01-19 02:16:58.096134
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -225,6 +225,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [l-urk/CVE-2024-6387](https://github.com/l-urk/CVE-2024-6387) | Proof of concept python script for regreSSHion exploit. | 2024-07-30T06:13:11Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387) | no description | 2024-11-24T17:12:26Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zql-gif/CVE-2024-6387](https://github.com/zql-gif/CVE-2024-6387) | no description | 2024-12-19T03:08:19Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [awusan125/test_for6387](https://github.com/awusan125/test_for6387) | test code for cve-2024-6387 | 2024-12-19T10:16:45Z |
 | [CVE-2024-6386](https://www.cve.org/CVERecord?id=CVE-2024-6386) | [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386) | Research and PoC for CVE-2024-6386 | 2024-09-05T14:44:36Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
 | [CVE-2024-6330](https://www.cve.org/CVERecord?id=CVE-2024-6330) | [RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330) | GEO my WordPress &lt; 4.5.0.2 - Unauthenticated LFI to RCE/PHAR Deserialization | 2024-11-20T06:08:32Z |
@@ -250,6 +251,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
+| [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
@@ -278,6 +280,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-53376](https://www.cve.org/CVERecord?id=CVE-2024-53376) | [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376) | CyberPanel authenticated RCE &lt; 2.3.8 | 2024-12-15T22:40:52Z |
 | [CVE-2024-53375](https://www.cve.org/CVERecord?id=CVE-2024-53375) | [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375) | TP-Link Archer AXE75 Authenticated Command Injection | 2024-10-04T12:49:19Z |
+| [CVE-2024-53345](https://www.cve.org/CVERecord?id=CVE-2024-53345) | [ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345) | Critical 0 Day in Car Rental Management System Versions 1.0 - 1.3 | 2024-12-23T08:48:51Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc) | CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX &lt;= 4.1.2 - Missing Authorization to Arbitrary Options Update | 2024-06-01T04:23:54Z |
 | [CVE-2024-5326](https://www.cve.org/CVERecord?id=CVE-2024-5326) | [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc) | no description | 2024-06-14T07:12:29Z |
 | [CVE-2024-53259](https://www.cve.org/CVERecord?id=CVE-2024-53259) | [kota-yata/cve-2024-53259](https://github.com/kota-yata/cve-2024-53259) | no description | 2024-12-04T09:27:22Z |
@@ -315,6 +318,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-51358](https://www.cve.org/CVERecord?id=CVE-2024-51358) | [Kov404/CVE-2024-51358](https://github.com/Kov404/CVE-2024-51358) | no description | 2024-11-02T14:55:00Z |
 | [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124) | no description | 2024-10-30T09:53:42Z |
 | [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [XiaomingX/cve-2024-5124-poc](https://github.com/XiaomingX/cve-2024-5124-poc) | CVE-2024-5124 poc | 2024-12-03T03:18:48Z |
+| [CVE-2024-51228](https://www.cve.org/CVERecord?id=CVE-2024-51228) | [tequilasunsh1ne/CVE_2024_51228](https://github.com/tequilasunsh1ne/CVE_2024_51228) | no description | 2024-12-23T02:36:54Z |
 | [CVE-2024-51179](https://www.cve.org/CVERecord?id=CVE-2024-51179) | [Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179) | no description | 2024-11-08T11:47:07Z |
 | [CVE-2024-51136](https://www.cve.org/CVERecord?id=CVE-2024-51136) | [JAckLosingHeart/CVE-2024-51136-POC](https://github.com/JAckLosingHeart/CVE-2024-51136-POC) | no description | 2024-11-05T02:04:01Z |
 | [CVE-2024-51135](https://www.cve.org/CVERecord?id=CVE-2024-51135) | [JAckLosingHeart/CVE-2024-51135](https://github.com/JAckLosingHeart/CVE-2024-51135) | no description | 2024-11-09T02:57:22Z |
@@ -345,6 +349,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-50677](https://www.cve.org/CVERecord?id=CVE-2024-50677) | [ZumiYumi/CVE-2024-50677](https://github.com/ZumiYumi/CVE-2024-50677) | This repository presents a proof-of-concept of CVE-2024-50677 | 2024-12-06T01:04:44Z |
 | [CVE-2024-50657](https://www.cve.org/CVERecord?id=CVE-2024-50657) | [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657) | no description | 2024-11-15T05:22:27Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623) | Cleo Unrestricted file upload and download PoC (CVE-2024-50623) | 2024-12-11T14:19:55Z |
+| [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623) | CVE-2024-50623 POC - Cleo Unrestricted file upload and download | 2024-12-23T08:52:23Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50510](https://www.cve.org/CVERecord?id=CVE-2024-50510) | [RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510) | AR For Woocommerce &lt;= 6.2 - Unauthenticated Arbitrary File Upload | 2024-12-16T20:15:56Z |
 | [CVE-2024-50509](https://www.cve.org/CVERecord?id=CVE-2024-50509) | [RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509) | Woocommerce Product Design &lt;= 1.0.0 - Unauthenticated Arbitrary File Deletion | 2024-12-16T19:17:07Z |
@@ -371,6 +376,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [JFOZ1010/Nuclei-Template-CVE-2024-50379](https://github.com/JFOZ1010/Nuclei-Template-CVE-2024-50379) | Repositorio para alojar un template de Nuclei para probar el CVE-2024-50379 (en fase de prueba) | 2024-12-20T03:43:47Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379) | CVE-2024-50379 is a critical vulnerability affecting multiple versions of Apache Tomcat, an open source web server and servlet container widely used for deploying Java-based web applications. The vulnerability arises from a  Time-of-Use (TOCTOU) race condition that occurs when compiling JavaServer Pages (JSPs). | 2024-12-20T21:30:49Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc) | RCE through a race condition in Apache Tomcat | 2024-12-21T05:54:29Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379) | tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp | 2024-12-23T07:20:47Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -446,6 +452,8 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2024-48326](https://www.cve.org/CVERecord?id=CVE-2024-48326) | [fabiobsj/CVE-2024-48326](https://github.com/fabiobsj/CVE-2024-48326) | no description | 2024-11-02T19:41:19Z |
 | [CVE-2024-48325](https://www.cve.org/CVERecord?id=CVE-2024-48325) | [osvaldotenorio/cve-2024-48325](https://github.com/osvaldotenorio/cve-2024-48325) | no description | 2024-11-02T17:43:12Z |
 | [CVE-2024-48322](https://www.cve.org/CVERecord?id=CVE-2024-48322) | [trqt/CVE-2024-48322](https://github.com/trqt/CVE-2024-48322) | no description | 2024-11-09T13:52:50Z |
+| [CVE-2024-48246](https://www.cve.org/CVERecord?id=CVE-2024-48246) | [ShadowByte1/CVE-2024-48246](https://github.com/ShadowByte1/CVE-2024-48246) | Vehicle Management System 1.0 - Stored Cross-Site Scripting (XSS) | 2024-12-23T09:23:15Z |
+| [CVE-2024-48245](https://www.cve.org/CVERecord?id=CVE-2024-48245) | [ShadowByte1/CVE-2024-48245](https://github.com/ShadowByte1/CVE-2024-48245) | SQL Injection Vulnerability in Vehicle Management System 1.0 - 1.3 | 2024-12-23T09:16:09Z |
 | [CVE-2024-48217](https://www.cve.org/CVERecord?id=CVE-2024-48217) | [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217) | CVE-2024-48217 Sismart Vulnerability | 2024-11-01T04:44:17Z |
 | [CVE-2024-48208](https://www.cve.org/CVERecord?id=CVE-2024-48208) | [rohilchaudhry/CVE-2024-48208](https://github.com/rohilchaudhry/CVE-2024-48208) | This repo contains all the work surrounding the development of the PoC for CVE-2024-48208, and how a simple OOB(Out-of-bound) read can result in jail escapes as well as broken access control. | 2024-10-30T01:44:32Z |
 | [CVE-2024-48197](https://www.cve.org/CVERecord?id=CVE-2024-48197) | [GCatt-AS/CVE-2024-48197](https://github.com/GCatt-AS/CVE-2024-48197) | Reflected XSS in AudioCodes MP-202b | 2024-12-21T13:07:51Z |
@@ -3834,6 +3842,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6) | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | 2023-08-30T23:57:10Z |
 | [CVE-2023-26144](https://www.cve.org/CVERecord?id=CVE-2023-26144) | [tadhglewis/apollo-koa-minimal](https://github.com/tadhglewis/apollo-koa-minimal) | GraphQL vulnerability disclosure: CVE-2023-26144 | 2023-08-16T11:44:22Z |
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security) | Fix open source package uses tough-cookie 2.5.0 - CVE-2023-26136, | 2024-05-06T17:32:10Z |
+| [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [m-lito13/SealSecurity_Exam](https://github.com/m-lito13/SealSecurity_Exam) | Fix prototype pollution vulnerability (CVE-2023-26136) for tough-cookie package | 2024-09-02T18:50:53Z |
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [hshivhare67/Jetty_v9.4.31_CVE-2023-26049](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2023-26049) | no description | 2023-11-27T07:25:34Z |
@@ -4498,6 +4507,7 @@ Last generated: 2025-01-18 02:07:54.027296
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [pashayogi/DirtyPipe](https://github.com/pashayogi/DirtyPipe) | CVE: CVE-2022-0847 | 2023-09-17T12:43:52Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [yTxZx/CVE-2022-26134](https://github.com/yTxZx/CVE-2022-26134) | no description | 2023-10-20T07:42:36Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [DARKSTUFF-LAB/-CVE-2022-26134](https://github.com/DARKSTUFF-LAB/-CVE-2022-26134) | no description | 2023-12-29T06:51:38Z |
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [404fu/CVE-2022-26134-POC](https://github.com/404fu/CVE-2022-26134-POC) | no description | 2024-03-26T14:18:17Z |
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
