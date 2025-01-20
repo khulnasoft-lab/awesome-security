@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-19 02:16:58.096134
+Last generated: 2025-01-20 02:13:26.193885
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Last generated: 2025-01-19 02:16:58.096134
 | [CVE-2024-9441](https://www.cve.org/CVERecord?id=CVE-2024-9441) | [jk-mayne/CVE-2024-9441-Checker](https://github.com/jk-mayne/CVE-2024-9441-Checker) | A simple python script to test for CVE-2024-9441. | 2024-12-09T17:49:37Z |
 | [CVE-2024-9326](https://www.cve.org/CVERecord?id=CVE-2024-9326) | [ghostwirez/CVE-2024-9326-PoC](https://github.com/ghostwirez/CVE-2024-9326-PoC) | This PoC script is designed to verify the presence of CVE-2024-9326, a high SQL Injection vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates the exploitation process to determine if the target web application is vulnerable, allowing security professionals to assess and confirm the flaw&#x27;s existence. | 2024-11-27T14:49:54Z |
 | [CVE-2024-9290](https://www.cve.org/CVERecord?id=CVE-2024-9290) | [RandomRobbieBF/CVE-2024-9290](https://github.com/RandomRobbieBF/CVE-2024-9290) | Super Backup &amp; Clone - Migrate for WordPress &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload | 2024-12-13T10:49:12Z |
+| [CVE-2024-9290](https://www.cve.org/CVERecord?id=CVE-2024-9290) | [Jenderal92/CVE-2024-9290](https://github.com/Jenderal92/CVE-2024-9290) | The tool targets WordPress websites that use the Super Backup &amp; Clone plugin and are vulnerable to arbitrary file upload. | 2024-12-24T00:04:17Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264) | File Read Proof of Concept for CVE-2024-9264 | 2024-10-20T01:13:37Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264) | Exploit for Grafana arbitrary file-read (CVE-2024-9264) | 2024-10-19T13:50:52Z |
 | [CVE-2024-9264](https://www.cve.org/CVERecord?id=CVE-2024-9264) | [PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264) | no description | 2024-10-21T10:25:27Z |
@@ -252,6 +253,7 @@ Last generated: 2025-01-19 02:16:58.096134
 | [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
+| [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
@@ -276,6 +278,8 @@ Last generated: 2025-01-19 02:16:58.096134
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [XiaomingX/CVE-2024-53677-S2-067](https://github.com/XiaomingX/CVE-2024-53677-S2-067) | A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads. | 2024-12-18T02:03:56Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [dustblessnotdust/CVE-2024-53677-S2-067-thread](https://github.com/dustblessnotdust/CVE-2024-53677-S2-067-thread) | no description | 2024-12-18T18:42:34Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [TAM-K592/CVE-2024-53677-S2-067](https://github.com/TAM-K592/CVE-2024-53677-S2-067) | A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads. | 2024-12-13T17:42:55Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [Q0LT/VM-CVE-2024-53677](https://github.com/Q0LT/VM-CVE-2024-53677) | Struts Vulnerability - CVE-2024-53677 | 2024-12-23T16:32:59Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677) | no description | 2024-12-23T14:22:44Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-53376](https://www.cve.org/CVERecord?id=CVE-2024-53376) | [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376) | CyberPanel authenticated RCE &lt; 2.3.8 | 2024-12-15T22:40:52Z |
@@ -377,6 +381,7 @@ Last generated: 2025-01-19 02:16:58.096134
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [Alchemist3dot14/CVE-2024-50379](https://github.com/Alchemist3dot14/CVE-2024-50379) | CVE-2024-50379 is a critical vulnerability affecting multiple versions of Apache Tomcat, an open source web server and servlet container widely used for deploying Java-based web applications. The vulnerability arises from a  Time-of-Use (TOCTOU) race condition that occurs when compiling JavaServer Pages (JSPs). | 2024-12-20T21:30:49Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc) | RCE through a race condition in Apache Tomcat | 2024-12-21T05:54:29Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379) | tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp | 2024-12-23T07:20:47Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [dear-cell/CVE-2024-50379](https://github.com/dear-cell/CVE-2024-50379) | CVE-2024-50379利用 | 2024-12-23T14:11:46Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -3861,6 +3866,7 @@ Last generated: 2025-01-19 02:16:58.096134
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690) | no description | 2023-12-04T16:58:53Z |
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z |
 | [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z |
+| [CVE-2023-25355](https://www.cve.org/CVERecord?id=CVE-2023-25355) | [glefait/CVE-2023-25355-25356](https://github.com/glefait/CVE-2023-25355-25356) | CVE-2023-25355 and CVE-2023-25356 with automated service reload | 2024-09-04T11:00:23Z |
 | [CVE-2023-25292](https://www.cve.org/CVERecord?id=CVE-2023-25292) | [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292) | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | 2023-04-25T19:27:53Z |
 | [CVE-2023-2523](https://www.cve.org/CVERecord?id=CVE-2023-2523) | [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523) | no description | 2023-09-25T08:21:06Z |
 | [CVE-2023-25203](https://www.cve.org/CVERecord?id=CVE-2023-25203) | [Trackflaw/CVE-2023-25203](https://github.com/Trackflaw/CVE-2023-25203) | CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks | 2024-02-16T08:29:25Z |
