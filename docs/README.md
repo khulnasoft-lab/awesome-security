@@ -2,14 +2,16 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-21 02:12:00.430758
+Last generated: 2025-01-22 02:14:00.961190
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-12-19T08:57:30Z |
+| [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [Nxploited/CVE-2024-9935](https://github.com/Nxploited/CVE-2024-9935) | no description | 2024-12-25T22:59:07Z |
 | [CVE-2024-9933](https://www.cve.org/CVERecord?id=CVE-2024-9933) | [RandomRobbieBF/CVE-2024-9933](https://github.com/RandomRobbieBF/CVE-2024-9933) | WatchTowerHQ &lt;= 3.10.1 - Authentication Bypass to Administrator due to Missing Empty Value Check | 2024-11-05T20:55:09Z |
+| [CVE-2024-9933](https://www.cve.org/CVERecord?id=CVE-2024-9933) | [Nxploited/CVE-2024-9933](https://github.com/Nxploited/CVE-2024-9933) | no description | 2024-12-27T11:03:42Z |
 | [CVE-2024-9932](https://www.cve.org/CVERecord?id=CVE-2024-9932) | [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932) | Wux Blog Editor &lt;= 3.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-05T15:00:39Z |
 | [CVE-2024-9926](https://www.cve.org/CVERecord?id=CVE-2024-9926) | [m3ssap0/wordpress-jetpack-broken-access-control-exploit](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-exploit) | Exploits Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). | 2024-11-01T14:03:55Z |
 | [CVE-2024-9926](https://www.cve.org/CVERecord?id=CVE-2024-9926) | [m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). Run it at your own risk! | 2024-10-23T19:12:55Z |
@@ -384,6 +386,9 @@ Last generated: 2025-01-21 02:12:00.430758
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [ph0ebus/Tomcat-CVE-2024-50379-Poc](https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc) | RCE through a race condition in Apache Tomcat | 2024-12-21T05:54:29Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379) | tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp | 2024-12-23T07:20:47Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [dear-cell/CVE-2024-50379](https://github.com/dear-cell/CVE-2024-50379) | CVE-2024-50379利用 | 2024-12-23T14:11:46Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [v3153/CVE-2024-50379-POC](https://github.com/v3153/CVE-2024-50379-POC) | no description | 2024-12-18T19:53:46Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [bigb0x/CVE-2024-50379](https://github.com/bigb0x/CVE-2024-50379) | Testing the latset Apache Tomcat CVE-2024-50379 Vuln | 2024-12-25T21:50:16Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [dragonked2/CVE-2024-50379-POC](https://github.com/dragonked2/CVE-2024-50379-POC) | This repository contains a Python script designed to exploit CVE-2024-50379, a vulnerability that allows attackers to upload a JSP shell to a vulnerable server and execute arbitrary commands remotely. This exploit is particularly useful when the /uploads directory is either unprotected or not present on the target server. | 2024-12-25T18:42:29Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -1373,6 +1378,7 @@ Last generated: 2025-01-21 02:12:00.430758
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage) | Kernel exploit for Xbox SystemOS using CVE-2024-30088 | 2024-07-15T08:07:05Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [Admin9961/CVE-2024-30088](https://github.com/Admin9961/CVE-2024-30088) | Questa repository contiene una replica (tentativo di replica) scritto in Python per CVE-2024-30088. | 2024-07-27T10:41:33Z |
 | [CVE-2024-30088](https://www.cve.org/CVERecord?id=CVE-2024-30088) | [Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage) | Kernel exploit for Xbox SystemOS using CVE-2024-30088 | 2024-08-25T12:47:10Z |
+| [CVE-2024-30085](https://www.cve.org/CVERecord?id=CVE-2024-30085) | [Adamkadaban/CVE-2024-30085](https://github.com/Adamkadaban/CVE-2024-30085) | CVE-2024-30085 | 2024-12-25T06:03:45Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078) | no description | 2024-06-17T17:48:23Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability) | Only tested in windows 11. Checks if you are protected via windows update against CVE-2024-30078 Windows Wi-Fi Driver Remote Code Execution Vulnerability | 2024-06-18T20:05:06Z |
 | [CVE-2024-30078](https://www.cve.org/CVERecord?id=CVE-2024-30078) | [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC) | no description | 2024-06-18T04:43:31Z |
@@ -2073,6 +2079,7 @@ Last generated: 2025-01-21 02:12:00.430758
 | [CVE-2024-20338](https://www.cve.org/CVERecord?id=CVE-2024-20338) | [annmuor/CVE-2024-20338](https://github.com/annmuor/CVE-2024-20338) | CVE-2024-20338 talk for Behind The Code Talk | 2024-06-10T15:41:41Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [BetterCzz/CVE-2024-20291-POC](https://github.com/BetterCzz/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T05:25:35Z |
 | [CVE-2024-20291](https://www.cve.org/CVERecord?id=CVE-2024-20291) | [Instructor-Team8/CVE-2024-20291-POC](https://github.com/Instructor-Team8/CVE-2024-20291-POC) | CVE-2024-20291-POC exploit ---&gt; RCE | 2024-03-03T08:53:14Z |
+| [CVE-2024-20137](https://www.cve.org/CVERecord?id=CVE-2024-20137) | [takistmr/CVE-2024-20137](https://github.com/takistmr/CVE-2024-20137) | Python code for expoiting of vulnerability in wlan driver of MediaTek SOCs MT6890, MT7622, MT7915, MT7916, MT7981, MT7986 | 2024-12-25T15:01:38Z |
 | [CVE-2024-20017](https://www.cve.org/CVERecord?id=CVE-2024-20017) | [mellow-hype/cve-2024-20017](https://github.com/mellow-hype/cve-2024-20017) | exploits for CVE-2024-20017 | 2024-08-30T05:54:36Z |
 | [CVE-2024-1939](https://www.cve.org/CVERecord?id=CVE-2024-1939) | [rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939) | For V8CTF M122 | 2024-08-25T12:08:54Z |
 | [CVE-2024-1931](https://www.cve.org/CVERecord?id=CVE-2024-1931) | [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction) | CVE-2024-1931-reproduction | 2024-08-13T14:09:20Z |
@@ -2140,6 +2147,7 @@ Last generated: 2025-01-21 02:12:00.430758
 | [CVE-2024-11381](https://www.cve.org/CVERecord?id=CVE-2024-11381) | [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381) | CVE-2024-11381 poc exploit | 2024-11-22T16:53:14Z |
 | [CVE-2024-11320](https://www.cve.org/CVERecord?id=CVE-2024-11320) | [mhaskar/CVE-2024-11320](https://github.com/mhaskar/CVE-2024-11320) | Exploit for Pandora FMS Remote Code Execution CVE-2024-11320 | 2024-12-01T12:39:49Z |
 | [CVE-2024-11318](https://www.cve.org/CVERecord?id=CVE-2024-11318) | [xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) | This repository details an IDOR vulnerability in AbsysNet 2.3.1, which allows a remote attacker to brute-force session IDs via the /cgi-bin/ocap/ endpoint. Successful exploitation can compromise active user sessions, exposing authentication tokens in HTML. The attack is limited to active sessions and is terminated if the user logs out. | 2024-05-21T18:35:35Z |
+| [CVE-2024-11281](https://www.cve.org/CVERecord?id=CVE-2024-11281) | [McTavishSue/CVE-2024-11281](https://github.com/McTavishSue/CVE-2024-11281) | Missing Authorization (CWE-862) | 2024-12-25T18:38:46Z |
 | [CVE-2024-11252](https://www.cve.org/CVERecord?id=CVE-2024-11252) | [reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS](https://github.com/reinh3rz/CVE-2024-11252-Sassy-Social-Share-XSS) | no description | 2024-11-30T14:20:57Z |
 | [CVE-2024-11201](https://www.cve.org/CVERecord?id=CVE-2024-11201) | [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) | TEST | 2024-11-23T09:00:58Z |
 | [CVE-2024-11199](https://www.cve.org/CVERecord?id=CVE-2024-11199) | [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199) | CVE-2024-11199 poc exploit | 2024-11-23T21:43:20Z |
@@ -4426,6 +4434,7 @@ Last generated: 2025-01-21 02:12:00.430758
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [Johnermac/CVE-2022-35914](https://github.com/Johnermac/CVE-2022-35914) | Script in Ruby for the CVE-2022-35914 - RCE in GLPI | 2023-03-07T00:07:28Z |
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc) | no description | 2022-09-30T16:43:28Z |
 | [CVE-2022-3590](https://www.cve.org/CVERecord?id=CVE-2022-3590) | [hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner) | This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature. | 2023-06-12T13:06:54Z |
+| [CVE-2022-35869](https://www.cve.org/CVERecord?id=CVE-2022-35869) | [at4111/CVE_2022_35869](https://github.com/at4111/CVE_2022_35869) | no description | 2024-03-27T16:04:26Z |
 | [CVE-2022-35649](https://www.cve.org/CVERecord?id=CVE-2022-35649) | [antoinenguyen-09/CVE-2022-35649](https://github.com/antoinenguyen-09/CVE-2022-35649) | Payload Generator and Detailed Analysis about CVE-2022-35649 | 2023-03-06T10:09:59Z |
 | [CVE-2022-3564](https://www.cve.org/CVERecord?id=CVE-2022-3564) | [Trinadh465/linux-4.1.15_CVE-2022-3564](https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564) | no description | 2023-09-14T09:07:11Z |
 | [CVE-2022-3552](https://www.cve.org/CVERecord?id=CVE-2022-3552) | [kabir0x23/CVE-2022-3552](https://github.com/kabir0x23/CVE-2022-3552) | BoxBilling&lt;=4.22.1.5 - Remote Code Execution (RCE) | 2023-04-01T11:53:14Z |
