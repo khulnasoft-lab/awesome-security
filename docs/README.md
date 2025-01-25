@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-24 02:12:34.609444
+Last generated: 2025-01-25 02:07:21.011568
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2024-9659](https://www.cve.org/CVERecord?id=CVE-2024-9659) | [zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659) | CVE-2024-9659: Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-25T19:16:58Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593) | Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution | 2024-10-18T09:11:03Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [0x4f5da2-venom/CVE-2024-9593-EXP](https://github.com/0x4f5da2-venom/CVE-2024-9593-EXP) | CVE-2024-9593  WordPress插件的远程代码执行 | 2024-11-18T08:22:44Z |
+| [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [Nxploited/CVE-2024-9593-Exploit](https://github.com/Nxploited/CVE-2024-9593-Exploit) | no description | 2025-01-01T15:49:36Z |
 | [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474) | PAN-OS auth bypass + RCE | 2024-11-19T17:26:27Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474) | PoC for PAN-OS Exploit | 2024-11-20T22:31:50Z |
@@ -110,6 +111,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2024-7313](https://www.cve.org/CVERecord?id=CVE-2024-7313) | [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313) | Custom Proof-of-Concept on XSS to Unauthorized Admin Account Creation via WordPress Plugin Shield Security &lt; 20.0.6 | 2024-08-16T01:01:57Z |
 | [CVE-2024-7188](https://www.cve.org/CVERecord?id=CVE-2024-7188) | [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC) | Mass Exploit &lt; [CVE-2024-7188 - Bylancer Quicklancer] - SQL Injection | 2024-07-30T10:51:24Z |
 | [CVE-2024-7135](https://www.cve.org/CVERecord?id=CVE-2024-7135) | [RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135) | Tainacan &lt;= 0.21.7 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Read | 2024-10-11T10:56:59Z |
+| [CVE-2024-7135](https://www.cve.org/CVERecord?id=CVE-2024-7135) | [Nxploited/CVE-2024-7135](https://github.com/Nxploited/CVE-2024-7135) | no description | 2025-01-01T01:07:29Z |
 | [CVE-2024-7124](https://www.cve.org/CVERecord?id=CVE-2024-7124) | [kac89/CVE-2024-7124](https://github.com/kac89/CVE-2024-7124) | Improper Neutralization of Input During Web Page Generation vulnerability in DInGO dLibra software in the parameter &#x27;filter&#x27; in the endpoint &#x27;indexsearch&#x27; allows a Reflected Cross-Site Scripting (XSS). | 2024-11-14T16:05:44Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC) | Mass Exploit &lt; [CVE-2024-7120 - Raisecom] - Command Injection | 2024-08-01T17:39:45Z |
 | [CVE-2024-7120](https://www.cve.org/CVERecord?id=CVE-2024-7120) | [fa-rrel/CVE-2024-7120](https://github.com/fa-rrel/CVE-2024-7120) | ⚠️⚠️ CVE-2024-7120 Command Injection Vulnerability in RAISECOM Gateway Devices | 2024-08-30T15:50:50Z |
@@ -291,6 +293,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677) | no description | 2024-12-23T14:22:44Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
+| [CVE-2024-53522](https://www.cve.org/CVERecord?id=CVE-2024-53522) | [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522) | PoC for CVE-2024-53522 affecting HOSxP XE 4 | 2025-01-02T04:13:37Z |
 | [CVE-2024-53376](https://www.cve.org/CVERecord?id=CVE-2024-53376) | [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376) | CyberPanel authenticated RCE &lt; 2.3.8 | 2024-12-15T22:40:52Z |
 | [CVE-2024-53375](https://www.cve.org/CVERecord?id=CVE-2024-53375) | [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375) | TP-Link Archer AXE75 Authenticated Command Injection | 2024-10-04T12:49:19Z |
 | [CVE-2024-53345](https://www.cve.org/CVERecord?id=CVE-2024-53345) | [ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345) | Critical 0 Day in Car Rental Management System Versions 1.0 - 1.3 | 2024-12-23T08:48:51Z |
@@ -826,6 +829,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC) | CVE-2024-38816 Proof of Concept | 2024-09-28T23:16:23Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [Galaxy-system/cve-2024-38816](https://github.com/Galaxy-system/cve-2024-38816) | no description | 2024-10-15T11:33:13Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [Anthony1078/App-vulnerable](https://github.com/Anthony1078/App-vulnerable) | CVE-2024-38816 | 2024-12-02T02:14:49Z |
+| [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [wdragondragon/spring-framework](https://github.com/wdragondragon/spring-framework) | Fixed cve-2024-38816 based on version 5.3.39 | 2025-01-02T07:50:31Z |
 | [CVE-2024-38812](https://www.cve.org/CVERecord?id=CVE-2024-38812) | [groshi/CVE-2024-38812-POC-5-Hands-Private](https://github.com/groshi/CVE-2024-38812-POC-5-Hands-Private) | CVE-2024-38812 : Critical Heap-Buffer Overflow vulnerability in VMWare vCenter. | 2024-10-24T12:52:49Z |
 | [CVE-2024-38793](https://www.cve.org/CVERecord?id=CVE-2024-38793) | [ret2desync/CVE-2024-38793-PoC](https://github.com/ret2desync/CVE-2024-38793-PoC) | Proof of Concept code for exploitation of CVE-2024-38793 (Best Restaurant Menu by PriceListo &lt;= 1.4.1 - Authenticated (Contributor+) SQL Injection) | 2024-08-18T10:26:23Z |
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
@@ -2226,6 +2230,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
 | [CVE-2024-10410](https://www.cve.org/CVERecord?id=CVE-2024-10410) | [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410) | no description | 2024-10-25T14:15:56Z |
+| [CVE-2024-10400](https://www.cve.org/CVERecord?id=CVE-2024-10400) | [k0ns0l/CVE-2024-10400](https://github.com/k0ns0l/CVE-2024-10400) | [POC][Exploit] CVE-2024-10400 | 2025-01-02T00:12:53Z |
 | [CVE-2024-10355](https://www.cve.org/CVERecord?id=CVE-2024-10355) | [K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355) | no description | 2024-10-23T08:59:51Z |
 | [CVE-2024-10354](https://www.cve.org/CVERecord?id=CVE-2024-10354) | [K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354) | no description | 2024-10-23T08:37:18Z |
 | [CVE-2024-10245](https://www.cve.org/CVERecord?id=CVE-2024-10245) | [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245) | Relais 2FA &lt;= 1.0 - Authentication Bypass | 2024-11-17T16:34:28Z |
@@ -4006,6 +4011,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809) | Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine. | 2023-08-06T06:46:40Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809) | no description | 2024-08-14T07:48:10Z |
 | [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [laxmiyamkolu/SUDO-privilege-escalation](https://github.com/laxmiyamkolu/SUDO-privilege-escalation) | Sudo Privilege Escalation: CVE-2023-22809 Simulation  This project simulates the Sudo privilege escalation vulnerability (CVE-2023-22809) to demonstrate how unauthorized root access can be gained. It involves identifying and exploiting this vulnerability in a controlled environment using Parrot OS, the Sudo command, and Bash scripting. | 2024-08-26T06:27:59Z |
+| [CVE-2023-22809](https://www.cve.org/CVERecord?id=CVE-2023-22809) | [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) | no description | 2024-08-28T14:22:53Z |
 | [CVE-2023-22622](https://www.cve.org/CVERecord?id=CVE-2023-22622) | [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622) | Python Script that will DoS a WP server that is utilizing WP-CRON | 2024-03-20T13:48:48Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) | CVE-2023-2255 Libre Office | 2023-07-10T20:54:56Z |
 | [CVE-2023-2255](https://www.cve.org/CVERecord?id=CVE-2023-2255) | [Mathieuleto/CVE-2023-2255](https://github.com/Mathieuleto/CVE-2023-2255) | exploit from CVE-2023-2255 | 2024-01-19T20:49:31Z |
@@ -4392,6 +4398,7 @@ Last generated: 2025-01-24 02:12:34.609444
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [Mustafa1986/cve-2022-42475-Fortinet](https://github.com/Mustafa1986/cve-2022-42475-Fortinet) | no description | 2023-03-22T04:26:22Z |
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [Amir-hy/cve-2022-42475](https://github.com/Amir-hy/cve-2022-42475) | FortiOS buffer overflow vulnerability | 2023-03-16T00:05:30Z |
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [scrt/cve-2022-42475](https://github.com/scrt/cve-2022-42475) | POC code to exploit the Heap overflow in Fortinet&#x27;s SSLVPN daemon | 2023-02-23T10:04:58Z |
+| [CVE-2022-42176](https://www.cve.org/CVERecord?id=CVE-2022-42176) | [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176) | no description | 2022-11-02T01:39:49Z |
 | [CVE-2022-42045](https://www.cve.org/CVERecord?id=CVE-2022-42045) | [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045) | no description | 2022-10-23T15:58:18Z |
 | [CVE-2022-41876](https://www.cve.org/CVERecord?id=CVE-2022-41876) | [Skileau/CVE-2022-41876](https://github.com/Skileau/CVE-2022-41876) | PoC for CVE-2022-41876 | 2023-03-21T17:05:07Z |
 | [CVE-2022-41853](https://www.cve.org/CVERecord?id=CVE-2022-41853) | [mbadanoiu/CVE-2022-41853](https://github.com/mbadanoiu/CVE-2022-41853) | Research into CVE-2022-41853: Using static functions to obtian RCE via Java Deserialization &amp; Remote Codebase Attack | 2023-11-24T10:30:56Z |
