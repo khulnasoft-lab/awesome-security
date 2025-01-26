@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-25 02:07:21.011568
+Last generated: 2025-01-26 02:14:36.991344
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -264,6 +264,7 @@ Last generated: 2025-01-25 02:07:21.011568
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
+| [CVE-2024-55980](https://www.cve.org/CVERecord?id=CVE-2024-55980) | [RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980) | Wr Age Verification &lt;= 2.0.0 - Unauthenticated SQL Injection | 2025-01-02T11:11:48Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [Wi1DN00B/CVE-2024-55968](https://github.com/Wi1DN00B/CVE-2024-55968) | Exploit POC Code for CVE-2024-55968 | 2024-12-17T21:07:59Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
@@ -279,6 +280,7 @@ Last generated: 2025-01-25 02:07:21.011568
 | [CVE-2024-54379](https://www.cve.org/CVERecord?id=CVE-2024-54379) | [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) | Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:04:01Z |
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
+| [CVE-2024-54330](https://www.cve.org/CVERecord?id=CVE-2024-54330) | [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) | Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery | 2025-01-02T10:31:51Z |
 | [CVE-2024-54262](https://www.cve.org/CVERecord?id=CVE-2024-54262) | [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262) | Import Export For WooCommerce &lt;= 1.5 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-12-19T14:42:06Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
@@ -3651,6 +3653,7 @@ Last generated: 2025-01-25 02:07:21.011568
 | [CVE-2023-30845](https://www.cve.org/CVERecord?id=CVE-2023-30845) | [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845) | Explore CVE 2023-30845 automatically across multiple subdomains | 2023-09-22T01:14:20Z |
 | [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC) | Proof of concept for CVE-2023-30800 | 2024-07-17T06:24:41Z |
 | [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [griffinsectio/CVE-2023-30800_PoC_go](https://github.com/griffinsectio/CVE-2023-30800_PoC_go) | no description | 2024-07-22T09:03:35Z |
+| [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [KhogenTheRabbit/cve-2023-30800-multithread-doser](https://github.com/KhogenTheRabbit/cve-2023-30800-multithread-doser) | Multithredded DoS Python Script For CVE-2023-30800 | 2024-09-06T15:17:06Z |
 | [CVE-2023-3079](https://www.cve.org/CVERecord?id=CVE-2023-3079) | [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) | no description | 2023-08-15T04:16:46Z |
 | [CVE-2023-30777](https://www.cve.org/CVERecord?id=CVE-2023-30777) | [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777) | Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin. | 2023-06-17T12:43:51Z |
 | [CVE-2023-30765](https://www.cve.org/CVERecord?id=CVE-2023-30765) | [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765) | CVE-2023-30765 / ZDI-23-905 -  Delta Electronics Infrasuite Device Master Privilege Escalation | 2023-07-19T14:21:15Z |
