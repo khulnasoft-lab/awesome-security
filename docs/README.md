@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-26 02:14:36.991344
+Last generated: 2025-01-27 02:13:49.059803
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Last generated: 2025-01-26 02:14:36.991344
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [issamjr/CVE-2024-9796](https://github.com/issamjr/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-11-15T22:55:18Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
+| [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner) | A vulnerability scanner for Firefox and Thunderbird that checks if your versions are out of date and susceptible to CVE-2024-9680. | 2025-01-02T12:21:19Z |
 | [CVE-2024-9659](https://www.cve.org/CVERecord?id=CVE-2024-9659) | [zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659) | CVE-2024-9659: Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-25T19:16:58Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593) | Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution | 2024-10-18T09:11:03Z |
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [0x4f5da2-venom/CVE-2024-9593-EXP](https://github.com/0x4f5da2-venom/CVE-2024-9593-EXP) | CVE-2024-9593  WordPress插件的远程代码执行 | 2024-11-18T08:22:44Z |
@@ -5140,6 +5141,7 @@ Last generated: 2025-01-26 02:14:36.991344
 | [CVE-2021-26084](https://www.cve.org/CVERecord?id=CVE-2021-26084) | [BBD-YZZ/Confluence-RCE](https://github.com/BBD-YZZ/Confluence-RCE) | confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527) | 2024-05-29T03:20:22Z |
 | [CVE-2021-25741](https://www.cve.org/CVERecord?id=CVE-2021-25741) | [cdxiaodong/CVE-2021-25741](https://github.com/cdxiaodong/CVE-2021-25741) | fork on Betep0k/CVE-2021-25741/fork whose images is useless and test on metarget | 2023-10-19T07:26:11Z |
 | [CVE-2021-25641](https://www.cve.org/CVERecord?id=CVE-2021-25641) | [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641) | A Exploit Tool For CVE-2021-25641. | 2022-11-10T06:33:54Z |
+| [CVE-2021-25374](https://www.cve.org/CVERecord?id=CVE-2021-25374) | [WithSecureLabs/CVE-2021-25374_Samsung-Account-Access](https://github.com/WithSecureLabs/CVE-2021-25374_Samsung-Account-Access) | This script can be used to gain access to a victim&#x27;s Samsung Account if they have a specific version of Samsung Members installed on their Samsung Device, and if the victim&#x27;s device is from the US or Korea region. | 2021-04-10T09:23:52Z |
 | [CVE-2021-25253](https://www.cve.org/CVERecord?id=CVE-2021-25253) | [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253) | no description | 2023-05-12T20:51:50Z |
 | [CVE-2021-25094](https://www.cve.org/CVERecord?id=CVE-2021-25094) | [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce) | no description | 2022-01-03T21:19:42Z |
 | [CVE-2021-25032](https://www.cve.org/CVERecord?id=CVE-2021-25032) | [RandomRobbieBF/CVE-2021-25032](https://github.com/RandomRobbieBF/CVE-2021-25032) | PublishPress Capabilities &lt; 2.3.1 - Unauthenticated Arbitrary Options Update to Blog Compromise | 2023-08-09T10:41:07Z |
