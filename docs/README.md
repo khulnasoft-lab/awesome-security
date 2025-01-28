@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-27 02:13:49.059803
+Last generated: 2025-01-28 02:11:52.612662
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -266,6 +266,7 @@ Last generated: 2025-01-27 02:13:49.059803
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-55980](https://www.cve.org/CVERecord?id=CVE-2024-55980) | [RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980) | Wr Age Verification &lt;= 2.0.0 - Unauthenticated SQL Injection | 2025-01-02T11:11:48Z |
+| [CVE-2024-55978](https://www.cve.org/CVERecord?id=CVE-2024-55978) | [RandomRobbieBF/CVE-2024-55978](https://github.com/RandomRobbieBF/CVE-2024-55978) | Code Generator Pro &lt;= 1.2 - Unauthenticated SQL Injection | 2025-01-02T13:21:36Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [Wi1DN00B/CVE-2024-55968](https://github.com/Wi1DN00B/CVE-2024-55968) | Exploit POC Code for CVE-2024-55968 | 2024-12-17T21:07:59Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
@@ -278,6 +279,7 @@ Last generated: 2025-01-27 02:13:49.059803
 | [CVE-2024-54819](https://www.cve.org/CVERecord?id=CVE-2024-54819) | [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819) | CVE-2024-54819 | 2024-12-30T23:06:22Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
+| [CVE-2024-54385](https://www.cve.org/CVERecord?id=CVE-2024-54385) | [RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385) | Radio Player &lt;= 2.0.82 - Blind Unauthenticated Server-Side Request Forgery | 2025-01-02T13:40:14Z |
 | [CVE-2024-54379](https://www.cve.org/CVERecord?id=CVE-2024-54379) | [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) | Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:04:01Z |
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
@@ -5169,6 +5171,7 @@ Last generated: 2025-01-27 02:13:49.059803
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [pashayogi/CVE-2021-22555](https://github.com/pashayogi/CVE-2021-22555) | Linux Kernel 2.6.19 &lt; 5.9 - &#x27;Netfilter Local Privilege Escalation&#x27; | 2023-08-20T14:26:28Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [tukru/CVE-2021-22555](https://github.com/tukru/CVE-2021-22555) | This repo hosts TUKRU&#x27;s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically. | 2023-08-05T18:56:18Z |
 | [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [letsr00t/-2021-LOCALROOT-CVE-2021-22555](https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555) | no description | 2024-02-05T07:05:13Z |
+| [CVE-2021-22555](https://www.cve.org/CVERecord?id=CVE-2021-22555) | [letsr00t/CVE-2021-22555](https://github.com/letsr00t/CVE-2021-22555) | no description | 2024-02-27T05:22:13Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205) | no description | 2023-03-09T11:53:37Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [hhhotdrink/CVE-2021-22205](https://github.com/hhhotdrink/CVE-2021-22205) | no description | 2023-02-27T07:42:12Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-10-29T04:30:45Z |
