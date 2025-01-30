@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-29 02:11:16.428046
+Last generated: 2025-01-30 02:10:16.604120
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -283,6 +283,7 @@ Last generated: 2025-01-29 02:11:16.428046
 | [CVE-2024-54379](https://www.cve.org/CVERecord?id=CVE-2024-54379) | [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) | Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:04:01Z |
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
+| [CVE-2024-54363](https://www.cve.org/CVERecord?id=CVE-2024-54363) | [RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363) | Wp NssUser Register &lt;= 1.0.0 - Unauthenticated Privilege Escalation | 2025-01-02T14:41:52Z |
 | [CVE-2024-54330](https://www.cve.org/CVERecord?id=CVE-2024-54330) | [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) | Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery | 2025-01-02T10:31:51Z |
 | [CVE-2024-54262](https://www.cve.org/CVERecord?id=CVE-2024-54262) | [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262) | Import Export For WooCommerce &lt;= 1.5 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-12-19T14:42:06Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
@@ -359,6 +360,7 @@ Last generated: 2025-01-29 02:11:16.428046
 | [CVE-2024-50964](https://www.cve.org/CVERecord?id=CVE-2024-50964) | [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) | MX Server misconfiguration | 2024-11-13T07:49:09Z |
 | [CVE-2024-50962](https://www.cve.org/CVERecord?id=CVE-2024-50962) | [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) | A Cross-Site Scripting (XSS) vulnerability | 2024-11-13T07:47:38Z |
 | [CVE-2024-50961](https://www.cve.org/CVERecord?id=CVE-2024-50961) | [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) | Remote attacker can access sensitive data exposed on the URL | 2024-11-13T07:43:06Z |
+| [CVE-2024-50944](https://www.cve.org/CVERecord?id=CVE-2024-50944) | [AbdullahAlmutawa/CVE-2024-50944](https://github.com/AbdullahAlmutawa/CVE-2024-50944) | Integer Overflow in Cart Logic in SimplCommerce allows remote attackers to manipulate product quantities and total prices via crafted inputs that exploit insufficient validation of the quantity parameter. | 2024-12-19T23:33:21Z |
 | [CVE-2024-50849](https://www.cve.org/CVERecord?id=CVE-2024-50849) | [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849) | no description | 2024-11-15T19:51:18Z |
 | [CVE-2024-50848](https://www.cve.org/CVERecord?id=CVE-2024-50848) | [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848) | no description | 2024-11-15T18:57:25Z |
 | [CVE-2024-5084](https://www.cve.org/CVERecord?id=CVE-2024-5084) | [Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084) | Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 2024-05-27T20:04:10Z |
@@ -436,7 +438,9 @@ Last generated: 2025-01-29 02:11:16.428046
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
 | [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
+| [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113) | LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113 | 2025-01-01T15:48:38Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor) | A short scraper looking for a POC of CVE-2024-49112 | 2024-12-16T13:41:40Z |
+| [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112) | no description | 2025-01-02T14:02:33Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [Alexandr-bit253/CVE-2024-49039](https://github.com/Alexandr-bit253/CVE-2024-49039) | no description | 2024-12-16T13:25:56Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC) | PoC for CVE-2024-48990 | 2024-11-20T18:41:25Z |
@@ -827,6 +831,7 @@ Last generated: 2025-01-29 02:11:16.428046
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856) | Nuclei template to scan for Apache Ofbiz  affecting versions before 18.12.15 | 2024-08-27T21:16:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc) | CVE-2024-38856 是 Apache OFBiz 中的一个严重漏洞，允许未经身份验证的攻击者在受影响的系统上执行任意代码。 | 2024-11-23T03:54:28Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen) | Tentang Pemindai &amp; Eksploitasi Apache OFBiz RCE (CVE-2024-38856) | 2025-01-02T15:25:31Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821) | cve-2024-38821 | 2024-10-30T14:38:37Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [GhostS3c/CVE-2024-38819](https://github.com/GhostS3c/CVE-2024-38819) | CVE-2024-38819 nuclei template | 2024-12-16T08:48:12Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [masa42/CVE-2024-38819-POC](https://github.com/masa42/CVE-2024-38819-POC) | no description | 2024-12-14T09:22:33Z |
@@ -5040,6 +5045,7 @@ Last generated: 2025-01-29 02:11:16.428046
 | [CVE-2021-33560](https://www.cve.org/CVERecord?id=CVE-2021-33560) | [r3t4k3r/hikvision_brute](https://github.com/r3t4k3r/hikvision_brute) | Brute Hikvision CAMS with CVE-2021-36260 Exploit | 2023-07-18T00:31:47Z |
 | [CVE-2021-33558](https://www.cve.org/CVERecord?id=CVE-2021-33558) | [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558) | CVE-2021-33558 POC | 2022-11-28T03:50:10Z |
 | [CVE-2021-3347](https://www.cve.org/CVERecord?id=CVE-2021-3347) | [nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347) | no description | 2022-04-26T11:32:34Z |
+| [CVE-2021-3345](https://www.cve.org/CVERecord?id=CVE-2021-3345) | [SpiralBL0CK/CVE-2021-3345](https://github.com/SpiralBL0CK/CVE-2021-3345) | Actual working exploit for CVE-2021-3345 | 2024-02-29T22:05:44Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [rjt-gupta/CVE-2021-33104](https://github.com/rjt-gupta/CVE-2021-33104) | CVE-2021-33104 - Improper access control in the Intel(R) OFU software | 2023-03-15T07:45:02Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor) | PKEXEC Shell Executor for CVE-2021-4034 Pwnkit | 2022-08-20T05:31:59Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Sma-Das/Log4j-PoC](https://github.com/Sma-Das/Log4j-PoC) | An educational Proof of Concept for the Log4j Vulnerability (CVE-2021-44228) in Minecraft | 2023-03-14T18:49:36Z |
