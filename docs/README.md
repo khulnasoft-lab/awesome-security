@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-30 02:10:16.604120
+Last generated: 2025-01-31 02:11:53.797448
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -300,6 +300,7 @@ Last generated: 2025-01-30 02:10:16.604120
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-53522](https://www.cve.org/CVERecord?id=CVE-2024-53522) | [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522) | PoC for CVE-2024-53522 affecting HOSxP XE 4 | 2025-01-02T04:13:37Z |
+| [CVE-2024-53476](https://www.cve.org/CVERecord?id=CVE-2024-53476) | [AbdullahAlmutawa/CVE-2024-53476](https://github.com/AbdullahAlmutawa/CVE-2024-53476) | SimplCommerce is affected by a race condition vulnerability in the checkout logic, allowing multiple users to purchase more products than are in stock via simultaneous checkout requests. | 2024-12-20T00:27:22Z |
 | [CVE-2024-53376](https://www.cve.org/CVERecord?id=CVE-2024-53376) | [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376) | CyberPanel authenticated RCE &lt; 2.3.8 | 2024-12-15T22:40:52Z |
 | [CVE-2024-53375](https://www.cve.org/CVERecord?id=CVE-2024-53375) | [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375) | TP-Link Archer AXE75 Authenticated Command Injection | 2024-10-04T12:49:19Z |
 | [CVE-2024-53345](https://www.cve.org/CVERecord?id=CVE-2024-53345) | [ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345) | Critical 0 Day in Car Rental Management System Versions 1.0 - 1.3 | 2024-12-23T08:48:51Z |
@@ -360,6 +361,7 @@ Last generated: 2025-01-30 02:10:16.604120
 | [CVE-2024-50964](https://www.cve.org/CVERecord?id=CVE-2024-50964) | [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) | MX Server misconfiguration | 2024-11-13T07:49:09Z |
 | [CVE-2024-50962](https://www.cve.org/CVERecord?id=CVE-2024-50962) | [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) | A Cross-Site Scripting (XSS) vulnerability | 2024-11-13T07:47:38Z |
 | [CVE-2024-50961](https://www.cve.org/CVERecord?id=CVE-2024-50961) | [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) | Remote attacker can access sensitive data exposed on the URL | 2024-11-13T07:43:06Z |
+| [CVE-2024-50945](https://www.cve.org/CVERecord?id=CVE-2024-50945) | [AbdullahAlmutawa/CVE-2024-50945](https://github.com/AbdullahAlmutawa/CVE-2024-50945) | SimplCommerce is affected by a Broken Access Control vulnerability in the review system, allowing unauthorized users to post reviews for products they have not purchased. | 2024-12-20T00:43:18Z |
 | [CVE-2024-50944](https://www.cve.org/CVERecord?id=CVE-2024-50944) | [AbdullahAlmutawa/CVE-2024-50944](https://github.com/AbdullahAlmutawa/CVE-2024-50944) | Integer Overflow in Cart Logic in SimplCommerce allows remote attackers to manipulate product quantities and total prices via crafted inputs that exploit insufficient validation of the quantity parameter. | 2024-12-19T23:33:21Z |
 | [CVE-2024-50849](https://www.cve.org/CVERecord?id=CVE-2024-50849) | [Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849) | no description | 2024-11-15T19:51:18Z |
 | [CVE-2024-50848](https://www.cve.org/CVERecord?id=CVE-2024-50848) | [Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848) | no description | 2024-11-15T18:57:25Z |
@@ -1853,6 +1855,7 @@ Last generated: 2025-01-30 02:10:16.604120
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [cc3305/CVE-2024-23897](https://github.com/cc3305/CVE-2024-23897) | CVE-2024-23897 exploit script | 2024-07-28T19:16:13Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [tamatee/test_cve_2024_23897](https://github.com/tamatee/test_cve_2024_23897) | no description | 2024-11-05T15:50:20Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins](https://github.com/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins) | no description | 2024-12-08T08:13:34Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Marouane133/jenkins-lfi](https://github.com/Marouane133/jenkins-lfi) | Jenkins CVE-2024-23897 POC : Arbitrary File Read Vulnerability Leading to RCE | 2025-01-02T03:28:56Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -4098,6 +4101,7 @@ Last generated: 2025-01-30 02:10:16.604120
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768) | Windows_AFD_LPE_CVE-2023-21768 | 2023-03-13T20:32:50Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Ha0-Y/CVE-2023-21768](https://github.com/Ha0-Y/CVE-2023-21768) | CVE-2023-21768 Proof of Concept | 2024-04-07T02:26:36Z |
+| [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [xboxoneresearch/CVE-2023-21768-dotnet](https://github.com/xboxoneresearch/CVE-2023-21768-dotnet) | C# / .NET version of CVE-2023-21768 | 2024-05-15T17:42:10Z |
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z |
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z |
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z |
@@ -4863,6 +4867,7 @@ Last generated: 2025-01-30 02:10:16.604120
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [katseyres2/CVE-2021-43798](https://github.com/katseyres2/CVE-2021-43798) | no description | 2023-10-26T14:21:49Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [Iris288/CVE-2021-43798](https://github.com/Iris288/CVE-2021-43798) | no description | 2023-11-21T11:24:54Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [wagneralves/CVE-2021-43798](https://github.com/wagneralves/CVE-2021-43798) | Directory Traversal and Arbitrary File Read on Grafana | 2023-12-21T14:24:53Z |
+| [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT) | A PoC exploit for CVE-2021-43798 - Grafana Directory Traversal | 2024-03-04T18:32:21Z |
 | [CVE-2021-43657](https://www.cve.org/CVERecord?id=CVE-2021-43657) | [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657) | This is a reference/POC for CVE-2021-43657 | 2022-11-08T02:13:29Z |
 | [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617) | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | 2023-06-08T08:05:36Z |
 | [CVE-2021-43609](https://www.cve.org/CVERecord?id=CVE-2021-43609) | [d5sec/CVE-2021-43609-POC](https://github.com/d5sec/CVE-2021-43609-POC) | Proof of Concept Exploit for CVE-2021-43609 | 2023-11-06T21:13:21Z |
