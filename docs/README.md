@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-01-31 02:11:53.797448
+Last generated: 2025-02-01 02:15:35.231211
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -282,6 +282,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2024-54385](https://www.cve.org/CVERecord?id=CVE-2024-54385) | [RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385) | Radio Player &lt;= 2.0.82 - Blind Unauthenticated Server-Side Request Forgery | 2025-01-02T13:40:14Z |
 | [CVE-2024-54379](https://www.cve.org/CVERecord?id=CVE-2024-54379) | [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) | Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:04:01Z |
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
+| [CVE-2024-54374](https://www.cve.org/CVERecord?id=CVE-2024-54374) | [RandomRobbieBF/CVE-2024-54374](https://github.com/RandomRobbieBF/CVE-2024-54374) | Sogrid &lt;= 1.5.6 - Unauthenticated Local File Inclusion | 2025-01-03T10:08:54Z |
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
 | [CVE-2024-54363](https://www.cve.org/CVERecord?id=CVE-2024-54363) | [RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363) | Wp NssUser Register &lt;= 1.0.0 - Unauthenticated Privilege Escalation | 2025-01-02T14:41:52Z |
 | [CVE-2024-54330](https://www.cve.org/CVERecord?id=CVE-2024-54330) | [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) | Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery | 2025-01-02T10:31:51Z |
@@ -340,6 +341,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2024-51435](https://www.cve.org/CVERecord?id=CVE-2024-51435) | [bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435) | bloodbank POCs | 2024-10-25T23:28:09Z |
 | [CVE-2024-51430](https://www.cve.org/CVERecord?id=CVE-2024-51430) | [BLACK-SCORP10/CVE-2024-51430](https://github.com/BLACK-SCORP10/CVE-2024-51430) | The Online Diagnostic Lab Management System has a security problem called Cross-Site Scripting (XSS) in the Borrower section. | 2024-10-29T19:32:05Z |
 | [CVE-2024-51378](https://www.cve.org/CVERecord?id=CVE-2024-51378) | [refr4g/CVE-2024-51378](https://github.com/refr4g/CVE-2024-51378) | Exploit for CyberPanel Pre-Auth RCE via Command Injection | 2024-10-29T23:34:27Z |
+| [CVE-2024-51378](https://www.cve.org/CVERecord?id=CVE-2024-51378) | [i0x29A/CVE-2024-51378](https://github.com/i0x29A/CVE-2024-51378) | A Python script to scan websites for the CVE-2024-51378 vulnerability. | 2025-01-03T08:05:07Z |
 | [CVE-2024-51358](https://www.cve.org/CVERecord?id=CVE-2024-51358) | [Kov404/CVE-2024-51358](https://github.com/Kov404/CVE-2024-51358) | no description | 2024-11-02T14:55:00Z |
 | [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124) | no description | 2024-10-30T09:53:42Z |
 | [CVE-2024-5124](https://www.cve.org/CVERecord?id=CVE-2024-5124) | [XiaomingX/cve-2024-5124-poc](https://github.com/XiaomingX/cve-2024-5124-poc) | CVE-2024-5124 poc | 2024-12-03T03:18:48Z |
@@ -441,6 +443,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
 | [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113) | LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113 | 2025-01-01T15:48:38Z |
+| [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker) | no description | 2025-01-03T07:05:33Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor) | A short scraper looking for a POC of CVE-2024-49112 | 2024-12-16T13:41:40Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112) | no description | 2025-01-02T14:02:33Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
@@ -4590,6 +4593,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2022-24992](https://www.cve.org/CVERecord?id=CVE-2022-24992) | [n0lsecurity/CVE-2022-24992](https://github.com/n0lsecurity/CVE-2022-24992) | CVE-2022–24992 | 2023-07-11T14:26:58Z |
 | [CVE-2022-24934](https://www.cve.org/CVERecord?id=CVE-2022-24934) | [webraybtl/CVE-2022-24934](https://github.com/webraybtl/CVE-2022-24934) | no description | 2022-03-31T09:59:01Z |
 | [CVE-2022-24834](https://www.cve.org/CVERecord?id=CVE-2022-24834) | [convisolabs/CVE-2022-24834](https://github.com/convisolabs/CVE-2022-24834) | no description | 2023-07-28T17:42:33Z |
+| [CVE-2022-24818](https://www.cve.org/CVERecord?id=CVE-2022-24818) | [mbadanoiu/CVE-2022-24818](https://github.com/mbadanoiu/CVE-2022-24818) | CVE-2022-24818: Java Deserialization via Unchecked JNDI Lookups in GeoServer and GeoTools | 2024-04-01T13:06:31Z |
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [antisecc/CVE-2022-24716](https://github.com/antisecc/CVE-2022-24716) | no description | 2023-05-20T18:43:46Z |
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [joaoviictorti/CVE-2022-24716](https://github.com/joaoviictorti/CVE-2022-24716) | CVE-2022-24716 - Arbitrary File Disclosure Icingaweb2 | 2023-03-20T02:25:55Z |
 | [CVE-2022-24716](https://www.cve.org/CVERecord?id=CVE-2022-24716) | [JacobEbben/CVE-2022-24716](https://github.com/JacobEbben/CVE-2022-24716) | Arbitrary File Disclosure Vulnerability in Icinga Web 2 &lt;2.8.6, &lt;2.9.6, &lt;2.10 | 2023-03-19T20:41:46Z |
@@ -4650,6 +4654,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [jakabakos/spring4shell](https://github.com/jakabakos/spring4shell) | PoC and exploit for CVE-2022-22965 Spring4Shell | 2023-06-20T11:45:29Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Le1a/CVE-2022-22947](https://github.com/Le1a/CVE-2022-22947) | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | 2023-05-26T11:52:22Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [wallbreak1991/cve-2022-22947](https://github.com/wallbreak1991/cve-2022-22947) | 121 | 2023-03-15T09:33:46Z |
+| [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Sumitpathania03/CVE-2022-22947](https://github.com/Sumitpathania03/CVE-2022-22947) | no description | 2024-01-03T09:37:54Z |
 | [CVE-2022-22827](https://www.cve.org/CVERecord?id=CVE-2022-22827) | [nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827) | no description | 2022-04-11T13:57:41Z |
 | [CVE-2022-22817](https://www.cve.org/CVERecord?id=CVE-2022-22817) | [JawadPy/CVE-2022-22817-Exploit](https://github.com/JawadPy/CVE-2022-22817-Exploit) | Example of CVE-2022-22817 | 2023-10-05T22:57:37Z |
 | [CVE-2022-22733](https://www.cve.org/CVERecord?id=CVE-2022-22733) | [Zeyad-Azima/CVE-2022-22733](https://github.com/Zeyad-Azima/CVE-2022-22733) | Apache ShardingSphere ElasticJob-UI Privilege Escalation &amp; RCE Exploit | 2023-04-25T11:39:40Z |
@@ -6037,6 +6042,7 @@ Last generated: 2025-01-31 02:11:53.797448
 | [CVE-2018-17240](https://www.cve.org/CVERecord?id=CVE-2018-17240) | [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240) | CVE-2018-17240 | 2022-06-10T04:34:17Z |
 | [CVE-2018-17207](https://www.cve.org/CVERecord?id=CVE-2018-17207) | [cved-sources/cve-2018-17207](https://github.com/cved-sources/cve-2018-17207) | cve-2018-17207 | 2019-02-01T20:36:08Z |
 | [CVE-2018-17182](https://www.cve.org/CVERecord?id=CVE-2018-17182) | [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182) | no description | 2023-04-07T10:35:24Z |
+| [CVE-2018-16890](https://www.cve.org/CVERecord?id=CVE-2018-16890) | [michelleamesquita/CVE-2018-16890](https://github.com/michelleamesquita/CVE-2018-16890) | CVE-2018-16890 | 2020-04-07T21:30:58Z |
 | [CVE-2018-16858](https://www.cve.org/CVERecord?id=CVE-2018-16858) | [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858) | no description | 2022-11-09T13:36:40Z |
 | [CVE-2018-16809](https://www.cve.org/CVERecord?id=CVE-2018-16809) | [elkassimyhajar/CVE-2018-16809](https://github.com/elkassimyhajar/CVE-2018-16809) | no description | 2022-01-21T12:37:40Z |
 | [CVE-2018-16763](https://www.cve.org/CVERecord?id=CVE-2018-16763) | [VitoBonetti/CVE-2018-16763](https://github.com/VitoBonetti/CVE-2018-16763) | Fuel CMS 1.4.1 - Remote Code Execution - Python 3.x | 2023-07-16T20:40:45Z |
