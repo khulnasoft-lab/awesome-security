@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-01 02:15:35.231211
+Last generated: 2025-02-02 02:14:35.598289
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -265,8 +265,13 @@ Last generated: 2025-02-01 02:15:35.231211
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
+| [CVE-2024-55988](https://www.cve.org/CVERecord?id=CVE-2024-55988) | [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988) | Navayan CSV Export &lt;= 1.0.9 - Unauthenticated SQL Injection | 2025-01-03T10:45:42Z |
+| [CVE-2024-55982](https://www.cve.org/CVERecord?id=CVE-2024-55982) | [RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982) | Share Buttons – Social Media &lt;= 1.0.2 - Unauthenticated SQL Injection | 2025-01-03T12:23:50Z |
+| [CVE-2024-55981](https://www.cve.org/CVERecord?id=CVE-2024-55981) | [RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981) | Nabz Image Gallery &lt;= v1.00 - Unauthenticated SQL Injection | 2025-01-03T12:38:29Z |
 | [CVE-2024-55980](https://www.cve.org/CVERecord?id=CVE-2024-55980) | [RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980) | Wr Age Verification &lt;= 2.0.0 - Unauthenticated SQL Injection | 2025-01-02T11:11:48Z |
 | [CVE-2024-55978](https://www.cve.org/CVERecord?id=CVE-2024-55978) | [RandomRobbieBF/CVE-2024-55978](https://github.com/RandomRobbieBF/CVE-2024-55978) | Code Generator Pro &lt;= 1.2 - Unauthenticated SQL Injection | 2025-01-02T13:21:36Z |
+| [CVE-2024-55976](https://www.cve.org/CVERecord?id=CVE-2024-55976) | [RandomRobbieBF/CVE-2024-55976](https://github.com/RandomRobbieBF/CVE-2024-55976) | Critical Site Intel &lt;= 1.0 - Unauthenticated SQL Injection | 2025-01-03T13:32:11Z |
+| [CVE-2024-55972](https://www.cve.org/CVERecord?id=CVE-2024-55972) | [RandomRobbieBF/CVE-2024-55972](https://github.com/RandomRobbieBF/CVE-2024-55972) | eTemplates &lt;= 0.2.1 - Unauthenticated SQL Injection | 2025-01-03T12:47:01Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [Wi1DN00B/CVE-2024-55968](https://github.com/Wi1DN00B/CVE-2024-55968) | Exploit POC Code for CVE-2024-55968 | 2024-12-17T21:07:59Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
