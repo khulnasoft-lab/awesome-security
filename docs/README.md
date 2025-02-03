@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-02 02:14:35.598289
+Last generated: 2025-02-03 02:12:46.375762
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -235,6 +235,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387) | no description | 2024-11-24T17:12:26Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [zql-gif/CVE-2024-6387](https://github.com/zql-gif/CVE-2024-6387) | no description | 2024-12-19T03:08:19Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [awusan125/test_for6387](https://github.com/awusan125/test_for6387) | test code for cve-2024-6387 | 2024-12-19T10:16:45Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [YassDEV221608/CVE-2024-6387_PoC](https://github.com/YassDEV221608/CVE-2024-6387_PoC) | no description | 2025-01-04T00:25:33Z |
 | [CVE-2024-6386](https://www.cve.org/CVERecord?id=CVE-2024-6386) | [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386) | Research and PoC for CVE-2024-6386 | 2024-09-05T14:44:36Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
 | [CVE-2024-6330](https://www.cve.org/CVERecord?id=CVE-2024-6330) | [RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330) | GEO my WordPress &lt; 4.5.0.2 - Unauthenticated LFI to RCE/PHAR Deserialization | 2024-11-20T06:08:32Z |
@@ -303,6 +304,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [TAM-K592/CVE-2024-53677-S2-067](https://github.com/TAM-K592/CVE-2024-53677-S2-067) | A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads. | 2024-12-13T17:42:55Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [Q0LT/VM-CVE-2024-53677](https://github.com/Q0LT/VM-CVE-2024-53677) | Struts Vulnerability - CVE-2024-53677 | 2024-12-23T16:32:59Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677) | no description | 2024-12-23T14:22:44Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [EQSTLab/CVE-2024-53677](https://github.com/EQSTLab/CVE-2024-53677) | Proof-of-Concept for CVE-2024-46538 | 2025-01-03T02:30:53Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-53522](https://www.cve.org/CVERecord?id=CVE-2024-53522) | [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522) | PoC for CVE-2024-53522 affecting HOSxP XE 4 | 2025-01-02T04:13:37Z |
@@ -392,6 +394,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-50507](https://www.cve.org/CVERecord?id=CVE-2024-50507) | [RandomRobbieBF/CVE-2024-50507](https://github.com/RandomRobbieBF/CVE-2024-50507) | DS.DownloadList &lt;= 1.3 - Unauthenticated PHP Object Injection | 2024-12-16T19:36:26Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498) | WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution | 2024-11-04T22:13:45Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498) | This is a exploit for CVE-2024-50498 | 2024-12-04T01:30:19Z |
+| [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498) | no description | 2025-01-03T22:36:43Z |
 | [CVE-2024-50493](https://www.cve.org/CVERecord?id=CVE-2024-50493) | [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) | Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload | 2024-11-10T08:17:41Z |
 | [CVE-2024-50490](https://www.cve.org/CVERecord?id=CVE-2024-50490) | [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490) | PegaPoll &lt;= 1.0.2 - Unauthenticated Arbitrary Options Update | 2024-11-05T12:27:41Z |
 | [CVE-2024-50488](https://www.cve.org/CVERecord?id=CVE-2024-50488) | [RandomRobbieBF/CVE-2024-50488](https://github.com/RandomRobbieBF/CVE-2024-50488) | Token Login &lt;= 1.0.3 - Authenticated (Subscriber+) Privilege Escalation | 2024-11-09T10:54:06Z |
@@ -733,6 +736,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [depers-rus/CVE-2024-42327](https://github.com/depers-rus/CVE-2024-42327) | no description | 2024-12-06T16:06:00Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [itform-fr/Zabbix---CVE-2024-42327](https://github.com/itform-fr/Zabbix---CVE-2024-42327) | no description | 2024-12-11T00:39:26Z |
 | [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [igorbf495/CVE-2024-42327](https://github.com/igorbf495/CVE-2024-42327) | writeup cve-2024-42327 | 2024-12-12T01:32:26Z |
+| [CVE-2024-42327](https://www.cve.org/CVERecord?id=CVE-2024-42327) | [BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE](https://github.com/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE) | Zabbix CVE-2024-42327 PoC | 2025-01-01T18:25:44Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Password-Storage-in-Plaintext-CVE-2024-4232) | no description | 2024-06-18T11:05:06Z |
 | [CVE-2024-4232](https://www.cve.org/CVERecord?id=CVE-2024-4232) | [Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232) | no description | 2024-07-04T06:30:19Z |
 | [CVE-2024-4231](https://www.cve.org/CVERecord?id=CVE-2024-4231) | [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) | no description | 2024-06-18T11:43:23Z |
@@ -1111,6 +1115,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) | CVE-2024-3400 PAN-OS Vulnerability Scanner. | 2024-11-30T05:47:12Z |
+| [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393) | CVE-2024-3393 EXPLOIT | 2025-01-04T08:18:06Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33901](https://www.cve.org/CVERecord?id=CVE-2024-33901) | [gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept) | Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7 | 2024-11-24T05:43:27Z |
 | [CVE-2024-33896](https://www.cve.org/CVERecord?id=CVE-2024-33896) | [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC) | Proof of concept CVE-2024-33896 | 2024-08-20T13:49:15Z |
@@ -2154,6 +2159,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z |
 | [CVE-2024-1302](https://www.cve.org/CVERecord?id=CVE-2024-1302) | [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure) | POC Badgermeter moni tool - CVE-2024-1302 | 2024-02-08T09:27:53Z |
 | [CVE-2024-1301](https://www.cve.org/CVERecord?id=CVE-2024-1301) | [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection) | POC Badgermeter moni tool - CVE-2024-1301 | 2024-02-08T09:08:05Z |
+| [CVE-2024-12986](https://www.cve.org/CVERecord?id=CVE-2024-12986) | [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986) | no description | 2025-01-04T14:47:09Z |
 | [CVE-2024-12883](https://www.cve.org/CVERecord?id=CVE-2024-12883) | [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883) | no description | 2024-03-14T21:40:40Z |
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
 | [CVE-2024-12484](https://www.cve.org/CVERecord?id=CVE-2024-12484) | [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484) | CVE-poc | 2024-12-09T04:42:19Z |
@@ -3107,6 +3113,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2023-39115](https://www.cve.org/CVERecord?id=CVE-2023-39115) | [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115) | Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting | 2023-08-07T16:04:49Z |
 | [CVE-2023-39063](https://www.cve.org/CVERecord?id=CVE-2023-39063) | [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063) | POC of the CVE-2023-39063 | 2023-08-24T20:57:27Z |
 | [CVE-2023-39062](https://www.cve.org/CVERecord?id=CVE-2023-39062) | [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062) | Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files | 2023-08-23T21:07:24Z |
+| [CVE-2023-39024](https://www.cve.org/CVERecord?id=CVE-2023-39024) | [BenTheCyberOne/CVE-2023-39024-5-POC](https://github.com/BenTheCyberOne/CVE-2023-39024-5-POC) | POC for CVE-2023-39024 and CVE-2023-39025 (Harman Media Suite) | 2024-09-06T18:13:21Z |
 | [CVE-2023-3897](https://www.cve.org/CVERecord?id=CVE-2023-3897) | [jFriedli/CVE-2023-3897](https://github.com/jFriedli/CVE-2023-3897) | no description | 2024-08-13T09:20:21Z |
 | [CVE-2023-38891](https://www.cve.org/CVERecord?id=CVE-2023-38891) | [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891) | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | 2023-09-12T22:58:41Z |
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z |
@@ -4981,6 +4988,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch) | touch 生成文件 | 2024-01-04T07:43:02Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034) | PoC de Polkit | 2024-01-17T22:55:46Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Pol-Ruiz/CVE-2021-4034](https://github.com/Pol-Ruiz/CVE-2021-4034) | no description | 2024-01-16T10:18:38Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [FancySauce/PwnKit-CVE-2021-4034](https://github.com/FancySauce/PwnKit-CVE-2021-4034) | no description | 2024-01-27T13:17:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -6305,6 +6313,7 @@ Last generated: 2025-02-02 02:14:35.598289
 | [CVE-2017-2751](https://www.cve.org/CVERecord?id=CVE-2017-2751) | [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751) | Mini-paper on CVE-2017-2751, HP EFI password extraction. | 2020-01-19T00:41:23Z |
 | [CVE-2017-2751](https://www.cve.org/CVERecord?id=CVE-2017-2751) | [blacklanternsecurity/dp_cryptomg](https://github.com/blacklanternsecurity/dp_cryptomg) | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | 2022-10-04T21:09:27Z |
 | [CVE-2017-2751](https://www.cve.org/CVERecord?id=CVE-2017-2751) | [xiaokp7/Tomcat_PUT_GUI_EXP](https://github.com/xiaokp7/Tomcat_PUT_GUI_EXP) | Tomcat PUT方法任意文件写入（CVE-2017-12615）exp | 2023-03-10T16:26:45Z |
+| [CVE-2017-2024](https://www.cve.org/CVERecord?id=CVE-2017-2024) | [FarizDevloper/CVE-2017-2024](https://github.com/FarizDevloper/CVE-2017-2024) | CVE-2017-9805 is a critical vulnerability in Apache Struts 2&#x27;s Rest Plugin, allowing attackers to execute remote code via a specially crafted XML payload. If exploited, this vulnerability can lead to unauthorized system access and compromise vulnerable applications. | 2025-01-02T11:06:58Z |
 | [CVE-2017-18635](https://www.cve.org/CVERecord?id=CVE-2017-18635) | [ossf-cve-benchmark/CVE-2017-18635](https://github.com/ossf-cve-benchmark/CVE-2017-18635) | no description | 2020-11-30T14:52:18Z |
 | [CVE-2017-18355](https://www.cve.org/CVERecord?id=CVE-2017-18355) | [ossf-cve-benchmark/CVE-2017-18355](https://github.com/ossf-cve-benchmark/CVE-2017-18355) | no description | 2020-11-30T14:52:18Z |
 | [CVE-2017-18354](https://www.cve.org/CVERecord?id=CVE-2017-18354) | [ossf-cve-benchmark/CVE-2017-18354](https://github.com/ossf-cve-benchmark/CVE-2017-18354) | no description | 2020-11-30T14:52:18Z |
@@ -7736,3 +7745,4 @@ Last generated: 2025-02-02 02:14:35.598289
 | CVE NOT FOUND | [2aqu/CVE-2023-VULN](https://github.com/2aqu/CVE-2023-VULN) | cve-2023 vuln certify | 2024-08-31T21:43:56Z |
 | CVE NOT FOUND | [NaInSec/CVE-1012182122-JSON](https://github.com/NaInSec/CVE-1012182122-JSON) | CVE Json Files - 2010, 2012, 2018, 2021 and 2022 | 2024-03-22T14:36:24Z |
 | CVE NOT FOUND | [TuanCui22/impacket-2024](https://github.com/TuanCui22/impacket-2024) | impacket-2024-env to demo CVE ZEROLOGON | 2024-12-26T03:01:53Z |
+| CVE NOT FOUND | [jgamblin/2024CVEDataReview](https://github.com/jgamblin/2024CVEDataReview) | 2024 CVE Data Review | 2025-01-03T18:39:48Z |
