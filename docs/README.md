@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-03 02:12:46.375762
+Last generated: 2025-02-04 02:12:09.493311
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -278,6 +278,7 @@ Last generated: 2025-02-03 02:12:46.375762
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
+| [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
@@ -514,6 +515,7 @@ Last generated: 2025-02-03 02:12:46.375762
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575) | FortiManager Unauthenticated Remote Code Execution (CVE-2024-47575) | 2024-11-15T03:43:51Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575) | no description | 2024-11-15T13:19:33Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp) | CVE-2024-47575是Fortinet的FortiManager和FortiManager Cloud产品中的一个严重漏洞，源于fgfmsd守护进程缺乏对关键功能的身份验证。 | 2024-11-22T03:13:03Z |
+| [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [Laonhearts/CVE-2024-47575-POC](https://github.com/Laonhearts/CVE-2024-47575-POC) | CVE POC Exploit | 2025-01-05T02:54:01Z |
 | [CVE-2024-47533](https://www.cve.org/CVERecord?id=CVE-2024-47533) | [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533) | CVE-2024-47533: Improper Authentication (CWE-287) | 2024-11-19T09:28:48Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
 | [CVE-2024-47176](https://www.cve.org/CVERecord?id=CVE-2024-47176) | [tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner) | Scanner for the CUPS vulnerability CVE-2024-47176 | 2024-09-27T20:04:21Z |
@@ -1618,6 +1620,7 @@ Last generated: 2025-02-03 02:12:46.375762
 | [CVE-2024-27088](https://www.cve.org/CVERecord?id=CVE-2024-27088) | [200101WhoAmI/CVE-2024-27088](https://github.com/200101WhoAmI/CVE-2024-27088) | redos | 2024-08-21T05:21:38Z |
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667) | This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload) | 2024-04-28T17:14:47Z |
+| [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Nxploited/CVE-2024-2667-Poc](https://github.com/Nxploited/CVE-2024-2667-Poc) | no description | 2025-01-05T15:03:50Z |
 | [CVE-2024-26581](https://www.cve.org/CVERecord?id=CVE-2024-26581) | [laoqin1234/Linux-Root-CVE-2024-26581-PoC](https://github.com/laoqin1234/Linux-Root-CVE-2024-26581-PoC) | no description | 2024-09-11T08:29:40Z |
 | [CVE-2024-26581](https://www.cve.org/CVERecord?id=CVE-2024-26581) | [madfxr/CVE-2024-26581-Checker](https://github.com/madfxr/CVE-2024-26581-Checker) | [CVE-2024-26581] Vulnerability Checker for BGN Internal | 2024-09-10T09:32:25Z |
 | [CVE-2024-26574](https://www.cve.org/CVERecord?id=CVE-2024-26574) | [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574) | Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation | 2024-04-04T13:44:08Z |
@@ -4514,6 +4517,7 @@ Last generated: 2025-02-03 02:12:46.375762
 | [CVE-2022-32119](https://www.cve.org/CVERecord?id=CVE-2022-32119) | [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119) | CVE-2022-32119 - Arox-Unrestricted-File-Upload | 2022-04-06T04:33:47Z |
 | [CVE-2022-32118](https://www.cve.org/CVERecord?id=CVE-2022-32118) | [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118) | CVE-2022-32118 - Arox-XSS | 2022-04-06T04:12:03Z |
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [dkstar11q/CVE-2022-31814](https://github.com/dkstar11q/CVE-2022-31814) | pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2023-03-26T17:22:40Z |
+| [CVE-2022-3172](https://www.cve.org/CVERecord?id=CVE-2022-3172) | [UgOrange/CVE-2022-3172](https://github.com/UgOrange/CVE-2022-3172) | no description | 2024-04-02T11:53:54Z |
 | [CVE-2022-31692](https://www.cve.org/CVERecord?id=CVE-2022-31692) | [hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692) | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | 2023-10-29T17:31:23Z |
 | [CVE-2022-31007](https://www.cve.org/CVERecord?id=CVE-2022-31007) | [gregscharf/CVE-2022-31007-Python-POC](https://github.com/gregscharf/CVE-2022-31007-Python-POC) | elabFTW &lt; 4.1.0 - account lockout bypass and login brute force | 2022-12-01T22:53:59Z |
 | [CVE-2022-30780](https://www.cve.org/CVERecord?id=CVE-2022-30780) | [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service) | CVE-2022-30780 - lighttpd remote denial of service | 2022-05-18T12:01:17Z |
