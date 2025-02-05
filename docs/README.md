@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-04 02:12:09.493311
+Last generated: 2025-02-05 02:13:34.411488
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -262,6 +262,8 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2024-56431](https://www.cve.org/CVERecord?id=CVE-2024-56431) | [UnionTech-Software/libtheora-CVE-2024-56431-PoC](https://github.com/UnionTech-Software/libtheora-CVE-2024-56431-PoC) | no description | 2024-12-25T03:58:50Z |
 | [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
+| [CVE-2024-56289](https://www.cve.org/CVERecord?id=CVE-2024-56289) | [DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289) | PoC of CVE-2024-56289 | 2025-01-06T01:58:24Z |
+| [CVE-2024-56278](https://www.cve.org/CVERecord?id=CVE-2024-56278) | [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) | PoC of CVE-2024-56278 | 2025-01-06T01:51:46Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
@@ -453,6 +455,7 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113) | LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113 | 2025-01-01T15:48:38Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker) | no description | 2025-01-03T07:05:33Z |
+| [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [Sachinart/CVE-2024-49113-Checker](https://github.com/Sachinart/CVE-2024-49113-Checker) | Hi, This is to check targets vulnerable for CVE-2024-49113 in bulk, faster. | 2025-01-06T11:59:02Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor) | A short scraper looking for a POC of CVE-2024-49112 | 2024-12-16T13:41:40Z |
 | [CVE-2024-49112](https://www.cve.org/CVERecord?id=CVE-2024-49112) | [CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112) | no description | 2025-01-02T14:02:33Z |
 | [CVE-2024-49039](https://www.cve.org/CVERecord?id=CVE-2024-49039) | [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039) | WPTaskScheduler RPC Persistence &amp;  CVE-2024-49039 via Task Scheduler | 2024-11-19T08:57:18Z |
@@ -689,6 +692,7 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo) | PoC - Prueba de Concepto de CVE-2024-4367 en conjunto al CVE-2023-38831 en un solo Script | 2024-06-19T23:23:07Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis) | no description | 2024-09-04T14:43:33Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample) | no description | 2024-11-06T19:15:38Z |
+| [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367) | CVE-2024-4367 is a critical vulnerability (CVSS 9.8) in PDF.js, allowing arbitrary JavaScript code execution due to insufficient type checks on the FontMatrix object within PDF files. | 2025-01-05T14:44:01Z |
 | [CVE-2024-43582](https://www.cve.org/CVERecord?id=CVE-2024-43582) | [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE) | Metasploit Module for CVE-2024-43582 RPC Remote  Desktop Service crititcal RCE | 2024-10-09T12:50:24Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
@@ -2165,6 +2169,8 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2024-12986](https://www.cve.org/CVERecord?id=CVE-2024-12986) | [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986) | no description | 2025-01-04T14:47:09Z |
 | [CVE-2024-12883](https://www.cve.org/CVERecord?id=CVE-2024-12883) | [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883) | no description | 2024-03-14T21:40:40Z |
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
+| [CVE-2024-12594](https://www.cve.org/CVERecord?id=CVE-2024-12594) | [RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594) | ALL In One Custom Login Page &lt;= 7.1.1 - Missing Authorization to Authenticated (Subscriber+)Privilege Escalation | 2025-01-06T11:05:21Z |
+| [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558) | WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db | 2025-01-06T10:45:29Z |
 | [CVE-2024-12484](https://www.cve.org/CVERecord?id=CVE-2024-12484) | [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484) | CVE-poc | 2024-12-09T04:42:19Z |
 | [CVE-2024-12345](https://www.cve.org/CVERecord?id=CVE-2024-12345) | [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC) | no description | 2024-11-29T11:04:57Z |
 | [CVE-2024-12270](https://www.cve.org/CVERecord?id=CVE-2024-12270) | [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270) | Beautiful Taxonomy Filters &lt;= 2.4.3 - Unauthenticated SQL Injection | 2024-12-09T13:22:10Z |
@@ -2271,6 +2277,7 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2024-10220](https://www.cve.org/CVERecord?id=CVE-2024-10220) | [candranapits/poc-CVE-2024-10220](https://github.com/candranapits/poc-CVE-2024-10220) | CVE-2024-10220 POC | 2024-12-17T08:17:58Z |
 | [CVE-2024-10140](https://www.cve.org/CVERecord?id=CVE-2024-10140) | [holypryx/CVE-2024-10140](https://github.com/holypryx/CVE-2024-10140) | no description | 2024-10-20T15:29:14Z |
 | [CVE-2024-10124](https://www.cve.org/CVERecord?id=CVE-2024-10124) | [RandomRobbieBF/CVE-2024-10124](https://github.com/RandomRobbieBF/CVE-2024-10124) | Vayu Blocks – Gutenberg Blocks for WordPress &amp; WooCommerce &lt;= 1.1.1 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-12-12T15:13:30Z |
+| [CVE-2024-10124](https://www.cve.org/CVERecord?id=CVE-2024-10124) | [Nxploited/CVE-2024-10124-Poc](https://github.com/Nxploited/CVE-2024-10124-Poc) | no description | 2025-01-05T20:42:10Z |
 | [CVE-2024-10015](https://www.cve.org/CVERecord?id=CVE-2024-10015) | [windz3r0day/CVE-2024-10015](https://github.com/windz3r0day/CVE-2024-10015) | CVE-2024-10015 poc exploit | 2024-11-18T16:53:43Z |
 | [CVE-2024-0986](https://www.cve.org/CVERecord?id=CVE-2024-0986) | [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated) | Issabel PBX 4.0.0 Remote Code Execution (Authenticated) - CVE-2024-0986 | 2024-04-16T03:24:25Z |
 | [CVE-2024-0967](https://www.cve.org/CVERecord?id=CVE-2024-0967) | [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit) | ArcSight ESM up to 24.0 information disclosure proof-of-concept | 2024-03-01T22:31:38Z |
@@ -4873,6 +4880,7 @@ Last generated: 2025-02-04 02:12:09.493311
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation) | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | 2022-09-08T00:22:57Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Super-Binary/cve-2021-44228](https://github.com/Super-Binary/cve-2021-44228) | 这是安徽大学 “漏洞分析实验”（大三秋冬）期中作业归档。完整文档位于https://testgames.me/2024/11/10/cve-2021-44228/ | 2024-11-15T01:11:25Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [0xsyr0/Log4Shell](https://github.com/0xsyr0/Log4Shell) | This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell. | 2021-12-13T11:34:54Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [eurogig/jankybank](https://github.com/eurogig/jankybank) | Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228 | 2022-08-25T21:35:32Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
