@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-06 02:13:37.067411
+Last generated: 2025-02-07 02:14:13.187410
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -296,6 +296,7 @@ Last generated: 2025-02-06 02:13:37.067411
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
 | [CVE-2024-54363](https://www.cve.org/CVERecord?id=CVE-2024-54363) | [RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363) | Wp NssUser Register &lt;= 1.0.0 - Unauthenticated Privilege Escalation | 2025-01-02T14:41:52Z |
 | [CVE-2024-54330](https://www.cve.org/CVERecord?id=CVE-2024-54330) | [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) | Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery | 2025-01-02T10:31:51Z |
+| [CVE-2024-54292](https://www.cve.org/CVERecord?id=CVE-2024-54292) | [RandomRobbieBF/CVE-2024-54292](https://github.com/RandomRobbieBF/CVE-2024-54292) | Appsplate &lt;= 2.1.3 - Unauthenticated SQL Injection | 2025-01-07T17:14:57Z |
 | [CVE-2024-54262](https://www.cve.org/CVERecord?id=CVE-2024-54262) | [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262) | Import Export For WooCommerce &lt;= 1.5 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-12-19T14:42:06Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
@@ -1086,6 +1087,7 @@ Last generated: 2025-02-06 02:13:37.067411
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102) | adobe commerce | 2024-08-19T19:25:48Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [bka/magento-cve-2024-34102-exploit-cosmicstring](https://github.com/bka/magento-cve-2024-34102-exploit-cosmicstring) | no description | 2024-10-08T17:02:11Z |
 | [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [wubinworks/magento2-encryption-key-manager-cli](https://github.com/wubinworks/magento2-encryption-key-manager-cli) | A utility for Magento 2 encryption key rotation and management. CVE-2024-34102(aka Cosmic Sting) victims can use it as an aftercare. | 2024-12-04T15:19:19Z |
+| [CVE-2024-34102](https://www.cve.org/CVERecord?id=CVE-2024-34102) | [mksundaram69/CVE-2024-34102](https://github.com/mksundaram69/CVE-2024-34102) | no description | 2025-01-07T16:46:02Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [Yuvvi01/CVE-2024-3400](https://github.com/Yuvvi01/CVE-2024-3400) | no description | 2024-04-13T05:16:21Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [CerTusHack/CVE-2024-3400-PoC](https://github.com/CerTusHack/CVE-2024-3400-PoC) | no description | 2024-04-13T11:55:53Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400) | Vulnerabilidad de palo alto | 2024-04-14T19:11:16Z |
@@ -1623,6 +1625,7 @@ Last generated: 2025-02-06 02:13:37.067411
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130) | PoC for CVE-2024-27130 | 2024-05-17T07:58:01Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130) | This Python script is designed as a proof-of-concept (PoC) for the CVE-2024-27130 vulnerability in QNAP QTS | 2024-05-21T11:14:22Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [XiaomingX/cve-2024-27130-poc](https://github.com/XiaomingX/cve-2024-27130-poc) | CVE-2024-27130是影响QNAP网络附加存储（NAS）设备的一个严重漏洞。该漏洞源于QTS操作系统中share.cgi脚本的No_Support_ACL函数中不安全地使用strcpy函数，导致堆栈缓冲区溢出。攻击者可以利用此漏洞，通过精心构造的请求在目标系统上执行任意代码，进而完全控制受影响的设备。 | 2024-11-22T14:18:08Z |
+| [CVE-2024-27115](https://www.cve.org/CVERecord?id=CVE-2024-27115) | [theexploiters/CVE-2024-27115-Exploit](https://github.com/theexploiters/CVE-2024-27115-Exploit) | Exploit For SOPlanning 1.52.01 (Simple Online Planning Tool) - Remote Code Execution (RCE) (Authenticated) | 2025-01-07T13:38:34Z |
 | [CVE-2024-27088](https://www.cve.org/CVERecord?id=CVE-2024-27088) | [200101WhoAmI/CVE-2024-27088](https://github.com/200101WhoAmI/CVE-2024-27088) | redos | 2024-08-21T05:21:38Z |
 | [CVE-2024-26817](https://www.cve.org/CVERecord?id=CVE-2024-26817) | [MaherAzzouzi/CVE-2024-26817-amdkfd](https://github.com/MaherAzzouzi/CVE-2024-26817-amdkfd) | Potential Integer Overflow Leading To Heap Overflow in AMD KFD. | 2024-04-14T12:25:50Z |
 | [CVE-2024-2667](https://www.cve.org/CVERecord?id=CVE-2024-2667) | [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667) | This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload) | 2024-04-28T17:14:47Z |
@@ -2175,9 +2178,12 @@ Last generated: 2025-02-06 02:13:37.067411
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
 | [CVE-2024-12594](https://www.cve.org/CVERecord?id=CVE-2024-12594) | [RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594) | ALL In One Custom Login Page &lt;= 7.1.1 - Missing Authorization to Authenticated (Subscriber+)Privilege Escalation | 2025-01-06T11:05:21Z |
 | [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558) | WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db | 2025-01-06T10:45:29Z |
+| [CVE-2024-12535](https://www.cve.org/CVERecord?id=CVE-2024-12535) | [RandomRobbieBF/CVE-2024-12535](https://github.com/RandomRobbieBF/CVE-2024-12535) | Host PHP Info &lt;= 1.0.4 - Missing Authorization to Unauthenticated Sensitive Information Disclosure | 2025-01-07T15:08:14Z |
 | [CVE-2024-12484](https://www.cve.org/CVERecord?id=CVE-2024-12484) | [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484) | CVE-poc | 2024-12-09T04:42:19Z |
+| [CVE-2024-12471](https://www.cve.org/CVERecord?id=CVE-2024-12471) | [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471) | Post Saint: ChatGPT, GPT4, DALL-E, Stable Diffusion, Pexels, Dezgo AI Text &amp; Image Generator &lt;= 1.3.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Upload | 2025-01-07T14:30:08Z |
 | [CVE-2024-12345](https://www.cve.org/CVERecord?id=CVE-2024-12345) | [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC) | no description | 2024-11-29T11:04:57Z |
 | [CVE-2024-12270](https://www.cve.org/CVERecord?id=CVE-2024-12270) | [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270) | Beautiful Taxonomy Filters &lt;= 2.4.3 - Unauthenticated SQL Injection | 2024-12-09T13:22:10Z |
+| [CVE-2024-12252](https://www.cve.org/CVERecord?id=CVE-2024-12252) | [RandomRobbieBF/CVE-2024-12252](https://github.com/RandomRobbieBF/CVE-2024-12252) | SEO LAT Auto Post &lt;= 2.2.1 - Missing Authorization to File Overwrite/Upload (Remote Code Execution) | 2025-01-07T16:22:35Z |
 | [CVE-2024-12209](https://www.cve.org/CVERecord?id=CVE-2024-12209) | [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209) | WP Umbrella: Update Backup Restore &amp; Monitoring &lt;= 2.17.0 - Unauthenticated Local File Inclusion | 2024-12-09T11:51:10Z |
 | [CVE-2024-12209](https://www.cve.org/CVERecord?id=CVE-2024-12209) | [Nxploited/CVE-2024-12209](https://github.com/Nxploited/CVE-2024-12209) | Unauthenticated Local File Inclusion | 2024-12-24T03:59:15Z |
 | [CVE-2024-12172](https://www.cve.org/CVERecord?id=CVE-2024-12172) | [RandomRobbieBF/CVE-2024-12172](https://github.com/RandomRobbieBF/CVE-2024-12172) | WP Courses LMS – Online Courses Builder, eLearning Courses, Courses Solution, Education Courses &lt;= 3.2.21 - Missing Authorization to Authenticated (Subscriber+) Arbitrary User Meta Update | 2024-12-16T23:39:17Z |
@@ -4720,6 +4726,7 @@ Last generated: 2025-02-06 02:13:37.067411
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic](https://github.com/hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic) | no description | 2024-03-12T04:47:02Z |
 | [CVE-2022-21392](https://www.cve.org/CVERecord?id=CVE-2022-21392) | [mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392) | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager | 2023-12-08T20:13:23Z |
 | [CVE-2022-21350](https://www.cve.org/CVERecord?id=CVE-2022-21350) | [hktalent/CVE-2022-21350](https://github.com/hktalent/CVE-2022-21350) | no description | 2022-09-28T05:38:15Z |
+| [CVE-2022-21340](https://www.cve.org/CVERecord?id=CVE-2022-21340) | [Alexandre-Bartel/CVE-2022-21340](https://github.com/Alexandre-Bartel/CVE-2022-21340) | PoC for CVE-2022-21340 | 2024-04-09T10:41:12Z |
 | [CVE-2022-21306](https://www.cve.org/CVERecord?id=CVE-2022-21306) | [hktalent/CVE-2022-21306](https://github.com/hktalent/CVE-2022-21306) | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | 2023-04-07T03:59:07Z |
 | [CVE-2022-20818](https://www.cve.org/CVERecord?id=CVE-2022-20818) | [mbadanoiu/CVE-2022-20818](https://github.com/mbadanoiu/CVE-2022-20818) | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | 2024-01-13T00:17:53Z |
 | [CVE-2022-2078](https://www.cve.org/CVERecord?id=CVE-2022-2078) | [delsploit/CVE-2022-2078](https://github.com/delsploit/CVE-2022-2078) | no description | 2023-03-06T12:49:29Z |
