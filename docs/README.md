@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-07 02:14:13.187410
+Last generated: 2025-02-08 02:10:24.587249
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -57,6 +57,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2024-9106](https://www.cve.org/CVERecord?id=CVE-2024-9106) | [RandomRobbieBF/CVE-2024-9106](https://github.com/RandomRobbieBF/CVE-2024-9106) | Wechat Social login &lt;= 1.3.0 - Authentication Bypass | 2024-10-01T10:28:08Z |
 | [CVE-2024-9061](https://www.cve.org/CVERecord?id=CVE-2024-9061) | [RandomRobbieBF/CVE-2024-9061](https://github.com/RandomRobbieBF/CVE-2024-9061) | WP Popup Builder – Popup Forms and Marketing Lead Generation &lt;= 1.3.5 - Unauthenticated Arbitrary Shortcode Execution via wp_ajax_nopriv_shortcode_Api_Add | 2024-10-16T07:57:48Z |
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC) | WordPress File Upload插件任意文件读取漏洞（CVE-2024-9047）批量检测脚本 | 2024-12-25T05:19:17Z |
+| [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047) | POC - WordPress File Upload plugin, in the wfu_file_downloader.php file before version &lt;= 4.24.11 | 2025-01-08T07:27:16Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
@@ -426,6 +427,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [bigb0x/CVE-2024-50379](https://github.com/bigb0x/CVE-2024-50379) | Testing the latset Apache Tomcat CVE-2024-50379 Vuln | 2024-12-25T21:50:16Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [dragonked2/CVE-2024-50379-POC](https://github.com/dragonked2/CVE-2024-50379-POC) | This repository contains a Python script designed to exploit CVE-2024-50379, a vulnerability that allows attackers to upload a JSP shell to a vulnerable server and execute arbitrary commands remotely. This exploit is particularly useful when the /uploads directory is either unprotected or not present on the target server. | 2024-12-25T18:42:29Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [lizhianyuguangming/CVE-2024-50379-exp](https://github.com/lizhianyuguangming/CVE-2024-50379-exp) | CVE-2024-50379-exp | 2024-12-25T02:41:31Z |
+| [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [dkstar11q/CVE-2024-50379-nuclei](https://github.com/dkstar11q/CVE-2024-50379-nuclei) | Testing the latset Apache Tomcat CVE-2024-50379 Vuln | 2024-12-26T00:18:56Z |
 | [CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340) | [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340) | no description | 2024-11-06T21:24:43Z |
 | [CVE-2024-50335](https://www.cve.org/CVERecord?id=CVE-2024-50335) | [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335) | no description | 2024-11-07T06:19:49Z |
 | [CVE-2024-50251](https://www.cve.org/CVERecord?id=CVE-2024-50251) | [slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC) | Just a local Dos bug in Linux kernel | 2024-11-12T08:08:55Z |
@@ -846,6 +848,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
 | [CVE-2024-39031](https://www.cve.org/CVERecord?id=CVE-2024-39031) | [toneemarqus/CVE-2024-39031](https://github.com/toneemarqus/CVE-2024-39031) | Stored Cross-Side Scripting (XSS) leads to privilege escalation in SilverPeas social-networking portal | 2024-07-08T23:21:52Z |
 | [CVE-2024-38998](https://www.cve.org/CVERecord?id=CVE-2024-38998) | [z3ldr1/PP_CVE-2024-38998](https://github.com/z3ldr1/PP_CVE-2024-38998) | Uma vulnerabilidade (CVE-2024-38998) foi identificada na versão 2.3.6 do módulo JavaScript requirejs. Ela explora prototype pollution na função config, permitindo que invasores modifiquem Object.prototype com entradas maliciosas. Isso pode causar DoS, execução remota de código (RCE) ou XSS. A gravidade é crítica (CVSS 9.8). | 2024-12-12T23:19:44Z |
+| [CVE-2024-38998](https://www.cve.org/CVERecord?id=CVE-2024-38998) | [cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998) | no description | 2025-01-08T08:04:54Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC) | Mass Exploit - CVE-2024-38856 [Remote Code Execution] | 2024-08-09T11:26:09Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856) | Perform With Massive Apache OFBiz Zero-Day Scanner &amp; RCE | 2024-08-10T03:05:34Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz) | Exploit for CVE-2024-38856 affecting Apache OFBiz versions before 18.12.15 | 2024-08-18T15:19:58Z |
@@ -2175,6 +2178,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2024-12986](https://www.cve.org/CVERecord?id=CVE-2024-12986) | [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986) | no description | 2025-01-04T14:47:09Z |
 | [CVE-2024-12883](https://www.cve.org/CVERecord?id=CVE-2024-12883) | [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883) | no description | 2024-03-14T21:40:40Z |
 | [CVE-2024-12849](https://www.cve.org/CVERecord?id=CVE-2024-12849) | [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849) | Error Log Viewer By WP Guru &lt;= 1.0.1.3 - Missing Authorization to Unauthenticated Arbitrary File Read | 2025-01-07T13:32:30Z |
+| [CVE-2024-12849](https://www.cve.org/CVERecord?id=CVE-2024-12849) | [Nxploited/CVE-2024-12849-Poc](https://github.com/Nxploited/CVE-2024-12849-Poc) | no description | 2025-01-07T16:57:48Z |
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
 | [CVE-2024-12594](https://www.cve.org/CVERecord?id=CVE-2024-12594) | [RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594) | ALL In One Custom Login Page &lt;= 7.1.1 - Missing Authorization to Authenticated (Subscriber+)Privilege Escalation | 2025-01-06T11:05:21Z |
 | [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558) | WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db | 2025-01-06T10:45:29Z |
@@ -2206,6 +2210,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-11432](https://www.cve.org/CVERecord?id=CVE-2024-11432) | [windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432) | CVE-2024-11432 poc exploit | 2024-11-22T16:46:24Z |
 | [CVE-2024-11428](https://www.cve.org/CVERecord?id=CVE-2024-11428) | [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428) | CVE-2024-11428 poc exploit | 2024-11-22T16:51:47Z |
+| [CVE-2024-11423](https://www.cve.org/CVERecord?id=CVE-2024-11423) | [RandomRobbieBF/CVE-2024-11423](https://github.com/RandomRobbieBF/CVE-2024-11423) | Ultimate Gift Cards for WooCommerce &lt;= 3.0.6 - Missing Authorization to Infinite Money Glitch | 2025-01-08T07:12:08Z |
 | [CVE-2024-11412](https://www.cve.org/CVERecord?id=CVE-2024-11412) | [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412) | CVE-2024-11412 poc exploit | 2024-11-22T16:50:08Z |
 | [CVE-2024-11394](https://www.cve.org/CVERecord?id=CVE-2024-11394) | [Piyush-Bhor/CVE-2024-11394](https://github.com/Piyush-Bhor/CVE-2024-11394) | Technical Details and Exploit for CVE-2024-11394 | 2024-12-07T11:25:32Z |
 | [CVE-2024-11393](https://www.cve.org/CVERecord?id=CVE-2024-11393) | [Piyush-Bhor/CVE-2024-11393](https://github.com/Piyush-Bhor/CVE-2024-11393) | Technical Details and Exploit for CVE-2024-11393 | 2024-12-07T11:24:06Z |
@@ -4561,6 +4566,7 @@ Last generated: 2025-02-07 02:14:13.187410
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [Jump-Wang-111/AmzWord](https://github.com/Jump-Wang-111/AmzWord) | An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography. | 2023-11-28T03:47:32Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [AbdulRKB/Follina](https://github.com/AbdulRKB/Follina) | Remote Access Shell for Windows (based on cve-2022-30190) | 2022-06-04T14:18:38Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [shri142/ZipScan](https://github.com/shri142/ZipScan) | A tool written in Go that scans files &amp; directories for the Follina exploit (CVE-2022-30190) | 2024-02-17T12:10:12Z |
+| [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [alien-keric/CVE-2022-30190](https://github.com/alien-keric/CVE-2022-30190) | The script is from  https://github.com/JohnHammond/msdt-follina, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link | 2024-04-09T22:40:09Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [fortra/CVE-2022-30136](https://github.com/fortra/CVE-2022-30136) | Windows Network File System Remote exploit for CVE-2022-30136 | 2023-03-15T10:59:08Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136) | Windows Network File System Remote exploit (DoS) PoC | 2023-06-23T17:13:22Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2) | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | 2023-06-23T00:16:52Z |
@@ -7774,3 +7780,4 @@ Last generated: 2025-02-07 02:14:13.187410
 | CVE NOT FOUND | [TuanCui22/impacket-2024](https://github.com/TuanCui22/impacket-2024) | impacket-2024-env to demo CVE ZEROLOGON | 2024-12-26T03:01:53Z |
 | CVE NOT FOUND | [jgamblin/2024CVEDataReview](https://github.com/jgamblin/2024CVEDataReview) | 2024 CVE Data Review | 2025-01-03T18:39:48Z |
 | CVE NOT FOUND | [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit) | no description | 2025-01-07T13:21:50Z |
+| CVE NOT FOUND | [0xsu3ks/CVE-POC-2024](https://github.com/0xsu3ks/CVE-POC-2024) | This is a PoC for a CVE in an unpublished application | 2025-01-08T02:50:35Z |
