@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-08 02:10:24.587249
+Last generated: 2025-02-09 02:16:37.447134
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -261,6 +261,7 @@ Last generated: 2025-02-08 02:10:24.587249
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
+| [CVE-2024-56433](https://www.cve.org/CVERecord?id=CVE-2024-56433) | [JonnyWhatshisface/CVE-2024-56433](https://github.com/JonnyWhatshisface/CVE-2024-56433) | CVE-2024-56433 - shadow-utils Default subordinate ID for local users creates risk of collision | 2025-01-03T13:11:25Z |
 | [CVE-2024-56431](https://www.cve.org/CVERecord?id=CVE-2024-56431) | [UnionTech-Software/libtheora-CVE-2024-56431-PoC](https://github.com/UnionTech-Software/libtheora-CVE-2024-56431-PoC) | no description | 2024-12-25T03:58:50Z |
 | [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
