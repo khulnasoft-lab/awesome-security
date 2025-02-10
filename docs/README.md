@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-09 02:16:37.447134
+Last generated: 2025-02-10 02:15:18.352964
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -291,6 +291,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2024-54819](https://www.cve.org/CVERecord?id=CVE-2024-54819) | [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819) | CVE-2024-54819 | 2024-12-30T23:06:22Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
+| [CVE-2024-54498](https://www.cve.org/CVERecord?id=CVE-2024-54498) | [wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC) | Escape macOS Sandbox using sharedfilelistd exploit | 2025-01-08T09:55:44Z |
 | [CVE-2024-54385](https://www.cve.org/CVERecord?id=CVE-2024-54385) | [RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385) | Radio Player &lt;= 2.0.82 - Blind Unauthenticated Server-Side Request Forgery | 2025-01-02T13:40:14Z |
 | [CVE-2024-54379](https://www.cve.org/CVERecord?id=CVE-2024-54379) | [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379) | Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:04:01Z |
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
@@ -347,6 +348,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research) | A bit of research around CVE-2024-52301 | 2024-11-15T19:11:35Z |
 | [CVE-2024-52301](https://www.cve.org/CVERecord?id=CVE-2024-52301) | [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301) | Arbitrary Argument Injection Scanner CVE-2024-52301 | 2024-11-30T04:25:06Z |
 | [CVE-2024-52002](https://www.cve.org/CVERecord?id=CVE-2024-52002) | [Harshit-Mashru/iTop-CVEs-exploit](https://github.com/Harshit-Mashru/iTop-CVEs-exploit) | This repository contains exploits for iTOP CVE-2024-52002, 52000, 31998, 31448 that involve CSRF+XSS chaining to get RCE | 2024-12-23T19:56:56Z |
+| [CVE-2024-51818](https://www.cve.org/CVERecord?id=CVE-2024-51818) | [RandomRobbieBF/CVE-2024-51818](https://github.com/RandomRobbieBF/CVE-2024-51818) | Fancy Product Designer &lt;= 6.4.3 - Unauthenticated SQL Injection | 2025-01-09T10:00:30Z |
 | [CVE-2024-51747](https://www.cve.org/CVERecord?id=CVE-2024-51747) | [l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747) | no description | 2024-11-15T03:40:49Z |
 | [CVE-2024-51665](https://www.cve.org/CVERecord?id=CVE-2024-51665) | [RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665) | Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery | 2024-11-10T12:01:52Z |
 | [CVE-2024-51567](https://www.cve.org/CVERecord?id=CVE-2024-51567) | [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567) | CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections. | 2024-10-31T21:55:57Z |
@@ -395,6 +397,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623) | Cleo Unrestricted file upload and download PoC (CVE-2024-50623) | 2024-12-11T14:19:55Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623) | CVE-2024-50623 POC - Cleo Unrestricted file upload and download | 2024-12-23T08:52:23Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC) | Cleo 远程代码执行漏洞批量检测脚本（CVE-2024-50623） | 2024-12-31T07:43:48Z |
+| [CVE-2024-50603](https://www.cve.org/CVERecord?id=CVE-2024-50603) | [newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603) | CVE-2024-50603-nuclei-poc | 2025-01-08T12:00:38Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50510](https://www.cve.org/CVERecord?id=CVE-2024-50510) | [RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510) | AR For Woocommerce &lt;= 6.2 - Unauthenticated Arbitrary File Upload | 2024-12-16T20:15:56Z |
 | [CVE-2024-50509](https://www.cve.org/CVERecord?id=CVE-2024-50509) | [RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509) | Woocommerce Product Design &lt;= 1.0.0 - Unauthenticated Arbitrary File Deletion | 2024-12-16T19:17:07Z |
@@ -619,6 +622,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [longhoangth18/CVE-2024-4577](https://github.com/longhoangth18/CVE-2024-4577) | no description | 2024-10-14T09:11:06Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [ahmetramazank/CVE-2024-4577](https://github.com/ahmetramazank/CVE-2024-4577) | no description | 2024-11-03T15:42:04Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [BTtea/CVE-2024-4577-RCE-PoC](https://github.com/BTtea/CVE-2024-4577-RCE-PoC) | CVE-2024-4577 RCE PoC | 2024-11-06T05:30:33Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Dejavu666/CVE-2024-4577](https://github.com/Dejavu666/CVE-2024-4577) | CVE-2024-4577 POC | 2025-01-08T07:41:29Z |
 | [CVE-2024-4573](https://www.cve.org/CVERecord?id=CVE-2024-4573) | [Castro-Ian/CVE-2024-4573-Mitigation-Script](https://github.com/Castro-Ian/CVE-2024-4573-Mitigation-Script) | no description | 2024-12-30T18:54:07Z |
 | [CVE-2024-45614](https://www.cve.org/CVERecord?id=CVE-2024-45614) | [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614) | Puma Header normalization CVE-2024-45614 確認 | 2024-09-28T06:29:00Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
@@ -2207,6 +2211,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2024-11680](https://www.cve.org/CVERecord?id=CVE-2024-11680) | [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit) | This repository contains a Proof of Concept (PoC) exploit for CVE-2024-11680, a critical vulnerability in ProjectSend r1605 and older versions. The exploit targets a Cross-Site Request Forgery (CSRF) flaw in combination with Privilege Misconfiguration issues. | 2024-12-04T18:42:43Z |
 | [CVE-2024-11643](https://www.cve.org/CVERecord?id=CVE-2024-11643) | [RandomRobbieBF/CVE-2024-11643](https://github.com/RandomRobbieBF/CVE-2024-11643) | Accessibility by AllAccessible &lt;= 1.3.4 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Option Update | 2024-12-05T09:47:31Z |
 | [CVE-2024-11616](https://www.cve.org/CVERecord?id=CVE-2024-11616) | [inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616) | Crash PoC for exploiting Netskope Endpoint DLP double-fetch. | 2024-12-28T10:48:23Z |
+| [CVE-2024-11613](https://www.cve.org/CVERecord?id=CVE-2024-11613) | [Sachinart/CVE-2024-11613-wp-file-upload](https://github.com/Sachinart/CVE-2024-11613-wp-file-upload) | Exploit by Chirag Artani for CVE-2024-11613 in WordPress File Upload | 2025-01-08T10:06:00Z |
 | [CVE-2024-11477](https://www.cve.org/CVERecord?id=CVE-2024-11477) | [TheN00bBuilder/cve-2024-11477-writeup](https://github.com/TheN00bBuilder/cve-2024-11477-writeup) | CVE-2024-11477 7Zip Code Execution Writeup and Analysis | 2024-11-29T06:13:36Z |
 | [CVE-2024-11451](https://www.cve.org/CVERecord?id=CVE-2024-11451) | [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451) | no description | 2024-07-11T23:16:33Z |
 | [CVE-2024-11432](https://www.cve.org/CVERecord?id=CVE-2024-11432) | [windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432) | CVE-2024-11432 poc exploit | 2024-11-22T16:46:24Z |
@@ -4609,6 +4614,7 @@ Last generated: 2025-02-09 02:16:37.447134
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z |
 | [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z |
 | [CVE-2022-2639](https://www.cve.org/CVERecord?id=CVE-2022-2639) | [letsr00t/-2022-LOCALROOT-CVE-2022-2639](https://github.com/letsr00t/-2022-LOCALROOT-CVE-2022-2639) | no description | 2024-02-05T07:10:51Z |
+| [CVE-2022-26377](https://www.cve.org/CVERecord?id=CVE-2022-26377) | [watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc](https://github.com/watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc) | no description | 2024-04-12T03:59:03Z |
 | [CVE-2022-26265](https://www.cve.org/CVERecord?id=CVE-2022-26265) | [redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265) | The first proof of concept of the Contao CMS RCE | 2023-04-05T09:34:29Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit) | This is a python script that can be used with Shodan CLI to mass hunting Confluence Servers vulnerable to CVE-2022-26134 | 2022-07-12T05:34:09Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat) | An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889. | 2022-10-18T08:22:55Z |
