@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-10 02:15:18.352964
+Last generated: 2025-02-11 02:14:57.690496
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -271,6 +271,8 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
+| [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
+| [CVE-2024-56064](https://www.cve.org/CVERecord?id=CVE-2024-56064) | [RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064) | WP SuperBackup &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload | 2025-01-09T15:35:39Z |
 | [CVE-2024-55988](https://www.cve.org/CVERecord?id=CVE-2024-55988) | [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988) | Navayan CSV Export &lt;= 1.0.9 - Unauthenticated SQL Injection | 2025-01-03T10:45:42Z |
 | [CVE-2024-55982](https://www.cve.org/CVERecord?id=CVE-2024-55982) | [RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982) | Share Buttons – Social Media &lt;= 1.0.2 - Unauthenticated SQL Injection | 2025-01-03T12:23:50Z |
 | [CVE-2024-55981](https://www.cve.org/CVERecord?id=CVE-2024-55981) | [RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981) | Nabz Image Gallery &lt;= v1.00 - Unauthenticated SQL Injection | 2025-01-03T12:38:29Z |
@@ -1134,6 +1136,7 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) | CVE-2024-3400 PAN-OS Vulnerability Scanner. | 2024-11-30T05:47:12Z |
 | [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393) | CVE-2024-3393 EXPLOIT | 2025-01-04T08:18:06Z |
+| [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [waived/CVE-2024-3393](https://github.com/waived/CVE-2024-3393) | PAN-OS: Firewall Denial-of-Service exploit via malicious DNS query | 2025-01-09T22:03:07Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
 | [CVE-2024-33901](https://www.cve.org/CVERecord?id=CVE-2024-33901) | [gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept) | Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7 | 2024-11-24T05:43:27Z |
 | [CVE-2024-33896](https://www.cve.org/CVERecord?id=CVE-2024-33896) | [codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC) | Proof of concept CVE-2024-33896 | 2024-08-20T13:49:15Z |
@@ -3560,6 +3563,7 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC) | CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE] | 2023-10-04T01:12:10Z |
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [markuta/bw-dump](https://github.com/markuta/bw-dump) | A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. | 2022-09-18T21:03:07Z |
 | [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831) | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | 2023-09-03T19:25:15Z |
+| [CVE-2023-33831](https://www.cve.org/CVERecord?id=CVE-2023-33831) | [btar1gan/exploit_CVE-2023-33831](https://github.com/btar1gan/exploit_CVE-2023-33831) | New exploit for FUXA v1.1.13 - Unauthenticated remote code excecution | 2024-09-13T20:25:31Z |
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC) | SCM Manager XSS | 2023-06-07T04:20:54Z |
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829) | Proof of Concept about a XSS Stored in SCM Manager 1.2 &lt;= 1.60 | 2023-05-19T13:11:50Z |
 | [CVE-2023-33829](https://www.cve.org/CVERecord?id=CVE-2023-33829) | [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts) | Identifies domains which run WordPress and tests against vulnerabilities (CVE-2023-32243) / #VU76395 / etc... | 2023-05-29T11:42:35Z |
@@ -3795,6 +3799,7 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2023-2916](https://www.cve.org/CVERecord?id=CVE-2023-2916) | [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916) | CVE-2023-2916 PoC | 2023-08-15T13:51:38Z |
 | [CVE-2023-28771](https://www.cve.org/CVERecord?id=CVE-2023-28771) | [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771) | The script is designed to facilitate testing and exploration of the IKEv2 protocol in vulnerable devices, based on Rapid7&#x27;s exploitation techniques. | 2023-06-03T15:40:50Z |
 | [CVE-2023-2877](https://www.cve.org/CVERecord?id=CVE-2023-2877) | [RandomRobbieBF/CVE-2023-2877](https://github.com/RandomRobbieBF/CVE-2023-2877) | Formidable Forms &lt; 6.3.1 - Subscriber+ Remote Code Execution | 2023-06-28T10:34:08Z |
+| [CVE-2023-28753](https://www.cve.org/CVERecord?id=CVE-2023-28753) | [pingjuiliao/CVE-2023-28753](https://github.com/pingjuiliao/CVE-2023-28753) | pwning netconsd | 2024-09-12T23:57:39Z |
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868) | no description | 2023-06-20T18:43:54Z |
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp) | Barracuda Email Security Gateway Appliance (ESG) Vulnerability | 2023-06-09T12:00:59Z |
 | [CVE-2023-2868](https://www.cve.org/CVERecord?id=CVE-2023-2868) | [cashapp323232/CVE-2023-2868CVE-2023-2868](https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868) | no description | 2023-07-30T16:42:27Z |
@@ -4495,6 +4500,9 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2022-40347](https://www.cve.org/CVERecord?id=CVE-2022-40347) | [h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40347: Intern Record System - &#x27;phone&#x27;, &#x27;email&#x27;, &#x27;deptType&#x27; and &#x27;name&#x27; SQL Injection (Unauthenticated) | 2023-02-16T02:16:51Z |
 | [CVE-2022-40127](https://www.cve.org/CVERecord?id=CVE-2022-40127) | [jakabakos/CVE-2022-40127](https://github.com/jakabakos/CVE-2022-40127) | CVE-2022-40127 PoC and exploit | 2023-07-21T12:55:16Z |
 | [CVE-2022-40032](https://www.cve.org/CVERecord?id=CVE-2022-40032) | [h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated](https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated) | CVE-2022-40032: Simple Task Managing System - &#x27;login&#x27; and &#x27;password&#x27; SQL Injection (Unauthenticated) | 2023-02-16T01:42:48Z |
+| [CVE-2022-39987](https://www.cve.org/CVERecord?id=CVE-2022-39987) | [miguelc49/CVE-2022-39987-3](https://github.com/miguelc49/CVE-2022-39987-3) | no description | 2024-04-13T18:46:27Z |
+| [CVE-2022-39987](https://www.cve.org/CVERecord?id=CVE-2022-39987) | [miguelc49/CVE-2022-39987-2](https://github.com/miguelc49/CVE-2022-39987-2) | no description | 2024-04-13T18:46:17Z |
+| [CVE-2022-39987](https://www.cve.org/CVERecord?id=CVE-2022-39987) | [miguelc49/CVE-2022-39987-1](https://github.com/miguelc49/CVE-2022-39987-1) | no description | 2024-04-13T18:46:22Z |
 | [CVE-2022-39986](https://www.cve.org/CVERecord?id=CVE-2022-39986) | [tucommenceapousser/RaspAP-CVE-2022-39986-PoC](https://github.com/tucommenceapousser/RaspAP-CVE-2022-39986-PoC) | CVE-2022-39986 PoC | 2023-08-28T03:13:10Z |
 | [CVE-2022-39986](https://www.cve.org/CVERecord?id=CVE-2022-39986) | [mind2hex/CVE-2022-39986](https://github.com/mind2hex/CVE-2022-39986) | bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability | 2023-08-24T16:48:27Z |
 | [CVE-2022-39227](https://www.cve.org/CVERecord?id=CVE-2022-39227) | [user0x1337/CVE-2022-39227](https://github.com/user0x1337/CVE-2022-39227) | CVE-2022-39227 : Proof of Concept | 2023-06-07T11:11:12Z |
@@ -5044,6 +5052,7 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2021-39165](https://www.cve.org/CVERecord?id=CVE-2021-39165) | [manbolq/CVE-2021-39165](https://github.com/manbolq/CVE-2021-39165) | Python3 POC for CVE-2021-39165 in CachetHQ | 2023-09-20T22:19:55Z |
 | [CVE-2021-38819](https://www.cve.org/CVERecord?id=CVE-2021-38819) | [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819) | no description | 2022-11-08T17:01:41Z |
 | [CVE-2021-38817](https://www.cve.org/CVERecord?id=CVE-2021-38817) | [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection) | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | 2021-08-15T02:15:54Z |
+| [CVE-2021-38647](https://www.cve.org/CVERecord?id=CVE-2021-38647) | [corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages) | no description | 2024-03-13T20:05:11Z |
 | [CVE-2021-38314](https://www.cve.org/CVERecord?id=CVE-2021-38314) | [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314) | Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin | 2023-04-28T17:03:27Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297) | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | 2023-11-15T20:52:36Z |
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
@@ -5806,6 +5815,7 @@ Last generated: 2025-02-10 02:15:18.352964
 | [CVE-2019-16278](https://www.cve.org/CVERecord?id=CVE-2019-16278) | [alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278) | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | 2022-03-24T12:06:55Z |
 | [CVE-2019-16253](https://www.cve.org/CVERecord?id=CVE-2019-16253) | [k0mraid3/K0mraid3s-System-Shell-PREBUILT](https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT) | Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. | 2023-01-19T19:47:13Z |
 | [CVE-2019-16113](https://www.cve.org/CVERecord?id=CVE-2019-16113) | [0xkasra/CVE-2019-16113_](https://github.com/0xkasra/CVE-2019-16113_) | no description | 2022-04-07T03:57:15Z |
+| [CVE-2019-16097](https://www.cve.org/CVERecord?id=CVE-2019-16097) | [luckybool1020/CVE-2019-16097](https://github.com/luckybool1020/CVE-2019-16097) | Harbor 未授权创建管理员漏洞原理 docker及poc[基于pocsuite框架] | 2019-11-14T10:19:47Z |
 | [CVE-2019-15858](https://www.cve.org/CVERecord?id=CVE-2019-15858) | [GeneralEG/CVE-2019-15858](https://github.com/GeneralEG/CVE-2019-15858) | Unauthenticated RCE at Woody Ad Snippets / CVE-2019-15858 (PoC) | 2019-09-12T21:52:55Z |
 | [CVE-2019-15858](https://www.cve.org/CVERecord?id=CVE-2019-15858) | [orangmuda/CVE-2019-15858](https://github.com/orangmuda/CVE-2019-15858) | Unauthenticated Remote Code Execution at Woody Ad Snippets (PoC) | 2021-10-11T21:37:06Z |
 | [CVE-2019-15588](https://www.cve.org/CVERecord?id=CVE-2019-15588) | [EXP-Docs/CVE-2019-15588](https://github.com/EXP-Docs/CVE-2019-15588) | CVE-2019-15588 靶场： RCE 命令注入漏洞 | 2020-12-19T05:11:03Z |
