@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-11 02:14:57.690496
+Last generated: 2025-02-12 02:13:44.550712
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -651,6 +651,7 @@ Last generated: 2025-02-11 02:14:57.690496
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241) | Path Traversal in CentralSquare&#x27;s CryWolf | 2024-08-25T15:57:40Z |
 | [CVE-2024-45241](https://www.cve.org/CVERecord?id=CVE-2024-45241) | [verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241) | no description | 2024-09-19T12:43:48Z |
 | [CVE-2024-45216](https://www.cve.org/CVERecord?id=CVE-2024-45216) | [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc) | no description | 2024-12-02T04:09:04Z |
+| [CVE-2024-45216](https://www.cve.org/CVERecord?id=CVE-2024-45216) | [qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216) | no description | 2025-01-10T05:59:08Z |
 | [CVE-2024-45200](https://www.cve.org/CVERecord?id=CVE-2024-45200) | [latte-soft/kartlanpwn](https://github.com/latte-soft/kartlanpwn) | Information &amp; PoC for CVE-2024-45200, Mario Kart 8 Deluxe&#x27;s &quot;KartLANPwn&quot; buffer overflow vulnerability | 2024-09-13T00:41:32Z |
 | [CVE-2024-45058](https://www.cve.org/CVERecord?id=CVE-2024-45058) | [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058) | PoC for CVE-2024-45058 Broken Access Control, allowing any user with view permission in the user configuration section to become an administrator changing their own user type. | 2024-08-30T18:44:05Z |
 | [CVE-2024-44947](https://www.cve.org/CVERecord?id=CVE-2024-44947) | [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947) | no description | 2024-09-03T18:37:40Z |
@@ -984,6 +985,7 @@ Last generated: 2025-02-11 02:14:57.690496
 | [CVE-2024-36877](https://www.cve.org/CVERecord?id=CVE-2024-36877) | [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877) | Exploit POC for CVE-2024-36877 | 2024-08-09T15:33:04Z |
 | [CVE-2024-36877](https://www.cve.org/CVERecord?id=CVE-2024-36877) | [CERTologists/POC-CVE-2024-36877](https://github.com/CERTologists/POC-CVE-2024-36877) | no description | 2024-08-17T20:47:52Z |
 | [CVE-2024-36842](https://www.cve.org/CVERecord?id=CVE-2024-36842) | [abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-) | CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script! | 2024-05-09T12:28:11Z |
+| [CVE-2024-36840](https://www.cve.org/CVERecord?id=CVE-2024-36840) | [theexploiters/CVE-2024-36840-Exploit](https://github.com/theexploiters/CVE-2024-36840-Exploit) | Exploit For: CVE-2024-36840: SQL Injection Vulnerability in Boelter Blue System Management (Version 1.3) | 2025-01-10T16:08:07Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837) | CVE-2024-36837 POC | 2024-06-15T16:44:51Z |
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837) | CVE-2024-36837 POC | 2024-09-28T10:44:03Z |
 | [CVE-2024-36823](https://www.cve.org/CVERecord?id=CVE-2024-36823) | [JAckLosingHeart/CVE-2024-36823-POC](https://github.com/JAckLosingHeart/CVE-2024-36823-POC) | no description | 2024-11-03T01:56:11Z |
@@ -1135,6 +1137,7 @@ Last generated: 2025-02-11 02:14:57.690496
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [iwallarm/cve-2024-3400](https://github.com/iwallarm/cve-2024-3400) | no description | 2024-05-19T12:38:04Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) | CVE-2024-3400 PAN-OS Vulnerability Scanner. | 2024-11-30T05:47:12Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc) | CVE-2024-3400的攻击脚本 | 2025-01-10T02:20:26Z |
 | [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393) | CVE-2024-3393 EXPLOIT | 2025-01-04T08:18:06Z |
 | [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [waived/CVE-2024-3393](https://github.com/waived/CVE-2024-3393) | PAN-OS: Firewall Denial-of-Service exploit via malicious DNS query | 2025-01-09T22:03:07Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
@@ -1150,6 +1153,7 @@ Last generated: 2025-02-11 02:14:57.690496
 | [CVE-2024-33438](https://www.cve.org/CVERecord?id=CVE-2024-33438) | [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438) | CubeCart &lt;= 6.5.4 is vulnerable to an arbitrary file upload that leads to remote code execution (RCE). | 2024-04-24T16:31:17Z |
 | [CVE-2024-33352](https://www.cve.org/CVERecord?id=CVE-2024-33352) | [mmiszczyk/CVE-2024-33352](https://github.com/mmiszczyk/CVE-2024-33352) | BlueStacks privilege escalation through VM backdooring | 2024-07-16T07:38:19Z |
 | [CVE-2024-33339](https://www.cve.org/CVERecord?id=CVE-2024-33339) | [balckgu1/Poc](https://github.com/balckgu1/Poc) | This repository is a proof of vulnerability for CVE-2024-33339 | 2024-04-28T01:56:40Z |
+| [CVE-2024-33298](https://www.cve.org/CVERecord?id=CVE-2024-33298) | [MathSabo/CVE-2024-33298](https://github.com/MathSabo/CVE-2024-33298) | Stored Cross Site Scripting vulnerability in Microweber &lt; 2.0.9 | 2025-01-10T16:08:42Z |
 | [CVE-2024-33231](https://www.cve.org/CVERecord?id=CVE-2024-33231) | [fdzdev/CVE-2024-33231](https://github.com/fdzdev/CVE-2024-33231) | XSS Vulnerability via File Upload in Ferozo Webmail Application | 2024-10-18T22:09:27Z |
 | [CVE-2024-33210](https://www.cve.org/CVERecord?id=CVE-2024-33210) | [paragbagul111/CVE-2024-33210](https://github.com/paragbagul111/CVE-2024-33210) | A cross-site scripting (XSS) vulnerability has been identified in Flatpress 1.3. This vulnerability allows an attacker to inject malicious scripts into web pages viewed by other users. | 2024-09-28T08:24:42Z |
 | [CVE-2024-33209](https://www.cve.org/CVERecord?id=CVE-2024-33209) | [paragbagul111/CVE-2024-33209](https://github.com/paragbagul111/CVE-2024-33209) | FlatPress 1.3. is vulnerable to Cross Site Scripting (XSS). An attacker can inject malicious JavaScript code into the &quot;Add New Entry&quot; section, which allows them to execute arbitrary code in the context of a victim&#x27;s web browser. | 2024-09-28T08:17:01Z |
@@ -2190,9 +2194,11 @@ Last generated: 2025-02-11 02:14:57.690496
 | [CVE-2024-1269](https://www.cve.org/CVERecord?id=CVE-2024-1269) | [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269) | (XSS) | 2024-02-17T12:21:17Z |
 | [CVE-2024-12594](https://www.cve.org/CVERecord?id=CVE-2024-12594) | [RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594) | ALL In One Custom Login Page &lt;= 7.1.1 - Missing Authorization to Authenticated (Subscriber+)Privilege Escalation | 2025-01-06T11:05:21Z |
 | [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558) | WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db | 2025-01-06T10:45:29Z |
+| [CVE-2024-12542](https://www.cve.org/CVERecord?id=CVE-2024-12542) | [RandomRobbieBF/CVE-2024-12542](https://github.com/RandomRobbieBF/CVE-2024-12542) | linkID &lt;= 0.1.2 - Missing Authorization to Unauthenticated Sensitive Information Exposure | 2025-01-10T09:23:18Z |
 | [CVE-2024-12535](https://www.cve.org/CVERecord?id=CVE-2024-12535) | [RandomRobbieBF/CVE-2024-12535](https://github.com/RandomRobbieBF/CVE-2024-12535) | Host PHP Info &lt;= 1.0.4 - Missing Authorization to Unauthenticated Sensitive Information Disclosure | 2025-01-07T15:08:14Z |
 | [CVE-2024-12484](https://www.cve.org/CVERecord?id=CVE-2024-12484) | [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484) | CVE-poc | 2024-12-09T04:42:19Z |
 | [CVE-2024-12471](https://www.cve.org/CVERecord?id=CVE-2024-12471) | [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471) | Post Saint: ChatGPT, GPT4, DALL-E, Stable Diffusion, Pexels, Dezgo AI Text &amp; Image Generator &lt;= 1.3.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Upload | 2025-01-07T14:30:08Z |
+| [CVE-2024-12404](https://www.cve.org/CVERecord?id=CVE-2024-12404) | [RandomRobbieBF/CVE-2024-12404](https://github.com/RandomRobbieBF/CVE-2024-12404) | CF Internal Link Shortcode &lt;= 1.1.0 - Unauthenticated SQL Injection | 2025-01-10T14:52:22Z |
 | [CVE-2024-12345](https://www.cve.org/CVERecord?id=CVE-2024-12345) | [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC) | no description | 2024-11-29T11:04:57Z |
 | [CVE-2024-12270](https://www.cve.org/CVERecord?id=CVE-2024-12270) | [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270) | Beautiful Taxonomy Filters &lt;= 2.4.3 - Unauthenticated SQL Injection | 2024-12-09T13:22:10Z |
 | [CVE-2024-12252](https://www.cve.org/CVERecord?id=CVE-2024-12252) | [RandomRobbieBF/CVE-2024-12252](https://github.com/RandomRobbieBF/CVE-2024-12252) | SEO LAT Auto Post &lt;= 2.2.1 - Missing Authorization to File Overwrite/Upload (Remote Code Execution) | 2025-01-07T16:22:35Z |
