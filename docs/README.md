@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-14 02:14:15.463007
+Last generated: 2025-02-15 02:13:16.049349
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-9933](https://www.cve.org/CVERecord?id=CVE-2024-9933) | [RandomRobbieBF/CVE-2024-9933](https://github.com/RandomRobbieBF/CVE-2024-9933) | WatchTowerHQ &lt;= 3.10.1 - Authentication Bypass to Administrator due to Missing Empty Value Check | 2024-11-05T20:55:09Z |
 | [CVE-2024-9933](https://www.cve.org/CVERecord?id=CVE-2024-9933) | [Nxploited/CVE-2024-9933](https://github.com/Nxploited/CVE-2024-9933) | no description | 2024-12-27T11:03:42Z |
 | [CVE-2024-9932](https://www.cve.org/CVERecord?id=CVE-2024-9932) | [RandomRobbieBF/CVE-2024-9932](https://github.com/RandomRobbieBF/CVE-2024-9932) | Wux Blog Editor &lt;= 3.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-05T15:00:39Z |
+| [CVE-2024-9932](https://www.cve.org/CVERecord?id=CVE-2024-9932) | [Nxploited/CVE-2024-9932-POC](https://github.com/Nxploited/CVE-2024-9932-POC) | no description | 2025-01-11T22:09:55Z |
 | [CVE-2024-9926](https://www.cve.org/CVERecord?id=CVE-2024-9926) | [m3ssap0/wordpress-jetpack-broken-access-control-exploit](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-exploit) | Exploits Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). | 2024-11-01T14:03:55Z |
 | [CVE-2024-9926](https://www.cve.org/CVERecord?id=CVE-2024-9926) | [m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application) | WARNING: This is a vulnerable application to test the exploit for the Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). Run it at your own risk! | 2024-10-23T19:12:55Z |
 | [CVE-2024-9890](https://www.cve.org/CVERecord?id=CVE-2024-9890) | [RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890) | User Toolkit &lt;= 1.2.3 - Authenticated (Subscriber+) Authentication Bypass | 2024-11-08T12:56:55Z |
@@ -286,6 +287,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
+| [CVE-2024-55503](https://www.cve.org/CVERecord?id=CVE-2024-55503) | [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503) | no description | 2024-12-05T21:48:21Z |
 | [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
@@ -414,6 +416,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498) | This is a exploit for CVE-2024-50498 | 2024-12-04T01:30:19Z |
 | [CVE-2024-50498](https://www.cve.org/CVERecord?id=CVE-2024-50498) | [Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498) | no description | 2025-01-03T22:36:43Z |
 | [CVE-2024-50493](https://www.cve.org/CVERecord?id=CVE-2024-50493) | [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493) | Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload | 2024-11-10T08:17:41Z |
+| [CVE-2024-50491](https://www.cve.org/CVERecord?id=CVE-2024-50491) | [RandomRobbieBF/CVE-2024-50491](https://github.com/RandomRobbieBF/CVE-2024-50491) | RSVP ME &lt;= 1.9.9 - Unauthenticated SQL Injection | 2025-01-12T07:26:48Z |
 | [CVE-2024-50490](https://www.cve.org/CVERecord?id=CVE-2024-50490) | [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490) | PegaPoll &lt;= 1.0.2 - Unauthenticated Arbitrary Options Update | 2024-11-05T12:27:41Z |
 | [CVE-2024-50488](https://www.cve.org/CVERecord?id=CVE-2024-50488) | [RandomRobbieBF/CVE-2024-50488](https://github.com/RandomRobbieBF/CVE-2024-50488) | Token Login &lt;= 1.0.3 - Authenticated (Subscriber+) Privilege Escalation | 2024-11-09T10:54:06Z |
 | [CVE-2024-50485](https://www.cve.org/CVERecord?id=CVE-2024-50485) | [RandomRobbieBF/CVE-2024-50485](https://github.com/RandomRobbieBF/CVE-2024-50485) | Exam Matrix &lt;= 1.5 - Unauthenticated Privilege Escalation | 2024-11-05T13:02:28Z |
@@ -468,6 +471,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-49369](https://www.cve.org/CVERecord?id=CVE-2024-49369) | [Quantum-Sicarius/CVE-2024-49369](https://github.com/Quantum-Sicarius/CVE-2024-49369) | no description | 2024-11-29T08:14:03Z |
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
+| [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [Nxploited/CVE-2024-49328-exploit](https://github.com/Nxploited/CVE-2024-49328-exploit) | no description | 2025-01-11T18:22:25Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
 | [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113) | LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113 | 2025-01-01T15:48:38Z |
@@ -1024,6 +1028,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401) | CVE-2024-36401 (GeoServer Remote Code Execution) | 2024-11-27T19:13:49Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
+| [CVE-2024-3605](https://www.cve.org/CVERecord?id=CVE-2024-3605) | [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605) | WP Hotel Booking &lt;= 2.1.0 - Unauthenticated SQL Injection | 2025-01-12T07:53:02Z |
 | [CVE-2024-3596](https://www.cve.org/CVERecord?id=CVE-2024-3596) | [alperenugurlu/CVE-2024-3596-Detector](https://github.com/alperenugurlu/CVE-2024-3596-Detector) | no description | 2024-07-09T19:44:40Z |
 | [CVE-2024-35584](https://www.cve.org/CVERecord?id=CVE-2024-35584) | [whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584) | OpenSIS SQLi Injection | 2024-10-14T17:24:01Z |
 | [CVE-2024-35538](https://www.cve.org/CVERecord?id=CVE-2024-35538) | [cyberaz0r/Typecho-Multiple-Vulnerabilities](https://github.com/cyberaz0r/Typecho-Multiple-Vulnerabilities) | Exploits for Typecho CVE-2024-35538, CVE-2024-35539 and CVE-2024-35540 | 2024-08-18T17:09:05Z |
@@ -2117,6 +2122,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-) | Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled. | 2024-05-18T15:38:34Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC) | no description | 2024-06-23T06:03:44Z |
 | [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [Crowdfense/CVE-2024-21338](https://github.com/Crowdfense/CVE-2024-21338) | Windows AppLocker Driver (appid.sys) LPE | 2024-07-29T13:18:06Z |
+| [CVE-2024-21338](https://www.cve.org/CVERecord?id=CVE-2024-21338) | [hackyboiz/kcfg-bypass](https://github.com/hackyboiz/kcfg-bypass) | kcfg bypass example - CVE-2024-21338 | 2025-01-12T06:16:30Z |
 | [CVE-2024-21320](https://www.cve.org/CVERecord?id=CVE-2024-21320) | [sxyrxyy/CVE-2024-21320-POC](https://github.com/sxyrxyy/CVE-2024-21320-POC) | no description | 2024-10-30T06:58:19Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306) | no description | 2024-04-08T01:15:21Z |
 | [CVE-2024-21306](https://www.cve.org/CVERecord?id=CVE-2024-21306) | [PhucHauDeveloper/BadBlue](https://github.com/PhucHauDeveloper/BadBlue) | CVE-2024-21306 BadBlue implementation (Using DuckyScript) | 2024-05-06T02:05:02Z |
@@ -2300,6 +2306,7 @@ Last generated: 2025-02-14 02:14:15.463007
 | [CVE-2024-10605](https://www.cve.org/CVERecord?id=CVE-2024-10605) | [bevennyamande/CVE-2024-10605](https://github.com/bevennyamande/CVE-2024-10605) | no description | 2024-10-30T22:56:24Z |
 | [CVE-2024-10592](https://www.cve.org/CVERecord?id=CVE-2024-10592) | [windz3r0day/CVE-2024-10592](https://github.com/windz3r0day/CVE-2024-10592) | CVE-2024-10592 poc exploit | 2024-11-18T20:34:38Z |
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
+| [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [Nxploited/CVE-2024-10586-Poc](https://github.com/Nxploited/CVE-2024-10586-Poc) | no description | 2025-01-12T02:41:24Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10542](https://www.cve.org/CVERecord?id=CVE-2024-10542) | [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542) | WordPress Spam protection, AntiSpam, FireWall by CleanTalk Plugin &lt;= 6.43.2 is vulnerable to Unauthenticated Arbitrary Plugin Installation | 2024-11-26T23:47:17Z |
 | [CVE-2024-10516](https://www.cve.org/CVERecord?id=CVE-2024-10516) | [RandomRobbieBF/CVE-2024-10516](https://github.com/RandomRobbieBF/CVE-2024-10516) | Swift Performance Lite &lt;= 2.3.7.1 - Unauthenticated Local PHP File Inclusion via &#x27;ajaxify&#x27; | 2024-12-06T11:24:19Z |
