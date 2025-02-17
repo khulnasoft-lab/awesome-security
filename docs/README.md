@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-16 02:19:50.560732
+Last generated: 2025-02-17 02:17:32.502071
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2031,6 +2031,7 @@ Last generated: 2025-02-16 02:19:50.560732
 | [CVE-2024-22026](https://www.cve.org/CVERecord?id=CVE-2024-22026) | [securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026) | Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot; | 2024-05-15T11:20:45Z |
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024) | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | 2024-02-09T14:31:56Z |
 | [CVE-2024-22024](https://www.cve.org/CVERecord?id=CVE-2024-22024) | [tequilasunsh1ne/ivanti_CVE_2024_22024](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_22024) | no description | 2024-10-08T09:27:46Z |
+| [CVE-2024-22017](https://www.cve.org/CVERecord?id=CVE-2024-22017) | [SpiralBL0CK/cve-2024-22017_to_test](https://github.com/SpiralBL0CK/cve-2024-22017_to_test) | no description | 2025-01-12T13:40:16Z |
 | [CVE-2024-22002](https://www.cve.org/CVERecord?id=CVE-2024-22002) | [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002) | no description | 2024-01-02T18:49:21Z |
 | [CVE-2024-21978](https://www.cve.org/CVERecord?id=CVE-2024-21978) | [Freax13/cve-2024-21978-poc](https://github.com/Freax13/cve-2024-21978-poc) | no description | 2024-01-07T11:07:01Z |
 | [CVE-2024-2193](https://www.cve.org/CVERecord?id=CVE-2024-2193) | [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193) | no description | 2024-03-28T07:30:04Z |
@@ -3852,6 +3853,7 @@ Last generated: 2025-02-16 02:19:50.560732
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z |
 | [CVE-2023-28329](https://www.cve.org/CVERecord?id=CVE-2023-28329) | [cli-ish/CVE-2023-28329](https://github.com/cli-ish/CVE-2023-28329) | no description | 2023-10-18T07:58:04Z |
 | [CVE-2023-28329](https://www.cve.org/CVERecord?id=CVE-2023-28329) | [chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner) | Exploit tool for CVE-2023-4911, targeting the &#x27;Looney Tunables&#x27; glibc vulnerability in various Linux distributions. | 2023-10-17T07:44:16Z |
+| [CVE-2023-28324](https://www.cve.org/CVERecord?id=CVE-2023-28324) | [horizon3ai/CVE-2023-28324](https://github.com/horizon3ai/CVE-2023-28324) | Ivanti EPM AgentPortal RCE Vulnerability | 2024-09-13T14:02:04Z |
 | [CVE-2023-28310](https://www.cve.org/CVERecord?id=CVE-2023-28310) | [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310) | no description | 2023-06-14T09:23:34Z |
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik) | POC for CVE-2023-28252 | 2023-07-12T18:00:34Z |
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z |
@@ -5912,6 +5914,7 @@ Last generated: 2025-02-16 02:19:50.560732
 | [CVE-2019-11539](https://www.cve.org/CVERecord?id=CVE-2019-11539) | [0xDezzy/CVE-2019-11539](https://github.com/0xDezzy/CVE-2019-11539) | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | 2019-09-04T13:06:02Z |
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [0xkasra/CVE-2019-11447](https://github.com/0xkasra/CVE-2019-11447) | no description | 2022-04-14T01:45:04Z |
 | [CVE-2019-11358](https://www.cve.org/CVERecord?id=CVE-2019-11358) | [Snorlyd/https-nj.gov---CVE-2019-11358](https://github.com/Snorlyd/https-nj.gov---CVE-2019-11358) | Vulnearability Report of the New Jersey official site | 2022-05-23T08:51:42Z |
+| [CVE-2019-11358](https://www.cve.org/CVERecord?id=CVE-2019-11358) | [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358) | no description | 2023-08-05T14:44:42Z |
 | [CVE-2019-11224](https://www.cve.org/CVERecord?id=CVE-2019-11224) | [Insecurities/CVE-2019-11224](https://github.com/Insecurities/CVE-2019-11224) | Modero AMX Code Execution (CVE-2019–11224) | 2020-08-13T19:07:36Z |
 | [CVE-2019-11043](https://www.cve.org/CVERecord?id=CVE-2019-11043) | [jas9reet/CVE-2019-11043](https://github.com/jas9reet/CVE-2019-11043) | CVE-2019-11043 LAB | 2022-03-04T16:25:16Z |
 | [CVE-2019-11043](https://www.cve.org/CVERecord?id=CVE-2019-11043) | [AhnSungHoon/Kali_CVE](https://github.com/AhnSungHoon/Kali_CVE) | Kali linux _ CVE 2019 - 2022 | 2022-03-03T07:16:21Z |
