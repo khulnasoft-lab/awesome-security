@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-17 02:17:32.502071
+Last generated: 2025-02-18 02:13:50.115026
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-10-18T14:30:42Z |
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [issamjr/CVE-2024-9796](https://github.com/issamjr/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-11-15T22:55:18Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
+| [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [Nxploited/CVE-2024-9707-Poc](https://github.com/Nxploited/CVE-2024-9707-Poc) | he Hunk Companion Plugin for WordPress: Vulnerable to Unauthorized Plugin Installation/Activation (Versions Up to and Including 1.8.4) | 2025-01-12T23:35:02Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner) | A vulnerability scanner for Firefox and Thunderbird that checks if your versions are out of date and susceptible to CVE-2024-9680. | 2025-01-02T12:21:19Z |
 | [CVE-2024-9659](https://www.cve.org/CVERecord?id=CVE-2024-9659) | [zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659) | CVE-2024-9659: Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-25T19:16:58Z |
@@ -311,6 +312,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
 | [CVE-2024-54152](https://www.cve.org/CVERecord?id=CVE-2024-54152) | [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc) | no description | 2024-12-30T01:07:48Z |
+| [CVE-2024-53691](https://www.cve.org/CVERecord?id=CVE-2024-53691) | [C411e/CVE-2024-53691](https://github.com/C411e/CVE-2024-53691) | CVE-2024-53691 | 2025-01-13T10:07:25Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [cloudwafs/s2-067-CVE-2024-53677](https://github.com/cloudwafs/s2-067-CVE-2024-53677) | s2-067(CVE-2024-53677) | 2024-12-12T08:30:14Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [yangyanglo/CVE-2024-53677](https://github.com/yangyanglo/CVE-2024-53677) | no description | 2024-12-17T02:22:38Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [c4oocO/CVE-2024-53677-Docker](https://github.com/c4oocO/CVE-2024-53677-Docker) | A Docker-based environment to reproduce the CVE-2024-53677 vulnerability in Apache Struts 2. | 2024-12-17T06:42:16Z |
@@ -407,6 +409,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623) | CVE-2024-50623 POC - Cleo Unrestricted file upload and download | 2024-12-23T08:52:23Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC) | Cleo 远程代码执行漏洞批量检测脚本（CVE-2024-50623） | 2024-12-31T07:43:48Z |
 | [CVE-2024-50603](https://www.cve.org/CVERecord?id=CVE-2024-50603) | [newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603) | CVE-2024-50603-nuclei-poc | 2025-01-08T12:00:38Z |
+| [CVE-2024-50603](https://www.cve.org/CVERecord?id=CVE-2024-50603) | [th3gokul/CVE-2024-50603](https://github.com/th3gokul/CVE-2024-50603) | CVE-2024-50603: Aviatrix Controller Unauthenticated Command Injection | 2025-01-12T11:20:21Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
 | [CVE-2024-50510](https://www.cve.org/CVERecord?id=CVE-2024-50510) | [RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510) | AR For Woocommerce &lt;= 6.2 - Unauthenticated Arbitrary File Upload | 2024-12-16T20:15:56Z |
 | [CVE-2024-50509](https://www.cve.org/CVERecord?id=CVE-2024-50509) | [RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509) | Woocommerce Product Design &lt;= 1.0.0 - Unauthenticated Arbitrary File Deletion | 2024-12-16T19:17:07Z |
@@ -429,6 +432,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2024-50473](https://www.cve.org/CVERecord?id=CVE-2024-50473) | [RandomRobbieBF/CVE-2024-50473](https://github.com/RandomRobbieBF/CVE-2024-50473) | Ajar in5 Embed &lt;= 3.1.3 - Unauthenticated Arbitrary File Upload | 2024-11-09T07:46:54Z |
 | [CVE-2024-50450](https://www.cve.org/CVERecord?id=CVE-2024-50450) | [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450) | WordPress Meta Data and Taxonomies Filter (MDTF) &lt;= 1.3.3.4 - Unauthenticated Arbitrary Shortcode Execution | 2024-11-08T11:24:16Z |
 | [CVE-2024-50427](https://www.cve.org/CVERecord?id=CVE-2024-50427) | [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427) | SurveyJS: Drag &amp; Drop WordPress Form Builder &lt;= 1.9.136 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-11-08T12:24:06Z |
+| [CVE-2024-50404](https://www.cve.org/CVERecord?id=CVE-2024-50404) | [C411e/CVE-2024-50404](https://github.com/C411e/CVE-2024-50404) | CVE-2024-50404 | 2025-01-13T09:47:03Z |
 | [CVE-2024-50395](https://www.cve.org/CVERecord?id=CVE-2024-50395) | [neko-hat/CVE-2024-50395](https://github.com/neko-hat/CVE-2024-50395) | no description | 2024-11-25T06:06:25Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [yiliufeng168/CVE-2024-50379-POC](https://github.com/yiliufeng168/CVE-2024-50379-POC) | no description | 2024-12-19T02:43:18Z |
 | [CVE-2024-50379](https://www.cve.org/CVERecord?id=CVE-2024-50379) | [iSee857/CVE-2024-50379-PoC](https://github.com/iSee857/CVE-2024-50379-PoC) | Apache Tomcat（CVE-2024-50379）条件竞争致远程代码执行漏洞批量检测脚本 | 2024-12-20T05:24:10Z |
@@ -740,6 +744,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430) | This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044 | 2024-08-08T11:55:32Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC) | CVE-2024-43044的利用方式 | 2024-08-13T07:32:35Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [convisolabs/CVE-2024-43044-jenkins](https://github.com/convisolabs/CVE-2024-43044-jenkins) | Exploit for the vulnerability CVE-2024-43044 in Jenkins | 2024-08-23T20:26:26Z |
+| [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [DACC4/CVE-2024-43044-jenkins-creds](https://github.com/DACC4/CVE-2024-43044-jenkins-creds) | no description | 2025-01-12T19:16:31Z |
 | [CVE-2024-43035](https://www.cve.org/CVERecord?id=CVE-2024-43035) | [ZeroPathAI/Fonoster-LFI-PoC](https://github.com/ZeroPathAI/Fonoster-LFI-PoC) | Proof-of-concept exploit for Fonoster LFI vulnerability (CVE-2024-43035) | 2024-08-21T21:12:14Z |
 | [CVE-2024-42992](https://www.cve.org/CVERecord?id=CVE-2024-42992) | [thanhh23/CVE-2024-42992](https://github.com/thanhh23/CVE-2024-42992) | CVE-2024-42992 | 2024-08-26T03:13:45Z |
 | [CVE-2024-4295](https://www.cve.org/CVERecord?id=CVE-2024-4295) | [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc) | CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash | 2024-06-05T09:29:20Z |
@@ -2454,6 +2459,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2023-6444](https://www.cve.org/CVERecord?id=CVE-2023-6444) | [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC) | Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444 | 2024-08-07T01:58:04Z |
 | [CVE-2023-6319](https://www.cve.org/CVERecord?id=CVE-2023-6319) | [illixion/root-my-webos-tv](https://github.com/illixion/root-my-webos-tv) | CVE-2023-6319 proof of concept | 2024-04-11T18:58:17Z |
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z |
+| [CVE-2023-6275](https://www.cve.org/CVERecord?id=CVE-2023-6275) | [erickfernandox/CVE-2023-6275](https://github.com/erickfernandox/CVE-2023-6275) | Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1 | 2024-09-04T02:33:46Z |
 | [CVE-2023-6246](https://www.cve.org/CVERecord?id=CVE-2023-6246) | [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246) | no description | 2024-03-02T15:45:52Z |
 | [CVE-2023-6241](https://www.cve.org/CVERecord?id=CVE-2023-6241) | [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241) | CVE-2023-6241 for Pixel 8 | 2024-05-02T02:17:31Z |
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z |
@@ -4325,6 +4331,7 @@ Last generated: 2025-02-17 02:17:32.502071
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild) | Learn more things, not suck all things | 2023-11-20T18:32:46Z |
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177) | no description | 2023-04-13T02:56:24Z |
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [saimahmed/MLflow-Vuln](https://github.com/saimahmed/MLflow-Vuln) | MLflow LFI/RFI Vulnerability -CVE-2023-1177 - Reproduced | 2024-08-21T16:11:31Z |
+| [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [charlesgargasson/CVE-2023-1177](https://github.com/charlesgargasson/CVE-2023-1177) | MLFlow Path Traversal | 2024-09-19T10:59:31Z |
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z |
 | [CVE-2023-1077](https://www.cve.org/CVERecord?id=CVE-2023-1077) | [RenukaSelvar/kernel_rt_CVE_2023_1077](https://github.com/RenukaSelvar/kernel_rt_CVE_2023_1077) | no description | 2024-04-09T08:27:58Z |
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z |
@@ -7833,3 +7840,4 @@ Last generated: 2025-02-17 02:17:32.502071
 | CVE NOT FOUND | [jgamblin/2024CVEDataReview](https://github.com/jgamblin/2024CVEDataReview) | 2024 CVE Data Review | 2025-01-03T18:39:48Z |
 | CVE NOT FOUND | [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit) | no description | 2025-01-07T13:21:50Z |
 | CVE NOT FOUND | [0xsu3ks/CVE-POC-2024](https://github.com/0xsu3ks/CVE-POC-2024) | This is a PoC for a CVE in an unpublished application | 2025-01-08T02:50:35Z |
+| CVE NOT FOUND | [team-MineDEV/Cve2021-41379](https://github.com/team-MineDEV/Cve2021-41379) | no description | 2024-03-17T04:50:47Z |
