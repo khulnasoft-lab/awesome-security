@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-18 02:13:50.115026
+Last generated: 2025-02-19 02:14:56.963993
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -276,6 +276,7 @@ Last generated: 2025-02-18 02:13:50.115026
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
 | [CVE-2024-56064](https://www.cve.org/CVERecord?id=CVE-2024-56064) | [RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064) | WP SuperBackup &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload | 2025-01-09T15:35:39Z |
+| [CVE-2024-56058](https://www.cve.org/CVERecord?id=CVE-2024-56058) | [RandomRobbieBF/CVE-2024-56058](https://github.com/RandomRobbieBF/CVE-2024-56058) | VRPConnector &lt;= 2.0.1 - Unauthenticated PHP Object Injection | 2025-01-13T11:27:53Z |
 | [CVE-2024-55988](https://www.cve.org/CVERecord?id=CVE-2024-55988) | [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988) | Navayan CSV Export &lt;= 1.0.9 - Unauthenticated SQL Injection | 2025-01-03T10:45:42Z |
 | [CVE-2024-55982](https://www.cve.org/CVERecord?id=CVE-2024-55982) | [RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982) | Share Buttons – Social Media &lt;= 1.0.2 - Unauthenticated SQL Injection | 2025-01-03T12:23:50Z |
 | [CVE-2024-55981](https://www.cve.org/CVERecord?id=CVE-2024-55981) | [RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981) | Nabz Image Gallery &lt;= v1.00 - Unauthenticated SQL Injection | 2025-01-03T12:38:29Z |
@@ -2313,6 +2314,7 @@ Last generated: 2025-02-18 02:13:50.115026
 | [CVE-2024-10592](https://www.cve.org/CVERecord?id=CVE-2024-10592) | [windz3r0day/CVE-2024-10592](https://github.com/windz3r0day/CVE-2024-10592) | CVE-2024-10592 poc exploit | 2024-11-18T20:34:38Z |
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586) | Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation | 2024-11-10T11:30:05Z |
 | [CVE-2024-10586](https://www.cve.org/CVERecord?id=CVE-2024-10586) | [Nxploited/CVE-2024-10586-Poc](https://github.com/Nxploited/CVE-2024-10586-Poc) | no description | 2025-01-12T02:41:24Z |
+| [CVE-2024-10571](https://www.cve.org/CVERecord?id=CVE-2024-10571) | [RandomRobbieBF/CVE-2024-10571](https://github.com/RandomRobbieBF/CVE-2024-10571) | Chartify – WordPress Chart Plugin &lt;= 2.9.5 - Unauthenticated Local File Inclusion via source | 2025-01-13T10:38:31Z |
 | [CVE-2024-10557](https://www.cve.org/CVERecord?id=CVE-2024-10557) | [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557) | A CSRF POC for Updating the Profile of a Hospital leading to Account Takeover | 2024-10-28T20:14:45Z |
 | [CVE-2024-10542](https://www.cve.org/CVERecord?id=CVE-2024-10542) | [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542) | WordPress Spam protection, AntiSpam, FireWall by CleanTalk Plugin &lt;= 6.43.2 is vulnerable to Unauthenticated Arbitrary Plugin Installation | 2024-11-26T23:47:17Z |
 | [CVE-2024-10516](https://www.cve.org/CVERecord?id=CVE-2024-10516) | [RandomRobbieBF/CVE-2024-10516](https://github.com/RandomRobbieBF/CVE-2024-10516) | Swift Performance Lite &lt;= 2.3.7.1 - Unauthenticated Local PHP File Inclusion via &#x27;ajaxify&#x27; | 2024-12-06T11:24:19Z |
@@ -2755,6 +2757,7 @@ Last generated: 2025-02-18 02:13:50.115026
 | [CVE-2023-47437](https://www.cve.org/CVERecord?id=CVE-2023-47437) | [herombey/CVE-2023-47437](https://github.com/herombey/CVE-2023-47437) | Vulnerability Disclosure | 2023-11-15T18:55:03Z |
 | [CVE-2023-4741](https://www.cve.org/CVERecord?id=CVE-2023-4741) | [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741) | no description | 2023-08-22T06:00:57Z |
 | [CVE-2023-47400](https://www.cve.org/CVERecord?id=CVE-2023-47400) | [LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400) | Proof of Concept for the CVE-2023-47400 | 2024-01-26T09:35:47Z |
+| [CVE-2023-47253](https://www.cve.org/CVERecord?id=CVE-2023-47253) | [gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253) | CVE-2023-47253 - Qualitor &lt;= 8.20 RCE | 2024-09-19T17:52:40Z |
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [tucommenceapousser/CVE-2023-47246](https://github.com/tucommenceapousser/CVE-2023-47246) | no description | 2023-11-22T08:18:11Z |
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rainbowhatrkn/CVE-2023-47246](https://github.com/rainbowhatrkn/CVE-2023-47246) | exploit for cve-2023-47246 SysAid RCE (shell upload) | 2023-11-22T08:13:51Z |
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rothilion26/cve2023-data](https://github.com/rothilion26/cve2023-data) | no description | 2023-11-21T18:16:34Z |
