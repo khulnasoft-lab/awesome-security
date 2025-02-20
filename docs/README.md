@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-19 02:14:56.963993
+Last generated: 2025-02-20 02:15:22.355179
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -276,6 +276,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
 | [CVE-2024-56064](https://www.cve.org/CVERecord?id=CVE-2024-56064) | [RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064) | WP SuperBackup &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload | 2025-01-09T15:35:39Z |
+| [CVE-2024-56059](https://www.cve.org/CVERecord?id=CVE-2024-56059) | [RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059) | Partners &lt;= 0.2.0 - Unauthenticated PHP Object Injection | 2025-01-13T12:05:21Z |
 | [CVE-2024-56058](https://www.cve.org/CVERecord?id=CVE-2024-56058) | [RandomRobbieBF/CVE-2024-56058](https://github.com/RandomRobbieBF/CVE-2024-56058) | VRPConnector &lt;= 2.0.1 - Unauthenticated PHP Object Injection | 2025-01-13T11:27:53Z |
 | [CVE-2024-55988](https://www.cve.org/CVERecord?id=CVE-2024-55988) | [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988) | Navayan CSV Export &lt;= 1.0.9 - Unauthenticated SQL Injection | 2025-01-03T10:45:42Z |
 | [CVE-2024-55982](https://www.cve.org/CVERecord?id=CVE-2024-55982) | [RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982) | Share Buttons – Social Media &lt;= 1.0.2 - Unauthenticated SQL Injection | 2025-01-03T12:23:50Z |
@@ -1050,6 +1051,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF) | Cobalt Strike 的 CVE-2024-35250 的 BOF。(请给我加个星，谢谢。) | 2024-10-25T10:06:09Z |
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250) | PoC for the Untrusted Pointer Dereference in the ks.sys driver | 2024-10-13T19:30:20Z |
 | [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF) | CVE-2024-35250 的 Beacon Object File (BOF) 实现。 | 2024-11-23T12:12:00Z |
+| [CVE-2024-35250](https://www.cve.org/CVERecord?id=CVE-2024-35250) | [Brentlyw/GiveMeKernel](https://github.com/Brentlyw/GiveMeKernel) | CVE-2024-35250 PoC - Optimized &amp; Condensed Form of Varwara&#x27;s PoC | 2025-01-13T18:24:48Z |
 | [CVE-2024-35242](https://www.cve.org/CVERecord?id=CVE-2024-35242) | [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242) | A test repository for the vulnerability CVE-2024-35242&#x27;s PoC | 2024-07-15T15:01:31Z |
 | [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205) | [cyb3r-w0lf/Dirty_Stream-Android-POC](https://github.com/cyb3r-w0lf/Dirty_Stream-Android-POC) | Dirty Stream exploit for MI-File Explorer V1-210567 version. CVE-2024-35205 | 2024-06-17T08:10:47Z |
 | [CVE-2024-35176](https://www.cve.org/CVERecord?id=CVE-2024-35176) | [SpiralBL0CK/CVE-2024-35176](https://github.com/SpiralBL0CK/CVE-2024-35176) | CVE-2024-35176 poc full | 2024-12-19T19:01:53Z |
@@ -2213,6 +2215,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2024-1302](https://www.cve.org/CVERecord?id=CVE-2024-1302) | [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure) | POC Badgermeter moni tool - CVE-2024-1302 | 2024-02-08T09:27:53Z |
 | [CVE-2024-1301](https://www.cve.org/CVERecord?id=CVE-2024-1301) | [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection) | POC Badgermeter moni tool - CVE-2024-1301 | 2024-02-08T09:08:05Z |
 | [CVE-2024-12986](https://www.cve.org/CVERecord?id=CVE-2024-12986) | [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986) | no description | 2025-01-04T14:47:09Z |
+| [CVE-2024-12970](https://www.cve.org/CVERecord?id=CVE-2024-12970) | [osmancanvural/CVE-2024-12970](https://github.com/osmancanvural/CVE-2024-12970) | Pardus My Computer Os Command Injection | 2025-01-03T10:23:44Z |
 | [CVE-2024-12883](https://www.cve.org/CVERecord?id=CVE-2024-12883) | [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883) | no description | 2024-03-14T21:40:40Z |
 | [CVE-2024-12856](https://www.cve.org/CVERecord?id=CVE-2024-12856) | [nu113d/CVE-2024-12856](https://github.com/nu113d/CVE-2024-12856) | An exploit for Four-Faith routers to get a reverse shell | 2025-01-11T18:14:03Z |
 | [CVE-2024-12849](https://www.cve.org/CVERecord?id=CVE-2024-12849) | [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849) | Error Log Viewer By WP Guru &lt;= 1.0.1.3 - Missing Authorization to Unauthenticated Arbitrary File Read | 2025-01-07T13:32:30Z |
@@ -2254,6 +2257,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2024-11428](https://www.cve.org/CVERecord?id=CVE-2024-11428) | [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428) | CVE-2024-11428 poc exploit | 2024-11-22T16:51:47Z |
 | [CVE-2024-11423](https://www.cve.org/CVERecord?id=CVE-2024-11423) | [RandomRobbieBF/CVE-2024-11423](https://github.com/RandomRobbieBF/CVE-2024-11423) | Ultimate Gift Cards for WooCommerce &lt;= 3.0.6 - Missing Authorization to Infinite Money Glitch | 2025-01-08T07:12:08Z |
 | [CVE-2024-11412](https://www.cve.org/CVERecord?id=CVE-2024-11412) | [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412) | CVE-2024-11412 poc exploit | 2024-11-22T16:50:08Z |
+| [CVE-2024-11396](https://www.cve.org/CVERecord?id=CVE-2024-11396) | [RandomRobbieBF/CVE-2024-11396](https://github.com/RandomRobbieBF/CVE-2024-11396) | Event monster &lt;= 1.4.3 - Information Exposure Via Visitors List Export | 2025-01-13T12:12:12Z |
 | [CVE-2024-11394](https://www.cve.org/CVERecord?id=CVE-2024-11394) | [Piyush-Bhor/CVE-2024-11394](https://github.com/Piyush-Bhor/CVE-2024-11394) | Technical Details and Exploit for CVE-2024-11394 | 2024-12-07T11:25:32Z |
 | [CVE-2024-11393](https://www.cve.org/CVERecord?id=CVE-2024-11393) | [Piyush-Bhor/CVE-2024-11393](https://github.com/Piyush-Bhor/CVE-2024-11393) | Technical Details and Exploit for CVE-2024-11393 | 2024-12-07T11:24:06Z |
 | [CVE-2024-11392](https://www.cve.org/CVERecord?id=CVE-2024-11392) | [Piyush-Bhor/CVE-2024-11392](https://github.com/Piyush-Bhor/CVE-2024-11392) | Technical Details and Exploit for CVE-2024-11392 | 2024-12-07T11:14:21Z |
@@ -3776,6 +3780,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253) | In Dolibarr 17.0.0 with the CMS Website plugin (core) enabled, an authenticated attacker can obtain remote command execution via php code injection bypassing the application restrictions. | 2024-06-24T16:22:31Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [andria-dev/DolibabyPhp](https://github.com/andria-dev/DolibabyPhp) | An authenticated RCE exploit for Dolibarr ERP/CRM CVE-2023-30253. | 2024-07-10T05:39:01Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [g4nkd/CVE-2023-30253-PoC](https://github.com/g4nkd/CVE-2023-30253-PoC) | CVE-2023-30253 PoC | 2024-06-21T01:41:34Z |
+| [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [bluetoothStrawberry/CVE-2023-30253](https://github.com/bluetoothStrawberry/CVE-2023-30253) | Dolibarr 17.0.0 PHP Code Injection Exploit | 2024-09-20T19:54:22Z |
 | [CVE-2023-30226](https://www.cve.org/CVERecord?id=CVE-2023-30226) | [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226) | rizin denial of service bug | 2023-07-08T19:14:30Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-) | This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212) | 2023-06-20T09:08:38Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212) | no description | 2023-06-20T10:50:30Z |
@@ -3958,6 +3963,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163) | PoC for SSRF in request-baskets v1.2.1 (CVE-2023-27163) | 2024-01-06T13:16:29Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [MasterCode112/CVE-2023-27163](https://github.com/MasterCode112/CVE-2023-27163) | Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1) | 2023-12-28T11:36:37Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning](https://github.com/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning) | It is a simple script to automate internal port scanning dueto SSRF in requests-baskets v 1.2.1. this script can also assisst in solving &#x27;SAU&#x27; machine from hackthebox | 2024-06-27T09:48:14Z |
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [btar1gan/exploit_CVE-2023-27163](https://github.com/btar1gan/exploit_CVE-2023-27163) | no description | 2024-09-22T03:33:18Z |
 | [CVE-2023-27100](https://www.cve.org/CVERecord?id=CVE-2023-27100) | [fabdotnet/CVE-2023-27100](https://github.com/fabdotnet/CVE-2023-27100) | no description | 2024-05-20T13:35:39Z |
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z |
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow) | no description | 2023-04-11T11:02:48Z |
@@ -4200,6 +4206,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z |
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716) | python program to exploit CVE-2023-21716 | 2023-06-13T19:04:45Z |
 | [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py) | This is an exploit file which is used to check CVE-2021-21716 vulnerability | 2023-11-04T08:49:14Z |
+| [CVE-2023-21716](https://www.cve.org/CVERecord?id=CVE-2023-21716) | [RonF98/CVE-2023-21716-POC](https://github.com/RonF98/CVE-2023-21716-POC) | Proof Of Concept for CVE-2023-21716 Microsoft Word Heap Corruption | 2024-09-16T13:04:45Z |
 | [CVE-2023-21707](https://www.cve.org/CVERecord?id=CVE-2023-21707) | [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707) | CVE-2023-21707 EXP | 2023-06-30T10:15:07Z |
 | [CVE-2023-21674](https://www.cve.org/CVERecord?id=CVE-2023-21674) | [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674) | no description | 2024-03-07T05:43:48Z |
 | [CVE-2023-21608](https://www.cve.org/CVERecord?id=CVE-2023-21608) | [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608) | Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit | 2023-01-30T12:57:48Z |
@@ -5178,6 +5185,7 @@ Last generated: 2025-02-19 02:14:56.963993
 | [CVE-2021-31800](https://www.cve.org/CVERecord?id=CVE-2021-31800) | [p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write](https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write) | A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server. | 2022-08-28T19:04:46Z |
 | [CVE-2021-31800](https://www.cve.org/CVERecord?id=CVE-2021-31800) | [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) | A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE | 2021-07-05T20:13:49Z |
 | [CVE-2021-3166](https://www.cve.org/CVERecord?id=CVE-2021-3166) | [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166) | Mastering CVE-2021-3166 | 2022-11-18T18:28:57Z |
+| [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [Hunt3r0x/CVE-2021-31630-HTB](https://github.com/Hunt3r0x/CVE-2021-31630-HTB) | proof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform. | 2024-03-20T22:02:53Z |
 | [CVE-2021-31589](https://www.cve.org/CVERecord?id=CVE-2021-31589) | [karthi-the-hacker/CVE-2021-31589](https://github.com/karthi-the-hacker/CVE-2021-31589) | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | 2023-04-19T09:10:40Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [mutur4/CVE-2021-3156](https://github.com/mutur4/CVE-2021-3156) | no description | 2023-05-11T19:38:16Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) | 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接 | 2022-10-04T03:39:27Z |
