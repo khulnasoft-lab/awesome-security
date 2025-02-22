@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-21 02:15:43.282484
+Last generated: 2025-02-22 02:11:46.559645
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Last generated: 2025-02-21 02:15:43.282484
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474) | no description | 2024-11-20T16:42:26Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [k4nfr3/CVE-2024-9474](https://github.com/k4nfr3/CVE-2024-9474) | no description | 2024-11-19T22:03:13Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [coskper-papa/PAN-OS_CVE-2024-9474](https://github.com/coskper-papa/PAN-OS_CVE-2024-9474) | Palo Alto Networks PAN-OS(CVE-2024-9474) POC | 2024-12-11T03:10:41Z |
+| [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [aratane/CVE-2024-9474](https://github.com/aratane/CVE-2024-9474) | Palo Alto RCE Vuln | 2025-01-16T20:07:14Z |
 | [CVE-2024-9466](https://www.cve.org/CVERecord?id=CVE-2024-9466) | [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466) | CVE-2024-9466 poc | 2024-10-19T08:22:13Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) | Checkpoint SQL Injection via Time-Based Attack (CVE-2024-9465) | 2024-10-10T08:23:31Z |
 | [CVE-2024-9465](https://www.cve.org/CVERecord?id=CVE-2024-9465) | [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465) | Proof of Concept Exploit for CVE-2024-9465 | 2024-10-09T16:22:05Z |
@@ -256,6 +257,8 @@ Last generated: 2025-02-21 02:15:43.282484
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932) | no description | 2024-10-11T08:12:38Z |
 | [CVE-2024-5910](https://www.cve.org/CVERecord?id=CVE-2024-5910) | [p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464) | no description | 2024-11-15T23:46:01Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
+| [CVE-2024-57785](https://www.cve.org/CVERecord?id=CVE-2024-57785) | [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785) | no description | 2025-01-16T11:10:34Z |
+| [CVE-2024-57784](https://www.cve.org/CVERecord?id=CVE-2024-57784) | [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784) | no description | 2025-01-16T11:17:10Z |
 | [CVE-2024-5764](https://www.cve.org/CVERecord?id=CVE-2024-5764) | [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764) | CVE-2024-5764 exploitation script | 2024-11-14T20:08:45Z |
 | [CVE-2024-57523](https://www.cve.org/CVERecord?id=CVE-2024-57523) | [HackWidMaddy/CVE-2024-57523.](https://github.com/HackWidMaddy/CVE-2024-57523.) | CVE-2024-57523 - CSRF Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:56:30Z |
 | [CVE-2024-57487](https://www.cve.org/CVERecord?id=CVE-2024-57487) | [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488) | POC of CVE-2024-57487 &amp; CVE-2024-57488 | 2025-01-10T16:06:23Z |
@@ -857,6 +860,7 @@ Last generated: 2025-02-21 02:15:43.282484
 | [CVE-2024-40119](https://www.cve.org/CVERecord?id=CVE-2024-40119) | [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119) | Cross-Site Request Forgery (CSRF) vulnerability in the password  change function, which allows remote attackers to change the admin  password without the user&#x27;s consent, leading to a potential account  takeover. | 2024-07-17T03:03:42Z |
 | [CVE-2024-40111](https://www.cve.org/CVERecord?id=CVE-2024-40111) | [theexploiters/CVE-2024-40111-Exploit](https://github.com/theexploiters/CVE-2024-40111-Exploit) | Exploit For: CVE-2024-40111: Stored Cross-Site Scripting (XSS) in Automad 2.0.0-alpha.4 | 2025-01-10T20:14:07Z |
 | [CVE-2024-40110](https://www.cve.org/CVERecord?id=CVE-2024-40110) | [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110) | no description | 2024-08-02T20:17:25Z |
+| [CVE-2024-40094](https://www.cve.org/CVERecord?id=CVE-2024-40094) | [inpentest/CVE-2024-40094](https://github.com/inpentest/CVE-2024-40094) | This script exploits the CVE-2024-40094 vulnerability in graphql-java | 2025-01-17T08:09:37Z |
 | [CVE-2024-40080](https://www.cve.org/CVERecord?id=CVE-2024-40080) | [perras/CVE-2024-40080](https://github.com/perras/CVE-2024-40080) | cve discovery proof-of-concept | 2024-08-06T13:28:53Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) | CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js). | 2024-07-05T06:46:34Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943) | no description | 2024-07-08T03:38:18Z |
@@ -1042,6 +1046,7 @@ Last generated: 2025-02-21 02:15:43.282484
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc) | CVE-2024-36401是GeoServer中的一个高危远程代码执行漏洞。GeoServer是一款开源的地理数据服务器软件，主要用于发布、共享和处理各种地理空间数据。  ALIYUN  漏洞原理： 该漏洞源于GeoServer在处理属性名称时，将其不安全地解析为XPath表达式。具体而言，GeoServer调用的GeoTools库API在评估要素类型的属性名称时，以不安全的方式将其传递给commons-jxpath库。由于commons-jxpath库在解析XPath表达式时允许执行任意代码，攻击者可以通过构造特定的输入，利用多个OGC请求参数（如WFS GetFeature、WFS GetPropertyValue、WMS GetMap等），在未经身份验证的情况下远程执行任意代码。 | 2024-11-22T14:21:53Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin) | CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件 | 2024-11-22T03:57:12Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401) | CVE-2024-36401 (GeoServer Remote Code Execution) | 2024-11-27T19:13:49Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit) | GeoServer（CVE-2024-36401/CVE-2024-36404）漏洞利用工具 | 2025-01-07T08:13:39Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3605](https://www.cve.org/CVERecord?id=CVE-2024-3605) | [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605) | WP Hotel Booking &lt;= 2.1.0 - Unauthenticated SQL Injection | 2025-01-12T07:53:02Z |
