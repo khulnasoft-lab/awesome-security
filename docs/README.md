@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-22 02:11:46.559645
+Last generated: 2025-02-23 02:20:06.894265
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -259,8 +259,10 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-57785](https://www.cve.org/CVERecord?id=CVE-2024-57785) | [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785) | no description | 2025-01-16T11:10:34Z |
 | [CVE-2024-57784](https://www.cve.org/CVERecord?id=CVE-2024-57784) | [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784) | no description | 2025-01-16T11:17:10Z |
+| [CVE-2024-57727](https://www.cve.org/CVERecord?id=CVE-2024-57727) | [imjdl/CVE-2024-57727](https://github.com/imjdl/CVE-2024-57727) | CVE-2024-57727 | 2025-01-17T15:45:51Z |
 | [CVE-2024-5764](https://www.cve.org/CVERecord?id=CVE-2024-5764) | [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764) | CVE-2024-5764 exploitation script | 2024-11-14T20:08:45Z |
 | [CVE-2024-57523](https://www.cve.org/CVERecord?id=CVE-2024-57523) | [HackWidMaddy/CVE-2024-57523.](https://github.com/HackWidMaddy/CVE-2024-57523.) | CVE-2024-57523 - CSRF Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:56:30Z |
+| [CVE-2024-57522](https://www.cve.org/CVERecord?id=CVE-2024-57522) | [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522) | CVE-2024-57522 - Stored XSS Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:45:35Z |
 | [CVE-2024-57487](https://www.cve.org/CVERecord?id=CVE-2024-57487) | [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488) | POC of CVE-2024-57487 &amp; CVE-2024-57488 | 2025-01-10T16:06:23Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -295,6 +297,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591) | no description | 2025-01-16T07:26:15Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
+| [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
 | [CVE-2024-55503](https://www.cve.org/CVERecord?id=CVE-2024-55503) | [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503) | no description | 2024-12-05T21:48:21Z |
 | [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
@@ -312,11 +315,13 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-54378](https://www.cve.org/CVERecord?id=CVE-2024-54378) | [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378) | Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update | 2024-12-19T17:15:17Z |
 | [CVE-2024-54374](https://www.cve.org/CVERecord?id=CVE-2024-54374) | [RandomRobbieBF/CVE-2024-54374](https://github.com/RandomRobbieBF/CVE-2024-54374) | Sogrid &lt;= 1.5.6 - Unauthenticated Local File Inclusion | 2025-01-03T10:08:54Z |
 | [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369) | Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation | 2024-12-19T15:38:41Z |
+| [CVE-2024-54369](https://www.cve.org/CVERecord?id=CVE-2024-54369) | [Nxploited/CVE-2024-54369-PoC](https://github.com/Nxploited/CVE-2024-54369-PoC) | PoC: Plugin: Zita Site Builder &lt;= 1.0.2 -  Arbitrary Plugin Installation | 2025-01-18T10:52:03Z |
 | [CVE-2024-54363](https://www.cve.org/CVERecord?id=CVE-2024-54363) | [RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363) | Wp NssUser Register &lt;= 1.0.0 - Unauthenticated Privilege Escalation | 2025-01-02T14:41:52Z |
 | [CVE-2024-54363](https://www.cve.org/CVERecord?id=CVE-2024-54363) | [Nxploited/CVE-2024-54363-Exploit](https://github.com/Nxploited/CVE-2024-54363-Exploit) | Incorrect Privilege Assignment vulnerability in nssTheme Wp NssUser Register allows Privilege Escalation.This issue affects Wp NssUser Register: from n/a through 1.0.0. | 2025-01-16T10:18:02Z |
 | [CVE-2024-54330](https://www.cve.org/CVERecord?id=CVE-2024-54330) | [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330) | Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery | 2025-01-02T10:31:51Z |
 | [CVE-2024-54292](https://www.cve.org/CVERecord?id=CVE-2024-54292) | [RandomRobbieBF/CVE-2024-54292](https://github.com/RandomRobbieBF/CVE-2024-54292) | Appsplate &lt;= 2.1.3 - Unauthenticated SQL Injection | 2025-01-07T17:14:57Z |
 | [CVE-2024-54262](https://www.cve.org/CVERecord?id=CVE-2024-54262) | [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262) | Import Export For WooCommerce &lt;= 1.5 - Authenticated (Subscriber+) Arbitrary File Upload | 2024-12-19T14:42:06Z |
+| [CVE-2024-54262](https://www.cve.org/CVERecord?id=CVE-2024-54262) | [Nxploited/CVE-2024-54262](https://github.com/Nxploited/CVE-2024-54262) | Exploit CVE-2024-54262: Arbitrary File Upload in Import Export for WooCommerce | 2025-01-17T11:13:36Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [K4yd0/CVE-2024-5420_XSS](https://github.com/K4yd0/CVE-2024-5420_XSS) | no description | 2024-09-02T16:39:59Z |
 | [CVE-2024-5420](https://www.cve.org/CVERecord?id=CVE-2024-5420) | [fa-rrel/CVE-2024-5420-XSS](https://github.com/fa-rrel/CVE-2024-5420-XSS) | SEH utnserver Pro/ProMAX / INU-100 20.1.22 - XSS | 2024-09-02T15:29:22Z |
 | [CVE-2024-54152](https://www.cve.org/CVERecord?id=CVE-2024-54152) | [math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc) | no description | 2024-12-30T01:07:48Z |
@@ -359,6 +364,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-52382](https://www.cve.org/CVERecord?id=CVE-2024-52382) | [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) | Matix Popup Builder &lt;= 1.0.0 - Unauthenticated Arbitrary Options Update | 2024-11-21T16:19:12Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380) | Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-25T14:56:38Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380) | no description | 2024-11-30T02:43:11Z |
+| [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [Nxploited/CVE-2024-52380-Exploit](https://github.com/Nxploited/CVE-2024-52380-Exploit) | Picsmize plugin for WordPress is vulnerable to arbitrary file uploads. | 2025-01-18T04:10:09Z |
 | [CVE-2024-52335](https://www.cve.org/CVERecord?id=CVE-2024-52335) | [cloudefence/CVE-2024-52335](https://github.com/cloudefence/CVE-2024-52335) | CVE-2024-52335: Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) (CWE-89) | 2024-12-06T20:02:00Z |
 | [CVE-2024-52318](https://www.cve.org/CVERecord?id=CVE-2024-52318) | [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318) | CVE-2024-52318 - Apache Tomcat XSS Vulnerability in Generated JSPs | 2024-11-21T06:38:48Z |
 | [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
@@ -397,6 +403,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-50970](https://www.cve.org/CVERecord?id=CVE-2024-50970) | [Akhlak2511/CVE-2024-50970](https://github.com/Akhlak2511/CVE-2024-50970) | no description | 2024-11-12T17:30:00Z |
 | [CVE-2024-50969](https://www.cve.org/CVERecord?id=CVE-2024-50969) | [Akhlak2511/CVE-2024-50969](https://github.com/Akhlak2511/CVE-2024-50969) | no description | 2024-11-12T17:20:07Z |
 | [CVE-2024-50968](https://www.cve.org/CVERecord?id=CVE-2024-50968) | [Akhlak2511/CVE-2024-50968](https://github.com/Akhlak2511/CVE-2024-50968) | no description | 2024-11-12T12:48:17Z |
+| [CVE-2024-50967](https://www.cve.org/CVERecord?id=CVE-2024-50967) | [0xByteHunter/CVE-2024-50967](https://github.com/0xByteHunter/CVE-2024-50967) | DATAGERRY Broken Access Control | 2025-01-16T13:38:20Z |
 | [CVE-2024-50964](https://www.cve.org/CVERecord?id=CVE-2024-50964) | [fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) | MX Server misconfiguration | 2024-11-13T07:49:09Z |
 | [CVE-2024-50962](https://www.cve.org/CVERecord?id=CVE-2024-50962) | [fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) | A Cross-Site Scripting (XSS) vulnerability | 2024-11-13T07:47:38Z |
 | [CVE-2024-50961](https://www.cve.org/CVERecord?id=CVE-2024-50961) | [fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) | Remote attacker can access sensitive data exposed on the URL | 2024-11-13T07:43:06Z |
@@ -743,6 +750,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-4352](https://www.cve.org/CVERecord?id=CVE-2024-4352) | [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc) | CVE-2024-4352 Tutor LMS Pro &lt;= 2.7.0 - Missing Authorization to SQL Injection | 2024-05-16T14:55:43Z |
 | [CVE-2024-4351](https://www.cve.org/CVERecord?id=CVE-2024-4351) | [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351) | no description | 2024-11-17T21:37:55Z |
 | [CVE-2024-43468](https://www.cve.org/CVERecord?id=CVE-2024-43468) | [synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468) | no description | 2024-11-26T12:39:44Z |
+| [CVE-2024-43468](https://www.cve.org/CVERecord?id=CVE-2024-43468) | [nikallass/CVE-2024-43468_mTLS_go](https://github.com/nikallass/CVE-2024-43468_mTLS_go) | CVE-2024-43468 SCCM SQL Injection Exploit (mTLS unextractable client cert from MacOS keychain version) | 2025-01-17T12:20:09Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
 | [CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416) | [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC) | no description | 2024-11-18T19:58:42Z |
 | [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
@@ -900,6 +908,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc) | CVE-2024-38856 是 Apache OFBiz 中的一个严重漏洞，允许未经身份验证的攻击者在受影响的系统上执行任意代码。 | 2024-11-23T03:54:28Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen) | Tentang Pemindai &amp; Eksploitasi Apache OFBiz RCE (CVE-2024-38856) | 2025-01-02T15:25:31Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821) | cve-2024-38821 | 2024-10-30T14:38:37Z |
+| [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC) | no description | 2025-01-18T12:52:34Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [GhostS3c/CVE-2024-38819](https://github.com/GhostS3c/CVE-2024-38819) | CVE-2024-38819 nuclei template | 2024-12-16T08:48:12Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [masa42/CVE-2024-38819-POC](https://github.com/masa42/CVE-2024-38819-POC) | no description | 2024-12-14T09:22:33Z |
 | [CVE-2024-38816](https://www.cve.org/CVERecord?id=CVE-2024-38816) | [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo) | no description | 2024-09-20T02:09:23Z |
@@ -3077,6 +3086,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [qrxnz/CVE-2023-4220](https://github.com/qrxnz/CVE-2023-4220) | CVE-2023-4220 Chamilo Exploit | 2024-08-27T17:12:48Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit) | (CVE-2023-4220) Chamilo LMS Unauthenticated Big Upload File Remote Code Execution | 2024-09-03T12:16:52Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [N1ghtfallXxX/CVE-2023-4220](https://github.com/N1ghtfallXxX/CVE-2023-4220) | Chamilo LMS Unauthenticated Remote Code Execution | 2024-07-07T02:09:06Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220) | CVE-2023-4220 PoC Chamilo RCE | 2024-08-24T05:32:31Z |
 | [CVE-2023-42115](https://www.cve.org/CVERecord?id=CVE-2023-42115) | [kirinse/cve-2023-42115](https://github.com/kirinse/cve-2023-42115) | This module exploits a vulnerability in the target service identified as CVE-2023-42115. | 2024-09-02T21:17:41Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
@@ -4780,6 +4790,7 @@ Last generated: 2025-02-22 02:11:46.559645
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Le1a/CVE-2022-22947](https://github.com/Le1a/CVE-2022-22947) | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp | 2023-05-26T11:52:22Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [wallbreak1991/cve-2022-22947](https://github.com/wallbreak1991/cve-2022-22947) | 121 | 2023-03-15T09:33:46Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Sumitpathania03/CVE-2022-22947](https://github.com/Sumitpathania03/CVE-2022-22947) | no description | 2024-01-03T09:37:54Z |
+| [CVE-2022-22885](https://www.cve.org/CVERecord?id=CVE-2022-22885) | [miguelc49/CVE-2022-22885-1](https://github.com/miguelc49/CVE-2022-22885-1) | no description | 2024-04-14T07:38:59Z |
 | [CVE-2022-22827](https://www.cve.org/CVERecord?id=CVE-2022-22827) | [nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827) | no description | 2022-04-11T13:57:41Z |
 | [CVE-2022-22817](https://www.cve.org/CVERecord?id=CVE-2022-22817) | [JawadPy/CVE-2022-22817-Exploit](https://github.com/JawadPy/CVE-2022-22817-Exploit) | Example of CVE-2022-22817 | 2023-10-05T22:57:37Z |
 | [CVE-2022-22733](https://www.cve.org/CVERecord?id=CVE-2022-22733) | [Zeyad-Azima/CVE-2022-22733](https://github.com/Zeyad-Azima/CVE-2022-22733) | Apache ShardingSphere ElasticJob-UI Privilege Escalation &amp; RCE Exploit | 2023-04-25T11:39:40Z |
