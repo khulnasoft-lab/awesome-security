@@ -2,10 +2,11 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-23 02:20:06.894265
+Last generated: 2025-02-24 02:19:14.627693
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser) | A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887. | 2025-01-19T09:02:37Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-12-19T08:57:30Z |
@@ -20,6 +21,7 @@ Last generated: 2025-02-23 02:20:06.894265
 | [CVE-2024-9821](https://www.cve.org/CVERecord?id=CVE-2024-9821) | [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821) | Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass | 2024-10-11T15:35:39Z |
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-10-18T14:30:42Z |
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [issamjr/CVE-2024-9796](https://github.com/issamjr/CVE-2024-9796) | WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection | 2024-11-15T22:55:18Z |
+| [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [viniciuslazzari/CVE-2024-9796](https://github.com/viniciuslazzari/CVE-2024-9796) | Vulnerable website to the CVE-2024-9796 | 2025-01-19T18:40:57Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [Nxploited/CVE-2024-9707-Poc](https://github.com/Nxploited/CVE-2024-9707-Poc) | he Hunk Companion Plugin for WordPress: Vulnerable to Unauthorized Plugin Installation/Activation (Versions Up to and Including 1.8.4) | 2025-01-12T23:35:02Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
@@ -1962,6 +1964,7 @@ Last generated: 2025-02-23 02:20:06.894265
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [actuator/yi](https://github.com/actuator/yi) | CVE-2023-47882 - CVE-2024-23727 | 2023-11-05T20:37:24Z |
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [akabe1/Graver](https://github.com/akabe1/Graver) | Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116) | 2024-03-24T13:14:52Z |
 | [CVE-2024-23727](https://www.cve.org/CVERecord?id=CVE-2024-23727) | [douglasbuzatto/G3-Loop-DoS](https://github.com/douglasbuzatto/G3-Loop-DoS) | This Python script automates the process of scanning for systems potentially vulnerable to the Loop DoS attack and the hypothetical CVE-2024-2169 vulnerability. It focuses on scanning ports associated with protocols susceptible to denial-of-service (DoS) attacks. The script can be used for educational purposes or authorized penetration testing. | 2024-03-24T07:53:52Z |
+| [CVE-2024-23724](https://www.cve.org/CVERecord?id=CVE-2024-23724) | [Youssefdds/CVE-2024-23724](https://github.com/Youssefdds/CVE-2024-23724) | no description | 2025-01-19T16:35:50Z |
 | [CVE-2024-23722](https://www.cve.org/CVERecord?id=CVE-2024-23722) | [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc) | no description | 2024-03-25T17:50:33Z |
 | [CVE-2024-23709](https://www.cve.org/CVERecord?id=CVE-2024-23709) | [AbrarKhan/external_sonivox_CVE-2024-23709](https://github.com/AbrarKhan/external_sonivox_CVE-2024-23709) | no description | 2024-08-13T08:44:25Z |
 | [CVE-2024-23708](https://www.cve.org/CVERecord?id=CVE-2024-23708) | [uthrasri/CVE-2024-23708](https://github.com/uthrasri/CVE-2024-23708) | no description | 2024-08-08T13:16:58Z |
