@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-25 02:17:56.599818
+Last generated: 2025-02-26 02:17:39.840159
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -728,6 +728,7 @@ Last generated: 2025-02-25 02:17:56.599818
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache) | CVE-2024-44000-LiteSpeed-Cache | 2024-09-16T14:13:52Z |
 | [CVE-2024-44000](https://www.cve.org/CVERecord?id=CVE-2024-44000) | [geniuszlyy/CVE-2024-44000](https://github.com/geniuszlyy/CVE-2024-44000) | is a PoC tool designed to exploit insecurely exposed debug logs from WordPress sites and extract session cookies | 2024-10-10T15:58:10Z |
 | [CVE-2024-43998](https://www.cve.org/CVERecord?id=CVE-2024-43998) | [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998) | Blogpoet &lt;= 1.0.2 - Missing Authorization via blogpoet_install_and_activate_plugins() | 2024-09-10T09:38:20Z |
+| [CVE-2024-43998](https://www.cve.org/CVERecord?id=CVE-2024-43998) | [Nxploited/CVE-2024-43998](https://github.com/Nxploited/CVE-2024-43998) | Missing Authorization vulnerability in WebsiteinWP Blogpoet allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Blogpoet: from n/a through 1.0.3. | 2025-01-20T14:37:49Z |
 | [CVE-2024-43965](https://www.cve.org/CVERecord?id=CVE-2024-43965) | [RandomRobbieBF/CVE-2024-43965](https://github.com/RandomRobbieBF/CVE-2024-43965) | SendGrid for WordPress &lt;= 1.4 - Unauthenticated SQL Injection | 2024-10-14T05:58:17Z |
 | [CVE-2024-43919](https://www.cve.org/CVERecord?id=CVE-2024-43919) | [RandomRobbieBF/CVE-2024-43919](https://github.com/RandomRobbieBF/CVE-2024-43919) | YARPP &lt;= 5.30.10 - Missing Authorization | 2024-11-22T15:42:39Z |
 | [CVE-2024-43918](https://www.cve.org/CVERecord?id=CVE-2024-43918) | [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918) | WBW Product Table Pro &lt;= 1.9.4 - Unauthenticated Arbitrary SQL Execution to RCE | 2024-09-24T05:50:03Z |
@@ -2278,6 +2279,7 @@ Last generated: 2025-02-25 02:17:56.599818
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-12025](https://www.cve.org/CVERecord?id=CVE-2024-12025) | [RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025) | Collapsing Categories &lt;= 3.0.8 - Unauthenticated SQL Injection | 2024-12-19T14:15:29Z |
 | [CVE-2024-11972](https://www.cve.org/CVERecord?id=CVE-2024-11972) | [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972) | Exploit for CVE-2024-11972, Hunk Companion &lt; 1.9.0 Unauthenticated Plugin Installation | 2024-12-15T23:54:15Z |
+| [CVE-2024-11972](https://www.cve.org/CVERecord?id=CVE-2024-11972) | [RonF98/CVE-2024-11972-POC](https://github.com/RonF98/CVE-2024-11972-POC) | CVE-2024-11972 in Hunk Companion &lt;1.9.0 allows unauthenticated attackers to exploit insecure REST API endpoints and install vulnerable plugins, risking RCE, SQLi, XSS, and backdoors. | 2025-01-13T15:44:08Z |
 | [CVE-2024-11848](https://www.cve.org/CVERecord?id=CVE-2024-11848) | [RandomRobbieBF/CVE-2024-11848](https://github.com/RandomRobbieBF/CVE-2024-11848) | NitroPack &lt;= 1.17.0 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update | 2025-01-15T10:52:01Z |
 | [CVE-2024-11728](https://www.cve.org/CVERecord?id=CVE-2024-11728) | [samogod/CVE-2024-11728](https://github.com/samogod/CVE-2024-11728) | KiviCare – Clinic &amp; Patient Management System (EHR) WordPress Plugin Unauthenticated SQL Injection PoC | 2024-12-11T12:33:46Z |
 | [CVE-2024-11680](https://www.cve.org/CVERecord?id=CVE-2024-11680) | [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit) | This repository contains a Proof of Concept (PoC) exploit for CVE-2024-11680, a critical vulnerability in ProjectSend r1605 and older versions. The exploit targets a Cross-Site Request Forgery (CSRF) flaw in combination with Privilege Misconfiguration issues. | 2024-12-04T18:42:43Z |
@@ -3151,6 +3153,7 @@ Last generated: 2025-02-25 02:17:56.599818
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [charlesgargasson/CVE-2023-41425](https://github.com/charlesgargasson/CVE-2023-41425) | Wonder CMS RCE (XSS) | 2024-08-11T16:43:56Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [SpycioKon/CVE-2023-41425](https://github.com/SpycioKon/CVE-2023-41425) | Research | 2024-08-22T23:27:48Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [Raffli-Dev/CVE-2023-41425](https://github.com/Raffli-Dev/CVE-2023-41425) | no description | 2024-09-03T09:59:42Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [duck-sec/CVE-2023-41425](https://github.com/duck-sec/CVE-2023-41425) | CVE-2023-41425 (Wonder CMS XSS to RCE) exploit which serves required scripts locally. Good if you&#x27;re lost at sea and have found a problem with your bike. | 2024-10-02T14:05:19Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
 | [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z |
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z |
@@ -5262,6 +5265,7 @@ Last generated: 2025-02-25 02:17:56.599818
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233) | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | 2023-05-29T14:38:58Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot) | Dockerized honeypot for CVE-2021-44228. | 2021-12-15T21:09:00Z |
 | [CVE-2021-3122](https://www.cve.org/CVERecord?id=CVE-2021-3122) | [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details) | no description | 2021-02-07T16:05:49Z |
+| [CVE-2021-30860](https://www.cve.org/CVERecord?id=CVE-2021-30860) | [jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860) | Collection of materials relating to FORCEDENTRY | 2021-12-25T03:00:01Z |
 | [CVE-2021-3064](https://www.cve.org/CVERecord?id=CVE-2021-3064) | [0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064) | Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x | 2022-04-26T08:41:14Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632) | no description | 2023-03-21T07:53:43Z |
 | [CVE-2021-30632](https://www.cve.org/CVERecord?id=CVE-2021-30632) | [yahoo/check-log4j](https://github.com/yahoo/check-log4j) | To determine if a host is vulnerable to log4j CVE‐2021‐44228 | 2021-12-15T18:47:39Z |
