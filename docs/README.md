@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-26 02:17:39.840159
+Last generated: 2025-02-27 02:18:19.727516
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -500,6 +500,7 @@ Last generated: 2025-02-26 02:17:39.840159
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328) | WP REST API FNS &lt;= 1.0.0 - Privilege Escalation | 2024-11-06T16:25:59Z |
 | [CVE-2024-49328](https://www.cve.org/CVERecord?id=CVE-2024-49328) | [Nxploited/CVE-2024-49328-exploit](https://github.com/Nxploited/CVE-2024-49328-exploit) | no description | 2025-01-11T18:22:25Z |
 | [CVE-2024-49203](https://www.cve.org/CVERecord?id=CVE-2024-49203) | [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203) | no description | 2024-10-08T12:42:59Z |
+| [CVE-2024-49138](https://www.cve.org/CVERecord?id=CVE-2024-49138) | [bananoname/CVE-2024-49138-POC](https://github.com/bananoname/CVE-2024-49138-POC) | no description | 2025-01-21T01:50:34Z |
 | [CVE-2024-49117](https://www.cve.org/CVERecord?id=CVE-2024-49117) | [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control) | Microsoft Windows işletim sistemlerinde ki CVE-2024-49117, CVE-2024-49118, CVE-2024-49122 ve CVE-2024-49124 açıkları için KB kontrolü | 2024-12-17T21:03:12Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [SafeBreach-Labs/CVE-2024-49113](https://github.com/SafeBreach-Labs/CVE-2024-49113) | LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113 | 2025-01-01T15:48:38Z |
 | [CVE-2024-49113](https://www.cve.org/CVERecord?id=CVE-2024-49113) | [barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker) | no description | 2025-01-03T07:05:33Z |
@@ -814,6 +815,8 @@ Last generated: 2025-02-26 02:17:39.840159
 | [CVE-2024-41628](https://www.cve.org/CVERecord?id=CVE-2024-41628) | [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628) | no description | 2024-07-29T07:12:14Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc) | CVE-2024-41570: Havoc C2 0.7 Teamserver SSRF exploit | 2024-07-13T19:54:27Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE) | Havoc SSRF to RCE | 2025-01-19T14:48:41Z |
+| [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570) | Automated Reverse Shell Exploit via WebSocket - Havoc-C2-SSRF with RCE | 2025-01-21T09:41:05Z |
+| [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE) | This is a modified version of the CVE-2024-41570 SSRF PoC from @chebuya chained with the auth RCE exploit from @hyperreality. This exploit executes code remotely to a target due to multiple vulnerabilities in Havoc C2 Framework. (https://github.com/HavocFramework/Havoc) | 2025-01-21T06:12:33Z |
 | [CVE-2024-41453](https://www.cve.org/CVERecord?id=CVE-2024-41453) | [php-lover-boy/CVE-2024-41453_CVE-2024-41454](https://github.com/php-lover-boy/CVE-2024-41453_CVE-2024-41454) | CVE-2024-41454, CVE-2024-41453 | 2024-07-09T08:48:59Z |
 | [CVE-2024-41319](https://www.cve.org/CVERecord?id=CVE-2024-41319) | [NingXin2002/TOTOLINK_poc](https://github.com/NingXin2002/TOTOLINK_poc) | TOTOLINK A6000R 命令执行漏洞（CVE-2024-41319） | 2024-12-20T09:31:58Z |
 | [CVE-2024-41312](https://www.cve.org/CVERecord?id=CVE-2024-41312) | [Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.) | InstantCMS - Stored Cross Site Scripting (XSS) | 2024-08-26T06:32:49Z |
@@ -2275,6 +2278,7 @@ Last generated: 2025-02-26 02:17:39.840159
 | [CVE-2024-1212](https://www.cve.org/CVERecord?id=CVE-2024-1212) | [Rehan07-Human/Exploiting-RCE-Cyber_Project_CVE-2024-1212](https://github.com/Rehan07-Human/Exploiting-RCE-Cyber_Project_CVE-2024-1212) | Demonstrating the exploitation of the Remote Code Execution (RCE) vulnerability in Kemp LoadMaster (CVE-2024-1212). This project covers reconnaissance, vulnerability scanning using Nuclei, and exploitation processes, while also highlighting mitigation strategies to secure affected systems | 2024-12-25T14:33:25Z |
 | [CVE-2024-1210](https://www.cve.org/CVERecord?id=CVE-2024-1210) | [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210) | Sensitive Information Exposure via API in LearnDash. | 2024-02-05T17:46:41Z |
 | [CVE-2024-1209](https://www.cve.org/CVERecord?id=CVE-2024-1209) | [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209) | Sensitive Information Exposure via assignments in LearnDash. | 2024-02-05T17:41:47Z |
+| [CVE-2024-12084](https://www.cve.org/CVERecord?id=CVE-2024-12084) | [themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084) | no description | 2025-01-21T02:13:14Z |
 | [CVE-2024-1208](https://www.cve.org/CVERecord?id=CVE-2024-1208) | [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208) | LearnDash LMS &lt; 4.10.3 - Sensitive Information Exposure | 2024-05-30T17:55:45Z |
 | [CVE-2024-1207](https://www.cve.org/CVERecord?id=CVE-2024-1207) | [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) | The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the &#x27;calendar_request_params[dates_ddmmyy_csv]&#x27; parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac | 2024-10-08T09:05:16Z |
 | [CVE-2024-12025](https://www.cve.org/CVERecord?id=CVE-2024-12025) | [RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025) | Collapsing Categories &lt;= 3.0.8 - Unauthenticated SQL Injection | 2024-12-19T14:15:29Z |
@@ -3099,6 +3103,7 @@ Last generated: 2025-02-26 02:17:39.840159
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit) | (CVE-2023-4220) Chamilo LMS Unauthenticated Big Upload File Remote Code Execution | 2024-09-03T12:16:52Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [N1ghtfallXxX/CVE-2023-4220](https://github.com/N1ghtfallXxX/CVE-2023-4220) | Chamilo LMS Unauthenticated Remote Code Execution | 2024-07-07T02:09:06Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220) | CVE-2023-4220 PoC Chamilo RCE | 2024-08-24T05:32:31Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [thefizzyfish/CVE-2023-4220_Chamilo_RCE](https://github.com/thefizzyfish/CVE-2023-4220_Chamilo_RCE) | Python exploit for Chamilo Unrestricted File Upload Vuln - CVE-2023-4220 | 2024-08-24T15:25:28Z |
 | [CVE-2023-42115](https://www.cve.org/CVERecord?id=CVE-2023-42115) | [kirinse/cve-2023-42115](https://github.com/kirinse/cve-2023-42115) | This module exploits a vulnerability in the target service identified as CVE-2023-42115. | 2024-09-02T21:17:41Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
@@ -3154,6 +3159,7 @@ Last generated: 2025-02-26 02:17:39.840159
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [SpycioKon/CVE-2023-41425](https://github.com/SpycioKon/CVE-2023-41425) | Research | 2024-08-22T23:27:48Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [Raffli-Dev/CVE-2023-41425](https://github.com/Raffli-Dev/CVE-2023-41425) | no description | 2024-09-03T09:59:42Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [duck-sec/CVE-2023-41425](https://github.com/duck-sec/CVE-2023-41425) | CVE-2023-41425 (Wonder CMS XSS to RCE) exploit which serves required scripts locally. Good if you&#x27;re lost at sea and have found a problem with your bike. | 2024-10-02T14:05:19Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [thefizzyfish/CVE-2023-41425-wonderCMS_RCE](https://github.com/thefizzyfish/CVE-2023-41425-wonderCMS_RCE) | CVE-2023-41425 - Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component. | 2024-08-27T16:10:08Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
 | [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z |
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z |
