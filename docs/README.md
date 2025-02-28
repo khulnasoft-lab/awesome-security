@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-27 02:18:19.727516
+Last generated: 2025-02-28 02:19:01.122215
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2629,6 +2629,7 @@ Last generated: 2025-02-27 02:18:19.727516
 | [CVE-2023-50643](https://www.cve.org/CVERecord?id=CVE-2023-50643) | [V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643) | CVE-2023-50643 | 2023-12-08T16:37:16Z |
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z |
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564) | CVE-2023-50564 PoC | 2024-08-02T13:37:39Z |
+| [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [thefizzyfish/CVE-2023-50564-pluck](https://github.com/thefizzyfish/CVE-2023-50564-pluck) | CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file. | 2024-08-24T19:09:21Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044) | Poc for CVE 2023 5044 | 2024-03-29T18:53:50Z |
@@ -3133,6 +3134,7 @@ Last generated: 2025-02-27 02:18:19.727516
 | [CVE-2023-41592](https://www.cve.org/CVERecord?id=CVE-2023-41592) | [miguelc49/CVE-2023-41592-2](https://github.com/miguelc49/CVE-2023-41592-2) | no description | 2024-04-13T18:46:32Z |
 | [CVE-2023-41592](https://www.cve.org/CVERecord?id=CVE-2023-41592) | [miguelc49/CVE-2023-41592-1](https://github.com/miguelc49/CVE-2023-41592-1) | no description | 2024-04-13T18:46:36Z |
 | [CVE-2023-41592](https://www.cve.org/CVERecord?id=CVE-2023-41592) | [miguelc49/CVE-2023-41592-3](https://github.com/miguelc49/CVE-2023-41592-3) | no description | 2024-04-13T18:46:40Z |
+| [CVE-2023-41564](https://www.cve.org/CVERecord?id=CVE-2023-41564) | [sota70/cve-2023-41564-research](https://github.com/sota70/cve-2023-41564-research) | no description | 2024-10-04T14:26:21Z |
 | [CVE-2023-41538](https://www.cve.org/CVERecord?id=CVE-2023-41538) | [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC) | Mass exploit - CVE-2023-41538 &lt; phpjabbers PHP Forum &lt; Cross Site Scripting (XSS) | 2023-09-05T04:26:52Z |
 | [CVE-2023-41535](https://www.cve.org/CVERecord?id=CVE-2023-41535) | [Sh33talUmath/CVE-2023-41535](https://github.com/Sh33talUmath/CVE-2023-41535) | no description | 2023-09-07T11:01:04Z |
 | [CVE-2023-41534](https://www.cve.org/CVERecord?id=CVE-2023-41534) | [Sh33talUmath/CVE-2023-41534](https://github.com/Sh33talUmath/CVE-2023-41534) | no description | 2023-09-07T10:58:32Z |
@@ -4412,6 +4414,7 @@ Last generated: 2025-02-27 02:18:19.727516
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [lanleft/CVE2023-1829](https://github.com/lanleft/CVE2023-1829) | no description | 2023-06-15T03:27:03Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE) | RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件 | 2023-06-05T09:23:25Z |
 | [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297) | New exploit for pyLoad v0.5.0 - Unauthenticated remote code excecution | 2024-09-15T17:15:33Z |
+| [CVE-2023-0297](https://www.cve.org/CVERecord?id=CVE-2023-0297) | [S4MY9/CVE-2023-0297](https://github.com/S4MY9/CVE-2023-0297) | RCE in pyload prior to 0.5.0b3.dev31. | 2024-10-04T12:03:54Z |
 | [CVE-2023-0266](https://www.cve.org/CVERecord?id=CVE-2023-0266) | [SeanHeelan/claude_opus_cve_2023_0266](https://github.com/SeanHeelan/claude_opus_cve_2023_0266) | Demo showing Claude Opus does not find CVE-2023-0266 | 2024-03-10T04:41:34Z |
 | [CVE-2023-0255](https://www.cve.org/CVERecord?id=CVE-2023-0255) | [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC) | Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload | 2023-09-20T00:17:57Z |
 | [CVE-2023-0179](https://www.cve.org/CVERecord?id=CVE-2023-0179) | [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC) | no description | 2023-01-21T01:02:01Z |
@@ -4490,6 +4493,7 @@ Last generated: 2025-02-27 02:18:19.727516
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fp3](https://github.com/scabench/jsonorg-fp3) | simple application with a (unreachable!) CVE-2022-45688 vulnerability | 2023-12-29T02:01:22Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-tp1](https://github.com/scabench/jsonorg-tp1) | simple application with a CVE-2022-45688 vulnerability | 2023-12-27T22:05:06Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fn1](https://github.com/scabench/jsonorg-fn1) | simple application with a CVE-2022-45688 vulnerability | 2024-01-21T01:28:23Z |
+| [CVE-2022-45477](https://www.cve.org/CVERecord?id=CVE-2022-45477) | [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) | nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481 | 2023-02-26T23:39:42Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
@@ -4814,6 +4818,7 @@ Last generated: 2025-02-27 02:18:19.727516
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [wallbreak1991/cve-2022-22947](https://github.com/wallbreak1991/cve-2022-22947) | 121 | 2023-03-15T09:33:46Z |
 | [CVE-2022-22947](https://www.cve.org/CVERecord?id=CVE-2022-22947) | [Sumitpathania03/CVE-2022-22947](https://github.com/Sumitpathania03/CVE-2022-22947) | no description | 2024-01-03T09:37:54Z |
 | [CVE-2022-22885](https://www.cve.org/CVERecord?id=CVE-2022-22885) | [miguelc49/CVE-2022-22885-1](https://github.com/miguelc49/CVE-2022-22885-1) | no description | 2024-04-14T07:38:59Z |
+| [CVE-2022-22885](https://www.cve.org/CVERecord?id=CVE-2022-22885) | [miguelc49/CVE-2022-22885-2](https://github.com/miguelc49/CVE-2022-22885-2) | no description | 2024-04-14T07:38:50Z |
 | [CVE-2022-22827](https://www.cve.org/CVERecord?id=CVE-2022-22827) | [nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827) | no description | 2022-04-11T13:57:41Z |
 | [CVE-2022-22817](https://www.cve.org/CVERecord?id=CVE-2022-22817) | [JawadPy/CVE-2022-22817-Exploit](https://github.com/JawadPy/CVE-2022-22817-Exploit) | Example of CVE-2022-22817 | 2023-10-05T22:57:37Z |
 | [CVE-2022-22733](https://www.cve.org/CVERecord?id=CVE-2022-22733) | [Zeyad-Azima/CVE-2022-22733](https://github.com/Zeyad-Azima/CVE-2022-22733) | Apache ShardingSphere ElasticJob-UI Privilege Escalation &amp; RCE Exploit | 2023-04-25T11:39:40Z |
