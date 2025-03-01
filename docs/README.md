@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-02-28 02:19:01.122215
+Last generated: 2025-03-01 02:22:51.170370
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -759,6 +759,7 @@ Last generated: 2025-02-28 02:19:01.122215
 | [CVE-2024-4351](https://www.cve.org/CVERecord?id=CVE-2024-4351) | [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351) | no description | 2024-11-17T21:37:55Z |
 | [CVE-2024-43468](https://www.cve.org/CVERecord?id=CVE-2024-43468) | [synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468) | no description | 2024-11-26T12:39:44Z |
 | [CVE-2024-43468](https://www.cve.org/CVERecord?id=CVE-2024-43468) | [nikallass/CVE-2024-43468_mTLS_go](https://github.com/nikallass/CVE-2024-43468_mTLS_go) | CVE-2024-43468 SCCM SQL Injection Exploit (mTLS unextractable client cert from MacOS keychain version) | 2025-01-17T12:20:09Z |
+| [CVE-2024-43451](https://www.cve.org/CVERecord?id=CVE-2024-43451) | [RonF98/CVE-2024-43451-POC](https://github.com/RonF98/CVE-2024-43451-POC) | CVE-2024-43451 is a Windows NTLM vulnerability that allows an attacker to force authentication and capture NTLM hashes by using malicious shortcuts. | 2025-01-20T15:30:55Z |
 | [CVE-2024-43425](https://www.cve.org/CVERecord?id=CVE-2024-43425) | [RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions) | Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425) | 2024-08-23T09:13:03Z |
 | [CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416) | [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC) | no description | 2024-11-18T19:58:42Z |
 | [CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363) | [p33d/CVE-2024-43363](https://github.com/p33d/CVE-2024-43363) | no description | 2024-10-07T22:59:09Z |
