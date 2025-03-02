@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-01 02:22:51.170370
+Last generated: 2025-03-02 02:21:59.362102
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -145,6 +145,7 @@ Last generated: 2025-03-01 02:22:51.170370
 | [CVE-2024-6529](https://www.cve.org/CVERecord?id=CVE-2024-6529) | [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529) | no description | 2024-08-02T20:02:39Z |
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6473](https://www.cve.org/CVERecord?id=CVE-2024-6473) | [12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC) | Proof of concept (exploit) for CVE-2024-6473 | 2024-11-02T05:37:30Z |
+| [CVE-2024-6460](https://www.cve.org/CVERecord?id=CVE-2024-6460) | [Nxploited/CVE-2024-6460](https://github.com/Nxploited/CVE-2024-6460) | Grow by Tradedoubler &lt; 2.0.22 - Unauthenticated LFI | 2025-01-21T14:12:29Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc) | no description | 2024-07-01T12:48:36Z |
@@ -4367,6 +4368,7 @@ Last generated: 2025-03-01 02:22:51.170370
 | [CVE-2023-20048](https://www.cve.org/CVERecord?id=CVE-2023-20048) | [0zer0d4y/FuegoTest](https://github.com/0zer0d4y/FuegoTest) | A CLI tool for detecting CVE-2023-20048 vulnerability in Cisco Firepower Management Center. | 2024-03-14T01:32:41Z |
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002) | Linux Bluetooth - Run arbitrary management commands as an unprivileged user | 2023-04-16T10:05:13Z |
 | [CVE-2023-2002](https://www.cve.org/CVERecord?id=CVE-2023-2002) | [c0r0n3r/dheater](https://github.com/c0r0n3r/dheater) | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | 2021-08-31T09:51:12Z |
+| [CVE-2023-1874](https://www.cve.org/CVERecord?id=CVE-2023-1874) | [thomas-osgood/cve-2023-1874](https://github.com/thomas-osgood/cve-2023-1874) | no description | 2024-10-04T21:34:02Z |
 | [CVE-2023-1773](https://www.cve.org/CVERecord?id=CVE-2023-1773) | [CTF-Archives/xinhu-v2.3.2](https://github.com/CTF-Archives/xinhu-v2.3.2) | 信呼 v2.3.2 针对CVE-2023-1773的研究环境 | 2024-07-22T17:07:33Z |
 | [CVE-2023-1714](https://www.cve.org/CVERecord?id=CVE-2023-1714) | [ForceFledgling/CVE-2023-1714](https://github.com/ForceFledgling/CVE-2023-1714) | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | 2023-11-06T23:41:36Z |
 | [CVE-2023-1713](https://www.cve.org/CVERecord?id=CVE-2023-1713) | [ForceFledgling/CVE-2023-1713](https://github.com/ForceFledgling/CVE-2023-1713) | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | 2023-11-06T23:35:44Z |
@@ -4950,6 +4952,7 @@ Last generated: 2025-03-01 02:22:51.170370
 | [CVE-2022-0739](https://www.cve.org/CVERecord?id=CVE-2022-0739) | [lhamouche/Bash-exploit-for-CVE-2022-0739](https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739) | no description | 2023-03-19T11:35:03Z |
 | [CVE-2022-0591](https://www.cve.org/CVERecord?id=CVE-2022-0591) | [im-hanzou/FC3er](https://github.com/im-hanzou/FC3er) | Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF | 2023-09-07T18:41:43Z |
 | [CVE-2022-0543](https://www.cve.org/CVERecord?id=CVE-2022-0543) | [0x7eTeam/CVE-2022-0543](https://github.com/0x7eTeam/CVE-2022-0543) | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | 2022-03-16T06:41:50Z |
+| [CVE-2022-0482](https://www.cve.org/CVERecord?id=CVE-2022-0482) | [mija-pilkaite/CVE-2022-0482_exploit](https://github.com/mija-pilkaite/CVE-2022-0482_exploit) | A final project for &quot;Network Security&quot; class at NYCU (National Yang Ming Chiao Tung University, Taiwan). Exploiting a CVE in &quot;EasyAppointments&quot; software. | 2024-04-22T11:10:33Z |
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441) | The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin | 2023-06-02T01:53:32Z |
 | [CVE-2022-0441](https://www.cve.org/CVERecord?id=CVE-2022-0441) | [kyukazamiqq/CVE-2022-0441](https://github.com/kyukazamiqq/CVE-2022-0441) | Checker for CVE-2022-0441 | 2023-10-03T07:07:40Z |
 | [CVE-2022-0439](https://www.cve.org/CVERecord?id=CVE-2022-0439) | [RandomRobbieBF/CVE-2022-0439](https://github.com/RandomRobbieBF/CVE-2022-0439) | CVE-2022-0439 - Email Subscribers &amp; Newsletters &lt; 5.3.2 - Subscriber+ Blind SQL injection | 2023-06-08T21:20:22Z |
@@ -5750,6 +5753,7 @@ Last generated: 2025-03-01 02:22:51.170370
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [STERN3L/CVE-2019-9053](https://github.com/STERN3L/CVE-2019-9053) | CMS Made Simple &lt; 2.2.10 - SQL Injection | 2023-02-21T12:34:30Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [pedrojosenavasperez/CVE-2019-9053-Python3](https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3) | CVE-2019-9053 exploit ported to python3 | 2022-12-14T12:50:54Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [crypticdante/CVE-2019-9053](https://github.com/crypticdante/CVE-2019-9053) | no description | 2021-07-18T20:37:30Z |
+| [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [kahluri/CVE-2019-9053](https://github.com/kahluri/CVE-2019-9053) | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | 2023-08-07T20:30:19Z |
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z |
