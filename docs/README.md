@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-02 02:21:59.362102
+Last generated: 2025-03-03 02:20:17.867251
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1697,6 +1697,7 @@ Last generated: 2025-03-02 02:21:59.362102
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198) | no description | 2024-09-03T16:11:54Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [geniuszlyy/CVE-2024-27198](https://github.com/geniuszlyy/CVE-2024-27198) | is a PoC tool that targets a vulnerability in the TeamCity server (CVE-2024-27198) | 2024-10-09T13:36:56Z |
 | [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC) | a proof of concept of the CVE-2024-27198 which infect jetbrains teamCity | 2024-10-14T16:40:58Z |
+| [CVE-2024-27198](https://www.cve.org/CVERecord?id=CVE-2024-27198) | [ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability) | In this project, I exploited the CVE-2024-27198-RCE vulnerability to perform a remote code execution (RCE) attack on a vulnerable TeamCity server. | 2025-01-22T00:09:41Z |
 | [CVE-2024-27173](https://www.cve.org/CVERecord?id=CVE-2024-27173) | [Ieakd/0day-POC-for-CVE-2024-27173](https://github.com/Ieakd/0day-POC-for-CVE-2024-27173) | no description | 2024-06-14T07:04:46Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130) | PoC for CVE-2024-27130 | 2024-05-17T07:58:01Z |
 | [CVE-2024-27130](https://www.cve.org/CVERecord?id=CVE-2024-27130) | [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130) | This Python script is designed as a proof-of-concept (PoC) for the CVE-2024-27130 vulnerability in QNAP QTS | 2024-05-21T11:14:22Z |
@@ -5461,6 +5462,7 @@ Last generated: 2025-03-02 02:21:59.362102
 | [CVE-2020-5902](https://www.cve.org/CVERecord?id=CVE-2020-5902) | [aqhmal/CVE-2020-5902-Scanner](https://github.com/aqhmal/CVE-2020-5902-Scanner) | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | 2020-07-05T06:19:09Z |
 | [CVE-2020-5902](https://www.cve.org/CVERecord?id=CVE-2020-5902) | [dunderhay/CVE-2020-5902](https://github.com/dunderhay/CVE-2020-5902) | Python script to exploit F5 Big-IP CVE-2020-5902 | 2020-07-06T04:03:58Z |
 | [CVE-2020-5902](https://www.cve.org/CVERecord?id=CVE-2020-5902) | [z3n70/CVE-2020-5902](https://github.com/z3n70/CVE-2020-5902) | BIGIP CVE-2020-5902 Exploit POC and automation scanning vulnerability | 2022-07-07T14:48:08Z |
+| [CVE-2020-5902](https://www.cve.org/CVERecord?id=CVE-2020-5902) | [yasserjanah/CVE-2020-5902](https://github.com/yasserjanah/CVE-2020-5902) | exploit code for  F5-Big-IP (CVE-2020-5902) | 2020-07-06T01:12:23Z |
 | [CVE-2020-5844](https://www.cve.org/CVERecord?id=CVE-2020-5844) | [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844) | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | 2022-05-19T22:50:44Z |
 | [CVE-2020-5752](https://www.cve.org/CVERecord?id=CVE-2020-5752) | [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-) | Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE | 2021-11-21T08:30:24Z |
 | [CVE-2020-5398](https://www.cve.org/CVERecord?id=CVE-2020-5398) | [motikan2010/CVE-2020-5398](https://github.com/motikan2010/CVE-2020-5398) | CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC | 2020-01-17T05:35:01Z |
