@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-03 02:20:17.867251
+Last generated: 2025-03-04 02:19:34.715069
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser) | A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887. | 2025-01-19T09:02:37Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
+| [CVE-2024-9950](https://www.cve.org/CVERecord?id=CVE-2024-9950) | [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC) | Forescout SecureConnector &lt;= 11.3.07 | 2025-01-12T03:47:28Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-12-19T08:57:30Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [Nxploited/CVE-2024-9935](https://github.com/Nxploited/CVE-2024-9935) | no description | 2024-12-25T22:59:07Z |
@@ -146,6 +147,7 @@ Last generated: 2025-03-03 02:20:17.867251
 | [CVE-2024-65230](https://www.cve.org/CVERecord?id=CVE-2024-65230) | [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230) | no description | 2024-01-23T10:16:43Z |
 | [CVE-2024-6473](https://www.cve.org/CVERecord?id=CVE-2024-6473) | [12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC) | Proof of concept (exploit) for CVE-2024-6473 | 2024-11-02T05:37:30Z |
 | [CVE-2024-6460](https://www.cve.org/CVERecord?id=CVE-2024-6460) | [Nxploited/CVE-2024-6460](https://github.com/Nxploited/CVE-2024-6460) | Grow by Tradedoubler &lt; 2.0.22 - Unauthenticated LFI | 2025-01-21T14:12:29Z |
+| [CVE-2024-6460](https://www.cve.org/CVERecord?id=CVE-2024-6460) | [E1-Bot141/CVE-2024-6460](https://github.com/E1-Bot141/CVE-2024-6460) | 备份的CVE | 2025-01-22T11:56:50Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC) | SSHd cve-2024-6387-poc | 2024-07-01T13:38:47Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC) | no description | 2024-07-01T12:51:18Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc) | no description | 2024-07-01T12:48:36Z |
@@ -819,6 +821,7 @@ Last generated: 2025-03-03 02:20:17.867251
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE) | Havoc SSRF to RCE | 2025-01-19T14:48:41Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570) | Automated Reverse Shell Exploit via WebSocket - Havoc-C2-SSRF with RCE | 2025-01-21T09:41:05Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE) | This is a modified version of the CVE-2024-41570 SSRF PoC from @chebuya chained with the auth RCE exploit from @hyperreality. This exploit executes code remotely to a target due to multiple vulnerabilities in Havoc C2 Framework. (https://github.com/HavocFramework/Havoc) | 2025-01-21T06:12:33Z |
+| [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE) | This is a Chained RCE in the Havoc C2 framework using github.com/chebuya and github.com/IncludeSecurity pocs | 2025-01-19T22:03:41Z |
 | [CVE-2024-41453](https://www.cve.org/CVERecord?id=CVE-2024-41453) | [php-lover-boy/CVE-2024-41453_CVE-2024-41454](https://github.com/php-lover-boy/CVE-2024-41453_CVE-2024-41454) | CVE-2024-41454, CVE-2024-41453 | 2024-07-09T08:48:59Z |
 | [CVE-2024-41319](https://www.cve.org/CVERecord?id=CVE-2024-41319) | [NingXin2002/TOTOLINK_poc](https://github.com/NingXin2002/TOTOLINK_poc) | TOTOLINK A6000R 命令执行漏洞（CVE-2024-41319） | 2024-12-20T09:31:58Z |
 | [CVE-2024-41312](https://www.cve.org/CVERecord?id=CVE-2024-41312) | [Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.) | InstantCMS - Stored Cross Site Scripting (XSS) | 2024-08-26T06:32:49Z |
@@ -5632,6 +5635,7 @@ Last generated: 2025-03-03 02:20:17.867251
 | [CVE-2020-1048](https://www.cve.org/CVERecord?id=CVE-2020-1048) | [Y3A/cve-2020-1048](https://github.com/Y3A/cve-2020-1048) | spoolsv.exe arb file write poc | 2023-06-30T11:36:10Z |
 | [CVE-2020-1034](https://www.cve.org/CVERecord?id=CVE-2020-1034) | [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034) | CVE 2020-1034 exploit and presentation | 2022-03-23T19:14:26Z |
 | [CVE-2020-10199](https://www.cve.org/CVERecord?id=CVE-2020-10199) | [hugosg97/CVE-2020-10199-Nexus-3.21.01](https://github.com/hugosg97/CVE-2020-10199-Nexus-3.21.01) | Sonatype Nexus 3.21.01 - Remote Code Execution (Authenticated - Updated) | 2023-06-13T13:10:31Z |
+| [CVE-2020-10136](https://www.cve.org/CVERecord?id=CVE-2020-10136) | [PapayaJackal/ipeeyoupeewepee](https://github.com/PapayaJackal/ipeeyoupeewepee) | Scanner and attack suite for hosts that forward unauthenticated packets via IPIP and GRE protocols. (CVE-2020-10136 CVE-2024-7595) | 2025-01-21T19:41:35Z |
 | [CVE-2020-0917](https://www.cve.org/CVERecord?id=CVE-2020-0917) | [L0ch/CVE-2020-0917_Exploit](https://github.com/L0ch/CVE-2020-0917_Exploit) | Hyper-V 1-day Exploit: CVE-2020-0917 | 2023-06-21T02:35:14Z |
 | [CVE-2020-0883](https://www.cve.org/CVERecord?id=CVE-2020-0883) | [syadg123/CVE-2020-0883](https://github.com/syadg123/CVE-2020-0883) | no description | 2020-04-22T09:10:27Z |
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [OldDream666/cve-2020-0796](https://github.com/OldDream666/cve-2020-0796) | cve-2020-0796利用工具集 | 2023-02-28T00:27:37Z |
