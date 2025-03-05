@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-04 02:19:34.715069
+Last generated: 2025-03-05 02:19:30.266372
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -273,6 +273,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
+| [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
@@ -301,6 +302,8 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [Wi1DN00B/CVE-2024-55968](https://github.com/Wi1DN00B/CVE-2024-55968) | Exploit POC Code for CVE-2024-55968 | 2024-12-17T21:07:59Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591) | no description | 2025-01-16T07:26:15Z |
+| [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [sysirq/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-poc-CVE-2024-55591) | no description | 2025-01-21T12:30:21Z |
+| [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [sysirq/fortios-auth-bypass-exploit-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-exploit-CVE-2024-55591) | no description | 2025-01-22T14:16:30Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
@@ -817,6 +820,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2024-41651](https://www.cve.org/CVERecord?id=CVE-2024-41651) | [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651) | CVE-2024-41651 | 2024-08-08T17:25:30Z |
 | [CVE-2024-41640](https://www.cve.org/CVERecord?id=CVE-2024-41640) | [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640) | no description | 2024-07-17T07:00:31Z |
 | [CVE-2024-41628](https://www.cve.org/CVERecord?id=CVE-2024-41628) | [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628) | no description | 2024-07-29T07:12:14Z |
+| [CVE-2024-415770](https://www.cve.org/CVERecord?id=CVE-2024-415770) | [muhmad-umair/CVE-2024-415770-ssrf-rce](https://github.com/muhmad-umair/CVE-2024-415770-ssrf-rce) | no description | 2025-01-22T17:54:01Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc) | CVE-2024-41570: Havoc C2 0.7 Teamserver SSRF exploit | 2024-07-13T19:54:27Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE) | Havoc SSRF to RCE | 2025-01-19T14:48:41Z |
 | [CVE-2024-41570](https://www.cve.org/CVERecord?id=CVE-2024-41570) | [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570) | Automated Reverse Shell Exploit via WebSocket - Havoc-C2-SSRF with RCE | 2025-01-21T09:41:05Z |
@@ -966,6 +970,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Destiny0991/check_38077](https://github.com/Destiny0991/check_38077) | Windows远程桌面授权服务CVE-2024-38077检测工具 | 2024-08-23T08:32:40Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [mrmtwoj/CVE-2024-38077](https://github.com/mrmtwoj/CVE-2024-38077) | CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service | 2024-10-09T06:39:21Z |
 | [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [amfg145/CVE-2024-38077](https://github.com/amfg145/CVE-2024-38077) | CVE-2024-38077 private for 10 hands | 2024-11-07T14:31:42Z |
+| [CVE-2024-38077](https://www.cve.org/CVERecord?id=CVE-2024-38077) | [Accord96/CVE-2024-38077-POC](https://github.com/Accord96/CVE-2024-38077-POC) | CVE-2024-38077-POC | 2025-01-23T07:21:52Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063) | mitigation script by disabling ipv6 of all interfaces | 2024-08-15T12:41:01Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [noradlb1/CVE-2024-38063-VB](https://github.com/noradlb1/CVE-2024-38063-VB) | CVE-2024-38063 VB | 2024-08-17T01:11:12Z |
 | [CVE-2024-38063](https://www.cve.org/CVERecord?id=CVE-2024-38063) | [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix) | A PowerShell script to temporarily mitigate the CVE-2024-38063 vulnerability by disabling IPv6 on Windows systems. This workaround modifies the registry to reduce the risk of exploitation without needing the immediate installation of the official Microsoft KB update. Intended as a temporary fix | 2024-08-20T08:48:08Z |
@@ -3524,6 +3529,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2023-35985](https://www.cve.org/CVERecord?id=CVE-2023-35985) | [SpiralBL0CK/-CVE-2023-35985](https://github.com/SpiralBL0CK/-CVE-2023-35985) | CVE-2023-35985 reproduction | 2023-12-30T06:35:21Z |
 | [CVE-2023-35985](https://www.cve.org/CVERecord?id=CVE-2023-35985) | [N00BIER/CVE-2023-35985](https://github.com/N00BIER/CVE-2023-35985) | no description | 2024-07-02T12:50:59Z |
 | [CVE-2023-35885](https://www.cve.org/CVERecord?id=CVE-2023-35885) | [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885) | Cloudpanel 0-day Exploit | 2023-06-08T09:20:22Z |
+| [CVE-2023-35854](https://www.cve.org/CVERecord?id=CVE-2023-35854) | [bluestarry33/exp](https://github.com/bluestarry33/exp) | 针对CVE-2023-35854的批量扫描脚本 | 2024-10-05T12:33:12Z |
 | [CVE-2023-35844](https://www.cve.org/CVERecord?id=CVE-2023-35844) | [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844) | Lightdash文件读取漏洞（CVE-2023-35844） | 2023-06-26T10:14:29Z |
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843) | CVE-2023-35843 NocoDB 任意文件读取漏洞 | 2023-07-09T04:10:44Z |
 | [CVE-2023-35843](https://www.cve.org/CVERecord?id=CVE-2023-35843) | [Szlein/CVE-2023-35843](https://github.com/Szlein/CVE-2023-35843) | NocoDB任意文件读取CVE-2023-35843 | 2023-06-27T16:14:54Z |
@@ -4649,6 +4655,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2022-3564](https://www.cve.org/CVERecord?id=CVE-2022-3564) | [Trinadh465/linux-4.1.15_CVE-2022-3564](https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564) | no description | 2023-09-14T09:07:11Z |
 | [CVE-2022-3552](https://www.cve.org/CVERecord?id=CVE-2022-3552) | [kabir0x23/CVE-2022-3552](https://github.com/kabir0x23/CVE-2022-3552) | BoxBilling&lt;=4.22.1.5 - Remote Code Execution (RCE) | 2023-04-01T11:53:14Z |
 | [CVE-2022-3546](https://www.cve.org/CVERecord?id=CVE-2022-3546) | [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546) | no description | 2022-10-16T10:35:24Z |
+| [CVE-2022-35411](https://www.cve.org/CVERecord?id=CVE-2022-35411) | [fuzzlove/CVE-2022-35411](https://github.com/fuzzlove/CVE-2022-35411) | rpc.py 0.6.0 - Remote Code Execution (RCE) | 2024-04-14T04:08:44Z |
 | [CVE-2022-34753](https://www.cve.org/CVERecord?id=CVE-2022-34753) | [K3ysTr0K3R/CVE-2022-34753-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT) | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | 2023-09-22T20:41:19Z |
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection) | no description | 2023-04-18T04:26:49Z |
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [dkjiayu/dkjiayu.github.io](https://github.com/dkjiayu/dkjiayu.github.io) | POC for cve-2022-22620 | 2022-11-11T06:35:25Z |
@@ -5201,6 +5208,7 @@ Last generated: 2025-03-04 02:19:34.715069
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [pmihsan/OverlayFS-CVE-2021-3493](https://github.com/pmihsan/OverlayFS-CVE-2021-3493) | Exploit For OverlayFS | 2023-01-16T04:29:39Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [fei9747/CVE-2021-3493](https://github.com/fei9747/CVE-2021-3493) | no description | 2022-11-29T12:56:00Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [ptkhai15/OverlayFS---CVE-2021-3493](https://github.com/ptkhai15/OverlayFS---CVE-2021-3493) | no description | 2023-08-25T07:26:35Z |
+| [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493) | Ubuntu OverlayFS Local Privesc | 2021-04-19T20:07:01Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490) | no description | 2021-06-24T18:50:17Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [pivik271/CVE-2021-3490](https://github.com/pivik271/CVE-2021-3490) | no description | 2023-04-06T03:21:11Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [mklinkj/log4j2-test](https://github.com/mklinkj/log4j2-test) | Log4j2 LDAP 취약점 테스트 (CVE-2021-44228) | 2022-01-03T04:36:41Z |
