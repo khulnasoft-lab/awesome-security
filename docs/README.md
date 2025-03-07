@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-06 02:19:58.997564
+Last generated: 2025-03-07 02:20:26.039692
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -265,6 +265,10 @@ Last generated: 2025-03-06 02:19:58.997564
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
 | [CVE-2024-57785](https://www.cve.org/CVERecord?id=CVE-2024-57785) | [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785) | no description | 2025-01-16T11:10:34Z |
 | [CVE-2024-57784](https://www.cve.org/CVERecord?id=CVE-2024-57784) | [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784) | no description | 2025-01-16T11:17:10Z |
+| [CVE-2024-57756](https://www.cve.org/CVERecord?id=CVE-2024-57756) | [l00neyhacker/CVE-2024-57756](https://github.com/l00neyhacker/CVE-2024-57756) | no description | 2025-01-23T23:38:19Z |
+| [CVE-2024-57754](https://www.cve.org/CVERecord?id=CVE-2024-57754) | [l00neyhacker/CVE-2024-57754](https://github.com/l00neyhacker/CVE-2024-57754) | no description | 2025-01-23T23:37:35Z |
+| [CVE-2024-57753](https://www.cve.org/CVERecord?id=CVE-2024-57753) | [l00neyhacker/CVE-2024-57753](https://github.com/l00neyhacker/CVE-2024-57753) | no description | 2025-01-23T23:36:49Z |
+| [CVE-2024-57750](https://www.cve.org/CVERecord?id=CVE-2024-57750) | [l00neyhacker/CVE-2024-57750](https://github.com/l00neyhacker/CVE-2024-57750) | no description | 2025-01-23T23:35:49Z |
 | [CVE-2024-57748](https://www.cve.org/CVERecord?id=CVE-2024-57748) | [l00neyhacker/CVE-2024-57748](https://github.com/l00neyhacker/CVE-2024-57748) | no description | 2025-01-23T23:31:52Z |
 | [CVE-2024-57746](https://www.cve.org/CVERecord?id=CVE-2024-57746) | [l00neyhacker/CVE-2024-57746](https://github.com/l00neyhacker/CVE-2024-57746) | no description | 2025-01-23T23:30:55Z |
 | [CVE-2024-57744](https://www.cve.org/CVERecord?id=CVE-2024-57744) | [l00neyhacker/CVE-2024-57744](https://github.com/l00neyhacker/CVE-2024-57744) | no description | 2025-01-23T23:28:44Z |
@@ -307,6 +311,7 @@ Last generated: 2025-03-06 02:19:58.997564
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-check-CVE-2024-55591) | no description | 2025-01-16T07:26:15Z |
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [sysirq/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-poc-CVE-2024-55591) | no description | 2025-01-21T12:30:21Z |
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [sysirq/fortios-auth-bypass-exploit-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-exploit-CVE-2024-55591) | no description | 2025-01-22T14:16:30Z |
+| [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [amfg145/Private-CVE-2024-55591.](https://github.com/amfg145/Private-CVE-2024-55591.) | Private CVE-2024-55591 | 2025-01-24T12:59:37Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
@@ -5091,6 +5096,7 @@ Last generated: 2025-03-06 02:19:58.997564
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013) | Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info | 2023-06-20T21:43:13Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits) | Exploit CVE-2021-41773 and CVE-2021-42013 | 2023-08-02T09:50:10Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [K3ysTr0K3R/CVE-2021-42013-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT) | A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution | 2023-08-25T19:51:01Z |
+| [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [BassoNicolas/CVE-2021-42013](https://github.com/BassoNicolas/CVE-2021-42013) | CVE-2021-42013 Vulnerability Scanner  This Python script checks for the Remote Code Execution (RCE) vulnerability (CVE-2021-42013) in Apache 2.4.50. | 2024-04-07T16:04:06Z |
 | [CVE-2021-41946](https://www.cve.org/CVERecord?id=CVE-2021-41946) | [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946) | no description | 2022-05-17T15:23:12Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits) | no description | 2023-06-05T04:08:45Z |
 | [CVE-2021-4191](https://www.cve.org/CVERecord?id=CVE-2021-4191) | [K3ysTr0K3R/CVE-2021-4191-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT) | A PoC exploit for CVE-2021-4191 - GitLab User Enumeration. | 2023-07-22T21:06:51Z |
