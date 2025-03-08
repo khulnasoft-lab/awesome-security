@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-07 02:20:26.039692
+Last generated: 2025-03-08 01:56:18.545903
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -5960,6 +5960,7 @@ Last generated: 2025-03-07 02:20:26.039692
 | [CVE-2019-16278](https://www.cve.org/CVERecord?id=CVE-2019-16278) | [alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278) | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | 2022-03-24T12:06:55Z |
 | [CVE-2019-16253](https://www.cve.org/CVERecord?id=CVE-2019-16253) | [k0mraid3/K0mraid3s-System-Shell-PREBUILT](https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT) | Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. | 2023-01-19T19:47:13Z |
 | [CVE-2019-16113](https://www.cve.org/CVERecord?id=CVE-2019-16113) | [0xkasra/CVE-2019-16113_](https://github.com/0xkasra/CVE-2019-16113_) | no description | 2022-04-07T03:57:15Z |
+| [CVE-2019-16098](https://www.cve.org/CVERecord?id=CVE-2019-16098) | [0xDivyanshu-new/CVE-2019-16098](https://github.com/0xDivyanshu-new/CVE-2019-16098) | no description | 2023-09-01T21:35:40Z |
 | [CVE-2019-16097](https://www.cve.org/CVERecord?id=CVE-2019-16097) | [luckybool1020/CVE-2019-16097](https://github.com/luckybool1020/CVE-2019-16097) | Harbor 未授权创建管理员漏洞原理 docker及poc[基于pocsuite框架] | 2019-11-14T10:19:47Z |
 | [CVE-2019-15896](https://www.cve.org/CVERecord?id=CVE-2019-15896) | [RandomRobbieBF/CVE-2019-15896](https://github.com/RandomRobbieBF/CVE-2019-15896) | LifterLMS &lt;= 3.34.5 - Unauthenticated Options Import | 2023-08-22T18:56:09Z |
 | [CVE-2019-15858](https://www.cve.org/CVERecord?id=CVE-2019-15858) | [GeneralEG/CVE-2019-15858](https://github.com/GeneralEG/CVE-2019-15858) | Unauthenticated RCE at Woody Ad Snippets / CVE-2019-15858 (PoC) | 2019-09-12T21:52:55Z |
