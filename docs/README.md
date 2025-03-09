@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-08 01:56:18.545903
+Last generated: 2025-03-09 02:01:13.682168
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -699,6 +699,7 @@ Last generated: 2025-03-08 01:56:18.545903
 | [CVE-2024-45383](https://www.cve.org/CVERecord?id=CVE-2024-45383) | [SpiralBL0CK/CVE-2024-45383](https://github.com/SpiralBL0CK/CVE-2024-45383) | poc for CVE-2024-45383 | 2024-09-18T15:40:19Z |
 | [CVE-2024-45337](https://www.cve.org/CVERecord?id=CVE-2024-45337) | [NHAS/CVE-2024-45337-POC](https://github.com/NHAS/CVE-2024-45337-POC) | Proof of concept (POC) for CVE-2024-45337 | 2024-12-17T22:07:53Z |
 | [CVE-2024-45337](https://www.cve.org/CVERecord?id=CVE-2024-45337) | [NHAS/VULNERABLE-CVE-2024-45337](https://github.com/NHAS/VULNERABLE-CVE-2024-45337) | An example project that showcases golang code vulnerable to CVE-2024-45337 | 2024-12-17T22:22:03Z |
+| [CVE-2024-45337](https://www.cve.org/CVERecord?id=CVE-2024-45337) | [peace-maker/CVE-2024-45337](https://github.com/peace-maker/CVE-2024-45337) | Proof of Concept for CVE-2024-45337 against Gitea and Forgejo | 2025-01-24T15:17:47Z |
 | [CVE-2024-45265](https://www.cve.org/CVERecord?id=CVE-2024-45265) | [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265) | CVE-2024-45265 | 2024-08-26T11:02:37Z |
 | [CVE-2024-45264](https://www.cve.org/CVERecord?id=CVE-2024-45264) | [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264) | CVE-2024-45264 | 2024-08-26T10:10:52Z |
 | [CVE-2024-45244](https://www.cve.org/CVERecord?id=CVE-2024-45244) | [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle) | Chaincode for blockchain Hyperledger Fabric provides accurate time to other chaincodes. Thus solving the security problem associated with transaction time manipulation (CVE-2024-45244). | 2024-07-28T19:19:42Z |
@@ -1064,6 +1065,7 @@ Last generated: 2025-03-08 01:56:18.545903
 | [CVE-2024-36837](https://www.cve.org/CVERecord?id=CVE-2024-36837) | [lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837) | CVE-2024-36837 POC | 2024-09-28T10:44:03Z |
 | [CVE-2024-36823](https://www.cve.org/CVERecord?id=CVE-2024-36823) | [JAckLosingHeart/CVE-2024-36823-POC](https://github.com/JAckLosingHeart/CVE-2024-36823-POC) | no description | 2024-11-03T01:56:11Z |
 | [CVE-2024-36821](https://www.cve.org/CVERecord?id=CVE-2024-36821) | [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) | The public reference that contains the minimum require information for the vulnerability covered by CVE-2024-36821 | 2024-06-10T15:52:02Z |
+| [CVE-2024-3673](https://www.cve.org/CVERecord?id=CVE-2024-3673) | [Nxploited/CVE-2024-3673](https://github.com/Nxploited/CVE-2024-3673) | CVE-2024-3673 Exploit: Local File Inclusion in Web Directory Free WordPress Plugin ( before 1.7.3 ) | 2025-01-24T21:50:55Z |
 | [CVE-2024-3656](https://www.cve.org/CVERecord?id=CVE-2024-3656) | [h4x0r-dz/CVE-2024-3656](https://github.com/h4x0r-dz/CVE-2024-3656) | Keycloak admin API allows low privilege users to use administrative functions | 2024-10-12T09:17:00Z |
 | [CVE-2024-36539](https://www.cve.org/CVERecord?id=CVE-2024-36539) | [Abdurahmon3236/CVE-2024-36539](https://github.com/Abdurahmon3236/CVE-2024-36539) | no description | 2024-08-03T06:37:21Z |
 | [CVE-2024-36527](https://www.cve.org/CVERecord?id=CVE-2024-36527) | [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527) | POC for CVE-2024-36527: puppeteer-renderer v.3.2.0 and before is vulnerable to Directory Traversal | 2024-06-20T09:42:07Z |
