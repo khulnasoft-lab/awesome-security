@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-09 02:01:13.682168
+Last generated: 2025-03-10 02:02:26.598738
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -64,6 +64,7 @@ Last generated: 2025-03-09 02:01:13.682168
 | [CVE-2024-9061](https://www.cve.org/CVERecord?id=CVE-2024-9061) | [RandomRobbieBF/CVE-2024-9061](https://github.com/RandomRobbieBF/CVE-2024-9061) | WP Popup Builder – Popup Forms and Marketing Lead Generation &lt;= 1.3.5 - Unauthenticated Arbitrary Shortcode Execution via wp_ajax_nopriv_shortcode_Api_Add | 2024-10-16T07:57:48Z |
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC) | WordPress File Upload插件任意文件读取漏洞（CVE-2024-9047）批量检测脚本 | 2024-12-25T05:19:17Z |
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047) | POC - WordPress File Upload plugin, in the wfu_file_downloader.php file before version &lt;= 4.24.11 | 2025-01-08T07:27:16Z |
+| [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [Nxploited/CVE-2024-9047-Exploit](https://github.com/Nxploited/CVE-2024-9047-Exploit) | Exploit for WordPress File Upload Plugin - All versions up to 4.24.11 are vulnerable. | 2025-01-25T02:41:28Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
@@ -325,6 +326,7 @@ Last generated: 2025-03-09 02:01:13.682168
 | [CVE-2024-54880](https://www.cve.org/CVERecord?id=CVE-2024-54880) | [ailenye/CVE-2024-54880](https://github.com/ailenye/CVE-2024-54880) | CVE-2024-54880 | 2025-01-20T12:45:17Z |
 | [CVE-2024-54879](https://www.cve.org/CVERecord?id=CVE-2024-54879) | [ailenye/CVE-2024-54879](https://github.com/ailenye/CVE-2024-54879) | CVE-2024-54879 | 2025-01-20T07:19:57Z |
 | [CVE-2024-54819](https://www.cve.org/CVERecord?id=CVE-2024-54819) | [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819) | CVE-2024-54819 | 2024-12-30T23:06:22Z |
+| [CVE-2024-54795](https://www.cve.org/CVERecord?id=CVE-2024-54795) | [MarioTesoro/CVE-2024-54795](https://github.com/MarioTesoro/CVE-2024-54795) | SpagoBI multiple stored xss | 2025-01-18T14:17:03Z |
 | [CVE-2024-54761](https://www.cve.org/CVERecord?id=CVE-2024-54761) | [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection) | CVE-2024-54761 PoC | 2024-11-15T05:55:29Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
@@ -2850,6 +2852,7 @@ Last generated: 2025-03-09 02:01:13.682168
 | [CVE-2023-46870](https://www.cve.org/CVERecord?id=CVE-2023-46870) | [Chapoly1305/CVE-2023-46870](https://github.com/Chapoly1305/CVE-2023-46870) | no description | 2024-05-10T22:18:53Z |
 | [CVE-2023-46865](https://www.cve.org/CVERecord?id=CVE-2023-46865) | [asylumdx/Crater-CVE-2023-46865-RCE](https://github.com/asylumdx/Crater-CVE-2023-46865-RCE) | Crater &lt;=6.0.6, CVE-2023-46865 Post-Auth RCE (Superadmin) | 2023-11-09T21:22:47Z |
 | [CVE-2023-4683](https://www.cve.org/CVERecord?id=CVE-2023-4683) | [Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test) | CVE-2023-4683 - Test | 2023-09-28T20:49:33Z |
+| [CVE-2023-46818](https://www.cve.org/CVERecord?id=CVE-2023-46818) | [bipbopbup/CVE-2023-46818-python-exploit](https://github.com/bipbopbup/CVE-2023-46818-python-exploit) | CVE-2023-46818 IPSConfig Python exploit | 2024-10-08T11:22:16Z |
 | [CVE-2023-46813](https://www.cve.org/CVERecord?id=CVE-2023-46813) | [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc) | no description | 2023-05-29T15:10:43Z |
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805) | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | 2024-01-16T08:05:58Z |
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [Chocapikk/CVE-2023-46805](https://github.com/Chocapikk/CVE-2023-46805) | Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote&#x27;s Research | 2024-01-19T02:23:13Z |
@@ -4931,6 +4934,7 @@ Last generated: 2025-03-09 02:01:13.682168
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [battleofthebots/refresh](https://github.com/battleofthebots/refresh) | CVE-2022-1388 - F5 Router RCE Replica | 2023-08-01T18:12:52Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nvk0x/CVE-2022-1388-exploit](https://github.com/nvk0x/CVE-2022-1388-exploit) | exploit poc | 2024-01-03T12:28:06Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [nico989/CVE-2022-1388](https://github.com/nico989/CVE-2022-1388) | PoC for CVE-2022-1388 affecting F5 BIG-IP. | 2024-01-09T19:52:36Z |
+| [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [gotr00t0day/CVE-2022-1388](https://github.com/gotr00t0day/CVE-2022-1388) | A remote code execution vulnerability exists in the iControl REST API feature of F5&#x27;s BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges. | 2024-04-30T01:10:05Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [ardzz/CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | no description | 2023-02-28T02:08:59Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [satyasai1460/CVE-2022-1386](https://github.com/satyasai1460/CVE-2022-1386) | no description | 2024-03-07T06:35:33Z |
