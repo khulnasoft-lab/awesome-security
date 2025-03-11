@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-10 02:02:26.598738
+Last generated: 2025-03-11 02:20:38.806826
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -327,6 +327,8 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2024-54879](https://www.cve.org/CVERecord?id=CVE-2024-54879) | [ailenye/CVE-2024-54879](https://github.com/ailenye/CVE-2024-54879) | CVE-2024-54879 | 2025-01-20T07:19:57Z |
 | [CVE-2024-54819](https://www.cve.org/CVERecord?id=CVE-2024-54819) | [partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819) | CVE-2024-54819 | 2024-12-30T23:06:22Z |
 | [CVE-2024-54795](https://www.cve.org/CVERecord?id=CVE-2024-54795) | [MarioTesoro/CVE-2024-54795](https://github.com/MarioTesoro/CVE-2024-54795) | SpagoBI multiple stored xss | 2025-01-18T14:17:03Z |
+| [CVE-2024-54794](https://www.cve.org/CVERecord?id=CVE-2024-54794) | [MarioTesoro/CVE-2024-54794](https://github.com/MarioTesoro/CVE-2024-54794) | SpagoBI command injection | 2025-01-18T10:50:21Z |
+| [CVE-2024-54792](https://www.cve.org/CVERecord?id=CVE-2024-54792) | [MarioTesoro/CVE-2024-54792](https://github.com/MarioTesoro/CVE-2024-54792) | SpagoBI  csrf | 2025-01-18T13:37:57Z |
 | [CVE-2024-54761](https://www.cve.org/CVERecord?id=CVE-2024-54761) | [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection) | CVE-2024-54761 PoC | 2024-11-15T05:55:29Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
@@ -1571,6 +1573,7 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [exfil0/test_iconv](https://github.com/exfil0/test_iconv) | This repository contains a C program to test for CVE-2024-2961, a buffer overflow vulnerability in the iconv() function of glibc. | 2024-06-03T23:53:43Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc) | no description | 2024-06-04T09:57:46Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961) | no description | 2024-06-04T08:05:09Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read) | This script demonstrates a proof-of-concept (PoC) for exploiting a file read vulnerability in the iconv library, as detailed in Ambionics Security&#x27;s blog https://www.ambionics.io/blog/iconv-cve-2024-2961-p1. | 2025-01-27T03:06:37Z |
 | [CVE-2024-29510](https://www.cve.org/CVERecord?id=CVE-2024-29510) | [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510) | POC code for CVE-2024-29510 and demo VulnApp | 2024-07-09T13:27:40Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -1779,6 +1782,7 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600) | no description | 2024-06-06T03:59:06Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress](https://github.com/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress) | no description | 2024-07-30T09:02:31Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [wh6amiGit/CVE-2024-25600](https://github.com/wh6amiGit/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks | 2024-08-20T12:18:58Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Sibul-Dan-Glokta/test-task-CVE-2024-25600](https://github.com/Sibul-Dan-Glokta/test-task-CVE-2024-25600) | Repository for internship test task. | 2025-01-26T19:35:25Z |
 | [CVE-2024-25503](https://www.cve.org/CVERecord?id=CVE-2024-25503) | [EQSTLab/CVE-2024-25503](https://github.com/EQSTLab/CVE-2024-25503) | PoC for CVE-2024-25503 | 2024-09-06T06:17:18Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
@@ -4231,6 +4235,7 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [yoryio/CVE-2023-22527](https://github.com/yoryio/CVE-2023-22527) | Exploit for CVE-2023-22527 - Atlassian Confluence Data Center and Server | 2024-01-24T04:44:59Z |
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [vulncheck-oss/cve-2023-22527](https://github.com/vulncheck-oss/cve-2023-22527) | Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory | 2024-03-04T19:09:57Z |
 | [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [AxthonyV/CVE-2023-22527](https://github.com/AxthonyV/CVE-2023-22527) | script for exploiting CVE-2023-22527, which is described as a Server-Side Template Injection (SSTI) vulnerability in Atlassian Confluence | 2024-10-07T04:47:56Z |
+| [CVE-2023-22527](https://www.cve.org/CVERecord?id=CVE-2023-22527) | [kh4sh3i/CVE-2023-22527](https://github.com/kh4sh3i/CVE-2023-22527) | CVE-2023-22527 - RCE using SSTI in Confluence | 2024-10-06T15:16:04Z |
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524) | Atlassian Companion RCE Vulnerability Proof of Concept | 2023-12-14T15:33:11Z |
 | [CVE-2023-22524](https://www.cve.org/CVERecord?id=CVE-2023-22524) | [imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524) | no description | 2023-12-14T09:12:11Z |
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [davidfortytwo/CVE-2023-22518](https://github.com/davidfortytwo/CVE-2023-22518) | Checker for CVE-2023-22518 vulnerability on Confluence | 2023-11-02T22:52:15Z |
@@ -5345,6 +5350,7 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2021-29442](https://www.cve.org/CVERecord?id=CVE-2021-29442) | [VictorShem/QVD-2024-26473](https://github.com/VictorShem/QVD-2024-26473) | QVD-2024-26473 &amp;&amp; CVE-2021-29442 | 2024-07-31T03:56:30Z |
 | [CVE-2021-29156](https://www.cve.org/CVERecord?id=CVE-2021-29156) | [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156) | Proof-of-Concept tool for CVE-2021-29156, an LDAP injection vulnerability in ForgeRock OpenAM v13.0.0. | 2021-11-03T13:21:50Z |
 | [CVE-2021-29003](https://www.cve.org/CVERecord?id=CVE-2021-29003) | [jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003) | no description | 2021-09-15T06:14:47Z |
+| [CVE-2021-29002](https://www.cve.org/CVERecord?id=CVE-2021-29002) | [miguelc49/CVE-2021-29002-1](https://github.com/miguelc49/CVE-2021-29002-1) | no description | 2024-04-14T07:39:45Z |
 | [CVE-2021-28165](https://www.cve.org/CVERecord?id=CVE-2021-28165) | [uthrasri/CVE-2021-28165](https://github.com/uthrasri/CVE-2021-28165) | no description | 2023-11-02T11:08:06Z |
 | [CVE-2021-28165](https://www.cve.org/CVERecord?id=CVE-2021-28165) | [hshivhare67/Jetty_v9.4.31_CVE-2021-28165](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28165) | no description | 2023-11-16T07:15:37Z |
 | [CVE-2021-28164](https://www.cve.org/CVERecord?id=CVE-2021-28164) | [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-) | jetty /CVE-2021-28164/분석 및 결과 | 2023-10-31T14:59:29Z |
@@ -7203,6 +7209,7 @@ Last generated: 2025-03-10 02:02:26.598738
 | [CVE-2015-0235](https://www.cve.org/CVERecord?id=CVE-2015-0235) | [mikesplain/CVE-2015-0235-cookbook](https://github.com/mikesplain/CVE-2015-0235-cookbook) | A chef cookbook to test the GHOST vulnerability | 2015-01-27T20:34:42Z |
 | [CVE-2015-0235](https://www.cve.org/CVERecord?id=CVE-2015-0235) | [fser/ghost-checker](https://github.com/fser/ghost-checker) | Test wether you&#x27;re exposed to ghost (CVE-2015-0235). All kudos go to Qualys Security | 2015-01-27T17:31:33Z |
 | [CVE-2015-0235](https://www.cve.org/CVERecord?id=CVE-2015-0235) | [bugch3ck/imposter](https://github.com/bugch3ck/imposter) | Proof of concept for CVE-2015-0006. Fixed in MS15-005 https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2015/ms15-005 . | 2014-04-29T01:05:57Z |
+| [CVE-2015-0235](https://www.cve.org/CVERecord?id=CVE-2015-0235) | [furyutei/CVE-2015-0235_GHOST](https://github.com/furyutei/CVE-2015-0235_GHOST) | no description | 2015-01-28T11:20:16Z |
 | [CVE-2015-0231](https://www.cve.org/CVERecord?id=CVE-2015-0231) | [3xp10it/php_cve-2014-8142_cve-2015-0231](https://github.com/3xp10it/php_cve-2014-8142_cve-2015-0231) | php_cve-2014-8142_cve-2015-0231的漏洞环境docker | 2017-07-09T06:06:28Z |
 | [CVE-2015-0204](https://www.cve.org/CVERecord?id=CVE-2015-0204) | [niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204](https://github.com/niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204) | no description | 2015-03-23T10:18:08Z |
 | [CVE-2015-0204](https://www.cve.org/CVERecord?id=CVE-2015-0204) | [android-rooting-tools/libmsm_vfe_read_exploit](https://github.com/android-rooting-tools/libmsm_vfe_read_exploit) | CVE-2014-4321 exploit | 2015-03-08T06:13:36Z |
