@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-12 02:19:44.908891
+Last generated: 2025-03-13 02:21:44.248643
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -277,10 +277,12 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2024-5764](https://www.cve.org/CVERecord?id=CVE-2024-5764) | [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764) | CVE-2024-5764 exploitation script | 2024-11-14T20:08:45Z |
 | [CVE-2024-57523](https://www.cve.org/CVERecord?id=CVE-2024-57523) | [HackWidMaddy/CVE-2024-57523.](https://github.com/HackWidMaddy/CVE-2024-57523.) | CVE-2024-57523 - CSRF Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:56:30Z |
 | [CVE-2024-57522](https://www.cve.org/CVERecord?id=CVE-2024-57522) | [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522) | CVE-2024-57522 - Stored XSS Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:45:35Z |
+| [CVE-2024-57514](https://www.cve.org/CVERecord?id=CVE-2024-57514) | [rvizx/CVE-2024-57514](https://github.com/rvizx/CVE-2024-57514) | no description | 2025-02-01T08:52:04Z |
 | [CVE-2024-57487](https://www.cve.org/CVERecord?id=CVE-2024-57487) | [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488) | POC of CVE-2024-57487 &amp; CVE-2024-57488 | 2025-01-10T16:06:23Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
+| [CVE-2024-57175](https://www.cve.org/CVERecord?id=CVE-2024-57175) | [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175) | no description | 2025-01-31T18:40:11Z |
 | [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
@@ -367,6 +369,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [SeanRickerd/CVE-2024-53677](https://github.com/SeanRickerd/CVE-2024-53677) | Vulnerable Environment and Exploit for CVE-2024-53677 | 2025-01-10T17:47:24Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [punitdarji/Apache-struts-cve-2024-53677](https://github.com/punitdarji/Apache-struts-cve-2024-53677) | no description | 2025-01-08T19:36:09Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
+| [CVE-2024-53615](https://www.cve.org/CVERecord?id=CVE-2024-53615) | [beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615) | CVE-2024-53615 | 2024-11-04T18:34:58Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
 | [CVE-2024-53522](https://www.cve.org/CVERecord?id=CVE-2024-53522) | [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522) | PoC for CVE-2024-53522 affecting HOSxP XE 4 | 2025-01-02T04:13:37Z |
 | [CVE-2024-53476](https://www.cve.org/CVERecord?id=CVE-2024-53476) | [AbdullahAlmutawa/CVE-2024-53476](https://github.com/AbdullahAlmutawa/CVE-2024-53476) | SimplCommerce is affected by a race condition vulnerability in the checkout logic, allowing multiple users to purchase more products than are in stock via simultaneous checkout requests. | 2024-12-20T00:27:22Z |
@@ -613,6 +616,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2024-4701](https://www.cve.org/CVERecord?id=CVE-2024-4701) | [JoeBeeton/CVE-2024-4701-POC](https://github.com/JoeBeeton/CVE-2024-4701-POC) | POC for CVE-2024-4701 | 2024-05-13T11:58:19Z |
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
 | [CVE-2024-46982](https://www.cve.org/CVERecord?id=CVE-2024-46982) | [CodePontiff/next_js_poisoning](https://github.com/CodePontiff/next_js_poisoning) | The CVE-2024-46982 is cache poisoning of next_js some site have API to load their image | 2024-12-14T09:14:01Z |
+| [CVE-2024-46982](https://www.cve.org/CVERecord?id=CVE-2024-46982) | [Lercas/CVE-2024-46982](https://github.com/Lercas/CVE-2024-46982) | POC CVE-2024-46982 | 2025-01-23T03:38:22Z |
 | [CVE-2024-46901](https://www.cve.org/CVERecord?id=CVE-2024-46901) | [devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901) | Subversion CVE-2024-46901 PoC | 2024-10-11T13:28:55Z |
 | [CVE-2024-46658](https://www.cve.org/CVERecord?id=CVE-2024-46658) | [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658) | Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 | 2024-10-03T12:12:23Z |
 | [CVE-2024-46635](https://www.cve.org/CVERecord?id=CVE-2024-46635) | [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635) | no description | 2024-10-01T03:07:04Z |
@@ -854,6 +858,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2024-41110](https://www.cve.org/CVERecord?id=CVE-2024-41110) | [PauloParoPP/CVE-2024-41110-SCAN](https://github.com/PauloParoPP/CVE-2024-41110-SCAN) | no description | 2024-07-26T18:41:42Z |
 | [CVE-2024-41107](https://www.cve.org/CVERecord?id=CVE-2024-41107) | [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107) | This repository contains an PoC for the critical vulnerability identified as CVE-2024-41107 in Apache CloudStack | 2024-07-23T09:39:42Z |
 | [CVE-2024-40892](https://www.cve.org/CVERecord?id=CVE-2024-40892) | [xen0bit/fwbt](https://github.com/xen0bit/fwbt) | Proof of Concept code for interaction with Firewalla via Bluetooth Low-Energy and exploitation of CVE-2024-40892 / CVE-2024-40893 | 2024-08-21T17:27:21Z |
+| [CVE-2024-40815](https://www.cve.org/CVERecord?id=CVE-2024-40815) | [w0wbox/CVE-2024-40815](https://github.com/w0wbox/CVE-2024-40815) | poc for CVE-2024-40815 (under construction) | 2025-01-31T00:17:08Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898) | CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks. | 2024-07-19T03:51:54Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898) | no description | 2024-11-11T09:00:22Z |
 | [CVE-2024-40725](https://www.cve.org/CVERecord?id=CVE-2024-40725) | [soltanali0/CVE-2024-40725](https://github.com/soltanali0/CVE-2024-40725) | exploit CVE-2024-40725 (Apache httpd) with | 2024-12-18T15:09:38Z |
@@ -1578,6 +1583,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kjdfklha/CVE-2024-2961_poc](https://github.com/kjdfklha/CVE-2024-2961_poc) | no description | 2024-06-04T09:57:46Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961) | no description | 2024-06-04T08:05:09Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read) | This script demonstrates a proof-of-concept (PoC) for exploiting a file read vulnerability in the iconv library, as detailed in Ambionics Security&#x27;s blog https://www.ambionics.io/blog/iconv-cve-2024-2961-p1. | 2025-01-27T03:06:37Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961) | Uses CVE-2024-2961 to perform an arbitrary file read | 2025-01-29T13:15:11Z |
 | [CVE-2024-29510](https://www.cve.org/CVERecord?id=CVE-2024-29510) | [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510) | POC code for CVE-2024-29510 and demo VulnApp | 2024-07-09T13:27:40Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -2691,6 +2697,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [0x1717/ssrf-via-img](https://github.com/0x1717/ssrf-via-img) | CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE | 2023-05-28T07:26:49Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [AsfandAliMemon25/CVE-2023-50164Analysis-](https://github.com/AsfandAliMemon25/CVE-2023-50164Analysis-) | CVE-2023-50164 An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution. Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue. | 2024-04-16T16:20:04Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [minhbao15677/CVE-2023-50164](https://github.com/minhbao15677/CVE-2023-50164) | no description | 2022-12-22T07:49:13Z |
+| [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [NikitaPark/CVE-2023-50164-PoC](https://github.com/NikitaPark/CVE-2023-50164-PoC) | CVE-2023-50164 PoC Application &amp; Exploit script | 2024-10-06T14:58:26Z |
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z |
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z |
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z |
@@ -6100,6 +6107,7 @@ Last generated: 2025-03-12 02:19:44.908891
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [pywc/CVE-2019-0708](https://github.com/pywc/CVE-2019-0708) | no description | 2021-06-21T03:57:15Z |
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [CircuitSoul/CVE-2019-0708](https://github.com/CircuitSoul/CVE-2019-0708) | POC-CVE-2019-0708 | 2021-06-19T21:55:57Z |
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [at0mik/CVE-2019-0708-PoC](https://github.com/at0mik/CVE-2019-0708-PoC) | CVE-2019-0708-PoC It is a semi-functional exploit capable of remotely accessing a Windows computer by exploiting the aforementioned vulnerability, this repository also contains notes on how to complete the attack. | 2019-06-11T09:38:36Z |
+| [CVE-2019-0604](https://www.cve.org/CVERecord?id=CVE-2019-0604) | [davidlebr1/cve-2019-0604-SP2010-netv3.5](https://github.com/davidlebr1/cve-2019-0604-SP2010-netv3.5) | Generate Seralize Payload for CVE-2019-0604 for Sharepoint 2010 SP2 .net 3.5 | 2023-09-05T13:47:17Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [jaiguptanick/CVE-2019-0232](https://github.com/jaiguptanick/CVE-2019-0232) | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | 2021-03-25T20:09:54Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) | ES File Explorer Open Port Vulnerability - CVE-2019-6447 | 2019-01-09T22:30:42Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995) | no description | 2022-02-18T03:17:31Z |
