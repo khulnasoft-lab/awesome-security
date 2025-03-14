@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-13 02:21:44.248643
+Last generated: 2025-03-14 02:19:41.708493
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -133,6 +133,7 @@ Last generated: 2025-03-13 02:21:44.248643
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782) | Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-09T06:25:03Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [R4idB0Y/CVE-2024-6782-PoC](https://github.com/R4idB0Y/CVE-2024-6782-PoC) | Unauthenticated remote code execution via Calibre’s content server in Calibre &amp;lt;= 7.14.0. | 2024-09-15T18:45:44Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [NketiahGodfred/CVE-2024-6782](https://github.com/NketiahGodfred/CVE-2024-6782) | Calibre Remote Code Execution | 2024-12-07T13:42:45Z |
+| [CVE-2024-6781](https://www.cve.org/CVERecord?id=CVE-2024-6781) | [FelinaeBlanc/CVE_2024_6781](https://github.com/FelinaeBlanc/CVE_2024_6781) | Démonstration de l&#x27;explotation de la CVE CVE_2024_6781 | 2025-02-01T14:32:08Z |
 | [CVE-2024-6778](https://www.cve.org/CVERecord?id=CVE-2024-6778) | [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC) | A POC exploit for CVE-2024-5836 and CVE-2024-6778, allowing for a sandbox escape from a Chrome extension. | 2024-09-10T06:27:59Z |
 | [CVE-2024-6778](https://www.cve.org/CVERecord?id=CVE-2024-6778) | [r00tjunip3r1/POC-CVE-2024-6778](https://github.com/r00tjunip3r1/POC-CVE-2024-6778) | no description | 2024-10-20T12:47:53Z |
 | [CVE-2024-6769](https://www.cve.org/CVERecord?id=CVE-2024-6769) | [fortra/CVE-2024-6769](https://github.com/fortra/CVE-2024-6769) | Activation cache poisoning to elevate from medium to high integrity (CVE-2024-6769) | 2024-08-29T16:40:49Z |
@@ -935,6 +936,7 @@ Last generated: 2025-03-13 02:21:44.248643
 | [CVE-2024-39205](https://www.cve.org/CVERecord?id=CVE-2024-39205) | [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE) | Pyload RCE with js2py sandbox escape | 2024-10-26T01:01:35Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
 | [CVE-2024-39123](https://www.cve.org/CVERecord?id=CVE-2024-39123) | [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit) | Exploit For: CVE-2024-39123: Stored XSS in Calibre-web 0.6.21 | 2025-01-10T20:05:24Z |
+| [CVE-2024-39123](https://www.cve.org/CVERecord?id=CVE-2024-39123) | [FelinaeBlanc/CVE_2024_39123](https://github.com/FelinaeBlanc/CVE_2024_39123) | Démonstration de l&#x27;explotation de la CVE CVE_2024_39123 | 2025-02-01T14:33:57Z |
 | [CVE-2024-39090](https://www.cve.org/CVERecord?id=CVE-2024-39090) | [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC) | This PoC script exploits CVE-2024-39090, a CSRF to Stored XSS vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates CSRF attacks to inject persistent JavaScript payloads, which execute when a privileged user accesses the affected page, enabling actions such as session hijacking or credential theft. | 2024-11-27T14:55:58Z |
 | [CVE-2024-39081](https://www.cve.org/CVERecord?id=CVE-2024-39081) | [Amirasaiyad/BLE-TPMS](https://github.com/Amirasaiyad/BLE-TPMS) | CVE-2024-39081. BLE TPMS data manipulation over bluetooth communication. | 2024-04-05T05:13:27Z |
 | [CVE-2024-39069](https://www.cve.org/CVERecord?id=CVE-2024-39069) | [AungSoePaing/CVE-2024-39069](https://github.com/AungSoePaing/CVE-2024-39069) | CVE-2024-39069 | 2024-07-09T11:24:44Z |
