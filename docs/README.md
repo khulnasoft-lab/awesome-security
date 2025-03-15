@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-14 02:19:41.708493
+Last generated: 2025-03-15 02:18:06.295098
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -375,6 +375,7 @@ Last generated: 2025-03-14 02:19:41.708493
 | [CVE-2024-53522](https://www.cve.org/CVERecord?id=CVE-2024-53522) | [Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522) | PoC for CVE-2024-53522 affecting HOSxP XE 4 | 2025-01-02T04:13:37Z |
 | [CVE-2024-53476](https://www.cve.org/CVERecord?id=CVE-2024-53476) | [AbdullahAlmutawa/CVE-2024-53476](https://github.com/AbdullahAlmutawa/CVE-2024-53476) | SimplCommerce is affected by a race condition vulnerability in the checkout logic, allowing multiple users to purchase more products than are in stock via simultaneous checkout requests. | 2024-12-20T00:27:22Z |
 | [CVE-2024-53407](https://www.cve.org/CVERecord?id=CVE-2024-53407) | [SyFi/CVE-2024-53407](https://github.com/SyFi/CVE-2024-53407) | CVE-2024-53407 | 2025-01-15T09:49:03Z |
+| [CVE-2024-53393](https://www.cve.org/CVERecord?id=CVE-2024-53393) | [alirezac0/CVE-2024-53393](https://github.com/alirezac0/CVE-2024-53393) | CVE-2024-53393 PoC | 2025-02-02T08:32:48Z |
 | [CVE-2024-53376](https://www.cve.org/CVERecord?id=CVE-2024-53376) | [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376) | CyberPanel authenticated RCE &lt; 2.3.8 | 2024-12-15T22:40:52Z |
 | [CVE-2024-53375](https://www.cve.org/CVERecord?id=CVE-2024-53375) | [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375) | TP-Link Archer AXE75 Authenticated Command Injection | 2024-10-04T12:49:19Z |
 | [CVE-2024-53345](https://www.cve.org/CVERecord?id=CVE-2024-53345) | [ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345) | Critical 0 Day in Car Rental Management System Versions 1.0 - 1.3 | 2024-12-23T08:48:51Z |
@@ -2547,6 +2548,7 @@ Last generated: 2025-03-14 02:19:41.708493
 | [CVE-2023-6548](https://www.cve.org/CVERecord?id=CVE-2023-6548) | [Roonye660/CVE-2023-6548-POC](https://github.com/Roonye660/CVE-2023-6548-POC) | 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions | 2024-03-04T08:57:27Z |
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z |
 | [CVE-2023-6444](https://www.cve.org/CVERecord?id=CVE-2023-6444) | [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC) | Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444 | 2024-08-07T01:58:04Z |
+| [CVE-2023-6421](https://www.cve.org/CVERecord?id=CVE-2023-6421) | [RandomRobbieBF/CVE-2023-6421](https://github.com/RandomRobbieBF/CVE-2023-6421) | Download Manager &lt; 3.2.83 - Unauthenticated Protected File Download Password Leak | 2024-10-09T13:18:10Z |
 | [CVE-2023-6319](https://www.cve.org/CVERecord?id=CVE-2023-6319) | [illixion/root-my-webos-tv](https://github.com/illixion/root-my-webos-tv) | CVE-2023-6319 proof of concept | 2024-04-11T18:58:17Z |
 | [CVE-2023-6289](https://www.cve.org/CVERecord?id=CVE-2023-6289) | [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289) | Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | 2023-11-28T20:05:43Z |
 | [CVE-2023-6275](https://www.cve.org/CVERecord?id=CVE-2023-6275) | [erickfernandox/CVE-2023-6275](https://github.com/erickfernandox/CVE-2023-6275) | Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1 | 2024-09-04T02:33:46Z |
