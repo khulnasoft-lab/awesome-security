@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-15 02:18:06.295098
+Last generated: 2025-03-16 02:25:31.448035
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1232,6 +1232,7 @@ Last generated: 2025-03-15 02:18:06.295098
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400) | Attempt at making the CVE-2024-3400 initial exploit (for educational purposes) | 2024-11-12T03:46:39Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400) | CVE-2024-3400 PAN-OS Vulnerability Scanner. | 2024-11-30T05:47:12Z |
 | [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc) | CVE-2024-3400的攻击脚本 | 2025-01-10T02:20:26Z |
+| [CVE-2024-3400](https://www.cve.org/CVERecord?id=CVE-2024-3400) | [hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400](https://github.com/hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400) | no description | 2025-02-02T09:42:41Z |
 | [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393) | CVE-2024-3393 EXPLOIT | 2025-01-04T08:18:06Z |
 | [CVE-2024-3393](https://www.cve.org/CVERecord?id=CVE-2024-3393) | [waived/CVE-2024-3393](https://github.com/waived/CVE-2024-3393) | PAN-OS: Firewall Denial-of-Service exploit via malicious DNS query | 2025-01-09T22:03:07Z |
 | [CVE-2024-33911](https://www.cve.org/CVERecord?id=CVE-2024-33911) | [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911) | no description | 2024-05-05T11:14:47Z |
@@ -4090,6 +4091,7 @@ Last generated: 2025-03-15 02:18:06.295098
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit](https://github.com/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit) | no description | 2024-05-14T11:22:35Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [CuriousLearnerDev/ColdFusion_EXp](https://github.com/CuriousLearnerDev/ColdFusion_EXp) | Adobe ColdFusion CVE-2023-26360/CVE-2023-29298 自动化实现反弹 | 2024-09-03T09:53:57Z |
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z |
+| [CVE-2023-26326](https://www.cve.org/CVERecord?id=CVE-2023-26326) | [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961) | Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter. | 2025-02-02T01:35:43Z |
 | [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z |
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq) | no description | 2023-07-01T03:01:37Z |
 | [CVE-2023-26258](https://www.cve.org/CVERecord?id=CVE-2023-26258) | [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe) | no description | 2023-06-28T13:51:27Z |
