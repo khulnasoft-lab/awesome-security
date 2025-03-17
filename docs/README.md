@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-16 02:25:31.448035
+Last generated: 2025-03-17 02:23:30.735793
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -250,6 +250,7 @@ Last generated: 2025-03-16 02:25:31.448035
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [AzrDll/CVE-2024-6387](https://github.com/AzrDll/CVE-2024-6387) | This is an altered PoC for d0rb/CVE-2024-6387. This takes glibc addresses and trys to exploit the CVE through them. | 2025-01-20T09:38:40Z |
 | [CVE-2024-6386](https://www.cve.org/CVERecord?id=CVE-2024-6386) | [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386) | Research and PoC for CVE-2024-6386 | 2024-09-05T14:44:36Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
+| [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC) | User Profile Builder &lt;= 3.11.7 - Unauthenticated Media Upload | 2025-02-02T15:37:14Z |
 | [CVE-2024-6330](https://www.cve.org/CVERecord?id=CVE-2024-6330) | [RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330) | GEO my WordPress &lt; 4.5.0.2 - Unauthenticated LFI to RCE/PHAR Deserialization | 2024-11-20T06:08:32Z |
 | [CVE-2024-6239](https://www.cve.org/CVERecord?id=CVE-2024-6239) | [Sharkkcode/CVE_2024_6239_slide](https://github.com/Sharkkcode/CVE_2024_6239_slide) | CVE_2024_6239_slide | 2024-08-30T16:23:16Z |
 | [CVE-2024-6222](https://www.cve.org/CVERecord?id=CVE-2024-6222) | [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222) | Docker Extension/Dashboard RCE Vulnerability | 2024-08-06T18:20:46Z |
@@ -2967,6 +2968,7 @@ Last generated: 2025-03-16 02:25:31.448035
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky) | 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard) | 2024-01-16T06:52:02Z |
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [AvishekDhakal/CVE-2023-45866_EXPLOITS](https://github.com/AvishekDhakal/CVE-2023-45866_EXPLOITS) | Exploits Tested in Mi A2 Lite and Realme 2 pro | 2024-09-02T10:13:27Z |
 | [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [Danyw24/blueXploit](https://github.com/Danyw24/blueXploit) | Exploit basado en vulnerabilidades criticas Bluetooth (CVE-2023-45866, CVE-2024-21306) | 2024-12-15T03:00:47Z |
+| [CVE-2023-45866](https://www.cve.org/CVERecord?id=CVE-2023-45866) | [Chedrian07/CVE-2023-45866-POC](https://github.com/Chedrian07/CVE-2023-45866-POC) | no description | 2024-10-09T02:48:58Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857) | no description | 2023-10-18T12:19:34Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [intercept6/CVE-2023-45857-Demo](https://github.com/intercept6/CVE-2023-45857-Demo) | CVE-2023-45857の挙動を確認するデモ | 2023-10-26T04:18:03Z |
 | [CVE-2023-45857](https://www.cve.org/CVERecord?id=CVE-2023-45857) | [fuyuooumi1027/CVE-2023-45857-Demo](https://github.com/fuyuooumi1027/CVE-2023-45857-Demo) | no description | 2023-11-24T22:42:56Z |
