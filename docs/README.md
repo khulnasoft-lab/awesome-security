@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-17 02:23:30.735793
+Last generated: 2025-03-18 02:22:50.733190
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -286,6 +286,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-57175](https://www.cve.org/CVERecord?id=CVE-2024-57175) | [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175) | no description | 2025-01-31T18:40:11Z |
 | [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
+| [CVE-2024-56901](https://www.cve.org/CVERecord?id=CVE-2024-56901) | [DRAGOWN/CVE-2024-56901](https://github.com/DRAGOWN/CVE-2024-56901) | CVE-2024-56901 - A Cross-Site Request Forgery (CSRF) vulnerability in Geovision GV-ASManager web application with the version 6.1.1.0 or less that allows attackers to arbitrarily create Admin accounts via a crafted POST request. | 2025-02-02T15:04:22Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
@@ -297,6 +298,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2024-56278](https://www.cve.org/CVERecord?id=CVE-2024-56278) | [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) | PoC of CVE-2024-56278 | 2025-01-06T01:51:46Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
+| [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py) | no description | 2025-02-03T22:33:57Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
@@ -2305,6 +2307,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558) | WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db | 2025-01-06T10:45:29Z |
 | [CVE-2024-12558](https://www.cve.org/CVERecord?id=CVE-2024-12558) | [Nxploited/CVE-2024-12558-exploit](https://github.com/Nxploited/CVE-2024-12558-exploit) | no description | 2025-01-11T02:50:14Z |
 | [CVE-2024-12542](https://www.cve.org/CVERecord?id=CVE-2024-12542) | [RandomRobbieBF/CVE-2024-12542](https://github.com/RandomRobbieBF/CVE-2024-12542) | linkID &lt;= 0.1.2 - Missing Authorization to Unauthenticated Sensitive Information Exposure | 2025-01-10T09:23:18Z |
+| [CVE-2024-12542](https://www.cve.org/CVERecord?id=CVE-2024-12542) | [Nxploited/CVE-2024-12542-PoC](https://github.com/Nxploited/CVE-2024-12542-PoC) | no description | 2025-02-04T01:08:51Z |
 | [CVE-2024-12535](https://www.cve.org/CVERecord?id=CVE-2024-12535) | [RandomRobbieBF/CVE-2024-12535](https://github.com/RandomRobbieBF/CVE-2024-12535) | Host PHP Info &lt;= 1.0.4 - Missing Authorization to Unauthenticated Sensitive Information Disclosure | 2025-01-07T15:08:14Z |
 | [CVE-2024-12484](https://www.cve.org/CVERecord?id=CVE-2024-12484) | [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484) | CVE-poc | 2024-12-09T04:42:19Z |
 | [CVE-2024-12471](https://www.cve.org/CVERecord?id=CVE-2024-12471) | [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471) | Post Saint: ChatGPT, GPT4, DALL-E, Stable Diffusion, Pexels, Dezgo AI Text &amp; Image Generator &lt;= 1.3.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Upload | 2025-01-07T14:30:08Z |
@@ -2370,6 +2373,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Hunt3r850/CVE-2024-10924-Wordpress-Docker](https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker) | no description | 2024-12-03T13:12:58Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Hunt3r850/CVE-2024-10924-PoC](https://github.com/Hunt3r850/CVE-2024-10924-PoC) | no description | 2024-12-03T13:09:46Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB) | no description | 2024-12-01T14:43:16Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Nxploited/CVE-2024-10924-Exploit](https://github.com/Nxploited/CVE-2024-10924-Exploit) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 - 9.1.1.1 - Authentication Bypass | 2025-02-02T21:53:29Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
@@ -2596,6 +2600,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2023-5360](https://www.cve.org/CVERecord?id=CVE-2023-5360) | [angkerithhack001/CVE-2023-5360-PoC](https://github.com/angkerithhack001/CVE-2023-5360-PoC) | CVE-2023-5360 EXPLOIT | 2023-12-27T09:32:05Z |
 | [CVE-2023-52709](https://www.cve.org/CVERecord?id=CVE-2023-52709) | [KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC](https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC) | PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. | 2024-07-08T16:48:29Z |
 | [CVE-2023-52654](https://www.cve.org/CVERecord?id=CVE-2023-52654) | [FoxyProxys/CVE-2023-52654](https://github.com/FoxyProxys/CVE-2023-52654) | no description | 2024-05-09T20:53:03Z |
+| [CVE-2023-52268](https://www.cve.org/CVERecord?id=CVE-2023-52268) | [squ1dw3rm/CVE-2023-52268](https://github.com/squ1dw3rm/CVE-2023-52268) | Authentication Bypass for FreeScout End-User Portal | 2024-10-13T02:17:03Z |
 | [CVE-2023-52251](https://www.cve.org/CVERecord?id=CVE-2023-52251) | [BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC) | CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui. | 2024-01-06T11:07:36Z |
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217) | no description | 2023-10-06T11:01:08Z |
 | [CVE-2023-5217](https://www.cve.org/CVERecord?id=CVE-2023-5217) | [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217) | no description | 2023-10-06T10:43:38Z |
@@ -2679,6 +2684,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2023-50596](https://www.cve.org/CVERecord?id=CVE-2023-50596) | [chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596) | no description | 2023-12-20T21:43:28Z |
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564) | CVE-2023-50564 PoC | 2024-08-02T13:37:39Z |
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [thefizzyfish/CVE-2023-50564-pluck](https://github.com/thefizzyfish/CVE-2023-50564-pluck) | CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file. | 2024-08-24T19:09:21Z |
+| [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [rwexecute/CVE-2023-50564](https://github.com/rwexecute/CVE-2023-50564) | Python Script to exploit CVE-2023-50564 | 2024-08-17T10:46:02Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044) | Poc for CVE 2023 5044 | 2024-03-29T18:53:50Z |
@@ -3350,6 +3356,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [FirFirdaus/CVE-2023-38831](https://github.com/FirFirdaus/CVE-2023-38831) | A POC demo on CVE-2023-38831 | 2024-08-30T14:48:26Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [technicalcorp0/CVE-2023-38831-Exploit](https://github.com/technicalcorp0/CVE-2023-38831-Exploit) | This project contains a Python script that exploits **CVE-2023-38831**, a vulnerability in **WinRAR** versions prior to 6.23. The exploit generates a **malicious RAR archive** that triggers the execution of arbitrary code when the victim opens a benign-looking file within the archive (such as a PDF). | 2024-09-27T18:23:30Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ra3edAJ/LAB-DFIR-cve-2023-38831](https://github.com/ra3edAJ/LAB-DFIR-cve-2023-38831) | d | 2024-09-26T19:44:08Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [idkwastaken/CVE-2023-38831](https://github.com/idkwastaken/CVE-2023-38831) | no description | 2024-10-15T06:23:13Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -4855,6 +4862,7 @@ Last generated: 2025-03-17 02:23:30.735793
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [zangcc/CVE-2022-22965-rexbb](https://github.com/zangcc/CVE-2022-22965-rexbb) | CVE-2022-22965\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。 | 2022-12-28T04:50:16Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [viniciuspereiras/CVE-2022-22965-poc](https://github.com/viniciuspereiras/CVE-2022-22965-poc) | CVE-2022-22965 poc including reverse-shell support | 2022-03-31T19:19:52Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [0xrobiul/CVE-2022-22965](https://github.com/0xrobiul/CVE-2022-22965) | Exploit Of Spring4Shell! | 2022-04-05T15:45:47Z |
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [xsxtw/SpringFramework_CVE-2022-22965_RCE](https://github.com/xsxtw/SpringFramework_CVE-2022-22965_RCE) | no description | 2024-05-01T02:36:13Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z |
