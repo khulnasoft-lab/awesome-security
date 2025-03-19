@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-18 02:22:50.733190
+Last generated: 2025-03-19 02:21:52.255256
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -281,6 +281,10 @@ Last generated: 2025-03-18 02:22:50.733190
 | [CVE-2024-57522](https://www.cve.org/CVERecord?id=CVE-2024-57522) | [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522) | CVE-2024-57522 - Stored XSS Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:45:35Z |
 | [CVE-2024-57514](https://www.cve.org/CVERecord?id=CVE-2024-57514) | [rvizx/CVE-2024-57514](https://github.com/rvizx/CVE-2024-57514) | no description | 2025-02-01T08:52:04Z |
 | [CVE-2024-57487](https://www.cve.org/CVERecord?id=CVE-2024-57487) | [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488) | POC of CVE-2024-57487 &amp; CVE-2024-57488 | 2025-01-10T16:06:23Z |
+| [CVE-2024-57430](https://www.cve.org/CVERecord?id=CVE-2024-57430) | [ahrixia/CVE-2024-57430](https://github.com/ahrixia/CVE-2024-57430) | CVE-2024-57430: PHPJabbers Cinema Booking System v2.0 is vulnerable to SQL injection, leading to unauthorized data access and privilege escalation. | 2025-02-04T11:14:36Z |
+| [CVE-2024-57429](https://www.cve.org/CVERecord?id=CVE-2024-57429) | [ahrixia/CVE-2024-57429](https://github.com/ahrixia/CVE-2024-57429) | CVE-2024-57429: PHPJabbers Cinema Booking System v2.0 is vulnerable to CSRF, allowing attackers to escalate privileges by forging requests on behalf of an admin. | 2025-02-04T11:14:24Z |
+| [CVE-2024-57428](https://www.cve.org/CVERecord?id=CVE-2024-57428) | [ahrixia/CVE-2024-57428](https://github.com/ahrixia/CVE-2024-57428) | CVE-2024-57428: PHPJabbers Cinema Booking System v2.0 suffers from stored XSS, enabling persistent JavaScript injection for phishing and malware attacks. | 2025-02-04T11:14:10Z |
+| [CVE-2024-57427](https://www.cve.org/CVERecord?id=CVE-2024-57427) | [ahrixia/CVE-2024-57427](https://github.com/ahrixia/CVE-2024-57427) | CVE-2024-57427: PHPJabbers Cinema Booking System v2.0 is vulnerable to reflected XSS, allowing session hijacking and phishing attacks. | 2025-02-04T11:12:28Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
@@ -2685,6 +2689,7 @@ Last generated: 2025-03-18 02:22:50.733190
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564) | CVE-2023-50564 PoC | 2024-08-02T13:37:39Z |
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [thefizzyfish/CVE-2023-50564-pluck](https://github.com/thefizzyfish/CVE-2023-50564-pluck) | CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file. | 2024-08-24T19:09:21Z |
 | [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [rwexecute/CVE-2023-50564](https://github.com/rwexecute/CVE-2023-50564) | Python Script to exploit CVE-2023-50564 | 2024-08-17T10:46:02Z |
+| [CVE-2023-50564](https://www.cve.org/CVERecord?id=CVE-2023-50564) | [Mrterrestrial/CVE-2023-50564](https://github.com/Mrterrestrial/CVE-2023-50564) | This script exploits the file upload feature in Pluck CMS v4.7.18 to upload a malicious PHP file, enabling remote access via a reverse shell. Once uploaded, this backdoor grants the attacker server access with web server permissions, allowing further actions within the system or network. | 2024-10-15T15:58:06Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044) | PoC CVE-2023-5044 | 2023-10-30T07:59:11Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044) | no description | 2024-01-17T14:32:54Z |
 | [CVE-2023-5044](https://www.cve.org/CVERecord?id=CVE-2023-5044) | [KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044) | Poc for CVE 2023 5044 | 2024-03-29T18:53:50Z |
@@ -3805,6 +3810,7 @@ Last generated: 2025-03-18 02:22:50.733190
 | [CVE-2023-32571](https://www.cve.org/CVERecord?id=CVE-2023-32571) | [Tris0n/CVE-2023-32571-POC](https://github.com/Tris0n/CVE-2023-32571-POC) | no description | 2023-11-18T04:35:37Z |
 | [CVE-2023-32571](https://www.cve.org/CVERecord?id=CVE-2023-32571) | [vert16x/CVE-2023-32571-POC](https://github.com/vert16x/CVE-2023-32571-POC) | no description | 2023-11-18T06:12:12Z |
 | [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560) | Ivanti Avalanche v6.4.0.0 RCE POC | 2023-08-17T03:39:37Z |
+| [CVE-2023-32560](https://www.cve.org/CVERecord?id=CVE-2023-32560) | [idkwastaken/CVE-2023-32560](https://github.com/idkwastaken/CVE-2023-32560) | no description | 2024-10-15T06:47:28Z |
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z |
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z |
 | [CVE-2023-32422](https://www.cve.org/CVERecord?id=CVE-2023-32422) | [gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite) | no description | 2023-11-15T18:21:20Z |
