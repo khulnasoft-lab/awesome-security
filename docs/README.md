@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-19 02:21:52.255256
+Last generated: 2025-03-20 02:20:56.646896
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -290,7 +290,9 @@ Last generated: 2025-03-19 02:21:52.255256
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-57175](https://www.cve.org/CVERecord?id=CVE-2024-57175) | [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175) | no description | 2025-01-31T18:40:11Z |
 | [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
+| [CVE-2024-56902](https://www.cve.org/CVERecord?id=CVE-2024-56902) | [DRAGOWN/CVE-2024-56902](https://github.com/DRAGOWN/CVE-2024-56902) | CVE-2024-56902 - Information disclosure vulnerability in GeoVision GV-ASManager web application with the version v6.1.0.0 or less, which discloses account information, including cleartext password. | 2025-02-02T14:16:34Z |
 | [CVE-2024-56901](https://www.cve.org/CVERecord?id=CVE-2024-56901) | [DRAGOWN/CVE-2024-56901](https://github.com/DRAGOWN/CVE-2024-56901) | CVE-2024-56901 - A Cross-Site Request Forgery (CSRF) vulnerability in Geovision GV-ASManager web application with the version 6.1.1.0 or less that allows attackers to arbitrarily create Admin accounts via a crafted POST request. | 2025-02-02T15:04:22Z |
+| [CVE-2024-56898](https://www.cve.org/CVERecord?id=CVE-2024-56898) | [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898) | CVE-2024-56898 - Broken access control vulnerability in GeoVision GV-ASManager web application with version v6.1.0.0 or less. This vulnerability allows low privilege users perform actions that they aren&#x27;t authorized to, which can be leveraged to escalate privileges, create, modify or delete accounts. | 2025-02-02T09:20:32Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
