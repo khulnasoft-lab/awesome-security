@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-20 02:20:56.646896
+Last generated: 2025-03-21 02:22:34.347574
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -277,6 +277,8 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2024-57744](https://www.cve.org/CVERecord?id=CVE-2024-57744) | [l00neyhacker/CVE-2024-57744](https://github.com/l00neyhacker/CVE-2024-57744) | no description | 2025-01-23T23:28:44Z |
 | [CVE-2024-57727](https://www.cve.org/CVERecord?id=CVE-2024-57727) | [imjdl/CVE-2024-57727](https://github.com/imjdl/CVE-2024-57727) | CVE-2024-57727 | 2025-01-17T15:45:51Z |
 | [CVE-2024-5764](https://www.cve.org/CVERecord?id=CVE-2024-5764) | [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764) | CVE-2024-5764 exploitation script | 2024-11-14T20:08:45Z |
+| [CVE-2024-57610](https://www.cve.org/CVERecord?id=CVE-2024-57610) | [H3T76/CVE-2024-57610](https://github.com/H3T76/CVE-2024-57610) | Lack of Rate Limiting in Sylius v2.0.2 | 2025-02-04T17:49:44Z |
+| [CVE-2024-57609](https://www.cve.org/CVERecord?id=CVE-2024-57609) | [H3T76/CVE-2024-57609](https://github.com/H3T76/CVE-2024-57609) | Open Redirect Vulnerability in Kanaries | 2025-02-04T17:21:08Z |
 | [CVE-2024-57523](https://www.cve.org/CVERecord?id=CVE-2024-57523) | [HackWidMaddy/CVE-2024-57523.](https://github.com/HackWidMaddy/CVE-2024-57523.) | CVE-2024-57523 - CSRF Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:56:30Z |
 | [CVE-2024-57522](https://www.cve.org/CVERecord?id=CVE-2024-57522) | [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522) | CVE-2024-57522 - Stored XSS Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:45:35Z |
 | [CVE-2024-57514](https://www.cve.org/CVERecord?id=CVE-2024-57514) | [rvizx/CVE-2024-57514](https://github.com/rvizx/CVE-2024-57514) | no description | 2025-02-01T08:52:04Z |
@@ -337,6 +339,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
 | [CVE-2024-55099](https://www.cve.org/CVERecord?id=CVE-2024-55099) | [ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-) | no description | 2024-12-10T19:40:26Z |
+| [CVE-2024-55040](https://www.cve.org/CVERecord?id=CVE-2024-55040) | [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS) | Public disclose of several stored XSS vulnerabilities in the Sensaphone WEB600 (CVE-2024-55040) | 2024-11-22T22:25:18Z |
 | [CVE-2024-54910](https://www.cve.org/CVERecord?id=CVE-2024-54910) | [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910) | no description | 2025-01-07T18:24:46Z |
 | [CVE-2024-54880](https://www.cve.org/CVERecord?id=CVE-2024-54880) | [ailenye/CVE-2024-54880](https://github.com/ailenye/CVE-2024-54880) | CVE-2024-54880 | 2025-01-20T12:45:17Z |
 | [CVE-2024-54879](https://www.cve.org/CVERecord?id=CVE-2024-54879) | [ailenye/CVE-2024-54879](https://github.com/ailenye/CVE-2024-54879) | CVE-2024-54879 | 2025-01-20T07:19:57Z |
@@ -1597,6 +1600,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961) | no description | 2024-06-04T08:05:09Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read) | This script demonstrates a proof-of-concept (PoC) for exploiting a file read vulnerability in the iconv library, as detailed in Ambionics Security&#x27;s blog https://www.ambionics.io/blog/iconv-cve-2024-2961-p1. | 2025-01-27T03:06:37Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961) | Uses CVE-2024-2961 to perform an arbitrary file read | 2025-01-29T13:15:11Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7) | CVE-2024-2961 Cnext RCE Exploit with Buddyforms 2.7.7 | 2025-02-04T13:34:33Z |
 | [CVE-2024-29510](https://www.cve.org/CVERecord?id=CVE-2024-29510) | [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510) | POC code for CVE-2024-29510 and demo VulnApp | 2024-07-09T13:27:40Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -3600,6 +3604,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2023-35744](https://www.cve.org/CVERecord?id=CVE-2023-35744) | [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744) | no description | 2023-07-12T07:28:54Z |
 | [CVE-2023-35679](https://www.cve.org/CVERecord?id=CVE-2023-35679) | [pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679](https://github.com/pazhanivel07/frameworks_av_AOSP_10_r33_CVE-2023-35687_CVE-2023-35679) | no description | 2023-09-21T06:07:57Z |
 | [CVE-2023-35674](https://www.cve.org/CVERecord?id=CVE-2023-35674) | [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674) | ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ* | 2023-09-11T05:34:43Z |
+| [CVE-2023-35674](https://www.cve.org/CVERecord?id=CVE-2023-35674) | [SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674](https://github.com/SpiralBL0CK/Guide-and-theoretical-code-for-CVE-2023-35674) | Guide and theoretical code for CVE-2023-35674 | 2024-10-15T18:30:54Z |
 | [CVE-2023-35671](https://www.cve.org/CVERecord?id=CVE-2023-35671) | [MrTiz/CVE-2023-35671](https://github.com/MrTiz/CVE-2023-35671) | Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet | 2023-09-01T20:16:28Z |
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567) | no description | 2023-09-01T05:53:45Z |
 | [CVE-2023-3567](https://www.cve.org/CVERecord?id=CVE-2023-3567) | [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567) | no description | 2023-09-06T11:16:22Z |
@@ -4140,6 +4145,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z |
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690) | no description | 2023-12-04T16:58:53Z |
 | [CVE-2023-25610](https://www.cve.org/CVERecord?id=CVE-2023-25610) | [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610) | FortiOS 管理界面中的堆内存下溢导致远程代码执行 | 2023-06-17T06:57:28Z |
+| [CVE-2023-25581](https://www.cve.org/CVERecord?id=CVE-2023-25581) | [p33d/CVE-2023-25581](https://github.com/p33d/CVE-2023-25581) | no description | 2024-10-15T23:51:52Z |
 | [CVE-2023-25573](https://www.cve.org/CVERecord?id=CVE-2023-25573) | [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC) | CVE-2023-25573 - Metersphere &lt; Arbitrary File Read | 2023-10-04T01:33:30Z |
 | [CVE-2023-25355](https://www.cve.org/CVERecord?id=CVE-2023-25355) | [glefait/CVE-2023-25355-25356](https://github.com/glefait/CVE-2023-25355-25356) | CVE-2023-25355 and CVE-2023-25356 with automated service reload | 2024-09-04T11:00:23Z |
 | [CVE-2023-25292](https://www.cve.org/CVERecord?id=CVE-2023-25292) | [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292) | Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie | 2023-04-25T19:27:53Z |
@@ -5018,6 +5024,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [h4ckm310n/CVE-2022-0847-eBPF](https://github.com/h4ckm310n/CVE-2022-0847-eBPF) | An eBPF program to detect attacks on CVE-2022-0847 | 2023-07-06T01:31:01Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [ayushx007/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits) | no description | 2023-11-05T15:34:54Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [letsr00t/CVE-2022-0847](https://github.com/letsr00t/CVE-2022-0847) | no description | 2024-02-15T02:27:27Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [xsxtw/CVE-2022-0847](https://github.com/xsxtw/CVE-2022-0847) | no description | 2024-05-01T05:16:16Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -5328,6 +5335,7 @@ Last generated: 2025-03-20 02:20:56.646896
 | [CVE-2021-3166](https://www.cve.org/CVERecord?id=CVE-2021-3166) | [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166) | Mastering CVE-2021-3166 | 2022-11-18T18:28:57Z |
 | [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [Hunt3r0x/CVE-2021-31630-HTB](https://github.com/Hunt3r0x/CVE-2021-31630-HTB) | proof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform. | 2024-03-20T22:02:53Z |
 | [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [behindsecurity/htb-wifinetictwo-exploit](https://github.com/behindsecurity/htb-wifinetictwo-exploit) | A simple python script to exploit CVE-2021-31630 on HTB WifineticTwo CTF | 2024-04-04T15:12:57Z |
+| [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [mind2hex/CVE-2021-31630](https://github.com/mind2hex/CVE-2021-31630) | OpenPLC 3 WebServer Authenticated Remote Code Execution. | 2024-04-15T16:55:30Z |
 | [CVE-2021-31589](https://www.cve.org/CVERecord?id=CVE-2021-31589) | [karthi-the-hacker/CVE-2021-31589](https://github.com/karthi-the-hacker/CVE-2021-31589) | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | 2023-04-19T09:10:40Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [mutur4/CVE-2021-3156](https://github.com/mutur4/CVE-2021-3156) | no description | 2023-05-11T19:38:16Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) | 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接 | 2022-10-04T03:39:27Z |
