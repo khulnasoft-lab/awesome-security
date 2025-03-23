@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-22 02:19:33.897006
+Last generated: 2025-03-23 02:28:03.310983
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -144,6 +144,7 @@ Last generated: 2025-03-22 02:19:33.897006
 | [CVE-2024-6670](https://www.cve.org/CVERecord?id=CVE-2024-6670) | [sinsinology/CVE-2024-6670](https://github.com/sinsinology/CVE-2024-6670) | no description | 2024-08-30T17:13:14Z |
 | [CVE-2024-6666](https://www.cve.org/CVERecord?id=CVE-2024-6666) | [labc-dev/CVE-2024-6666](https://github.com/labc-dev/CVE-2024-6666) | no description | 2024-07-23T09:37:20Z |
 | [CVE-2024-6624](https://www.cve.org/CVERecord?id=CVE-2024-6624) | [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624) | JSON API User &lt;= 3.9.3 - Unauthenticated Privilege Escalation | 2024-09-10T12:08:55Z |
+| [CVE-2024-6624](https://www.cve.org/CVERecord?id=CVE-2024-6624) | [Jenderal92/CVE-2024-6624](https://github.com/Jenderal92/CVE-2024-6624) | This is a Python script that exploits the CVE-2024-6624 vulnerability in the JSON API User &lt;= 3.9.3 plugin for WordPress. | 2025-02-06T11:11:07Z |
 | [CVE-2024-6592](https://www.cve.org/CVERecord?id=CVE-2024-6592) | [RedTeamPentesting/watchguard-sso-client](https://github.com/RedTeamPentesting/watchguard-sso-client) | Client Implementation for the WatchGuard SSO Agent Protocol used for Security Research (CVE-2024-6592, CVE-2024-6593, CVE-2024-6594) | 2024-09-17T14:01:10Z |
 | [CVE-2024-6536](https://www.cve.org/CVERecord?id=CVE-2024-6536) | [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536) | no description | 2024-07-31T14:31:56Z |
 | [CVE-2024-6529](https://www.cve.org/CVERecord?id=CVE-2024-6529) | [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529) | no description | 2024-08-02T20:02:39Z |
@@ -584,6 +585,7 @@ Last generated: 2025-03-22 02:19:33.897006
 | [CVE-2024-48652](https://www.cve.org/CVERecord?id=CVE-2024-48652) | [paragbagul111/CVE-2024-48652](https://github.com/paragbagul111/CVE-2024-48652) | Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field | 2024-10-19T10:06:58Z |
 | [CVE-2024-48644](https://www.cve.org/CVERecord?id=CVE-2024-48644) | [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644) | Reolink Duo 2 WiFi v1.0.280 - Account Enumeration Vulnerability | 2024-10-17T23:27:04Z |
 | [CVE-2024-48605](https://www.cve.org/CVERecord?id=CVE-2024-48605) | [surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack) | Helakuru Version 1.1 DLL Hijack - CVE-2024-48605 | 2024-09-25T18:23:06Z |
+| [CVE-2024-48589](https://www.cve.org/CVERecord?id=CVE-2024-48589) | [Exek1el/CVE-2024-48589](https://github.com/Exek1el/CVE-2024-48589) | no description | 2024-09-25T08:11:29Z |
 | [CVE-2024-48569](https://www.cve.org/CVERecord?id=CVE-2024-48569) | [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569) | Proof of concept of multiple Stored Cross-Site Scripting (XSS) vulnerabilities discovered in ACI Worldwide Proactive Risk Manager v 9.1.1.0 | 2024-10-27T08:29:59Z |
 | [CVE-2024-48427](https://www.cve.org/CVERecord?id=CVE-2024-48427) | [vighneshnair7/CVE-2024-48427](https://github.com/vighneshnair7/CVE-2024-48427) | no description | 2024-10-24T09:50:31Z |
 | [CVE-2024-48415](https://www.cve.org/CVERecord?id=CVE-2024-48415) | [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415) | no description | 2024-10-19T06:58:56Z |
@@ -994,6 +996,7 @@ Last generated: 2025-03-22 02:19:33.897006
 | [CVE-2024-38193](https://www.cve.org/CVERecord?id=CVE-2024-38193) | [killvxk/CVE-2024-38193-Nephster](https://github.com/killvxk/CVE-2024-38193-Nephster) | no description | 2024-12-03T08:56:59Z |
 | [CVE-2024-38189](https://www.cve.org/CVERecord?id=CVE-2024-38189) | [vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189) | no description | 2024-08-20T12:41:57Z |
 | [CVE-2024-38144](https://www.cve.org/CVERecord?id=CVE-2024-38144) | [Dor00tkit/CVE-2024-38144](https://github.com/Dor00tkit/CVE-2024-38144) | CVE-2024-38144 - DoS PoC | 2024-09-29T07:04:58Z |
+| [CVE-2024-38143](https://www.cve.org/CVERecord?id=CVE-2024-38143) | [redr0nin/CVE-2024-38143](https://github.com/redr0nin/CVE-2024-38143) | Windows WLAN AutoConfig Service Elevation of Privilege Vulnerability | 2025-02-05T18:31:35Z |
 | [CVE-2024-38127](https://www.cve.org/CVERecord?id=CVE-2024-38127) | [pwndorei/CVE-2024-38127](https://github.com/pwndorei/CVE-2024-38127) | no description | 2024-09-15T07:38:44Z |
 | [CVE-2024-38124](https://www.cve.org/CVERecord?id=CVE-2024-38124) | [tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468) | no description | 2024-10-25T14:53:12Z |
 | [CVE-2024-38100](https://www.cve.org/CVERecord?id=CVE-2024-38100) | [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC) | CVE-2024-38100 Windows Leaked Wallpaper Escelation to RCE vulnerability | 2024-08-06T18:26:50Z |
@@ -6290,6 +6293,7 @@ Last generated: 2025-03-22 02:19:33.897006
 | [CVE-2018-25031](https://www.cve.org/CVERecord?id=CVE-2018-25031) | [dybrkr/wifi_leak](https://github.com/dybrkr/wifi_leak) | [CVE-2018-4084] | 2022-06-20T21:10:22Z |
 | [CVE-2018-20580](https://www.cve.org/CVERecord?id=CVE-2018-20580) | [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580) | A proof of concept for ReadyAPI 2.5.0/2.6.0 Remote Code Execution Vulnerability. | 2019-05-03T17:53:17Z |
 | [CVE-2018-20463](https://www.cve.org/CVERecord?id=CVE-2018-20463) | [Henry4E36/CVE-2018-20463](https://github.com/Henry4E36/CVE-2018-20463) | WordPress JSmol2WP Plugin 1.07版本中存在安全漏洞。攻击者可利用该漏洞读取任意文件。 | 2022-08-22T00:37:14Z |
+| [CVE-2018-2025001](https://www.cve.org/CVERecord?id=CVE-2018-2025001) | [QAX-A-Team/CVE-2018-20250](https://github.com/QAX-A-Team/CVE-2018-20250) | 010 Editor template for ACE archive format &amp; CVE-2018-2025[0-3] | 2019-02-22T06:47:01Z |
 | [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [tzwlhack/CVE-2018-20250](https://github.com/tzwlhack/CVE-2018-20250) | no description | 2022-03-25T13:02:41Z |
 | [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [zeronohacker/CVE-2018-20250](https://github.com/zeronohacker/CVE-2018-20250) | CVE-2018-20250 | 2021-08-02T01:24:01Z |
 | [CVE-2018-20164](https://www.cve.org/CVERecord?id=CVE-2018-20164) | [ossf-cve-benchmark/CVE-2018-20164](https://github.com/ossf-cve-benchmark/CVE-2018-20164) | no description | 2020-12-01T08:06:11Z |
