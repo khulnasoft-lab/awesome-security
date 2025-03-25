@@ -2,11 +2,17 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-24 02:26:57.272536
+Last generated: 2025-03-25 02:23:49.268900
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
+| [CVE-2025-26125](https://www.cve.org/CVERecord?id=CVE-2025-26125) | [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125) | (0day) Local Privilege Escalation in IObit Malware Fighter | 2025-01-08T05:50:07Z |
+| [CVE-2025-22968](https://www.cve.org/CVERecord?id=CVE-2025-22968) | [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968) | no description | 2025-01-05T06:51:58Z |
+| [CVE-2025-22510](https://www.cve.org/CVERecord?id=CVE-2025-22510) | [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510) | PoC of CVE-2025-22510 | 2025-01-08T01:02:02Z |
+| [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser) | A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887. | 2025-01-19T09:02:37Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [AnonStorks/CVE-2025-0282-Full-version](https://github.com/AnonStorks/CVE-2025-0282-Full-version) | # CVE-2025-0282: Remote Code Execution Vulnerability in [StorkS] | 2025-01-12T11:58:40Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [absholi7ly/CVE-2025-0282-Ivanti-exploit](https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit) | CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit. | 2025-01-11T02:06:51Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9950](https://www.cve.org/CVERecord?id=CVE-2024-9950) | [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC) | Forescout SecureConnector &lt;= 11.3.07 | 2025-01-12T03:47:28Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
@@ -335,6 +341,7 @@ Last generated: 2025-03-24 02:26:57.272536
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [virus-or-not/CVE-2024-55591](https://github.com/virus-or-not/CVE-2024-55591) | An Authentication Bypass Using an Alternate Path or Channel vulnerability [CWE-288] affecting FortiOS and FortiProxy may allow a remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module. | 2025-01-24T20:29:56Z |
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [rawtips/CVE-2024-55591](https://github.com/rawtips/CVE-2024-55591) | #PoC for CVE-2024-55591 Authentication bypass Affects: FortiOS 7.0.0 to 7.0.16 , FortiProxy 7.0.0 to 7.0.19 ,FortiProxy 7.2.0 to 7.2.12 | 2025-01-29T19:39:10Z |
 | [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591) | no description | 2025-01-27T06:25:53Z |
+| [CVE-2024-55591](https://www.cve.org/CVERecord?id=CVE-2024-55591) | [0x7556/CVE-2024-55591](https://github.com/0x7556/CVE-2024-55591) | no description | 2025-02-09T14:00:58Z |
 | [CVE-2024-55587](https://www.cve.org/CVERecord?id=CVE-2024-55587) | [CSIRTTrizna/CVE-2024-55587](https://github.com/CSIRTTrizna/CVE-2024-55587) | no description | 2024-12-10T06:59:00Z |
 | [CVE-2024-55557](https://www.cve.org/CVERecord?id=CVE-2024-55557) | [partywavesec/CVE-2024-55557](https://github.com/partywavesec/CVE-2024-55557) | CVE-2024-55557 | 2024-12-10T20:38:03Z |
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
@@ -959,6 +966,7 @@ Last generated: 2025-03-24 02:26:57.272536
 | [CVE-2024-39210](https://www.cve.org/CVERecord?id=CVE-2024-39210) | [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210) | Best house rental management system Local file contains vulnerability | 2024-07-05T08:01:22Z |
 | [CVE-2024-39205](https://www.cve.org/CVERecord?id=CVE-2024-39205) | [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE) | Pyload RCE with js2py sandbox escape | 2024-10-26T01:01:35Z |
 | [CVE-2024-39203](https://www.cve.org/CVERecord?id=CVE-2024-39203) | [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203) | A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload. | 2024-07-04T02:30:17Z |
+| [CVE-2024-39199](https://www.cve.org/CVERecord?id=CVE-2024-39199) | [phtcloud-dev/CVE-2024-39199](https://github.com/phtcloud-dev/CVE-2024-39199) | CVE-2024-39119 - CNVD-2024-31551 POC | 2024-06-18T16:36:12Z |
 | [CVE-2024-39123](https://www.cve.org/CVERecord?id=CVE-2024-39123) | [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit) | Exploit For: CVE-2024-39123: Stored XSS in Calibre-web 0.6.21 | 2025-01-10T20:05:24Z |
 | [CVE-2024-39123](https://www.cve.org/CVERecord?id=CVE-2024-39123) | [FelinaeBlanc/CVE_2024_39123](https://github.com/FelinaeBlanc/CVE_2024_39123) | Démonstration de l&#x27;explotation de la CVE CVE_2024_39123 | 2025-02-01T14:33:57Z |
 | [CVE-2024-39090](https://www.cve.org/CVERecord?id=CVE-2024-39090) | [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC) | This PoC script exploits CVE-2024-39090, a CSRF to Stored XSS vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates CSRF attacks to inject persistent JavaScript payloads, which execute when a privileged user accesses the affected page, enabling actions such as session hijacking or credential theft. | 2024-11-27T14:55:58Z |
@@ -4808,6 +4816,7 @@ Last generated: 2025-03-24 02:26:57.272536
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC) | no description | 2023-04-09T09:07:26Z |
 | [CVE-2022-29361](https://www.cve.org/CVERecord?id=CVE-2022-29361) | [l3ragio/CVE-2022-29361_Werkzeug_Client-Side-Desync-to-XSS](https://github.com/l3ragio/CVE-2022-29361_Werkzeug_Client-Side-Desync-to-XSS) | no description | 2023-11-25T12:56:50Z |
 | [CVE-2022-29078](https://www.cve.org/CVERecord?id=CVE-2022-29078) | [liam-star-black-master/expluatation_CVE-2022-29078](https://github.com/liam-star-black-master/expluatation_CVE-2022-29078) | no description | 2023-07-26T18:42:09Z |
+| [CVE-2022-29072](https://www.cve.org/CVERecord?id=CVE-2022-29072) | [rasan2001/CVE-2022-29072](https://github.com/rasan2001/CVE-2022-29072) | no description | 2024-05-10T16:13:15Z |
 | [CVE-2022-29063](https://www.cve.org/CVERecord?id=CVE-2022-29063) | [mbadanoiu/CVE-2022-29063](https://github.com/mbadanoiu/CVE-2022-29063) | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | 2023-12-17T21:11:30Z |
 | [CVE-2022-28672](https://www.cve.org/CVERecord?id=CVE-2022-28672) | [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672) | Foxit PDF Reader Remote Code Execution Exploit | 2022-12-02T18:52:20Z |
 | [CVE-2022-28368](https://www.cve.org/CVERecord?id=CVE-2022-28368) | [rvizx/CVE-2022-28368](https://github.com/rvizx/CVE-2022-28368) | Dompdf RCE PoC Exploit - CVE-2022-28368 | 2023-02-13T08:10:00Z |
@@ -5961,6 +5970,7 @@ Last generated: 2025-03-24 02:26:57.272536
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933) | InfluxDB CVE-2019-20933 vulnerability exploit | 2021-04-28T16:25:31Z |
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933) | no description | 2021-07-24T11:12:13Z |
 | [CVE-2019-20372](https://www.cve.org/CVERecord?id=CVE-2019-20372) | [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372) | no description | 2022-04-06T16:53:28Z |
+| [CVE-2019-2025](https://www.cve.org/CVERecord?id=CVE-2019-2025) | [jltxgcy/CVE_2019_2025_EXP](https://github.com/jltxgcy/CVE_2019_2025_EXP) | no description | 2019-09-30T02:40:21Z |
 | [CVE-2019-20174](https://www.cve.org/CVERecord?id=CVE-2019-20174) | [ossf-cve-benchmark/CVE-2019-20174](https://github.com/ossf-cve-benchmark/CVE-2019-20174) | no description | 2020-12-01T09:18:58Z |
 | [CVE-2019-20149](https://www.cve.org/CVERecord?id=CVE-2019-20149) | [ossf-cve-benchmark/CVE-2019-20149](https://github.com/ossf-cve-benchmark/CVE-2019-20149) | no description | 2020-12-01T09:18:58Z |
 | [CVE-2019-20059](https://www.cve.org/CVERecord?id=CVE-2019-20059) | [cve-vuln/CVE-2019-20059](https://github.com/cve-vuln/CVE-2019-20059) | Yetishare SQL Injection in sSortDir_0 parameter - v3.5.2 - v4.5.4. Apart from an admin being able to exploit this, it could also be used in a CSRF attack to trick an admin user into running malicious queries. | 2020-03-04T17:41:52Z |
@@ -6317,6 +6327,11 @@ Last generated: 2025-03-24 02:26:57.272536
 | [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [STP5940/CVE-2018-20250](https://github.com/STP5940/CVE-2018-20250) | no description | 2019-02-28T17:07:52Z |
 | [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [blunden/UNACEV2.DLL-CVE-2018-20250](https://github.com/blunden/UNACEV2.DLL-CVE-2018-20250) | A version of the binary patched to address CVE-2018-20250 | 2019-02-22T14:19:20Z |
 | [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [nmweizi/CVE-2018-20250-poc-winrar](https://github.com/nmweizi/CVE-2018-20250-poc-winrar) | no description | 2019-02-22T13:18:14Z |
+| [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [LamSonBinh/CVE-2018-20250](https://github.com/LamSonBinh/CVE-2018-20250) | no description | 2024-04-26T01:18:45Z |
+| [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [tannlh/CVE-2018-20250](https://github.com/tannlh/CVE-2018-20250) | no description | 2023-12-26T11:01:32Z |
+| [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [eastmountyxz/CVE-2018-20250-WinRAR](https://github.com/eastmountyxz/CVE-2018-20250-WinRAR) | 这资源是作者复现微软签字证书漏洞CVE-2020-0601，结合相关资源及文章实现。推荐大家结合作者博客，复现了该漏洞和理解恶意软件自启动劫持原理。作为网络安全初学者，自己确实很菜，但希望坚持下去，一起加油！ | 2020-02-17T15:08:22Z |
+| [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [lxg5763/cve-2018-20250](https://github.com/lxg5763/cve-2018-20250) | CVE-2018-20250漏洞利用 | 2020-05-13T03:28:04Z |
+| [CVE-2018-20250](https://www.cve.org/CVERecord?id=CVE-2018-20250) | [WyAtu/CVE-2018-20250](https://github.com/WyAtu/CVE-2018-20250) | exp for https://research.checkpoint.com/extracting-code-execution-from-winrar | 2019-02-22T04:52:08Z |
 | [CVE-2018-20164](https://www.cve.org/CVERecord?id=CVE-2018-20164) | [ossf-cve-benchmark/CVE-2018-20164](https://github.com/ossf-cve-benchmark/CVE-2018-20164) | no description | 2020-12-01T08:06:11Z |
 | [CVE-2018-20162](https://www.cve.org/CVERecord?id=CVE-2018-20162) | [stigtsp/CVE-2018-20162-digi-lr54-restricted-shell-escape](https://github.com/stigtsp/CVE-2018-20162-digi-lr54-restricted-shell-escape) | no description | 2019-02-14T02:20:13Z |
 | [CVE-2018-20162](https://www.cve.org/CVERecord?id=CVE-2018-20162) | [Cryptiiiic/skybreak](https://github.com/Cryptiiiic/skybreak) | 8.4.1 Jailbreak using CVE-2016-4655 / CVE-2016-4656 | 2018-01-09T07:44:50Z |
@@ -8046,3 +8061,4 @@ Last generated: 2025-03-24 02:26:57.272536
 | CVE NOT FOUND | [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit) | no description | 2025-01-07T13:21:50Z |
 | CVE NOT FOUND | [0xsu3ks/CVE-POC-2024](https://github.com/0xsu3ks/CVE-POC-2024) | This is a PoC for a CVE in an unpublished application | 2025-01-08T02:50:35Z |
 | CVE NOT FOUND | [team-MineDEV/Cve2021-41379](https://github.com/team-MineDEV/Cve2021-41379) | no description | 2024-03-17T04:50:47Z |
+| CVE NOT FOUND | [teasmiler/CVE-18-20250](https://github.com/teasmiler/CVE-18-20250) | no description | 2023-12-08T06:36:59Z |
