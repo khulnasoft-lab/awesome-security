@@ -2,17 +2,34 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-25 02:23:49.268900
+Last generated: 2025-03-26 02:22:39.878974
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2025-26125](https://www.cve.org/CVERecord?id=CVE-2025-26125) | [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125) | (0day) Local Privilege Escalation in IObit Malware Fighter | 2025-01-08T05:50:07Z |
+| [CVE-2025-24659](https://www.cve.org/CVERecord?id=CVE-2025-24659) | [DoTTak/CVE-2025-24659](https://github.com/DoTTak/CVE-2025-24659) | PoC of CVE-2025-24659 | 2025-01-31T01:01:49Z |
+| [CVE-2025-24587](https://www.cve.org/CVERecord?id=CVE-2025-24587) | [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587) | PoC of CVE-2025-24587 | 2025-01-31T00:54:20Z |
+| [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
+| [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085) | CVE-2025-24085: Incorrect Default Permissions (CWE-276) | 2025-01-30T11:08:45Z |
 | [CVE-2025-22968](https://www.cve.org/CVERecord?id=CVE-2025-22968) | [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968) | no description | 2025-01-05T06:51:58Z |
+| [CVE-2025-22964](https://www.cve.org/CVERecord?id=CVE-2025-22964) | [padayali-JD/CVE-2025-22964](https://github.com/padayali-JD/CVE-2025-22964) | no description | 2025-01-14T18:52:01Z |
+| [CVE-2025-22828](https://www.cve.org/CVERecord?id=CVE-2025-22828) | [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828) | Apache CloudStack vulnerability allows unauthorized access to annotations on certain resources. | 2025-01-30T19:26:38Z |
+| [CVE-2025-22785](https://www.cve.org/CVERecord?id=CVE-2025-22785) | [RandomRobbieBF/CVE-2025-22785](https://github.com/RandomRobbieBF/CVE-2025-22785) | Course Booking System &lt;= 6.0.5 - Unauthenticated SQL Injection | 2025-01-23T10:21:22Z |
+| [CVE-2025-22783](https://www.cve.org/CVERecord?id=CVE-2025-22783) | [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783) | PoC of CVE-2025-22783 | 2025-01-15T00:48:09Z |
+| [CVE-2025-22710](https://www.cve.org/CVERecord?id=CVE-2025-22710) | [DoTTak/CVE-2025-22710](https://github.com/DoTTak/CVE-2025-22710) | PoC of CVE-2025-22710 | 2025-01-16T00:35:29Z |
+| [CVE-2025-22620](https://www.cve.org/CVERecord?id=CVE-2025-22620) | [EliahKagan/checkout-index](https://github.com/EliahKagan/checkout-index) | Reproducer for CVE-2025-22620 | 2025-01-19T05:31:13Z |
 | [CVE-2025-22510](https://www.cve.org/CVERecord?id=CVE-2025-22510) | [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510) | PoC of CVE-2025-22510 | 2025-01-08T01:02:02Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
+| [CVE-2025-21385](https://www.cve.org/CVERecord?id=CVE-2025-21385) | [Pauloxc6/CVE-2025-21385](https://github.com/Pauloxc6/CVE-2025-21385) | The SSRF vulnerability in Microsoft Purview | 2025-01-16T00:14:12Z |
+| [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298) | Proof of concept &amp; details for CVE-2025-21298 | 2025-01-20T18:16:51Z |
+| [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC) | 7-Zip Mark-of-the-Web绕过漏洞PoC(CVE-2025-0411) | 2025-01-27T07:32:09Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser) | A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887. | 2025-01-19T09:02:37Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [AnonStorks/CVE-2025-0282-Full-version](https://github.com/AnonStorks/CVE-2025-0282-Full-version) | # CVE-2025-0282: Remote Code Execution Vulnerability in [StorkS] | 2025-01-12T11:58:40Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [absholi7ly/CVE-2025-0282-Ivanti-exploit](https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit) | CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit. | 2025-01-11T02:06:51Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [AdaniKamal/CVE-2025-0282](https://github.com/AdaniKamal/CVE-2025-0282) | Ivanti Connect Secure, Policy Secure &amp; ZTA Gateways - CVE-2025-0282 | 2025-01-28T07:56:05Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [almanatra/CVE-2025-0282](https://github.com/almanatra/CVE-2025-0282) | Exploit for CVE-2025-0282: A remote unauthenticated stack based buffer overflow affecting Ivanti Connect Secure, Ivanti Policy Secure, and Ivanti Neurons for ZTA gateways | 2025-01-22T08:14:54Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [watchtowrlabs/CVE-2025-0282](https://github.com/watchtowrlabs/CVE-2025-0282) | Ivanti Connect Secure IFT TLS Stack Overflow pre-auth RCE (CVE-2025-0282) | 2025-01-15T18:27:12Z |
+| [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [sfewer-r7/CVE-2025-0282](https://github.com/sfewer-r7/CVE-2025-0282) | PoC for CVE-2025-0282: A remote unauthenticated stack based buffer overflow affecting Ivanti Connect Secure, Ivanti Policy Secure, and Ivanti Neurons for ZTA gateways | 2025-01-16T14:45:53Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9950](https://www.cve.org/CVERecord?id=CVE-2024-9950) | [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC) | Forescout SecureConnector &lt;= 11.3.07 | 2025-01-12T03:47:28Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
@@ -1750,6 +1767,7 @@ Last generated: 2025-03-25 02:23:49.268900
 | [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348) | Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit | 2024-06-03T19:08:24Z |
 | [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348) | Apache HugeGraph Server RCE Scanner ( CVE-2024-27348 ) | 2024-05-31T20:11:37Z |
 | [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE](https://github.com/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE) | no description | 2024-06-12T08:14:39Z |
+| [CVE-2024-27348](https://www.cve.org/CVERecord?id=CVE-2024-27348) | [p0et08/CVE-2024-27348](https://github.com/p0et08/CVE-2024-27348) | This is a repository for Apache HugeGraph Remote Code Execution vulnerability(CVE-2024-27348)) | 2025-02-10T03:24:18Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316) | Proof of concept (PoC) for CVE-2024-27316 (tested), CVE-2024-30255 (untested), CVE-2024-31309 (untested), CVE-2024-28182 (untested), CVE-2024-2653 (untested) and CVE-2024-27919 (untested) | 2024-04-09T08:08:07Z |
 | [CVE-2024-27316](https://www.cve.org/CVERecord?id=CVE-2024-27316) | [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc) | no description | 2024-04-17T20:08:05Z |
 | [CVE-2024-27292](https://www.cve.org/CVERecord?id=CVE-2024-27292) | [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292) | CVE-2024-27292 : Docassemble V1.4.96 Unauthenticated Path Traversal | 2024-07-02T04:41:35Z |
@@ -2232,6 +2250,7 @@ Last generated: 2025-03-25 02:23:49.268900
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [HYZ3K/CVE-2024-21413](https://github.com/HYZ3K/CVE-2024-21413) | Microsoft Outlook Remote Code Execution Vulnerability. | 2024-08-01T05:53:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [ThemeHackers/CVE-2024-21413](https://github.com/ThemeHackers/CVE-2024-21413) | CVE-2024-21413 - Microsoft Outlook Remote Code Execution Vulnerability PoC | 2024-08-31T13:18:43Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB](https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB) | no description | 2024-12-04T10:26:37Z |
+| [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Cyber-Trambon/CVE-2024-21413-exploit](https://github.com/Cyber-Trambon/CVE-2024-21413-exploit) | no description | 2025-02-10T20:19:42Z |
 | [CVE-2024-21412](https://www.cve.org/CVERecord?id=CVE-2024-21412) | [lsr00ter/CVE-2024-21412_Water-Hydra](https://github.com/lsr00ter/CVE-2024-21412_Water-Hydra) | according to trendmicro&#x27;s research | 2024-03-21T15:57:51Z |
 | [CVE-2024-21400](https://www.cve.org/CVERecord?id=CVE-2024-21400) | [MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC) | CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0. | 2024-03-13T14:01:26Z |
 | [CVE-2024-21388](https://www.cve.org/CVERecord?id=CVE-2024-21388) | [d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388) | This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API. | 2024-03-28T09:31:31Z |
@@ -4756,6 +4775,7 @@ Last generated: 2025-03-25 02:23:49.268900
 | [CVE-2022-34753](https://www.cve.org/CVERecord?id=CVE-2022-34753) | [K3ysTr0K3R/CVE-2022-34753-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT) | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | 2023-09-22T20:41:19Z |
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection) | no description | 2023-04-18T04:26:49Z |
 | [CVE-2022-34527](https://www.cve.org/CVERecord?id=CVE-2022-34527) | [dkjiayu/dkjiayu.github.io](https://github.com/dkjiayu/dkjiayu.github.io) | POC for cve-2022-22620 | 2022-11-11T06:35:25Z |
+| [CVE-2022-34169](https://www.cve.org/CVERecord?id=CVE-2022-34169) | [Disnaming/CVE-2022-34169](https://github.com/Disnaming/CVE-2022-34169) | A PoC for CVE-2022-34169, for the SU_PWN challenge from SUCTF 2025 | 2025-01-17T15:32:37Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [IMHarman/CVE-2022-33891](https://github.com/IMHarman/CVE-2022-33891) | no description | 2023-09-15T12:49:58Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [elsvital/cve-2022-33891-fix](https://github.com/elsvital/cve-2022-33891-fix) | no description | 2023-11-26T13:09:28Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [K3ysTr0K3R/CVE-2022-33891-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT) | A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE) | 2024-02-22T15:05:00Z |
@@ -4774,6 +4794,7 @@ Last generated: 2025-03-25 02:23:49.268900
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [dkstar11q/CVE-2022-31814](https://github.com/dkstar11q/CVE-2022-31814) | pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2023-03-26T17:22:40Z |
 | [CVE-2022-3172](https://www.cve.org/CVERecord?id=CVE-2022-3172) | [UgOrange/CVE-2022-3172](https://github.com/UgOrange/CVE-2022-3172) | no description | 2024-04-02T11:53:54Z |
 | [CVE-2022-31692](https://www.cve.org/CVERecord?id=CVE-2022-31692) | [hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692) | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | 2023-10-29T17:31:23Z |
+| [CVE-2022-31626](https://www.cve.org/CVERecord?id=CVE-2022-31626) | [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626) | no description | 2022-12-06T16:19:03Z |
 | [CVE-2022-31007](https://www.cve.org/CVERecord?id=CVE-2022-31007) | [gregscharf/CVE-2022-31007-Python-POC](https://github.com/gregscharf/CVE-2022-31007-Python-POC) | elabFTW &lt; 4.1.0 - account lockout bypass and login brute force | 2022-12-01T22:53:59Z |
 | [CVE-2022-30780](https://www.cve.org/CVERecord?id=CVE-2022-30780) | [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service) | CVE-2022-30780 - lighttpd remote denial of service | 2022-05-18T12:01:17Z |
 | [CVE-2022-30525](https://www.cve.org/CVERecord?id=CVE-2022-30525) | [arajsingh-infosec/CVE-2022-30525_Exploit](https://github.com/arajsingh-infosec/CVE-2022-30525_Exploit) | Exploit for CVE-2022-30525 | 2024-02-27T03:31:37Z |
@@ -8062,3 +8083,4 @@ Last generated: 2025-03-25 02:23:49.268900
 | CVE NOT FOUND | [0xsu3ks/CVE-POC-2024](https://github.com/0xsu3ks/CVE-POC-2024) | This is a PoC for a CVE in an unpublished application | 2025-01-08T02:50:35Z |
 | CVE NOT FOUND | [team-MineDEV/Cve2021-41379](https://github.com/team-MineDEV/Cve2021-41379) | no description | 2024-03-17T04:50:47Z |
 | CVE NOT FOUND | [teasmiler/CVE-18-20250](https://github.com/teasmiler/CVE-18-20250) | no description | 2023-12-08T06:36:59Z |
+| CVE NOT FOUND | [M-nj/cvelistv5-2025-01-23-corrector](https://github.com/M-nj/cvelistv5-2025-01-23-corrector) | for testing next corrector run on cvelistv5 | 2025-01-23T14:56:32Z |
