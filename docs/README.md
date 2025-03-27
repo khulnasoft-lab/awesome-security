@@ -2,26 +2,41 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-03-26 02:22:39.878974
+Last generated: 2025-03-27 02:22:45.127240
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2025-26125](https://www.cve.org/CVERecord?id=CVE-2025-26125) | [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125) | (0day) Local Privilege Escalation in IObit Malware Fighter | 2025-01-08T05:50:07Z |
+| [CVE-2025-25965](https://www.cve.org/CVERecord?id=CVE-2025-25965) | [Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965) | CVE-2025-25965 is a newly discovered CSRF vulnerability in the Phpgurukul Online Banquet Booking System v1.2, allowing remote attackers to change a user’s email address without their consent by exploiting an authenticated session. | 2025-02-15T16:03:11Z |
+| [CVE-2025-25964](https://www.cve.org/CVERecord?id=CVE-2025-25964) | [Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964) | A critical SQL Injection vulnerability (CVE-2025-25964) discovered in the School Information Management System v1.0 | 2025-02-15T15:22:34Z |
+| [CVE-2025-25163](https://www.cve.org/CVERecord?id=CVE-2025-25163) | [RandomRobbieBF/CVE-2025-25163](https://github.com/RandomRobbieBF/CVE-2025-25163) | Plugin A/B Image Optimizer &lt;= 3.3 - Authenticated (Subscriber+) Arbitrary File Download | 2025-02-18T10:25:40Z |
+| [CVE-2025-25064](https://www.cve.org/CVERecord?id=CVE-2025-25064) | [yelang123/Zimbra10_SQL_Injection](https://github.com/yelang123/Zimbra10_SQL_Injection) | Zimbra 10 SQL Injection (CVE-2025-25064) Analysis Article | 2025-02-15T04:16:28Z |
+| [CVE-2025-25062](https://www.cve.org/CVERecord?id=CVE-2025-25062) | [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062) | Backdrop CMS 1.29.2 - Privilege Escalation via Stored XSS + CSRF | 2024-12-14T20:25:33Z |
 | [CVE-2025-24659](https://www.cve.org/CVERecord?id=CVE-2025-24659) | [DoTTak/CVE-2025-24659](https://github.com/DoTTak/CVE-2025-24659) | PoC of CVE-2025-24659 | 2025-01-31T01:01:49Z |
 | [CVE-2025-24587](https://www.cve.org/CVERecord?id=CVE-2025-24587) | [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587) | PoC of CVE-2025-24587 | 2025-01-31T00:54:20Z |
+| [CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200) | [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200) | CVE-2025-24200 - Incorrect Authorization | 2025-02-11T15:05:25Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
+| [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118) | no description | 2025-02-01T22:20:18Z |
 | [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085) | CVE-2025-24085: Incorrect Default Permissions (CWE-276) | 2025-01-30T11:08:45Z |
+| [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template) | no description | 2025-02-13T06:38:43Z |
+| [CVE-2025-23369](https://www.cve.org/CVERecord?id=CVE-2025-23369) | [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass) | bypass SAML authentication on GitHub Enterprise | 2025-02-09T04:47:09Z |
+| [CVE-2025-23369](https://www.cve.org/CVERecord?id=CVE-2025-23369) | [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369) | GitHub Entreprise Server SAML authentication bypass (CVE-2025-23369) exploit | 2025-02-08T18:13:04Z |
+| [CVE-2025-23040](https://www.cve.org/CVERecord?id=CVE-2025-23040) | [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040) | no description | 2025-01-31T21:27:42Z |
 | [CVE-2025-22968](https://www.cve.org/CVERecord?id=CVE-2025-22968) | [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968) | no description | 2025-01-05T06:51:58Z |
 | [CVE-2025-22964](https://www.cve.org/CVERecord?id=CVE-2025-22964) | [padayali-JD/CVE-2025-22964](https://github.com/padayali-JD/CVE-2025-22964) | no description | 2025-01-14T18:52:01Z |
 | [CVE-2025-22828](https://www.cve.org/CVERecord?id=CVE-2025-22828) | [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828) | Apache CloudStack vulnerability allows unauthorized access to annotations on certain resources. | 2025-01-30T19:26:38Z |
 | [CVE-2025-22785](https://www.cve.org/CVERecord?id=CVE-2025-22785) | [RandomRobbieBF/CVE-2025-22785](https://github.com/RandomRobbieBF/CVE-2025-22785) | Course Booking System &lt;= 6.0.5 - Unauthenticated SQL Injection | 2025-01-23T10:21:22Z |
 | [CVE-2025-22783](https://www.cve.org/CVERecord?id=CVE-2025-22783) | [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783) | PoC of CVE-2025-22783 | 2025-01-15T00:48:09Z |
 | [CVE-2025-22710](https://www.cve.org/CVERecord?id=CVE-2025-22710) | [DoTTak/CVE-2025-22710](https://github.com/DoTTak/CVE-2025-22710) | PoC of CVE-2025-22710 | 2025-01-16T00:35:29Z |
+| [CVE-2025-22652](https://www.cve.org/CVERecord?id=CVE-2025-22652) | [DoTTak/CVE-2025-22652](https://github.com/DoTTak/CVE-2025-22652) | PoC of CVE-2025-22652 | 2025-02-04T05:39:49Z |
 | [CVE-2025-22620](https://www.cve.org/CVERecord?id=CVE-2025-22620) | [EliahKagan/checkout-index](https://github.com/EliahKagan/checkout-index) | Reproducer for CVE-2025-22620 | 2025-01-19T05:31:13Z |
 | [CVE-2025-22510](https://www.cve.org/CVERecord?id=CVE-2025-22510) | [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510) | PoC of CVE-2025-22510 | 2025-01-08T01:02:02Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-21385](https://www.cve.org/CVERecord?id=CVE-2025-21385) | [Pauloxc6/CVE-2025-21385](https://github.com/Pauloxc6/CVE-2025-21385) | The SSRF vulnerability in Microsoft Purview | 2025-01-16T00:14:12Z |
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298) | Proof of concept &amp; details for CVE-2025-21298 | 2025-01-20T18:16:51Z |
+| [CVE-2025-1015](https://www.cve.org/CVERecord?id=CVE-2025-1015) | [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015) | an attacker to create and export an address book containing a malicious payload in a field. For example, in the “Other” field of the Instant Messaging section. If another user imported the address book, clicking on the link could result in opening a web page inside Thunderbird, and that page could execute (unprivileged) JavaScript | 2025-02-06T08:35:56Z |
+| [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
+| [CVE-2025-0851](https://www.cve.org/CVERecord?id=CVE-2025-0851) | [skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851) | no description | 2025-02-17T09:33:28Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC) | 7-Zip Mark-of-the-Web绕过漏洞PoC(CVE-2025-0411) | 2025-01-27T07:32:09Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [Hexastrike/Ivanti-Connect-Secure-Logs-Parser](https://github.com/Hexastrike/Ivanti-Connect-Secure-Logs-Parser) | A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887. | 2025-01-19T09:02:37Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [AnonStorks/CVE-2025-0282-Full-version](https://github.com/AnonStorks/CVE-2025-0282-Full-version) | # CVE-2025-0282: Remote Code Execution Vulnerability in [StorkS] | 2025-01-12T11:58:40Z |
@@ -30,6 +45,8 @@ Last generated: 2025-03-26 02:22:39.878974
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [almanatra/CVE-2025-0282](https://github.com/almanatra/CVE-2025-0282) | Exploit for CVE-2025-0282: A remote unauthenticated stack based buffer overflow affecting Ivanti Connect Secure, Ivanti Policy Secure, and Ivanti Neurons for ZTA gateways | 2025-01-22T08:14:54Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [watchtowrlabs/CVE-2025-0282](https://github.com/watchtowrlabs/CVE-2025-0282) | Ivanti Connect Secure IFT TLS Stack Overflow pre-auth RCE (CVE-2025-0282) | 2025-01-15T18:27:12Z |
 | [CVE-2025-0282](https://www.cve.org/CVERecord?id=CVE-2025-0282) | [sfewer-r7/CVE-2025-0282](https://github.com/sfewer-r7/CVE-2025-0282) | PoC for CVE-2025-0282: A remote unauthenticated stack based buffer overflow affecting Ivanti Connect Secure, Ivanti Policy Secure, and Ivanti Neurons for ZTA gateways | 2025-01-16T14:45:53Z |
+| [CVE-2025-0108](https://www.cve.org/CVERecord?id=CVE-2025-0108) | [FOLKS-iwd/CVE-2025-0108-PoC](https://github.com/FOLKS-iwd/CVE-2025-0108-PoC) | This repository contains a Proof of Concept (PoC) for the **CVE-2025-0108** vulnerability, which is an **authentication bypass** issue in Palo Alto Networks&#x27; PAN-OS software. The scripts provided here test for the vulnerability by sending a crafted HTTP request to the target systems. | 2025-02-14T13:22:37Z |
+| [CVE-2025-0108](https://www.cve.org/CVERecord?id=CVE-2025-0108) | [iSee857/CVE-2025-0108-PoC](https://github.com/iSee857/CVE-2025-0108-PoC) | Palo Alto Networks PAN-OS 身份验证绕过漏洞批量检测脚本(CVE-2025-0108) | 2025-02-13T06:39:25Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9950](https://www.cve.org/CVERecord?id=CVE-2024-9950) | [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC) | Forescout SecureConnector &lt;= 11.3.07 | 2025-01-12T03:47:28Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
@@ -364,6 +381,7 @@ Last generated: 2025-03-26 02:22:39.878974
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
 | [CVE-2024-55503](https://www.cve.org/CVERecord?id=CVE-2024-55503) | [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503) | no description | 2024-12-05T21:48:21Z |
 | [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
+| [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) | [sahil3276/CVE-2024-55347](https://github.com/sahil3276/CVE-2024-55347) | Public Disclosure of CVE-2024-55347 | 2025-02-11T06:11:26Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
@@ -789,6 +807,7 @@ Last generated: 2025-03-26 02:22:39.878974
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439) | WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block | 2024-05-20T23:39:54Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [soltanali0/CVE-2024-4439](https://github.com/soltanali0/CVE-2024-4439) | aa | 2024-10-10T09:30:11Z |
 | [CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439) | [w0r1i0g1ht/CVE-2024-4439](https://github.com/w0r1i0g1ht/CVE-2024-4439) | CVE-2024-4439 docker and poc | 2024-11-21T13:36:25Z |
+| [CVE-2024-44378](https://www.cve.org/CVERecord?id=CVE-2024-44378) | [aezdmr/CVE-2024-44378](https://github.com/aezdmr/CVE-2024-44378) | no description | 2025-02-11T15:03:17Z |
 | [CVE-2024-44349](https://www.cve.org/CVERecord?id=CVE-2024-44349) | [AndreaF17/PoC-CVE-2024-44349](https://github.com/AndreaF17/PoC-CVE-2024-44349) | no description | 2024-07-26T09:24:37Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346) | Public Disclosure of CVE-2024-44346 | 2024-09-17T18:20:59Z |
 | [CVE-2024-44346](https://www.cve.org/CVERecord?id=CVE-2024-44346) | [Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346) | Public Disclosure | 2024-09-13T10:27:23Z |
@@ -4920,6 +4939,7 @@ Last generated: 2025-03-26 02:22:39.878974
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Inplex-sys/CVE-2022-23093](https://github.com/Inplex-sys/CVE-2022-23093) | The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc | 2023-03-02T20:18:54Z |
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Symbolexe/DrayTek-Exploit](https://github.com/Symbolexe/DrayTek-Exploit) | CVE-2022-23093 FreeBSD Stack-Based Overflow | 2024-03-22T08:38:40Z |
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978) | no description | 2023-03-16T09:34:17Z |
+| [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [wan9xx/CVE-2022-22978-demo](https://github.com/wan9xx/CVE-2022-22978-demo) | CVE-2022-22978漏洞实例代码 | 2024-05-17T07:26:54Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [BKLockly/CVE-2022-22965](https://github.com/BKLockly/CVE-2022-22965) | Poc&amp;Exp,支持批量扫描,反弹shell | 2023-06-03T16:39:50Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC) | CVE-2022-22965 (Spring4Shell) Proof of Concept | 2022-04-04T13:44:39Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z |
@@ -8084,3 +8104,5 @@ Last generated: 2025-03-26 02:22:39.878974
 | CVE NOT FOUND | [team-MineDEV/Cve2021-41379](https://github.com/team-MineDEV/Cve2021-41379) | no description | 2024-03-17T04:50:47Z |
 | CVE NOT FOUND | [teasmiler/CVE-18-20250](https://github.com/teasmiler/CVE-18-20250) | no description | 2023-12-08T06:36:59Z |
 | CVE NOT FOUND | [M-nj/cvelistv5-2025-01-23-corrector](https://github.com/M-nj/cvelistv5-2025-01-23-corrector) | for testing next corrector run on cvelistv5 | 2025-01-23T14:56:32Z |
+| CVE NOT FOUND | [nicolasvisci/SOAS_exam](https://github.com/nicolasvisci/SOAS_exam) | Web app that allows viewing, via NIST API, the first 50 CVEs published in 2025. Through authentication with JWT Token, it is possible to add new CVEs. | 2025-01-28T11:29:01Z |
+| CVE NOT FOUND | [1337g/CVE-2025-X](https://github.com/1337g/CVE-2025-X) | CVE-2025-X | 2025-01-27T14:03:27Z |
