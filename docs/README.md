@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-04 02:23:51.352674
+Last generated: 2025-04-05 02:21:45.577068
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -76,6 +76,8 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [gregk4sec/CVE-2025-24813](https://github.com/gregk4sec/CVE-2025-24813) | Security Researcher | 2025-03-14T05:39:33Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813](https://github.com/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813) | Apache Tomcat Vulnerability POC (CVE-2025-24813) | 2025-03-19T14:32:01Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [msadeghkarimi/CVE-2025-24813-Exploit](https://github.com/msadeghkarimi/CVE-2025-24813-Exploit) | Apache Tomcat Remote Code Execution (RCE) Exploit - CVE-2025-24813 | 2025-03-18T08:42:12Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813) | POC for CVE-2025-24813 using Spring-Boot | 2025-03-20T22:52:00Z |
+| [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [Sachinart/essential-addons-for-elementor-xss-poc](https://github.com/Sachinart/essential-addons-for-elementor-xss-poc) | Hi, I am Chirag Artani. This is the POC of Reflected XSS in Essential Addons for Elementor Affecting 2+ Million Sites - CVE-2025-24752 | 2025-02-26T09:28:45Z |
 | [CVE-2025-24659](https://www.cve.org/CVERecord?id=CVE-2025-24659) | [DoTTak/CVE-2025-24659](https://github.com/DoTTak/CVE-2025-24659) | PoC of CVE-2025-24659 | 2025-01-31T01:01:49Z |
@@ -86,9 +88,14 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2025-24104](https://www.cve.org/CVERecord?id=CVE-2025-24104) | [ifpdz/CVE-2025-24104](https://github.com/ifpdz/CVE-2025-24104) | no description | 2025-01-24T10:41:12Z |
 | [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085) | CVE-2025-24085: Incorrect Default Permissions (CWE-276) | 2025-01-30T11:08:45Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom) | metasploit module for the CVE-2025-24071 | 2025-03-18T14:43:28Z |
+| [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit) | Exploit CVE-2025-24071 | 2025-03-21T02:43:32Z |
+| [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC) | CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File | 2025-03-16T20:10:19Z |
+| [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [ctabango/CVE-2025-24071_PoCExtra](https://github.com/ctabango/CVE-2025-24071_PoCExtra) | Alternativa CVE-2025-24071_PoC | 2025-03-19T21:37:54Z |
+| [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [aleongx/CVE-2025-24071](https://github.com/aleongx/CVE-2025-24071) | Windows File Explorer Spoofing Vulnerability (CVE-2025-24071) | 2025-03-19T18:54:53Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template) | no description | 2025-02-13T06:38:43Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016) | CVE-2025-24016: RCE in Wazuh server!  Remote Code Execution | 2025-02-20T23:31:03Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016) | CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE) | 2025-02-16T11:01:12Z |
+| [CVE-2025-24011](https://www.cve.org/CVERecord?id=CVE-2025-24011) | [Puben/CVE-2025-24011-PoC](https://github.com/Puben/CVE-2025-24011-PoC) | Umbraco User Enum - CVE-2025-24011 PoC | 2025-03-21T11:41:02Z |
 | [CVE-2025-23942](https://www.cve.org/CVERecord?id=CVE-2025-23942) | [Nxploited/CVE-2025-23942-poc](https://github.com/Nxploited/CVE-2025-23942-poc) | WP Load Gallery &lt;= 2.1.6 - Authenticated (Author+) Arbitrary File Upload | 2025-02-25T08:26:22Z |
 | [CVE-2025-23369](https://www.cve.org/CVERecord?id=CVE-2025-23369) | [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass) | bypass SAML authentication on GitHub Enterprise | 2025-02-09T04:47:09Z |
 | [CVE-2025-23369](https://www.cve.org/CVERecord?id=CVE-2025-23369) | [hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369) | GitHub Entreprise Server SAML authentication bypass (CVE-2025-23369) exploit | 2025-02-08T18:13:04Z |
@@ -148,6 +155,7 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2025-0108](https://www.cve.org/CVERecord?id=CVE-2025-0108) | [fr4nc1stein/CVE-2025-0108-SCAN](https://github.com/fr4nc1stein/CVE-2025-0108-SCAN) | Detects an authentication bypass vulnerability in Palo Alto PAN-OS (CVE-2025-0108). | 2025-02-18T21:04:45Z |
 | [CVE-2025-0087](https://www.cve.org/CVERecord?id=CVE-2025-0087) | [SpiralBL0CK/CVE-2025-0087](https://github.com/SpiralBL0CK/CVE-2025-0087) | POC DOS | 2025-03-05T18:53:46Z |
 | [CVE-2025-0087](https://www.cve.org/CVERecord?id=CVE-2025-0087) | [SpiralBL0CK/CVE-2025-0087-](https://github.com/SpiralBL0CK/CVE-2025-0087-) | CVE-2025-0087 EoP full PoC | 2025-03-05T13:31:02Z |
+| [CVE-2025-0086](https://www.cve.org/CVERecord?id=CVE-2025-0086) | [Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086) | no description | 2025-03-20T06:10:23Z |
 | [CVE-2024-9955](https://www.cve.org/CVERecord?id=CVE-2024-9955) | [amfg145/CVE-2024-9955-POC](https://github.com/amfg145/CVE-2024-9955-POC) | Fortinet Privilege Escalation Advisory CVE-2024-9955-POC: Elevation to Domain Admin on FortiOS and FortiProxy | 2024-10-31T20:23:15Z |
 | [CVE-2024-9950](https://www.cve.org/CVERecord?id=CVE-2024-9950) | [0Nightsedge0/CVE-2024-9950-PoC](https://github.com/0Nightsedge0/CVE-2024-9950-PoC) | Forescout SecureConnector &lt;= 11.3.07 | 2025-01-12T03:47:28Z |
 | [CVE-2024-9935](https://www.cve.org/CVERecord?id=CVE-2024-9935) | [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935) | PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download | 2024-11-18T10:14:45Z |
@@ -2564,6 +2572,7 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB) | no description | 2024-12-01T14:43:16Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [Nxploited/CVE-2024-10924-Exploit](https://github.com/Nxploited/CVE-2024-10924-Exploit) | Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 - 9.1.1.1 - Authentication Bypass | 2025-02-02T21:53:29Z |
 | [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [cy3erdr4g0n/CVE-2024-10924](https://github.com/cy3erdr4g0n/CVE-2024-10924) | no description | 2025-02-05T12:04:43Z |
+| [CVE-2024-10924](https://www.cve.org/CVERecord?id=CVE-2024-10924) | [h8sU/wordpress-cve-2024-10924-exploit](https://github.com/h8sU/wordpress-cve-2024-10924-exploit) | A Proof-of-Concept (PoC) exploit for CVE-2024-10924, a vulnerability in the Really Simple SSL WordPress plugin that allows bypassing two-factor authentication (2FA). Includes mitigation techniques to secure affected WordPress sites. | 2025-02-14T13:42:34Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914) | Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection | 2024-11-09T19:30:39Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914) | CVE-2024-10914_Manual testing with burpsuite | 2024-11-13T08:33:16Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-) | 这是一个D-Link rce漏洞 检测程序 | 2024-11-15T07:56:21Z |
@@ -2575,6 +2584,7 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [redspy-sec/D-Link](https://github.com/redspy-sec/D-Link) | CVE-2024-10914 D-Link Remote Code Execution (RCE) | 2024-12-06T19:03:34Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [dragonXZH/CVE-2024-10914](https://github.com/dragonXZH/CVE-2024-10914) | A PoC exploit for CVE-2024-10914 - D-Link Remote Code Execution (RCE) | 2024-12-24T10:32:48Z |
 | [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [silverxpymaster/CVE-2024-10914-Exploit](https://github.com/silverxpymaster/CVE-2024-10914-Exploit) | CVE-2024-10914 Shell Exploit | 2025-02-14T09:22:46Z |
+| [CVE-2024-10914](https://www.cve.org/CVERecord?id=CVE-2024-10914) | [yenyangmjaze/cve-2024-10914](https://github.com/yenyangmjaze/cve-2024-10914) | no description | 2025-02-11T20:03:16Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086) | no description | 2024-04-03T13:09:22Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) | Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images. | 2024-03-20T21:16:41Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [CCIEVoice2009/CVE-2024-1086](https://github.com/CCIEVoice2009/CVE-2024-1086) | no description | 2024-04-30T16:10:37Z |
@@ -3953,6 +3963,7 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2023-33592](https://www.cve.org/CVERecord?id=CVE-2023-33592) | [Acous7icwav3/CVE-2023-33592](https://github.com/Acous7icwav3/CVE-2023-33592) | CVE-2023-33592批量漏洞利用程序 | 2023-07-14T03:15:13Z |
 | [CVE-2023-33592](https://www.cve.org/CVERecord?id=CVE-2023-33592) | [deepinstinct/Storm0978-RomCom-Campaign](https://github.com/deepinstinct/Storm0978-RomCom-Campaign) | Recent Campaign abusing CVE-2023-36884 | 2023-07-13T12:54:00Z |
 | [CVE-2023-33580](https://www.cve.org/CVERecord?id=CVE-2023-33580) | [sudovivek/My-CVE](https://github.com/sudovivek/My-CVE) | Explore CVE-2023-33580 (XSS) &amp; CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights. | 2023-06-04T11:27:20Z |
+| [CVE-2023-33570](https://www.cve.org/CVERecord?id=CVE-2023-33570) | [Trangdz/bagisto_ssti_cve_2023_33570](https://github.com/Trangdz/bagisto_ssti_cve_2023_33570) | no description | 2024-11-05T06:44:10Z |
 | [CVE-2023-33567](https://www.cve.org/CVERecord?id=CVE-2023-33567) | [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567) | Unauthorized Access Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:39:52Z |
 | [CVE-2023-33566](https://www.cve.org/CVERecord?id=CVE-2023-33566) | [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566) | Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:36:33Z |
 | [CVE-2023-33565](https://www.cve.org/CVERecord?id=CVE-2023-33565) | [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565) | Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:26:55Z |
@@ -5486,6 +5497,7 @@ Last generated: 2025-04-04 02:23:51.352674
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [pashayogi/ROOT-CVE-2021-3560](https://github.com/pashayogi/ROOT-CVE-2021-3560) | Polkit 0.105-26 0.117-2 - Local Privilege Escalation | 2023-08-20T14:39:19Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560) | CVE-2021-3560 Bypass su - root | 2023-10-06T15:27:13Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation](https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation) | no description | 2023-12-15T03:38:41Z |
+| [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT) | Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability. | 2024-03-24T11:37:18Z |
 | [CVE-2021-35464](https://www.cve.org/CVERecord?id=CVE-2021-35464) | [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464) | openam-CVE-2021-35464 tomcat 执行命令回显 | 2021-07-01T03:51:32Z |
 | [CVE-2021-35448](https://www.cve.org/CVERecord?id=CVE-2021-35448) | [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448) | Local Privilege Escalation in Remote Mouse 3.008 | 2023-06-11T06:32:12Z |
 | [CVE-2021-35296](https://www.cve.org/CVERecord?id=CVE-2021-35296) | [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296) | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | 2021-09-30T18:18:27Z |
