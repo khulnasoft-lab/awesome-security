@@ -2,13 +2,19 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-05 02:21:45.577068
+Last generated: 2025-04-06 02:28:08.411926
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit) | Proof-of-Concept for Authorization Bypass in Next.js Middleware | 2025-03-23T19:41:05Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-23T12:13:35Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Ademking/CVE-2025-29927](https://github.com/Ademking/CVE-2025-29927) | Next.js Middleware Authorization Bypass | 2025-03-22T18:42:27Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [lirantal/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/lirantal/vulnerable-nextjs-14-CVE-2025-29927) | no description | 2025-03-23T09:22:35Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [serhalp/test-cve-2025-29927](https://github.com/serhalp/test-cve-2025-29927) | Verify Next.js CVE-2025-29927 on Netlify not vulnerable | 2025-03-22T15:58:02Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
@@ -30,6 +36,7 @@ Last generated: 2025-04-05 02:21:45.577068
 | [CVE-2025-26240](https://www.cve.org/CVERecord?id=CVE-2025-26240) | [Habuon/CVE-2025-26240](https://github.com/Habuon/CVE-2025-26240) | POC for CVE-2025-26240 | 2025-03-12T14:09:01Z |
 | [CVE-2025-26206](https://www.cve.org/CVERecord?id=CVE-2025-26206) | [xibhi/CVE-2025-26206](https://github.com/xibhi/CVE-2025-26206) | no description | 2025-02-24T05:53:46Z |
 | [CVE-2025-26202](https://www.cve.org/CVERecord?id=CVE-2025-26202) | [A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details) | CVE-2025-26202 | 2025-03-01T12:05:27Z |
+| [CVE-2025-2620](https://www.cve.org/CVERecord?id=CVE-2025-2620) | [Otsmane-Ahmed/CVE-2025-2620-poc](https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc) | no description | 2025-03-22T15:26:15Z |
 | [CVE-2025-26125](https://www.cve.org/CVERecord?id=CVE-2025-26125) | [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125) | (0day) Local Privilege Escalation in IObit Malware Fighter | 2025-01-08T05:50:07Z |
 | [CVE-2025-26056](https://www.cve.org/CVERecord?id=CVE-2025-26056) | [rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056) | no description | 2025-03-07T18:22:34Z |
 | [CVE-2025-26055](https://www.cve.org/CVERecord?id=CVE-2025-26055) | [rohan-pt/CVE-2025-26055](https://github.com/rohan-pt/CVE-2025-26055) | CVE Description | 2025-03-07T18:21:29Z |
@@ -77,6 +84,8 @@ Last generated: 2025-04-05 02:21:45.577068
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813](https://github.com/michael-david-fry/Apache-Tomcat-Vulnerability-POC-CVE-2025-24813) | Apache Tomcat Vulnerability POC (CVE-2025-24813) | 2025-03-19T14:32:01Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [msadeghkarimi/CVE-2025-24813-Exploit](https://github.com/msadeghkarimi/CVE-2025-24813-Exploit) | Apache Tomcat Remote Code Execution (RCE) Exploit - CVE-2025-24813 | 2025-03-18T08:42:12Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813) | POC for CVE-2025-24813 using Spring-Boot | 2025-03-20T22:52:00Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Alaatk/CVE-2025-24813-POC](https://github.com/Alaatk/CVE-2025-24813-POC) | CVE-2025-24813 Apache Tomcat RCE Proof of Concept (PoC) | 2025-03-21T18:05:27Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC) | A PoC for CVE-2025-24813 | 2025-03-22T15:16:41Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [Sachinart/essential-addons-for-elementor-xss-poc](https://github.com/Sachinart/essential-addons-for-elementor-xss-poc) | Hi, I am Chirag Artani. This is the POC of Reflected XSS in Essential Addons for Elementor Affecting 2+ Million Sites - CVE-2025-24752 | 2025-02-26T09:28:45Z |
