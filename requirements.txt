@@ -1,2 +1,2 @@
-peewee==3.17.5
+peewee==3.17.9
 requests==2.31.0
