@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-07 02:27:39.814151
+Last generated: 2025-04-08 02:24:27.500558
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -20,6 +20,10 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [ticofookfook/poc-nextjs-CVE-2025-29927](https://github.com/ticofookfook/poc-nextjs-CVE-2025-29927) | no description | 2025-03-23T16:04:50Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [6mile/nextjs-CVE-2025-29927](https://github.com/6mile/nextjs-CVE-2025-29927) | A Nuclei template to detect CVE-2025-29927 the Next.js authentication bypass vulnerability | 2025-03-23T08:11:09Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [MuhammadWaseem29/CVE-2025-29927-POC](https://github.com/MuhammadWaseem29/CVE-2025-29927-POC) | Authorization Bypass in Next.js Middleware | 2025-03-23T21:42:09Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [RoyCampos/CVE-2025-29927](https://github.com/RoyCampos/CVE-2025-29927) | CVE-2025-29927 Exploit Checker | 2025-03-24T05:07:02Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [lem0n817/CVE-2025-29927](https://github.com/lem0n817/CVE-2025-29927) | no description | 2025-03-24T15:25:22Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [arvion-agent/next-CVE-2025-29927](https://github.com/arvion-agent/next-CVE-2025-29927) | CVE-2025-29927 Authorization Bypass in Next.js Middleware | 2025-03-24T13:23:46Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [azu/nextjs-cve-2025-29927-poc](https://github.com/azu/nextjs-cve-2025-29927-poc) | Next.js PoC for CVE-2025-29927 | 2025-03-23T08:37:25Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
@@ -92,6 +96,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813) | POC for CVE-2025-24813 using Spring-Boot | 2025-03-20T22:52:00Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Alaatk/CVE-2025-24813-POC](https://github.com/Alaatk/CVE-2025-24813-POC) | CVE-2025-24813 Apache Tomcat RCE Proof of Concept (PoC) | 2025-03-21T18:05:27Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [tonyarris/CVE-2025-24813-PoC](https://github.com/tonyarris/CVE-2025-24813-PoC) | A PoC for CVE-2025-24813 | 2025-03-22T15:16:41Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813) | Session Exploit | 2025-03-24T17:47:10Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [Sachinart/essential-addons-for-elementor-xss-poc](https://github.com/Sachinart/essential-addons-for-elementor-xss-poc) | Hi, I am Chirag Artani. This is the POC of Reflected XSS in Essential Addons for Elementor Affecting 2+ Million Sites - CVE-2025-24752 | 2025-02-26T09:28:45Z |
@@ -3362,6 +3367,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793) | TeamCity CVE-2023-42793 exploit written in Rust | 2024-05-27T03:31:57Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793) | TeamCity RCE for Linux (CVE-2023-42793) | 2024-07-05T17:39:25Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [FlojBoj/CVE-2023-42793](https://github.com/FlojBoj/CVE-2023-42793) | TeamCity CVE-2023-42793 RCE (Remote Code Execution) | 2024-08-24T17:17:21Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [SwiftSecur/teamcity-exploit-cve-2023-42793](https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793) | teamcity-exploit-cve-2023-42793 | 2024-09-20T12:15:25Z |
 | [CVE-2023-42791](https://www.cve.org/CVERecord?id=CVE-2023-42791) | [synacktiv/CVE-2023-42791_CVE-2024-23666](https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666) | Exploitations scripts for CVE-2023-42791 and CVE-2024-23666. | 2025-02-12T12:41:19Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
@@ -5270,6 +5276,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [xsxtw/CVE-2022-0847](https://github.com/xsxtw/CVE-2022-0847) | no description | 2024-05-01T05:16:16Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [solomon12354/LockingGirl-----CVE-2022-0847-Dirty_Pipe_virus](https://github.com/solomon12354/LockingGirl-----CVE-2022-0847-Dirty_Pipe_virus) | no description | 2023-12-28T16:52:42Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [muhammad1596/CVE-2022-0847-dirty-pipe-checker](https://github.com/muhammad1596/CVE-2022-0847-dirty-pipe-checker) | no description | 2024-06-04T13:25:04Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [muhammad1596/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits) | no description | 2024-06-06T14:27:41Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -6098,6 +6105,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [pedrojosenavasperez/CVE-2019-9053-Python3](https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3) | CVE-2019-9053 exploit ported to python3 | 2022-12-14T12:50:54Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [crypticdante/CVE-2019-9053](https://github.com/crypticdante/CVE-2019-9053) | no description | 2021-07-18T20:37:30Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [kahluri/CVE-2019-9053](https://github.com/kahluri/CVE-2019-9053) | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | 2023-08-07T20:30:19Z |
+| [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [Doc0x1/CVE-2019-9053-Python3](https://github.com/Doc0x1/CVE-2019-9053-Python3) | Python3 version of the Python2 exploit for CVE-2019-9053 | 2023-10-16T01:09:13Z |
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z |
@@ -6191,6 +6199,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933) | InfluxDB CVE-2019-20933 vulnerability exploit | 2021-04-28T16:25:31Z |
 | [CVE-2019-20933](https://www.cve.org/CVERecord?id=CVE-2019-20933) | [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933) | no description | 2021-07-24T11:12:13Z |
 | [CVE-2019-20372](https://www.cve.org/CVERecord?id=CVE-2019-20372) | [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372) | no description | 2022-04-06T16:53:28Z |
+| [CVE-2019-20372](https://www.cve.org/CVERecord?id=CVE-2019-20372) | [0xleft/CVE-2019-20372](https://github.com/0xleft/CVE-2019-20372) | nginx http request smugling error_page directive | 2023-09-16T19:47:18Z |
 | [CVE-2019-2025](https://www.cve.org/CVERecord?id=CVE-2019-2025) | [jltxgcy/CVE_2019_2025_EXP](https://github.com/jltxgcy/CVE_2019_2025_EXP) | no description | 2019-09-30T02:40:21Z |
 | [CVE-2019-20174](https://www.cve.org/CVERecord?id=CVE-2019-20174) | [ossf-cve-benchmark/CVE-2019-20174](https://github.com/ossf-cve-benchmark/CVE-2019-20174) | no description | 2020-12-01T09:18:58Z |
 | [CVE-2019-20149](https://www.cve.org/CVERecord?id=CVE-2019-20149) | [ossf-cve-benchmark/CVE-2019-20149](https://github.com/ossf-cve-benchmark/CVE-2019-20149) | no description | 2020-12-01T09:18:58Z |
@@ -6263,6 +6272,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2019-17497](https://www.cve.org/CVERecord?id=CVE-2019-17497) | [JM-Lemmi/cve-2019-17497](https://github.com/JM-Lemmi/cve-2019-17497) | POC Files for CVE-2019-17497 | 2022-01-31T12:03:13Z |
 | [CVE-2019-17240](https://www.cve.org/CVERecord?id=CVE-2019-17240) | [spyx/cve-2019-17240](https://github.com/spyx/cve-2019-17240) | no description | 2021-06-15T05:51:05Z |
 | [CVE-2019-17147](https://www.cve.org/CVERecord?id=CVE-2019-17147) | [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material) | This repo contains dumped flash partitions with firmware version vulnerable to  CVE-2019-17147, and some useful binaries to downgrade and debug your WR841N router. | 2022-01-16T07:08:57Z |
+| [CVE-2019-16784](https://www.cve.org/CVERecord?id=CVE-2019-16784) | [AlterSolutions/PyInstallerPrivEsc](https://github.com/AlterSolutions/PyInstallerPrivEsc) | Exploit for PyInstaller CVE-2019-16784 | 2020-01-22T13:23:45Z |
 | [CVE-2019-16759](https://www.cve.org/CVERecord?id=CVE-2019-16759) | [M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit) | Vbulletin rce exploit CVE-2019-16759 | 2019-09-25T16:12:27Z |
 | [CVE-2019-16759](https://www.cve.org/CVERecord?id=CVE-2019-16759) | [adindrabkin/llama_facts](https://github.com/adindrabkin/llama_facts) | Web application vulnerable to Python3 Flask SSTI (CVE-2019-8341) | 2021-12-24T04:08:44Z |
 | [CVE-2019-16724](https://www.cve.org/CVERecord?id=CVE-2019-16724) | [nanabingies/CVE-2019-16724](https://github.com/nanabingies/CVE-2019-16724) | Exploit for CVE-2019-16724 | 2020-08-25T06:47:51Z |
@@ -6320,6 +6330,7 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2019-13768](https://www.cve.org/CVERecord?id=CVE-2019-13768) | [ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768](https://github.com/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768) | Full chain Chrome 71.0.3578.98 exploit | 2020-12-18T21:57:26Z |
 | [CVE-2019-13764](https://www.cve.org/CVERecord?id=CVE-2019-13764) | [HaboobLab/CVE-2019-13764](https://github.com/HaboobLab/CVE-2019-13764) | no description | 2021-07-27T08:30:00Z |
 | [CVE-2019-13292](https://www.cve.org/CVERecord?id=CVE-2019-13292) | [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15) | This is a Python3 script that demonstrates an exploit for a Blind SQL Injection vulnerability in WebERP version 4.15. | 2023-07-13T04:03:44Z |
+| [CVE-2019-13288](https://www.cve.org/CVERecord?id=CVE-2019-13288) | [gleaming0/CVE-2019-13288](https://github.com/gleaming0/CVE-2019-13288) | no description | 2023-09-16T10:45:12Z |
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [babyshen/CVE-2019-13272](https://github.com/babyshen/CVE-2019-13272) | no description | 2022-03-10T01:27:46Z |
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [asepsaepdin/CVE-2019-13272](https://github.com/asepsaepdin/CVE-2019-13272) | no description | 2023-09-04T15:16:09Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [WizzzStark/CVE-2019-12840.py](https://github.com/WizzzStark/CVE-2019-12840.py) | POC: CVE-2019-12840 (Authenticated RCE - Webmin Package Updates) | 2021-10-05T18:10:05Z |
@@ -6344,6 +6355,8 @@ Last generated: 2025-04-07 02:27:39.814151
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [zxn1/CVE-2019-11932](https://github.com/zxn1/CVE-2019-11932) | no description | 2021-07-04T17:07:19Z |
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse) | Nmap NSE script to detect CVE-2019-14322 of Pallets Werkzeug path traversal via SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames | 2021-05-17T07:48:19Z |
 | [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [fastmo/CVE-2019-11932](https://github.com/fastmo/CVE-2019-11932) | Programa para hackear Whatsapp Mediante Gif ,asiendo un exploit con el puerto. | 2019-10-16T20:13:23Z |
+| [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [tucommenceapousser/CVE-2019-11932deta](https://github.com/tucommenceapousser/CVE-2019-11932deta) | Double-Free BUG in WhatsApp exploit poc. | 2023-09-25T10:08:15Z |
+| [CVE-2019-11932](https://www.cve.org/CVERecord?id=CVE-2019-11932) | [tucommenceapousser/CVE-2019-11932](https://github.com/tucommenceapousser/CVE-2019-11932) | Double-Free BUG in WhatsApp exploit poc. | 2023-09-25T07:45:49Z |
 | [CVE-2019-11581](https://www.cve.org/CVERecord?id=CVE-2019-11581) | [PetrusViet/CVE-2019-11581](https://github.com/PetrusViet/CVE-2019-11581) | Atlassian Jira unauthen template injection | 2021-05-04T06:30:47Z |
 | [CVE-2019-11539](https://www.cve.org/CVERecord?id=CVE-2019-11539) | [0xDezzy/CVE-2019-11539](https://github.com/0xDezzy/CVE-2019-11539) | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | 2019-09-04T13:06:02Z |
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [0xkasra/CVE-2019-11447](https://github.com/0xkasra/CVE-2019-11447) | no description | 2022-04-14T01:45:04Z |
