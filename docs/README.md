@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-09 02:25:47.458607
+Last generated: 2025-04-10 02:24:43.707377
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -33,6 +33,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [tobiasGuta/CVE-2025-29927-POC](https://github.com/tobiasGuta/CVE-2025-29927-POC) | Nuclei Template: CVE-2025-29927 - Next.js Middleware Authentication Bypass | 2025-03-24T21:47:28Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xWhoknows/CVE-2025-29927](https://github.com/0xWhoknows/CVE-2025-29927) | Async Python scanner for Next.js CVE-2025-29927. Uses aiohttp &amp; aiofiles to efficiently process large URL lists, detect vulnerabilities, and save results. Features connection pooling, caching, and chunked processing for fast performance | 2025-03-24T19:18:20Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [lediusa/CVE-2025-29927](https://github.com/lediusa/CVE-2025-29927) | New nuclei CVE | 2025-03-24T14:21:06Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [kuzushiki/CVE-2025-29927-test](https://github.com/kuzushiki/CVE-2025-29927-test) | CVE-2025-29927の検証 | 2025-03-24T16:27:17Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
@@ -489,6 +490,8 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2024-56901](https://www.cve.org/CVERecord?id=CVE-2024-56901) | [DRAGOWN/CVE-2024-56901](https://github.com/DRAGOWN/CVE-2024-56901) | CVE-2024-56901 - A Cross-Site Request Forgery (CSRF) vulnerability in Geovision GV-ASManager web application with the version 6.1.1.0 or less that allows attackers to arbitrarily create Admin accounts via a crafted POST request. | 2025-02-02T15:04:22Z |
 | [CVE-2024-56898](https://www.cve.org/CVERecord?id=CVE-2024-56898) | [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898) | CVE-2024-56898 - Broken access control vulnerability in GeoVision GV-ASManager web application with version v6.1.0.0 or less. This vulnerability allows low privilege users perform actions that they aren&#x27;t authorized to, which can be leveraged to escalate privileges, create, modify or delete accounts. | 2025-02-02T09:20:32Z |
 | [CVE-2024-56889](https://www.cve.org/CVERecord?id=CVE-2024-56889) | [vigneshr232/CVE-2024-56889](https://github.com/vigneshr232/CVE-2024-56889) | no description | 2025-02-05T08:01:43Z |
+| [CVE-2024-56883](https://www.cve.org/CVERecord?id=CVE-2024-56883) | [trustcves/CVE-2024-56883](https://github.com/trustcves/CVE-2024-56883) | no description | 2025-02-12T13:35:23Z |
+| [CVE-2024-56882](https://www.cve.org/CVERecord?id=CVE-2024-56882) | [trustcves/CVE-2024-56882](https://github.com/trustcves/CVE-2024-56882) | no description | 2025-02-12T13:30:52Z |
 | [CVE-2024-56662](https://www.cve.org/CVERecord?id=CVE-2024-56662) | [nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662) | cve | 2024-08-13T02:37:41Z |
 | [CVE-2024-5655](https://www.cve.org/CVERecord?id=CVE-2024-5655) | [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL) | Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure) | 2024-07-03T08:52:48Z |
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
@@ -1003,6 +1006,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis) | no description | 2024-09-04T14:43:33Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample) | no description | 2024-11-06T19:15:38Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367) | CVE-2024-4367 is a critical vulnerability (CVSS 9.8) in PDF.js, allowing arbitrary JavaScript code execution due to insufficient type checks on the FontMatrix object within PDF files. | 2025-01-05T14:44:01Z |
+| [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC) | This Proof of Concept (PoC) demonstrates the exploitation of the CVE-2024-4367 vulnerability, which involves Cross-Site Scripting (XSS) attacks. | 2025-02-17T16:40:21Z |
 | [CVE-2024-43582](https://www.cve.org/CVERecord?id=CVE-2024-43582) | [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE) | Metasploit Module for CVE-2024-43582 RPC Remote  Desktop Service crititcal RCE | 2024-10-09T12:50:24Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358) | An Vulnerability detection and Exploitation tool for CVE-2024-4358 | 2024-06-04T11:32:59Z |
@@ -1027,6 +1031,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2024-4320](https://www.cve.org/CVERecord?id=CVE-2024-4320) | [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320) | no description | 2024-08-08T03:54:38Z |
 | [CVE-2024-43160](https://www.cve.org/CVERecord?id=CVE-2024-43160) | [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160) | The BerqWP – Automated All-In-One PageSpeed Optimization Plugin for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript plugin for WordPress is vulnerable to arbitrary file uploads | 2024-09-17T04:19:54Z |
 | [CVE-2024-43093](https://www.cve.org/CVERecord?id=CVE-2024-43093) | [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093) | CVE-2024-43093 | 2024-11-05T15:06:52Z |
+| [CVE-2024-43088](https://www.cve.org/CVERecord?id=CVE-2024-43088) | [nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088](https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088) | no description | 2025-02-18T12:28:15Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430) | This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044 | 2024-08-08T11:55:32Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC) | CVE-2024-43044的利用方式 | 2024-08-13T07:32:35Z |
@@ -1200,6 +1205,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2024-3867](https://www.cve.org/CVERecord?id=CVE-2024-3867) | [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867) | This repository shows u some information on this vulnerability, which were found by me. | 2024-05-08T06:19:05Z |
 | [CVE-2024-38537](https://www.cve.org/CVERecord?id=CVE-2024-38537) | [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-) | Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application. | 2024-07-07T15:06:39Z |
 | [CVE-2024-38526](https://www.cve.org/CVERecord?id=CVE-2024-38526) | [putget/pollypull](https://github.com/putget/pollypull) | CVE-2024-38526 -  Polyfill Scanner | 2024-09-05T17:09:50Z |
+| [CVE-2024-38526](https://www.cve.org/CVERecord?id=CVE-2024-38526) | [padayali-JD/pollyscan](https://github.com/padayali-JD/pollyscan) | A specialized vulnerability scanner designed to detect CVE-2024-38526, the Polyfill.io Supply Chain Attack, helping organizations identify and mitigate risks associated with compromised third-party dependencies. | 2025-02-18T05:11:45Z |
 | [CVE-2024-38475](https://www.cve.org/CVERecord?id=CVE-2024-38475) | [p0in7s/CVE-2024-38475](https://github.com/p0in7s/CVE-2024-38475) | no description | 2024-08-18T11:30:50Z |
 | [CVE-2024-38475](https://www.cve.org/CVERecord?id=CVE-2024-38475) | [soltanali0/CVE-2024-38475](https://github.com/soltanali0/CVE-2024-38475) | exploit CVE-2024-38475(mod_rewrite weakness with filesystem path matching) | 2024-12-12T10:23:32Z |
 | [CVE-2024-38473](https://www.cve.org/CVERecord?id=CVE-2024-38473) | [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473) | no description | 2024-08-02T19:57:52Z |
@@ -2798,6 +2804,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [motikan2010/CVE-2023-6553-PoC](https://github.com/motikan2010/CVE-2023-6553-PoC) | no description | 2023-12-27T14:14:51Z |
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553) | no description | 2024-01-01T16:57:17Z |
 | [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [cc3305/CVE-2023-6553](https://github.com/cc3305/CVE-2023-6553) | CVE-2023-6553 exploit script | 2024-06-29T17:01:51Z |
+| [CVE-2023-6553](https://www.cve.org/CVERecord?id=CVE-2023-6553) | [Harshit-Mashru/CVE-2023-6553](https://github.com/Harshit-Mashru/CVE-2023-6553) | Exploit Development for CVE-2023-6553 on Backup Plugin in Wordpress | 2024-11-07T03:28:02Z |
 | [CVE-2023-6548](https://www.cve.org/CVERecord?id=CVE-2023-6548) | [Roonye660/CVE-2023-6548-POC](https://github.com/Roonye660/CVE-2023-6548-POC) | 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions | 2024-03-04T08:57:27Z |
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z |
 | [CVE-2023-6444](https://www.cve.org/CVERecord?id=CVE-2023-6444) | [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC) | Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444 | 2024-08-07T01:58:04Z |
@@ -5510,6 +5517,7 @@ Last generated: 2025-04-09 02:25:47.458607
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [FancySauce/PwnKit-CVE-2021-4034](https://github.com/FancySauce/PwnKit-CVE-2021-4034) | no description | 2024-01-27T13:17:50Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Part01-Pai/Polkit-Permission-promotion-compiled](https://github.com/Part01-Pai/Polkit-Permission-promotion-compiled) | Polkit提权包 CVE-2021-4034 （供需要的人方便使用 | 2023-11-20T03:24:05Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [ASG-CASTLE/CVE-2021-4034](https://github.com/ASG-CASTLE/CVE-2021-4034) | no description | 2024-04-19T04:33:14Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034) | PoC for cve-2021-4034 | 2022-01-26T16:11:40Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
