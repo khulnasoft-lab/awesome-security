@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-10 02:24:43.707377
+Last generated: 2025-04-11 02:25:14.211915
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
+| [CVE-2025-29972](https://www.cve.org/CVERecord?id=CVE-2025-29972) | [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972) | CVE-2025-29927 Proof of Concept | 2025-03-25T17:59:06Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit) | Proof-of-Concept for Authorization Bypass in Next.js Middleware | 2025-03-23T19:41:05Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-23T12:13:35Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Ademking/CVE-2025-29927](https://github.com/Ademking/CVE-2025-29927) | Next.js Middleware Authorization Bypass | 2025-03-22T18:42:27Z |
@@ -34,6 +35,11 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xWhoknows/CVE-2025-29927](https://github.com/0xWhoknows/CVE-2025-29927) | Async Python scanner for Next.js CVE-2025-29927. Uses aiohttp &amp; aiofiles to efficiently process large URL lists, detect vulnerabilities, and save results. Features connection pooling, caching, and chunked processing for fast performance | 2025-03-24T19:18:20Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [lediusa/CVE-2025-29927](https://github.com/lediusa/CVE-2025-29927) | New nuclei CVE | 2025-03-24T14:21:06Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [kuzushiki/CVE-2025-29927-test](https://github.com/kuzushiki/CVE-2025-29927-test) | CVE-2025-29927の検証 | 2025-03-24T16:27:17Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [TheresAFewConors/CVE-2025-29927-Testing](https://github.com/TheresAFewConors/CVE-2025-29927-Testing) | PowerShell script to test if a web app is vulnerable to CVE-2025-29927 | 2025-03-25T11:39:14Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xPThree/next.js_cve-2025-29927](https://github.com/0xPThree/next.js_cve-2025-29927) | no description | 2025-03-25T13:21:15Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [yugo-eliatrope/test-cve-2025-29927](https://github.com/yugo-eliatrope/test-cve-2025-29927) | no description | 2025-03-26T00:47:44Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [maronnjapan/claude-create-CVE-2025-29927](https://github.com/maronnjapan/claude-create-CVE-2025-29927) | no description | 2025-03-25T22:36:14Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xcucumbersalad/cve-2025-29927](https://github.com/0xcucumbersalad/cve-2025-29927) | no description | 2025-03-25T15:33:05Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
@@ -135,6 +141,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2025-22968](https://www.cve.org/CVERecord?id=CVE-2025-22968) | [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968) | no description | 2025-01-05T06:51:58Z |
 | [CVE-2025-22964](https://www.cve.org/CVERecord?id=CVE-2025-22964) | [padayali-JD/CVE-2025-22964](https://github.com/padayali-JD/CVE-2025-22964) | no description | 2025-01-14T18:52:01Z |
 | [CVE-2025-22954](https://www.cve.org/CVERecord?id=CVE-2025-22954) | [RandomRobbieBF/CVE-2025-22954](https://github.com/RandomRobbieBF/CVE-2025-22954) | Koha CVE-2025-22954: SQL Injection in lateissues-export.pl | 2025-03-19T10:47:09Z |
+| [CVE-2025-22953](https://www.cve.org/CVERecord?id=CVE-2025-22953) | [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953) | EPICOR HCM Unauthenticated Blind SQL Injection CVE-2025-22953 | 2025-03-26T08:51:40Z |
 | [CVE-2025-22828](https://www.cve.org/CVERecord?id=CVE-2025-22828) | [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828) | Apache CloudStack vulnerability allows unauthorized access to annotations on certain resources. | 2025-01-30T19:26:38Z |
 | [CVE-2025-22785](https://www.cve.org/CVERecord?id=CVE-2025-22785) | [RandomRobbieBF/CVE-2025-22785](https://github.com/RandomRobbieBF/CVE-2025-22785) | Course Booking System &lt;= 6.0.5 - Unauthenticated SQL Injection | 2025-01-23T10:21:22Z |
 | [CVE-2025-22783](https://www.cve.org/CVERecord?id=CVE-2025-22783) | [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783) | PoC of CVE-2025-22783 | 2025-01-15T00:48:09Z |
@@ -156,6 +163,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2025-21293](https://www.cve.org/CVERecord?id=CVE-2025-21293) | [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293) | CVE-2025-21293 is an elevation of privilege vulnerability in Active Directory Domain Services. It allows &quot;Network Configuration Operators&quot; to execute code with SYSTEM privileges via Windows Performance Counters. Affected Windows versions include Windows 10, 11, and Server. Microsoft patched this in January 2025. Apply updates to mitigate risks. | 2025-03-10T20:58:13Z |
 | [CVE-2025-20029](https://www.cve.org/CVERecord?id=CVE-2025-20029) | [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029) | CVE-2025-20029: Command Injection in TMSH CLI in F5 BIG-IP | 2025-02-23T18:36:11Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974) | no description | 2025-03-25T13:23:01Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974) | no description | 2025-03-25T18:49:23Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC | 2025-03-13T13:45:18Z |
@@ -476,6 +484,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2024-57522](https://www.cve.org/CVERecord?id=CVE-2024-57522) | [HackWidMaddy/CVE-2024-57522](https://github.com/HackWidMaddy/CVE-2024-57522) | CVE-2024-57522 - Stored XSS Vulnerability in Users.php - SourceCodester Packers and Movers Management System 1.0 | 2025-01-15T18:45:35Z |
 | [CVE-2024-57514](https://www.cve.org/CVERecord?id=CVE-2024-57514) | [rvizx/CVE-2024-57514](https://github.com/rvizx/CVE-2024-57514) | no description | 2025-02-01T08:52:04Z |
 | [CVE-2024-57487](https://www.cve.org/CVERecord?id=CVE-2024-57487) | [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488) | POC of CVE-2024-57487 &amp; CVE-2024-57488 | 2025-01-10T16:06:23Z |
+| [CVE-2024-57484](https://www.cve.org/CVERecord?id=CVE-2024-57484) | [yogeswaran6383/CVE-2024-57484](https://github.com/yogeswaran6383/CVE-2024-57484) | no description | 2025-02-18T18:56:35Z |
 | [CVE-2024-57430](https://www.cve.org/CVERecord?id=CVE-2024-57430) | [ahrixia/CVE-2024-57430](https://github.com/ahrixia/CVE-2024-57430) | CVE-2024-57430: PHPJabbers Cinema Booking System v2.0 is vulnerable to SQL injection, leading to unauthorized data access and privilege escalation. | 2025-02-04T11:14:36Z |
 | [CVE-2024-57429](https://www.cve.org/CVERecord?id=CVE-2024-57429) | [ahrixia/CVE-2024-57429](https://github.com/ahrixia/CVE-2024-57429) | CVE-2024-57429: PHPJabbers Cinema Booking System v2.0 is vulnerable to CSRF, allowing attackers to escalate privileges by forging requests on behalf of an admin. | 2025-02-04T11:14:24Z |
 | [CVE-2024-57428](https://www.cve.org/CVERecord?id=CVE-2024-57428) | [ahrixia/CVE-2024-57428](https://github.com/ahrixia/CVE-2024-57428) | CVE-2024-57428: PHPJabbers Cinema Booking System v2.0 suffers from stored XSS, enabling persistent JavaScript injection for phishing and malware attacks. | 2025-02-04T11:14:10Z |
@@ -1618,6 +1627,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [th3gokul/CVE-2024-31982](https://github.com/th3gokul/CVE-2024-31982) | A tool for vulnerability detection and exploitation tool for CVE-2024-31982 | 2024-06-22T17:04:02Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
+| [CVE-2024-31903](https://www.cve.org/CVERecord?id=CVE-2024-31903) | [WithSecureLabs/ibm-sterling-b2b-integrator-poc](https://github.com/WithSecureLabs/ibm-sterling-b2b-integrator-poc) | PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator | 2025-02-18T19:08:04Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
 | [CVE-2024-31835](https://www.cve.org/CVERecord?id=CVE-2024-31835) | [paragbagul111/CVE-2024-31835](https://github.com/paragbagul111/CVE-2024-31835) | Cross Site Scripting vulnerability in flatpress CMS Flatpress v1.3 allows a remote attacker to execute arbitrary code via a craftedpayload to the file name parameter. | 2024-09-27T15:17:10Z |
@@ -5132,6 +5142,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [satyasai1460/CVE-2022-2414](https://github.com/satyasai1460/CVE-2022-2414) | CVE-2022-2414 POC | 2023-10-05T07:55:01Z |
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z |
+| [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [btar1gan/exploit_CVE-2022-24112](https://github.com/btar1gan/exploit_CVE-2022-24112) | New exploit for Apache APISIX v2.12.1 - Remote code execution (RCE) | 2024-06-03T17:33:59Z |
 | [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [BurpRoot/CVE-2022-24086](https://github.com/BurpRoot/CVE-2022-24086) | CVE-2022-24086 POC example | 2023-09-03T17:27:58Z |
 | [CVE-2022-23988](https://www.cve.org/CVERecord?id=CVE-2022-23988) | [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject) | Analysis and replication of CVE-2022-23988 and CVE-2022-34265 | 2023-10-12T15:58:06Z |
 | [CVE-2022-23773](https://www.cve.org/CVERecord?id=CVE-2022-23773) | [YouShengLiu/CVE-2022-23773-Reproduce](https://github.com/YouShengLiu/CVE-2022-23773-Reproduce) | no description | 2023-03-19T10:08:47Z |
@@ -6134,6 +6145,7 @@ Last generated: 2025-04-10 02:24:43.707377
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [crypticdante/CVE-2019-9053](https://github.com/crypticdante/CVE-2019-9053) | no description | 2021-07-18T20:37:30Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [kahluri/CVE-2019-9053](https://github.com/kahluri/CVE-2019-9053) | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | 2023-08-07T20:30:19Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [Doc0x1/CVE-2019-9053-Python3](https://github.com/Doc0x1/CVE-2019-9053-Python3) | Python3 version of the Python2 exploit for CVE-2019-9053 | 2023-10-16T01:09:13Z |
+| [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [fernandobortotti/CVE-2019-9053](https://github.com/fernandobortotti/CVE-2019-9053) | This repository has the sole purpose of rewriting the CVE-2019-9053 script, which in the original publication is written in Python 2.7. I will be using Python 3. | 2023-10-16T20:17:38Z |
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z |
