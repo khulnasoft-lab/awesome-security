@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-11 02:25:14.211915
+Last generated: 2025-04-12 02:22:22.457627
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC) | CVE-2025-30208 任意文件读取漏洞快速验证 | 2025-03-26T19:06:44Z |
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
@@ -40,6 +41,10 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [yugo-eliatrope/test-cve-2025-29927](https://github.com/yugo-eliatrope/test-cve-2025-29927) | no description | 2025-03-26T00:47:44Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [maronnjapan/claude-create-CVE-2025-29927](https://github.com/maronnjapan/claude-create-CVE-2025-29927) | no description | 2025-03-25T22:36:14Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xcucumbersalad/cve-2025-29927](https://github.com/0xcucumbersalad/cve-2025-29927) | no description | 2025-03-25T15:33:05Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aleongx/CVE-2025-29927](https://github.com/aleongx/CVE-2025-29927) | Next.js Acceso no autorizado CVE-2025-29927 | 2025-03-26T19:08:14Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Slvignesh05/CVE-2025-29927](https://github.com/Slvignesh05/CVE-2025-29927) | A touch of security | 2025-03-26T16:24:15Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [kOaDT/poc-cve-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a proof of concept (POC) and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 2025-03-26T00:12:41Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Eve-SatOrU/POC-CVE-2025-29927](https://github.com/Eve-SatOrU/POC-CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-24T11:42:14Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
@@ -164,11 +169,14 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2025-20029](https://www.cve.org/CVERecord?id=CVE-2025-20029) | [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029) | CVE-2025-20029: Command Injection in TMSH CLI in F5 BIG-IP | 2025-02-23T18:36:11Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974) | no description | 2025-03-25T13:23:01Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974) | no description | 2025-03-25T18:49:23Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc) | Proof-of-Concept Tool to detect IngressNightmare (CVE-2025-1974) via (non-intrusive) active means. | 2025-03-26T15:44:43Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC) | PoC for CVE-2025-1974: Critical RCE in Ingress-NGINX (&lt;v1.12.1) via unsafe config injection. Exploitable from the pod network without credentials, enabling code execution and potential cluster takeover. Fixed in v1.12.1 and v1.11.5. For research/education only. | 2025-03-26T09:48:13Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC | 2025-03-13T13:45:18Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce plugin for WordPress is vulnerable to Local File Inclusion (LFI) | 2025-03-18T19:06:40Z |
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302) | JSONPath-plus Remote Code Execution | 2025-02-25T08:36:28Z |
+| [CVE-2025-1097](https://www.cve.org/CVERecord?id=CVE-2025-1097) | [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) | This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). | 2025-03-26T18:52:20Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit) | WebSocket and SQL Injection Exploit Script | 2025-02-27T11:08:10Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [shacojx/CVE-2025-1094-Exploit](https://github.com/shacojx/CVE-2025-1094-Exploit) | CVE-2025-1094 Exploit SQL Injection to RCE via WebSocket in PostgreSQL | 2025-03-05T04:20:24Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi) | no description | 2025-03-14T20:21:57Z |
@@ -493,6 +501,7 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
+| [CVE-2024-57241](https://www.cve.org/CVERecord?id=CVE-2024-57241) | [woshidaheike/CVE-2024-57241](https://github.com/woshidaheike/CVE-2024-57241) | dedecms-url 重定向 | 2024-12-13T04:33:03Z |
 | [CVE-2024-57175](https://www.cve.org/CVERecord?id=CVE-2024-57175) | [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175) | no description | 2025-01-31T18:40:11Z |
 | [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
 | [CVE-2024-56902](https://www.cve.org/CVERecord?id=CVE-2024-56902) | [DRAGOWN/CVE-2024-56902](https://github.com/DRAGOWN/CVE-2024-56902) | CVE-2024-56902 - Information disclosure vulnerability in GeoVision GV-ASManager web application with the version v6.1.0.0 or less, which discloses account information, including cleartext password. | 2025-02-02T14:16:34Z |
@@ -1039,6 +1048,7 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2024-4323](https://www.cve.org/CVERecord?id=CVE-2024-4323) | [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc) | no description | 2024-05-22T09:55:30Z |
 | [CVE-2024-4320](https://www.cve.org/CVERecord?id=CVE-2024-4320) | [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320) | no description | 2024-08-08T03:54:38Z |
 | [CVE-2024-43160](https://www.cve.org/CVERecord?id=CVE-2024-43160) | [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160) | The BerqWP – Automated All-In-One PageSpeed Optimization Plugin for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript plugin for WordPress is vulnerable to arbitrary file uploads | 2024-09-17T04:19:54Z |
+| [CVE-2024-43097](https://www.cve.org/CVERecord?id=CVE-2024-43097) | [Mahesh-970/CVE-2024-43097](https://github.com/Mahesh-970/CVE-2024-43097) | no description | 2025-02-19T10:56:39Z |
 | [CVE-2024-43093](https://www.cve.org/CVERecord?id=CVE-2024-43093) | [hatvix1/CVE-2024-43093](https://github.com/hatvix1/CVE-2024-43093) | CVE-2024-43093 | 2024-11-05T15:06:52Z |
 | [CVE-2024-43088](https://www.cve.org/CVERecord?id=CVE-2024-43088) | [nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088](https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088) | no description | 2025-02-18T12:28:15Z |
 | [CVE-2024-43044](https://www.cve.org/CVERecord?id=CVE-2024-43044) | [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044) | The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges. | 2024-08-08T08:28:26Z |
@@ -4414,6 +4424,8 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2023-2581312](https://www.cve.org/CVERecord?id=CVE-2023-2581312) | [White-BAO/CVE-2023-25813](https://github.com/White-BAO/CVE-2023-25813) | 12 | 2024-07-30T14:36:48Z |
 | [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813) | no description | 2024-04-21T17:39:05Z |
 | [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [pbj2647/CVE-2023-25813](https://github.com/pbj2647/CVE-2023-25813) | no description | 2024-11-06T04:28:36Z |
+| [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [wxuycea/CVE-2023-25813](https://github.com/wxuycea/CVE-2023-25813) | CVE-2023-25813 Vulnerability Reproduction - SQL Injection in Sequelize | 2024-11-07T14:21:38Z |
+| [CVE-2023-25813](https://www.cve.org/CVERecord?id=CVE-2023-25813) | [sea-middle/cve-2023-25813](https://github.com/sea-middle/cve-2023-25813) | no description | 2024-11-09T12:57:46Z |
 | [CVE-2023-25725](https://www.cve.org/CVERecord?id=CVE-2023-25725) | [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725) | Lab environment to test CVE-2023-25725 | 2023-08-23T04:32:54Z |
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC) | CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability. | 2023-05-22T03:06:31Z |
 | [CVE-2023-25690](https://www.cve.org/CVERecord?id=CVE-2023-25690) | [thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690) | no description | 2023-12-04T16:58:53Z |
@@ -5438,6 +5450,7 @@ Last generated: 2025-04-11 02:25:14.211915
 | [CVE-2021-42342](https://www.cve.org/CVERecord?id=CVE-2021-42342) | [ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1) | no description | 2023-10-29T05:50:47Z |
 | [CVE-2021-42327](https://www.cve.org/CVERecord?id=CVE-2021-42327) | [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327) | kernel exploit POC for vulnerability i found in amd gpu driver | 2021-10-28T21:10:29Z |
 | [CVE-2021-42205](https://www.cve.org/CVERecord?id=CVE-2021-42205) | [gmh5225/CVE-2021-42205](https://github.com/gmh5225/CVE-2021-42205) | ELAN Miniport touchpad Windows driver before 24.21.51.2, as used in PC hardware from multiple manufacturers, allows local users to cause a system crash by sending a certain IOCTL request, because that request is handled twice. CVE project by @Sn0wAlice | 2023-01-01T18:30:21Z |
+| [CVE-2021-42183](https://www.cve.org/CVERecord?id=CVE-2021-42183) | [0xRaw/CVE-2021-42183](https://github.com/0xRaw/CVE-2021-42183) | no description | 2022-05-05T13:45:43Z |
 | [CVE-2021-42171](https://www.cve.org/CVERecord?id=CVE-2021-42171) | [minhnq22/CVE-2021-42171](https://github.com/minhnq22/CVE-2021-42171) | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | 2021-09-30T02:44:19Z |
 | [CVE-2021-42056](https://www.cve.org/CVERecord?id=CVE-2021-42056) | [z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056) | Safenet Authentication Client Privilege Escalation - CVE-2021-42056 | 2021-11-18T14:27:06Z |
 | [CVE-2021-42013](https://www.cve.org/CVERecord?id=CVE-2021-42013) | [Hamesawian/CVE-2021-42013](https://github.com/Hamesawian/CVE-2021-42013) | no description | 2023-06-29T16:32:44Z |
@@ -8345,3 +8358,4 @@ Last generated: 2025-04-11 02:25:14.211915
 | CVE NOT FOUND | [Macazella/Analisis_Vulnerabilidades_CVE](https://github.com/Macazella/Analisis_Vulnerabilidades_CVE) | &quot;Análisis de vulnerabilidades CVE reportadas en 2024 y 2025 con visualización en Power BI.&quot; | 2025-02-28T12:15:53Z |
 | CVE NOT FOUND | [srinivasraom/cve-2025024813](https://github.com/srinivasraom/cve-2025024813) | cve-2025024813 | 2025-03-18T05:37:29Z |
 | CVE NOT FOUND | [Jull3Hax0r/next.js-exploit](https://github.com/Jull3Hax0r/next.js-exploit) | Hoe to exploit next.js with CVE-2025–29927 | 2025-03-25T10:49:52Z |
+| CVE NOT FOUND | [slin99/2025-25427](https://github.com/slin99/2025-25427) | public announcement of cve 2025-25427 | 2025-03-20T12:02:00Z |
