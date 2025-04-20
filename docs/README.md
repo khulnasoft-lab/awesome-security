@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-19 02:20:53.054817
+Last generated: 2025-04-20 02:38:33.096733
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [On1onss/CVE-2025-30208-LFI](https://github.com/On1onss/CVE-2025-30208-LFI) | This exploit is for educational and ethical security testing purposes only. The use of this exploit against targets without prior mutual consent is illegal, and the developer disclaims any liability for misuse or damage caused by this exploit. | 2025-03-27T12:36:41Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner) | CVE-2025-30208 ViteVulnScanner | 2025-03-28T12:17:36Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite) | CVE-2025-30208 - Vite脚本 | 2025-03-28T09:50:48Z |
+| [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP) | CVE-2025-30208-EXP | 2025-03-26T15:42:31Z |
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
@@ -87,6 +88,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-2857](https://www.cve.org/CVERecord?id=CVE-2025-2857) | [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit) | no description | 2025-03-28T21:01:44Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
 | [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840) | Expanded version of the code shown at RootedCON redone in python - CVE-2025-27840 | 2025-03-09T16:15:47Z |
+| [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [demining/Bluetooth-Attacks-CVE-2025-27840](https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840) | Bitcoin Cryptanalysis: CVE-2025-27840 Vulnerability in ESP32 Microcontrollers Puts Billions of IoT Devices at Risk via Wi-Fi &amp; Bluetooth | 2025-03-30T16:12:10Z |
 | [CVE-2025-2783](https://www.cve.org/CVERecord?id=CVE-2025-2783) | [bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783) | no description | 2025-03-28T20:33:42Z |
 | [CVE-2025-27636](https://www.cve.org/CVERecord?id=CVE-2025-27636) | [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC) | no description | 2025-03-09T09:42:11Z |
 | [CVE-2025-27607](https://www.cve.org/CVERecord?id=CVE-2025-27607) | [Barsug/msgspec-python313-pre](https://github.com/Barsug/msgspec-python313-pre) | CVE-2025-27607 fix | 2025-03-14T11:41:48Z |
@@ -119,6 +121,8 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-25763](https://www.cve.org/CVERecord?id=CVE-2025-25763) | [Oyst3r1ng/CVE-2025-25763](https://github.com/Oyst3r1ng/CVE-2025-25763) | no description | 2025-03-17T05:58:51Z |
 | [CVE-2025-25749](https://www.cve.org/CVERecord?id=CVE-2025-25749) | [huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7) | no description | 2025-03-07T12:18:47Z |
 | [CVE-2025-25747](https://www.cve.org/CVERecord?id=CVE-2025-25747) | [huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS](https://github.com/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS) | no description | 2025-03-07T11:55:11Z |
+| [CVE-2025-25706](https://www.cve.org/CVERecord?id=CVE-2025-25706) | [Cotherm/CVE-2025-25706](https://github.com/Cotherm/CVE-2025-25706) | no description | 2025-03-31T21:54:24Z |
+| [CVE-2025-25705](https://www.cve.org/CVERecord?id=CVE-2025-25705) | [Cotherm/CVE-2025-25705](https://github.com/Cotherm/CVE-2025-25705) | no description | 2025-03-31T21:50:02Z |
 | [CVE-2025-25650](https://www.cve.org/CVERecord?id=CVE-2025-25650) | [AbhijithAJ/Dorset_SmartLock_Vulnerability](https://github.com/AbhijithAJ/Dorset_SmartLock_Vulnerability) | This repository is for Dorset_SmartLock_vulnerability. CVE-2025-25650 is suggested by MITRE which is yet to confirm. | 2025-03-16T07:22:46Z |
 | [CVE-2025-2563](https://www.cve.org/CVERecord?id=CVE-2025-2563) | [ubaydev/CVE-2025-2563](https://github.com/ubaydev/CVE-2025-2563) | CVE-2025-2563 PoC | 2025-03-29T12:03:12Z |
 | [CVE-2025-25621](https://www.cve.org/CVERecord?id=CVE-2025-25621) | [armaansidana2003/CVE-2025-25621](https://github.com/armaansidana2003/CVE-2025-25621) | no description | 2025-03-05T21:43:06Z |
@@ -162,6 +166,8 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813) | Session Exploit | 2025-03-24T17:47:10Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813) | A playground to test the RCE exploit for tomcat CVE-2025-24813 | 2025-03-24T18:47:40Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813) | Create lab for CVE-2025-24813 | 2025-03-28T09:44:28Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [B1gN0Se/Tomcat-CVE-2025-24813](https://github.com/B1gN0Se/Tomcat-CVE-2025-24813) | no description | 2025-03-31T19:01:28Z |
+| [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [Sachinart/essential-addons-for-elementor-xss-poc](https://github.com/Sachinart/essential-addons-for-elementor-xss-poc) | Hi, I am Chirag Artani. This is the POC of Reflected XSS in Essential Addons for Elementor Affecting 2+ Million Sites - CVE-2025-24752 | 2025-02-26T09:28:45Z |
@@ -194,6 +200,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-22954](https://www.cve.org/CVERecord?id=CVE-2025-22954) | [RandomRobbieBF/CVE-2025-22954](https://github.com/RandomRobbieBF/CVE-2025-22954) | Koha CVE-2025-22954: SQL Injection in lateissues-export.pl | 2025-03-19T10:47:09Z |
 | [CVE-2025-22953](https://www.cve.org/CVERecord?id=CVE-2025-22953) | [maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953) | EPICOR HCM Unauthenticated Blind SQL Injection CVE-2025-22953 | 2025-03-26T08:51:40Z |
 | [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [Nxploited/CVE-2025-2294](https://github.com/Nxploited/CVE-2025-2294) | Kubio AI Page Builder &lt;= 2.5.1 - Unauthenticated Local File Inclusion | 2025-03-27T19:09:51Z |
+| [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [mrrivaldo/CVE-2025-2294](https://github.com/mrrivaldo/CVE-2025-2294) | no description | 2025-03-31T11:51:07Z |
 | [CVE-2025-22828](https://www.cve.org/CVERecord?id=CVE-2025-22828) | [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828) | Apache CloudStack vulnerability allows unauthorized access to annotations on certain resources. | 2025-01-30T19:26:38Z |
 | [CVE-2025-22785](https://www.cve.org/CVERecord?id=CVE-2025-22785) | [RandomRobbieBF/CVE-2025-22785](https://github.com/RandomRobbieBF/CVE-2025-22785) | Course Booking System &lt;= 6.0.5 - Unauthenticated SQL Injection | 2025-01-23T10:21:22Z |
 | [CVE-2025-22783](https://www.cve.org/CVERecord?id=CVE-2025-22783) | [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783) | PoC of CVE-2025-22783 | 2025-01-15T00:48:09Z |
@@ -225,6 +232,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [0xBingo/CVE-2025-1974](https://github.com/0xBingo/CVE-2025-1974) | A minimal test tool to help detect annotation injection vulnerabilities in Kubernetes NGINX Ingress controllers. This script sends a crafted AdmissionReview request to simulate a potential exploit path from CVE-2025-1974 and checks for signs of misinterpreted annotations in controller logs. | 2025-03-27T03:28:01Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [tuladhar/ingress-nightmare](https://github.com/tuladhar/ingress-nightmare) | IngressNightmare (CVE-2025-1974) | 2025-03-27T18:48:20Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [rjhaikal/POC-IngressNightmare-CVE-2025-1974](https://github.com/rjhaikal/POC-IngressNightmare-CVE-2025-1974) | POC IngressNightmare (CVE-2025-1974), modified from https://github.com/yoshino-s/CVE-2025-1974 | 2025-03-28T16:57:02Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [zulloper/CVE-2025-1974](https://github.com/zulloper/CVE-2025-1974) | CVE-2025-1974 PoC 코드 | 2025-03-31T08:31:03Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC | 2025-03-13T13:45:18Z |
@@ -235,6 +243,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2025-1306](https://www.cve.org/CVERecord?id=CVE-2025-1306) | [Nxploited/CVE-2025-1306](https://github.com/Nxploited/CVE-2025-1306) | Newscrunch &lt;= 1.8.4 - Cross-Site Request Forgery to Arbitrary File Upload | 2025-03-06T01:21:37Z |
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302) | JSONPath-plus Remote Code Execution | 2025-02-25T08:36:28Z |
 | [CVE-2025-1097](https://www.cve.org/CVERecord?id=CVE-2025-1097) | [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) | This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). | 2025-03-26T18:52:20Z |
+| [CVE-2025-1097](https://www.cve.org/CVERecord?id=CVE-2025-1097) | [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC) | IngressNightmare-PoC： (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, CVE-2025-1974)  PoC ，One-click script 。 一键脚本 | 2025-03-30T08:32:56Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit) | WebSocket and SQL Injection Exploit Script | 2025-02-27T11:08:10Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [shacojx/CVE-2025-1094-Exploit](https://github.com/shacojx/CVE-2025-1094-Exploit) | CVE-2025-1094 Exploit SQL Injection to RCE via WebSocket in PostgreSQL | 2025-03-05T04:20:24Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi) | no description | 2025-03-14T20:21:57Z |
@@ -283,6 +292,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2024-9796](https://www.cve.org/CVERecord?id=CVE-2024-9796) | [viniciuslazzari/CVE-2024-9796](https://github.com/viniciuslazzari/CVE-2024-9796) | Vulnerable website to the CVE-2024-9796 | 2025-01-19T18:40:57Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707) | Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | 2024-10-11T06:21:38Z |
 | [CVE-2024-9707](https://www.cve.org/CVERecord?id=CVE-2024-9707) | [Nxploited/CVE-2024-9707-Poc](https://github.com/Nxploited/CVE-2024-9707-Poc) | he Hunk Companion Plugin for WordPress: Vulnerable to Unauthorized Plugin Installation/Activation (Versions Up to and Including 1.8.4) | 2025-01-12T23:35:02Z |
+| [CVE-2024-9698](https://www.cve.org/CVERecord?id=CVE-2024-9698) | [Nxploited/CVE-2024-9698](https://github.com/Nxploited/CVE-2024-9698) | Crafthemes Demo Import &lt;= 3.3 - Authenticated ( Admin+) Arbitrary File Upload in process_uploaded_files | 2025-02-24T14:41:56Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680) | no description | 2024-10-17T16:10:38Z |
 | [CVE-2024-9680](https://www.cve.org/CVERecord?id=CVE-2024-9680) | [PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner) | A vulnerability scanner for Firefox and Thunderbird that checks if your versions are out of date and susceptible to CVE-2024-9680. | 2025-01-02T12:21:19Z |
 | [CVE-2024-9659](https://www.cve.org/CVERecord?id=CVE-2024-9659) | [zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659) | CVE-2024-9659: Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-25T19:16:58Z |
@@ -664,6 +674,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [SeanRickerd/CVE-2024-53677](https://github.com/SeanRickerd/CVE-2024-53677) | Vulnerable Environment and Exploit for CVE-2024-53677 | 2025-01-10T17:47:24Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [punitdarji/Apache-struts-cve-2024-53677](https://github.com/punitdarji/Apache-struts-cve-2024-53677) | no description | 2025-01-08T19:36:09Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [hopsypopsy8/CVE-2024-53677-Exploitation](https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation) | Apache Struts CVE-2024-53677 Exploitation | 2025-02-13T07:26:08Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [shishirghimir/CVE-2024-53677-Exploit](https://github.com/shishirghimir/CVE-2024-53677-Exploit) | no description | 2025-02-24T12:28:28Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-53615](https://www.cve.org/CVERecord?id=CVE-2024-53615) | [beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615) | CVE-2024-53615 | 2024-11-04T18:34:58Z |
 | [CVE-2024-5356](https://www.cve.org/CVERecord?id=CVE-2024-5356) | [droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC) | no description | 2024-09-12T03:02:20Z |
@@ -1914,6 +1925,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read) | This script demonstrates a proof-of-concept (PoC) for exploiting a file read vulnerability in the iconv library, as detailed in Ambionics Security&#x27;s blog https://www.ambionics.io/blog/iconv-cve-2024-2961-p1. | 2025-01-27T03:06:37Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961) | Uses CVE-2024-2961 to perform an arbitrary file read | 2025-01-29T13:15:11Z |
 | [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7) | CVE-2024-2961 Cnext RCE Exploit with Buddyforms 2.7.7 | 2025-02-04T13:34:33Z |
+| [CVE-2024-2961](https://www.cve.org/CVERecord?id=CVE-2024-2961) | [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-) | To use, implement the Remote class, which tells the exploit how to send the payload. | 2025-02-20T09:41:37Z |
 | [CVE-2024-29510](https://www.cve.org/CVERecord?id=CVE-2024-29510) | [swsmith2391/CVE-2024-29510](https://github.com/swsmith2391/CVE-2024-29510) | POC code for CVE-2024-29510 and demo VulnApp | 2024-07-09T13:27:40Z |
 | [CVE-2024-29455](https://www.cve.org/CVERecord?id=CVE-2024-29455) | [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455) | Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:54:01Z |
 | [CVE-2024-29454](https://www.cve.org/CVERecord?id=CVE-2024-29454) | [yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454) | Remote Command Execution Vulnerability in ROS2 Humble Hawksbill | 2024-03-21T14:49:26Z |
@@ -5123,6 +5135,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit) | no description | 2022-08-24T06:00:47Z |
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches) | This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability | 2022-10-14T04:58:26Z |
 | [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [Decstor5/2022-32250LPE](https://github.com/Decstor5/2022-32250LPE) | CVE-2022-32250-LPE | 2023-11-09T12:27:26Z |
+| [CVE-2022-32250](https://www.cve.org/CVERecord?id=CVE-2022-32250) | [Kristal-g/CVE-2022-32250](https://github.com/Kristal-g/CVE-2022-32250) | My exploit for CVE-2022-32250 for linux kernel 5.18 | 2024-06-09T19:53:54Z |
 | [CVE-2022-32199](https://www.cve.org/CVERecord?id=CVE-2022-32199) | [Toxich4/CVE-2022-32199](https://github.com/Toxich4/CVE-2022-32199) | no description | 2023-03-25T08:49:58Z |
 | [CVE-2022-32119](https://www.cve.org/CVERecord?id=CVE-2022-32119) | [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119) | CVE-2022-32119 - Arox-Unrestricted-File-Upload | 2022-04-06T04:33:47Z |
 | [CVE-2022-32118](https://www.cve.org/CVERecord?id=CVE-2022-32118) | [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118) | CVE-2022-32118 - Arox-XSS | 2022-04-06T04:12:03Z |
@@ -5939,6 +5952,7 @@ Last generated: 2025-04-19 02:20:53.054817
 | [CVE-2020-8835](https://www.cve.org/CVERecord?id=CVE-2020-8835) | [johnatag/INF8602-CVE-2020-8835](https://github.com/johnatag/INF8602-CVE-2020-8835) | no description | 2023-03-20T18:17:40Z |
 | [CVE-2020-8825](https://www.cve.org/CVERecord?id=CVE-2020-8825) | [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825) | VanillaForum 2.6.3 allows stored XSS. | 2020-02-10T07:24:37Z |
 | [CVE-2020-8813](https://www.cve.org/CVERecord?id=CVE-2020-8813) | [p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime](https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime) | CVE-2020-8813 - RCE through graph_realtime.php in Cacti 1.2.8 | 2022-09-30T11:23:52Z |
+| [CVE-2020-8644](https://www.cve.org/CVERecord?id=CVE-2020-8644) | [H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4](https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4) | Python script to exploit PlaySMS before 1.4.3 | 2023-07-25T23:11:51Z |
 | [CVE-2020-8423](https://www.cve.org/CVERecord?id=CVE-2020-8423) | [lnversed/CVE-2020-8423](https://github.com/lnversed/CVE-2020-8423) | Research based on https://ktln2.org/2020/03/29/exploiting-mips-router/#testing-environment | 2022-09-20T21:13:53Z |
 | [CVE-2020-8417](https://www.cve.org/CVERecord?id=CVE-2020-8417) | [Vulnmachines/WordPress_CVE-2020-8417](https://github.com/Vulnmachines/WordPress_CVE-2020-8417) | CSRF Code snippet vulnerability CVE-2020-8417 | 2021-02-19T20:37:23Z |
 | [CVE-2020-8193](https://www.cve.org/CVERecord?id=CVE-2020-8193) | [PR3R00T/CVE-2020-8193-Citrix-Scanner](https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner) | Scanning for CVE-2020-8193 - Auth Bypass check | 2020-07-13T10:36:43Z |
