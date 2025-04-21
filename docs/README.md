@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-20 02:38:33.096733
+Last generated: 2025-04-21 02:39:42.927444
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner) | CVE-2025-30208 ViteVulnScanner | 2025-03-28T12:17:36Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite) | CVE-2025-30208 - Vite脚本 | 2025-03-28T09:50:48Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP) | CVE-2025-30208-EXP | 2025-03-26T15:42:31Z |
+| [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC) | Vite-CVE-2025-30208动态检测脚本，支持默认路径，自定义路径动态检测 | 2025-03-27T06:22:18Z |
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
@@ -81,6 +82,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [dante01yoon/CVE-2025-29927](https://github.com/dante01yoon/CVE-2025-29927) | Next.js CVE-2025-29927 demonstration | 2025-03-29T08:49:38Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927](https://github.com/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927) | no description | 2025-03-30T12:24:15Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927) | Next.js Auth Bypass Lab ‐ CVE-2025-29927 | 2025-03-30T03:52:42Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [iSee857/CVE-2025-29927](https://github.com/iSee857/CVE-2025-29927) | Next.Js 权限绕过漏洞(CVE-2025-29927) | 2025-03-24T09:27:03Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
@@ -3232,6 +3234,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rainbowhatrkn/CVE-2023-47246](https://github.com/rainbowhatrkn/CVE-2023-47246) | exploit for cve-2023-47246 SysAid RCE (shell upload) | 2023-11-22T08:13:51Z |
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [rothilion26/cve2023-data](https://github.com/rothilion26/cve2023-data) | no description | 2023-11-21T18:16:34Z |
 | [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [W01fh4cker/CVE-2023-47246-EXP](https://github.com/W01fh4cker/CVE-2023-47246-EXP) | exploit for cve-2023-47246 SysAid RCE (shell upload) | 2023-11-17T07:03:06Z |
+| [CVE-2023-47246](https://www.cve.org/CVERecord?id=CVE-2023-47246) | [XiaomingX/cve-2023-47246-poc](https://github.com/XiaomingX/cve-2023-47246-poc) | CVE-2023-47246 是 SysAid On-Premise 软件（版本 23.3.36 之前）中的一个路径遍历漏洞。攻击者可以利用该漏洞将文件写入 Tomcat 的 webroot 目录，从而在服务器上执行任意代码。 | 2024-11-23T05:21:22Z |
 | [CVE-2023-47218](https://www.cve.org/CVERecord?id=CVE-2023-47218) | [passwa11/CVE-2023-47218](https://github.com/passwa11/CVE-2023-47218) | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | 2024-02-19T02:15:21Z |
 | [CVE-2023-47184](https://www.cve.org/CVERecord?id=CVE-2023-47184) | [cont1nuum/CVE-2023-47184](https://github.com/cont1nuum/CVE-2023-47184) | Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS) | 2023-11-01T19:19:36Z |
 | [CVE-2023-47179](https://www.cve.org/CVERecord?id=CVE-2023-47179) | [RandomRobbieBF/CVE-2023-47179](https://github.com/RandomRobbieBF/CVE-2023-47179) | WooODT Lite &lt;= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | 2023-11-03T09:39:30Z |
@@ -4199,6 +4202,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244) | This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue. | 2023-09-13T11:52:36Z |
 | [CVE-2023-3244](https://www.cve.org/CVERecord?id=CVE-2023-3244) | [gabe-k/themebleed](https://github.com/gabe-k/themebleed) | Proof-of-Concept for CVE-2023-38146 (&quot;ThemeBleed&quot;) | 2023-09-13T04:00:14Z |
 | [CVE-2023-32422](https://www.cve.org/CVERecord?id=CVE-2023-32422) | [gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite) | no description | 2023-11-15T18:21:20Z |
+| [CVE-2023-32413](https://www.cve.org/CVERecord?id=CVE-2023-32413) | [synacktiv/CVE-2023-32413](https://github.com/synacktiv/CVE-2023-32413) | Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023 | 2024-11-22T11:28:35Z |
 | [CVE-2023-32407](https://www.cve.org/CVERecord?id=CVE-2023-32407) | [gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal) | no description | 2023-11-14T20:45:31Z |
 | [CVE-2023-32364](https://www.cve.org/CVERecord?id=CVE-2023-32364) | [gergelykalman/CVE-2023-32364-macos-app-sandbox-escape](https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape) | Exploit for CVE-2023-32364 | 2023-09-26T14:42:00Z |
 | [CVE-2023-32353](https://www.cve.org/CVERecord?id=CVE-2023-32353) | [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC) | Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows | 2023-06-08T20:43:03Z |
@@ -5653,6 +5657,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [ASG-CASTLE/CVE-2021-4034](https://github.com/ASG-CASTLE/CVE-2021-4034) | no description | 2024-04-19T04:33:14Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034) | PoC for cve-2021-4034 | 2022-01-26T16:11:40Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [supportingmx/cve-2021-4034](https://github.com/supportingmx/cve-2021-4034) | no description | 2022-07-15T20:58:48Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [X-Projetion/Exploiting-PwnKit-CVE-2021-4034-](https://github.com/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-) | no description | 2024-05-19T08:58:00Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -6025,6 +6030,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2020-27955](https://www.cve.org/CVERecord?id=CVE-2020-27955) | [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955) | no description | 2022-12-16T07:54:45Z |
 | [CVE-2020-27955](https://www.cve.org/CVERecord?id=CVE-2020-27955) | [userxfan/cve-2020-27955](https://github.com/userxfan/cve-2020-27955) | cve-2020-27955 | 2022-04-13T17:16:48Z |
 | [CVE-2020-27824](https://www.cve.org/CVERecord?id=CVE-2020-27824) | [pazhanivel07/openjpeg-2.3.0_CVE-2020-27824](https://github.com/pazhanivel07/openjpeg-2.3.0_CVE-2020-27824) | no description | 2022-04-19T10:53:52Z |
+| [CVE-2020-27815](https://www.cve.org/CVERecord?id=CVE-2020-27815) | [Trinadh465/linux-4.19.72_CVE-2020-27815](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815) | no description | 2023-08-01T12:50:41Z |
 | [CVE-2020-27786](https://www.cve.org/CVERecord?id=CVE-2020-27786) | [Trinadh465/linux-4.19.72_CVE-2020-27786](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27786) | no description | 2023-06-08T10:01:33Z |
 | [CVE-2020-27786](https://www.cve.org/CVERecord?id=CVE-2020-27786) | [elbiazo/CVE-2020-27786](https://github.com/elbiazo/CVE-2020-27786) | no description | 2023-04-27T01:13:04Z |
 | [CVE-2020-27786](https://www.cve.org/CVERecord?id=CVE-2020-27786) | [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit) | 4.9 Kernel Exploit for CVE-2020-27786 | 2022-06-13T08:04:19Z |
@@ -6169,6 +6175,7 @@ Last generated: 2025-04-20 02:38:33.096733
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [Ridter/cve-2020-0688](https://github.com/Ridter/cve-2020-0688) | cve-2020-0688 | 2020-02-27T02:54:27Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [TheKickPuncher/CVE-2020-0688-Python3](https://github.com/TheKickPuncher/CVE-2020-0688-Python3) | Exploit updated to use Python 3. | 2022-10-19T10:36:10Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [7heKnight/CVE-2020-0688](https://github.com/7heKnight/CVE-2020-0688) | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | 2022-05-12T03:17:35Z |
+| [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [chudamax/CVE-2020-0688-Exchange2010](https://github.com/chudamax/CVE-2020-0688-Exchange2010) | CVE-2020-0688 modified exploit for Exchange 2010 | 2023-08-02T06:25:06Z |
 | [CVE-2020-0618](https://www.cve.org/CVERecord?id=CVE-2020-0618) | [itstarsec/CVE-2020-0618](https://github.com/itstarsec/CVE-2020-0618) | Melissa | 2022-05-13T08:58:16Z |
 | [CVE-2020-0618](https://www.cve.org/CVERecord?id=CVE-2020-0618) | [copethomas/datapower-redis-rce-exploit](https://github.com/copethomas/datapower-redis-rce-exploit) | A POC for IBM Datapower Authenticated Redis RCE Exploit abusing the Test Message Function (CVE-2020-5014) | 2020-10-18T10:32:32Z |
 | [CVE-2020-0601](https://www.cve.org/CVERecord?id=CVE-2020-0601) | [cimashiro/-Awesome-CVE-2020-0601-](https://github.com/cimashiro/-Awesome-CVE-2020-0601-) | 2017-0021 | 2023-05-07T11:54:15Z |
@@ -8482,3 +8489,4 @@ Last generated: 2025-04-20 02:38:33.096733
 | CVE NOT FOUND | [geo-chen/Redaxo](https://github.com/geo-chen/Redaxo) | CVE-2024–13209 | 2025-02-22T06:09:46Z |
 | CVE NOT FOUND | [geo-chen/phpMyFAQ](https://github.com/geo-chen/phpMyFAQ) | CVE-2024–54141, CVE-2024–55889, CVE-2024–56199 | 2025-02-22T05:54:51Z |
 | CVE NOT FOUND | [omok314159/CVE_Stat_2024](https://github.com/omok314159/CVE_Stat_2024) | CVE status since 2002 - 2024. Each cvs files are including cvss 4.0/3.1/3.0/2 and CPEs. | 2025-02-24T00:58:44Z |
+| CVE NOT FOUND | [geo-chen/YI-Smart-Dashcam](https://github.com/geo-chen/YI-Smart-Dashcam) | CVE-2024–56897 | 2025-02-22T05:41:18Z |
