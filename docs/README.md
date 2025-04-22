@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-21 02:39:42.927444
+Last generated: 2025-04-22 02:26:53.491866
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2025-3292025](https://www.cve.org/CVERecord?id=CVE-2025-3292025) | [itssixtyn3in/CVE-2025-3292025](https://github.com/itssixtyn3in/CVE-2025-3292025) | no description | 2025-03-29T17:26:31Z |
 | [CVE-2025-3282025](https://www.cve.org/CVERecord?id=CVE-2025-3282025) | [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025) | no description | 2025-03-28T04:28:22Z |
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
+| [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
 | [CVE-2025-30772](https://www.cve.org/CVERecord?id=CVE-2025-30772) | [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772) | WordPress WPC Smart Upsell Funnel for WooCommerce plugin &lt;= 3.0.4 - Arbitrary Option Update to Privilege Escalation vulnerability | 2025-03-28T10:29:12Z |
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) | Unauthorized Arbitrary File Download in WordPress WP01 | 2025-03-26T14:37:34Z |
 | [CVE-2025-30349](https://www.cve.org/CVERecord?id=CVE-2025-30349) | [natasaka/CVE-2025-30349](https://github.com/natasaka/CVE-2025-30349) | Horde IMP (through 6.2.27) vulnerability – obfuscation via HTML encoding – XSS payload | 2025-03-27T20:22:45Z |
@@ -235,6 +236,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [tuladhar/ingress-nightmare](https://github.com/tuladhar/ingress-nightmare) | IngressNightmare (CVE-2025-1974) | 2025-03-27T18:48:20Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [rjhaikal/POC-IngressNightmare-CVE-2025-1974](https://github.com/rjhaikal/POC-IngressNightmare-CVE-2025-1974) | POC IngressNightmare (CVE-2025-1974), modified from https://github.com/yoshino-s/CVE-2025-1974 | 2025-03-28T16:57:02Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [zulloper/CVE-2025-1974](https://github.com/zulloper/CVE-2025-1974) | CVE-2025-1974 PoC 코드 | 2025-03-31T08:31:03Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974) | Poc for Ingress RCE | 2025-03-26T14:49:29Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC | 2025-03-13T13:45:18Z |
@@ -574,6 +576,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2024-57241](https://www.cve.org/CVERecord?id=CVE-2024-57241) | [woshidaheike/CVE-2024-57241](https://github.com/woshidaheike/CVE-2024-57241) | dedecms-url 重定向 | 2024-12-13T04:33:03Z |
 | [CVE-2024-57175](https://www.cve.org/CVERecord?id=CVE-2024-57175) | [Ajmal101/CVE-2024-57175](https://github.com/Ajmal101/CVE-2024-57175) | no description | 2025-01-31T18:40:11Z |
 | [CVE-2024-56924](https://www.cve.org/CVERecord?id=CVE-2024-56924) | [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924) | no description | 2025-01-22T07:28:58Z |
+| [CVE-2024-56903](https://www.cve.org/CVERecord?id=CVE-2024-56903) | [DRAGOWN/CVE-2024-56903](https://github.com/DRAGOWN/CVE-2024-56903) | CVE-2024-56903 - Geovision GV-ASManager web application with the version 6.1.1.0 or less allows attackers to modify POST requests with GET in critical functionalities, such as account management. This vulnerability is used in chain with CVE-2024-56901 for a successful CSRF attack. | 2025-02-02T15:04:25Z |
 | [CVE-2024-56902](https://www.cve.org/CVERecord?id=CVE-2024-56902) | [DRAGOWN/CVE-2024-56902](https://github.com/DRAGOWN/CVE-2024-56902) | CVE-2024-56902 - Information disclosure vulnerability in GeoVision GV-ASManager web application with the version v6.1.0.0 or less, which discloses account information, including cleartext password. | 2025-02-02T14:16:34Z |
 | [CVE-2024-56901](https://www.cve.org/CVERecord?id=CVE-2024-56901) | [DRAGOWN/CVE-2024-56901](https://github.com/DRAGOWN/CVE-2024-56901) | CVE-2024-56901 - A Cross-Site Request Forgery (CSRF) vulnerability in Geovision GV-ASManager web application with the version 6.1.1.0 or less that allows attackers to arbitrarily create Admin accounts via a crafted POST request. | 2025-02-02T15:04:22Z |
 | [CVE-2024-56898](https://www.cve.org/CVERecord?id=CVE-2024-56898) | [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898) | CVE-2024-56898 - Broken access control vulnerability in GeoVision GV-ASManager web application with version v6.1.0.0 or less. This vulnerability allows low privilege users perform actions that they aren&#x27;t authorized to, which can be leveraged to escalate privileges, create, modify or delete accounts. | 2025-02-02T09:20:32Z |
@@ -589,6 +592,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
 | [CVE-2024-56289](https://www.cve.org/CVERecord?id=CVE-2024-56289) | [DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289) | PoC of CVE-2024-56289 | 2025-01-06T01:58:24Z |
 | [CVE-2024-56278](https://www.cve.org/CVERecord?id=CVE-2024-56278) | [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) | PoC of CVE-2024-56278 | 2025-01-06T01:51:46Z |
+| [CVE-2024-56264](https://www.cve.org/CVERecord?id=CVE-2024-56264) | [Nxploited/CVE-2024-56264](https://github.com/Nxploited/CVE-2024-56264) | WordPress ACF City Selector plugin &lt;= 1.14.0 - Arbitrary File Upload vulnerability | 2025-02-24T20:02:31Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py) | no description | 2025-02-03T22:33:57Z |
@@ -638,6 +642,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2024-54795](https://www.cve.org/CVERecord?id=CVE-2024-54795) | [MarioTesoro/CVE-2024-54795](https://github.com/MarioTesoro/CVE-2024-54795) | SpagoBI multiple stored xss | 2025-01-18T14:17:03Z |
 | [CVE-2024-54794](https://www.cve.org/CVERecord?id=CVE-2024-54794) | [MarioTesoro/CVE-2024-54794](https://github.com/MarioTesoro/CVE-2024-54794) | SpagoBI command injection | 2025-01-18T10:50:21Z |
 | [CVE-2024-54792](https://www.cve.org/CVERecord?id=CVE-2024-54792) | [MarioTesoro/CVE-2024-54792](https://github.com/MarioTesoro/CVE-2024-54792) | SpagoBI  csrf | 2025-01-18T13:37:57Z |
+| [CVE-2024-54772](https://www.cve.org/CVERecord?id=CVE-2024-54772) | [deauther890/CVE-2024-54772](https://github.com/deauther890/CVE-2024-54772) | This repo contains the exploit for CVE-2024-54772 | 2025-02-06T13:40:41Z |
 | [CVE-2024-54761](https://www.cve.org/CVERecord?id=CVE-2024-54761) | [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection) | CVE-2024-54761 PoC | 2024-11-15T05:55:29Z |
 | [CVE-2024-54679](https://www.cve.org/CVERecord?id=CVE-2024-54679) | [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679) | CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679) | 2024-12-06T06:02:34Z |
 | [CVE-2024-5452](https://www.cve.org/CVERecord?id=CVE-2024-5452) | [XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc) | 此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。 | 2024-11-22T06:56:12Z |
@@ -2228,6 +2233,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [NingXin2002/Check-Point_poc](https://github.com/NingXin2002/Check-Point_poc) | Check-Point安全网关任意文件读取漏洞(CVE-2024-24919) | 2024-12-21T02:42:10Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [hashdr1ft/SOC_287](https://github.com/hashdr1ft/SOC_287) | SOC287 - Arbitrary File Read on Checkpoint Security Gateway [CVE-2024-24919] | 2025-02-05T10:42:54Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [funixone/CVE-2024-24919---Exploit-Script](https://github.com/funixone/CVE-2024-24919---Exploit-Script) | no description | 2025-02-21T16:36:13Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [spider00009/CVE-2024-24919-POC](https://github.com/spider00009/CVE-2024-24919-POC) | no description | 2025-02-26T06:07:03Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24809](https://www.cve.org/CVERecord?id=CVE-2024-24809) | [fa-rrel/CVE-2024-24809-Proof-of-concept](https://github.com/fa-rrel/CVE-2024-24809-Proof-of-concept) | Critical Flaws in Traccar GPS System Expose Users to Remote Attacks | 2024-09-03T09:56:13Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
@@ -5658,6 +5664,7 @@ Last generated: 2025-04-21 02:39:42.927444
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034) | PoC for cve-2021-4034 | 2022-01-26T16:11:40Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [supportingmx/cve-2021-4034](https://github.com/supportingmx/cve-2021-4034) | no description | 2022-07-15T20:58:48Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [X-Projetion/Exploiting-PwnKit-CVE-2021-4034-](https://github.com/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-) | no description | 2024-05-19T08:58:00Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [wechicken456/CVE-2021-4034-CTF-writeup](https://github.com/wechicken456/CVE-2021-4034-CTF-writeup) | no description | 2024-02-04T19:00:38Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
