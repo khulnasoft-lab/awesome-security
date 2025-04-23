@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-22 02:26:53.491866
+Last generated: 2025-04-23 02:27:36.614252
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Last generated: 2025-04-22 02:26:53.491866
 | [CVE-2025-3282025](https://www.cve.org/CVERecord?id=CVE-2025-3282025) | [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025) | no description | 2025-03-28T04:28:22Z |
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
+| [CVE-2025-31125](https://www.cve.org/CVERecord?id=CVE-2025-31125) | [sunhuiHi666/CVE-2025-31125](https://github.com/sunhuiHi666/CVE-2025-31125) | Vite 任意文件读取漏洞POC | 2025-04-01T14:24:44Z |
 | [CVE-2025-30772](https://www.cve.org/CVERecord?id=CVE-2025-30772) | [Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772) | WordPress WPC Smart Upsell Funnel for WooCommerce plugin &lt;= 3.0.4 - Arbitrary Option Update to Privilege Escalation vulnerability | 2025-03-28T10:29:12Z |
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) | Unauthorized Arbitrary File Download in WordPress WP01 | 2025-03-26T14:37:34Z |
 | [CVE-2025-30349](https://www.cve.org/CVERecord?id=CVE-2025-30349) | [natasaka/CVE-2025-30349](https://github.com/natasaka/CVE-2025-30349) | Horde IMP (through 6.2.27) vulnerability – obfuscation via HTML encoding – XSS payload | 2025-03-27T20:22:45Z |
@@ -84,6 +85,9 @@ Last generated: 2025-04-22 02:26:53.491866
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927](https://github.com/Kamal-418/Vulnerable-Lab-NextJS-CVE-2025-29927) | no description | 2025-03-30T12:24:15Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [ayato-shitomi/WebLab_CVE-2025-29927](https://github.com/ayato-shitomi/WebLab_CVE-2025-29927) | Next.js Auth Bypass Lab ‐ CVE-2025-29927 | 2025-03-30T03:52:42Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [iSee857/CVE-2025-29927](https://github.com/iSee857/CVE-2025-29927) | Next.Js 权限绕过漏洞(CVE-2025-29927) | 2025-03-24T09:27:03Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [nyctophile0969/CVE-2025-29927](https://github.com/nyctophile0969/CVE-2025-29927) | no description | 2025-04-01T19:23:52Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [BilalGns/CVE-2025-29927](https://github.com/BilalGns/CVE-2025-29927) | Next.js CVE-2025-29927 güvenlik açığı hakkında | 2025-04-01T19:11:30Z |
+| [CVE-2025-29602](https://www.cve.org/CVERecord?id=CVE-2025-29602) | [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602) | no description | 2025-04-01T13:01:25Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
@@ -593,6 +597,7 @@ Last generated: 2025-04-22 02:26:53.491866
 | [CVE-2024-56289](https://www.cve.org/CVERecord?id=CVE-2024-56289) | [DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289) | PoC of CVE-2024-56289 | 2025-01-06T01:58:24Z |
 | [CVE-2024-56278](https://www.cve.org/CVERecord?id=CVE-2024-56278) | [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) | PoC of CVE-2024-56278 | 2025-01-06T01:51:46Z |
 | [CVE-2024-56264](https://www.cve.org/CVERecord?id=CVE-2024-56264) | [Nxploited/CVE-2024-56264](https://github.com/Nxploited/CVE-2024-56264) | WordPress ACF City Selector plugin &lt;= 1.14.0 - Arbitrary File Upload vulnerability | 2025-02-24T20:02:31Z |
+| [CVE-2024-56264](https://www.cve.org/CVERecord?id=CVE-2024-56264) | [dpakmrya/CVE-2024-56264](https://github.com/dpakmrya/CVE-2024-56264) | no description | 2025-02-27T17:54:51Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py) | no description | 2025-02-03T22:33:57Z |
@@ -3088,6 +3093,7 @@ Last generated: 2025-04-22 02:26:53.491866
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [NikitaPark/CVE-2023-50164-PoC](https://github.com/NikitaPark/CVE-2023-50164-PoC) | CVE-2023-50164 PoC Application &amp; Exploit script | 2024-10-06T14:58:26Z |
 | [CVE-2023-50132](https://www.cve.org/CVERecord?id=CVE-2023-50132) | [sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132) | no description | 2023-12-16T08:14:14Z |
 | [CVE-2023-50131](https://www.cve.org/CVERecord?id=CVE-2023-50131) | [sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131) | XSS | 2023-12-16T08:08:11Z |
+| [CVE-2023-50094](https://www.cve.org/CVERecord?id=CVE-2023-50094) | [Zierax/CVE-2023-50094_POC](https://github.com/Zierax/CVE-2023-50094_POC) | poc for CVE-2023-50094 (rengine command injection) | 2024-11-23T20:00:29Z |
 | [CVE-2023-50072](https://www.cve.org/CVERecord?id=CVE-2023-50072) | [ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072) | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | 2023-12-20T14:36:01Z |
 | [CVE-2023-50071](https://www.cve.org/CVERecord?id=CVE-2023-50071) | [geraldoalcantara/CVE-2023-50071](https://github.com/geraldoalcantara/CVE-2023-50071) | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | 2023-12-16T23:06:25Z |
 | [CVE-2023-50070](https://www.cve.org/CVERecord?id=CVE-2023-50070) | [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070) | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject. | 2023-12-15T20:37:39Z |
@@ -4186,6 +4192,7 @@ Last generated: 2025-04-22 02:26:53.491866
 | [CVE-2023-33137](https://www.cve.org/CVERecord?id=CVE-2023-33137) | [ayhan-dev/CVE-LIST](https://github.com/ayhan-dev/CVE-LIST) | list CVE - 2023 | 2023-11-28T06:54:25Z |
 | [CVE-2023-33105](https://www.cve.org/CVERecord?id=CVE-2023-33105) | [D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware](https://github.com/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware) | This repository contains the exploit code for CVE-2023-33105, a vulnerability identified in Qualcomm devices. The exploit leverages authentication frames to perform a denial of service (DoS) attack on a target access point (AP) by sending a large number of open authentication frames with an invalid transaction sequence number. | 2024-06-10T17:20:06Z |
 | [CVE-2023-32961](https://www.cve.org/CVERecord?id=CVE-2023-32961) | [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961) | PoC of CVE-2023-32961 | 2023-07-06T02:37:29Z |
+| [CVE-2023-3280](https://www.cve.org/CVERecord?id=CVE-2023-3280) | [ig-labs/EDR-ALPC-Block-POC](https://github.com/ig-labs/EDR-ALPC-Block-POC) | Blocking Windows EDR agents by registering an own IPC-object in the Object Manager’s namespace (CVE-2023-3280, CVE-2024-5909, CVE-2024-20671) | 2025-01-28T14:30:39Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux) | KeePass Master Password Extraction PoC for Linux | 2023-05-17T20:15:13Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dawnl3ss/CVE-2023-32784](https://github.com/dawnl3ss/CVE-2023-32784) | Retrieve the master password of a keepass database &lt;= 2.53.1 | 2023-08-30T16:42:19Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784) | no description | 2023-10-17T13:17:08Z |
