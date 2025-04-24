@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-23 02:27:36.614252
+Last generated: 2025-04-24 02:35:53.160295
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -30,6 +30,7 @@ Last generated: 2025-04-23 02:27:36.614252
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite) | CVE-2025-30208 - Vite脚本 | 2025-03-28T09:50:48Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP) | CVE-2025-30208-EXP | 2025-03-26T15:42:31Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC) | Vite-CVE-2025-30208动态检测脚本，支持默认路径，自定义路径动态检测 | 2025-03-27T06:22:18Z |
+| [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [0xshaheen/CVE-2025-30208](https://github.com/0xshaheen/CVE-2025-30208) | no description | 2025-04-02T04:26:21Z |
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
@@ -174,6 +175,7 @@ Last generated: 2025-04-23 02:27:36.614252
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813) | A playground to test the RCE exploit for tomcat CVE-2025-24813 | 2025-03-24T18:47:40Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813) | Create lab for CVE-2025-24813 | 2025-03-28T09:44:28Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [B1gN0Se/Tomcat-CVE-2025-24813](https://github.com/B1gN0Se/Tomcat-CVE-2025-24813) | no description | 2025-03-31T19:01:28Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [iSee857/CVE-2025-24813-PoC](https://github.com/iSee857/CVE-2025-24813-PoC) | Apache Tomcat 远程代码执行漏洞批量检测脚本(CVE-2025-24813) | 2025-03-13T10:00:03Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
@@ -230,6 +232,7 @@ Last generated: 2025-04-23 02:27:36.614252
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [Dit-Developers/CVE-2025-21298](https://github.com/Dit-Developers/CVE-2025-21298) | A Critical Windows OLE Zero-Click Vulnerability | 2025-03-07T16:54:15Z |
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [Denyningbow/rtf-ctf-cve-2025-21298](https://github.com/Denyningbow/rtf-ctf-cve-2025-21298) | A safe CTF challenge demonstrating CVE-2025-21298 using RTF and OLE objects. | 2025-03-28T03:10:19Z |
 | [CVE-2025-21293](https://www.cve.org/CVERecord?id=CVE-2025-21293) | [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293) | CVE-2025-21293 is an elevation of privilege vulnerability in Active Directory Domain Services. It allows &quot;Network Configuration Operators&quot; to execute code with SYSTEM privileges via Windows Performance Counters. Affected Windows versions include Windows 10, 11, and Server. Microsoft patched this in January 2025. Apply updates to mitigate risks. | 2025-03-10T20:58:13Z |
+| [CVE-2025-2005](https://www.cve.org/CVERecord?id=CVE-2025-2005) | [Nxploited/CVE-2025-2005](https://github.com/Nxploited/CVE-2025-2005) | WordPress Front End Users Plugin &lt;= 3.2.32 is vulnerable to Arbitrary File Upload | 2025-04-02T01:50:33Z |
 | [CVE-2025-20029](https://www.cve.org/CVERecord?id=CVE-2025-20029) | [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029) | CVE-2025-20029: Command Injection in TMSH CLI in F5 BIG-IP | 2025-02-23T18:36:11Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974) | no description | 2025-03-25T13:23:01Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974) | no description | 2025-03-25T18:49:23Z |
@@ -4509,6 +4512,7 @@ Last generated: 2025-04-23 02:27:36.614252
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360) | Exploit for Arbitrary File Read for CVE-2023-26360 - Adobe Coldfusion | 2023-12-26T06:26:01Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit](https://github.com/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit) | no description | 2024-05-14T11:22:35Z |
 | [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [CuriousLearnerDev/ColdFusion_EXp](https://github.com/CuriousLearnerDev/ColdFusion_EXp) | Adobe ColdFusion CVE-2023-26360/CVE-2023-29298 自动化实现反弹 | 2024-09-03T09:53:57Z |
+| [CVE-2023-26360](https://www.cve.org/CVERecord?id=CVE-2023-26360) | [issamjr/CVE-2023-26360](https://github.com/issamjr/CVE-2023-26360) | CVE-2023-26360 - Adobe Coldfusion | 2024-11-25T17:42:20Z |
 | [CVE-2023-2636](https://www.cve.org/CVERecord?id=CVE-2023-2636) | [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636) | no description | 2023-06-11T20:24:20Z |
 | [CVE-2023-26326](https://www.cve.org/CVERecord?id=CVE-2023-26326) | [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961) | Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter. | 2025-02-02T01:35:43Z |
 | [CVE-2023-26269](https://www.cve.org/CVERecord?id=CVE-2023-26269) | [mbadanoiu/CVE-2023-26269](https://github.com/mbadanoiu/CVE-2023-26269) | CVE-2023-26269: Misconfigured JMX in Apache James | 2023-11-23T21:55:30Z |
