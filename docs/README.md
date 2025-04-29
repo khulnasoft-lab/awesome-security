@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-04-28 02:40:03.017163
+Last generated: 2025-04-29 02:36:09.814037
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
 | [CVE-2025-31864](https://www.cve.org/CVERecord?id=CVE-2025-31864) | [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864) | PoC of CVE-2025-31864 | 2025-04-03T00:38:12Z |
+| [CVE-2025-31651](https://www.cve.org/CVERecord?id=CVE-2025-31651) | [gregk4sec/CVE-2025-31651](https://github.com/gregk4sec/CVE-2025-31651) | CVE Discovered by Greg K | 2025-04-08T06:24:01Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC) | Vite任意文件读取漏洞批量检测脚本CVE-2025-31486 | 2025-04-07T08:56:22Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
@@ -48,6 +49,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [bjornhels/CVE-2025-30065](https://github.com/bjornhels/CVE-2025-30065) | PoC | 2025-04-04T10:37:32Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC) | CVE-2025-30065 PoC | 2025-04-05T09:43:27Z |
+| [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065) | no description | 2025-04-07T21:38:24Z |
 | [CVE-2025-29972](https://www.cve.org/CVERecord?id=CVE-2025-29972) | [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972) | CVE-2025-29927 Proof of Concept | 2025-03-25T17:59:06Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit) | Proof-of-Concept for Authorization Bypass in Next.js Middleware | 2025-03-23T19:41:05Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-23T12:13:35Z |
@@ -112,6 +114,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [gotr00t0day/CVE-2025-29927](https://github.com/gotr00t0day/CVE-2025-29927) | Next.js Middleware Bypass Scanne | 2025-04-06T20:59:10Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [YEONDG/nextjs-cve-2025-29927](https://github.com/YEONDG/nextjs-cve-2025-29927) | vulnerable-nextjs-14-CVE-2025-29927 | 2025-04-06T04:55:21Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Balajih4kr/cve-2025-29927](https://github.com/Balajih4kr/cve-2025-29927) | CVE-2025-29927 is a critical vulnerability in Next.js, a popular React-based web framework. The flaw exists in how the middleware feature handles certain internal headers — specifically, the x-middleware-subrequest header | 2025-04-05T17:02:51Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [ValGrace/middleware-auth-bypass](https://github.com/ValGrace/middleware-auth-bypass) | CVE-2025-29927 ~ a poc of the next.js middleware authentication bypass | 2025-04-08T08:10:07Z |
 | [CVE-2025-29602](https://www.cve.org/CVERecord?id=CVE-2025-29602) | [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602) | no description | 2025-04-01T13:01:25Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
 | [CVE-2025-29306](https://www.cve.org/CVERecord?id=CVE-2025-29306) | [somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306) | no description | 2025-03-25T08:12:35Z |
@@ -120,9 +123,11 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-2857](https://www.cve.org/CVERecord?id=CVE-2025-2857) | [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit) | no description | 2025-03-28T21:01:44Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825) | no description | 2025-04-03T01:13:28Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825) | no description | 2025-04-04T08:57:02Z |
+| [CVE-2025-2807](https://www.cve.org/CVERecord?id=CVE-2025-2807) | [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807) | Wordpress - Motors Plugin &lt;= 1.4.64 - Arbitrary Plugin Installation Vulnerability | 2025-04-08T10:24:42Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
 | [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840) | Expanded version of the code shown at RootedCON redone in python - CVE-2025-27840 | 2025-03-09T16:15:47Z |
 | [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [demining/Bluetooth-Attacks-CVE-2025-27840](https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840) | Bitcoin Cryptanalysis: CVE-2025-27840 Vulnerability in ESP32 Microcontrollers Puts Billions of IoT Devices at Risk via Wi-Fi &amp; Bluetooth | 2025-03-30T16:12:10Z |
+| [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [ladyg00se/CVE-2025-27840-WIP](https://github.com/ladyg00se/CVE-2025-27840-WIP) | A Work-In-Progress for CVE-2025-27840 | 2025-04-08T14:27:06Z |
 | [CVE-2025-2783](https://www.cve.org/CVERecord?id=CVE-2025-2783) | [bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783) | no description | 2025-03-28T20:33:42Z |
 | [CVE-2025-2783](https://www.cve.org/CVERecord?id=CVE-2025-2783) | [Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783) | Simulated PoC for CVE-2025-2783 — a sandbox escape vulnerability in Chrome&#x27;s Mojo IPC. Includes phishing delivery, memory fuzzing, IPC simulation, and logging. Safe for red team demos, detection engineering, and educational use. | 2025-04-06T03:49:01Z |
 | [CVE-2025-27636](https://www.cve.org/CVERecord?id=CVE-2025-27636) | [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC) | no description | 2025-03-09T09:42:11Z |
@@ -212,6 +217,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Heimd411/CVE-2025-24813-noPoC](https://github.com/Heimd411/CVE-2025-24813-noPoC) | no description | 2025-04-07T16:17:06Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [La3B0z/CVE-2025-24813-POC](https://github.com/La3B0z/CVE-2025-24813-POC) | CVE-2025-24813-POC JSP Web Shell Uploader | 2025-04-06T19:36:48Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813) | no description | 2025-04-05T18:57:08Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813) | no description | 2025-04-08T14:52:37Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799) | no description | 2025-04-03T16:55:11Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
@@ -259,6 +265,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2025-22604](https://www.cve.org/CVERecord?id=CVE-2025-22604) | [ishwardeepp/CVE-2025-22604-Cacti-RCE](https://github.com/ishwardeepp/CVE-2025-22604-Cacti-RCE) | no description | 2025-03-15T18:16:33Z |
 | [CVE-2025-22510](https://www.cve.org/CVERecord?id=CVE-2025-22510) | [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510) | PoC of CVE-2025-22510 | 2025-01-08T01:02:02Z |
 | [CVE-2025-2249](https://www.cve.org/CVERecord?id=CVE-2025-2249) | [Nxploited/CVE-2025-2249](https://github.com/Nxploited/CVE-2025-2249) | WordPress SoJ SoundSlides Plugin &lt;= 1.2.2 is vulnerable to Arbitrary File Upload | 2025-03-28T22:57:32Z |
+| [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [N4SL1/CVE-2025-22457-PoC](https://github.com/N4SL1/CVE-2025-22457-PoC) | CVE-2025-22457 Python and Metasploit PoC for Ivanti unauthenticated RCE | 2025-04-08T12:01:13Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-2233](https://www.cve.org/CVERecord?id=CVE-2025-2233) | [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233) | Improper Verification of Cryptographic Signature (CWE-347) | 2025-03-12T08:54:24Z |
 | [CVE-2025-22226](https://www.cve.org/CVERecord?id=CVE-2025-22226) | [bronsoneaver/vme-escape](https://github.com/bronsoneaver/vme-escape) | (including : CVE-2025-22226, CVE-2025-22225, CVE-2025-22224) | 2025-03-25T12:53:53Z |
@@ -2591,6 +2598,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534) | Proof-of-concept (PoC) exploit for JSONPath-plus vulnerability | 2024-11-13T07:56:10Z |
 | [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [verylazytech/cve-2024-21534](https://github.com/verylazytech/cve-2024-21534) | POC - CVE-2024-21534 Jsonpath-plus vulnerable to Remote Code Execution (RCE) due to improper input sanitization | 2024-11-28T17:47:53Z |
 | [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
+| [CVE-2024-21513](https://www.cve.org/CVERecord?id=CVE-2024-21513) | [SavageSanta11/Reproduce-CVE-2024-21513](https://github.com/SavageSanta11/Reproduce-CVE-2024-21513) | no description | 2025-03-04T13:11:44Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z |
@@ -4259,6 +4267,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump) | KeePass 2.X dumper (CVE-2023-32784) | 2023-05-22T00:11:42Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [mister-turtle/cve-2023-32784](https://github.com/mister-turtle/cve-2023-32784) | no description | 2024-02-01T09:41:24Z |
 | [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [Cmadhushanka/CVE-2023-32784-Exploitation](https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation) | year 2 semester 1 Systems and Network Programming Assignment | 2024-07-10T17:55:48Z |
+| [CVE-2023-32784](https://www.cve.org/CVERecord?id=CVE-2023-32784) | [dev0558/CVE-2023-32784-EXPLOIT-REPORT](https://github.com/dev0558/CVE-2023-32784-EXPLOIT-REPORT) | no description | 2024-12-04T11:57:35Z |
 | [CVE-2023-32749](https://www.cve.org/CVERecord?id=CVE-2023-32749) | [xcr-19/CVE-2023-32749](https://github.com/xcr-19/CVE-2023-32749) | PoC for CVE-2023-32749 affecting Pydio Cells | 2024-05-01T21:37:00Z |
 | [CVE-2023-32707](https://www.cve.org/CVERecord?id=CVE-2023-32707) | [9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707) | An improved POC exploit based on the reported CVE on exploitdb | 2023-11-14T04:06:08Z |
 | [CVE-2023-32681](https://www.cve.org/CVERecord?id=CVE-2023-32681) | [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681) | POC for the CVE-2023-32681 | 2023-07-22T05:24:58Z |
@@ -5421,6 +5430,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic](https://github.com/hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic) | no description | 2024-03-12T04:47:02Z |
 | [CVE-2022-21392](https://www.cve.org/CVERecord?id=CVE-2022-21392) | [mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392) | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager | 2023-12-08T20:13:23Z |
+| [CVE-2022-21371](https://www.cve.org/CVERecord?id=CVE-2022-21371) | [Cappricio-Securities/CVE-2022-21371](https://github.com/Cappricio-Securities/CVE-2022-21371) | Oracle WebLogic Server (LFI) | 2024-06-05T16:29:16Z |
 | [CVE-2022-21350](https://www.cve.org/CVERecord?id=CVE-2022-21350) | [hktalent/CVE-2022-21350](https://github.com/hktalent/CVE-2022-21350) | no description | 2022-09-28T05:38:15Z |
 | [CVE-2022-21340](https://www.cve.org/CVERecord?id=CVE-2022-21340) | [Alexandre-Bartel/CVE-2022-21340](https://github.com/Alexandre-Bartel/CVE-2022-21340) | PoC for CVE-2022-21340 | 2024-04-09T10:41:12Z |
 | [CVE-2022-21306](https://www.cve.org/CVERecord?id=CVE-2022-21306) | [hktalent/CVE-2022-21306](https://github.com/hktalent/CVE-2022-21306) | POC，EXP，chatGPT for me，只能给一些思路，全部不可用 | 2023-04-07T03:59:07Z |
@@ -5463,6 +5473,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2022-20004](https://www.cve.org/CVERecord?id=CVE-2022-20004) | [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004) | no description | 2022-06-15T10:29:03Z |
 | [CVE-2022-1679](https://www.cve.org/CVERecord?id=CVE-2022-1679) | [ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/ov3rwatch/Detection-and-Mitigation-for-CVE-2022-1679) | no description | 2023-09-12T17:47:01Z |
 | [CVE-2022-1609](https://www.cve.org/CVERecord?id=CVE-2022-1609) | [0x007f/cve-2022-1609-exploit](https://github.com/0x007f/cve-2022-1609-exploit) | Exploit for CVE-2022-1609 WordPress Weblizar Backdoor. | 2023-04-22T12:51:09Z |
+| [CVE-2022-1565](https://www.cve.org/CVERecord?id=CVE-2022-1565) | [phanthibichtram12/CVE-2022-1565](https://github.com/phanthibichtram12/CVE-2022-1565) | no description | 2024-06-21T11:08:26Z |
 | [CVE-2022-1442](https://www.cve.org/CVERecord?id=CVE-2022-1442) | [RandomRobbieBF/CVE-2022-1442](https://github.com/RandomRobbieBF/CVE-2022-1442) | WordPress Plugin Metform &lt;= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure | 2023-08-03T10:47:28Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [v4sh25/CVE_2022_1388](https://github.com/v4sh25/CVE_2022_1388) | F5 Big-IP RCE vulnerability | 2023-07-21T04:23:59Z |
 | [CVE-2022-1388](https://www.cve.org/CVERecord?id=CVE-2022-1388) | [SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study](https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study) | F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study | 2023-07-12T15:53:33Z |
@@ -5476,6 +5487,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability) | no description | 2023-09-28T11:55:43Z |
 | [CVE-2022-1386](https://www.cve.org/CVERecord?id=CVE-2022-1386) | [satyasai1460/CVE-2022-1386](https://github.com/satyasai1460/CVE-2022-1386) | no description | 2024-03-07T06:35:33Z |
 | [CVE-2022-1364](https://www.cve.org/CVERecord?id=CVE-2022-1364) | [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) | no description | 2023-11-22T10:55:34Z |
+| [CVE-2022-1329](https://www.cve.org/CVERecord?id=CVE-2022-1329) | [phanthibichtram12/CVE-2022-1329](https://github.com/phanthibichtram12/CVE-2022-1329) | no description | 2024-06-21T10:05:03Z |
 | [CVE-2022-1227](https://www.cve.org/CVERecord?id=CVE-2022-1227) | [iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit) | A script for exploiting CVE-2022-1227 | 2023-04-01T07:28:15Z |
 | [CVE-2022-1203](https://www.cve.org/CVERecord?id=CVE-2022-1203) | [RandomRobbieBF/CVE-2022-1203](https://github.com/RandomRobbieBF/CVE-2022-1203) | Content Mask &lt; 1.8.4 - Subscriber+ Arbitrary Options Update | 2023-08-03T09:39:15Z |
 | [CVE-2022-1068](https://www.cve.org/CVERecord?id=CVE-2022-1068) | [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068) | Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现 | 2023-01-09T08:23:37Z |
@@ -5516,6 +5528,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [muhammad1596/CVE-2022-0847-dirty-pipe-checker](https://github.com/muhammad1596/CVE-2022-0847-dirty-pipe-checker) | no description | 2024-06-04T13:25:04Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [muhammad1596/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits) | no description | 2024-06-06T14:27:41Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [karanlvm/DirtyPipe-Exploit](https://github.com/karanlvm/DirtyPipe-Exploit) | Proof of concept for CVE-2022-0847 | 2024-04-19T15:21:57Z |
+| [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [arttnba3/CVE-2022-0847](https://github.com/arttnba3/CVE-2022-0847) | my personal exploit of CVE-2022-0847(dirty pipe) | 2022-03-12T11:31:46Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [mrluc4s-sysadmin/PoC-CVE-2022-0778-](https://github.com/mrluc4s-sysadmin/PoC-CVE-2022-0778-) | Este repositório server como prova de conceito para a vulnerabilidade CVE-2022-0778 do OpenSSL | 2023-06-01T12:23:54Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-) | A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability | 2023-05-31T12:04:25Z |
 | [CVE-2022-0778](https://www.cve.org/CVERecord?id=CVE-2022-0778) | [Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) | no description | 2023-09-11T07:30:33Z |
@@ -5537,6 +5550,7 @@ Last generated: 2025-04-28 02:40:03.017163
 | [CVE-2022-0337](https://www.cve.org/CVERecord?id=CVE-2022-0337) | [zer0ne1/CVE-2022-0337-RePoC](https://github.com/zer0ne1/CVE-2022-0337-RePoC) | no description | 2023-11-21T02:34:32Z |
 | [CVE-2022-0185](https://www.cve.org/CVERecord?id=CVE-2022-0185) | [dcheng69/CVE-2022-0185-Case-Study](https://github.com/dcheng69/CVE-2022-0185-Case-Study) | no description | 2024-04-15T02:42:43Z |
 | [CVE-2022-0165](https://www.cve.org/CVERecord?id=CVE-2022-0165) | [K3ysTr0K3R/CVE-2022-0165-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT) | A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass | 2023-08-09T11:53:18Z |
+| [CVE-2022-0165](https://www.cve.org/CVERecord?id=CVE-2022-0165) | [Cappricio-Securities/CVE-2022-0165](https://github.com/Cappricio-Securities/CVE-2022-0165) | WordPress Page Builder KingComposer &lt;=2.9.6 - Open Redirect | 2024-05-29T04:00:25Z |
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [Erenlancaster/CVE-2021-46704](https://github.com/Erenlancaster/CVE-2021-46704) | CVE-2021-46704 Nuclei template | 2023-06-22T05:03:15Z |
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC) | CVE-2021-46704 GenieACS Command Injection POC | 2023-06-21T12:29:43Z |
 | [CVE-2021-46704](https://www.cve.org/CVERecord?id=CVE-2021-46704) | [hheeyywweellccoommee/CVE-2021-46704-POC-bsnln](https://github.com/hheeyywweellccoommee/CVE-2021-46704-POC-bsnln) | CVE-2021-46704 GenieACS Command Injection POC | 2023-06-21T13:00:53Z |
