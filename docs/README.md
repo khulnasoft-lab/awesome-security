@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-01 02:45:44.701021
+Last generated: 2025-05-02 02:36:59.774545
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
 | [CVE-2025-3292029](https://www.cve.org/CVERecord?id=CVE-2025-3292029) | [itssixtyn3in/CVE-2025-3292029](https://github.com/itssixtyn3in/CVE-2025-3292029) | no description | 2025-03-30T03:38:08Z |
 | [CVE-2025-3292028](https://www.cve.org/CVERecord?id=CVE-2025-3292028) | [itssixtyn3in/CVE-2025-3292028](https://github.com/itssixtyn3in/CVE-2025-3292028) | no description | 2025-03-30T02:25:15Z |
 | [CVE-2025-3292027](https://www.cve.org/CVERecord?id=CVE-2025-3292027) | [itssixtyn3in/CVE-2025-3292027](https://github.com/itssixtyn3in/CVE-2025-3292027) | no description | 2025-03-30T02:23:43Z |
@@ -19,12 +20,15 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2025-3292025](https://www.cve.org/CVERecord?id=CVE-2025-3292025) | [itssixtyn3in/CVE-2025-3292025](https://github.com/itssixtyn3in/CVE-2025-3292025) | no description | 2025-03-29T17:26:31Z |
 | [CVE-2025-3282025](https://www.cve.org/CVERecord?id=CVE-2025-3282025) | [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025) | no description | 2025-03-28T04:28:22Z |
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
+| [CVE-2025-32641](https://www.cve.org/CVERecord?id=CVE-2025-32641) | [Nxploited/CVE-2025-32641](https://github.com/Nxploited/CVE-2025-32641) | Anant Addons for Elementor &lt;= 1.1.5 CSRF to Arbitrary Plugin Installation vulnerability | 2025-04-11T11:03:44Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248) | A vulnerability scanner for CVE-2025-3248 in Langflow applications. 用于扫描 Langflow 应用中 CVE-2025-3248 漏洞的工具。 | 2025-04-10T11:45:57Z |
+| [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
 | [CVE-2025-32013](https://www.cve.org/CVERecord?id=CVE-2025-32013) | [Mohith-T/CVE-2025-32013](https://github.com/Mohith-T/CVE-2025-32013) | Security Advisory and PoC for CVE-2025-32013 | 2025-04-08T21:59:56Z |
 | [CVE-2025-31864](https://www.cve.org/CVERecord?id=CVE-2025-31864) | [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864) | PoC of CVE-2025-31864 | 2025-04-03T00:38:12Z |
 | [CVE-2025-31651](https://www.cve.org/CVERecord?id=CVE-2025-31651) | [gregk4sec/CVE-2025-31651](https://github.com/gregk4sec/CVE-2025-31651) | CVE Discovered by Greg K | 2025-04-08T06:24:01Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC) | Vite任意文件读取漏洞批量检测脚本CVE-2025-31486 | 2025-04-07T08:56:22Z |
+| [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486) | CVE-2025-31486 poc | 2025-04-11T09:35:25Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
@@ -140,6 +144,7 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2025-2857](https://www.cve.org/CVERecord?id=CVE-2025-2857) | [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit) | no description | 2025-03-28T21:01:44Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825) | no description | 2025-04-03T01:13:28Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825) | no description | 2025-04-04T08:57:02Z |
+| [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP) | Shattered is a tool and POC for the new CrushedFTP vulns, CVE Exploit Script: CVE-2025-2825 vs CVE-2025-31161 | 2025-04-11T10:54:05Z |
 | [CVE-2025-2807](https://www.cve.org/CVERecord?id=CVE-2025-2807) | [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807) | Wordpress - Motors Plugin &lt;= 1.4.64 - Arbitrary Plugin Installation Vulnerability | 2025-04-08T10:24:42Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
 | [CVE-2025-27840](https://www.cve.org/CVERecord?id=CVE-2025-27840) | [em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840) | Expanded version of the code shown at RootedCON redone in python - CVE-2025-27840 | 2025-03-09T16:15:47Z |
@@ -625,6 +630,7 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932) | no description | 2024-10-11T08:12:38Z |
 | [CVE-2024-5910](https://www.cve.org/CVERecord?id=CVE-2024-5910) | [p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464) | no description | 2024-11-15T23:46:01Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
+| [CVE-2024-57972](https://www.cve.org/CVERecord?id=CVE-2024-57972) | [tania-silva/CVE-2024-57972](https://github.com/tania-silva/CVE-2024-57972) | no description | 2025-03-07T12:02:44Z |
 | [CVE-2024-57785](https://www.cve.org/CVERecord?id=CVE-2024-57785) | [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785) | no description | 2025-01-16T11:10:34Z |
 | [CVE-2024-57784](https://www.cve.org/CVERecord?id=CVE-2024-57784) | [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784) | no description | 2025-01-16T11:17:10Z |
 | [CVE-2024-57778](https://www.cve.org/CVERecord?id=CVE-2024-57778) | [KUK3N4N/CVE-2024-57778](https://github.com/KUK3N4N/CVE-2024-57778) | An issue in Orbe ONetView Roteador Onet-1200 Orbe 1680210096 allows a remote attacker to escalate privileges via the servers response from status code 500 to status code 200 | 2025-02-13T18:14:56Z |
@@ -1801,6 +1807,8 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002) | no description | 2024-10-22T12:44:44Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [XiaomingX/cve-2024-32002-poc](https://github.com/XiaomingX/cve-2024-32002-poc) | CVE-2024-32002 是 Git 中的一个严重漏洞，允许攻击者在用户执行 git clone 操作时远程执行任意代码（RCE）。 | 2024-11-23T04:06:33Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [jolibb55/donald](https://github.com/jolibb55/donald) | An example of a repo that would make use of the CVE-2024-32002 | 2024-12-11T07:22:59Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc) | This repository contains a PoC for exploiting CVE-2024-32002, a vulnerability in Git that allows RCE during a git clone operation. By crafting repositories with submodules in a specific way, an attacker can exploit symlink handling on case-insensitive filesystems to write files into the .git/ directory, leading to the execution of malicious hooks. | 2025-03-06T10:24:55Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002) | This repository contains a PoC for exploiting CVE-2024-32002, a vulnerability in Git that allows RCE during a git clone operation. By crafting repositories with submodules in a specific way, an attacker can exploit symlink handling on case-insensitive filesystems to write files into the .git/ directory, leading to the execution of malicious hooks. | 2025-03-06T09:40:43Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -3648,6 +3656,7 @@ Last generated: 2025-05-01 02:45:44.701021
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [oxapavan/CVE-2023-4220-HTB-PermX](https://github.com/oxapavan/CVE-2023-4220-HTB-PermX) | no description | 2024-11-10T18:13:18Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [numaan911098/CVE-2023-4220](https://github.com/numaan911098/CVE-2023-4220) | https://nvd.nist.gov/vuln/detail/CVE-2023-4220 | 2024-11-13T08:30:00Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [MikeyPPPPPPPP/CVE-2023-4220](https://github.com/MikeyPPPPPPPP/CVE-2023-4220) | Remote command execution exploit made for redteamers. | 2024-12-04T22:16:12Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Pr1or95/CVE-2023-4220-exploit](https://github.com/Pr1or95/CVE-2023-4220-exploit) | Carga de archivos sin restricciones en la funcionalidad de carga de archivos grandes en `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` en Chamilo LMS en versiones &lt;= 1.11.24 permite a atacantes no autenticados realizar ataques de Cross Site Scripting almacenados y obtener código remoto ejecución mediante la carga de web shell. | 2024-12-05T12:45:13Z |
 | [CVE-2023-42115](https://www.cve.org/CVERecord?id=CVE-2023-42115) | [kirinse/cve-2023-42115](https://github.com/kirinse/cve-2023-42115) | This module exploits a vulnerability in the target service identified as CVE-2023-42115. | 2024-09-02T21:17:41Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
@@ -8629,3 +8638,4 @@ Last generated: 2025-05-01 02:45:44.701021
 | CVE NOT FOUND | [Herman-Adu/middleware-vulnerability-cve-2025](https://github.com/Herman-Adu/middleware-vulnerability-cve-2025) | no description | 2025-04-09T15:33:02Z |
 | CVE NOT FOUND | [nsvizp/cve-monitory](https://github.com/nsvizp/cve-monitory) | 2025实时监控cve并翻译推送，支持钉钉，微信，飞书等 | 2025-03-21T08:48:09Z |
 | CVE NOT FOUND | [SpiralBL0CK/cve2024-49740](https://github.com/SpiralBL0CK/cve2024-49740) | cve2024-49740 | 2025-03-05T12:32:14Z |
+| CVE NOT FOUND | [fdzdev/CVE-2025-XXXXX](https://github.com/fdzdev/CVE-2025-XXXXX) | no description | 2025-04-10T23:49:23Z |
