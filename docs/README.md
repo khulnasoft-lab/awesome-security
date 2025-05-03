@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-02 02:36:59.774545
+Last generated: 2025-05-03 02:26:32.186538
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2025-32641](https://www.cve.org/CVERecord?id=CVE-2025-32641) | [Nxploited/CVE-2025-32641](https://github.com/Nxploited/CVE-2025-32641) | Anant Addons for Elementor &lt;= 1.1.5 CSRF to Arbitrary Plugin Installation vulnerability | 2025-04-11T11:03:44Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248) | A vulnerability scanner for CVE-2025-3248 in Langflow applications. 用于扫描 Langflow 应用中 CVE-2025-3248 漏洞的工具。 | 2025-04-10T11:45:57Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
+| [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
 | [CVE-2025-32013](https://www.cve.org/CVERecord?id=CVE-2025-32013) | [Mohith-T/CVE-2025-32013](https://github.com/Mohith-T/CVE-2025-32013) | Security Advisory and PoC for CVE-2025-32013 | 2025-04-08T21:59:56Z |
 | [CVE-2025-31864](https://www.cve.org/CVERecord?id=CVE-2025-31864) | [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864) | PoC of CVE-2025-31864 | 2025-04-03T00:38:12Z |
@@ -156,6 +157,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2025-27607](https://www.cve.org/CVERecord?id=CVE-2025-27607) | [Barsug/msgspec-python313-pre](https://github.com/Barsug/msgspec-python313-pre) | CVE-2025-27607 fix | 2025-03-14T11:41:48Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept) | no description | 2025-03-23T23:30:37Z |
 | [CVE-2025-27152](https://www.cve.org/CVERecord?id=CVE-2025-27152) | [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf) | Demonstration of CVE-2025-27152 | 2025-03-30T08:36:48Z |
+| [CVE-2025-26865](https://www.cve.org/CVERecord?id=CVE-2025-26865) | [mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865) | CVE-2025-26865: FreeMarker Server-Side Template Injection via the &quot;ecommerce&quot; plugin in Apache OfBiz | 2025-04-11T16:18:19Z |
 | [CVE-2025-26794](https://www.cve.org/CVERecord?id=CVE-2025-26794) | [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi) | no description | 2025-03-05T07:34:50Z |
 | [CVE-2025-26794](https://www.cve.org/CVERecord?id=CVE-2025-26794) | [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794) | CVE-2025-26794: Blind SQL injection in Exim 4.98 (SQLite DBM)- exploit writeup | 2025-02-22T14:14:59Z |
 | [CVE-2025-26633](https://www.cve.org/CVERecord?id=CVE-2025-26633) | [sandsoncosta/CVE-2025-26633](https://github.com/sandsoncosta/CVE-2025-26633) | no description | 2025-04-08T19:29:28Z |
@@ -242,6 +244,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813) | no description | 2025-04-05T18:57:08Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813) | no description | 2025-04-08T14:52:37Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC) | A simple, easy-to-use POC for CVE-2025-42813 (Apache Tomcat versions below 9.0.99). | 2025-04-09T15:20:32Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813) | CVE-2025-24813 poc | 2025-04-10T14:49:14Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799) | no description | 2025-04-03T16:55:11Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
@@ -490,6 +493,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2024-7029](https://www.cve.org/CVERecord?id=CVE-2024-7029) | [bigherocenter/CVE-2024-7029-EXPLOIT](https://github.com/bigherocenter/CVE-2024-7029-EXPLOIT) | no description | 2024-08-30T07:58:27Z |
 | [CVE-2024-7029](https://www.cve.org/CVERecord?id=CVE-2024-7029) | [ebrasha/CVE-2024-7029](https://github.com/ebrasha/CVE-2024-7029) | A PoC tool for exploiting CVE-2024-7029 in AvTech devices, enabling RCE, vulnerability scanning, and an interactive shell. | 2024-09-02T10:16:49Z |
 | [CVE-2024-7029](https://www.cve.org/CVERecord?id=CVE-2024-7029) | [geniuszlyy/CVE-2024-7029](https://github.com/geniuszlyy/CVE-2024-7029) | A PoC exploit for the CVE-2024-7029 vulnerability found in AvTech devices, allowing Remote Code Execution (RCE) | 2024-10-08T10:04:08Z |
+| [CVE-2024-7014](https://www.cve.org/CVERecord?id=CVE-2024-7014) | [hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014) | no description | 2025-03-06T15:38:46Z |
 | [CVE-2024-6893](https://www.cve.org/CVERecord?id=CVE-2024-6893) | [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC) | Mass Exploit &lt; [CVE-2024-6893/CWE-611 - Journyx] - XML External Entities Injection (XXE) Exploit | 2024-08-17T22:47:45Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782) | Calibre 远程代码执行（CVE-2024-6782）Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-06T15:31:48Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782) | Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-09T06:25:03Z |
@@ -4567,6 +4571,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) | CVE-2023-34312 | 2023-05-27T12:44:42Z |
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [ASG-CASTLE/CVE-2023-27350](https://github.com/ASG-CASTLE/CVE-2023-27350) | no description | 2024-04-19T04:47:10Z |
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability](https://github.com/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability) | no description | 2024-05-10T16:14:22Z |
+| [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [imancybersecurity/CVE-2023-27350-POC](https://github.com/imancybersecurity/CVE-2023-27350-POC) | no description | 2023-04-21T20:13:47Z |
 | [CVE-2023-27326](https://www.cve.org/CVERecord?id=CVE-2023-27326) | [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326) | VM Escape for Parallels Desktop &lt;18.1.1 | 2023-03-20T11:47:54Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732) | Python 2.7 | 2023-06-06T02:59:22Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass) | CVE-2023-2732 Mass | 2023-05-31T02:43:11Z |
@@ -5460,6 +5465,7 @@ Last generated: 2025-05-02 02:36:59.774545
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [Wack0/batondrop_armv7](https://github.com/Wack0/batondrop_armv7) | An implementation of baton drop (CVE-2022-21894) for armv7 (MSM8960) | 2023-03-11T14:38:13Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [p4ncontomat3/CVE-2022-21661](https://github.com/p4ncontomat3/CVE-2022-21661) | Script to validate WordPress CVE-2022-21661 | 2024-01-04T15:49:00Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [CharonDefalt/WordPress--CVE-2022-21661](https://github.com/CharonDefalt/WordPress--CVE-2022-21661) | no description | 2024-03-24T07:03:35Z |
+| [CVE-2022-21500](https://www.cve.org/CVERecord?id=CVE-2022-21500) | [Cappricio-Securities/CVE-2022-21500](https://github.com/Cappricio-Securities/CVE-2022-21500) | Oracle E-Business Suite &lt;=12.2 - Authentication Bypass | 2024-06-09T02:59:45Z |
 | [CVE-2022-21449](https://www.cve.org/CVERecord?id=CVE-2022-21449) | [AlexanderZinoni/CVE-2022-21449](https://github.com/AlexanderZinoni/CVE-2022-21449) | no description | 2022-09-04T11:56:58Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445) | CVE-2022-21445 | 2023-08-07T05:59:13Z |
 | [CVE-2022-21445](https://www.cve.org/CVERecord?id=CVE-2022-21445) | [szymonh/android-gadget](https://github.com/szymonh/android-gadget) | CVE-2022-20009 - Description and sample exploit for Android USB Gadgets | 2023-08-06T10:01:32Z |
@@ -8639,3 +8645,4 @@ Last generated: 2025-05-02 02:36:59.774545
 | CVE NOT FOUND | [nsvizp/cve-monitory](https://github.com/nsvizp/cve-monitory) | 2025实时监控cve并翻译推送，支持钉钉，微信，飞书等 | 2025-03-21T08:48:09Z |
 | CVE NOT FOUND | [SpiralBL0CK/cve2024-49740](https://github.com/SpiralBL0CK/cve2024-49740) | cve2024-49740 | 2025-03-05T12:32:14Z |
 | CVE NOT FOUND | [fdzdev/CVE-2025-XXXXX](https://github.com/fdzdev/CVE-2025-XXXXX) | no description | 2025-04-10T23:49:23Z |
+| CVE NOT FOUND | [Brakerciti/OZForensics_exploit](https://github.com/Brakerciti/OZForensics_exploit) | CVE-2025–32367: OZForensics IDOR exploit | 2025-04-11T13:50:01Z |
