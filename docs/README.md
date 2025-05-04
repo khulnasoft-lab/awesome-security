@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-03 02:26:32.186538
+Last generated: 2025-05-04 02:45:31.509718
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC) | Vite任意文件读取漏洞批量检测脚本CVE-2025-31486 | 2025-04-07T08:56:22Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486) | CVE-2025-31486 poc | 2025-04-11T09:35:25Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
 | [CVE-2025-31125](https://www.cve.org/CVERecord?id=CVE-2025-31125) | [sunhuiHi666/CVE-2025-31125](https://github.com/sunhuiHi666/CVE-2025-31125) | Vite 任意文件读取漏洞POC | 2025-04-01T14:24:44Z |
@@ -132,6 +133,8 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [l1uk/nextjs-middleware-exploit](https://github.com/l1uk/nextjs-middleware-exploit) | Research on Next.js middleware vulnerability (CVE-2025-29927) allowing authorization bypass and potential exploits. | 2025-04-09T14:54:30Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [pickovven/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/pickovven/vulnerable-nextjs-14-CVE-2025-29927) | no description | 2025-04-08T23:25:24Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [goncalocsousa1/CVE-2025-29927](https://github.com/goncalocsousa1/CVE-2025-29927) | no description | 2025-04-08T09:29:48Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [AnonKryptiQuz/NextSploit](https://github.com/AnonKryptiQuz/NextSploit) | NextSploit is a command-line tool designed to detect and exploit CVE-2025-29927, a security flaw in Next.js | 2025-03-28T11:09:25Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [furmak331/CVE-2025-29927](https://github.com/furmak331/CVE-2025-29927) | Critical vulnerability in next.js : Bypass middleware authentication | 2025-03-25T02:20:36Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
 | [CVE-2025-29705](https://www.cve.org/CVERecord?id=CVE-2025-29705) | [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705) | CVE-2025-29705 | 2025-04-10T15:56:06Z |
 | [CVE-2025-29602](https://www.cve.org/CVERecord?id=CVE-2025-29602) | [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602) | no description | 2025-04-01T13:01:25Z |
@@ -143,6 +146,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Pei4AN/CVE-2025-28915](https://github.com/Pei4AN/CVE-2025-28915) | no description | 2025-03-14T09:30:47Z |
 | [CVE-2025-28915](https://www.cve.org/CVERecord?id=CVE-2025-28915) | [Nxploited/CVE-2025-28915](https://github.com/Nxploited/CVE-2025-28915) | WordPress ThemeEgg ToolKit plugin &lt;= 1.2.9 - Arbitrary File Upload vulnerability | 2025-03-12T03:23:32Z |
 | [CVE-2025-2857](https://www.cve.org/CVERecord?id=CVE-2025-2857) | [RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit) | no description | 2025-03-28T21:01:44Z |
+| [CVE-2025-28346](https://www.cve.org/CVERecord?id=CVE-2025-28346) | [Shubham03007/CVE-2025-28346](https://github.com/Shubham03007/CVE-2025-28346) | Code-projects Ticket Booking 1.0 is vulnerable to SQL Injection via the &gt; Email parameter | 2025-04-11T16:28:57Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825) | no description | 2025-04-03T01:13:28Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825) | no description | 2025-04-04T08:57:02Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP) | Shattered is a tool and POC for the new CrushedFTP vulns, CVE Exploit Script: CVE-2025-2825 vs CVE-2025-31161 | 2025-04-11T10:54:05Z |
@@ -245,6 +249,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813) | no description | 2025-04-08T14:52:37Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC) | A simple, easy-to-use POC for CVE-2025-42813 (Apache Tomcat versions below 9.0.99). | 2025-04-09T15:20:32Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813) | CVE-2025-24813 poc | 2025-04-10T14:49:14Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813) | This repository contains a shell script based POC on Apache Tomcat CVE-2025-24813.  It allow you to easily test the vulnerability on any version of Apache Tomcat | 2025-03-30T09:39:45Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799) | no description | 2025-04-03T16:55:11Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
@@ -293,6 +298,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2025-22510](https://www.cve.org/CVERecord?id=CVE-2025-22510) | [DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510) | PoC of CVE-2025-22510 | 2025-01-08T01:02:02Z |
 | [CVE-2025-2249](https://www.cve.org/CVERecord?id=CVE-2025-2249) | [Nxploited/CVE-2025-2249](https://github.com/Nxploited/CVE-2025-2249) | WordPress SoJ SoundSlides Plugin &lt;= 1.2.2 is vulnerable to Arbitrary File Upload | 2025-03-28T22:57:32Z |
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [N4SL1/CVE-2025-22457-PoC](https://github.com/N4SL1/CVE-2025-22457-PoC) | CVE-2025-22457 Python and Metasploit PoC for Ivanti unauthenticated RCE | 2025-04-08T12:01:13Z |
+| [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [llussiess/CVE-2025-22457](https://github.com/llussiess/CVE-2025-22457) | no description | 2025-04-12T16:38:08Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-2233](https://www.cve.org/CVERecord?id=CVE-2025-2233) | [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233) | Improper Verification of Cryptographic Signature (CWE-347) | 2025-03-12T08:54:24Z |
 | [CVE-2025-22226](https://www.cve.org/CVERecord?id=CVE-2025-22226) | [bronsoneaver/vme-escape](https://github.com/bronsoneaver/vme-escape) | (including : CVE-2025-22226, CVE-2025-22225, CVE-2025-22224) | 2025-03-25T12:53:53Z |
@@ -634,6 +640,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2024-5932](https://www.cve.org/CVERecord?id=CVE-2024-5932) | [OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932) | no description | 2024-10-11T08:12:38Z |
 | [CVE-2024-5910](https://www.cve.org/CVERecord?id=CVE-2024-5910) | [p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464) | no description | 2024-11-15T23:46:01Z |
 | [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806) | Exploit for the CVE-2024-5806 | 2024-06-24T16:28:35Z |
+| [CVE-2024-5806](https://www.cve.org/CVERecord?id=CVE-2024-5806) | [sec13b/CVE-2024-5806](https://github.com/sec13b/CVE-2024-5806) | progress moveit cve-2024-5806 | 2025-03-08T20:51:46Z |
 | [CVE-2024-57972](https://www.cve.org/CVERecord?id=CVE-2024-57972) | [tania-silva/CVE-2024-57972](https://github.com/tania-silva/CVE-2024-57972) | no description | 2025-03-07T12:02:44Z |
 | [CVE-2024-57785](https://www.cve.org/CVERecord?id=CVE-2024-57785) | [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785) | no description | 2025-01-16T11:10:34Z |
 | [CVE-2024-57784](https://www.cve.org/CVERecord?id=CVE-2024-57784) | [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784) | no description | 2025-01-16T11:17:10Z |
@@ -6243,6 +6250,7 @@ Last generated: 2025-05-03 02:26:32.186538
 | [CVE-2020-17382](https://www.cve.org/CVERecord?id=CVE-2020-17382) | [houseofxyz/CVE-2020-17382](https://github.com/houseofxyz/CVE-2020-17382) | no description | 2023-01-01T13:49:07Z |
 | [CVE-2020-17087](https://www.cve.org/CVERecord?id=CVE-2020-17087) | [raiden757/CVE-2020-17087](https://github.com/raiden757/CVE-2020-17087) | no description | 2023-05-13T03:11:42Z |
 | [CVE-2020-17087](https://www.cve.org/CVERecord?id=CVE-2020-17087) | [Hans-MartinHannibalLauridsen/CurveBall](https://github.com/Hans-MartinHannibalLauridsen/CurveBall) | CVE-2020-0601: Windows CryptoAPI Vulnerability. (CurveBall/ChainOfFools) | 2020-01-23T18:26:48Z |
+| [CVE-2020-16125](https://www.cve.org/CVERecord?id=CVE-2020-16125) | [za970120604/CVE-2020-16125-Reproduction](https://github.com/za970120604/CVE-2020-16125-Reproduction) | no description | 2023-08-03T08:24:28Z |
 | [CVE-2020-16040](https://www.cve.org/CVERecord?id=CVE-2020-16040) | [maldev866/ChExp_CVE_2020_16040](https://github.com/maldev866/ChExp_CVE_2020_16040) | ChExp_CVE_2020_16040 | 2023-03-07T09:45:36Z |
 | [CVE-2020-15848](https://www.cve.org/CVERecord?id=CVE-2020-15848) | [faklad/CVE-2020-15848](https://github.com/faklad/CVE-2020-15848) | CVE-2020-15848 | 2023-05-03T02:35:08Z |
 | [CVE-2020-15848](https://www.cve.org/CVERecord?id=CVE-2020-15848) | [zeronetworks/zerologon](https://github.com/zeronetworks/zerologon) | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | 2020-09-17T16:53:17Z |
