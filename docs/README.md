@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-04 02:45:31.509718
+Last generated: 2025-05-05 02:42:02.273012
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1128,6 +1128,7 @@ Last generated: 2025-05-04 02:45:31.509718
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519) | Zimbra - Remote Command Execution (CVE-2024-45519) | 2024-10-05T00:15:18Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519) | no description | 2024-11-11T08:57:44Z |
 | [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [XiaomingX/cve-2024-45519-poc](https://github.com/XiaomingX/cve-2024-45519-poc) | CVE-2024-45519是Zimbra Collaboration（ZCS）中的一个高危漏洞，存在于其postjournal服务中。当该服务被启用时，未经身份验证的攻击者可以通过构造特定的SMTP请求，远程执行任意命令，从而完全控制受影响的服务器。 | 2024-11-22T01:56:21Z |
+| [CVE-2024-45519](https://www.cve.org/CVERecord?id=CVE-2024-45519) | [sec13b/CVE-2024-45519](https://github.com/sec13b/CVE-2024-45519) | Zimbra CVE-2024-45519 | 2025-03-08T20:55:57Z |
 | [CVE-2024-45507](https://www.cve.org/CVERecord?id=CVE-2024-45507) | [Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) | no description | 2024-09-11T07:14:13Z |
 | [CVE-2024-45492](https://www.cve.org/CVERecord?id=CVE-2024-45492) | [nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492) | no description | 2024-11-01T10:27:39Z |
 | [CVE-2024-45440](https://www.cve.org/CVERecord?id=CVE-2024-45440) | [w0r1i0g1ht/CVE-2024-45440](https://github.com/w0r1i0g1ht/CVE-2024-45440) | Drupal CVE-2024-45440 | 2024-12-26T13:35:42Z |
@@ -3786,6 +3787,7 @@ Last generated: 2025-05-04 02:45:31.509718
 | [CVE-2023-40037](https://www.cve.org/CVERecord?id=CVE-2023-40037) | [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | 2023-11-23T22:26:21Z |
 | [CVE-2023-40031](https://www.cve.org/CVERecord?id=CVE-2023-40031) | [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031) | notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现 | 2023-09-08T05:43:12Z |
 | [CVE-2023-40028](https://www.cve.org/CVERecord?id=CVE-2023-40028) | [0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028) | no description | 2024-03-23T15:25:49Z |
+| [CVE-2023-40028](https://www.cve.org/CVERecord?id=CVE-2023-40028) | [BBSynapse/CVE-2023-40028](https://github.com/BBSynapse/CVE-2023-40028) | CVE-2023-40028 wirkt sich auf Ghost, ein Open-Source-Content-Management-System (CMS) aus. | 2024-12-10T09:12:20Z |
 | [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [rxerium/CVE-2023-40000](https://github.com/rxerium/CVE-2023-40000) | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | 2024-02-28T19:36:40Z |
 | [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [iveresk/cve-2023-40000](https://github.com/iveresk/cve-2023-40000) | That&#x27;s a PoC of cve-2023-40000. Wordpress LiteSpeed Cache exploit. | 2024-05-13T15:25:58Z |
 | [CVE-2023-40000](https://www.cve.org/CVERecord?id=CVE-2023-40000) | [quantiom/litespeed-cache-xss-poc](https://github.com/quantiom/litespeed-cache-xss-poc) | PoC for XSS vulnerability in the LiteSpeed Cache WordPress plugin (CVE-2023-40000) allowing elevated privileges. Includes code, explanations, and mitigations. | 2024-05-12T06:13:47Z |
@@ -5706,6 +5708,7 @@ Last generated: 2025-05-04 02:45:31.509718
 | [CVE-2021-42694](https://www.cve.org/CVERecord?id=CVE-2021-42694) | [wangfly-me/Apache_Penetration_Tool](https://github.com/wangfly-me/Apache_Penetration_Tool) | CVE-2021-41773&amp;CVE-2021-42013图形化漏洞检测利用工具 | 2022-04-27T15:17:38Z |
 | [CVE-2021-42574](https://www.cve.org/CVERecord?id=CVE-2021-42574) | [simplylu/CVE-2021-42574](https://github.com/simplylu/CVE-2021-42574) | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | 2021-11-02T15:32:38Z |
 | [CVE-2021-42574](https://www.cve.org/CVERecord?id=CVE-2021-42574) | [tin-z/solidity_CVE-2021-42574-POC](https://github.com/tin-z/solidity_CVE-2021-42574-POC) | POC of CVE-2021-42574 for solidity and solc compiler | 2023-01-31T18:15:00Z |
+| [CVE-2021-42558](https://www.cve.org/CVERecord?id=CVE-2021-42558) | [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558) | CVE-2021-42558: Multiple Cross-Site Scripting in MITRE Caldera | 2024-06-09T20:20:46Z |
 | [CVE-2021-42342](https://www.cve.org/CVERecord?id=CVE-2021-42342) | [ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1) | no description | 2023-10-29T05:50:47Z |
 | [CVE-2021-42327](https://www.cve.org/CVERecord?id=CVE-2021-42327) | [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327) | kernel exploit POC for vulnerability i found in amd gpu driver | 2021-10-28T21:10:29Z |
 | [CVE-2021-42260](https://www.cve.org/CVERecord?id=CVE-2021-42260) | [vm2mv/tinyxml](https://github.com/vm2mv/tinyxml) | TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194 | 2024-12-04T07:24:59Z |
@@ -8654,3 +8657,5 @@ Last generated: 2025-05-04 02:45:31.509718
 | CVE NOT FOUND | [SpiralBL0CK/cve2024-49740](https://github.com/SpiralBL0CK/cve2024-49740) | cve2024-49740 | 2025-03-05T12:32:14Z |
 | CVE NOT FOUND | [fdzdev/CVE-2025-XXXXX](https://github.com/fdzdev/CVE-2025-XXXXX) | no description | 2025-04-10T23:49:23Z |
 | CVE NOT FOUND | [Brakerciti/OZForensics_exploit](https://github.com/Brakerciti/OZForensics_exploit) | CVE-2025–32367: OZForensics IDOR exploit | 2025-04-11T13:50:01Z |
+| CVE NOT FOUND | [Fauzan-Aldi/CVE](https://github.com/Fauzan-Aldi/CVE) | CVE-2025 - classroombookings Stored Cross Site Scripting (XSS) | 2025-04-12T17:26:59Z |
+| CVE NOT FOUND | [Fuziih/cweAssign](https://github.com/Fuziih/cweAssign) | Repository for VulnBERTa: On automating CWE weakness assignment and improving the quality of cybersecurity CVE vulnerabilities through ML/NLP published in DevSecOps Research and Opportunities (DevSecOpsRO 2024) on July 12th, 2024 in Vienna, Austria  co-located with the 9th IEEE European Symposium on Security and Privacy (EuroS&amp;P 2024). | 2024-05-13T09:10:30Z |
