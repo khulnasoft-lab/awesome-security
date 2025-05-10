@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-09 02:39:06.174257
+Last generated: 2025-05-10 02:26:29.554315
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,9 @@ Last generated: 2025-05-09 02:39:06.174257
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-4162030](https://www.cve.org/CVERecord?id=CVE-2025-4162030) | [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030) | no description | 2025-04-16T20:41:14Z |
+| [CVE-2025-4162029](https://www.cve.org/CVERecord?id=CVE-2025-4162029) | [NotItsSixtyN3in/CVE-2025-4162029](https://github.com/NotItsSixtyN3in/CVE-2025-4162029) | no description | 2025-04-16T20:39:56Z |
+| [CVE-2025-4162028](https://www.cve.org/CVERecord?id=CVE-2025-4162028) | [NotItsSixtyN3in/CVE-2025-4162028](https://github.com/NotItsSixtyN3in/CVE-2025-4162028) | no description | 2025-04-16T20:39:14Z |
 | [CVE-2025-4162027](https://www.cve.org/CVERecord?id=CVE-2025-4162027) | [NotItsSixtyN3in/CVE-2025-4162027](https://github.com/NotItsSixtyN3in/CVE-2025-4162027) | no description | 2025-04-16T20:38:29Z |
 | [CVE-2025-4162026](https://www.cve.org/CVERecord?id=CVE-2025-4162026) | [NotItsSixtyN3in/CVE-2025-4162026](https://github.com/NotItsSixtyN3in/CVE-2025-4162026) | no description | 2025-04-16T20:37:48Z |
 | [CVE-2025-4162025](https://www.cve.org/CVERecord?id=CVE-2025-4162025) | [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025) | no description | 2025-04-16T20:32:52Z |
@@ -2412,6 +2415,7 @@ Last generated: 2025-05-09 02:39:06.174257
 | [CVE-2024-24549](https://www.cve.org/CVERecord?id=CVE-2024-24549) | [JFOZ1010/CVE-2024-24549](https://github.com/JFOZ1010/CVE-2024-24549) | Proof of concept of the CVE-2024-24549, Exploit in Python. | 2024-12-09T04:59:07Z |
 | [CVE-2024-24520](https://www.cve.org/CVERecord?id=CVE-2024-24520) | [xF-9979/CVE-2024-24520](https://github.com/xF-9979/CVE-2024-24520) | Arbitrary code execution vulnerability | 2024-02-18T03:13:53Z |
 | [CVE-2024-24488](https://www.cve.org/CVERecord?id=CVE-2024-24488) | [minj-ae/CVE-2024-24488](https://github.com/minj-ae/CVE-2024-24488) | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | 2024-02-01T02:29:19Z |
+| [CVE-2024-24450](https://www.cve.org/CVERecord?id=CVE-2024-24450) | [SpiralBL0CK/-CVE-2024-24450-](https://github.com/SpiralBL0CK/-CVE-2024-24450-) | test later for hypo poc for  CVE-2024-24450 | 2025-03-13T21:18:37Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-01-20T12:58:47Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split) | Writeup of a heap overflow vulnerability in the GNU coreutils split program. CVE-2024-0684 | 2023-12-15T06:33:15Z |
 | [CVE-2024-24409](https://www.cve.org/CVERecord?id=CVE-2024-24409) | [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409) | ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability | 2024-03-25T20:51:56Z |
