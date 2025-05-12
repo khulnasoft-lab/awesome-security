@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-11 02:43:34.700285
+Last generated: 2025-05-12 02:43:10.004345
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -30,11 +30,14 @@ Last generated: 2025-05-11 02:43:34.700285
 | [CVE-2025-3292025](https://www.cve.org/CVERecord?id=CVE-2025-3292025) | [itssixtyn3in/CVE-2025-3292025](https://github.com/itssixtyn3in/CVE-2025-3292025) | no description | 2025-03-29T17:26:31Z |
 | [CVE-2025-3282025](https://www.cve.org/CVERecord?id=CVE-2025-3282025) | [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025) | no description | 2025-03-28T04:28:22Z |
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
+| [CVE-2025-32682](https://www.cve.org/CVERecord?id=CVE-2025-32682) | [Nxploited/CVE-2025-32682](https://github.com/Nxploited/CVE-2025-32682) | WordPress MapSVG Lite Plugin &lt;= 8.5.34 is vulnerable to Arbitrary File Upload | 2025-04-18T10:18:44Z |
 | [CVE-2025-32641](https://www.cve.org/CVERecord?id=CVE-2025-32641) | [Nxploited/CVE-2025-32641](https://github.com/Nxploited/CVE-2025-32641) | Anant Addons for Elementor &lt;= 1.1.5 CSRF to Arbitrary Plugin Installation vulnerability | 2025-04-11T11:03:44Z |
 | [CVE-2025-32579](https://www.cve.org/CVERecord?id=CVE-2025-32579) | [Nxploited/CVE-2025-32579](https://github.com/Nxploited/CVE-2025-32579) | WordPress Sync Posts Plugin &lt;= 1.0 is vulnerable to Arbitrary File Upload | 2025-04-14T15:11:32Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248) | A vulnerability scanner for CVE-2025-3248 in Langflow applications. 用于扫描 Langflow 应用中 CVE-2025-3248 漏洞的工具。 | 2025-04-10T11:45:57Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248) | no description | 2025-04-16T14:00:02Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection) | no description | 2025-04-18T09:56:23Z |
+| [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
 | [CVE-2025-32013](https://www.cve.org/CVERecord?id=CVE-2025-32013) | [Mohith-T/CVE-2025-32013](https://github.com/Mohith-T/CVE-2025-32013) | Security Advisory and PoC for CVE-2025-32013 | 2025-04-08T21:59:56Z |
@@ -3223,6 +3226,7 @@ Last generated: 2025-05-11 02:43:34.700285
 | [CVE-2023-50917](https://www.cve.org/CVERecord?id=CVE-2023-50917) | [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc) | This is a script written in Python that allows the exploitation of the Zoneminder&#x27;s security flaw in the described in CVE 2023-26035. | 2023-12-12T14:44:19Z |
 | [CVE-2023-5089](https://www.cve.org/CVERecord?id=CVE-2023-5089) | [Cappricio-Securities/CVE-2023-5089](https://github.com/Cappricio-Securities/CVE-2023-5089) | Defender Security &lt; 4.1.0 - Protection Bypass (Hidden Login Page) | 2024-05-24T07:14:55Z |
 | [CVE-2023-50868](https://www.cve.org/CVERecord?id=CVE-2023-50868) | [Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack](https://github.com/Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack) | This project generates DNS zonefiles with custom NSEC3 parameters to reproduce and evaluate the attacks in CVE-2023-50868. | 2024-03-19T16:13:14Z |
+| [CVE-2023-50780](https://www.cve.org/CVERecord?id=CVE-2023-50780) | [mbadanoiu/CVE-2023-50780](https://github.com/mbadanoiu/CVE-2023-50780) | CVE-2023-50780: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ Artemis | 2024-12-17T22:07:24Z |
 | [CVE-2023-5074](https://www.cve.org/CVERecord?id=CVE-2023-5074) | [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC) | Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass | 2023-09-30T00:07:52Z |
 | [CVE-2023-5070](https://www.cve.org/CVERecord?id=CVE-2023-5070) | [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070) | Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure | 2023-10-17T08:19:09Z |
 | [CVE-2023-50685](https://www.cve.org/CVERecord?id=CVE-2023-50685) | [UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability](https://github.com/UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability) | This POC exploits a format validation vulnerability in the RTSP service of the Hipcam RealServer/V1.0, inducing a crash for approximately 45 seconds by injecting random data into the &#x27;client_port&#x27; parameter during the RTSP SETUP request. Hipcam RealServer/V1.0 is used in many Hipcam Cameras. - CVE-2023-50685 | 2023-12-10T13:21:43Z |
@@ -3931,6 +3935,7 @@ Last generated: 2025-05-11 02:43:34.700285
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [technicalcorp0/CVE-2023-38831-Exploit](https://github.com/technicalcorp0/CVE-2023-38831-Exploit) | This project contains a Python script that exploits **CVE-2023-38831**, a vulnerability in **WinRAR** versions prior to 6.23. The exploit generates a **malicious RAR archive** that triggers the execution of arbitrary code when the victim opens a benign-looking file within the archive (such as a PDF). | 2024-09-27T18:23:30Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [ra3edAJ/LAB-DFIR-cve-2023-38831](https://github.com/ra3edAJ/LAB-DFIR-cve-2023-38831) | d | 2024-09-26T19:44:08Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [idkwastaken/CVE-2023-38831](https://github.com/idkwastaken/CVE-2023-38831) | no description | 2024-10-15T06:23:13Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [VictoriousKnight/CVE-2023-38831_Exploit](https://github.com/VictoriousKnight/CVE-2023-38831_Exploit) | no description | 2024-12-03T11:13:37Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
 | [CVE-2023-38821](https://www.cve.org/CVERecord?id=CVE-2023-38821) | [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821) | DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821 | 2023-08-05T13:57:42Z |
@@ -6388,6 +6393,7 @@ Last generated: 2025-05-11 02:43:34.700285
 | [CVE-2020-1034](https://www.cve.org/CVERecord?id=CVE-2020-1034) | [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034) | CVE 2020-1034 exploit and presentation | 2022-03-23T19:14:26Z |
 | [CVE-2020-10199](https://www.cve.org/CVERecord?id=CVE-2020-10199) | [hugosg97/CVE-2020-10199-Nexus-3.21.01](https://github.com/hugosg97/CVE-2020-10199-Nexus-3.21.01) | Sonatype Nexus 3.21.01 - Remote Code Execution (Authenticated - Updated) | 2023-06-13T13:10:31Z |
 | [CVE-2020-10136](https://www.cve.org/CVERecord?id=CVE-2020-10136) | [PapayaJackal/ipeeyoupeewepee](https://github.com/PapayaJackal/ipeeyoupeewepee) | Scanner and attack suite for hosts that forward unauthenticated packets via IPIP and GRE protocols. (CVE-2020-10136 CVE-2024-7595) | 2025-01-21T19:41:35Z |
+| [CVE-2020-10130](https://www.cve.org/CVERecord?id=CVE-2020-10130) | [InfoSec4Fun/CVE-2020-10130](https://github.com/InfoSec4Fun/CVE-2020-10130) | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | 2023-08-11T09:26:52Z |
 | [CVE-2020-10129](https://www.cve.org/CVERecord?id=CVE-2020-10129) | [InfoSec4Fun/CVE-2020-10129](https://github.com/InfoSec4Fun/CVE-2020-10129) | CVE-2020-10129 - SearchBlox product before V-9.2 is vulnerable to Privileged Escalation-Lower user is able to access Admin | 2023-08-11T09:18:50Z |
 | [CVE-2020-0917](https://www.cve.org/CVERecord?id=CVE-2020-0917) | [L0ch/CVE-2020-0917_Exploit](https://github.com/L0ch/CVE-2020-0917_Exploit) | Hyper-V 1-day Exploit: CVE-2020-0917 | 2023-06-21T02:35:14Z |
 | [CVE-2020-0883](https://www.cve.org/CVERecord?id=CVE-2020-0883) | [syadg123/CVE-2020-0883](https://github.com/syadg123/CVE-2020-0883) | no description | 2020-04-22T09:10:27Z |
