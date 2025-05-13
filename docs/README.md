@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-12 02:43:10.004345
+Last generated: 2025-05-13 02:41:01.509809
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -37,6 +37,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248) | no description | 2025-04-16T14:00:02Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection) | no description | 2025-04-18T09:56:23Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433) | Missing Authentication for Critical Function (CWE-306)-Exploit | 2025-04-18T10:53:19Z |
 | [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
@@ -312,6 +313,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071) | no description | 2025-03-27T09:49:54Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [ThemeHackers/CVE-2025-24071](https://github.com/ThemeHackers/CVE-2025-24071) | Windows File Explorer Spoofing Vulnerability (CVE-2025-24071) | 2025-03-27T08:32:38Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [cesarbtakeda/Windows-Explorer-CVE-2025-24071](https://github.com/cesarbtakeda/Windows-Explorer-CVE-2025-24071) | no description | 2025-03-29T18:00:29Z |
+| [CVE-2025-24054](https://www.cve.org/CVERecord?id=CVE-2025-24054) | [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC) | PoC - CVE-2025-24071 / CVE-2025-24054, NTMLv2 hash&#x27;leri alınabilen bir vulnerability | 2025-04-18T11:17:48Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template) | no description | 2025-02-13T06:38:43Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016) | CVE-2025-24016: RCE in Wazuh server!  Remote Code Execution | 2025-02-20T23:31:03Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016) | CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE) | 2025-02-16T11:01:12Z |
@@ -478,6 +480,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC) | WordPress File Upload插件任意文件读取漏洞（CVE-2024-9047）批量检测脚本 | 2024-12-25T05:19:17Z |
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047) | POC - WordPress File Upload plugin, in the wfu_file_downloader.php file before version &lt;= 4.24.11 | 2025-01-08T07:27:16Z |
 | [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [Nxploited/CVE-2024-9047-Exploit](https://github.com/Nxploited/CVE-2024-9047-Exploit) | Exploit for WordPress File Upload Plugin - All versions up to 4.24.11 are vulnerable. | 2025-01-25T02:41:28Z |
+| [CVE-2024-9047](https://www.cve.org/CVERecord?id=CVE-2024-9047) | [user20252228/CVE-2024-9047](https://github.com/user20252228/CVE-2024-9047) | CVE-2024-9047, wfu_file_downloader.php | 2025-03-16T18:05:51Z |
 | [CVE-2024-9014](https://www.cve.org/CVERecord?id=CVE-2024-9014) | [EQSTLab/CVE-2024-9014](https://github.com/EQSTLab/CVE-2024-9014) | Proof-of-Concept for CVE-2024-9014 | 2024-09-26T10:34:34Z |
 | [CVE-2024-8963](https://www.cve.org/CVERecord?id=CVE-2024-8963) | [patfire94/CVE-2024-8963](https://github.com/patfire94/CVE-2024-8963) | Ivanti Cloud Services Appliance - Path Traversal | 2024-11-13T14:12:57Z |
 | [CVE-2024-8949](https://www.cve.org/CVERecord?id=CVE-2024-8949) | [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC) | SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability | 2024-09-28T15:58:54Z |
@@ -549,6 +552,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2024-7029](https://www.cve.org/CVERecord?id=CVE-2024-7029) | [ebrasha/CVE-2024-7029](https://github.com/ebrasha/CVE-2024-7029) | A PoC tool for exploiting CVE-2024-7029 in AvTech devices, enabling RCE, vulnerability scanning, and an interactive shell. | 2024-09-02T10:16:49Z |
 | [CVE-2024-7029](https://www.cve.org/CVERecord?id=CVE-2024-7029) | [geniuszlyy/CVE-2024-7029](https://github.com/geniuszlyy/CVE-2024-7029) | A PoC exploit for the CVE-2024-7029 vulnerability found in AvTech devices, allowing Remote Code Execution (RCE) | 2024-10-08T10:04:08Z |
 | [CVE-2024-7014](https://www.cve.org/CVERecord?id=CVE-2024-7014) | [hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014) | no description | 2025-03-06T15:38:46Z |
+| [CVE-2024-7014](https://www.cve.org/CVERecord?id=CVE-2024-7014) | [absholi7ly/PoC-for-CVE-2024-7014-Exploit](https://github.com/absholi7ly/PoC-for-CVE-2024-7014-Exploit) | Proof of Concept (PoC) for CVE-2024-7014 (EvilVideo) Exploit | 2025-03-16T04:05:01Z |
 | [CVE-2024-6893](https://www.cve.org/CVERecord?id=CVE-2024-6893) | [codeb0ss/CVE-2024-6893-PoC](https://github.com/codeb0ss/CVE-2024-6893-PoC) | Mass Exploit &lt; [CVE-2024-6893/CWE-611 - Journyx] - XML External Entities Injection (XXE) Exploit | 2024-08-17T22:47:45Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782) | Calibre 远程代码执行（CVE-2024-6782）Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-06T15:31:48Z |
 | [CVE-2024-6782](https://www.cve.org/CVERecord?id=CVE-2024-6782) | [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782) | Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution. | 2024-08-09T06:25:03Z |
@@ -776,6 +780,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
 | [CVE-2024-55503](https://www.cve.org/CVERecord?id=CVE-2024-55503) | [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503) | no description | 2024-12-05T21:48:21Z |
 | [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
+| [CVE-2024-5535](https://www.cve.org/CVERecord?id=CVE-2024-5535) | [websecnl/CVE-2024-5535](https://github.com/websecnl/CVE-2024-5535) | PoC - OpenSSL NPN Buffer Overread | 2025-03-15T17:00:42Z |
 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) | [sahil3276/CVE-2024-55347](https://github.com/sahil3276/CVE-2024-55347) | Public Disclosure of CVE-2024-55347 | 2025-02-11T06:11:26Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc) | CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection | 2024-05-31T04:41:46Z |
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC) | no description | 2024-09-11T04:46:46Z |
@@ -1902,6 +1907,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2024-31320](https://www.cve.org/CVERecord?id=CVE-2024-31320) | [SpiralBL0CK/CVE-2024-31320-](https://github.com/SpiralBL0CK/CVE-2024-31320-) | Get GeoLocation of Exploited Device using CVE-2024-31320&amp; bluetooth | 2025-03-05T19:18:34Z |
 | [CVE-2024-31319](https://www.cve.org/CVERecord?id=CVE-2024-31319) | [23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039) | no description | 2024-08-23T06:28:12Z |
 | [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [fuhei/CVE-2024-31317](https://github.com/fuhei/CVE-2024-31317) | CVE-2024-31317 | 2024-12-05T01:36:59Z |
+| [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [jmywh1/CVE-2024-31317](https://github.com/jmywh1/CVE-2024-31317) | no description | 2025-03-17T04:05:31Z |
 | [CVE-2024-31211](https://www.cve.org/CVERecord?id=CVE-2024-31211) | [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211) | no description | 2024-08-03T19:26:55Z |
 | [CVE-2024-31210](https://www.cve.org/CVERecord?id=CVE-2024-31210) | [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210) | This Ruby script checks if a given WordPress site is vulnerable to CVE-2024-31210, which allows administrator-level users on single-site installations and Super Admin-level users on Multisite installations to execute arbitrary PHP code via the plugin upload mechanism. | 2024-06-13T00:24:56Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
@@ -6174,6 +6180,7 @@ Last generated: 2025-05-12 02:43:10.004345
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396](https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396) | no description | 2022-04-29T05:28:48Z |
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac) | .Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner &amp; Exploit noPac | 2021-12-13T19:01:18Z |
 | [CVE-2021-0394](https://www.cve.org/CVERecord?id=CVE-2021-0394) | [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394) | no description | 2023-08-31T07:00:49Z |
+| [CVE-2021-0392](https://www.cve.org/CVERecord?id=CVE-2021-0392) | [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392) | no description | 2024-06-18T06:25:02Z |
 | [CVE-2021-0325](https://www.cve.org/CVERecord?id=CVE-2021-0325) | [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325) | no description | 2022-04-01T14:11:58Z |
 | [CVE-2021-0315](https://www.cve.org/CVERecord?id=CVE-2021-0315) | [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315) | no description | 2022-04-27T05:01:30Z |
 | [CVE-2020-9715](https://www.cve.org/CVERecord?id=CVE-2020-9715) | [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715) | Adobe Acrobat Reader UAF vulnerability Exploit code | 2022-08-29T14:33:40Z |
