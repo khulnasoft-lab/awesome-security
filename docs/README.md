@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-13 02:41:01.509809
+Last generated: 2025-05-14 02:39:37.531738
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -38,6 +38,8 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248) | no description | 2025-04-16T14:00:02Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection) | no description | 2025-04-18T09:56:23Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433) | Missing Authentication for Critical Function (CWE-306)-Exploit | 2025-04-18T10:53:19Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433) | no description | 2025-04-18T02:32:41Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433) | CVE-2025-32433 https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2 | 2025-04-18T00:35:11Z |
 | [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
@@ -54,6 +56,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2025-31033](https://www.cve.org/CVERecord?id=CVE-2025-31033) | [Nxploited/CVE-2025-31033](https://github.com/Nxploited/CVE-2025-31033) | WordPress Buddypress Humanity Plugin &lt;= 1.2 is vulnerable to Cross Site Request Forgery (CSRF) | 2025-04-10T10:47:29Z |
 | [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [rhz0d/CVE-2025-3102](https://github.com/rhz0d/CVE-2025-3102) | Wordpress SureTriggers &lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation | 2025-04-14T16:07:50Z |
 | [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [Nxploited/CVE-2025-3102](https://github.com/Nxploited/CVE-2025-3102) | Wordpress SureTriggers &lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation | 2025-04-14T10:20:47Z |
+| [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [itsismarcos/vanda-CVE-2025-3102](https://github.com/itsismarcos/vanda-CVE-2025-3102) | EXPLOIT CVE-2025-3102 | 2025-04-12T04:22:58Z |
 | [CVE-2025-30967](https://www.cve.org/CVERecord?id=CVE-2025-30967) | [Anton-ai111/CVE-2025-30967](https://github.com/Anton-ai111/CVE-2025-30967) | CVE-2025-30967 | 2025-04-16T13:06:50Z |
 | [CVE-2025-30921](https://www.cve.org/CVERecord?id=CVE-2025-30921) | [DoTTak/CVE-2025-30921](https://github.com/DoTTak/CVE-2025-30921) | PoC of CVE-2025-30921 | 2025-04-03T00:29:18Z |
 | [CVE-2025-30911](https://www.cve.org/CVERecord?id=CVE-2025-30911) | [Nxploited/CVE-2025-30911](https://github.com/Nxploited/CVE-2025-30911) | WordPress RomethemeKit For Elementor Plugin &lt;= 1.5.4 is vulnerable to Remote Code Execution (RCE) | 2025-04-04T08:13:24Z |
@@ -86,6 +89,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [bjornhels/CVE-2025-30065](https://github.com/bjornhels/CVE-2025-30065) | PoC | 2025-04-04T10:37:32Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC) | CVE-2025-30065 PoC | 2025-04-05T09:43:27Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065) | no description | 2025-04-07T21:38:24Z |
+| [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [h3st4k3r/CVE-2025-30065](https://github.com/h3st4k3r/CVE-2025-30065) | ​After reviewing the provided Proof of Concept (PoC) for CVE-2025-30065, it appears that the vulnerability exploits the deserialization mechanism in Apache Parquet&#x27;s handling of Avro schemas, particularly through the use of the default property to instantiate arbitrary classes. | 2025-04-04T08:45:24Z |
 | [CVE-2025-29972](https://www.cve.org/CVERecord?id=CVE-2025-29972) | [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972) | CVE-2025-29927 Proof of Concept | 2025-03-25T17:59:06Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit) | Proof-of-Concept for Authorization Bypass in Next.js Middleware | 2025-03-23T19:41:05Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-23T12:13:35Z |
@@ -184,6 +188,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825) | no description | 2025-04-03T01:13:28Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825) | no description | 2025-04-04T08:57:02Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP) | Shattered is a tool and POC for the new CrushedFTP vulns, CVE Exploit Script: CVE-2025-2825 vs CVE-2025-31161 | 2025-04-11T10:54:05Z |
+| [CVE-2025-28121](https://www.cve.org/CVERecord?id=CVE-2025-28121) | [pruthuraut/CVE-2025-28121](https://github.com/pruthuraut/CVE-2025-28121) | no description | 2025-04-19T07:10:13Z |
 | [CVE-2025-2807](https://www.cve.org/CVERecord?id=CVE-2025-2807) | [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807) | Wordpress - Motors Plugin &lt;= 1.4.64 - Arbitrary Plugin Installation Vulnerability | 2025-04-08T10:24:42Z |
 | [CVE-2025-28009](https://www.cve.org/CVERecord?id=CVE-2025-28009) | [beardenx/CVE-2025-28009](https://github.com/beardenx/CVE-2025-28009) | SQL Injection in Dietiqa App v1.0.20 (CVE-2025-28009) – Unauthenticated remote data access via vulnerable parameter. | 2025-04-17T02:04:59Z |
 | [CVE-2025-27893](https://www.cve.org/CVERecord?id=CVE-2025-27893) | [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893) | no description | 2025-03-10T17:53:58Z |
@@ -290,6 +295,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE) | A Python proof-of-concept exploit for CVE-2025-24813 - Unauthenticated RCE in Apache Tomcat (v9.0.0-9.0.98/10.1.0-10.1.34/11.0.0-11.0.2) via malicious Java object deserialization. Includes safe detection mode and custom payload support. | 2025-04-12T17:38:02Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner) | CVE-2025-24813-Scanner is a Python-based vulnerability scanner that detects Apache Tomcat servers vulnerable to CVE-2025-24813, an arbitrary file upload vulnerability leading to remote code execution (RCE) via insecure PUT method handling and jsessionid exploitation. | 2025-04-12T19:12:39Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [ps-interactive/lab-cve-2025-24813](https://github.com/ps-interactive/lab-cve-2025-24813) | Resources for teh Apache Tomcat CVE lab | 2025-03-19T19:55:02Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub) | CVE-2025-24813的vulhub环境的POC脚本 | 2025-04-18T11:03:33Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799) | no description | 2025-04-03T16:55:11Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799) | CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection | 2025-04-15T04:57:39Z |
@@ -789,6 +795,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2024-55099](https://www.cve.org/CVERecord?id=CVE-2024-55099) | [ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-) | no description | 2024-12-10T19:40:26Z |
 | [CVE-2024-55060](https://www.cve.org/CVERecord?id=CVE-2024-55060) | [bigzooooz/CVE-2024-55060](https://github.com/bigzooooz/CVE-2024-55060) | no description | 2025-03-12T18:05:42Z |
 | [CVE-2024-55040](https://www.cve.org/CVERecord?id=CVE-2024-55040) | [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS) | Public disclose of several stored XSS vulnerabilities in the Sensaphone WEB600 (CVE-2024-55040) | 2024-11-22T22:25:18Z |
+| [CVE-2024-54951](https://www.cve.org/CVERecord?id=CVE-2024-54951) | [Allevon412/CVE-2024-54951](https://github.com/Allevon412/CVE-2024-54951) | I contacted the monica development team via email on 11/20/2024. I also contacted them via LinkedIn, and other platforms in the weeks that followed. Publishing here since there was no response. | 2025-01-31T22:28:26Z |
 | [CVE-2024-54916](https://www.cve.org/CVERecord?id=CVE-2024-54916) | [SAHALLL/CVE-2024-54916](https://github.com/SAHALLL/CVE-2024-54916) | no description | 2025-02-08T01:55:04Z |
 | [CVE-2024-54910](https://www.cve.org/CVERecord?id=CVE-2024-54910) | [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910) | no description | 2025-01-07T18:24:46Z |
 | [CVE-2024-54880](https://www.cve.org/CVERecord?id=CVE-2024-54880) | [ailenye/CVE-2024-54880](https://github.com/ailenye/CVE-2024-54880) | CVE-2024-54880 | 2025-01-20T12:45:17Z |
@@ -5947,6 +5954,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [fei9747/CVE-2021-3493](https://github.com/fei9747/CVE-2021-3493) | no description | 2022-11-29T12:56:00Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [ptkhai15/OverlayFS---CVE-2021-3493](https://github.com/ptkhai15/OverlayFS---CVE-2021-3493) | no description | 2023-08-25T07:26:35Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493) | Ubuntu OverlayFS Local Privesc | 2021-04-19T20:07:01Z |
+| [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [iamz24/CVE-2021-3493_CVE-2022-3357](https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357) | no description | 2024-07-04T17:29:28Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490) | no description | 2021-06-24T18:50:17Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [pivik271/CVE-2021-3490](https://github.com/pivik271/CVE-2021-3490) | no description | 2023-04-06T03:21:11Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [mklinkj/log4j2-test](https://github.com/mklinkj/log4j2-test) | Log4j2 LDAP 취약점 테스트 (CVE-2021-44228) | 2022-01-03T04:36:41Z |
@@ -6181,6 +6189,7 @@ Last generated: 2025-05-13 02:41:01.509809
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac) | .Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner &amp; Exploit noPac | 2021-12-13T19:01:18Z |
 | [CVE-2021-0394](https://www.cve.org/CVERecord?id=CVE-2021-0394) | [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394) | no description | 2023-08-31T07:00:49Z |
 | [CVE-2021-0392](https://www.cve.org/CVERecord?id=CVE-2021-0392) | [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392) | no description | 2024-06-18T06:25:02Z |
+| [CVE-2021-0390](https://www.cve.org/CVERecord?id=CVE-2021-0390) | [uthrasri/frameworks_opt_net_wifi_CVE-2021-0390](https://github.com/uthrasri/frameworks_opt_net_wifi_CVE-2021-0390) | no description | 2024-06-18T13:59:29Z |
 | [CVE-2021-0325](https://www.cve.org/CVERecord?id=CVE-2021-0325) | [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325) | no description | 2022-04-01T14:11:58Z |
 | [CVE-2021-0315](https://www.cve.org/CVERecord?id=CVE-2021-0315) | [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315) | no description | 2022-04-27T05:01:30Z |
 | [CVE-2020-9715](https://www.cve.org/CVERecord?id=CVE-2020-9715) | [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715) | Adobe Acrobat Reader UAF vulnerability Exploit code | 2022-08-29T14:33:40Z |
