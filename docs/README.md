@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-14 02:39:37.531738
+Last generated: 2025-05-15 02:38:35.083658
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -40,6 +40,11 @@ Last generated: 2025-05-14 02:39:37.531738
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433) | Missing Authentication for Critical Function (CWE-306)-Exploit | 2025-04-18T10:53:19Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433) | no description | 2025-04-18T02:32:41Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433) | CVE-2025-32433 https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2 | 2025-04-18T00:35:11Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [m0usem0use/erl_mouse](https://github.com/m0usem0use/erl_mouse) | python script to find vulnerable targets of CVE-2025-32433 | 2025-04-18T20:59:45Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [0xPThree/cve-2025-32433](https://github.com/0xPThree/cve-2025-32433) | no description | 2025-04-19T15:13:24Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [darses/CVE-2025-32433](https://github.com/darses/CVE-2025-32433) | Security research on Erlang/OTP SSH CVE-2025-32433. | 2025-04-18T10:30:52Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [teamtopkarl/CVE-2025-32433](https://github.com/teamtopkarl/CVE-2025-32433) | Erlang/OTP SSH 远程代码执行漏洞 | 2025-04-18T15:06:12Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC) | The vulnerability allows an attacker with network access to an Erlang/OTP SSH server to execute arbitrary code without prior authentication. | 2025-04-18T21:11:44Z |
 | [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
 | [CVE-2025-32118](https://www.cve.org/CVERecord?id=CVE-2025-32118) | [Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118) | WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability | 2025-04-05T07:14:39Z |
@@ -2308,6 +2313,7 @@ Last generated: 2025-05-14 02:39:37.531738
 | [CVE-2024-25641](https://www.cve.org/CVERecord?id=CVE-2024-25641) | [5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641) | This repository automates the process of exploiting CVE-2024-25641 on Cacti 1.2.26 | 2024-08-26T13:34:35Z |
 | [CVE-2024-25641](https://www.cve.org/CVERecord?id=CVE-2024-25641) | [XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc) | PoC for CVE-2024-25641 Authenticated RCE on Cacti v1.2.26 | 2024-11-22T14:05:37Z |
 | [CVE-2024-25641](https://www.cve.org/CVERecord?id=CVE-2024-25641) | [D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641) | POC exploit for CVE-2024-25641 | 2025-01-05T21:33:18Z |
+| [CVE-2024-25641](https://www.cve.org/CVERecord?id=CVE-2024-25641) | [regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26](https://github.com/regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26) | no description | 2025-03-17T16:26:59Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress) | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | 2024-02-22T10:53:45Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template) | Nuclei template and information about the POC for CVE-2024-25600 | 2024-02-21T00:27:33Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) | Unauthenticated Remote Code Execution – Bricks &lt;= 1.9.6 | 2024-02-20T20:16:09Z |
@@ -6139,6 +6145,7 @@ Last generated: 2025-05-14 02:39:37.531738
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [devdanqtuan/CVE-2021-22205](https://github.com/devdanqtuan/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-11-04T09:01:07Z |
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [Akash7350/CVE-2021-22204](https://github.com/Akash7350/CVE-2021-22204) | no description | 2023-05-14T03:43:28Z |
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [battleofthebots/dejavu](https://github.com/battleofthebots/dejavu) | Challenge based on CVE-2021-22204 where users send a malicious file to a web application to gain RCE | 2023-07-25T13:52:01Z |
+| [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [cc3305/CVE-2021-22204](https://github.com/cc3305/CVE-2021-22204) | CVE-2021-22204 exploit script | 2024-06-07T21:57:22Z |
 | [CVE-2021-22192](https://www.cve.org/CVERecord?id=CVE-2021-22192) | [EXP-Docs/CVE-2021-22192](https://github.com/EXP-Docs/CVE-2021-22192) | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | 2021-03-27T07:09:46Z |
 | [CVE-2021-22145](https://www.cve.org/CVERecord?id=CVE-2021-22145) | [niceeeeeeee/CVE-2021-22145-poc](https://github.com/niceeeeeeee/CVE-2021-22145-poc) | no description | 2023-08-31T07:56:03Z |
 | [CVE-2021-22053](https://www.cve.org/CVERecord?id=CVE-2021-22053) | [SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053) | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | 2021-11-21T08:47:56Z |
@@ -6184,6 +6191,7 @@ Last generated: 2025-05-14 02:39:37.531738
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit) | CVE-2021-1675/CVE-2021-34527 PrintNightmare &amp; CVE-2020-0668 | 2024-06-05T10:01:18Z |
 | [CVE-2021-1366](https://www.cve.org/CVERecord?id=CVE-2021-1366) | [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366) | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | 2023-09-08T09:20:20Z |
 | [CVE-2021-0586](https://www.cve.org/CVERecord?id=CVE-2021-0586) | [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586) | no description | 2022-04-25T07:58:29Z |
+| [CVE-2021-0466](https://www.cve.org/CVERecord?id=CVE-2021-0466) | [uthrasri/frameworks_opt_net_wifi_CVE-2021-0466](https://github.com/uthrasri/frameworks_opt_net_wifi_CVE-2021-0466) | no description | 2024-06-18T10:34:34Z |
 | [CVE-2021-0399](https://www.cve.org/CVERecord?id=CVE-2021-0399) | [nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-](https://github.com/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-) | no description | 2023-03-15T07:52:05Z |
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396](https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396) | no description | 2022-04-29T05:28:48Z |
 | [CVE-2021-0396](https://www.cve.org/CVERecord?id=CVE-2021-0396) | [ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac) | .Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner &amp; Exploit noPac | 2021-12-13T19:01:18Z |
@@ -6409,6 +6417,7 @@ Last generated: 2025-05-14 02:39:37.531738
 | [CVE-2020-1034](https://www.cve.org/CVERecord?id=CVE-2020-1034) | [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034) | CVE 2020-1034 exploit and presentation | 2022-03-23T19:14:26Z |
 | [CVE-2020-10199](https://www.cve.org/CVERecord?id=CVE-2020-10199) | [hugosg97/CVE-2020-10199-Nexus-3.21.01](https://github.com/hugosg97/CVE-2020-10199-Nexus-3.21.01) | Sonatype Nexus 3.21.01 - Remote Code Execution (Authenticated - Updated) | 2023-06-13T13:10:31Z |
 | [CVE-2020-10136](https://www.cve.org/CVERecord?id=CVE-2020-10136) | [PapayaJackal/ipeeyoupeewepee](https://github.com/PapayaJackal/ipeeyoupeewepee) | Scanner and attack suite for hosts that forward unauthenticated packets via IPIP and GRE protocols. (CVE-2020-10136 CVE-2024-7595) | 2025-01-21T19:41:35Z |
+| [CVE-2020-10132](https://www.cve.org/CVERecord?id=CVE-2020-10132) | [InfoSec4Fun/CVE-2020-10132](https://github.com/InfoSec4Fun/CVE-2020-10132) | CVE-2020-10132 - SearchBlox product before V-9.1 is vulnerable to CORS misconfiguration. | 2023-08-11T09:34:34Z |
 | [CVE-2020-10130](https://www.cve.org/CVERecord?id=CVE-2020-10130) | [InfoSec4Fun/CVE-2020-10130](https://github.com/InfoSec4Fun/CVE-2020-10130) | CVE-2020-10130 - SearchBlox Product before V-9.1 is vulnerable to Business logic bypass | 2023-08-11T09:26:52Z |
 | [CVE-2020-10129](https://www.cve.org/CVERecord?id=CVE-2020-10129) | [InfoSec4Fun/CVE-2020-10129](https://github.com/InfoSec4Fun/CVE-2020-10129) | CVE-2020-10129 - SearchBlox product before V-9.2 is vulnerable to Privileged Escalation-Lower user is able to access Admin | 2023-08-11T09:18:50Z |
 | [CVE-2020-0917](https://www.cve.org/CVERecord?id=CVE-2020-0917) | [L0ch/CVE-2020-0917_Exploit](https://github.com/L0ch/CVE-2020-0917_Exploit) | Hyper-V 1-day Exploit: CVE-2020-0917 | 2023-06-21T02:35:14Z |
