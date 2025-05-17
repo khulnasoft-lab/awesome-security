@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-16 02:41:15.114260
+Last generated: 2025-05-17 02:35:52.293982
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2025-43921](https://www.cve.org/CVERecord?id=CVE-2025-43921) | [0NYX-MY7H/CVE-2025-43921](https://github.com/0NYX-MY7H/CVE-2025-43921) | no description | 2025-04-20T15:36:06Z |
 | [CVE-2025-43920](https://www.cve.org/CVERecord?id=CVE-2025-43920) | [0NYX-MY7H/CVE-2025-43920](https://github.com/0NYX-MY7H/CVE-2025-43920) | no description | 2025-04-20T15:35:10Z |
 | [CVE-2025-43919](https://www.cve.org/CVERecord?id=CVE-2025-43919) | [0NYX-MY7H/CVE-2025-43919](https://github.com/0NYX-MY7H/CVE-2025-43919) | no description | 2025-04-20T15:33:56Z |
+| [CVE-2025-43919](https://www.cve.org/CVERecord?id=CVE-2025-43919) | [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC) | A new vulnerability has been discovered in GNU Mailman 2.1.39, bundled with cPanel/WHM, allowing unauthenticated remote attackers to read arbitrary files on the server via a directory traversal flaw. | 2025-04-22T04:55:42Z |
 | [CVE-2025-4172026](https://www.cve.org/CVERecord?id=CVE-2025-4172026) | [NotItsSixtyN3in/CVE-2025-4172026](https://github.com/NotItsSixtyN3in/CVE-2025-4172026) | no description | 2025-04-17T15:25:31Z |
 | [CVE-2025-4172025](https://www.cve.org/CVERecord?id=CVE-2025-4172025) | [NotItsSixtyN3in/CVE-2025-4172025](https://github.com/NotItsSixtyN3in/CVE-2025-4172025) | no description | 2025-04-17T15:36:50Z |
 | [CVE-2025-4162030](https://www.cve.org/CVERecord?id=CVE-2025-4162030) | [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030) | no description | 2025-04-16T20:41:14Z |
@@ -61,6 +62,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161) | CrushFTP CVE-2025-31161 Exploit Tool 🔓 | 2025-04-21T23:57:07Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
 | [CVE-2025-31125](https://www.cve.org/CVERecord?id=CVE-2025-31125) | [sunhuiHi666/CVE-2025-31125](https://github.com/sunhuiHi666/CVE-2025-31125) | Vite 任意文件读取漏洞POC | 2025-04-01T14:24:44Z |
@@ -103,6 +105,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC) | CVE-2025-30065 PoC | 2025-04-05T09:43:27Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [mouadk/parquet-rce-poc-CVE-2025-30065](https://github.com/mouadk/parquet-rce-poc-CVE-2025-30065) | no description | 2025-04-07T21:38:24Z |
 | [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [h3st4k3r/CVE-2025-30065](https://github.com/h3st4k3r/CVE-2025-30065) | ​After reviewing the provided Proof of Concept (PoC) for CVE-2025-30065, it appears that the vulnerability exploits the deserialization mechanism in Apache Parquet&#x27;s handling of Avro schemas, particularly through the use of the default property to instantiate arbitrary classes. | 2025-04-04T08:45:24Z |
+| [CVE-2025-30065](https://www.cve.org/CVERecord?id=CVE-2025-30065) | [ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation](https://github.com/ThreatRadarAI/TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation) | A CVSS 10.0-rated vulnerability in the parquet-avro Java module allows remote code execution via unsafe deserialization when parsing schemas. Tracked as CVE-2025-30065, this flaw affects Apache Parquet ≤ 1.15.0. All users must upgrade to version 1.15.1 immediately to mitigate exploitation risks. | 2025-04-21T15:28:28Z |
 | [CVE-2025-29972](https://www.cve.org/CVERecord?id=CVE-2025-29972) | [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972) | CVE-2025-29927 Proof of Concept | 2025-03-25T17:59:06Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [websecnl/CVE-2025-29927-PoC-Exploit](https://github.com/websecnl/CVE-2025-29927-PoC-Exploit) | Proof-of-Concept for Authorization Bypass in Next.js Middleware | 2025-03-23T19:41:05Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [aydinnyunus/CVE-2025-29927](https://github.com/aydinnyunus/CVE-2025-29927) | CVE-2025-29927 Proof of Concept | 2025-03-23T12:13:35Z |
@@ -180,6 +183,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [Grand-Moomin/Vuln-Next.js-CVE-2025-29927](https://github.com/Grand-Moomin/Vuln-Next.js-CVE-2025-29927) | no description | 2025-04-18T00:47:47Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
 | [CVE-2025-29722](https://www.cve.org/CVERecord?id=CVE-2025-29722) | [cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722) | Cross Site Request Forgery (CSRF) in Commercify v1.0 | 2025-04-15T12:47:18Z |
+| [CVE-2025-29711](https://www.cve.org/CVERecord?id=CVE-2025-29711) | [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) | This takes advatage of the web applications poor session management on the takashi router and repeater. | 2025-03-05T18:11:59Z |
 | [CVE-2025-29705](https://www.cve.org/CVERecord?id=CVE-2025-29705) | [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705) | CVE-2025-29705 | 2025-04-10T15:56:06Z |
 | [CVE-2025-29602](https://www.cve.org/CVERecord?id=CVE-2025-29602) | [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602) | no description | 2025-04-01T13:01:25Z |
 | [CVE-2025-29384](https://www.cve.org/CVERecord?id=CVE-2025-29384) | [Otsmane-Ahmed/cve-2025-29384-poc](https://github.com/Otsmane-Ahmed/cve-2025-29384-poc) | no description | 2025-03-18T01:00:12Z |
@@ -333,6 +337,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071) | no description | 2025-03-27T09:49:54Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [ThemeHackers/CVE-2025-24071](https://github.com/ThemeHackers/CVE-2025-24071) | Windows File Explorer Spoofing Vulnerability (CVE-2025-24071) | 2025-03-27T08:32:38Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [cesarbtakeda/Windows-Explorer-CVE-2025-24071](https://github.com/cesarbtakeda/Windows-Explorer-CVE-2025-24071) | no description | 2025-03-29T18:00:29Z |
+| [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [pswalia2u/CVE-2025-24071_POC](https://github.com/pswalia2u/CVE-2025-24071_POC) | no description | 2025-04-21T20:05:07Z |
 | [CVE-2025-24054](https://www.cve.org/CVERecord?id=CVE-2025-24054) | [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC) | PoC - CVE-2025-24071 / CVE-2025-24054, NTMLv2 hash&#x27;leri alınabilen bir vulnerability | 2025-04-18T11:17:48Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [huseyinstif/CVE-2025-24016-Nuclei-Template](https://github.com/huseyinstif/CVE-2025-24016-Nuclei-Template) | no description | 2025-02-13T06:38:43Z |
 | [CVE-2025-24016](https://www.cve.org/CVERecord?id=CVE-2025-24016) | [MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016) | CVE-2025-24016: RCE in Wazuh server!  Remote Code Execution | 2025-02-20T23:31:03Z |
@@ -3033,6 +3038,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2024-0509](https://www.cve.org/CVERecord?id=CVE-2024-0509) | [kodaichodai/CVE-2024-0509](https://github.com/kodaichodai/CVE-2024-0509) | a PoC for CVE-2024-0509/WP Plugin - WP 404 Auto Redirect to Similar Post (&lt;= 5.4.14) | 2024-09-11T05:05:05Z |
 | [CVE-2024-0507](https://www.cve.org/CVERecord?id=CVE-2024-0507) | [convisolabs/CVE-2024-0507_CVE-2024-0200-github](https://github.com/convisolabs/CVE-2024-0507_CVE-2024-0200-github) | Exploits for GitHub Enterprise CVE-2024-0507 and CVE-2024-0200 | 2024-03-18T03:19:14Z |
 | [CVE-2024-0406](https://www.cve.org/CVERecord?id=CVE-2024-0406) | [walidpyh/CVE-2024-0406-POC](https://github.com/walidpyh/CVE-2024-0406-POC) | CVE-2024-0406 POC using symlinks | 2025-03-12T02:54:47Z |
+| [CVE-2024-0402](https://www.cve.org/CVERecord?id=CVE-2024-0402) | [doyensec/malicious-devfile-registry](https://github.com/doyensec/malicious-devfile-registry) | Exploit for CVE-2024-0402 in Gitlab | 2025-03-10T23:08:51Z |
 | [CVE-2024-0399](https://www.cve.org/CVERecord?id=CVE-2024-0399) | [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399) | no description | 2024-05-09T18:21:42Z |
 | [CVE-2024-0379](https://www.cve.org/CVERecord?id=CVE-2024-0379) | [kodaichodai/CVE-2024-0379](https://github.com/kodaichodai/CVE-2024-0379) | a PoC for CVE-2024-0379/WP Plugin - Custom Twitter Feeds - A Tweets Widget or X Feed Widget (&lt;= 2.2.1) | 2024-09-11T05:12:47Z |
 | [CVE-2024-0352](https://www.cve.org/CVERecord?id=CVE-2024-0352) | [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352) | Likeshop &lt; 2.5.7.20210311 - Arbitrary File Upload | 2024-06-12T09:46:26Z |
@@ -5407,6 +5413,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [AbdulRKB/Follina](https://github.com/AbdulRKB/Follina) | Remote Access Shell for Windows (based on cve-2022-30190) | 2022-06-04T14:18:38Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [shri142/ZipScan](https://github.com/shri142/ZipScan) | A tool written in Go that scans files &amp; directories for the Follina exploit (CVE-2022-30190) | 2024-02-17T12:10:12Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [alien-keric/CVE-2022-30190](https://github.com/alien-keric/CVE-2022-30190) | The script is from  https://github.com/JohnHammond/msdt-follina, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link | 2024-04-09T22:40:09Z |
+| [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [skitkat/CVE-2022-30190-POC](https://github.com/skitkat/CVE-2022-30190-POC) | For learning purpose did a complete analysis on CVE-2022-30190 &quot;Follina&quot; POC | 2024-06-14T16:36:39Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [fortra/CVE-2022-30136](https://github.com/fortra/CVE-2022-30136) | Windows Network File System Remote exploit for CVE-2022-30136 | 2023-03-15T10:59:08Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136) | Windows Network File System Remote exploit (DoS) PoC | 2023-06-23T17:13:22Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2) | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | 2023-06-23T00:16:52Z |
@@ -6179,6 +6186,7 @@ Last generated: 2025-05-16 02:41:15.114260
 | [CVE-2021-21300](https://www.cve.org/CVERecord?id=CVE-2021-21300) | [Saboor-Hakimi-23/CVE-2021-21300](https://github.com/Saboor-Hakimi-23/CVE-2021-21300) | no description | 2023-10-28T10:17:45Z |
 | [CVE-2021-21224](https://www.cve.org/CVERecord?id=CVE-2021-21224) | [maldev866/ChExp_CVE_2021_21224](https://github.com/maldev866/ChExp_CVE_2021_21224) | no description | 2023-03-08T11:34:50Z |
 | [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323) | no description | 2022-12-07T21:15:23Z |
+| [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [Cappricio-Securities/CVE-2021-20323](https://github.com/Cappricio-Securities/CVE-2021-20323) | A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak. | 2024-01-11T16:02:07Z |
 | [CVE-2021-20294](https://www.cve.org/CVERecord?id=CVE-2021-20294) | [tin-z/CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC) | Simple CVE-2021-20294 poc | 2023-01-21T16:15:21Z |
 | [CVE-2021-20253](https://www.cve.org/CVERecord?id=CVE-2021-20253) | [mbadanoiu/CVE-2021-20253](https://github.com/mbadanoiu/CVE-2021-20253) | CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower | 2023-11-25T18:56:51Z |
 | [CVE-2021-20138](https://www.cve.org/CVERecord?id=CVE-2021-20138) | [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138) | no description | 2022-07-18T11:01:39Z |
