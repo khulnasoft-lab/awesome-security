@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-18 02:46:13.613303
+Last generated: 2025-05-19 02:46:13.513876
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1134,6 +1134,7 @@ Last generated: 2025-05-18 02:46:13.613303
 | [CVE-2024-46986](https://www.cve.org/CVERecord?id=CVE-2024-46986) | [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986) | no description | 2024-09-22T14:27:35Z |
 | [CVE-2024-46982](https://www.cve.org/CVERecord?id=CVE-2024-46982) | [CodePontiff/next_js_poisoning](https://github.com/CodePontiff/next_js_poisoning) | The CVE-2024-46982 is cache poisoning of next_js some site have API to load their image | 2024-12-14T09:14:01Z |
 | [CVE-2024-46982](https://www.cve.org/CVERecord?id=CVE-2024-46982) | [Lercas/CVE-2024-46982](https://github.com/Lercas/CVE-2024-46982) | POC CVE-2024-46982 | 2025-01-23T03:38:22Z |
+| [CVE-2024-46981](https://www.cve.org/CVERecord?id=CVE-2024-46981) | [xsshk/CVE-2024-46981](https://github.com/xsshk/CVE-2024-46981) | no description | 2025-03-21T04:36:22Z |
 | [CVE-2024-46901](https://www.cve.org/CVERecord?id=CVE-2024-46901) | [devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901) | Subversion CVE-2024-46901 PoC | 2024-10-11T13:28:55Z |
 | [CVE-2024-46658](https://www.cve.org/CVERecord?id=CVE-2024-46658) | [jackalkarlos/CVE-2024-46658](https://github.com/jackalkarlos/CVE-2024-46658) | Syrotech SY-GOPON-8OLT-L3 v1.6.0_240629 | 2024-10-03T12:12:23Z |
 | [CVE-2024-46635](https://www.cve.org/CVERecord?id=CVE-2024-46635) | [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635) | no description | 2024-10-01T03:07:04Z |
@@ -4620,6 +4621,7 @@ Last generated: 2025-05-18 02:46:13.613303
 | [CVE-2023-28329](https://www.cve.org/CVERecord?id=CVE-2023-28329) | [chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner) | Exploit tool for CVE-2023-4911, targeting the &#x27;Looney Tunables&#x27; glibc vulnerability in various Linux distributions. | 2023-10-17T07:44:16Z |
 | [CVE-2023-28324](https://www.cve.org/CVERecord?id=CVE-2023-28324) | [horizon3ai/CVE-2023-28324](https://github.com/horizon3ai/CVE-2023-28324) | Ivanti EPM AgentPortal RCE Vulnerability | 2024-09-13T14:02:04Z |
 | [CVE-2023-28310](https://www.cve.org/CVERecord?id=CVE-2023-28310) | [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310) | no description | 2023-06-14T09:23:34Z |
+| [CVE-2023-28293](https://www.cve.org/CVERecord?id=CVE-2023-28293) | [CrazyDaveX86/CVE-2023-28293](https://github.com/CrazyDaveX86/CVE-2023-28293) | Exploit for CVE-2023-28293 | 2024-12-23T10:25:37Z |
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik) | POC for CVE-2023-28252 | 2023-07-12T18:00:34Z |
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) | no description | 2023-06-27T12:22:05Z |
 | [CVE-2023-28252](https://www.cve.org/CVERecord?id=CVE-2023-28252) | [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-) | Обнаружение эксплойта CVE-2023-28252 | 2023-11-13T07:46:38Z |
@@ -5380,6 +5382,7 @@ Last generated: 2025-05-18 02:46:13.613303
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [IMHarman/CVE-2022-33891](https://github.com/IMHarman/CVE-2022-33891) | no description | 2023-09-15T12:49:58Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [elsvital/cve-2022-33891-fix](https://github.com/elsvital/cve-2022-33891-fix) | no description | 2023-11-26T13:09:28Z |
 | [CVE-2022-33891](https://www.cve.org/CVERecord?id=CVE-2022-33891) | [K3ysTr0K3R/CVE-2022-33891-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT) | A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE) | 2024-02-22T15:05:00Z |
+| [CVE-2022-3368](https://www.cve.org/CVERecord?id=CVE-2022-3368) | [byt3n33dl3/CrackAVFee](https://github.com/byt3n33dl3/CrackAVFee) | it&#x27;s a CVE-2022-3368 (Patched), but feel free to use it for check any outdated software or reseach | 2024-03-05T18:31:29Z |
 | [CVE-2022-33082](https://www.cve.org/CVERecord?id=CVE-2022-33082) | [cyberqueenmeg/cve-2022-33082-exploit](https://github.com/cyberqueenmeg/cve-2022-33082-exploit) | no description | 2023-06-22T17:50:18Z |
 | [CVE-2022-32932](https://www.cve.org/CVERecord?id=CVE-2022-32932) | [ox1111/CVE-2022-32932](https://github.com/ox1111/CVE-2022-32932) | no description | 2024-03-25T23:00:41Z |
 | [CVE-2022-32898](https://www.cve.org/CVERecord?id=CVE-2022-32898) | [ox1111/CVE-2022-32898](https://github.com/ox1111/CVE-2022-32898) | no description | 2024-03-24T09:26:29Z |
