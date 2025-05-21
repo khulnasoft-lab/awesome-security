@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-20 02:41:29.737761
+Last generated: 2025-05-21 02:41:17.647116
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
 | [CVE-2025-39601](https://www.cve.org/CVERecord?id=CVE-2025-39601) | [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601) | WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability | 2025-04-16T14:52:41Z |
 | [CVE-2025-39436](https://www.cve.org/CVERecord?id=CVE-2025-39436) | [Nxploited/CVE-2025-39436](https://github.com/Nxploited/CVE-2025-39436) | WordPress I Draw Plugin &lt;= 1.0 is vulnerable to Arbitrary File Upload | 2025-04-19T19:56:51Z |
+| [CVE-2025-3776](https://www.cve.org/CVERecord?id=CVE-2025-3776) | [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776) | WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE) | 2025-04-24T01:19:01Z |
 | [CVE-2025-3568](https://www.cve.org/CVERecord?id=CVE-2025-3568) | [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568) | A security vulnerability has been identified in Krayin CRM &lt;=2.1.0 that allows a low-privileged user to escalate privileges by tricking an admin into opening a malicious SVG file. | 2025-04-17T12:08:52Z |
 | [CVE-2025-3292029](https://www.cve.org/CVERecord?id=CVE-2025-3292029) | [itssixtyn3in/CVE-2025-3292029](https://github.com/itssixtyn3in/CVE-2025-3292029) | no description | 2025-03-30T03:38:08Z |
 | [CVE-2025-3292028](https://www.cve.org/CVERecord?id=CVE-2025-3292028) | [itssixtyn3in/CVE-2025-3292028](https://github.com/itssixtyn3in/CVE-2025-3292028) | no description | 2025-03-30T02:25:15Z |
@@ -64,6 +65,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161) | CrushFTP CVE-2025-31161 Exploit Tool 🔓 | 2025-04-21T23:57:07Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825) | Official Nuclei template for CVE-2025-31161 (formerly CVE-2025-2825) | 2025-04-24T10:25:26Z |
 | [CVE-2025-31137](https://www.cve.org/CVERecord?id=CVE-2025-31137) | [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-) | no description | 2025-04-23T10:37:35Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
@@ -81,6 +83,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) | Unauthorized Arbitrary File Download in WordPress WP01 | 2025-03-26T14:37:34Z |
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC) | CVE-2025-30567 - WordPress WP01 &lt; Path traversal | 2025-04-03T22:52:06Z |
 | [CVE-2025-3047](https://www.cve.org/CVERecord?id=CVE-2025-3047) | [murataydemir/AWS-SAM-CLI-Vulnerabilities](https://github.com/murataydemir/AWS-SAM-CLI-Vulnerabilities) | Issue with AWS SAM CLI (CVE-2025-3047, CVE-2025-3048) | 2025-04-02T14:28:44Z |
+| [CVE-2025-30406](https://www.cve.org/CVERecord?id=CVE-2025-30406) | [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406) | Exploit for CVE-2025-30406 | 2025-04-24T07:55:22Z |
 | [CVE-2025-30349](https://www.cve.org/CVERecord?id=CVE-2025-30349) | [natasaka/CVE-2025-30349](https://github.com/natasaka/CVE-2025-30349) | Horde IMP (through 6.2.27) vulnerability – obfuscation via HTML encoding – XSS payload | 2025-03-27T20:22:45Z |
 | [CVE-2025-30216](https://www.cve.org/CVERecord?id=CVE-2025-30216) | [oliviaisntcringe/CVE-2025-30216-PoC](https://github.com/oliviaisntcringe/CVE-2025-30216-PoC) | PoC | 2025-03-26T13:03:33Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC) | CVE-2025-30208 任意文件读取漏洞快速验证 | 2025-03-26T19:06:44Z |
@@ -187,6 +190,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [kh4sh3i/CVE-2025-29927](https://github.com/kh4sh3i/CVE-2025-29927) | CVE-2025-29927: Next.js Middleware Bypass Vulnerability | 2025-04-23T08:19:58Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
 | [CVE-2025-29722](https://www.cve.org/CVERecord?id=CVE-2025-29722) | [cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722) | Cross Site Request Forgery (CSRF) in Commercify v1.0 | 2025-04-15T12:47:18Z |
+| [CVE-2025-29712](https://www.cve.org/CVERecord?id=CVE-2025-29712) | [SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) | An XSS Vulnerability Discovered for The TAKASHI Wireless Instant Router and Repeater | 2025-03-09T16:40:33Z |
 | [CVE-2025-29711](https://www.cve.org/CVERecord?id=CVE-2025-29711) | [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) | This takes advatage of the web applications poor session management on the takashi router and repeater. | 2025-03-05T18:11:59Z |
 | [CVE-2025-29705](https://www.cve.org/CVERecord?id=CVE-2025-29705) | [yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705) | CVE-2025-29705 | 2025-04-10T15:56:06Z |
 | [CVE-2025-29602](https://www.cve.org/CVERecord?id=CVE-2025-29602) | [harish0x/CVE-2025-29602](https://github.com/harish0x/CVE-2025-29602) | no description | 2025-04-01T13:01:25Z |
@@ -1218,6 +1222,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Dejavu666/CVE-2024-4577](https://github.com/Dejavu666/CVE-2024-4577) | CVE-2024-4577 POC | 2025-01-08T07:41:29Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [mr-won/php-cgi-cve-2024-4577](https://github.com/mr-won/php-cgi-cve-2024-4577) | php-cgi-cve-2024-4577 | 2025-02-14T11:09:15Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Didarul342/CVE-2024-4577](https://github.com/Didarul342/CVE-2024-4577) | no description | 2025-02-14T19:38:10Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [mistakes1337/CVE-2024-4577](https://github.com/mistakes1337/CVE-2024-4577) | no description | 2025-03-21T05:44:12Z |
 | [CVE-2024-4573](https://www.cve.org/CVERecord?id=CVE-2024-4573) | [Castro-Ian/CVE-2024-4573-Mitigation-Script](https://github.com/Castro-Ian/CVE-2024-4573-Mitigation-Script) | no description | 2024-12-30T18:54:07Z |
 | [CVE-2024-45614](https://www.cve.org/CVERecord?id=CVE-2024-45614) | [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614) | Puma Header normalization CVE-2024-45614 確認 | 2024-09-28T06:29:00Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
@@ -4829,6 +4834,7 @@ Last generated: 2025-05-20 02:41:29.737761
 | [CVE-2023-24329](https://www.cve.org/CVERecord?id=CVE-2023-24329) | [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit) | Example of CVE-2023-24329 | 2023-10-05T01:55:05Z |
 | [CVE-2023-24317](https://www.cve.org/CVERecord?id=CVE-2023-24317) | [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317) | Judging Management System v1.0 - Unrestricted File Upload + RCE (Unauthenticated) | 2023-03-08T22:00:44Z |
 | [CVE-2023-24317](https://www.cve.org/CVERecord?id=CVE-2023-24317) | [prasad-1808/tool-29489](https://github.com/prasad-1808/tool-29489) | This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available | 2024-01-21T19:23:47Z |
+| [CVE-2023-24278](https://www.cve.org/CVERecord?id=CVE-2023-24278) | [NeCr00/CVE-2023-24278](https://github.com/NeCr00/CVE-2023-24278) | It was  discovered two reflected cross site scripting (XSS) vulnerabilities in the Squidex open source headless CMS software. The Reflected Cross Site Scripting vulnerabilities affect all versions of Squidex prior to 7.4.0 and affect both authenticated and unauthenticated victim users. | 2024-12-23T13:10:47Z |
 | [CVE-2023-24249](https://www.cve.org/CVERecord?id=CVE-2023-24249) | [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit) | Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection. | 2024-08-07T04:36:44Z |
 | [CVE-2023-24203](https://www.cve.org/CVERecord?id=CVE-2023-24203) | [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204) | no description | 2024-05-14T03:53:03Z |
 | [CVE-2023-24100](https://www.cve.org/CVERecord?id=CVE-2023-24100) | [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100) | nuclei templates CVE RCE CNVD IoT | 2023-12-05T05:00:27Z |
