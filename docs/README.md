@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-21 02:41:17.647116
+Last generated: 2025-05-22 02:40:42.639120
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -2571,6 +2571,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [tamatee/test_cve_2024_23897](https://github.com/tamatee/test_cve_2024_23897) | no description | 2024-11-05T15:50:20Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins](https://github.com/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins) | no description | 2024-12-08T08:13:34Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Marouane133/jenkins-lfi](https://github.com/Marouane133/jenkins-lfi) | Jenkins CVE-2024-23897 POC : Arbitrary File Read Vulnerability Leading to RCE | 2025-01-02T03:28:56Z |
+| [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [slytechroot/CVE-2024-23897](https://github.com/slytechroot/CVE-2024-23897) | Jenkins RCE Arbitrary File Read CVE-2024-23897 | 2025-03-23T06:34:14Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
@@ -2951,6 +2952,8 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2024-11199](https://www.cve.org/CVERecord?id=CVE-2024-11199) | [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199) | CVE-2024-11199 poc exploit | 2024-11-23T21:43:20Z |
 | [CVE-2024-11120](https://www.cve.org/CVERecord?id=CVE-2024-11120) | [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120) | Unrestricted Upload of File with Dangerous Type (CWE-434) | 2024-11-16T11:58:39Z |
 | [CVE-2024-1112](https://www.cve.org/CVERecord?id=CVE-2024-1112) | [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112) | no description | 2024-08-04T13:26:46Z |
+| [CVE-2024-11042](https://www.cve.org/CVERecord?id=CVE-2024-11042) | [gothburz/CVE-2024-11042](https://github.com/gothburz/CVE-2024-11042) | Proof-of-concept for In invoke-ai/invokeai version v5.0.2 Arbitrary File Deletion. | 2025-03-21T16:55:49Z |
+| [CVE-2024-11040](https://www.cve.org/CVERecord?id=CVE-2024-11040) | [gothburz/CVE-2024-11040](https://github.com/gothburz/CVE-2024-11040) | vllm-project vllm version 0.5.2.2 is vulnerable to Denial of Service attacks. | 2025-03-21T17:32:00Z |
 | [CVE-2024-11016](https://www.cve.org/CVERecord?id=CVE-2024-11016) | [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016) | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) | 2024-11-11T17:17:22Z |
 | [CVE-2024-11003](https://www.cve.org/CVERecord?id=CVE-2024-11003) | [unknown-user-from/CVE-2024-11003-PoC](https://github.com/unknown-user-from/CVE-2024-11003-PoC) | CVE-2024-11003 Perl Poc | 2024-11-28T06:13:42Z |
 | [CVE-2024-10958](https://www.cve.org/CVERecord?id=CVE-2024-10958) | [reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit) | no description | 2024-11-10T15:43:14Z |
@@ -5366,6 +5369,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2022-37969](https://www.cve.org/CVERecord?id=CVE-2022-37969) | [fortra/CVE-2022-37969](https://github.com/fortra/CVE-2022-37969) | Windows LPE exploit for CVE-2022-37969 | 2023-03-09T21:17:44Z |
 | [CVE-2022-37706](https://www.cve.org/CVERecord?id=CVE-2022-37706) | [GrayHatZone/CVE-2022-37706-LPE-exploit](https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit) | no description | 2023-04-25T19:28:32Z |
 | [CVE-2022-37706](https://www.cve.org/CVERecord?id=CVE-2022-37706) | [junnythemarksman/CVE-2022-37706](https://github.com/junnythemarksman/CVE-2022-37706) | Exploit created by nu11secur1ty (https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2022-37706) | 2024-06-03T01:17:04Z |
+| [CVE-2022-37706](https://www.cve.org/CVERecord?id=CVE-2022-37706) | [TACTICAL-HACK/CVE-2022-37706-SUID](https://github.com/TACTICAL-HACK/CVE-2022-37706-SUID) | CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation | 2024-07-19T23:12:40Z |
 | [CVE-2022-37434](https://www.cve.org/CVERecord?id=CVE-2022-37434) | [Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434](https://github.com/Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434) | no description | 2024-02-02T06:57:18Z |
 | [CVE-2022-37434](https://www.cve.org/CVERecord?id=CVE-2022-37434) | [Trinadh465/external_zlib_CVE-2022-37434](https://github.com/Trinadh465/external_zlib_CVE-2022-37434) | no description | 2024-02-02T14:25:28Z |
 | [CVE-2022-36946](https://www.cve.org/CVERecord?id=CVE-2022-36946) | [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946) | CVE-2022-36946 linux kernel panic in netfilter_queue | 2022-07-28T11:22:13Z |
@@ -5416,6 +5420,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2022-31626](https://www.cve.org/CVERecord?id=CVE-2022-31626) | [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626) | no description | 2022-12-06T16:19:03Z |
 | [CVE-2022-31007](https://www.cve.org/CVERecord?id=CVE-2022-31007) | [gregscharf/CVE-2022-31007-Python-POC](https://github.com/gregscharf/CVE-2022-31007-Python-POC) | elabFTW &lt; 4.1.0 - account lockout bypass and login brute force | 2022-12-01T22:53:59Z |
 | [CVE-2022-30780](https://www.cve.org/CVERecord?id=CVE-2022-30780) | [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service) | CVE-2022-30780 - lighttpd remote denial of service | 2022-05-18T12:01:17Z |
+| [CVE-2022-30780](https://www.cve.org/CVERecord?id=CVE-2022-30780) | [xiw1ll/CVE-2022-30780_Checker](https://github.com/xiw1ll/CVE-2022-30780_Checker) | Lighttpd CVE-2022-30780 checker | 2024-07-18T13:09:44Z |
 | [CVE-2022-30525](https://www.cve.org/CVERecord?id=CVE-2022-30525) | [arajsingh-infosec/CVE-2022-30525_Exploit](https://github.com/arajsingh-infosec/CVE-2022-30525_Exploit) | Exploit for CVE-2022-30525 | 2024-02-27T03:31:37Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [yosef0x01/CVE-2022-30507-PoC](https://github.com/yosef0x01/CVE-2022-30507-PoC) | PoC for Arbitrary Code Execution in Notable | 2022-07-16T15:55:28Z |
 | [CVE-2022-30507](https://www.cve.org/CVERecord?id=CVE-2022-30507) | [hotblac/text4shell](https://github.com/hotblac/text4shell) | A demonstration of CVE-2022-42889 (text4shell) remote code execution vulnerability | 2023-03-01T20:56:37Z |
@@ -5438,6 +5443,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [shri142/ZipScan](https://github.com/shri142/ZipScan) | A tool written in Go that scans files &amp; directories for the Follina exploit (CVE-2022-30190) | 2024-02-17T12:10:12Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [alien-keric/CVE-2022-30190](https://github.com/alien-keric/CVE-2022-30190) | The script is from  https://github.com/JohnHammond/msdt-follina, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link | 2024-04-09T22:40:09Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [skitkat/CVE-2022-30190-POC](https://github.com/skitkat/CVE-2022-30190-POC) | For learning purpose did a complete analysis on CVE-2022-30190 &quot;Follina&quot; POC | 2024-06-14T16:36:39Z |
+| [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [ethicalblue/Follina-CVE-2022-30190-Sample](https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample) | Educational exploit for CVE-2022-30190 | 2024-07-20T17:50:48Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [fortra/CVE-2022-30136](https://github.com/fortra/CVE-2022-30136) | Windows Network File System Remote exploit for CVE-2022-30136 | 2023-03-15T10:59:08Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136) | Windows Network File System Remote exploit (DoS) PoC | 2023-06-23T17:13:22Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2) | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | 2023-06-23T00:16:52Z |
@@ -6062,6 +6068,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [mind2hex/CVE-2021-31630](https://github.com/mind2hex/CVE-2021-31630) | OpenPLC 3 WebServer Authenticated Remote Code Execution. | 2024-04-15T16:55:30Z |
 | [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [sealldeveloper/CVE-2021-31630-PoC](https://github.com/sealldeveloper/CVE-2021-31630-PoC) | A version of the PoC for CVE-2021-31630 from https://github.com/Hunt3r0x/CVE-2021-31630-HTB but without the political messages, because they are unneccessary. | 2024-05-13T15:17:38Z |
 | [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [junnythemarksman/CVE-2021-31630](https://github.com/junnythemarksman/CVE-2021-31630) | Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB | 2024-06-04T00:44:47Z |
+| [CVE-2021-31630](https://www.cve.org/CVERecord?id=CVE-2021-31630) | [ttps-byte/cve-2021-31630](https://github.com/ttps-byte/cve-2021-31630) | This is a automation of cve-2021-31630 exploitation | 2024-06-21T22:10:49Z |
 | [CVE-2021-31589](https://www.cve.org/CVERecord?id=CVE-2021-31589) | [karthi-the-hacker/CVE-2021-31589](https://github.com/karthi-the-hacker/CVE-2021-31589) | CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | 2023-04-19T09:10:40Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [mutur4/CVE-2021-3156](https://github.com/mutur4/CVE-2021-3156) | no description | 2023-05-11T19:38:16Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) | 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接 | 2022-10-04T03:39:27Z |
@@ -6144,6 +6151,7 @@ Last generated: 2025-05-21 02:41:17.647116
 | [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [iceberg-N/cve-2021-26855](https://github.com/iceberg-N/cve-2021-26855) | no description | 2023-04-25T04:29:35Z |
 | [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [r0xdeadbeef/CVE-2021-26855](https://github.com/r0xdeadbeef/CVE-2021-26855) | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | 2021-03-11T19:35:35Z |
 | [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt](https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt) | Clone from gist | 2024-01-04T22:48:21Z |
+| [CVE-2021-26855](https://www.cve.org/CVERecord?id=CVE-2021-26855) | [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855) | no description | 2023-04-23T22:26:45Z |
 | [CVE-2021-26700](https://www.cve.org/CVERecord?id=CVE-2021-26700) | [jason-ntu/CVE-2021-26700](https://github.com/jason-ntu/CVE-2021-26700) | no description | 2023-03-16T14:49:28Z |
 | [CVE-2021-26258](https://www.cve.org/CVERecord?id=CVE-2021-26258) | [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258) | Files and tools for CVE-2021-26258 | 2022-12-17T00:59:32Z |
 | [CVE-2021-26088](https://www.cve.org/CVERecord?id=CVE-2021-26088) | [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088) | PoC for CVE-2021-26088 written in PowerShell | 2023-05-09T13:13:41Z |
