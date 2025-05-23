@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-22 02:40:42.639120
+Last generated: 2025-05-23 02:40:40.626544
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -1500,6 +1500,7 @@ Last generated: 2025-05-22 02:40:42.639120
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner) | Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856) | 2024-08-08T02:40:56Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc) | CVE-2024-38856 是 Apache OFBiz 中的一个严重漏洞，允许未经身份验证的攻击者在受影响的系统上执行任意代码。 | 2024-11-23T03:54:28Z |
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen) | Tentang Pemindai &amp; Eksploitasi Apache OFBiz RCE (CVE-2024-38856) | 2025-01-02T15:25:31Z |
+| [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [AlissonFaoli/Apache-OFBiz-Exploit](https://github.com/AlissonFaoli/Apache-OFBiz-Exploit) | Exploit for Apache OFBiz - CVE-2024-38856 | 2025-02-11T03:39:47Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821) | cve-2024-38821 | 2024-10-30T14:38:37Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC) | no description | 2025-01-18T12:52:34Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [GhostS3c/CVE-2024-38819](https://github.com/GhostS3c/CVE-2024-38819) | CVE-2024-38819 nuclei template | 2024-12-16T08:48:12Z |
