@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-24 02:28:07.397276
+Last generated: 2025-05-25 02:48:26.211466
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -54,6 +54,8 @@ Last generated: 2025-05-24 02:28:07.397276
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [teamtopkarl/CVE-2025-32433](https://github.com/teamtopkarl/CVE-2025-32433) | Erlang/OTP SSH 远程代码执行漏洞 | 2025-04-18T15:06:12Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC) | The vulnerability allows an attacker with network access to an Erlang/OTP SSH server to execute arbitrary code without prior authentication. | 2025-04-18T21:11:44Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [meloppeitreet/CVE-2025-32433-Remote-Shell](https://github.com/meloppeitreet/CVE-2025-32433-Remote-Shell) | Go-based exploit for CVE-2025-32433 | 2025-04-19T18:32:34Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433) | CVE-2025-32433 Erlang/OTP SSH RCE Exploit  SSH远程代码执行漏洞EXP | 2025-04-25T15:31:21Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [tobiasGuta/Erlang-OTP-CVE-2025-32433](https://github.com/tobiasGuta/Erlang-OTP-CVE-2025-32433) | This Python script exploits the CVE-2025-32433 vulnerability in certain versions of the Erlang SSH daemon. | 2025-04-23T20:12:50Z |
 | [CVE-2025-3243](https://www.cve.org/CVERecord?id=CVE-2025-3243) | [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243) | A proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang&#x27;s SSH library that allows pre-authenticated code execution via malformed SSH_MSG_CHANNEL_REQUEST packets. | 2025-04-24T19:31:49Z |
 | [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
@@ -2589,6 +2591,7 @@ Last generated: 2025-05-24 02:28:07.397276
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [Marouane133/jenkins-lfi](https://github.com/Marouane133/jenkins-lfi) | Jenkins CVE-2024-23897 POC : Arbitrary File Read Vulnerability Leading to RCE | 2025-01-02T03:28:56Z |
 | [CVE-2024-23897](https://www.cve.org/CVERecord?id=CVE-2024-23897) | [slytechroot/CVE-2024-23897](https://github.com/slytechroot/CVE-2024-23897) | Jenkins RCE Arbitrary File Read CVE-2024-23897 | 2025-03-23T06:34:14Z |
 | [CVE-2024-2389](https://www.cve.org/CVERecord?id=CVE-2024-2389) | [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389) | no description | 2024-04-11T14:03:23Z |
+| [CVE-2024-2387](https://www.cve.org/CVERecord?id=CVE-2024-2387) | [RandomRobbieBF/CVE-2024-2387](https://github.com/RandomRobbieBF/CVE-2024-2387) | Advanced Form Integration – Connect WooCommerce and Contact Form 7 to Google Sheets and other platforms &lt;= 1.82.0 - SQL Injection to Reflected Cross-Site Scripting via integration_id | 2025-03-24T09:45:22Z |
 | [CVE-2024-23780](https://www.cve.org/CVERecord?id=CVE-2024-23780) | [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780) | Netbox - CVE-2024-23780 | 2024-03-08T10:39:59Z |
 | [CVE-2024-23774](https://www.cve.org/CVERecord?id=CVE-2024-23774) | [Verrideo/CVE-2024-23774](https://github.com/Verrideo/CVE-2024-23774) | no description | 2024-02-05T10:59:03Z |
 | [CVE-2024-23773](https://www.cve.org/CVERecord?id=CVE-2024-23773) | [Verrideo/CVE-2024-23773](https://github.com/Verrideo/CVE-2024-23773) | no description | 2024-02-05T10:58:50Z |
