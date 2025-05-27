@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-26 02:45:16.969880
+Last generated: 2025-05-27 02:39:48.822420
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,10 +12,13 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-46657](https://www.cve.org/CVERecord?id=CVE-2025-46657) | [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657) | no description | 2025-04-27T02:15:37Z |
 | [CVE-2025-43921](https://www.cve.org/CVERecord?id=CVE-2025-43921) | [0NYX-MY7H/CVE-2025-43921](https://github.com/0NYX-MY7H/CVE-2025-43921) | no description | 2025-04-20T15:36:06Z |
 | [CVE-2025-43920](https://www.cve.org/CVERecord?id=CVE-2025-43920) | [0NYX-MY7H/CVE-2025-43920](https://github.com/0NYX-MY7H/CVE-2025-43920) | no description | 2025-04-20T15:35:10Z |
 | [CVE-2025-43919](https://www.cve.org/CVERecord?id=CVE-2025-43919) | [0NYX-MY7H/CVE-2025-43919](https://github.com/0NYX-MY7H/CVE-2025-43919) | no description | 2025-04-20T15:33:56Z |
 | [CVE-2025-43919](https://www.cve.org/CVERecord?id=CVE-2025-43919) | [cybersecplayground/CVE-2025-43919-POC](https://github.com/cybersecplayground/CVE-2025-43919-POC) | A new vulnerability has been discovered in GNU Mailman 2.1.39, bundled with cPanel/WHM, allowing unauthenticated remote attackers to read arbitrary files on the server via a directory traversal flaw. | 2025-04-22T04:55:42Z |
+| [CVE-2025-43865](https://www.cve.org/CVERecord?id=CVE-2025-43865) | [pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865](https://github.com/pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865) | no description | 2025-04-27T11:30:16Z |
+| [CVE-2025-43864](https://www.cve.org/CVERecord?id=CVE-2025-43864) | [pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-) | no description | 2025-04-27T10:02:15Z |
 | [CVE-2025-4172026](https://www.cve.org/CVERecord?id=CVE-2025-4172026) | [NotItsSixtyN3in/CVE-2025-4172026](https://github.com/NotItsSixtyN3in/CVE-2025-4172026) | no description | 2025-04-17T15:25:31Z |
 | [CVE-2025-4172025](https://www.cve.org/CVERecord?id=CVE-2025-4172025) | [NotItsSixtyN3in/CVE-2025-4172025](https://github.com/NotItsSixtyN3in/CVE-2025-4172025) | no description | 2025-04-17T15:36:50Z |
 | [CVE-2025-4162030](https://www.cve.org/CVERecord?id=CVE-2025-4162030) | [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030) | no description | 2025-04-16T20:41:14Z |
@@ -27,6 +30,7 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
 | [CVE-2025-39601](https://www.cve.org/CVERecord?id=CVE-2025-39601) | [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601) | WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability | 2025-04-16T14:52:41Z |
 | [CVE-2025-39436](https://www.cve.org/CVERecord?id=CVE-2025-39436) | [Nxploited/CVE-2025-39436](https://github.com/Nxploited/CVE-2025-39436) | WordPress I Draw Plugin &lt;= 1.0 is vulnerable to Arbitrary File Upload | 2025-04-19T19:56:51Z |
+| [CVE-2025-3914](https://www.cve.org/CVERecord?id=CVE-2025-3914) | [LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload) | CVE-2025-3914-PoC - The Aeropage Sync for Airtable WordPress plugin (≤ v3.2.0) is vulnerable to authenticated arbitrary file uploads due to insufficient file type validation in the aeropage_media_downloader function. | 2025-04-27T15:03:57Z |
 | [CVE-2025-3776](https://www.cve.org/CVERecord?id=CVE-2025-3776) | [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776) | WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE) | 2025-04-24T01:19:01Z |
 | [CVE-2025-3568](https://www.cve.org/CVERecord?id=CVE-2025-3568) | [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568) | A security vulnerability has been identified in Krayin CRM &lt;=2.1.0 that allows a low-privileged user to escalate privileges by tricking an admin into opening a malicious SVG file. | 2025-04-17T12:08:52Z |
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [tinkerlev/commvault-cve2025-34028-check](https://github.com/tinkerlev/commvault-cve2025-34028-check) | Commvault CVE-2025-34028 endpoint scanner using Nmap NSE. For ethical testing and configuration validation. | 2025-04-24T16:30:11Z |
@@ -70,6 +74,8 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC) | Vite任意文件读取漏洞批量检测脚本CVE-2025-31486 | 2025-04-07T08:56:22Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486) | CVE-2025-31486 poc | 2025-04-11T09:35:25Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324) | SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system. | 2025-04-25T15:22:59Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [redrays-io/CVE-2025-31324](https://github.com/redrays-io/CVE-2025-31324) | CVE-2025-31324, SAP Exploit | 2025-04-27T11:39:26Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [moften/CVE-2025-31324-NUCLEI](https://github.com/moften/CVE-2025-31324-NUCLEI) | Nuclei template for cve-2025-31324 (SAP) | 2025-04-28T01:43:22Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
@@ -204,6 +210,7 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [EQSTLab/CVE-2025-29927](https://github.com/EQSTLab/CVE-2025-29927) | Next.js middleware bypass exploit | 2025-04-25T08:51:52Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [darklotuskdb/nextjs-CVE-2025-29927-hunter](https://github.com/darklotuskdb/nextjs-CVE-2025-29927-hunter) | Next.js CVE-2025-29927 Hunter | 2025-04-11T20:42:09Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
+| [CVE-2025-29775](https://www.cve.org/CVERecord?id=CVE-2025-29775) | [ethicalPap/CVE-2025-29775](https://github.com/ethicalPap/CVE-2025-29775) | no description | 2025-04-17T02:32:30Z |
 | [CVE-2025-29722](https://www.cve.org/CVERecord?id=CVE-2025-29722) | [cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722) | Cross Site Request Forgery (CSRF) in Commercify v1.0 | 2025-04-15T12:47:18Z |
 | [CVE-2025-29712](https://www.cve.org/CVERecord?id=CVE-2025-29712) | [SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) | An XSS Vulnerability Discovered for The TAKASHI Wireless Instant Router and Repeater | 2025-03-09T16:40:33Z |
 | [CVE-2025-29711](https://www.cve.org/CVERecord?id=CVE-2025-29711) | [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) | This takes advatage of the web applications poor session management on the takashi router and repeater. | 2025-03-05T18:11:59Z |
@@ -1061,6 +1068,7 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [UMASANKAR-MG/Path-Traversal-CVE-2024-4956](https://github.com/UMASANKAR-MG/Path-Traversal-CVE-2024-4956) | no description | 2024-09-26T15:05:41Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [An00bRektn/shirocrack](https://github.com/An00bRektn/shirocrack) | Simple hash cracker for Apache Shiro hashes written in Golang. Useful for exploiting CVE-2024-4956. | 2024-10-04T19:54:05Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [XiaomingX/cve-2024-4956](https://github.com/XiaomingX/cve-2024-4956) | CVE-2024-4956 Python exploitation utility | 2024-12-12T04:05:10Z |
+| [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [art-of-defence/CVE-2024-4956](https://github.com/art-of-defence/CVE-2024-4956) | Detection and exploitation scripts for CVE-2024-4956 | 2025-03-26T13:27:33Z |
 | [CVE-2024-49379](https://www.cve.org/CVERecord?id=CVE-2024-49379) | [OHDUDEOKNICE/CVE-2024-49379](https://github.com/OHDUDEOKNICE/CVE-2024-49379) | CVE-2024-49379 PoC | 2024-11-16T19:05:28Z |
 | [CVE-2024-49369](https://www.cve.org/CVERecord?id=CVE-2024-49369) | [Quantum-Sicarius/CVE-2024-49369](https://github.com/Quantum-Sicarius/CVE-2024-49369) | no description | 2024-11-29T08:14:03Z |
 | [CVE-2024-49368](https://www.cve.org/CVERecord?id=CVE-2024-49368) | [Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368) | Explorations of CVE-2024-49368 + Exploit Development | 2024-11-12T03:50:46Z |
@@ -6530,6 +6538,7 @@ Last generated: 2025-05-26 02:45:16.969880
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [syadg123/CVE-2020-0796](https://github.com/syadg123/CVE-2020-0796) | no description | 2020-04-22T09:10:15Z |
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [SEHandler/CVE-2020-0796](https://github.com/SEHandler/CVE-2020-0796) | CVE-2020-0796 | 2022-11-09T13:46:24Z |
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [arzuozkan/CVE-2020-0796](https://github.com/arzuozkan/CVE-2020-0796) | CVE-2020-0796 explanation and researching vulnerability for term porject CENG325 | 2022-06-07T17:16:16Z |
+| [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796) | no description | 2021-10-04T22:16:37Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [Ridter/cve-2020-0688](https://github.com/Ridter/cve-2020-0688) | cve-2020-0688 | 2020-02-27T02:54:27Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [TheKickPuncher/CVE-2020-0688-Python3](https://github.com/TheKickPuncher/CVE-2020-0688-Python3) | Exploit updated to use Python 3. | 2022-10-19T10:36:10Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [7heKnight/CVE-2020-0688](https://github.com/7heKnight/CVE-2020-0688) | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | 2022-05-12T03:17:35Z |
