@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-05-28 02:42:04.236263
+Last generated: 2025-05-29 02:42:02.398952
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -80,6 +80,8 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [moften/CVE-2025-31324-NUCLEI](https://github.com/moften/CVE-2025-31324-NUCLEI) | Nuclei template for cve-2025-31324 (SAP) | 2025-04-28T01:43:22Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [ODST-Forge/CVE-2025-31324_PoC](https://github.com/ODST-Forge/CVE-2025-31324_PoC) | Proof-of-Concept for CVE-2025-31324: Unauthenticated upload in SAP NetWeaver Visual Composer Metadata Uploader | 2025-04-28T20:32:21Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [Alizngnc/SAP-CVE-2025-31324](https://github.com/Alizngnc/SAP-CVE-2025-31324) | SAP NetWeaver Unauthenticated Remote Code Execution | 2025-04-28T13:19:54Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [Pengrey/CVE-2025-31324](https://github.com/Pengrey/CVE-2025-31324) | Unauthenticated upload in SAP NetWeaver Visual Composer Metadata Uploader | 2025-04-29T09:46:53Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [abrewer251/CVE-2025-31324_PoC_SAP](https://github.com/abrewer251/CVE-2025-31324_PoC_SAP) | Proof-of-Concept for CVE-2025-31324: Unauthenticated upload in SAP NetWeaver Visual Composer Metadata Uploader | 2025-04-29T00:16:06Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
@@ -283,6 +285,7 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2025-26056](https://www.cve.org/CVERecord?id=CVE-2025-26056) | [rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056) | no description | 2025-03-07T18:22:34Z |
 | [CVE-2025-26055](https://www.cve.org/CVERecord?id=CVE-2025-26055) | [rohan-pt/CVE-2025-26055](https://github.com/rohan-pt/CVE-2025-26055) | CVE Description | 2025-03-07T18:21:29Z |
 | [CVE-2025-26054](https://www.cve.org/CVERecord?id=CVE-2025-26054) | [rohan-pt/CVE-2025-26054](https://github.com/rohan-pt/CVE-2025-26054) | CVE-2025-26054 | 2025-03-07T18:21:57Z |
+| [CVE-2025-26014](https://www.cve.org/CVERecord?id=CVE-2025-26014) | [vigilante-1337/CVE-2025-26014](https://github.com/vigilante-1337/CVE-2025-26014) | A Remote Code Execution (RCE) vulnerability in Loggrove v.1.0 allows a remote attacker to execute arbitrary code via the path parameter. The manipulation of the argument path from read.py file leads to os command injection. The attack can be launched remotely. | 2025-04-29T08:50:56Z |
 | [CVE-2025-25968](https://www.cve.org/CVERecord?id=CVE-2025-25968) | [padayali-JD/CVE-2025-25968](https://github.com/padayali-JD/CVE-2025-25968) | no description | 2025-02-19T05:12:03Z |
 | [CVE-2025-25967](https://www.cve.org/CVERecord?id=CVE-2025-25967) | [padayali-JD/CVE-2025-25967](https://github.com/padayali-JD/CVE-2025-25967) | no description | 2025-02-25T15:02:52Z |
 | [CVE-2025-25965](https://www.cve.org/CVERecord?id=CVE-2025-25965) | [Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965) | CVE-2025-25965 is a newly discovered CSRF vulnerability in the Phpgurukul Online Banquet Booking System v1.2, allowing remote attackers to change a user’s email address without their consent by exploiting an authenticated session. | 2025-02-15T16:03:11Z |
@@ -3885,6 +3888,7 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2023-41498](https://www.cve.org/CVERecord?id=CVE-2023-41498) | [ASR511-OO7/CVE-2023-41498](https://github.com/ASR511-OO7/CVE-2023-41498) | no description | 2024-02-20T08:13:10Z |
 | [CVE-2023-41497](https://www.cve.org/CVERecord?id=CVE-2023-41497) | [ASR511-OO7/CVE-2023-41497](https://github.com/ASR511-OO7/CVE-2023-41497) | no description | 2024-02-20T08:12:08Z |
 | [CVE-2023-41474](https://www.cve.org/CVERecord?id=CVE-2023-41474) | [JBalanza/CVE-2023-41474](https://github.com/JBalanza/CVE-2023-41474) | Public disclosure of Ivanti&#x27;s Avalanche Path Traversal vulnerability | 2024-01-08T08:21:39Z |
+| [CVE-2023-4147](https://www.cve.org/CVERecord?id=CVE-2023-4147) | [murdok1982/Exploit-en-Python-para-CVE-2023-4147](https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147) | no description | 2024-12-30T18:08:46Z |
 | [CVE-2023-4145](https://www.cve.org/CVERecord?id=CVE-2023-4145) | [miguelc49/CVE-2023-4145-1](https://github.com/miguelc49/CVE-2023-4145-1) | no description | 2024-04-14T07:39:04Z |
 | [CVE-2023-4145](https://www.cve.org/CVERecord?id=CVE-2023-4145) | [miguelc49/CVE-2023-4145-3](https://github.com/miguelc49/CVE-2023-4145-3) | no description | 2024-04-14T07:39:09Z |
 | [CVE-2023-4145](https://www.cve.org/CVERecord?id=CVE-2023-4145) | [miguelc49/CVE-2023-4145-2](https://github.com/miguelc49/CVE-2023-4145-2) | no description | 2024-04-14T07:39:01Z |
@@ -3917,6 +3921,7 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2023-40989](https://www.cve.org/CVERecord?id=CVE-2023-40989) | [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989) | SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component. | 2023-09-20T12:43:23Z |
 | [CVE-2023-40933](https://www.cve.org/CVERecord?id=CVE-2023-40933) | [sealldeveloper/CVE-2023-40933-PoC](https://github.com/sealldeveloper/CVE-2023-40933-PoC) | The sqlmap payload to exploit CVE-2023-40933 | 2024-04-27T01:44:44Z |
 | [CVE-2023-40931](https://www.cve.org/CVERecord?id=CVE-2023-40931) | [sealldeveloper/CVE-2023-40931-PoC](https://github.com/sealldeveloper/CVE-2023-40931-PoC) | The sqlmap payload to exploit CVE-2023-40931 | 2024-04-27T01:42:23Z |
+| [CVE-2023-40931](https://www.cve.org/CVERecord?id=CVE-2023-40931) | [datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit) | An exploit for Nagios SQL injection vulnerbility | 2024-12-30T18:44:34Z |
 | [CVE-2023-40930](https://www.cve.org/CVERecord?id=CVE-2023-40930) | [NSnidie/CVE-2023-40930](https://github.com/NSnidie/CVE-2023-40930) | CVE-2023-40930 Repetition Enviroment | 2023-09-07T16:50:02Z |
 | [CVE-2023-40924](https://www.cve.org/CVERecord?id=CVE-2023-40924) | [Yobing1/CVE-2023-40924](https://github.com/Yobing1/CVE-2023-40924) | SolarView vuln | 2023-08-15T15:44:58Z |
 | [CVE-2023-40869](https://www.cve.org/CVERecord?id=CVE-2023-40869) | [MinoTauro2020/CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869) | Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions | 2023-09-02T00:47:37Z |
@@ -6010,6 +6015,7 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [X-Projetion/Exploiting-PwnKit-CVE-2021-4034-](https://github.com/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-) | no description | 2024-05-19T08:58:00Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [wechicken456/CVE-2021-4034-CTF-writeup](https://github.com/wechicken456/CVE-2021-4034-CTF-writeup) | no description | 2024-02-04T19:00:38Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [LucasPDiniz/CVE-2021-4034](https://github.com/LucasPDiniz/CVE-2021-4034) | Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit | 2024-01-06T19:41:41Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [evkl1d/CVE-2021-4034](https://github.com/evkl1d/CVE-2021-4034) | polkit | 2024-07-01T08:04:29Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -6052,6 +6058,7 @@ Last generated: 2025-05-28 02:42:04.236263
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560) | CVE-2021-3560 Bypass su - root | 2023-10-06T15:27:13Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation](https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation) | no description | 2023-12-15T03:38:41Z |
 | [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT) | Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability. | 2024-03-24T11:37:18Z |
+| [CVE-2021-3560](https://www.cve.org/CVERecord?id=CVE-2021-3560) | [LucasPDiniz/CVE-2021-3560](https://github.com/LucasPDiniz/CVE-2021-3560) | Exploitation of the CVE-2021-3560 polkit vulnerability | 2023-11-08T05:11:56Z |
 | [CVE-2021-35464](https://www.cve.org/CVERecord?id=CVE-2021-35464) | [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464) | openam-CVE-2021-35464 tomcat 执行命令回显 | 2021-07-01T03:51:32Z |
 | [CVE-2021-35448](https://www.cve.org/CVERecord?id=CVE-2021-35448) | [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448) | Local Privilege Escalation in Remote Mouse 3.008 | 2023-06-11T06:32:12Z |
 | [CVE-2021-35296](https://www.cve.org/CVERecord?id=CVE-2021-35296) | [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296) | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | 2021-09-30T18:18:27Z |
