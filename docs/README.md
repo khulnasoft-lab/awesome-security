@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-01 03:00:26.529027
+Last generated: 2025-06-02 02:48:35.974874
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -973,6 +973,7 @@ Last generated: 2025-06-01 03:00:26.529027
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380) | Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-25T14:56:38Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380) | no description | 2024-11-30T02:43:11Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [Nxploited/CVE-2024-52380-Exploit](https://github.com/Nxploited/CVE-2024-52380-Exploit) | Picsmize plugin for WordPress is vulnerable to arbitrary file uploads. | 2025-01-18T04:10:09Z |
+| [CVE-2024-52375](https://www.cve.org/CVERecord?id=CVE-2024-52375) | [Nxploited/CVE-2024-52375](https://github.com/Nxploited/CVE-2024-52375) | WordPress Datasets Manager by Arttia Creative plugin &lt;= 1.5 - Arbitrary File Upload vulnerability | 2025-03-22T00:48:02Z |
 | [CVE-2024-52335](https://www.cve.org/CVERecord?id=CVE-2024-52335) | [cloudefence/CVE-2024-52335](https://github.com/cloudefence/CVE-2024-52335) | CVE-2024-52335: Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) (CWE-89) | 2024-12-06T20:02:00Z |
 | [CVE-2024-52318](https://www.cve.org/CVERecord?id=CVE-2024-52318) | [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318) | CVE-2024-52318 - Apache Tomcat XSS Vulnerability in Generated JSPs | 2024-11-21T06:38:48Z |
 | [CVE-2024-52317](https://www.cve.org/CVERecord?id=CVE-2024-52317) | [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317) | CVE-2024-52317 - Apache Tomcat HTTP/2 Data Leakage Vulnerability | 2024-11-21T06:20:42Z |
@@ -3323,6 +3324,7 @@ Last generated: 2025-06-01 03:00:26.529027
 | [CVE-2023-51448](https://www.cve.org/CVERecord?id=CVE-2023-51448) | [jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc) | no description | 2024-03-06T11:23:11Z |
 | [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409) | AI Engine: ChatGPT Chatbot &lt;= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload | 2024-02-22T16:26:57Z |
 | [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [imhunterand/CVE-2023-51409](https://github.com/imhunterand/CVE-2023-51409) | AI Engine: ChatGPT Chatbot - Unauthenticated Arbitrary File Upload via rest_upload | 2024-04-23T09:25:37Z |
+| [CVE-2023-51409](https://www.cve.org/CVERecord?id=CVE-2023-51409) | [Nxploited/CVE-2023-51409](https://github.com/Nxploited/CVE-2023-51409) | no description | 2025-01-03T11:36:12Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test) | This is a test | 2023-12-25T07:43:57Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385) | no description | 2023-12-25T04:34:02Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385) | OpenSSH ProxyCommand RCE | 2023-12-25T12:51:05Z |
@@ -3346,6 +3348,7 @@ Last generated: 2025-06-01 03:00:26.529027
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [endasugrue/CVE-2023-51385_poc](https://github.com/endasugrue/CVE-2023-51385_poc) | no description | 2024-06-12T19:38:42Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [MiningBot-eth/CVE-2023-51385-exploit](https://github.com/MiningBot-eth/CVE-2023-51385-exploit) | no description | 2024-06-15T08:27:46Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Featherw1t/CVE-2023-51385_test](https://github.com/Featherw1t/CVE-2023-51385_test) | no description | 2024-08-20T02:25:58Z |
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [GroundCTL2MajorTom/CVE-2023-51385POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385POC) | no description | 2025-01-06T02:44:07Z |
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z |
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z |
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z |
