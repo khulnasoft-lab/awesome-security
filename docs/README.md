@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-02 02:48:35.974874
+Last generated: 2025-06-03 02:44:08.754560
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Last generated: 2025-06-02 02:48:35.974874
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Know56/CVE-2025-32433](https://github.com/Know56/CVE-2025-32433) | CVE-2025-32433 is a vuln of ssh | 2025-04-28T20:04:49Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433) | Exploit Erlang/OTP SSH CVE-2025-32433 in a lab setup. | 2025-04-29T21:15:30Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433) | CVE-2025-32433 – Erlang/OTP SSH vulnerability allowing pre-auth RCE | 2025-05-02T02:06:58Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [vigilante-1337/CVE-2025-32433](https://github.com/vigilante-1337/CVE-2025-32433) | A critical flaw has been discovered in Erlang/OTP&#x27;s SSH server allows unauthenticated attackers to gain remote code execution. One malformed SSH handshake bypasses authentication and exploits improper handling of SSH protocol messages. | 2025-05-03T13:32:34Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432) | This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS. | 2025-04-27T08:50:52Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432) | CraftCMS RCE Checker (CVE-2025-32432) | 2025-04-26T23:33:58Z |
 | [CVE-2025-3243](https://www.cve.org/CVERecord?id=CVE-2025-3243) | [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243) | A proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang&#x27;s SSH library that allows pre-authenticated code execution via malformed SSH_MSG_CHANNEL_REQUEST packets. | 2025-04-24T19:31:49Z |
@@ -969,6 +970,7 @@ Last generated: 2025-06-02 02:48:35.974874
 | [CVE-2024-52433](https://www.cve.org/CVERecord?id=CVE-2024-52433) | [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433) | My Geo Posts Free &lt;= 1.2 - Unauthenticated PHP Object Injection | 2024-11-22T08:56:58Z |
 | [CVE-2024-52430](https://www.cve.org/CVERecord?id=CVE-2024-52430) | [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430) | Lis Video Gallery &lt;= 0.2.1 - Unauthenticated PHP Object Injection | 2024-11-25T13:55:39Z |
 | [CVE-2024-52429](https://www.cve.org/CVERecord?id=CVE-2024-52429) | [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) | WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation | 2024-11-22T10:26:55Z |
+| [CVE-2024-52402](https://www.cve.org/CVERecord?id=CVE-2024-52402) | [Nxploited/CVE-2024-52402](https://github.com/Nxploited/CVE-2024-52402) | WordPress Exclusive Content Password Protect plugin &lt;= 1.1.0 - CSRF to Arbitrary File Upload vulnerability | 2025-03-18T07:32:16Z |
 | [CVE-2024-52382](https://www.cve.org/CVERecord?id=CVE-2024-52382) | [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) | Matix Popup Builder &lt;= 1.0.0 - Unauthenticated Arbitrary Options Update | 2024-11-21T16:19:12Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380) | Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload | 2024-11-25T14:56:38Z |
 | [CVE-2024-52380](https://www.cve.org/CVERecord?id=CVE-2024-52380) | [0xshoriful/CVE-2024-52380](https://github.com/0xshoriful/CVE-2024-52380) | no description | 2024-11-30T02:43:11Z |
@@ -5592,6 +5594,7 @@ Last generated: 2025-06-02 02:48:35.974874
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [DARKSTUFF-LAB/-CVE-2022-26134](https://github.com/DARKSTUFF-LAB/-CVE-2022-26134) | no description | 2023-12-29T06:51:38Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [404fu/CVE-2022-26134-POC](https://github.com/404fu/CVE-2022-26134-POC) | no description | 2024-03-26T14:18:17Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [xsxtw/CVE-2022-26134](https://github.com/xsxtw/CVE-2022-26134) | no description | 2024-05-02T18:31:54Z |
+| [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [cc3305/CVE-2022-26134](https://github.com/cc3305/CVE-2022-26134) | CVE-2022-26134 exploit script | 2024-06-07T22:15:48Z |
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
@@ -6087,6 +6090,7 @@ Last generated: 2025-06-02 02:48:35.974874
 | [CVE-2021-36593](https://www.cve.org/CVERecord?id=CVE-2021-36593) | [mir-hossein/Statement](https://github.com/mir-hossein/Statement) | About CVE-2021-36593 and CVE-2021-36594 | 2024-05-02T06:41:14Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo) | no description | 2022-11-05T17:32:47Z |
 | [CVE-2021-3656](https://www.cve.org/CVERecord?id=CVE-2021-3656) | [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn) | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | 2022-03-05T19:49:52Z |
+| [CVE-2021-36396](https://www.cve.org/CVERecord?id=CVE-2021-36396) | [T0X1Cx/CVE-2021-36396-Exploit](https://github.com/T0X1Cx/CVE-2021-36396-Exploit) | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | 2023-11-04T11:45:55Z |
 | [CVE-2021-36393](https://www.cve.org/CVERecord?id=CVE-2021-36393) | [StackOverflowExcept1on/CVE-2021-36393](https://github.com/StackOverflowExcept1on/CVE-2021-36393) | Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4 | 2023-10-27T17:13:55Z |
 | [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit) | no description | 2023-10-22T14:09:18Z |
 | [CVE-2021-36260](https://www.cve.org/CVERecord?id=CVE-2021-36260) | [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260) | CVE-2021-36260 | 2021-10-18T06:40:48Z |
