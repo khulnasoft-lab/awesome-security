@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-03 02:44:08.754560
+Last generated: 2025-06-04 02:44:33.765073
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-47226](https://www.cve.org/CVERecord?id=CVE-2025-47226) | [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226) | This CVE - PoC about information on the CVEs I found. | 2025-05-03T15:34:21Z |
 | [CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701) | [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701) | Tomcat CVE-2025-46701 PoC | 2025-04-29T00:47:12Z |
 | [CVE-2025-46657](https://www.cve.org/CVERecord?id=CVE-2025-46657) | [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657) | no description | 2025-04-27T02:15:37Z |
 | [CVE-2025-43929](https://www.cve.org/CVERecord?id=CVE-2025-43929) | [0xBenCantCode/CVE-2025-43929](https://github.com/0xBenCantCode/CVE-2025-43929) | High severity vulnerability in KiTTY allowing for local executables to be ran without user confirmation under certain circumstances. | 2025-04-20T03:19:51Z |
@@ -344,6 +345,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2025-24971](https://www.cve.org/CVERecord?id=CVE-2025-24971) | [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971) | CVE-2025-24971 exploit | 2025-02-20T16:59:27Z |
 | [CVE-2025-24963](https://www.cve.org/CVERecord?id=CVE-2025-24963) | [0xdeviner/CVE-2025-24963](https://github.com/0xdeviner/CVE-2025-24963) | no description | 2025-04-23T08:01:49Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC) | XWiki SolrSearchMacros 远程代码执行漏洞PoC（CVE-2025-24893） | 2025-02-25T07:11:51Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Artemir7/CVE-2025-24893-EXP](https://github.com/Artemir7/CVE-2025-24893-EXP) | no description | 2025-05-05T04:10:48Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat) | Nuclei Template CVE-2025–24813 | 2025-03-17T22:39:38Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner) | CVE-2025-24813 - Apache Tomcat Vulnerability Scanner | 2025-03-17T03:58:34Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813) | CVE-2025-24813利用工具 | 2025-03-16T11:59:59Z |
@@ -481,6 +483,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce plugin for WordPress is vulnerable to Local File Inclusion (LFI) | 2025-03-18T19:06:40Z |
 | [CVE-2025-1653](https://www.cve.org/CVERecord?id=CVE-2025-1653) | [realcodeb0ss/CVE-2025-1653-poc](https://github.com/realcodeb0ss/CVE-2025-1653-poc) | [WordPress uListing Plugin] &lt;= Privilege Escalation Explo1t | 2025-03-28T23:44:02Z |
 | [CVE-2025-1639](https://www.cve.org/CVERecord?id=CVE-2025-1639) | [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639) | Animation Addons for Elementor Pro &lt;= 1.6 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2025-03-13T10:48:05Z |
+| [CVE-2025-1323](https://www.cve.org/CVERecord?id=CVE-2025-1323) | [p33d/cve-2025-1323](https://github.com/p33d/cve-2025-1323) | WP-Recall Plugin SQL Injection | 2025-05-03T23:06:41Z |
 | [CVE-2025-1307](https://www.cve.org/CVERecord?id=CVE-2025-1307) | [Nxploited/CVE-2025-1307](https://github.com/Nxploited/CVE-2025-1307) | Newscrunch &lt;= 1.8.4 - Authenticated (Subscriber+) Arbitrary File Upload | 2025-03-05T23:34:40Z |
 | [CVE-2025-1306](https://www.cve.org/CVERecord?id=CVE-2025-1306) | [Nxploited/CVE-2025-1306](https://github.com/Nxploited/CVE-2025-1306) | Newscrunch &lt;= 1.8.4 - Cross-Site Request Forgery to Arbitrary File Upload | 2025-03-06T01:21:37Z |
 | [CVE-2025-1304](https://www.cve.org/CVERecord?id=CVE-2025-1304) | [Nxploited/CVE-2025-1304](https://github.com/Nxploited/CVE-2025-1304) | WordPress NewsBlogger Theme &lt;= 0.2.5.1 is vulnerable to Arbitrary File Upload | 2025-05-02T11:30:50Z |
@@ -850,6 +853,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2024-56278](https://www.cve.org/CVERecord?id=CVE-2024-56278) | [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278) | PoC of CVE-2024-56278 | 2025-01-06T01:51:46Z |
 | [CVE-2024-56264](https://www.cve.org/CVERecord?id=CVE-2024-56264) | [Nxploited/CVE-2024-56264](https://github.com/Nxploited/CVE-2024-56264) | WordPress ACF City Selector plugin &lt;= 1.14.0 - Arbitrary File Upload vulnerability | 2025-02-24T20:02:31Z |
 | [CVE-2024-56264](https://www.cve.org/CVERecord?id=CVE-2024-56264) | [dpakmrya/CVE-2024-56264](https://github.com/dpakmrya/CVE-2024-56264) | no description | 2025-02-27T17:54:51Z |
+| [CVE-2024-56249](https://www.cve.org/CVERecord?id=CVE-2024-56249) | [Nxploited/CVE-2024-56249](https://github.com/Nxploited/CVE-2024-56249) | WordPress WPMasterToolKit plugin &lt;= 1.13.1 - Arbitrary File Upload vulnerability | 2025-03-18T01:47:50Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py) | no description | 2025-02-03T22:33:57Z |
@@ -1089,6 +1093,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2024-49699](https://www.cve.org/CVERecord?id=CVE-2024-49699) | [RandomRobbieBF/CVE-2024-49699](https://github.com/RandomRobbieBF/CVE-2024-49699) | ARPrice &lt;= 4.0.3 - Authenticated (Subscriber+) PHP Object Injection | 2025-01-10T16:15:07Z |
 | [CVE-2024-49681](https://www.cve.org/CVERecord?id=CVE-2024-49681) | [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681) | WP Sessions Time Monitoring Full Automatic &lt;= 1.0.9 - Unauthenticated SQL Injection | 2024-11-09T15:24:16Z |
 | [CVE-2024-49668](https://www.cve.org/CVERecord?id=CVE-2024-49668) | [Nxploited/CVE-2024-49668](https://github.com/Nxploited/CVE-2024-49668) | WordPress Verbalize WP plugin &lt;= 1.0 - Arbitrary File Upload vulnerability | 2025-03-22T22:05:30Z |
+| [CVE-2024-49653](https://www.cve.org/CVERecord?id=CVE-2024-49653) | [Nxploited/CVE-2024-49653](https://github.com/Nxploited/CVE-2024-49653) | WordPress Portfolleo plugin &lt;= 1.2 - Arbitrary File Upload vulnerability | 2025-03-22T23:25:44Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [gmh5225/CVE-2024-4956](https://github.com/gmh5225/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-24T12:45:45Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [erickfernandox/CVE-2024-4956](https://github.com/erickfernandox/CVE-2024-4956) | Unauthenticated Path Traversal in Nexus Repository 3 | 2024-05-23T11:39:06Z |
 | [CVE-2024-4956](https://www.cve.org/CVERecord?id=CVE-2024-4956) | [codeb0ss/CVE-2024-4956-PoC](https://github.com/codeb0ss/CVE-2024-4956-PoC) | CVE-2024-4956 - Nexus &lt; Exploit | 2024-05-23T16:46:28Z |
@@ -3351,6 +3356,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [MiningBot-eth/CVE-2023-51385-exploit](https://github.com/MiningBot-eth/CVE-2023-51385-exploit) | no description | 2024-06-15T08:27:46Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [Featherw1t/CVE-2023-51385_test](https://github.com/Featherw1t/CVE-2023-51385_test) | no description | 2024-08-20T02:25:58Z |
 | [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [GroundCTL2MajorTom/CVE-2023-51385POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385POC) | no description | 2025-01-06T02:44:07Z |
+| [CVE-2023-51385](https://www.cve.org/CVERecord?id=CVE-2023-51385) | [GroundCTL2MajorTom/CVE-2023-51385P-POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385P-POC) | no description | 2025-01-06T03:13:52Z |
 | [CVE-2023-51281](https://www.cve.org/CVERecord?id=CVE-2023-51281) | [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281) | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, &quot;lastname&quot;, &quot;middlename&quot;, &quot;contact&quot; or “address” parameters. | 2023-12-22T15:51:43Z |
 | [CVE-2023-51214](https://www.cve.org/CVERecord?id=CVE-2023-51214) | [chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214) | no description | 2023-12-20T21:23:33Z |
 | [CVE-2023-51208](https://www.cve.org/CVERecord?id=CVE-2023-51208) | [16yashpatel/CVE-2023-51208](https://github.com/16yashpatel/CVE-2023-51208) | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | 2024-01-10T18:08:37Z |
@@ -6682,6 +6688,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [d3fudd/CVE-2019-9978_Exploit](https://github.com/d3fudd/CVE-2019-9978_Exploit) | Social WarFare Plugin (&lt;=3.5.2) Remote Code Execution | 2022-11-15T01:22:38Z |
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [GgKendall/secureCodingDemo](https://github.com/GgKendall/secureCodingDemo) | fall2022 secure coding CVE-2019-13272 : Linux Kernel Improper Privilege Management Vulnerability | 2022-11-14T00:07:04Z |
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [hash3liZer/CVE-2019-9978](https://github.com/hash3liZer/CVE-2019-9978) | CVE-2019-9978 - (PoC) RCE in Social WarFare Plugin (&lt;=3.5.2) | 2019-05-03T05:57:44Z |
+| [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [0xMoonrise/cve-2019-9978](https://github.com/0xMoonrise/cve-2019-9978) | cve-2019-9978 PoC | 2023-11-09T03:01:02Z |
 | [CVE-2019-9791](https://www.cve.org/CVERecord?id=CVE-2019-9791) | [Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791) | Exploit chain for CVE-2019-9791 &amp; CVE-2019-11708 against firefox 65.0 on windows 64bit | 2021-09-08T14:38:42Z |
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [kuangting4231/mitigation-cve-2019-9787](https://github.com/kuangting4231/mitigation-cve-2019-9787) | no description | 2022-04-30T12:19:50Z |
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [dexXxed/CVE-2019-9787](https://github.com/dexXxed/CVE-2019-9787) | Overview PoC of CSRF CVE-2019-9787 WordPress Version 5.1.1 | 2021-06-29T08:57:43Z |
@@ -6923,6 +6930,7 @@ Last generated: 2025-06-03 02:44:08.754560
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [darrenmartyn/CVE-2019-15107](https://github.com/darrenmartyn/CVE-2019-15107) | Something I wrote for CVE-2019-15107, a Webmin backdoor | 2021-09-09T16:26:40Z |
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [puckiestyle/CVE-2019-15107](https://github.com/puckiestyle/CVE-2019-15107) | no description | 2021-08-11T12:39:45Z |
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [h4ck0rman/CVE-2019-15107](https://github.com/h4ck0rman/CVE-2019-15107) | no description | 2023-08-19T05:41:39Z |
+| [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [olingo99/CVE-2019-15107](https://github.com/olingo99/CVE-2019-15107) | no description | 2023-11-09T12:14:11Z |
 | [CVE-2019-15043](https://www.cve.org/CVERecord?id=CVE-2019-15043) | [h0ffayyy/CVE-2019-15043](https://github.com/h0ffayyy/CVE-2019-15043) | POC scanner for the Grafana vulnerability CVE-2019-15043 | 2020-08-01T21:31:46Z |
 | [CVE-2019-1458](https://www.cve.org/CVERecord?id=CVE-2019-1458) | [piotrflorczyk/cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC) | POC for cve-2019-1458 | 2020-03-03T17:55:07Z |
 | [CVE-2019-14530](https://www.cve.org/CVERecord?id=CVE-2019-14530) | [sec-it/exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530) | OpenEMR &lt; 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure | 2021-06-30T08:59:57Z |
