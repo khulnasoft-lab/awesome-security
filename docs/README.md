@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-09 02:50:33.311522
+Last generated: 2025-06-10 02:46:18.519950
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-47810](https://www.cve.org/CVERecord?id=CVE-2025-47810) | [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810) | PunkBuster LPI to NT AUTHORITY\SYSTEM | 2025-02-15T21:18:39Z |
 | [CVE-2025-47550](https://www.cve.org/CVERecord?id=CVE-2025-47550) | [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550) | Instantio - Wordpress Plugin &lt;= 3.3.16 - Authenticated (Admin+) Arbitrary File Upload via ins_options_save | 2025-05-07T22:15:35Z |
 | [CVE-2025-47549](https://www.cve.org/CVERecord?id=CVE-2025-47549) | [d0n601/CVE-2025-47549](https://github.com/d0n601/CVE-2025-47549) | Ultimate Before After Image Slider &amp; Gallery – BEAF &lt;= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save | 2025-05-07T22:09:58Z |
 | [CVE-2025-47423](https://www.cve.org/CVERecord?id=CVE-2025-47423) | [Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423) | no description | 2025-05-07T04:44:38Z |
@@ -66,6 +67,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-3272025](https://www.cve.org/CVERecord?id=CVE-2025-3272025) | [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025) | no description | 2025-03-28T04:18:11Z |
 | [CVE-2025-32682](https://www.cve.org/CVERecord?id=CVE-2025-32682) | [Nxploited/CVE-2025-32682](https://github.com/Nxploited/CVE-2025-32682) | WordPress MapSVG Lite Plugin &lt;= 8.5.34 is vulnerable to Arbitrary File Upload | 2025-04-18T10:18:44Z |
 | [CVE-2025-32641](https://www.cve.org/CVERecord?id=CVE-2025-32641) | [Nxploited/CVE-2025-32641](https://github.com/Nxploited/CVE-2025-32641) | Anant Addons for Elementor &lt;= 1.1.5 CSRF to Arbitrary Plugin Installation vulnerability | 2025-04-11T11:03:44Z |
+| [CVE-2025-32583](https://www.cve.org/CVERecord?id=CVE-2025-32583) | [Nxploited/CVE-2025-32583](https://github.com/Nxploited/CVE-2025-32583) | WordPress PDF 2 Post Plugin &lt;= 2.4.0 is vulnerable to Remote Code Execution (RCE) +Subscriber | 2025-05-10T21:21:08Z |
 | [CVE-2025-32579](https://www.cve.org/CVERecord?id=CVE-2025-32579) | [Nxploited/CVE-2025-32579](https://github.com/Nxploited/CVE-2025-32579) | WordPress Sync Posts Plugin &lt;= 1.0 is vulnerable to Arbitrary File Upload | 2025-04-14T15:11:32Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248) | A vulnerability scanner for CVE-2025-3248 in Langflow applications. 用于扫描 Langflow 应用中 CVE-2025-3248 漏洞的工具。 | 2025-04-10T11:45:57Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
@@ -104,6 +106,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-31650](https://www.cve.org/CVERecord?id=CVE-2025-31650) | [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650) | CVE-2025-31650 PoC | 2025-04-30T11:10:56Z |
 | [CVE-2025-31650](https://www.cve.org/CVERecord?id=CVE-2025-31650) | [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650) | A tool designed to detect the vulnerability **CVE-2025-31650** in Apache Tomcat (versions 10.1.10 to 10.1.39) | 2025-04-30T02:20:58Z |
 | [CVE-2025-31650](https://www.cve.org/CVERecord?id=CVE-2025-31650) | [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool) | no description | 2025-05-02T01:28:24Z |
+| [CVE-2025-31644](https://www.cve.org/CVERecord?id=CVE-2025-31644) | [mbadanoiu/CVE-2025-31644](https://github.com/mbadanoiu/CVE-2025-31644) | CVE-2025-31644: Command Injection in Appliance mode in F5 BIG-IP | 2025-05-11T08:03:35Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC) | Vite任意文件读取漏洞批量检测脚本CVE-2025-31486 | 2025-04-07T08:56:22Z |
 | [CVE-2025-31486](https://www.cve.org/CVERecord?id=CVE-2025-31486) | [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486) | CVE-2025-31486 poc | 2025-04-11T09:35:25Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324) | SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system. | 2025-04-25T15:22:59Z |
@@ -120,6 +123,8 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [JonathanStross/CVE-2025-31324](https://github.com/JonathanStross/CVE-2025-31324) | A Python-based security scanner for identifying the CVE-2025-31324 vulnerability in SAP Visual Composer systems, and detecting known Indicators of Compromise (IOCs) such as malicious .jsp. | 2025-04-30T22:31:53Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [moften/CVE-2025-31324](https://github.com/moften/CVE-2025-31324) | SAP PoC para CVE-2025-31324 | 2025-04-28T01:32:39Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check) | sap-netweaver-cve-2025-31324-check | 2025-05-08T00:57:36Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324) | no description | 2025-05-07T06:23:09Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324) | SAP NetWeaver Visual Composer Metadata Uploader 7.50 CVE-2025-31324 PoC | 2025-05-10T18:52:46Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
@@ -295,6 +300,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825) | no description | 2025-04-04T08:57:02Z |
 | [CVE-2025-2825](https://www.cve.org/CVERecord?id=CVE-2025-2825) | [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP) | Shattered is a tool and POC for the new CrushedFTP vulns, CVE Exploit Script: CVE-2025-2825 vs CVE-2025-31161 | 2025-04-11T10:54:05Z |
 | [CVE-2025-28121](https://www.cve.org/CVERecord?id=CVE-2025-28121) | [pruthuraut/CVE-2025-28121](https://github.com/pruthuraut/CVE-2025-28121) | no description | 2025-04-19T07:10:13Z |
+| [CVE-2025-2812](https://www.cve.org/CVERecord?id=CVE-2025-2812) | [sahici/CVE-2025-2812](https://github.com/sahici/CVE-2025-2812) | CVE-2025-2812 SQL Injection | 2025-04-24T21:22:24Z |
 | [CVE-2025-28074](https://www.cve.org/CVERecord?id=CVE-2025-28074) | [mLniumm/CVE-2025-28074](https://github.com/mLniumm/CVE-2025-28074) | no description | 2025-05-07T15:22:20Z |
 | [CVE-2025-28073](https://www.cve.org/CVERecord?id=CVE-2025-28073) | [mLniumm/CVE-2025-28073](https://github.com/mLniumm/CVE-2025-28073) | no description | 2025-05-07T15:17:38Z |
 | [CVE-2025-2807](https://www.cve.org/CVERecord?id=CVE-2025-2807) | [Nxploited/CVE-2025-2807](https://github.com/Nxploited/CVE-2025-2807) | Wordpress - Motors Plugin &lt;= 1.4.64 - Arbitrary Plugin Installation Vulnerability | 2025-04-08T10:24:42Z |
@@ -415,6 +421,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub) | CVE-2025-24813的vulhub环境的POC脚本 | 2025-04-18T11:03:33Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813) | Proof of Concept (PoC) script for CVE-2025-24813, vulnerability in Apache Tomcat. | 2025-04-27T13:50:24Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Eduardo-hardvester/CVE-2025-24813](https://github.com/Eduardo-hardvester/CVE-2025-24813) | Remote Code Execution (RCE) vulnerability in Apache Tomcat. | 2025-05-10T15:58:12Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813) | no description | 2025-05-11T19:50:11Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801) | no description | 2025-04-19T01:59:30Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801) | CVE-2025-24801 Exploit | 2025-05-05T23:22:18Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
@@ -428,6 +435,8 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-24587](https://www.cve.org/CVERecord?id=CVE-2025-24587) | [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587) | PoC of CVE-2025-24587 | 2025-01-31T00:54:20Z |
 | [CVE-2025-24271](https://www.cve.org/CVERecord?id=CVE-2025-24271) | [moften/CVE-2025-24271](https://github.com/moften/CVE-2025-24271) | Vulnerabilidad en AirPlay expone información sensible en dispositivos Apple | 2025-04-30T19:59:56Z |
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC) | poc for CVE-2025-24252 &amp; CVE-2025-24132 | 2025-05-06T14:18:09Z |
+| [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252) | iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252 | 2025-05-10T23:50:40Z |
+| [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths) | Random paths for use with CVE-2025-24203 | 2025-05-10T19:12:52Z |
 | [CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200) | [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200) | CVE-2025-24200 - Incorrect Authorization | 2025-02-11T15:05:25Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118) | no description | 2025-02-01T22:20:18Z |
@@ -505,6 +514,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-2005](https://www.cve.org/CVERecord?id=CVE-2025-2005) | [h4ckxel/CVE-2025-2005](https://github.com/h4ckxel/CVE-2025-2005) | no description | 2025-04-03T17:05:46Z |
 | [CVE-2025-2005](https://www.cve.org/CVERecord?id=CVE-2025-2005) | [mrmtwoj/CVE-2025-2005](https://github.com/mrmtwoj/CVE-2025-2005) | WordPress FEUP Arbitrary File Upload Exploit (CVE-2025-2005) | 2025-04-06T18:14:04Z |
 | [CVE-2025-20029](https://www.cve.org/CVERecord?id=CVE-2025-20029) | [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029) | CVE-2025-20029: Command Injection in TMSH CLI in F5 BIG-IP | 2025-02-23T18:36:11Z |
+| [CVE-2025-20029](https://www.cve.org/CVERecord?id=CVE-2025-20029) | [schoi1337/CVE-2025-20029-simulation](https://github.com/schoi1337/CVE-2025-20029-simulation) | Simulated environment for CVE-2025-20029 using Docker. Includes PoC and auto-reporting. | 2025-05-01T05:46:42Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974) | no description | 2025-03-25T13:23:01Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974) | no description | 2025-03-25T18:49:23Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc) | Proof-of-Concept Tool to detect IngressNightmare (CVE-2025-1974) via (non-intrusive) active means. | 2025-03-26T15:44:43Z |
@@ -546,6 +556,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [cesarbtakeda/7-Zip-CVE-2025-0411-POC](https://github.com/cesarbtakeda/7-Zip-CVE-2025-0411-POC) | no description | 2025-02-23T02:55:44Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [dhmosfunk/7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC) | This repository contains POC scenarios as part of CVE-2025-0411 MotW bypass. | 2025-01-22T14:40:34Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [ishwardeepp/CVE-2025-0411-MoTW-PoC](https://github.com/ishwardeepp/CVE-2025-0411-MoTW-PoC) | no description | 2025-02-19T04:47:59Z |
+| [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass](https://github.com/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass) | CVE-2025-0411 7-Zip Mark-of-the-Web Bypass | 2025-05-11T15:38:31Z |
 | [CVE-2025-0401](https://www.cve.org/CVERecord?id=CVE-2025-0401) | [CyberSecurityUP/CVE-2025-0401](https://github.com/CyberSecurityUP/CVE-2025-0401) | Privilege Escalation using Passwd - April Fools prank | 2025-04-01T14:23:43Z |
 | [CVE-2025-0401](https://www.cve.org/CVERecord?id=CVE-2025-0401) | [Darabium/Gombruc](https://github.com/Darabium/Gombruc) | This vulnerability is related to CVE-2025-0401, which affects all Linux systems. With the help of this bash script, you can give your user any level of access, up to and including Root access.  Warning: This exploit is for educational purposes only and any exploitation of this vulnerability is risky. | 2025-04-29T09:03:49Z |
 | [CVE-2025-0364](https://www.cve.org/CVERecord?id=CVE-2025-0364) | [vulncheck-oss/cve-2025-0364](https://github.com/vulncheck-oss/cve-2025-0364) | CVE-2025-0364: BigAnt Server RCE Exploit | 2025-02-27T18:34:38Z |
@@ -3162,6 +3173,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2024-10470](https://www.cve.org/CVERecord?id=CVE-2024-10470) | [0xshoriful/CVE-2024-10470](https://github.com/0xshoriful/CVE-2024-10470) | no description | 2024-11-30T02:45:52Z |
 | [CVE-2024-10449](https://www.cve.org/CVERecord?id=CVE-2024-10449) | [g-u-i-d/CVE-2024-10449-patch](https://github.com/g-u-i-d/CVE-2024-10449-patch) | no description | 2024-11-05T23:06:49Z |
 | [CVE-2024-10448](https://www.cve.org/CVERecord?id=CVE-2024-10448) | [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) | Blood bank CSRF Attack POC | 2024-10-27T20:18:35Z |
+| [CVE-2024-10441](https://www.cve.org/CVERecord?id=CVE-2024-10441) | [hazzzein/CVE-2024-10441](https://github.com/hazzzein/CVE-2024-10441) | no description | 2025-04-01T08:27:24Z |
 | [CVE-2024-10410](https://www.cve.org/CVERecord?id=CVE-2024-10410) | [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410) | no description | 2024-10-25T14:15:56Z |
 | [CVE-2024-10400](https://www.cve.org/CVERecord?id=CVE-2024-10400) | [k0ns0l/CVE-2024-10400](https://github.com/k0ns0l/CVE-2024-10400) | [POC][Exploit] CVE-2024-10400 | 2025-01-02T00:12:53Z |
 | [CVE-2024-10355](https://www.cve.org/CVERecord?id=CVE-2024-10355) | [K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355) | no description | 2024-10-23T08:59:51Z |
@@ -4910,6 +4922,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2023-2650](https://www.cve.org/CVERecord?id=CVE-2023-2650) | [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650) | no description | 2023-06-05T17:40:59Z |
 | [CVE-2023-2648](https://www.cve.org/CVERecord?id=CVE-2023-2648) | [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648) | cve-2023-2523-and-cve-2023-2648 | 2023-08-26T11:23:58Z |
 | [CVE-2023-26469](https://www.cve.org/CVERecord?id=CVE-2023-26469) | [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469) | CVE-2023-26469 REC PoC | 2023-09-01T09:41:32Z |
+| [CVE-2023-2645](https://www.cve.org/CVERecord?id=CVE-2023-2645) | [xymbiot-solution/CVE-2023-2645](https://github.com/xymbiot-solution/CVE-2023-2645) | Backdoor Industrial Internet of Things GSM Modem | 2025-01-07T08:55:23Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC) | CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC | 2023-11-14T08:37:45Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation) | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640 | 2023-11-09T09:19:23Z |
 | [CVE-2023-2640](https://www.cve.org/CVERecord?id=CVE-2023-2640) | [Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629) | no description | 2024-03-19T22:56:24Z |
@@ -5148,6 +5161,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768) | recreating exp for cve-2023-21768. | 2023-10-02T11:36:49Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [Ha0-Y/CVE-2023-21768](https://github.com/Ha0-Y/CVE-2023-21768) | CVE-2023-21768 Proof of Concept | 2024-04-07T02:26:36Z |
 | [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [xboxoneresearch/CVE-2023-21768-dotnet](https://github.com/xboxoneresearch/CVE-2023-21768-dotnet) | C# / .NET version of CVE-2023-21768 | 2024-05-15T17:42:10Z |
+| [CVE-2023-21768](https://www.cve.org/CVERecord?id=CVE-2023-21768) | [IlanDudnik/CVE-2023-21768](https://github.com/IlanDudnik/CVE-2023-21768) | Exploit implementation with IO Rings for CVE-2023-21768 | 2024-12-30T17:27:56Z |
 | [CVE-2023-21766](https://www.cve.org/CVERecord?id=CVE-2023-21766) | [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766) | wof.sys race condition uaf read poc | 2023-06-30T03:44:01Z |
 | [CVE-2023-21752](https://www.cve.org/CVERecord?id=CVE-2023-21752) | [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) | no description | 2023-08-10T16:55:06Z |
 | [CVE-2023-21746](https://www.cve.org/CVERecord?id=CVE-2023-21746) | [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746) | no description | 2023-07-16T15:57:37Z |
@@ -5665,6 +5679,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [xsxtw/CVE-2022-26134](https://github.com/xsxtw/CVE-2022-26134) | no description | 2024-05-02T18:31:54Z |
 | [CVE-2022-26134](https://www.cve.org/CVERecord?id=CVE-2022-26134) | [cc3305/CVE-2022-26134](https://github.com/cc3305/CVE-2022-26134) | CVE-2022-26134 exploit script | 2024-06-07T22:15:48Z |
 | [CVE-2022-25943](https://www.cve.org/CVERecord?id=CVE-2022-25943) | [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943) | CVE-2022-25943 | 2022-04-22T08:30:55Z |
+| [CVE-2022-2590](https://www.cve.org/CVERecord?id=CVE-2022-2590) | [hyeonjun17/CVE-2022-2590-analysis](https://github.com/hyeonjun17/CVE-2022-2590-analysis) | Dirty COW restricted to shmem in linux kernel | 2024-07-30T15:54:07Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588) | no description | 2023-03-09T21:29:56Z |
 | [CVE-2022-2588](https://www.cve.org/CVERecord?id=CVE-2022-2588) | [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588) | CVE-2022-2588 | 2023-03-02T07:45:22Z |
 | [CVE-2022-25845](https://www.cve.org/CVERecord?id=CVE-2022-25845) | [scabench/fastjson-tp1fn1](https://github.com/scabench/fastjson-tp1fn1) | a scenario based on CVE-2022-25845 yielding a TP for metadata based SCA but a FN if the callgraph is used | 2024-01-28T20:03:23Z |
@@ -5735,6 +5750,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [lemmyz4n3771/CVE-2022-22963-PoC](https://github.com/lemmyz4n3771/CVE-2022-22963-PoC) | CVE-2022-22963 RCE PoC in python | 2023-03-13T13:28:55Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [Ki11i0n4ir3/CVE-2022-22963](https://github.com/Ki11i0n4ir3/CVE-2022-22963) | no description | 2022-04-11T10:01:25Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [BearClaw96/CVE-2022-22963-Poc-Bearcules](https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules) | This is a POC for CVE-2022-22963 | 2023-10-28T21:42:38Z |
+| [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [jrbH4CK/CVE-2022-22963](https://github.com/jrbH4CK/CVE-2022-22963) | no description | 2024-05-08T04:25:29Z |
 | [CVE-2022-22954](https://www.cve.org/CVERecord?id=CVE-2022-22954) | [tunelko/CVE-2022-22954-PoC](https://github.com/tunelko/CVE-2022-22954-PoC) | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual. | 2022-04-13T08:52:15Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [PenteraIO/CVE-2022-22948](https://github.com/PenteraIO/CVE-2022-22948) | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | 2021-10-17T09:59:20Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc) | SnakeYAML-CVE-2022-1471-POC | 2023-05-08T14:46:22Z |
@@ -6004,6 +6020,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [yagyuuyagyuuu/CVE-2021-43798](https://github.com/yagyuuyagyuuu/CVE-2021-43798) | no description | 2024-05-06T19:09:54Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [MalekAlthubiany/CVE-2021-43798](https://github.com/MalekAlthubiany/CVE-2021-43798) | no description | 2024-06-19T23:27:01Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [Sic4rio/Grafana-Decryptor-for-CVE-2021-43798](https://github.com/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798) | Grafana Decryptor for CVE-2021-43798 | 2024-07-02T08:43:45Z |
+| [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) | A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic. | 2021-12-07T15:11:34Z |
 | [CVE-2021-43657](https://www.cve.org/CVERecord?id=CVE-2021-43657) | [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657) | This is a reference/POC for CVE-2021-43657 | 2022-11-08T02:13:29Z |
 | [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617) | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | 2023-06-08T08:05:36Z |
 | [CVE-2021-43609](https://www.cve.org/CVERecord?id=CVE-2021-43609) | [d5sec/CVE-2021-43609-POC](https://github.com/d5sec/CVE-2021-43609-POC) | Proof of Concept Exploit for CVE-2021-43609 | 2023-11-06T21:13:21Z |
@@ -6351,6 +6368,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2021-2394](https://www.cve.org/CVERecord?id=CVE-2021-2394) | [fasanhlieu/CVE-2021-2394](https://github.com/fasanhlieu/CVE-2021-2394) | no description | 2021-12-15T16:09:54Z |
 | [CVE-2021-23840](https://www.cve.org/CVERecord?id=CVE-2021-23840) | [Trinadh465/openssl-1.1.1g_CVE-2021-23840](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840) | no description | 2023-09-11T09:24:54Z |
 | [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358) | Detection script for cve-2021-23358 | 2023-02-25T19:12:13Z |
+| [CVE-2021-23358](https://www.cve.org/CVERecord?id=CVE-2021-23358) | [MehdiBoukhobza/SandBox_CVE-2021-23358](https://github.com/MehdiBoukhobza/SandBox_CVE-2021-23358) | no description | 2024-07-04T14:55:10Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC) | no description | 2023-07-20T05:39:01Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [NagendraPittu/CVE-2021-521-Exploit](https://github.com/NagendraPittu/CVE-2021-521-Exploit) | Lab Exploit (CVE-2021-521): App uses Java reflection to access Android system components, retrieving a list of all installed apps. Reflection accesses ApplicationPackageManager and PackageManagerService, exploiting vulnerability. | 2023-07-19T17:49:46Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [ShivamDey/CVE-2021-23017](https://github.com/ShivamDey/CVE-2021-23017) | no description | 2023-10-21T04:24:02Z |
@@ -6399,6 +6417,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2021-21224](https://www.cve.org/CVERecord?id=CVE-2021-21224) | [maldev866/ChExp_CVE_2021_21224](https://github.com/maldev866/ChExp_CVE_2021_21224) | no description | 2023-03-08T11:34:50Z |
 | [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323) | no description | 2022-12-07T21:15:23Z |
 | [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [Cappricio-Securities/CVE-2021-20323](https://github.com/Cappricio-Securities/CVE-2021-20323) | A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak. | 2024-01-11T16:02:07Z |
+| [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [cscpwn0sec/CVE-2021-20323](https://github.com/cscpwn0sec/CVE-2021-20323) | Exploitation Scanner Cross Site Scripting vulnerability in Keycloak. | 2024-07-07T23:02:00Z |
 | [CVE-2021-20294](https://www.cve.org/CVERecord?id=CVE-2021-20294) | [tin-z/CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC) | Simple CVE-2021-20294 poc | 2023-01-21T16:15:21Z |
 | [CVE-2021-20253](https://www.cve.org/CVERecord?id=CVE-2021-20253) | [mbadanoiu/CVE-2021-20253](https://github.com/mbadanoiu/CVE-2021-20253) | CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower | 2023-11-25T18:56:51Z |
 | [CVE-2021-20138](https://www.cve.org/CVERecord?id=CVE-2021-20138) | [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138) | no description | 2022-07-18T11:01:39Z |
@@ -6638,6 +6657,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2020-11652](https://www.cve.org/CVERecord?id=CVE-2020-11652) | [heikanet/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP) | CVE-2020-11651&amp;&amp;CVE-2020-11652 EXP | 2020-05-07T09:17:39Z |
 | [CVE-2020-11579](https://www.cve.org/CVERecord?id=CVE-2020-11579) | [ShielderSec/CVE-2020-11579](https://github.com/ShielderSec/CVE-2020-11579) | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | 2020-05-19T13:12:48Z |
 | [CVE-2020-11113](https://www.cve.org/CVERecord?id=CVE-2020-11113) | [Al1ex/CVE-2020-11113](https://github.com/Al1ex/CVE-2020-11113) | CVE-2020-11113:Jackson-databind RCE | 2020-05-21T14:00:33Z |
+| [CVE-2020-11060](https://www.cve.org/CVERecord?id=CVE-2020-11060) | [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc) | Python3 POC for CVE 2020-11060 | 2021-06-11T14:52:03Z |
 | [CVE-2020-11023](https://www.cve.org/CVERecord?id=CVE-2020-11023) | [0xAJ2K/CVE-2020-11022-CVE-2020-11023](https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023) | Little thing put together quickly to demonstrate this CVE | 2021-10-16T01:10:33Z |
 | [CVE-2020-11023](https://www.cve.org/CVERecord?id=CVE-2020-11023) | [Snorlyd/https-nj.gov---CVE-2020-11023](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11023) | Vulnearability Report of the New Jersey official site | 2022-05-23T10:49:19Z |
 | [CVE-2020-11022](https://www.cve.org/CVERecord?id=CVE-2020-11022) | [Snorlyd/https-nj.gov---CVE-2020-11022](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11022) | Vulnearability Report of the New Jersey official site | 2022-05-23T10:26:10Z |
@@ -7098,6 +7118,7 @@ Last generated: 2025-06-09 02:50:33.311522
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [CircuitSoul/CVE-2019-0708](https://github.com/CircuitSoul/CVE-2019-0708) | POC-CVE-2019-0708 | 2021-06-19T21:55:57Z |
 | [CVE-2019-0708](https://www.cve.org/CVERecord?id=CVE-2019-0708) | [at0mik/CVE-2019-0708-PoC](https://github.com/at0mik/CVE-2019-0708-PoC) | CVE-2019-0708-PoC It is a semi-functional exploit capable of remotely accessing a Windows computer by exploiting the aforementioned vulnerability, this repository also contains notes on how to complete the attack. | 2019-06-11T09:38:36Z |
 | [CVE-2019-0604](https://www.cve.org/CVERecord?id=CVE-2019-0604) | [davidlebr1/cve-2019-0604-SP2010-netv3.5](https://github.com/davidlebr1/cve-2019-0604-SP2010-netv3.5) | Generate Seralize Payload for CVE-2019-0604 for Sharepoint 2010 SP2 .net 3.5 | 2023-09-05T13:47:17Z |
+| [CVE-2019-0567](https://www.cve.org/CVERecord?id=CVE-2019-0567) | [NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567) | A POC of a type confusion bug in chakracore framework that leads to code execute. | 2023-11-19T07:58:34Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [jaiguptanick/CVE-2019-0232](https://github.com/jaiguptanick/CVE-2019-0232) | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | 2021-03-25T20:09:54Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) | ES File Explorer Open Port Vulnerability - CVE-2019-6447 | 2019-01-09T22:30:42Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995) | no description | 2022-02-18T03:17:31Z |
@@ -9017,3 +9038,4 @@ Last generated: 2025-06-09 02:50:33.311522
 | CVE NOT FOUND | [mananjain61/ExploitCVE2025](https://github.com/mananjain61/ExploitCVE2025) | ExploitCVE2025 - SAP Path Traversal Auto-Exploit Tool | 2025-04-26T19:00:34Z |
 | CVE NOT FOUND | [arkede/cve-2024](https://github.com/arkede/cve-2024) | CVE rules for 2024 | 2025-03-29T09:17:51Z |
 | CVE NOT FOUND | [vitalii-moholivskyi/selected-cve-dataset-2024](https://github.com/vitalii-moholivskyi/selected-cve-dataset-2024) | no description | 2025-03-29T20:54:04Z |
+| CVE NOT FOUND | [cooku222/CVE-2025-Analysis](https://github.com/cooku222/CVE-2025-Analysis) | no description | 2025-05-04T05:05:29Z |
