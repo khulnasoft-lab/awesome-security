@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-10 02:46:18.519950
+Last generated: 2025-06-11 02:45:27.390426
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -19,11 +19,15 @@ Last generated: 2025-06-10 02:46:18.519950
 | [CVE-2025-47256](https://www.cve.org/CVERecord?id=CVE-2025-47256) | [SexyShoelessGodofWar/CVE-2025-47256](https://github.com/SexyShoelessGodofWar/CVE-2025-47256) | Stack overflow in LibXMP | 2025-05-05T12:55:07Z |
 | [CVE-2025-47226](https://www.cve.org/CVERecord?id=CVE-2025-47226) | [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226) | This CVE - PoC about information on the CVEs I found. | 2025-05-03T15:34:21Z |
 | [CVE-2025-46731](https://www.cve.org/CVERecord?id=CVE-2025-46731) | [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731) | no description | 2025-05-06T02:26:55Z |
+| [CVE-2025-46721](https://www.cve.org/CVERecord?id=CVE-2025-46721) | [justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721) | no description | 2025-04-30T13:53:32Z |
 | [CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701) | [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701) | Tomcat CVE-2025-46701 PoC | 2025-04-29T00:47:12Z |
 | [CVE-2025-46657](https://www.cve.org/CVERecord?id=CVE-2025-46657) | [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657) | no description | 2025-04-27T02:15:37Z |
 | [CVE-2025-46271](https://www.cve.org/CVERecord?id=CVE-2025-46271) | [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC) | no description | 2025-05-07T19:21:17Z |
+| [CVE-2025-4603](https://www.cve.org/CVERecord?id=CVE-2025-4603) | [d0n601/CVE-2025-4603](https://github.com/d0n601/CVE-2025-4603) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Deletion | 2025-05-12T19:34:30Z |
+| [CVE-2025-4602](https://www.cve.org/CVERecord?id=CVE-2025-4602) | [d0n601/CVE-2025-4602](https://github.com/d0n601/CVE-2025-4602) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Read | 2025-05-12T19:33:41Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [xp3s/CVE-2025-45250](https://github.com/xp3s/CVE-2025-45250) | CVE-2025-45250 POC | 2025-05-06T14:22:11Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250) | no description | 2025-05-07T14:17:31Z |
+| [CVE-2025-44039](https://www.cve.org/CVERecord?id=CVE-2025-44039) | [Yashodhanvivek/CP-XR-DE21-S--4G-Router-Vulnerabilities](https://github.com/Yashodhanvivek/CP-XR-DE21-S--4G-Router-Vulnerabilities) | This report is for CVE-2025-44039 reserved for Router UART vulnerability assigned to Discoverer Yashodhan Vivek Mandke. Please download the report pdf in this repositoy | 2025-05-02T21:20:47Z |
 | [CVE-2025-4403](https://www.cve.org/CVERecord?id=CVE-2025-4403) | [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403) | Drag and Drop Multiple File Upload for WooCommerce &lt;= 1.1.6 - Unauthenticated Arbitrary File Upload via upload Function | 2025-05-10T16:10:37Z |
 | [CVE-2025-43929](https://www.cve.org/CVERecord?id=CVE-2025-43929) | [0xBenCantCode/CVE-2025-43929](https://github.com/0xBenCantCode/CVE-2025-43929) | High severity vulnerability in KiTTY allowing for local executables to be ran without user confirmation under certain circumstances. | 2025-04-20T03:19:51Z |
 | [CVE-2025-43921](https://www.cve.org/CVERecord?id=CVE-2025-43921) | [0NYX-MY7H/CVE-2025-43921](https://github.com/0NYX-MY7H/CVE-2025-43921) | no description | 2025-04-20T15:36:06Z |
@@ -125,6 +129,7 @@ Last generated: 2025-06-10 02:46:18.519950
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check) | sap-netweaver-cve-2025-31324-check | 2025-05-08T00:57:36Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324) | no description | 2025-05-07T06:23:09Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324) | SAP NetWeaver Visual Composer Metadata Uploader 7.50 CVE-2025-31324 PoC | 2025-05-10T18:52:46Z |
+| [CVE-2025-31258](https://www.cve.org/CVERecord?id=CVE-2025-31258) | [wh1te4ever/CVE-2025-31258-PoC](https://github.com/wh1te4ever/CVE-2025-31258-PoC) | 1day practice - Escape macOS sandbox (partial) using RemoteViewServices | 2025-05-12T23:51:04Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
@@ -4249,6 +4254,7 @@ Last generated: 2025-06-10 02:46:18.519950
 | [CVE-2023-3824](https://www.cve.org/CVERecord?id=CVE-2023-3824) | [StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK](https://github.com/StayBeautiful-collab/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK) | no description | 2024-03-18T02:19:03Z |
 | [CVE-2023-3824](https://www.cve.org/CVERecord?id=CVE-2023-3824) | [jhonnybonny/CVE-2023-3824](https://github.com/jhonnybonny/CVE-2023-3824) | Vulnerability in PHP Phar files, due to buffer overflow, arises from insufficient length checks on file names within the Phar archive. Malicious actors can craft Phar files with long file names, leading to buffer overflow and potential execution of malicious code or data leakage. This vulnerability can be exploited for code execution CVE-2023-3824 | 2024-03-18T10:45:33Z |
 | [CVE-2023-3824](https://www.cve.org/CVERecord?id=CVE-2023-3824) | [fr33c0d3/poc-cve-2023-3824](https://github.com/fr33c0d3/poc-cve-2023-3824) | PoC CVE 2023-3824 | 2025-01-08T01:43:29Z |
+| [CVE-2023-3824](https://www.cve.org/CVERecord?id=CVE-2023-3824) | [bluefish3r/poc-cve](https://github.com/bluefish3r/poc-cve) | poc-cve-2023-3824 | 2025-01-11T17:19:21Z |
 | [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146) | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | 2023-10-13T15:33:42Z |
 | [CVE-2023-38146](https://www.cve.org/CVERecord?id=CVE-2023-38146) | [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy) | A proof of concept using python for the CVE-2023-38146 &quot;ThemeBleed&quot; | 2023-12-12T19:11:10Z |
 | [CVE-2023-38120](https://www.cve.org/CVERecord?id=CVE-2023-38120) | [warber0x/CVE-2023-38120](https://github.com/warber0x/CVE-2023-38120) | Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability | 2023-10-19T04:00:47Z |
@@ -6808,6 +6814,7 @@ Last generated: 2025-06-10 02:46:18.519950
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [kahluri/CVE-2019-9053](https://github.com/kahluri/CVE-2019-9053) | Original Exploit Source: https://www.exploit-db.com/exploits/46635 | 2023-08-07T20:30:19Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [Doc0x1/CVE-2019-9053-Python3](https://github.com/Doc0x1/CVE-2019-9053-Python3) | Python3 version of the Python2 exploit for CVE-2019-9053 | 2023-10-16T01:09:13Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [fernandobortotti/CVE-2019-9053](https://github.com/fernandobortotti/CVE-2019-9053) | This repository has the sole purpose of rewriting the CVE-2019-9053 script, which in the original publication is written in Python 2.7. I will be using Python 3. | 2023-10-16T20:17:38Z |
+| [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [byrek/CVE-2019-9053](https://github.com/byrek/CVE-2019-9053) | Improved code of Daniele Scanu SQL Injection exploit | 2023-11-20T12:02:59Z |
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z |
