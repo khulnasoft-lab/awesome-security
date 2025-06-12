@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-11 02:45:27.390426
+Last generated: 2025-06-12 02:44:34.130747
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -77,6 +77,7 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC) | POC of CVE-2025-3248, RCE of LangFlow | 2025-04-10T14:04:29Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248) | no description | 2025-04-16T14:00:02Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [Praison001/CVE-2025-3248](https://github.com/Praison001/CVE-2025-3248) | Scanner and exploit for CVE-2025-3248 | 2025-05-05T18:10:44Z |
+| [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [vigilante-1337/CVE-2025-3248](https://github.com/vigilante-1337/CVE-2025-3248) | CVE-2025-3248: A critical flaw has been discovered in Langflow that allows malicious actors to execute arbitrary Python code on the target system. This can lead to full remote code execution without authentication, potentially giving attackers control over the server. | 2025-05-13T16:08:37Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection) | no description | 2025-04-18T09:56:23Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433) | Missing Authentication for Critical Function (CWE-306)-Exploit | 2025-04-18T10:53:19Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433) | no description | 2025-04-18T02:32:41Z |
@@ -96,6 +97,8 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [vigilante-1337/CVE-2025-32433](https://github.com/vigilante-1337/CVE-2025-32433) | A critical flaw has been discovered in Erlang/OTP&#x27;s SSH server allows unauthenticated attackers to gain remote code execution. One malformed SSH handshake bypasses authentication and exploits improper handling of SSH protocol messages. | 2025-05-03T13:32:34Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [exa-offsec/ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce) | Exploitation module for CVE-2025-32433 (Erlang/OTP) | 2025-04-18T21:07:07Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433) | Erlang OTP SSH NSE Discovery Script | 2025-04-25T15:57:40Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [abrewer251/CVE-2025-32433_Erlang-OTP_PoC](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP_PoC) | This script is a custom security tool designed to test for a critical pre-authentication vulnerability in systems running Erlang-based SSH servers | 2025-04-29T19:02:15Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [ODST-Forge/CVE-2025-32433_PoC](https://github.com/ODST-Forge/CVE-2025-32433_PoC) | This script is a custom security tool designed to test for a critical pre-authentication vulnerability in systems running Erlang-based SSH servers | 2025-04-29T21:06:37Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432) | This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS. | 2025-04-27T08:50:52Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432) | CraftCMS RCE Checker (CVE-2025-32432) | 2025-04-26T23:33:58Z |
 | [CVE-2025-3243](https://www.cve.org/CVERecord?id=CVE-2025-3243) | [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243) | A proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang&#x27;s SSH library that allows pre-authenticated code execution via malformed SSH_MSG_CHANNEL_REQUEST packets. | 2025-04-24T19:31:49Z |
@@ -447,6 +450,7 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118) | no description | 2025-02-01T22:20:18Z |
 | [CVE-2025-24104](https://www.cve.org/CVERecord?id=CVE-2025-24104) | [ifpdz/CVE-2025-24104](https://github.com/ifpdz/CVE-2025-24104) | no description | 2025-01-24T10:41:12Z |
 | [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085) | CVE-2025-24085: Incorrect Default Permissions (CWE-276) | 2025-01-30T11:08:45Z |
+| [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [apt-007/12345](https://github.com/apt-007/12345) | CVE-2025-24085漏洞  和 Schemeshare漏洞 | 2025-05-13T15:55:24Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom) | metasploit module for the CVE-2025-24071 | 2025-03-18T14:43:28Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit) | Exploit CVE-2025-24071 | 2025-03-21T02:43:32Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC) | CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File | 2025-03-16T20:10:19Z |
@@ -5735,6 +5739,7 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Symbolexe/DrayTek-Exploit](https://github.com/Symbolexe/DrayTek-Exploit) | CVE-2022-23093 FreeBSD Stack-Based Overflow | 2024-03-22T08:38:40Z |
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978) | no description | 2023-03-16T09:34:17Z |
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [wan9xx/CVE-2022-22978-demo](https://github.com/wan9xx/CVE-2022-22978-demo) | CVE-2022-22978漏洞实例代码 | 2024-05-17T07:26:54Z |
+| [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [BoB13-Opensource-Contribution-Team9/CVE-2022-22978](https://github.com/BoB13-Opensource-Contribution-Team9/CVE-2022-22978) | CVE-2022-22978&#x27;s Nuclei-Template | 2024-07-31T10:12:33Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [BKLockly/CVE-2022-22965](https://github.com/BKLockly/CVE-2022-22965) | Poc&amp;Exp,支持批量扫描,反弹shell | 2023-06-03T16:39:50Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC) | CVE-2022-22965 (Spring4Shell) Proof of Concept | 2022-04-04T13:44:39Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC) | A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965. | 2023-08-13T11:42:22Z |
@@ -6005,6 +6010,7 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment](https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment) | Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment. | 2024-06-09T02:49:42Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [LucasPDiniz/CVE-2021-44228](https://github.com/LucasPDiniz/CVE-2021-44228) | Log4j Vulnerability RCE - CVE-2021-44228 | 2023-11-13T16:57:22Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [YangHyperData/LOGJ4_PocShell_CVE-2021-44228](https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228) | no description | 2024-04-02T14:44:10Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [ShlomiRex/log4shell_lab](https://github.com/ShlomiRex/log4shell_lab) | CVE-2021-44228 | 2023-11-30T18:55:40Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
@@ -6300,6 +6306,7 @@ Last generated: 2025-06-11 02:45:27.390426
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [DataSurgeon-ds/ds-cve-plugin](https://github.com/DataSurgeon-ds/ds-cve-plugin) | A plugin for DataSurgeon that Extracts CVE Numbers From Text (e.g: CVE-2021-56789) | 2023-07-25T17:49:53Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [banyaksepuh/Mass-CVE-2021-3129-Scanner](https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner) | no description | 2023-10-22T14:25:38Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Axianke/CVE-2021-3129](https://github.com/Axianke/CVE-2021-3129) | CVE-2021-3129 | 2024-01-15T07:12:07Z |
+| [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [piperpwn/CVE-2021-3129-piperpwn](https://github.com/piperpwn/CVE-2021-3129-piperpwn) | Laravel Debug Mode and Payload | 2024-07-16T06:48:24Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233) | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | 2023-05-29T14:38:58Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot) | Dockerized honeypot for CVE-2021-44228. | 2021-12-15T21:09:00Z |
 | [CVE-2021-3122](https://www.cve.org/CVERecord?id=CVE-2021-3122) | [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details) | no description | 2021-02-07T16:05:49Z |
