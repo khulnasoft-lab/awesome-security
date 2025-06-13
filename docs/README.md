@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-12 02:44:34.130747
+Last generated: 2025-06-13 02:45:45.385033
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -276,6 +276,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [EarthAngel666/x-middleware-exploit](https://github.com/EarthAngel666/x-middleware-exploit) | x-middleware exploit for next.js CVE-2023–46298 cache poisoning and CVE-2025-29927 bypass | 2025-05-08T01:26:30Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [enochgitgamefied/NextJS-CVE-2025-29927](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927) | no description | 2025-04-16T22:39:55Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [0xpr4bin/vulnerable-next_js_cve-2025-29927](https://github.com/0xpr4bin/vulnerable-next_js_cve-2025-29927) | no description | 2025-04-30T06:29:48Z |
+| [CVE-2025-29824](https://www.cve.org/CVERecord?id=CVE-2025-29824) | [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824) | no description | 2025-05-14T01:45:50Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
 | [CVE-2025-29775](https://www.cve.org/CVERecord?id=CVE-2025-29775) | [ethicalPap/CVE-2025-29775](https://github.com/ethicalPap/CVE-2025-29775) | no description | 2025-04-17T02:32:30Z |
 | [CVE-2025-29722](https://www.cve.org/CVERecord?id=CVE-2025-29722) | [cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722) | Cross Site Request Forgery (CSRF) in Commercify v1.0 | 2025-04-15T12:47:18Z |
@@ -430,6 +431,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813) | Proof of Concept (PoC) script for CVE-2025-24813, vulnerability in Apache Tomcat. | 2025-04-27T13:50:24Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Eduardo-hardvester/CVE-2025-24813](https://github.com/Eduardo-hardvester/CVE-2025-24813) | Remote Code Execution (RCE) vulnerability in Apache Tomcat. | 2025-05-10T15:58:12Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813) | no description | 2025-05-11T19:50:11Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [maliqto/PoC-CVE-2025-24813](https://github.com/maliqto/PoC-CVE-2025-24813) | PoC para o CVE-2025-24813 | 2025-05-15T12:28:50Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801) | no description | 2025-04-19T01:59:30Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801) | CVE-2025-24801 Exploit | 2025-05-05T23:22:18Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
@@ -446,6 +448,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252) | iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252 | 2025-05-10T23:50:40Z |
 | [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths) | Random paths for use with CVE-2025-24203 | 2025-05-10T19:12:52Z |
 | [CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200) | [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200) | CVE-2025-24200 - Incorrect Authorization | 2025-02-11T15:05:25Z |
+| [CVE-2025-24132](https://www.cve.org/CVERecord?id=CVE-2025-24132) | [Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner) | no description | 2025-05-14T14:20:09Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [rawtips/-CVE-2025-24118](https://github.com/rawtips/-CVE-2025-24118) | no description | 2025-02-01T22:20:18Z |
 | [CVE-2025-24104](https://www.cve.org/CVERecord?id=CVE-2025-24104) | [ifpdz/CVE-2025-24104](https://github.com/ifpdz/CVE-2025-24104) | no description | 2025-01-24T10:41:12Z |
@@ -485,6 +488,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [realcodeb0ss/CVE-2025-2294-PoC](https://github.com/realcodeb0ss/CVE-2025-2294-PoC) | CVE-2025-2294 &lt; Wordpress Kubio[Plugin] - Local File Inclusion[LFI]. | 2025-04-03T23:00:09Z |
 | [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [rhz0d/CVE-2025-2294](https://github.com/rhz0d/CVE-2025-2294) | Kubio AI Page Builder &lt;= 2.5.1 - Unauthenticated Local File Inclusion | 2025-04-15T19:27:16Z |
 | [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [romanedutov/CVE-2025-2294](https://github.com/romanedutov/CVE-2025-2294) | no description | 2025-04-26T16:59:17Z |
+| [CVE-2025-2294](https://www.cve.org/CVERecord?id=CVE-2025-2294) | [Yucaerin/CVE-2025-2294](https://github.com/Yucaerin/CVE-2025-2294) | Kubio AI Page Builder &lt;= 2.5.1 - Unauthenticated Local File Inclusion | 2025-05-13T20:16:49Z |
 | [CVE-2025-22828](https://www.cve.org/CVERecord?id=CVE-2025-22828) | [Stolichnayer/CVE-2025-22828](https://github.com/Stolichnayer/CVE-2025-22828) | Apache CloudStack vulnerability allows unauthorized access to annotations on certain resources. | 2025-01-30T19:26:38Z |
 | [CVE-2025-22785](https://www.cve.org/CVERecord?id=CVE-2025-22785) | [RandomRobbieBF/CVE-2025-22785](https://github.com/RandomRobbieBF/CVE-2025-22785) | Course Booking System &lt;= 6.0.5 - Unauthenticated SQL Injection | 2025-01-23T10:21:22Z |
 | [CVE-2025-22783](https://www.cve.org/CVERecord?id=CVE-2025-22783) | [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783) | PoC of CVE-2025-22783 | 2025-01-15T00:48:09Z |
@@ -6181,6 +6185,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication) | no description | 2024-04-04T01:17:05Z |
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
 | [CVE-2021-38001](https://www.cve.org/CVERecord?id=CVE-2021-38001) | [glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001) | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | 2023-05-08T14:43:03Z |
+| [CVE-2021-3773](https://www.cve.org/CVERecord?id=CVE-2021-3773) | [d0rb/CVE-2021-3773](https://github.com/d0rb/CVE-2021-3773) | This script exploits the &quot;Port Shadow&quot; vulnerability (CVE-2021-3773) in OpenVPN servers using Netfilter for NAT. | 2024-07-18T06:43:12Z |
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580) | CVE-2021-37580的poc | 2021-11-17T13:26:46Z |
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-](https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-) | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | 2023-10-10T08:41:54Z |
 | [CVE-2021-36955](https://www.cve.org/CVERecord?id=CVE-2021-36955) | [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP) | CVE-2021-36955 | 2022-07-18T07:08:56Z |
@@ -6427,6 +6432,7 @@ Last generated: 2025-06-12 02:44:34.130747
 | [CVE-2021-21380](https://www.cve.org/CVERecord?id=CVE-2021-21380) | [rvermeulen/codeql-workshop-cve-2021-21380](https://github.com/rvermeulen/codeql-workshop-cve-2021-21380) | A CodeQL workshop covering CVE-2021-21380 | 2022-12-06T00:53:08Z |
 | [CVE-2021-21311](https://www.cve.org/CVERecord?id=CVE-2021-21311) | [omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311) | no description | 2023-06-12T13:32:52Z |
 | [CVE-2021-21300](https://www.cve.org/CVERecord?id=CVE-2021-21300) | [Saboor-Hakimi-23/CVE-2021-21300](https://github.com/Saboor-Hakimi-23/CVE-2021-21300) | no description | 2023-10-28T10:17:45Z |
+| [CVE-2021-21239](https://www.cve.org/CVERecord?id=CVE-2021-21239) | [RyanBoomer30/CVE-2021-21239-Exploit](https://github.com/RyanBoomer30/CVE-2021-21239-Exploit) | Report documentation of this script is below | 2024-07-18T23:02:10Z |
 | [CVE-2021-21224](https://www.cve.org/CVERecord?id=CVE-2021-21224) | [maldev866/ChExp_CVE_2021_21224](https://github.com/maldev866/ChExp_CVE_2021_21224) | no description | 2023-03-08T11:34:50Z |
 | [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323) | no description | 2022-12-07T21:15:23Z |
 | [CVE-2021-20323](https://www.cve.org/CVERecord?id=CVE-2021-20323) | [Cappricio-Securities/CVE-2021-20323](https://github.com/Cappricio-Securities/CVE-2021-20323) | A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak. | 2024-01-11T16:02:07Z |
