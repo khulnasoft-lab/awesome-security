@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-13 02:45:45.385033
+Last generated: 2025-06-14 02:39:46.741276
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,12 +12,15 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-4784](https://www.cve.org/CVERecord?id=CVE-2025-4784) | [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:47:09Z |
 | [CVE-2025-47810](https://www.cve.org/CVERecord?id=CVE-2025-47810) | [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810) | PunkBuster LPI to NT AUTHORITY\SYSTEM | 2025-02-15T21:18:39Z |
 | [CVE-2025-47550](https://www.cve.org/CVERecord?id=CVE-2025-47550) | [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550) | Instantio - Wordpress Plugin &lt;= 3.3.16 - Authenticated (Admin+) Arbitrary File Upload via ins_options_save | 2025-05-07T22:15:35Z |
 | [CVE-2025-47549](https://www.cve.org/CVERecord?id=CVE-2025-47549) | [d0n601/CVE-2025-47549](https://github.com/d0n601/CVE-2025-47549) | Ultimate Before After Image Slider &amp; Gallery – BEAF &lt;= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save | 2025-05-07T22:09:58Z |
 | [CVE-2025-47423](https://www.cve.org/CVERecord?id=CVE-2025-47423) | [Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423) | no description | 2025-05-07T04:44:38Z |
 | [CVE-2025-47256](https://www.cve.org/CVERecord?id=CVE-2025-47256) | [SexyShoelessGodofWar/CVE-2025-47256](https://github.com/SexyShoelessGodofWar/CVE-2025-47256) | Stack overflow in LibXMP | 2025-05-05T12:55:07Z |
 | [CVE-2025-47226](https://www.cve.org/CVERecord?id=CVE-2025-47226) | [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226) | This CVE - PoC about information on the CVEs I found. | 2025-05-03T15:34:21Z |
+| [CVE-2025-4688](https://www.cve.org/CVERecord?id=CVE-2025-4688) | [sahici/CVE-2025-4688](https://github.com/sahici/CVE-2025-4688) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:46:44Z |
+| [CVE-2025-4686](https://www.cve.org/CVERecord?id=CVE-2025-4686) | [sahici/CVE-2025-4686](https://github.com/sahici/CVE-2025-4686) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:46:12Z |
 | [CVE-2025-46731](https://www.cve.org/CVERecord?id=CVE-2025-46731) | [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731) | no description | 2025-05-06T02:26:55Z |
 | [CVE-2025-46721](https://www.cve.org/CVERecord?id=CVE-2025-46721) | [justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721) | no description | 2025-04-30T13:53:32Z |
 | [CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701) | [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701) | Tomcat CVE-2025-46701 PoC | 2025-04-29T00:47:12Z |
@@ -27,6 +30,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-4602](https://www.cve.org/CVERecord?id=CVE-2025-4602) | [d0n601/CVE-2025-4602](https://github.com/d0n601/CVE-2025-4602) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Read | 2025-05-12T19:33:41Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [xp3s/CVE-2025-45250](https://github.com/xp3s/CVE-2025-45250) | CVE-2025-45250 POC | 2025-05-06T14:22:11Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250) | no description | 2025-05-07T14:17:31Z |
+| [CVE-2025-4427](https://www.cve.org/CVERecord?id=CVE-2025-4427) | [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428) | no description | 2025-05-15T13:59:39Z |
 | [CVE-2025-44039](https://www.cve.org/CVERecord?id=CVE-2025-44039) | [Yashodhanvivek/CP-XR-DE21-S--4G-Router-Vulnerabilities](https://github.com/Yashodhanvivek/CP-XR-DE21-S--4G-Router-Vulnerabilities) | This report is for CVE-2025-44039 reserved for Router UART vulnerability assigned to Discoverer Yashodhan Vivek Mandke. Please download the report pdf in this repositoy | 2025-05-02T21:20:47Z |
 | [CVE-2025-4403](https://www.cve.org/CVERecord?id=CVE-2025-4403) | [Yucaerin/CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403) | Drag and Drop Multiple File Upload for WooCommerce &lt;= 1.1.6 - Unauthenticated Arbitrary File Upload via upload Function | 2025-05-10T16:10:37Z |
 | [CVE-2025-43929](https://www.cve.org/CVERecord?id=CVE-2025-43929) | [0xBenCantCode/CVE-2025-43929](https://github.com/0xBenCantCode/CVE-2025-43929) | High severity vulnerability in KiTTY allowing for local executables to be ran without user confirmation under certain circumstances. | 2025-04-20T03:19:51Z |
@@ -38,6 +42,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-43864](https://www.cve.org/CVERecord?id=CVE-2025-43864) | [pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-) | no description | 2025-04-27T10:02:15Z |
 | [CVE-2025-4336](https://www.cve.org/CVERecord?id=CVE-2025-4336) | [d0n601/CVE-2025-4336](https://github.com/d0n601/CVE-2025-4336) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Upload via set_file Task | 2025-05-05T19:16:57Z |
 | [CVE-2025-4190](https://www.cve.org/CVERecord?id=CVE-2025-4190) | [Nxploited/CVE-2025-4190](https://github.com/Nxploited/CVE-2025-4190) | CSV Mass Importer &lt;= 1.2 - Admin+ Arbitrary File Upload | 2025-05-07T10:56:03Z |
+| [CVE-2025-4190](https://www.cve.org/CVERecord?id=CVE-2025-4190) | [GadaLuBau1337/CVE-2025-4190](https://github.com/GadaLuBau1337/CVE-2025-4190) | no description | 2025-05-15T15:51:15Z |
 | [CVE-2025-4172026](https://www.cve.org/CVERecord?id=CVE-2025-4172026) | [NotItsSixtyN3in/CVE-2025-4172026](https://github.com/NotItsSixtyN3in/CVE-2025-4172026) | no description | 2025-04-17T15:25:31Z |
 | [CVE-2025-4172025](https://www.cve.org/CVERecord?id=CVE-2025-4172025) | [NotItsSixtyN3in/CVE-2025-4172025](https://github.com/NotItsSixtyN3in/CVE-2025-4172025) | no description | 2025-04-17T15:36:50Z |
 | [CVE-2025-4162030](https://www.cve.org/CVERecord?id=CVE-2025-4162030) | [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030) | no description | 2025-04-16T20:41:14Z |
@@ -47,6 +52,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-4162026](https://www.cve.org/CVERecord?id=CVE-2025-4162026) | [NotItsSixtyN3in/CVE-2025-4162026](https://github.com/NotItsSixtyN3in/CVE-2025-4162026) | no description | 2025-04-16T20:37:48Z |
 | [CVE-2025-4162025](https://www.cve.org/CVERecord?id=CVE-2025-4162025) | [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025) | no description | 2025-04-16T20:32:52Z |
 | [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
+| [CVE-2025-4094](https://www.cve.org/CVERecord?id=CVE-2025-4094) | [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094) | CVE-2025-4094 – WordPress Digits Plugin &lt; 8.4.6.1 - OTP Authentication Bypass | 2025-05-15T04:27:04Z |
 | [CVE-2025-3969](https://www.cve.org/CVERecord?id=CVE-2025-3969) | [Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit) | CVE-2025-3969: Exploit PoC (OS CMD injection, Web Shell, Interactive Shell) | 2025-05-05T09:39:12Z |
 | [CVE-2025-39601](https://www.cve.org/CVERecord?id=CVE-2025-39601) | [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601) | WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability | 2025-04-16T14:52:41Z |
 | [CVE-2025-39538](https://www.cve.org/CVERecord?id=CVE-2025-39538) | [Nxploited/CVE-2025-39538](https://github.com/Nxploited/CVE-2025-39538) | WordPress WP-Advanced-Search &lt;= 3.3.9.3 - Arbitrary File Upload Vulnerability | 2025-04-30T17:28:33Z |
@@ -55,6 +61,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-3855](https://www.cve.org/CVERecord?id=CVE-2025-3855) | [L4zyFox/RISE-Ultimate_Project_Manager_e_CRM](https://github.com/L4zyFox/RISE-Ultimate_Project_Manager_e_CRM) | CVE-2025-3855 - RISE Ultimate Project Manager - IDOR | 2025-04-11T19:25:35Z |
 | [CVE-2025-3776](https://www.cve.org/CVERecord?id=CVE-2025-3776) | [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776) | WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE) | 2025-04-24T01:19:01Z |
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605) | WordPress Frontend Login and Registration Blocks Plugin &lt;= 1.0.7 is vulnerable to Privilege Escalation | 2025-05-09T21:45:31Z |
+| [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [GadaLuBau1337/CVE-2025-3605](https://github.com/GadaLuBau1337/CVE-2025-3605) | no description | 2025-05-15T16:08:46Z |
 | [CVE-2025-3604](https://www.cve.org/CVERecord?id=CVE-2025-3604) | [Nxploited/CVE-2025-3604](https://github.com/Nxploited/CVE-2025-3604) | Flynax Bridge &lt;= 2.2.0 - Unauthenticated Privilege Escalation via Account Takeover | 2025-05-06T01:48:53Z |
 | [CVE-2025-3568](https://www.cve.org/CVERecord?id=CVE-2025-3568) | [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568) | A security vulnerability has been identified in Krayin CRM &lt;=2.1.0 that allows a low-privileged user to escalate privileges by tricking an admin into opening a malicious SVG file. | 2025-04-17T12:08:52Z |
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [tinkerlev/commvault-cve2025-34028-check](https://github.com/tinkerlev/commvault-cve2025-34028-check) | Commvault CVE-2025-34028 endpoint scanner using Nmap NSE. For ethical testing and configuration validation. | 2025-04-24T16:30:11Z |
@@ -102,6 +109,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432) | This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS. | 2025-04-27T08:50:52Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432) | CraftCMS RCE Checker (CVE-2025-32432) | 2025-04-26T23:33:58Z |
 | [CVE-2025-3243](https://www.cve.org/CVERecord?id=CVE-2025-3243) | [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243) | A proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang&#x27;s SSH library that allows pre-authenticated code execution via malformed SSH_MSG_CHANNEL_REQUEST packets. | 2025-04-24T19:31:49Z |
+| [CVE-2025-32407](https://www.cve.org/CVERecord?id=CVE-2025-32407) | [diegovargasj/CVE-2025-32407](https://github.com/diegovargasj/CVE-2025-32407) | CVE-2025-32407 PoC | 2025-05-14T18:50:28Z |
 | [CVE-2025-32395](https://www.cve.org/CVERecord?id=CVE-2025-32395) | [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395) | CVE-2025-32395-POC | 2025-04-18T09:10:33Z |
 | [CVE-2025-32375](https://www.cve.org/CVERecord?id=CVE-2025-32375) | [theGEBIRGE/CVE-2025-32375](https://github.com/theGEBIRGE/CVE-2025-32375) | This repository includes everything needed to run a PoC exploit for CVE-2025-32375 in a Docker environment. It runs the latest vulnerable version of BentoML (1.4.7). | 2025-05-03T19:04:22Z |
 | [CVE-2025-32206](https://www.cve.org/CVERecord?id=CVE-2025-32206) | [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206) | WordPress Processing Projects Plugin &lt;= 1.0.2 is vulnerable to Arbitrary File Upload | 2025-04-11T13:45:53Z |
@@ -447,6 +455,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC) | poc for CVE-2025-24252 &amp; CVE-2025-24132 | 2025-05-06T14:18:09Z |
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252) | iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252 | 2025-05-10T23:50:40Z |
 | [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths) | Random paths for use with CVE-2025-24203 | 2025-05-10T19:12:52Z |
+| [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging](https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging) | Slightly improved exploit of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero | 2025-05-12T16:02:21Z |
 | [CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200) | [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200) | CVE-2025-24200 - Incorrect Authorization | 2025-02-11T15:05:25Z |
 | [CVE-2025-24132](https://www.cve.org/CVERecord?id=CVE-2025-24132) | [Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner) | no description | 2025-05-14T14:20:09Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
@@ -1115,6 +1124,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [watchtowrlabs/CVE-2024-50623](https://github.com/watchtowrlabs/CVE-2024-50623) | Cleo Unrestricted file upload and download PoC (CVE-2024-50623) | 2024-12-11T14:19:55Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623) | CVE-2024-50623 POC - Cleo Unrestricted file upload and download | 2024-12-23T08:52:23Z |
 | [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC) | Cleo 远程代码执行漏洞批量检测脚本（CVE-2024-50623） | 2024-12-31T07:43:48Z |
+| [CVE-2024-50623](https://www.cve.org/CVERecord?id=CVE-2024-50623) | [congdong007/CVE-2024-50623-poc](https://github.com/congdong007/CVE-2024-50623-poc) | no description | 2025-04-01T22:55:08Z |
 | [CVE-2024-50603](https://www.cve.org/CVERecord?id=CVE-2024-50603) | [newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603) | CVE-2024-50603-nuclei-poc | 2025-01-08T12:00:38Z |
 | [CVE-2024-50603](https://www.cve.org/CVERecord?id=CVE-2024-50603) | [th3gokul/CVE-2024-50603](https://github.com/th3gokul/CVE-2024-50603) | CVE-2024-50603: Aviatrix Controller Unauthenticated Command Injection | 2025-01-12T11:20:21Z |
 | [CVE-2024-50526](https://www.cve.org/CVERecord?id=CVE-2024-50526) | [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC) | Unrestricted Upload of File with Dangerous Type | 2024-11-04T16:37:51Z |
@@ -6620,6 +6630,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2020-1938](https://www.cve.org/CVERecord?id=CVE-2020-1938) | [francozappa/blur](https://github.com/francozappa/blur) | BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy [CVE-2020-15802] [CVE-2022-20361] | 2022-08-17T19:05:38Z |
 | [CVE-2020-1938](https://www.cve.org/CVERecord?id=CVE-2020-1938) | [haerin7427/CVE_2020_1938](https://github.com/haerin7427/CVE_2020_1938) | no description | 2021-07-22T12:34:12Z |
 | [CVE-2020-19360](https://www.cve.org/CVERecord?id=CVE-2020-19360) | [a1665454764/CVE-2020-19360](https://github.com/a1665454764/CVE-2020-19360) | CVE-2020-19360 | 2023-08-31T12:47:52Z |
+| [CVE-2020-19360](https://www.cve.org/CVERecord?id=CVE-2020-19360) | [zzzz966/CVE-2020-19360](https://github.com/zzzz966/CVE-2020-19360) | Fhem任意文件读取poc | 2023-09-01T01:33:22Z |
 | [CVE-2020-17530](https://www.cve.org/CVERecord?id=CVE-2020-17530) | [keyuan15/CVE-2020-17530](https://github.com/keyuan15/CVE-2020-17530) | Struts2 S2-061 远程命令执行漏洞（CVE-2020-17530） | 2023-04-02T13:20:42Z |
 | [CVE-2020-17530](https://www.cve.org/CVERecord?id=CVE-2020-17530) | [nth347/CVE-2020-17530](https://github.com/nth347/CVE-2020-17530) | Vulnerable environment of CVE-2020-17530 (S2-061) for testing | 2023-08-04T03:00:28Z |
 | [CVE-2020-17453](https://www.cve.org/CVERecord?id=CVE-2020-17453) | [karthi-the-hacker/CVE-2020-17453](https://github.com/karthi-the-hacker/CVE-2020-17453) | CVE-2020-17453 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications. | 2023-04-20T06:00:13Z |
@@ -6786,6 +6797,7 @@ Last generated: 2025-06-13 02:45:45.385033
 | [CVE-2020-0137](https://www.cve.org/CVERecord?id=CVE-2020-0137) | [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137) | no description | 2022-07-21T11:57:43Z |
 | [CVE-2020-0137](https://www.cve.org/CVERecord?id=CVE-2020-0137) | [nanopathi/framework_base_AOSP10_r33_CVE-2020-0137](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137) | no description | 2022-04-23T07:02:41Z |
 | [CVE-2020-0136](https://www.cve.org/CVERecord?id=CVE-2020-0136) | [Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136](https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136) | no description | 2022-07-07T05:42:42Z |
+| [CVE-2020-0069](https://www.cve.org/CVERecord?id=CVE-2020-0069) | [0xf15h/mtk_su](https://github.com/0xf15h/mtk_su) | CVE-2020-0069 | 2023-09-04T17:52:04Z |
 | [CVE-2020-0041](https://www.cve.org/CVERecord?id=CVE-2020-0041) | [j4nn/CVE-2020-0041](https://github.com/j4nn/CVE-2020-0041) | no description | 2020-08-10T21:34:16Z |
 | [CVE-2020-0041](https://www.cve.org/CVERecord?id=CVE-2020-0041) | [jcalabres/root-exploit-pixel3](https://github.com/jcalabres/root-exploit-pixel3) | Adapted CVE-2020-0041 root exploit for Pixel 3 | 2023-08-29T20:48:56Z |
 | [CVE-2020-0022](https://www.cve.org/CVERecord?id=CVE-2020-0022) | [k3vinlusec/Bluefrag_CVE-2020-0022](https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022) | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | 2020-07-01T00:23:33Z |
