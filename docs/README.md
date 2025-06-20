@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-19 02:45:58.442303
+Last generated: 2025-06-20 02:45:11.645507
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-492030](https://www.cve.org/CVERecord?id=CVE-2025-492030) | [ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030) | no description | 2025-04-09T20:47:08Z |
 | [CVE-2025-492026](https://www.cve.org/CVERecord?id=CVE-2025-492026) | [ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026) | no description | 2025-04-09T20:35:00Z |
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
+| [CVE-2025-48708](https://www.cve.org/CVERecord?id=CVE-2025-48708) | [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708) | CVE-2025-48708 Ghostscript PDF lack of argument sanitization leading to password leakage | 2025-05-25T12:52:55Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-4784](https://www.cve.org/CVERecord?id=CVE-2025-4784) | [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:47:09Z |
 | [CVE-2025-47810](https://www.cve.org/CVERecord?id=CVE-2025-47810) | [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810) | PunkBuster LPI to NT AUTHORITY\SYSTEM | 2025-02-15T21:18:39Z |
@@ -431,6 +432,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-25101](https://www.cve.org/CVERecord?id=CVE-2025-25101) | [Nxploited/CVE-2025-25101](https://github.com/Nxploited/CVE-2025-25101) | WordPress Munk Sites plugin &lt;= 1.0.7 - CSRF to Arbitrary Plugin Installation vulnerability | 2025-03-14T02:44:39Z |
 | [CVE-2025-25064](https://www.cve.org/CVERecord?id=CVE-2025-25064) | [yelang123/Zimbra10_SQL_Injection](https://github.com/yelang123/Zimbra10_SQL_Injection) | Zimbra 10 SQL Injection (CVE-2025-25064) Analysis Article | 2025-02-15T04:16:28Z |
 | [CVE-2025-25062](https://www.cve.org/CVERecord?id=CVE-2025-25062) | [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062) | Backdrop CMS 1.29.2 - Privilege Escalation via Stored XSS + CSRF | 2024-12-14T20:25:33Z |
+| [CVE-2025-25014](https://www.cve.org/CVERecord?id=CVE-2025-25014) | [davidxbors/CVE-2025-25014](https://github.com/davidxbors/CVE-2025-25014) | no description | 2025-05-24T14:40:13Z |
 | [CVE-2025-24985](https://www.cve.org/CVERecord?id=CVE-2025-24985) | [airbus-cert/cve-2025-24985](https://github.com/airbus-cert/cve-2025-24985) | Detection of malicious VHD files for CVE-2025-24985 | 2025-04-02T15:30:25Z |
 | [CVE-2025-24971](https://www.cve.org/CVERecord?id=CVE-2025-24971) | [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971) | CVE-2025-24971 exploit | 2025-02-20T16:59:27Z |
 | [CVE-2025-24963](https://www.cve.org/CVERecord?id=CVE-2025-24963) | [0xdeviner/CVE-2025-24963](https://github.com/0xdeviner/CVE-2025-24963) | no description | 2025-04-23T08:01:49Z |
@@ -470,6 +472,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Eduardo-hardvester/CVE-2025-24813](https://github.com/Eduardo-hardvester/CVE-2025-24813) | Remote Code Execution (RCE) vulnerability in Apache Tomcat. | 2025-05-10T15:58:12Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [fatkz/CVE-2025-24813](https://github.com/fatkz/CVE-2025-24813) | no description | 2025-05-11T19:50:11Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [maliqto/PoC-CVE-2025-24813](https://github.com/maliqto/PoC-CVE-2025-24813) | PoC para o CVE-2025-24813 | 2025-05-15T12:28:50Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-](https://github.com/mbanyamer/Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-) | Apache Tomcat - Remote Code Execution via Session Deserialization (CVE-2025-24813) | 2025-05-25T13:34:18Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801) | no description | 2025-04-19T01:59:30Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801) | CVE-2025-24801 Exploit | 2025-05-05T23:22:18Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
@@ -487,6 +490,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252) | iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252 | 2025-05-10T23:50:40Z |
 | [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths) | Random paths for use with CVE-2025-24203 | 2025-05-10T19:12:52Z |
 | [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging](https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging) | Slightly improved exploit of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero | 2025-05-12T16:02:21Z |
+| [CVE-2025-24203](https://www.cve.org/CVERecord?id=CVE-2025-24203) | [pxx917144686/iDevice_ZH](https://github.com/pxx917144686/iDevice_ZH) | CVE-2025-24203漏洞 | 2025-05-25T05:34:30Z |
 | [CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200) | [McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200) | CVE-2025-24200 - Incorrect Authorization | 2025-02-11T15:05:25Z |
 | [CVE-2025-24132](https://www.cve.org/CVERecord?id=CVE-2025-24132) | [Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner) | no description | 2025-05-14T14:20:09Z |
 | [CVE-2025-24118](https://www.cve.org/CVERecord?id=CVE-2025-24118) | [jprx/CVE-2025-24118](https://github.com/jprx/CVE-2025-24118) | An XNU kernel race condition bug | 2025-01-30T00:10:44Z |
@@ -547,6 +551,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [Vinylrider/ivantiunlocker](https://github.com/Vinylrider/ivantiunlocker) | Prevent CVE-2025-22457 and other security problems with Juniper/Ivanti Secure Connect SSL VPN | 2025-04-08T09:31:01Z |
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [securekomodo/CVE-2025-22457](https://github.com/securekomodo/CVE-2025-22457) | CVE-2025-22457: Python Exploit POC Scanner to Detect Ivanti Connect Secure RCE | 2025-04-10T03:27:30Z |
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [sfewer-r7/CVE-2025-22457](https://github.com/sfewer-r7/CVE-2025-22457) | PoC for CVE-2025-22457 | 2025-04-09T14:39:25Z |
+| [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457) | PoC CVE-2025-22457 | 2025-05-25T22:52:53Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-2233](https://www.cve.org/CVERecord?id=CVE-2025-2233) | [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233) | Improper Verification of Cryptographic Signature (CWE-347) | 2025-03-12T08:54:24Z |
 | [CVE-2025-22226](https://www.cve.org/CVERecord?id=CVE-2025-22226) | [bronsoneaver/vme-escape](https://github.com/bronsoneaver/vme-escape) | (including : CVE-2025-22226, CVE-2025-22225, CVE-2025-22224) | 2025-03-25T12:53:53Z |
@@ -609,6 +614,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2025-1015](https://www.cve.org/CVERecord?id=CVE-2025-1015) | [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015) | an attacker to create and export an address book containing a malicious payload in a field. For example, in the “Other” field of the Instant Messaging section. If another user imported the address book, clicking on the link could result in opening a web page inside Thunderbird, and that page could execute (unprivileged) JavaScript | 2025-02-06T08:35:56Z |
 | [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
 | [CVE-2025-0924](https://www.cve.org/CVERecord?id=CVE-2025-0924) | [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different) | no description | 2025-02-21T04:49:36Z |
+| [CVE-2025-0868](https://www.cve.org/CVERecord?id=CVE-2025-0868) | [aidana-gift/CVE-2025-0868](https://github.com/aidana-gift/CVE-2025-0868) | no description | 2025-05-25T13:14:41Z |
 | [CVE-2025-0851](https://www.cve.org/CVERecord?id=CVE-2025-0851) | [skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851) | no description | 2025-02-17T09:33:28Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC) | 7-Zip Mark-of-the-Web绕过漏洞PoC(CVE-2025-0411) | 2025-01-27T07:32:09Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [cesarbtakeda/7-Zip-CVE-2025-0411-POC](https://github.com/cesarbtakeda/7-Zip-CVE-2025-0411-POC) | no description | 2025-02-23T02:55:44Z |
@@ -4231,6 +4237,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [idkwastaken/CVE-2023-38831](https://github.com/idkwastaken/CVE-2023-38831) | no description | 2024-10-15T06:23:13Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [VictoriousKnight/CVE-2023-38831_Exploit](https://github.com/VictoriousKnight/CVE-2023-38831_Exploit) | no description | 2024-12-03T11:13:37Z |
 | [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [kuyrathdaro/winrar-cve-2023-38831](https://github.com/kuyrathdaro/winrar-cve-2023-38831) | POC Exploit Script in Python | 2024-12-30T03:33:23Z |
+| [CVE-2023-38831](https://www.cve.org/CVERecord?id=CVE-2023-38831) | [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC) | CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content. | 2024-11-11T14:25:41Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E) | no description | 2023-07-11T21:57:36Z |
 | [CVE-2023-38829](https://www.cve.org/CVERecord?id=CVE-2023-38829) | [Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report](https://github.com/Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report) | 对NETIS WF2409E路由器进行的一次完整硬件安全分析研究。通过对设备进行拆解分析、调试接口识别、固件提取等工作，记录了硬件分析的全过程、漏洞细节以及相应的安全建议，希望能帮助提高物联网设备的安全性。 | 2024-12-27T18:09:13Z |
 | [CVE-2023-38822](https://www.cve.org/CVERecord?id=CVE-2023-38822) | [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822) | DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822 | 2023-08-05T13:48:36Z |
@@ -5665,6 +5672,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2022-32118](https://www.cve.org/CVERecord?id=CVE-2022-32118) | [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118) | CVE-2022-32118 - Arox-XSS | 2022-04-06T04:12:03Z |
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [dkstar11q/CVE-2022-31814](https://github.com/dkstar11q/CVE-2022-31814) | pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2023-03-26T17:22:40Z |
 | [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [Laburity/CVE-2022-31814](https://github.com/Laburity/CVE-2022-31814) | Updated Exploit - pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814) | 2024-07-23T09:44:46Z |
+| [CVE-2022-31814](https://www.cve.org/CVERecord?id=CVE-2022-31814) | [ArunHAtter/CVE-2022-31814](https://github.com/ArunHAtter/CVE-2022-31814) | This script is a proof-of-concept exploit for pfBlockerNG &lt;= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell. | 2024-08-12T12:50:48Z |
 | [CVE-2022-3172](https://www.cve.org/CVERecord?id=CVE-2022-3172) | [UgOrange/CVE-2022-3172](https://github.com/UgOrange/CVE-2022-3172) | no description | 2024-04-02T11:53:54Z |
 | [CVE-2022-31692](https://www.cve.org/CVERecord?id=CVE-2022-31692) | [hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692) | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | 2023-10-29T17:31:23Z |
 | [CVE-2022-31626](https://www.cve.org/CVERecord?id=CVE-2022-31626) | [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626) | no description | 2022-12-06T16:19:03Z |
@@ -6895,6 +6903,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [fernandobortotti/CVE-2019-9053](https://github.com/fernandobortotti/CVE-2019-9053) | This repository has the sole purpose of rewriting the CVE-2019-9053 script, which in the original publication is written in Python 2.7. I will be using Python 3. | 2023-10-16T20:17:38Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [byrek/CVE-2019-9053](https://github.com/byrek/CVE-2019-9053) | Improved code of Daniele Scanu SQL Injection exploit | 2023-11-20T12:02:59Z |
 | [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [davcwikla/CVE-2019-9053-exploit](https://github.com/davcwikla/CVE-2019-9053-exploit) | working exploit for CVE-2019-9053 | 2023-11-26T20:23:28Z |
+| [CVE-2019-9053](https://www.cve.org/CVERecord?id=CVE-2019-9053) | [BjarneVerschorre/CVE-2019-9053](https://github.com/BjarneVerschorre/CVE-2019-9053) | no description | 2023-11-29T21:47:41Z |
 | [CVE-2019-8985](https://www.cve.org/CVERecord?id=CVE-2019-8985) | [Squirre17/CVE-2019-8985](https://github.com/Squirre17/CVE-2019-8985) | CVE–2019–8985 Netis WF2411 RCE | 2022-07-19T13:30:07Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942) | no description | 2022-05-31T03:28:22Z |
 | [CVE-2019-8942](https://www.cve.org/CVERecord?id=CVE-2019-8942) | [recozone/HyperSine](https://github.com/recozone/HyperSine) | CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation | 2022-05-27T15:34:39Z |
@@ -7022,6 +7031,7 @@ Last generated: 2025-06-19 02:45:58.442303
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [AppyAppy/super-octo-carnival](https://github.com/AppyAppy/super-octo-carnival) | CVE 2019-9053 Python 3 Update | 2023-05-23T18:44:08Z |
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [hadrian3689/nagiosxi_5.6.6](https://github.com/hadrian3689/nagiosxi_5.6.6) | CVE-2019–15949 for Nagiosxi  &lt; 5.6.6 | 2023-01-02T22:41:12Z |
 | [CVE-2019-19492](https://www.cve.org/CVERecord?id=CVE-2019-19492) | [Chocapikk/CVE-2019-19492](https://github.com/Chocapikk/CVE-2019-19492) | FreeSWITCH Exploit (CVE-2019-19492) | 2023-05-23T19:53:54Z |
+| [CVE-2019-19447](https://www.cve.org/CVERecord?id=CVE-2019-19447) | [Trinadh465/linux-4.19.72_CVE-2019-19447](https://github.com/Trinadh465/linux-4.19.72_CVE-2019-19447) | no description | 2023-11-27T10:49:52Z |
 | [CVE-2019-19194](https://www.cve.org/CVERecord?id=CVE-2019-19194) | [louisabricot/writeup-cve-2019-19194](https://github.com/louisabricot/writeup-cve-2019-19194) | A writeup and theoretical Proof-of-Concept for CVE-2019-19194 | 2023-05-09T13:12:44Z |
 | [CVE-2019-18935](https://www.cve.org/CVERecord?id=CVE-2019-18935) | [ThanHuuTuan/Telerik_CVE-2019-18935](https://github.com/ThanHuuTuan/Telerik_CVE-2019-18935) | TelerikUI Vulnerability Scanner (CVE-2019-18935) | 2020-05-25T08:37:51Z |
 | [CVE-2019-18935](https://www.cve.org/CVERecord?id=CVE-2019-18935) | [noperator/CVE-2019-18935](https://github.com/noperator/CVE-2019-18935) | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | 2019-12-12T07:58:11Z |
@@ -9128,3 +9138,4 @@ Last generated: 2025-06-19 02:45:58.442303
 | CVE NOT FOUND | [vitalii-moholivskyi/selected-cve-dataset-2024](https://github.com/vitalii-moholivskyi/selected-cve-dataset-2024) | no description | 2025-03-29T20:54:04Z |
 | CVE NOT FOUND | [cooku222/CVE-2025-Analysis](https://github.com/cooku222/CVE-2025-Analysis) | no description | 2025-05-04T05:05:29Z |
 | CVE NOT FOUND | [uthrasri/CVE-2024](https://github.com/uthrasri/CVE-2024) | no description | 2025-04-02T11:11:14Z |
+| CVE NOT FOUND | [nguyenmanhthinbsl/CVE2019_8942](https://github.com/nguyenmanhthinbsl/CVE2019_8942) | detecting cve 2019 8942 based on signature based detection. | 2023-11-06T16:43:37Z |
