@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-20 02:45:11.645507
+Last generated: 2025-06-21 02:40:49.879179
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Last generated: 2025-06-20 02:45:11.645507
 | [CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701) | [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701) | Tomcat CVE-2025-46701 PoC | 2025-04-29T00:47:12Z |
 | [CVE-2025-46657](https://www.cve.org/CVERecord?id=CVE-2025-46657) | [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657) | no description | 2025-04-27T02:15:37Z |
 | [CVE-2025-46271](https://www.cve.org/CVERecord?id=CVE-2025-46271) | [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC) | no description | 2025-05-07T19:21:17Z |
+| [CVE-2025-46173](https://www.cve.org/CVERecord?id=CVE-2025-46173) | [pruthuraut/CVE-2025-46173](https://github.com/pruthuraut/CVE-2025-46173) | poc for the CVE-2025-46173 | 2025-05-26T06:41:52Z |
 | [CVE-2025-4611](https://www.cve.org/CVERecord?id=CVE-2025-4611) | [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC) | PoC for CVE-2025-4611 | 2025-05-23T07:19:31Z |
 | [CVE-2025-4603](https://www.cve.org/CVERecord?id=CVE-2025-4603) | [d0n601/CVE-2025-4603](https://github.com/d0n601/CVE-2025-4603) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Deletion | 2025-05-12T19:34:30Z |
 | [CVE-2025-4602](https://www.cve.org/CVERecord?id=CVE-2025-4602) | [d0n601/CVE-2025-4602](https://github.com/d0n601/CVE-2025-4602) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Read | 2025-05-12T19:33:41Z |
@@ -335,6 +336,7 @@ Last generated: 2025-06-20 02:45:11.645507
 | [CVE-2025-29277](https://www.cve.org/CVERecord?id=CVE-2025-29277) | [0xBl4nk/CVE-2025-29277](https://github.com/0xBl4nk/CVE-2025-29277) | POC | 2025-04-15T23:08:52Z |
 | [CVE-2025-29276](https://www.cve.org/CVERecord?id=CVE-2025-29276) | [0xBl4nk/CVE-2025-29276](https://github.com/0xBl4nk/CVE-2025-29276) | POC | 2025-04-15T23:13:30Z |
 | [CVE-2025-29275](https://www.cve.org/CVERecord?id=CVE-2025-29275) | [0xBl4nk/CVE-2025-29275](https://github.com/0xBl4nk/CVE-2025-29275) | POC | 2025-04-15T23:22:40Z |
+| [CVE-2025-2907](https://www.cve.org/CVERecord?id=CVE-2025-2907) | [Yucaerin/CVE-2025-2907](https://github.com/Yucaerin/CVE-2025-2907) | Order Delivery Date Pro for WooCommerce &lt; 12.3.1 - Unauthenticated Arbitrary Option Update | 2025-05-26T03:02:05Z |
 | [CVE-2025-29018](https://www.cve.org/CVERecord?id=CVE-2025-29018) | [b1tm4r/CVE-2025-29018](https://github.com/b1tm4r/CVE-2025-29018) | no description | 2025-03-28T09:01:36Z |
 | [CVE-2025-29017](https://www.cve.org/CVERecord?id=CVE-2025-29017) | [b1tm4r/CVE-2025-29017](https://github.com/b1tm4r/CVE-2025-29017) | no description | 2025-03-28T09:00:31Z |
 | [CVE-2025-29015](https://www.cve.org/CVERecord?id=CVE-2025-29015) | [b1tm4r/CVE-2025-29015](https://github.com/b1tm4r/CVE-2025-29015) | no description | 2025-02-18T08:54:27Z |
@@ -979,6 +981,7 @@ Last generated: 2025-06-20 02:45:11.645507
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Sachinart/CVE-2024-56145-craftcms-rce](https://github.com/Sachinart/CVE-2024-56145-craftcms-rce) | CVE-2024-56145 SSTI to RCE - twig templates | 2024-12-22T11:53:04Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145) | Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled | 2024-12-20T03:34:01Z |
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [rawtips/craft_cve_2024_56145_exploit.py](https://github.com/rawtips/craft_cve_2024_56145_exploit.py) | no description | 2025-02-03T22:33:57Z |
+| [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [hmhlol/craft-cms-RCE-CVE-2024-56145](https://github.com/hmhlol/craft-cms-RCE-CVE-2024-56145) | A POC lab environment for CVE-2024-56145 CraftCMS RCE. | 2025-04-06T10:16:20Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
 | [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
