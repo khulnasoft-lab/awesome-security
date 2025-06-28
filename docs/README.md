@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-27 02:47:17.311002
+Last generated: 2025-06-28 02:41:46.877897
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -39,11 +39,13 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2025-4688](https://www.cve.org/CVERecord?id=CVE-2025-4688) | [sahici/CVE-2025-4688](https://github.com/sahici/CVE-2025-4688) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:46:44Z |
 | [CVE-2025-4686](https://www.cve.org/CVERecord?id=CVE-2025-4686) | [sahici/CVE-2025-4686](https://github.com/sahici/CVE-2025-4686) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:46:12Z |
 | [CVE-2025-46822](https://www.cve.org/CVERecord?id=CVE-2025-46822) | [d3sca/CVE-2025-46822](https://github.com/d3sca/CVE-2025-46822) | Unauthenticated Arbitrary File Read via Absolute Path | 2025-05-23T10:26:34Z |
+| [CVE-2025-46816](https://www.cve.org/CVERecord?id=CVE-2025-46816) | [Guilhem7/CVE-2025-46816](https://github.com/Guilhem7/CVE-2025-46816) | POC for exploit of goshs | 2025-06-04T17:58:58Z |
 | [CVE-2025-46731](https://www.cve.org/CVERecord?id=CVE-2025-46731) | [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731) | no description | 2025-05-06T02:26:55Z |
 | [CVE-2025-46721](https://www.cve.org/CVERecord?id=CVE-2025-46721) | [justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721) | no description | 2025-04-30T13:53:32Z |
 | [CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701) | [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701) | Tomcat CVE-2025-46701 PoC | 2025-04-29T00:47:12Z |
 | [CVE-2025-46657](https://www.cve.org/CVERecord?id=CVE-2025-46657) | [nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657) | no description | 2025-04-27T02:15:37Z |
 | [CVE-2025-4664](https://www.cve.org/CVERecord?id=CVE-2025-4664) | [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework) | Advanced AI-Powered Exploitation Framework  -  CVE-2025-4664 &amp; CVE-2025-2783 &amp; CVE-2025-2857 &amp; CVE-2025-30397  - | 2025-05-26T12:51:16Z |
+| [CVE-2025-4632](https://www.cve.org/CVERecord?id=CVE-2025-4632) | [MantisToboggan-git/CVE-2025-4632-POC](https://github.com/MantisToboggan-git/CVE-2025-4632-POC) | no description | 2025-06-04T16:14:54Z |
 | [CVE-2025-4631](https://www.cve.org/CVERecord?id=CVE-2025-4631) | [Nxploited/CVE-2025-4631](https://github.com/Nxploited/CVE-2025-4631) | Profitori 2.0.6.0 - 2.1.1.3 - Missing Authorization to Unauthenticated Privilege Escalation | 2025-05-31T12:00:22Z |
 | [CVE-2025-46271](https://www.cve.org/CVERecord?id=CVE-2025-46271) | [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC) | no description | 2025-05-07T19:21:17Z |
 | [CVE-2025-46206](https://www.cve.org/CVERecord?id=CVE-2025-46206) | [Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206) | no description | 2025-06-03T04:10:19Z |
@@ -53,6 +55,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2025-4611](https://www.cve.org/CVERecord?id=CVE-2025-4611) | [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC) | PoC for CVE-2025-4611 | 2025-05-23T07:19:31Z |
 | [CVE-2025-46080](https://www.cve.org/CVERecord?id=CVE-2025-46080) | [yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080) | Details | 2025-04-16T08:29:18Z |
 | [CVE-2025-46078](https://www.cve.org/CVERecord?id=CVE-2025-46078) | [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078) | Vulnerability Description | 2025-04-15T13:01:32Z |
+| [CVE-2025-46047](https://www.cve.org/CVERecord?id=CVE-2025-46047) | [J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047) | PoC for Silverpeas &lt;= 6.4.2 Username Enumeration | 2025-04-14T10:51:21Z |
 | [CVE-2025-4603](https://www.cve.org/CVERecord?id=CVE-2025-4603) | [d0n601/CVE-2025-4603](https://github.com/d0n601/CVE-2025-4603) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Deletion | 2025-05-12T19:34:30Z |
 | [CVE-2025-4602](https://www.cve.org/CVERecord?id=CVE-2025-4602) | [d0n601/CVE-2025-4602](https://github.com/d0n601/CVE-2025-4602) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Read | 2025-05-12T19:33:41Z |
 | [CVE-2025-45781](https://www.cve.org/CVERecord?id=CVE-2025-45781) | [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC) | Path Traversal Vulnerability on Kemal Framework 1.6.0 | 2025-04-04T12:29:23Z |
@@ -60,6 +63,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250) | no description | 2025-05-07T14:17:31Z |
 | [CVE-2025-4524](https://www.cve.org/CVERecord?id=CVE-2025-4524) | [ptrstr/CVE-2025-4524](https://github.com/ptrstr/CVE-2025-4524) | CVE-2025-4524 - Unauthenticated madara-core Wordpress theme LFI | 2025-05-05T03:28:17Z |
 | [CVE-2025-44998](https://www.cve.org/CVERecord?id=CVE-2025-44998) | [l8BL/CVE-2025-44998](https://github.com/l8BL/CVE-2025-44998) | TinyFileManger XSS Vulnerability | 2025-05-23T06:40:16Z |
+| [CVE-2025-44603](https://www.cve.org/CVERecord?id=CVE-2025-44603) | [Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers](https://github.com/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers) | CSRF can create fake users by tricking an authenticated user into submitting a malicious request. The web app trusts the session, allowing unauthorized account creation, leading to privilege escalation or spam. Mitigation includes CSRF tokens, Same Site cookies, and authentication checks like CAPTCHAs. | 2025-02-28T06:31:12Z |
 | [CVE-2025-4428](https://www.cve.org/CVERecord?id=CVE-2025-4428) | [xie-22/CVE-2025-4428](https://github.com/xie-22/CVE-2025-4428) | Ivanti EPMM Pre-Auth RCE Chain | 2025-05-16T00:42:08Z |
 | [CVE-2025-4427](https://www.cve.org/CVERecord?id=CVE-2025-4427) | [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428) | no description | 2025-05-15T13:59:39Z |
 | [CVE-2025-44148](https://www.cve.org/CVERecord?id=CVE-2025-44148) | [barisbaydur/CVE-2025-44148](https://github.com/barisbaydur/CVE-2025-44148) | A reflected cross-site scripting (XSS) vulnerability exists in MailEnable Webmail due to improper user input sanitization in the failure.aspx. This allows a remote attacker to inject arbitrary JavaScript code via a crafted URL, which is then reflected in the server&#x27;s response and executed in the context of the user&#x27;s browser session. | 2025-06-02T17:02:06Z |
@@ -1030,6 +1034,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2024-56145](https://www.cve.org/CVERecord?id=CVE-2024-56145) | [hmhlol/craft-cms-RCE-CVE-2024-56145](https://github.com/hmhlol/craft-cms-RCE-CVE-2024-56145) | A POC lab environment for CVE-2024-56145 CraftCMS RCE. | 2025-04-06T10:16:20Z |
 | [CVE-2024-56116](https://www.cve.org/CVERecord?id=CVE-2024-56116) | [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116) | no description | 2024-12-16T07:44:07Z |
 | [CVE-2024-56115](https://www.cve.org/CVERecord?id=CVE-2024-56115) | [ComplianceControl/CVE-2024-56115](https://github.com/ComplianceControl/CVE-2024-56115) | no description | 2024-12-16T07:46:41Z |
+| [CVE-2024-56071](https://www.cve.org/CVERecord?id=CVE-2024-56071) | [Nxploited/CVE-2024-56071](https://github.com/Nxploited/CVE-2024-56071) | Simple Dashboard &lt;= 2.0 - Unauthenticated Privilege Escalation | 2025-04-09T14:32:19Z |
 | [CVE-2024-56067](https://www.cve.org/CVERecord?id=CVE-2024-56067) | [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067) | WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download | 2025-01-09T10:40:33Z |
 | [CVE-2024-56064](https://www.cve.org/CVERecord?id=CVE-2024-56064) | [RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064) | WP SuperBackup &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload | 2025-01-09T15:35:39Z |
 | [CVE-2024-56059](https://www.cve.org/CVERecord?id=CVE-2024-56059) | [RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059) | Partners &lt;= 0.2.0 - Unauthenticated PHP Object Injection | 2025-01-13T12:05:21Z |
@@ -1322,6 +1327,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
 | [CVE-2024-48914](https://www.cve.org/CVERecord?id=CVE-2024-48914) | [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914) | PoC for CVE-2024-48914 | 2024-10-21T10:02:05Z |
+| [CVE-2024-48887](https://www.cve.org/CVERecord?id=CVE-2024-48887) | [cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit) | a lightweight JavaScript snippet showcasing how unauthorized password changes can be triggered on vulnerable Fortinet FortiSwitch GUI endpoints. | 2025-04-09T17:27:17Z |
 | [CVE-2024-4885](https://www.cve.org/CVERecord?id=CVE-2024-4885) | [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885) | Exploit for CVE-2024-4885 | 2024-07-08T12:14:42Z |
 | [CVE-2024-4883](https://www.cve.org/CVERecord?id=CVE-2024-4883) | [sinsinology/CVE-2024-4883](https://github.com/sinsinology/CVE-2024-4883) | Exploit for CVE-2024-4883 | 2024-07-08T12:14:01Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [Brut-Security/CVE-2024-4879](https://github.com/Brut-Security/CVE-2024-4879) | CVE-2024-4879 - Jelly Template Injection Vulnerability in ServiceNow | 2024-07-12T10:32:37Z |
@@ -1915,6 +1921,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin) | CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件 | 2024-11-22T03:57:12Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401) | CVE-2024-36401 (GeoServer Remote Code Execution) | 2024-11-27T19:13:49Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit) | GeoServer（CVE-2024-36401/CVE-2024-36404）漏洞利用工具 | 2025-01-07T08:13:39Z |
+| [CVE-2024-3640](https://www.cve.org/CVERecord?id=CVE-2024-3640) | [H1ng007/CVE-2024-3640_WafBypass](https://github.com/H1ng007/CVE-2024-3640_WafBypass) | CVE-2024-3640绕过Waf进行漏洞利用 | 2025-04-09T07:39:47Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
 | [CVE-2024-3605](https://www.cve.org/CVERecord?id=CVE-2024-3605) | [RandomRobbieBF/CVE-2024-3605](https://github.com/RandomRobbieBF/CVE-2024-3605) | WP Hotel Booking &lt;= 2.1.0 - Unauthenticated SQL Injection | 2025-01-12T07:53:02Z |
@@ -4147,6 +4154,7 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [0x0d3ad/CVE-2023-41425](https://github.com/0x0d3ad/CVE-2023-41425) | CVE-2023-41425 (XSS to RCE, Wonder CMS 3.2.0 &lt;= 3.4.2) | 2024-11-30T18:34:05Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [xpltive/CVE-2023-41425](https://github.com/xpltive/CVE-2023-41425) | WonderCMS v3.2.0 - v3.4.2 XSS to RCE exploit | 2024-12-22T11:53:14Z |
 | [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425](https://github.com/0xDTC/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425) | CVE-2023-41425 Refurbish | 2024-10-27T20:28:57Z |
+| [CVE-2023-41425](https://www.cve.org/CVERecord?id=CVE-2023-41425) | [Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE](https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE) | Xss injection, WonderCMS 3.2.0 -3.4.2 | 2024-11-24T17:39:45Z |
 | [CVE-2023-41362](https://www.cve.org/CVERecord?id=CVE-2023-41362) | [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) | no description | 2023-09-11T07:49:38Z |
 | [CVE-2023-41320](https://www.cve.org/CVERecord?id=CVE-2023-41320) | [Guilhem7/CVE_2023_41320](https://github.com/Guilhem7/CVE_2023_41320) | POC for cve 2023 41320 GLPI | 2023-11-16T16:21:51Z |
 | [CVE-2023-4128](https://www.cve.org/CVERecord?id=CVE-2023-4128) | [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128) | no description | 2023-09-19T06:45:47Z |
@@ -6729,6 +6737,8 @@ Last generated: 2025-06-27 02:47:17.311002
 | [CVE-2020-24815](https://www.cve.org/CVERecord?id=CVE-2020-24815) | [darkvirus-7x/exploit-CVE-2020-24815](https://github.com/darkvirus-7x/exploit-CVE-2020-24815) | no description | 2023-03-18T21:42:29Z |
 | [CVE-2020-24750](https://www.cve.org/CVERecord?id=CVE-2020-24750) | [Al1ex/CVE-2020-24750](https://github.com/Al1ex/CVE-2020-24750) | CVE-2020-24750 | 2020-05-27T13:42:11Z |
 | [CVE-2020-24186](https://www.cve.org/CVERecord?id=CVE-2020-24186) | [Sakura-501/CVE-2020-24186-exploit](https://github.com/Sakura-501/CVE-2020-24186-exploit) | CVE-2020-24186的攻击脚本 | 2022-04-05T08:31:56Z |
+| [CVE-2020-24089](https://www.cve.org/CVERecord?id=CVE-2020-24089) | [rjt-gupta/CVE-2020-24089](https://github.com/rjt-gupta/CVE-2020-24089) | Windows Privilege Escalation: IOBit Malware Fighter v8.0.2 | 2023-08-20T21:40:07Z |
+| [CVE-2020-24088](https://www.cve.org/CVERecord?id=CVE-2020-24088) | [rjt-gupta/CVE-2020-24088](https://github.com/rjt-gupta/CVE-2020-24088) | Windows Privilege Escalation: Foxconn Live Update Utility v2.1.6.26 | 2023-08-20T21:38:41Z |
 | [CVE-2020-23593](https://www.cve.org/CVERecord?id=CVE-2020-23593) | [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593) | INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port. | 2022-11-20T17:39:48Z |
 | [CVE-2020-23592](https://www.cve.org/CVERecord?id=CVE-2020-23592) | [huzaifahussain98/CVE-2020-23592](https://github.com/huzaifahussain98/CVE-2020-23592) | CSRF attack leads to Reset ONU to Factory Default | 2022-11-20T17:38:21Z |
 | [CVE-2020-23591](https://www.cve.org/CVERecord?id=CVE-2020-23591) | [huzaifahussain98/CVE-2020-23591](https://github.com/huzaifahussain98/CVE-2020-23591) | ARBITAR FILE UPLOAD LEADS TO &quot;delete every file for Denial of Service (using &#x27;rm -rf *.*&#x27; in the code), reverse connection (using &#x27;.asp&#x27; webshell), backdoor , Escalation of Privileges, etc&quot;. | 2022-11-20T17:38:06Z |
