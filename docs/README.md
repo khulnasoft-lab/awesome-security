@@ -2,12 +2,13 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-28 02:41:46.877897
+Last generated: 2025-06-29 02:56:54.751637
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
 | [CVE-2025-666666](https://www.cve.org/CVERecord?id=CVE-2025-666666) | [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666) | Successful exploit for D | 2025-04-04T05:06:22Z |
+| [CVE-2025-5701](https://www.cve.org/CVERecord?id=CVE-2025-5701) | [Nxploited/CVE-2025-5701](https://github.com/Nxploited/CVE-2025-5701) | WordPress HyperComments Plugin &lt;= 1.2.2 is vulnerable to Privilege Escalation | 2025-06-05T15:27:18Z |
 | [CVE-2025-5329](https://www.cve.org/CVERecord?id=CVE-2025-5329) | [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:41:09Z |
 | [CVE-2025-5319](https://www.cve.org/CVERecord?id=CVE-2025-5319) | [sahici/CVE-2025-5319](https://github.com/sahici/CVE-2025-5319) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:40:46Z |
 | [CVE-2025-5287](https://www.cve.org/CVERecord?id=CVE-2025-5287) | [Nxploited/CVE-2025-5287](https://github.com/Nxploited/CVE-2025-5287) | WordPress Likes and Dislikes Plugin &lt;= 1.0.0 is vulnerable to SQL Injection | 2025-05-28T12:35:00Z |
@@ -112,6 +113,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [GadaLuBau1337/CVE-2025-3605](https://github.com/GadaLuBau1337/CVE-2025-3605) | no description | 2025-05-15T16:08:46Z |
 | [CVE-2025-3604](https://www.cve.org/CVERecord?id=CVE-2025-3604) | [Nxploited/CVE-2025-3604](https://github.com/Nxploited/CVE-2025-3604) | Flynax Bridge &lt;= 2.2.0 - Unauthenticated Privilege Escalation via Account Takeover | 2025-05-06T01:48:53Z |
 | [CVE-2025-3568](https://www.cve.org/CVERecord?id=CVE-2025-3568) | [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568) | A security vulnerability has been identified in Krayin CRM &lt;=2.1.0 that allows a low-privileged user to escalate privileges by tricking an admin into opening a malicious SVG file. | 2025-04-17T12:08:52Z |
+| [CVE-2025-3419](https://www.cve.org/CVERecord?id=CVE-2025-3419) | [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419) | The Eventin plugin (&lt;= 4.0.26) for WordPress contains an unauthenticated arbitrary file read vulnerability | 2025-06-05T18:44:28Z |
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [tinkerlev/commvault-cve2025-34028-check](https://github.com/tinkerlev/commvault-cve2025-34028-check) | Commvault CVE-2025-34028 endpoint scanner using Nmap NSE. For ethical testing and configuration validation. | 2025-04-24T16:30:11Z |
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028](https://github.com/watchtowrlabs/watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028) | no description | 2025-04-17T08:16:58Z |
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [becrevex/Commvault-CVE-2025-34028](https://github.com/becrevex/Commvault-CVE-2025-34028) | Commvault Remote Code Execution (CVE-2025-34028) NSE | 2025-05-06T06:16:13Z |
@@ -227,6 +229,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2025-30727](https://www.cve.org/CVERecord?id=CVE-2025-30727) | [HExploited/CVE-2025-30727-Exploit](https://github.com/HExploited/CVE-2025-30727-Exploit) | no description | 2025-04-16T18:48:54Z |
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) | Unauthorized Arbitrary File Download in WordPress WP01 | 2025-03-26T14:37:34Z |
 | [CVE-2025-30567](https://www.cve.org/CVERecord?id=CVE-2025-30567) | [realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC) | CVE-2025-30567 - WordPress WP01 &lt; Path traversal | 2025-04-03T22:52:06Z |
+| [CVE-2025-3054](https://www.cve.org/CVERecord?id=CVE-2025-3054) | [frogchung/CVE-2025-3054-Exploit](https://github.com/frogchung/CVE-2025-3054-Exploit) | no description | 2025-06-05T09:57:03Z |
 | [CVE-2025-3047](https://www.cve.org/CVERecord?id=CVE-2025-3047) | [murataydemir/AWS-SAM-CLI-Vulnerabilities](https://github.com/murataydemir/AWS-SAM-CLI-Vulnerabilities) | Issue with AWS SAM CLI (CVE-2025-3047, CVE-2025-3048) | 2025-04-02T14:28:44Z |
 | [CVE-2025-30406](https://www.cve.org/CVERecord?id=CVE-2025-30406) | [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406) | Exploit for CVE-2025-30406 | 2025-04-24T07:55:22Z |
 | [CVE-2025-30400](https://www.cve.org/CVERecord?id=CVE-2025-30400) | [encrypter15/CVE-2025-30400](https://github.com/encrypter15/CVE-2025-30400) | no description | 2025-05-23T15:39:02Z |
@@ -1328,6 +1331,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
 | [CVE-2024-48914](https://www.cve.org/CVERecord?id=CVE-2024-48914) | [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914) | PoC for CVE-2024-48914 | 2024-10-21T10:02:05Z |
 | [CVE-2024-48887](https://www.cve.org/CVERecord?id=CVE-2024-48887) | [cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit) | a lightweight JavaScript snippet showcasing how unauthorized password changes can be triggered on vulnerable Fortinet FortiSwitch GUI endpoints. | 2025-04-09T17:27:17Z |
+| [CVE-2024-48887](https://www.cve.org/CVERecord?id=CVE-2024-48887) | [groshi215/CVE-2024-48887-Exploit](https://github.com/groshi215/CVE-2024-48887-Exploit) | Unverified Password Change (CWE-620) | 2025-04-10T12:17:11Z |
 | [CVE-2024-4885](https://www.cve.org/CVERecord?id=CVE-2024-4885) | [sinsinology/CVE-2024-4885](https://github.com/sinsinology/CVE-2024-4885) | Exploit for CVE-2024-4885 | 2024-07-08T12:14:42Z |
 | [CVE-2024-4883](https://www.cve.org/CVERecord?id=CVE-2024-4883) | [sinsinology/CVE-2024-4883](https://github.com/sinsinology/CVE-2024-4883) | Exploit for CVE-2024-4883 | 2024-07-08T12:14:01Z |
 | [CVE-2024-4879](https://www.cve.org/CVERecord?id=CVE-2024-4879) | [Brut-Security/CVE-2024-4879](https://github.com/Brut-Security/CVE-2024-4879) | CVE-2024-4879 - Jelly Template Injection Vulnerability in ServiceNow | 2024-07-12T10:32:37Z |
@@ -2636,6 +2640,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [Sibul-Dan-Glokta/test-task-CVE-2024-25600](https://github.com/Sibul-Dan-Glokta/test-task-CVE-2024-25600) | Repository for internship test task. | 2025-01-26T19:35:25Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600) | Unauthenticated RCE exploit for CVE-2024-25600 in WordPress Bricks Builder &lt;= 1.9.6. Executes arbitrary code remotely. | 2025-03-31T05:44:43Z |
 | [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [meli0dasH4ck3r/cve-2024-25600](https://github.com/meli0dasH4ck3r/cve-2024-25600) | PoC for CVE-2024-25600 | 2025-04-04T17:35:28Z |
+| [CVE-2024-25600](https://www.cve.org/CVERecord?id=CVE-2024-25600) | [ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM](https://github.com/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM) | OD&amp;H&#x27;s scanner for CVE-2024-25600 vulnerability in the Bricks Builder WordPress plugin. For use in Try Hack Me (THM) environments. | 2025-04-09T23:30:19Z |
 | [CVE-2024-25503](https://www.cve.org/CVERecord?id=CVE-2024-25503) | [EQSTLab/CVE-2024-25503](https://github.com/EQSTLab/CVE-2024-25503) | PoC for CVE-2024-25503 | 2024-09-06T06:17:18Z |
 | [CVE-2024-25466](https://www.cve.org/CVERecord?id=CVE-2024-25466) | [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466) | Description for CVE-2024-25466 | 2024-02-15T07:47:14Z |
 | [CVE-2024-25423](https://www.cve.org/CVERecord?id=CVE-2024-25423) | [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423) | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | 2024-02-18T06:35:31Z |
@@ -3036,6 +3041,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2024-21534](https://www.cve.org/CVERecord?id=CVE-2024-21534) | [verylazytech/cve-2024-21534](https://github.com/verylazytech/cve-2024-21534) | POC - CVE-2024-21534 Jsonpath-plus vulnerable to Remote Code Execution (RCE) due to improper input sanitization | 2024-11-28T17:47:53Z |
 | [CVE-2024-21514](https://www.cve.org/CVERecord?id=CVE-2024-21514) | [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514) | SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart | 2024-06-23T00:55:00Z |
 | [CVE-2024-21513](https://www.cve.org/CVERecord?id=CVE-2024-21513) | [SavageSanta11/Reproduce-CVE-2024-21513](https://github.com/SavageSanta11/Reproduce-CVE-2024-21513) | no description | 2025-03-04T13:11:44Z |
+| [CVE-2024-21513](https://www.cve.org/CVERecord?id=CVE-2024-21513) | [nskath/CVE-2024-21513](https://github.com/nskath/CVE-2024-21513) | PoC for CVE-2024-21513 | 2025-04-09T16:13:18Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | 2024-02-15T19:57:38Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [r00tb1t/CVE-2024-21413-POC](https://github.com/r00tb1t/CVE-2024-21413-POC) | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | 2024-02-16T21:10:31Z |
 | [CVE-2024-21413](https://www.cve.org/CVERecord?id=CVE-2024-21413) | [Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | no description | 2024-02-20T12:41:15Z |
@@ -5709,6 +5715,7 @@ Last generated: 2025-06-28 02:41:46.877897
 | [CVE-2022-35919](https://www.cve.org/CVERecord?id=CVE-2022-35919) | [ifulxploit/Minio-Security-Vulnerability-Checker](https://github.com/ifulxploit/Minio-Security-Vulnerability-Checker) | Program ini adalah alat (tool) yang dibuat untuk memeriksa keamanan sistem Minio terkait dengan kerentanan CVE-2022-35919 | 2024-01-13T00:49:51Z |
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [Johnermac/CVE-2022-35914](https://github.com/Johnermac/CVE-2022-35914) | Script in Ruby for the CVE-2022-35914 - RCE in GLPI | 2023-03-07T00:07:28Z |
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc) | no description | 2022-09-30T16:43:28Z |
+| [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc) | Modified for GLPI Offsec Lab: call_user_func, array_map, passthru | 2024-08-25T19:32:59Z |
 | [CVE-2022-3590](https://www.cve.org/CVERecord?id=CVE-2022-3590) | [hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner) | This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature. | 2023-06-12T13:06:54Z |
 | [CVE-2022-3590](https://www.cve.org/CVERecord?id=CVE-2022-3590) | [huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner) | no description | 2024-08-08T03:02:05Z |
 | [CVE-2022-35869](https://www.cve.org/CVERecord?id=CVE-2022-35869) | [at4111/CVE_2022_35869](https://github.com/at4111/CVE_2022_35869) | no description | 2024-03-27T16:04:26Z |
