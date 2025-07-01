@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-06-30 02:52:41.752750
+Last generated: 2025-07-01 02:59:15.239913
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [Ademking/CVE-2025-49113-nuclei-template](https://github.com/Ademking/CVE-2025-49113-nuclei-template) | CVE-2025-49113 - Roundcube &lt;= 1.6.10 Post-Auth RCE via PHP Object Deserialization | 2025-06-04T02:32:44Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [rasool13x/exploit-CVE-2025-49113](https://github.com/rasool13x/exploit-CVE-2025-49113) | no description | 2025-06-05T20:46:41Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [fearsoff-org/CVE-2025-49113](https://github.com/fearsoff-org/CVE-2025-49113) | no description | 2025-06-04T15:49:43Z |
+| [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [hakaioffsec/CVE-2025-49113-exploit](https://github.com/hakaioffsec/CVE-2025-49113-exploit) | Proof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113). | 2025-06-06T06:31:13Z |
 | [CVE-2025-48827](https://www.cve.org/CVERecord?id=CVE-2025-48827) | [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827) | Critical Unauthenticated API Access in vBulletin | 2025-05-29T20:50:34Z |
 | [CVE-2025-48827](https://www.cve.org/CVERecord?id=CVE-2025-48827) | [wiseep/CVE-2025-48827](https://github.com/wiseep/CVE-2025-48827) | Vbullettin RCE - CVE-2025-48827 | 2025-05-31T15:23:51Z |
 | [CVE-2025-48708](https://www.cve.org/CVERecord?id=CVE-2025-48708) | [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708) | CVE-2025-48708 Ghostscript PDF lack of argument sanitization leading to password leakage | 2025-05-25T12:52:55Z |
@@ -211,6 +212,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825) | Official Nuclei template for CVE-2025-31161 (formerly CVE-2025-2825) | 2025-04-24T10:25:26Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [SUPRAAA-1337/CVE-2025-31161_exploit](https://github.com/SUPRAAA-1337/CVE-2025-31161_exploit) | CVE-2025-31161 python exploit | 2025-04-24T22:09:24Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [0xgh057r3c0n/CVE-2025-31161](https://github.com/0xgh057r3c0n/CVE-2025-31161) | 🛡️ CVE-2025-31161 - CrushFTP User Creation Authentication Bypass Exploit | 2025-05-23T21:04:20Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [B1ack4sh/Blackash-CVE-2025-31161](https://github.com/B1ack4sh/Blackash-CVE-2025-31161) | CVE-2025-31161 | 2025-06-06T09:14:28Z |
 | [CVE-2025-31137](https://www.cve.org/CVERecord?id=CVE-2025-31137) | [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-) | no description | 2025-04-23T10:37:35Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31129](https://www.cve.org/CVERecord?id=CVE-2025-31129) | [cwm1123/CVE-2025-31129](https://github.com/cwm1123/CVE-2025-31129) | no description | 2025-04-01T13:41:45Z |
@@ -258,6 +260,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [imbas007/CVE-2025-30208-template](https://github.com/imbas007/CVE-2025-30208-template) | CVE-2025-30208 vite file read nuclei template | 2025-04-21T01:33:14Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [r0ngy40/CVE-2025-30208-Series](https://github.com/r0ngy40/CVE-2025-30208-Series) | Analysis of the Reproduction of CVE-2025-30208 Series Vulnerabilities | 2025-04-24T10:53:23Z |
 | [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395) | no description | 2025-05-29T17:23:04Z |
+| [CVE-2025-30208](https://www.cve.org/CVERecord?id=CVE-2025-30208) | [HaGsec/CVE-2025-30208](https://github.com/HaGsec/CVE-2025-30208) | POC | 2025-06-06T08:21:13Z |
 | [CVE-2025-30144](https://www.cve.org/CVERecord?id=CVE-2025-30144) | [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144) | no description | 2025-03-21T18:48:28Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files) | Test CVE-2025-30066 | 2025-03-17T09:39:34Z |
 | [CVE-2025-30066](https://www.cve.org/CVERecord?id=CVE-2025-30066) | [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool) | no description | 2025-03-18T14:33:29Z |
@@ -1491,6 +1494,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Didarul342/CVE-2024-4577](https://github.com/Didarul342/CVE-2024-4577) | no description | 2025-02-14T19:38:10Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [mistakes1337/CVE-2024-4577](https://github.com/mistakes1337/CVE-2024-4577) | no description | 2025-03-21T05:44:12Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Night-have-dreams/php-cgi-Injector](https://github.com/Night-have-dreams/php-cgi-Injector) | 一個測試CVE-2024-4577和CVE-2024-8926的安全滲透工具 | 2025-03-15T11:21:52Z |
+| [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577) | PHP CGI CVE-2024-4577 PoC | 2025-04-12T12:28:11Z |
 | [CVE-2024-4573](https://www.cve.org/CVERecord?id=CVE-2024-4573) | [Castro-Ian/CVE-2024-4573-Mitigation-Script](https://github.com/Castro-Ian/CVE-2024-4573-Mitigation-Script) | no description | 2024-12-30T18:54:07Z |
 | [CVE-2024-45614](https://www.cve.org/CVERecord?id=CVE-2024-45614) | [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614) | Puma Header normalization CVE-2024-45614 確認 | 2024-09-28T06:29:00Z |
 | [CVE-2024-45589](https://www.cve.org/CVERecord?id=CVE-2024-45589) | [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589) | no description | 2024-09-04T03:45:33Z |
@@ -1582,6 +1586,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC) | This Proof of Concept (PoC) demonstrates the exploitation of the CVE-2024-4367 vulnerability, which involves Cross-Site Scripting (XSS) attacks. | 2025-02-17T16:40:21Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [elamani-drawing/CVE-2024-4367-POC-PDFJS](https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS) | no description | 2025-03-25T16:27:24Z |
 | [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [VVeakee/CVE-2024-4367](https://github.com/VVeakee/CVE-2024-4367) | no description | 2025-04-06T03:37:01Z |
+| [CVE-2024-4367](https://www.cve.org/CVERecord?id=CVE-2024-4367) | [BektiHandoyo/cve-pdf-host](https://github.com/BektiHandoyo/cve-pdf-host) | PDF host for CVE-2024-4367 | 2025-04-12T06:17:33Z |
 | [CVE-2024-43583](https://www.cve.org/CVERecord?id=CVE-2024-43583) | [Kvngtheta/CVE-2024-43583-PoC](https://github.com/Kvngtheta/CVE-2024-43583-PoC) | Proof of Concept for CVE-2024-43583 | 2025-02-21T19:37:05Z |
 | [CVE-2024-43582](https://www.cve.org/CVERecord?id=CVE-2024-43582) | [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE) | Metasploit Module for CVE-2024-43582 RPC Remote  Desktop Service crititcal RCE | 2024-10-09T12:50:24Z |
 | [CVE-2024-4358](https://www.cve.org/CVERecord?id=CVE-2024-4358) | [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358) | no description | 2024-06-04T16:07:36Z |
@@ -3172,6 +3177,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2024-13478](https://www.cve.org/CVERecord?id=CVE-2024-13478) | [RandomRobbieBF/CVE-2024-13478](https://github.com/RandomRobbieBF/CVE-2024-13478) | LTL Freight Quotes – TForce Edition &lt;= 3.6.4 - Unauthenticated SQL Injection | 2025-02-20T15:50:10Z |
 | [CVE-2024-1346](https://www.cve.org/CVERecord?id=CVE-2024-1346) | [PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346) | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | 2024-02-25T11:51:03Z |
 | [CVE-2024-13375](https://www.cve.org/CVERecord?id=CVE-2024-13375) | [McTavishSue/CVE-2024-13375](https://github.com/McTavishSue/CVE-2024-13375) | CVE-2024-13375 Unverified Password Change | 2025-01-18T10:35:47Z |
+| [CVE-2024-13346](https://www.cve.org/CVERecord?id=CVE-2024-13346) | [tausifzaman/CVE-2024-13346](https://github.com/tausifzaman/CVE-2024-13346) | Avada Theme &lt; 7.11.14 - Unauthenticated Arbitrary Shortcode Execution CVE-2024-13346 exploit script | 2025-03-22T07:42:11Z |
 | [CVE-2024-13159](https://www.cve.org/CVERecord?id=CVE-2024-13159) | [horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities](https://github.com/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities) | Proof of concept exploit for Ivanti EPM CVE-2024-13159 and others | 2025-02-18T20:14:34Z |
 | [CVE-2024-1304](https://www.cve.org/CVERecord?id=CVE-2024-1304) | [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS) | POC Badgermeter moni tool - CVE-2024-1304 | 2024-02-08T09:29:54Z |
 | [CVE-2024-1303](https://www.cve.org/CVERecord?id=CVE-2024-1303) | [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal) | POC Badgermeter moni tool - CVE-2024-1303 | 2024-02-08T09:29:14Z |
@@ -5567,6 +5573,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fn1](https://github.com/scabench/jsonorg-fn1) | simple application with a CVE-2022-45688 vulnerability | 2024-01-21T01:28:23Z |
 | [CVE-2022-45477](https://www.cve.org/CVERecord?id=CVE-2022-45477) | [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) | nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481 | 2023-02-26T23:39:42Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
+| [CVE-2022-4539](https://www.cve.org/CVERecord?id=CVE-2022-4539) | [Abdurahmon3236/CVE-2022-4539](https://github.com/Abdurahmon3236/CVE-2022-4539) | no description | 2024-09-01T13:59:21Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc) | Binwalk | 2023-07-01T02:00:39Z |
 | [CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510) | [Finbek/CVE_APIs](https://github.com/Finbek/CVE_APIs) | This project crawls and stores CVE data since 2022 and share them via an REST API that allows users to query known vulnerabilities. | 2023-06-29T08:57:09Z |
@@ -5709,6 +5716,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2022-3699](https://www.cve.org/CVERecord?id=CVE-2022-3699) | [Eap2468/CVE-2022-3699](https://github.com/Eap2468/CVE-2022-3699) | Proof of Concept exploit for CVE-2022-3699 | 2024-08-21T00:42:40Z |
 | [CVE-2022-36946](https://www.cve.org/CVERecord?id=CVE-2022-36946) | [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946) | CVE-2022-36946 linux kernel panic in netfilter_queue | 2022-07-28T11:22:13Z |
 | [CVE-2022-36804](https://www.cve.org/CVERecord?id=CVE-2022-36804) | [benjaminhays/CVE-2022-36804-PoC-Exploit](https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit) | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | 2022-09-20T02:35:53Z |
+| [CVE-2022-36804](https://www.cve.org/CVERecord?id=CVE-2022-36804) | [notdls/CVE-2022-36804](https://github.com/notdls/CVE-2022-36804) | A real exploit for BitBucket RCE CVE-2022-36804 | 2022-09-07T09:35:49Z |
 | [CVE-2022-36779](https://www.cve.org/CVERecord?id=CVE-2022-36779) | [rootDR/CVE-2022-36779](https://github.com/rootDR/CVE-2022-36779) | Exploit for CVE-2022-36779 authenticated Command Injection | 2023-12-24T10:46:50Z |
 | [CVE-2022-36779](https://www.cve.org/CVERecord?id=CVE-2022-36779) | [EmadYaY/CVE-2022-36779](https://github.com/EmadYaY/CVE-2022-36779) | exploit code | 2024-06-03T22:25:31Z |
 | [CVE-2022-36553](https://www.cve.org/CVERecord?id=CVE-2022-36553) | [0xNslabs/CVE-2022-36553-PoC](https://github.com/0xNslabs/CVE-2022-36553-PoC) | PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device. | 2024-01-08T21:53:46Z |
@@ -5824,6 +5832,7 @@ Last generated: 2025-06-30 02:52:41.752750
 | [CVE-2022-26965](https://www.cve.org/CVERecord?id=CVE-2022-26965) | [SkDevilS/Pluck-Exploitation-by-skdevils](https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils) | # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965 | 2023-08-04T20:32:08Z |
 | [CVE-2022-26923](https://www.cve.org/CVERecord?id=CVE-2022-26923) | [evilashz/PIGADVulnScanner](https://github.com/evilashz/PIGADVulnScanner) | 检测域内常见一把梭漏洞，包括：NoPac、ZeroLogon、CVE-2022-26923、PrintNightMare | 2023-10-17T06:29:44Z |
 | [CVE-2022-26923](https://www.cve.org/CVERecord?id=CVE-2022-26923) | [Gh-Badr/CVE-2022-26923](https://github.com/Gh-Badr/CVE-2022-26923) | A proof of concept exploiting CVE-2022-26923. | 2023-11-28T16:13:36Z |
+| [CVE-2022-26923](https://www.cve.org/CVERecord?id=CVE-2022-26923) | [Yowise/CVE-2022-26923](https://github.com/Yowise/CVE-2022-26923) | no description | 2024-09-01T17:03:27Z |
 | [CVE-2022-26904](https://www.cve.org/CVERecord?id=CVE-2022-26904) | [0nyx-hkr/cve_2022_26904](https://github.com/0nyx-hkr/cve_2022_26904) | This is to create ruby version to python of ruby exploit | 2023-08-24T15:43:32Z |
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z |
 | [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z |
