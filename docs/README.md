@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-07-01 02:59:15.239913
+Last generated: 2025-07-02 02:46:56.605514
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,8 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [rasool13x/exploit-CVE-2025-49113](https://github.com/rasool13x/exploit-CVE-2025-49113) | no description | 2025-06-05T20:46:41Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [fearsoff-org/CVE-2025-49113](https://github.com/fearsoff-org/CVE-2025-49113) | no description | 2025-06-04T15:49:43Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [hakaioffsec/CVE-2025-49113-exploit](https://github.com/hakaioffsec/CVE-2025-49113-exploit) | Proof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113). | 2025-06-06T06:31:13Z |
+| [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [SyFi/CVE-2025-49113](https://github.com/SyFi/CVE-2025-49113) | CVE-2025-49113 exploit | 2025-06-06T05:12:34Z |
+| [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [rxerium/CVE-2025-49113](https://github.com/rxerium/CVE-2025-49113) | Detection for CVE-2025-49113 | 2025-06-03T19:04:17Z |
 | [CVE-2025-48827](https://www.cve.org/CVERecord?id=CVE-2025-48827) | [0xgh057r3c0n/CVE-2025-48827](https://github.com/0xgh057r3c0n/CVE-2025-48827) | Critical Unauthenticated API Access in vBulletin | 2025-05-29T20:50:34Z |
 | [CVE-2025-48827](https://www.cve.org/CVERecord?id=CVE-2025-48827) | [wiseep/CVE-2025-48827](https://github.com/wiseep/CVE-2025-48827) | Vbullettin RCE - CVE-2025-48827 | 2025-05-31T15:23:51Z |
 | [CVE-2025-48708](https://www.cve.org/CVERecord?id=CVE-2025-48708) | [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708) | CVE-2025-48708 Ghostscript PDF lack of argument sanitization leading to password leakage | 2025-05-25T12:52:55Z |
@@ -57,6 +59,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-46204](https://www.cve.org/CVERecord?id=CVE-2025-46204) | [spbavarva/CVE-2025-46204](https://github.com/spbavarva/CVE-2025-46204) | PoC of CVE-2025-46204 | 2025-05-29T19:34:43Z |
 | [CVE-2025-46203](https://www.cve.org/CVERecord?id=CVE-2025-46203) | [spbavarva/CVE-2025-46203](https://github.com/spbavarva/CVE-2025-46203) | PoC of CVE-2025-46203 | 2025-05-29T15:27:14Z |
 | [CVE-2025-46173](https://www.cve.org/CVERecord?id=CVE-2025-46173) | [pruthuraut/CVE-2025-46173](https://github.com/pruthuraut/CVE-2025-46173) | poc for the CVE-2025-46173 | 2025-05-26T06:41:52Z |
+| [CVE-2025-46142](https://www.cve.org/CVERecord?id=CVE-2025-46142) | [AugustusSploits/CVE-2025-46142](https://github.com/AugustusSploits/CVE-2025-46142) | no description | 2025-06-06T17:13:13Z |
 | [CVE-2025-4611](https://www.cve.org/CVERecord?id=CVE-2025-4611) | [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC) | PoC for CVE-2025-4611 | 2025-05-23T07:19:31Z |
 | [CVE-2025-46080](https://www.cve.org/CVERecord?id=CVE-2025-46080) | [yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080) | Details | 2025-04-16T08:29:18Z |
 | [CVE-2025-46078](https://www.cve.org/CVERecord?id=CVE-2025-46078) | [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078) | Vulnerability Description | 2025-04-15T13:01:32Z |
@@ -100,6 +103,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-4123](https://www.cve.org/CVERecord?id=CVE-2025-4123) | [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123) | CVE-2025-4123 | 2025-05-23T13:33:10Z |
 | [CVE-2025-4123](https://www.cve.org/CVERecord?id=CVE-2025-4123) | [imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template) | no description | 2025-06-03T06:24:32Z |
 | [CVE-2025-4123](https://www.cve.org/CVERecord?id=CVE-2025-4123) | [ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-](https://github.com/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-) | CVE-2025-4123 - Grafana Tool | 2025-06-04T12:42:01Z |
+| [CVE-2025-4123](https://www.cve.org/CVERecord?id=CVE-2025-4123) | [B1ack4sh/Blackash-CVE-2025-4123](https://github.com/B1ack4sh/Blackash-CVE-2025-4123) | CVE-2025-4123 | 2025-06-06T20:24:49Z |
 | [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
 | [CVE-2025-4094](https://www.cve.org/CVERecord?id=CVE-2025-4094) | [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094) | CVE-2025-4094 – WordPress Digits Plugin &lt; 8.4.6.1 - OTP Authentication Bypass | 2025-05-15T04:27:04Z |
 | [CVE-2025-4094](https://www.cve.org/CVERecord?id=CVE-2025-4094) | [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC) | WordPress Plugin Digits &lt; 8.4.6.1 - OTP Auth Bypass via Bruteforce (CVE-2025-4094) | 2025-05-15T13:13:03Z |
@@ -203,6 +207,8 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check) | sap-netweaver-cve-2025-31324-check | 2025-05-08T00:57:36Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324) | no description | 2025-05-07T06:23:09Z |
 | [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324) | SAP NetWeaver Visual Composer Metadata Uploader 7.50 CVE-2025-31324 PoC | 2025-05-10T18:52:46Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools](https://github.com/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools) | no description | 2025-04-27T16:40:45Z |
+| [CVE-2025-31324](https://www.cve.org/CVERecord?id=CVE-2025-31324) | [Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment](https://github.com/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment) | CVE-2025-31324 &amp; CVE-2025-42999 vulnerability and compromise assessment tool | 2025-05-01T18:44:20Z |
 | [CVE-2025-31258](https://www.cve.org/CVERecord?id=CVE-2025-31258) | [wh1te4ever/CVE-2025-31258-PoC](https://github.com/wh1te4ever/CVE-2025-31258-PoC) | 1day practice - Escape macOS sandbox (partial) using RemoteViewServices | 2025-05-12T23:51:04Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE](https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE) | Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file. | 2025-05-17T23:03:56Z |
@@ -227,6 +233,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [SUPRAAA-1337/CVE-2025-3102](https://github.com/SUPRAAA-1337/CVE-2025-3102) | Detects the version of the SureTriggers WordPress plugin from exposed asset URLs and compares it to determine if it&#x27;s vulnerable (&lt;= 1.0.78). | 2025-04-25T11:56:45Z |
 | [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [SUPRAAA-1337/CVE-2025-3102_v2](https://github.com/SUPRAAA-1337/CVE-2025-3102_v2) | Checks the SureTriggers WordPress plugin&#x27;s readme.txt file for the Stable tag version. If the version is less than or equal to 1.0.78, it is considered vulnerable.0.78). | 2025-04-25T12:13:44Z |
 | [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [0xgh057r3c0n/CVE-2025-3102](https://github.com/0xgh057r3c0n/CVE-2025-3102) | SureTriggers &lt;= 1.0.78 - Authorization Bypass Exploit | 2025-06-03T08:34:25Z |
+| [CVE-2025-3102](https://www.cve.org/CVERecord?id=CVE-2025-3102) | [baribut/CVE-2025-3102](https://github.com/baribut/CVE-2025-3102) | The SureTriggers WordPress plugin contains a critical authentication bypass vulnerability (CVE-2025-3102) that affects all versions up to and including 1.0.78. | 2025-06-06T20:31:58Z |
 | [CVE-2025-30967](https://www.cve.org/CVERecord?id=CVE-2025-30967) | [Anton-ai111/CVE-2025-30967](https://github.com/Anton-ai111/CVE-2025-30967) | CVE-2025-30967 | 2025-04-16T13:06:50Z |
 | [CVE-2025-30921](https://www.cve.org/CVERecord?id=CVE-2025-30921) | [DoTTak/CVE-2025-30921](https://github.com/DoTTak/CVE-2025-30921) | PoC of CVE-2025-30921 | 2025-04-03T00:29:18Z |
 | [CVE-2025-30911](https://www.cve.org/CVERecord?id=CVE-2025-30911) | [Nxploited/CVE-2025-30911](https://github.com/Nxploited/CVE-2025-30911) | WordPress RomethemeKit For Elementor Plugin &lt;= 1.5.4 is vulnerable to Remote Code Execution (RCE) | 2025-04-04T08:13:24Z |
@@ -414,11 +421,13 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-27636](https://www.cve.org/CVERecord?id=CVE-2025-27636) | [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab) | no description | 2025-05-14T05:34:03Z |
 | [CVE-2025-27607](https://www.cve.org/CVERecord?id=CVE-2025-27607) | [Barsug/msgspec-python313-pre](https://github.com/Barsug/msgspec-python313-pre) | CVE-2025-27607 fix | 2025-03-14T11:41:48Z |
 | [CVE-2025-27590](https://www.cve.org/CVERecord?id=CVE-2025-27590) | [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590) | no description | 2025-05-31T13:39:00Z |
+| [CVE-2025-27580](https://www.cve.org/CVERecord?id=CVE-2025-27580) | [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580) | Exploit for CVE-2025-27580: A predictable token vulnerability in NIH BRICS through 14.0.0-67 allows unauthenticated users with a Common Access Card (CAC) to escalate privileges and compromise any account, including administrators. | 2025-06-06T14:23:59Z |
 | [CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533) | [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ) | exploit for CVE-2025-27533, a Denial of Service (DoS) vulnerability in Apache ActiveMQ | 2025-05-09T02:43:53Z |
 | [CVE-2025-2748](https://www.cve.org/CVERecord?id=CVE-2025-2748) | [xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC](https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC) | PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS | 2025-05-09T18:49:58Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept) | no description | 2025-03-23T23:30:37Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363) | no description | 2025-05-26T07:46:27Z |
 | [CVE-2025-27152](https://www.cve.org/CVERecord?id=CVE-2025-27152) | [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf) | Demonstration of CVE-2025-27152 | 2025-03-30T08:36:48Z |
+| [CVE-2025-27152](https://www.cve.org/CVERecord?id=CVE-2025-27152) | [davidblakecoe/axios-CVE-2025-27152-PoC](https://github.com/davidblakecoe/axios-CVE-2025-27152-PoC) | Axios CVE-2025-27152 PoC | 2025-06-06T21:21:08Z |
 | [CVE-2025-27007](https://www.cve.org/CVERecord?id=CVE-2025-27007) | [absholi7ly/CVE-2025-27007-OttoKit-exploit](https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit) | exploiting CVE-2025-27007, a critical unauthenticated privilege escalation vulnerability in the OttoKit (formerly SureTriggers) WordPress plugin | 2025-05-07T04:43:39Z |
 | [CVE-2025-26865](https://www.cve.org/CVERecord?id=CVE-2025-26865) | [mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865) | CVE-2025-26865: FreeMarker Server-Side Template Injection via the &quot;ecommerce&quot; plugin in Apache OfBiz | 2025-04-11T16:18:19Z |
 | [CVE-2025-26794](https://www.cve.org/CVERecord?id=CVE-2025-26794) | [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi) | no description | 2025-03-05T07:34:50Z |
@@ -556,6 +565,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2025-24104](https://www.cve.org/CVERecord?id=CVE-2025-24104) | [missaels235/POC-CVE-2025-24104-Py](https://github.com/missaels235/POC-CVE-2025-24104-Py) | no description | 2025-05-18T18:11:27Z |
 | [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [bronsoneaver/CVE-2025-24085](https://github.com/bronsoneaver/CVE-2025-24085) | CVE-2025-24085: Incorrect Default Permissions (CWE-276) | 2025-01-30T11:08:45Z |
 | [CVE-2025-24085](https://www.cve.org/CVERecord?id=CVE-2025-24085) | [apt-007/12345](https://github.com/apt-007/12345) | CVE-2025-24085漏洞  和 Schemeshare漏洞 | 2025-05-13T15:55:24Z |
+| [CVE-2025-24076](https://www.cve.org/CVERecord?id=CVE-2025-24076) | [mbanyamer/CVE-2025-24076](https://github.com/mbanyamer/CVE-2025-24076) | no description | 2025-06-06T21:35:57Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom) | metasploit module for the CVE-2025-24071 | 2025-03-18T14:43:28Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [shacojx/CVE-2025-24071-Exploit](https://github.com/shacojx/CVE-2025-24071-Exploit) | Exploit CVE-2025-24071 | 2025-03-21T02:43:32Z |
 | [CVE-2025-24071](https://www.cve.org/CVERecord?id=CVE-2025-24071) | [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC) | CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File | 2025-03-16T20:10:19Z |
@@ -6478,6 +6488,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [banyaksepuh/Mass-CVE-2021-3129-Scanner](https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner) | no description | 2023-10-22T14:25:38Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Axianke/CVE-2021-3129](https://github.com/Axianke/CVE-2021-3129) | CVE-2021-3129 | 2024-01-15T07:12:07Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [piperpwn/CVE-2021-3129-piperpwn](https://github.com/piperpwn/CVE-2021-3129-piperpwn) | Laravel Debug Mode and Payload | 2024-07-16T06:48:24Z |
+| [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [cc3305/CVE-2021-3129](https://github.com/cc3305/CVE-2021-3129) | A exploit script for CVE-2021-3129 | 2024-05-19T21:25:25Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233) | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | 2023-05-29T14:38:58Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot) | Dockerized honeypot for CVE-2021-44228. | 2021-12-15T21:09:00Z |
 | [CVE-2021-3122](https://www.cve.org/CVERecord?id=CVE-2021-3122) | [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details) | no description | 2021-02-07T16:05:49Z |
@@ -6577,6 +6588,7 @@ Last generated: 2025-07-01 02:59:15.239913
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [Hikikan/CVE-2021-22205](https://github.com/Hikikan/CVE-2021-22205) | no description | 2023-09-08T21:16:40Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [NukingDragons/gitlab-cve-2021-22205](https://github.com/NukingDragons/gitlab-cve-2021-22205) | A simple bash script that exploits CVE-2021-22205 against vulnerable instances of gitlab | 2023-11-01T15:19:01Z |
 | [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [devdanqtuan/CVE-2021-22205](https://github.com/devdanqtuan/CVE-2021-22205) | CVE-2021-22205&amp; GitLab CE/EE RCE | 2021-11-04T09:01:07Z |
+| [CVE-2021-22205](https://www.cve.org/CVERecord?id=CVE-2021-22205) | [cc3305/CVE-2021-22205](https://github.com/cc3305/CVE-2021-22205) | CVE-2021-22205 exploit script | 2024-05-19T23:14:48Z |
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [Akash7350/CVE-2021-22204](https://github.com/Akash7350/CVE-2021-22204) | no description | 2023-05-14T03:43:28Z |
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [battleofthebots/dejavu](https://github.com/battleofthebots/dejavu) | Challenge based on CVE-2021-22204 where users send a malicious file to a web application to gain RCE | 2023-07-25T13:52:01Z |
 | [CVE-2021-22204](https://www.cve.org/CVERecord?id=CVE-2021-22204) | [cc3305/CVE-2021-22204](https://github.com/cc3305/CVE-2021-22204) | CVE-2021-22204 exploit script | 2024-06-07T21:57:22Z |
