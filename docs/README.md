@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-07-12 02:52:46.425465
+Last generated: 2025-07-13 03:00:49.123150
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2025-5640](https://www.cve.org/CVERecord?id=CVE-2025-5640) | [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-) | no description | 2025-06-21T11:52:01Z |
 | [CVE-2025-5329](https://www.cve.org/CVERecord?id=CVE-2025-5329) | [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:41:09Z |
 | [CVE-2025-5319](https://www.cve.org/CVERecord?id=CVE-2025-5319) | [sahici/CVE-2025-5319](https://github.com/sahici/CVE-2025-5319) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:40:46Z |
+| [CVE-2025-5309](https://www.cve.org/CVERecord?id=CVE-2025-5309) | [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner) | 🚨 CVE-2025-5309 Multi-Method SSTI Scanner - BeyondTrust Detection Tool by Issam | 2025-06-24T16:38:25Z |
 | [CVE-2025-5288](https://www.cve.org/CVERecord?id=CVE-2025-5288) | [Nxploited/CVE-2025-5288](https://github.com/Nxploited/CVE-2025-5288) | Wordpress REST API - Custom API Generator For Cross Platform And Import Export In WP 1.0.0 - 2.0.3 - Missing Authorization to Unauthenticated Privilege Escalation | 2025-06-12T19:59:38Z |
 | [CVE-2025-5287](https://www.cve.org/CVERecord?id=CVE-2025-5287) | [Nxploited/CVE-2025-5287](https://github.com/Nxploited/CVE-2025-5287) | WordPress Likes and Dislikes Plugin &lt;= 1.0.0 is vulnerable to SQL Injection | 2025-05-28T12:35:00Z |
 | [CVE-2025-5287](https://www.cve.org/CVERecord?id=CVE-2025-5287) | [wiseep/CVE-2025-5287](https://github.com/wiseep/CVE-2025-5287) | Wordpress likes and dislikes add-on - SQL Injection | 2025-05-31T11:22:47Z |
@@ -41,6 +42,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2025-492025](https://www.cve.org/CVERecord?id=CVE-2025-492025) | [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025) | no description | 2025-04-09T20:34:00Z |
 | [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [Zen-kun04/CVE-2025-49132](https://github.com/Zen-kun04/CVE-2025-49132) | A script that gives you the credentials of a Pterodactyl panel vulnerable to CVE-2025-49132 | 2025-06-22T13:08:34Z |
 | [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc) | Pterodactyl翼龙面板CVE-2025-49132批量检测☝️🤓 | 2025-06-23T20:51:18Z |
+| [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [63square/CVE-2025-49132](https://github.com/63square/CVE-2025-49132) | PoCs for CVE-2025-49132 | 2025-06-24T19:41:41Z |
 | [CVE-2025-49125](https://www.cve.org/CVERecord?id=CVE-2025-49125) | [detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass) | Authentication Bypass via Alternate Path Vulnerability (CWE-288) | 2025-06-16T16:50:06Z |
 | [CVE-2025-49125](https://www.cve.org/CVERecord?id=CVE-2025-49125) | [gregk4sec/CVE-2025-49125](https://github.com/gregk4sec/CVE-2025-49125) | Tomcat CVE | 2025-06-03T03:04:52Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [Ademking/CVE-2025-49113-nuclei-template](https://github.com/Ademking/CVE-2025-49113-nuclei-template) | CVE-2025-49113 - Roundcube &lt;= 1.6.10 Post-Auth RCE via PHP Object Deserialization | 2025-06-04T02:32:44Z |
@@ -110,10 +112,13 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2025-45710](https://www.cve.org/CVERecord?id=CVE-2025-45710) | [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710) | CVE-2025-45710 | 2025-06-23T15:16:57Z |
 | [CVE-2025-45620](https://www.cve.org/CVERecord?id=CVE-2025-45620) | [weedl/CVE-2025-45620](https://github.com/weedl/CVE-2025-45620) | no description | 2025-06-17T13:58:43Z |
 | [CVE-2025-45619](https://www.cve.org/CVERecord?id=CVE-2025-45619) | [weedl/CVE-2025-45619](https://github.com/weedl/CVE-2025-45619) | CVE proof of concept regarding the CVE-2025-45619 vulnerabillity. | 2025-06-17T13:40:48Z |
+| [CVE-2025-45467](https://www.cve.org/CVERecord?id=CVE-2025-45467) | [zgsnj123/CVE-2025-45467](https://github.com/zgsnj123/CVE-2025-45467) | no description | 2025-06-24T06:58:40Z |
+| [CVE-2025-45466](https://www.cve.org/CVERecord?id=CVE-2025-45466) | [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466) | It is the details of CVE-2025-45466 | 2025-06-24T06:12:49Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [xp3s/CVE-2025-45250](https://github.com/xp3s/CVE-2025-45250) | CVE-2025-45250 POC | 2025-05-06T14:22:11Z |
 | [CVE-2025-45250](https://www.cve.org/CVERecord?id=CVE-2025-45250) | [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250) | no description | 2025-05-07T14:17:31Z |
 | [CVE-2025-4524](https://www.cve.org/CVERecord?id=CVE-2025-4524) | [ptrstr/CVE-2025-4524](https://github.com/ptrstr/CVE-2025-4524) | CVE-2025-4524 - Unauthenticated madara-core Wordpress theme LFI | 2025-05-05T03:28:17Z |
 | [CVE-2025-44998](https://www.cve.org/CVERecord?id=CVE-2025-44998) | [l8BL/CVE-2025-44998](https://github.com/l8BL/CVE-2025-44998) | TinyFileManger XSS Vulnerability | 2025-05-23T06:40:16Z |
+| [CVE-2025-44608](https://www.cve.org/CVERecord?id=CVE-2025-44608) | [mr-xmen786/CVE-2025-44608](https://github.com/mr-xmen786/CVE-2025-44608) | CVE-2025-44608 | 2025-06-25T17:29:27Z |
 | [CVE-2025-44603](https://www.cve.org/CVERecord?id=CVE-2025-44603) | [Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers](https://github.com/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers) | CSRF can create fake users by tricking an authenticated user into submitting a malicious request. The web app trusts the session, allowing unauthorized account creation, leading to privilege escalation or spam. Mitigation includes CSRF tokens, Same Site cookies, and authentication checks like CAPTCHAs. | 2025-02-28T06:31:12Z |
 | [CVE-2025-4428](https://www.cve.org/CVERecord?id=CVE-2025-4428) | [xie-22/CVE-2025-4428](https://github.com/xie-22/CVE-2025-4428) | Ivanti EPMM Pre-Auth RCE Chain | 2025-05-16T00:42:08Z |
 | [CVE-2025-4427](https://www.cve.org/CVERecord?id=CVE-2025-4427) | [watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428) | no description | 2025-05-15T13:59:39Z |
@@ -507,6 +512,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2025-27607](https://www.cve.org/CVERecord?id=CVE-2025-27607) | [Barsug/msgspec-python313-pre](https://github.com/Barsug/msgspec-python313-pre) | CVE-2025-27607 fix | 2025-03-14T11:41:48Z |
 | [CVE-2025-27590](https://www.cve.org/CVERecord?id=CVE-2025-27590) | [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590) | no description | 2025-05-31T13:39:00Z |
 | [CVE-2025-27580](https://www.cve.org/CVERecord?id=CVE-2025-27580) | [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580) | Exploit for CVE-2025-27580: A predictable token vulnerability in NIH BRICS through 14.0.0-67 allows unauthenticated users with a Common Access Card (CAC) to escalate privileges and compromise any account, including administrators. | 2025-06-06T14:23:59Z |
+| [CVE-2025-27558](https://www.cve.org/CVERecord?id=CVE-2025-27558) | [Atlas-ghostshell/CVE-2025-27558_Patching](https://github.com/Atlas-ghostshell/CVE-2025-27558_Patching) | Patching CVE-2025-27558 vulnerability that had affected my linux image. | 2025-06-25T10:25:16Z |
 | [CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533) | [absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ) | exploit for CVE-2025-27533, a Denial of Service (DoS) vulnerability in Apache ActiveMQ | 2025-05-09T02:43:53Z |
 | [CVE-2025-2748](https://www.cve.org/CVERecord?id=CVE-2025-2748) | [xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC](https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC) | PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS | 2025-05-09T18:49:58Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept) | no description | 2025-03-23T23:30:37Z |
@@ -780,6 +786,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [Rickerd12/exploit-cve-2025-1974](https://github.com/Rickerd12/exploit-cve-2025-1974) | no description | 2025-05-19T14:51:41Z |
 | [CVE-2025-1793](https://www.cve.org/CVERecord?id=CVE-2025-1793) | [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc) | no description | 2025-06-11T23:06:50Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
+| [CVE-2025-1718](https://www.cve.org/CVERecord?id=CVE-2025-1718) | [issamjr/CVE-2025-1718-Scanner](https://github.com/issamjr/CVE-2025-1718-Scanner) | CVE-2025-1718 - Hitachi Energy FTP Reboot Vulnerability Scanner | 2025-06-24T13:04:46Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC | 2025-03-13T13:45:18Z |
 | [CVE-2025-1661](https://www.cve.org/CVERecord?id=CVE-2025-1661) | [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661) | HUSKY – Products Filter Professional for WooCommerce plugin for WordPress is vulnerable to Local File Inclusion (LFI) | 2025-03-18T19:06:40Z |
@@ -867,6 +874,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2024-9593](https://www.cve.org/CVERecord?id=CVE-2024-9593) | [Nxploited/CVE-2024-9593-Exploit](https://github.com/Nxploited/CVE-2024-9593-Exploit) | no description | 2025-01-01T15:49:36Z |
 | [CVE-2024-9570](https://www.cve.org/CVERecord?id=CVE-2024-9570) | [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof) | Exploit for CVE-2024-9570 | 2024-10-11T16:05:06Z |
 | [CVE-2024-9513](https://www.cve.org/CVERecord?id=CVE-2024-9513) | [ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory](https://github.com/ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory) | no description | 2025-03-14T20:09:39Z |
+| [CVE-2024-9506](https://www.cve.org/CVERecord?id=CVE-2024-9506) | [bio/vue-template-compiler-patched](https://github.com/bio/vue-template-compiler-patched) | Patched Vue 2.7.16 template compiler with fixes for CVE‑2024‑6783 and CVE-2024-9506 | 2025-04-16T12:50:48Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [Chocapikk/CVE-2024-9474](https://github.com/Chocapikk/CVE-2024-9474) | PAN-OS auth bypass + RCE | 2024-11-19T17:26:27Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474) | PoC for PAN-OS Exploit | 2024-11-20T22:31:50Z |
 | [CVE-2024-9474](https://www.cve.org/CVERecord?id=CVE-2024-9474) | [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474) | no description | 2024-11-20T16:42:26Z |
@@ -1924,6 +1932,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2024-38856](https://www.cve.org/CVERecord?id=CVE-2024-38856) | [AlissonFaoli/Apache-OFBiz-Exploit](https://github.com/AlissonFaoli/Apache-OFBiz-Exploit) | Exploit for Apache OFBiz - CVE-2024-38856 | 2025-02-11T03:39:47Z |
 | [CVE-2024-38828](https://www.cve.org/CVERecord?id=CVE-2024-38828) | [First-Roman/sprig-mvc-demo-patch](https://github.com/First-Roman/sprig-mvc-demo-patch) | This demo application partially covers the vulnerability CVE-2024-38828 | 2025-04-14T22:36:00Z |
 | [CVE-2024-38828](https://www.cve.org/CVERecord?id=CVE-2024-38828) | [topilov/axiom-jdk](https://github.com/topilov/axiom-jdk) | CVE-2024-38828: DoS via Spring MVC controller method with byte[] parameter | 2025-04-21T15:49:39Z |
+| [CVE-2024-38828](https://www.cve.org/CVERecord?id=CVE-2024-38828) | [funcid/CVE-2024-38828](https://github.com/funcid/CVE-2024-38828) | no description | 2025-04-22T18:07:35Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821) | cve-2024-38821 | 2024-10-30T14:38:37Z |
 | [CVE-2024-38821](https://www.cve.org/CVERecord?id=CVE-2024-38821) | [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC) | no description | 2025-01-18T12:52:34Z |
 | [CVE-2024-38819](https://www.cve.org/CVERecord?id=CVE-2024-38819) | [GhostS3c/CVE-2024-38819](https://github.com/GhostS3c/CVE-2024-38819) | CVE-2024-38819 nuclei template | 2024-12-16T08:48:12Z |
@@ -5998,6 +6007,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2022-26923](https://www.cve.org/CVERecord?id=CVE-2022-26923) | [Gh-Badr/CVE-2022-26923](https://github.com/Gh-Badr/CVE-2022-26923) | A proof of concept exploiting CVE-2022-26923. | 2023-11-28T16:13:36Z |
 | [CVE-2022-26923](https://www.cve.org/CVERecord?id=CVE-2022-26923) | [Yowise/CVE-2022-26923](https://github.com/Yowise/CVE-2022-26923) | no description | 2024-09-01T17:03:27Z |
 | [CVE-2022-26904](https://www.cve.org/CVERecord?id=CVE-2022-26904) | [0nyx-hkr/cve_2022_26904](https://github.com/0nyx-hkr/cve_2022_26904) | This is to create ruby version to python of ruby exploit | 2023-08-24T15:43:32Z |
+| [CVE-2022-26809](https://www.cve.org/CVERecord?id=CVE-2022-26809) | [corelight/cve-2022-26809](https://github.com/corelight/cve-2022-26809) | Detects attempts and successful exploitation of CVE-2022-26809 | 2022-04-14T16:58:09Z |
 | [CVE-2022-2650](https://www.cve.org/CVERecord?id=CVE-2022-2650) | [StevenAmador/CVE-2022-2650](https://github.com/StevenAmador/CVE-2022-2650) | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | 2022-11-24T21:01:49Z |
 | [CVE-2022-26488](https://www.cve.org/CVERecord?id=CVE-2022-26488) | [techspence/PyPATHPwner](https://github.com/techspence/PyPATHPwner) | POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team. | 2023-04-27T04:30:29Z |
 | [CVE-2022-2639](https://www.cve.org/CVERecord?id=CVE-2022-2639) | [letsr00t/-2022-LOCALROOT-CVE-2022-2639](https://github.com/letsr00t/-2022-LOCALROOT-CVE-2022-2639) | no description | 2024-02-05T07:10:51Z |
@@ -6220,6 +6230,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2022-0944](https://www.cve.org/CVERecord?id=CVE-2022-0944) | [shhrew/CVE-2022-0944](https://github.com/shhrew/CVE-2022-0944) | A proof of concept exploit for SQLPad RCE (CVE-2022-0944). | 2024-09-08T23:39:24Z |
 | [CVE-2022-0944](https://www.cve.org/CVERecord?id=CVE-2022-0944) | [Philip-Otter/CVE-2022-0944_RCE_Automation](https://github.com/Philip-Otter/CVE-2022-0944_RCE_Automation) | PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb | 2024-09-09T08:33:17Z |
 | [CVE-2022-0944](https://www.cve.org/CVERecord?id=CVE-2022-0944) | [0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944](https://github.com/0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944) | no description | 2024-09-10T10:26:57Z |
+| [CVE-2022-0944](https://www.cve.org/CVERecord?id=CVE-2022-0944) | [Robocopsita/CVE-2022-0944_RCE_POC](https://github.com/Robocopsita/CVE-2022-0944_RCE_POC) | no description | 2024-09-13T09:30:08Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [joeymeech/CVE-2022-0847-Exploit-Implementation](https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation) | Using CVE-2022-0847, &quot;Dirty Pipe Exploit&quot;, to pop a reverse bash shell for arbitrary code execution on a foreign machine. | 2023-07-09T22:48:22Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [aaronm-sysdig/text4shell-docker](https://github.com/aaronm-sysdig/text4shell-docker) | Dockerized POC for CVE-2022-42889 Text4Shell | 2023-05-22T06:57:55Z |
 | [CVE-2022-0847](https://www.cve.org/CVERecord?id=CVE-2022-0847) | [basharkey/CVE-2022-0847-dirty-pipe-checker](https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker) | Bash script to check for CVE-2022-0847 &quot;Dirty Pipe&quot; | 2022-03-08T17:13:24Z |
@@ -6840,6 +6851,7 @@ Last generated: 2025-07-12 02:52:46.425465
 | [CVE-2020-8165](https://www.cve.org/CVERecord?id=CVE-2020-8165) | [masahiro331/CVE-2020-8165](https://github.com/masahiro331/CVE-2020-8165) | no description | 2020-05-20T04:27:52Z |
 | [CVE-2020-8163](https://www.cve.org/CVERecord?id=CVE-2020-8163) | [h4ms1k/CVE-2020-8163](https://github.com/h4ms1k/CVE-2020-8163) | Enviroment and exploit to rce test | 2020-07-18T18:42:23Z |
 | [CVE-2020-8163](https://www.cve.org/CVERecord?id=CVE-2020-8163) | [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163) | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | 2020-06-19T21:03:05Z |
+| [CVE-2020-8163](https://www.cve.org/CVERecord?id=CVE-2020-8163) | [RedBinaryRabbit/CVE-2020-8163](https://github.com/RedBinaryRabbit/CVE-2020-8163) | This is a exploit code for CVE-2020-8163 | 2022-03-24T06:43:39Z |
 | [CVE-2020-7961](https://www.cve.org/CVERecord?id=CVE-2020-7961) | [pashayogi/CVE-2020-7961-Mass](https://github.com/pashayogi/CVE-2020-7961-Mass) | no description | 2022-05-22T08:40:53Z |
 | [CVE-2020-7961](https://www.cve.org/CVERecord?id=CVE-2020-7961) | [presentdaypresenttime/shai_hulud](https://github.com/presentdaypresenttime/shai_hulud) | Worm written in python, abuses CVE-2020-7247 | 2022-02-07T10:59:36Z |
 | [CVE-2020-7473](https://www.cve.org/CVERecord?id=CVE-2020-7473) | [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473) | Citrix Sharefile vulnerability check and fast research details | 2020-04-17T18:48:38Z |
