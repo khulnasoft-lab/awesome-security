@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-07-29 03:08:03.574255
+Last generated: 2025-07-30 03:00:43.260851
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -62,11 +62,13 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777) | CVE-2025-5777 Citrix NetScaler Memory Leak Exploit (CitrixBleed 2) | 2025-07-10T07:15:07Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [0xgh057r3c0n/CVE-2025-5777](https://github.com/0xgh057r3c0n/CVE-2025-5777) | Citrix NetScaler Memory Leak PoC | 2025-07-10T18:48:21Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [RickGeex/CVE-2025-5777-CitrixBleed](https://github.com/RickGeex/CVE-2025-5777-CitrixBleed) | CitrixBleed-2 (CVE-2025-5777) – proof-of-concept exploit for NetScaler ADC/Gateway “memory bleed” | 2025-07-04T21:13:37Z |
+| [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [SleepNotF0und/CVE-2025-5777](https://github.com/SleepNotF0und/CVE-2025-5777) | CVE-2025-5777 (CitrixBleed 2) - [Citrix NetScaler ADC] [Citrix Gateway] | 2025-07-15T05:02:11Z |
 | [CVE-2025-5755](https://www.cve.org/CVERecord?id=CVE-2025-5755) | [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755) | no description | 2025-07-09T07:30:36Z |
 | [CVE-2025-5701](https://www.cve.org/CVERecord?id=CVE-2025-5701) | [Nxploited/CVE-2025-5701](https://github.com/Nxploited/CVE-2025-5701) | WordPress HyperComments Plugin &lt;= 1.2.2 is vulnerable to Privilege Escalation | 2025-06-05T15:27:18Z |
 | [CVE-2025-5701](https://www.cve.org/CVERecord?id=CVE-2025-5701) | [RandomRobbieBF/CVE-2025-5701](https://github.com/RandomRobbieBF/CVE-2025-5701) | HyperComments &lt;= 1.2.2 - Unauthenticated (Subscriber+) Arbitrary Options Update | 2025-06-12T08:27:35Z |
 | [CVE-2025-5640](https://www.cve.org/CVERecord?id=CVE-2025-5640) | [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-) | no description | 2025-06-21T11:52:01Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
+| [CVE-2025-53833](https://www.cve.org/CVERecord?id=CVE-2025-53833) | [B1ack4sh/Blackash-CVE-2025-53833](https://github.com/B1ack4sh/Blackash-CVE-2025-53833) | CVE-2025-53833 | 2025-07-15T11:31:29Z |
 | [CVE-2025-53547](https://www.cve.org/CVERecord?id=CVE-2025-53547) | [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC) | CVE-2025-53547 one of poc code | 2025-07-09T09:03:47Z |
 | [CVE-2025-5329](https://www.cve.org/CVERecord?id=CVE-2025-5329) | [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:41:09Z |
 | [CVE-2025-5319](https://www.cve.org/CVERecord?id=CVE-2025-5319) | [sahici/CVE-2025-5319](https://github.com/sahici/CVE-2025-5319) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:40:46Z |
@@ -146,6 +148,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [testdjshan/CVE-2025-48384](https://github.com/testdjshan/CVE-2025-48384) | CVE-2025-48384 | 2025-07-10T08:39:57Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [greatyy/CVE-2025-48384-p](https://github.com/greatyy/CVE-2025-48384-p) | no description | 2025-07-10T07:42:15Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [NigelX/CVE-2025-48384](https://github.com/NigelX/CVE-2025-48384) | 漏洞测试 | 2025-07-10T02:39:00Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [ECHO6789/CVE-2025-48384-submodule](https://github.com/ECHO6789/CVE-2025-48384-submodule) | no description | 2025-07-15T12:26:53Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-4784](https://www.cve.org/CVERecord?id=CVE-2025-4784) | [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:47:09Z |
@@ -672,6 +675,8 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2025-27636](https://www.cve.org/CVERecord?id=CVE-2025-27636) | [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab) | no description | 2025-05-14T05:34:03Z |
 | [CVE-2025-27607](https://www.cve.org/CVERecord?id=CVE-2025-27607) | [Barsug/msgspec-python313-pre](https://github.com/Barsug/msgspec-python313-pre) | CVE-2025-27607 fix | 2025-03-14T11:41:48Z |
 | [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591) | CVE-2025-27591 | 2025-07-12T21:17:40Z |
+| [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [DarksBlackSk/CVE-2025-27591](https://github.com/DarksBlackSk/CVE-2025-27591) | CVE-2025-27591 | 2025-07-15T05:14:41Z |
+| [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591) | CVE-2025-27591 is a known privilege escalation vulnerability in the Below service (version &lt; v0.9.0) | 2025-07-15T05:48:00Z |
 | [CVE-2025-27590](https://www.cve.org/CVERecord?id=CVE-2025-27590) | [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590) | no description | 2025-05-31T13:39:00Z |
 | [CVE-2025-27580](https://www.cve.org/CVERecord?id=CVE-2025-27580) | [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580) | Exploit for CVE-2025-27580: A predictable token vulnerability in NIH BRICS through 14.0.0-67 allows unauthenticated users with a Common Access Card (CAC) to escalate privileges and compromise any account, including administrators. | 2025-06-06T14:23:59Z |
 | [CVE-2025-27558](https://www.cve.org/CVERecord?id=CVE-2025-27558) | [Atlas-ghostshell/CVE-2025-27558_Patching](https://github.com/Atlas-ghostshell/CVE-2025-27558_Patching) | Patching CVE-2025-27558 vulnerability that had affected my linux image. | 2025-06-25T10:25:16Z |
@@ -758,6 +763,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2025-25257](https://www.cve.org/CVERecord?id=CVE-2025-25257) | [B1ack4sh/Blackash-CVE-2025-25257](https://github.com/B1ack4sh/Blackash-CVE-2025-25257) | CVE-2025-25257 | 2025-07-12T16:05:43Z |
 | [CVE-2025-25257](https://www.cve.org/CVERecord?id=CVE-2025-25257) | [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257) | no description | 2025-07-12T15:14:01Z |
 | [CVE-2025-25257](https://www.cve.org/CVERecord?id=CVE-2025-25257) | [adilburaksen/CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool) | Tool for detecting and exploiting CVE-2025-25257 in Fortinet FortiWeb. | 2025-07-12T14:44:47Z |
+| [CVE-2025-25257](https://www.cve.org/CVERecord?id=CVE-2025-25257) | [0xgh057r3c0n/CVE-2025-25257](https://github.com/0xgh057r3c0n/CVE-2025-25257) | PoC for CVE-2025-25257, a critical unauthenticated SQL injection in FortiWeb. Exploits SQLi via the Authorization header to write a webshell and gain RCE. No login required. Fully automated. | 2025-07-15T10:00:07Z |
 | [CVE-2025-25163](https://www.cve.org/CVERecord?id=CVE-2025-25163) | [RandomRobbieBF/CVE-2025-25163](https://github.com/RandomRobbieBF/CVE-2025-25163) | Plugin A/B Image Optimizer &lt;= 3.3 - Authenticated (Subscriber+) Arbitrary File Download | 2025-02-18T10:25:40Z |
 | [CVE-2025-25163](https://www.cve.org/CVERecord?id=CVE-2025-25163) | [RootHarpy/CVE-2025-25163-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-25163-Nuclei-Template) | This repository features a Nuclei template specifically designed to detect the Path Traversal vulnerability (CVE-2025-25163) in the Plugin A/B Image Optimizer for WordPress. This vulnerability poses a critical security risk, allowing unauthorized access to sensitive server files. | 2025-02-19T03:57:35Z |
 | [CVE-2025-25101](https://www.cve.org/CVERecord?id=CVE-2025-25101) | [Nxploited/CVE-2025-25101](https://github.com/Nxploited/CVE-2025-25101) | WordPress Munk Sites plugin &lt;= 1.0.7 - CSRF to Arbitrary Plugin Installation vulnerability | 2025-03-14T02:44:39Z |
@@ -1342,6 +1348,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2024-57428](https://www.cve.org/CVERecord?id=CVE-2024-57428) | [ahrixia/CVE-2024-57428](https://github.com/ahrixia/CVE-2024-57428) | CVE-2024-57428: PHPJabbers Cinema Booking System v2.0 suffers from stored XSS, enabling persistent JavaScript injection for phishing and malware attacks. | 2025-02-04T11:14:10Z |
 | [CVE-2024-57427](https://www.cve.org/CVERecord?id=CVE-2024-57427) | [ahrixia/CVE-2024-57427](https://github.com/ahrixia/CVE-2024-57427) | CVE-2024-57427: PHPJabbers Cinema Booking System v2.0 is vulnerable to reflected XSS, allowing session hijacking and phishing attacks. | 2025-02-04T11:12:28Z |
 | [CVE-2024-57394](https://www.cve.org/CVERecord?id=CVE-2024-57394) | [cwjchoi01/CVE-2024-57394](https://github.com/cwjchoi01/CVE-2024-57394) | CVE-2024-57394 | 2025-04-16T13:36:40Z |
+| [CVE-2024-57376](https://www.cve.org/CVERecord?id=CVE-2024-57376) | [DelspoN/CVE-2024-57376](https://github.com/DelspoN/CVE-2024-57376) | CVE-2024-57376 exploit | 2025-05-08T00:35:08Z |
 | [CVE-2024-57373](https://www.cve.org/CVERecord?id=CVE-2024-57373) | [cypherdavy/CVE-2024-57373](https://github.com/cypherdavy/CVE-2024-57373) | CSRF vulnerability in LifestyleStore v1.0, enabling unauthorized actions on behalf of users, risking data and account security | 2025-01-26T11:01:03Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
@@ -3815,6 +3822,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [olebris/Exploit_CVE_2023_7028-](https://github.com/olebris/Exploit_CVE_2023_7028-) | Exploit_CVE_2023_7028 | 2024-06-28T09:54:59Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [soltanali0/CVE-2023-7028](https://github.com/soltanali0/CVE-2023-7028) | Implementation and exploitation of CVE-2023-7028 account takeover vulnerability related to GO-TO CVE weekly articles of the 11th week. | 2024-07-25T11:39:01Z |
 | [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [gh-ost00/CVE-2023-7028](https://github.com/gh-ost00/CVE-2023-7028) | CVE-2023-7028 POC &amp;&amp; Exploit | 2024-08-21T04:14:55Z |
+| [CVE-2023-7028](https://www.cve.org/CVERecord?id=CVE-2023-7028) | [sariamubeen/CVE-2023-7028](https://github.com/sariamubeen/CVE-2023-7028) | no description | 2025-02-17T02:15:26Z |
 | [CVE-2023-7016](https://www.cve.org/CVERecord?id=CVE-2023-7016) | [ewilded/CVE-2023-7016-POC](https://github.com/ewilded/CVE-2023-7016-POC) | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | 2024-02-27T14:48:19Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985) | 10Web AI Assistant – AI content writing assistant &lt;= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | 2024-01-29T16:51:53Z |
 | [CVE-2023-6985](https://www.cve.org/CVERecord?id=CVE-2023-6985) | [X1r0z/Dubbo-RCE](https://github.com/X1r0z/Dubbo-RCE) | PoC of Apache Dubbo CVE-2023-23638 | 2023-03-22T11:23:44Z |
@@ -6816,6 +6824,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [ptkhai15/OverlayFS---CVE-2021-3493](https://github.com/ptkhai15/OverlayFS---CVE-2021-3493) | no description | 2023-08-25T07:26:35Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493) | Ubuntu OverlayFS Local Privesc | 2021-04-19T20:07:01Z |
 | [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [iamz24/CVE-2021-3493_CVE-2022-3357](https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357) | no description | 2024-07-04T17:29:28Z |
+| [CVE-2021-3493](https://www.cve.org/CVERecord?id=CVE-2021-3493) | [fathallah17/OverlayFS-CVE-2021-3493](https://github.com/fathallah17/OverlayFS-CVE-2021-3493) | Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly! | 2024-09-16T11:28:32Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490) | no description | 2021-06-24T18:50:17Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [pivik271/CVE-2021-3490](https://github.com/pivik271/CVE-2021-3490) | no description | 2023-04-06T03:21:11Z |
 | [CVE-2021-3490](https://www.cve.org/CVERecord?id=CVE-2021-3490) | [mklinkj/log4j2-test](https://github.com/mklinkj/log4j2-test) | Log4j2 LDAP 취약점 테스트 (CVE-2021-44228) | 2022-01-03T04:36:41Z |
@@ -6894,6 +6903,7 @@ Last generated: 2025-07-29 03:08:03.574255
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156) | no description | 2024-02-12T11:24:31Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [lypd0/CVE-2021-3156-checker](https://github.com/lypd0/CVE-2021-3156-checker) | Checker for CVE-2021-3156 with static version check | 2024-05-14T16:35:09Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Typical0day/CVE-2021-3156](https://github.com/Typical0day/CVE-2021-3156) | no description | 2024-07-04T02:29:08Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [acidburn2049/CVE-2021-3156](https://github.com/acidburn2049/CVE-2021-3156) | no description | 2024-09-13T04:20:36Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
@@ -9698,3 +9708,4 @@ Last generated: 2025-07-29 03:08:03.574255
 | CVE NOT FOUND | [jgamblin/CostOfCVE](https://github.com/jgamblin/CostOfCVE) | Determine the amount of funding MITRE received per CVE published in 2024. | 2025-04-18T12:03:03Z |
 | CVE NOT FOUND | [ankadien203/CVE-202428187](https://github.com/ankadien203/CVE-202428187) | Command Injection | 2025-05-05T15:10:33Z |
 | CVE NOT FOUND | [secwatch92/fortiweb_rce_toolkit](https://github.com/secwatch92/fortiweb_rce_toolkit) | A powerful and modular PoC tool for CVE‑2025‑25257 in Fortinet FortiWeb, enabling reverse shell, encrypted data exfiltration, persistence, and cleanup capabilities. | 2025-07-14T14:20:47Z |
+| CVE NOT FOUND | [Bineshmadharapu29/CVE-2025-XXXX-Sirv-Stored-XSS](https://github.com/Bineshmadharapu29/CVE-2025-XXXX-Sirv-Stored-XSS) | Stored XSS in Sirv WordPress Plugin v7.5.5 – CVE-2025-XXXX | 2025-07-15T06:38:05Z |
