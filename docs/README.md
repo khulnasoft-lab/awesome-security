@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-05 03:03:44.050181
+Last generated: 2025-08-06 03:01:58.150150
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-7795](https://www.cve.org/CVERecord?id=CVE-2025-7795) | [byteReaper77/CVE-2025-7795](https://github.com/byteReaper77/CVE-2025-7795) | Proof-of-Concept exploit for CVE-2025-7795 – A buffer overflow vulnerability affecting certain Tenda routers. The exploit sends crafted POST requests to trigger a crash and confirms the impact using ICMP (ping) checks. | 2025-07-19T13:47:28Z |
 | [CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783) | [benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc) | POC of CVE-2025-7783 | 2025-07-18T16:56:12Z |
 | [CVE-2025-7753](https://www.cve.org/CVERecord?id=CVE-2025-7753) | [byteReaper77/CVE-2025-7753](https://github.com/byteReaper77/CVE-2025-7753) | PoC Exploit for CVE-2025-7753 — Time-Based SQL Injection in Online Appointment Booking System 1.0 via the username parameter. Exploit written in C using libcurl. | 2025-07-18T14:22:57Z |
 | [CVE-2025-7620](https://www.cve.org/CVERecord?id=CVE-2025-7620) | [Yuri08loveElaina/cve_2025_7620](https://github.com/Yuri08loveElaina/cve_2025_7620) | no description | 2025-07-14T05:47:32Z |
@@ -75,6 +76,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
 | [CVE-2025-53964](https://www.cve.org/CVERecord?id=CVE-2025-53964) | [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964) | no description | 2025-07-16T21:35:19Z |
 | [CVE-2025-53833](https://www.cve.org/CVERecord?id=CVE-2025-53833) | [B1ack4sh/Blackash-CVE-2025-53833](https://github.com/B1ack4sh/Blackash-CVE-2025-53833) | CVE-2025-53833 | 2025-07-15T11:31:29Z |
+| [CVE-2025-53640](https://www.cve.org/CVERecord?id=CVE-2025-53640) | [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640) | Broken Object Level Authorization (BOLA) in CERN&#x27;s Indico leads to authenticated user enumeration. | 2025-07-19T12:57:38Z |
 | [CVE-2025-53547](https://www.cve.org/CVERecord?id=CVE-2025-53547) | [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC) | CVE-2025-53547 one of poc code | 2025-07-09T09:03:47Z |
 | [CVE-2025-5349](https://www.cve.org/CVERecord?id=CVE-2025-5349) | [olimpiofreitas/CVE-2025-5349-Scanner](https://github.com/olimpiofreitas/CVE-2025-5349-Scanner) | no description | 2025-07-15T15:02:10Z |
 | [CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367) | [kevinbackhouse/DjVuLibre-poc-CVE-2025-53367](https://github.com/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367) | no description | 2025-07-18T13:36:24Z |
@@ -93,6 +95,11 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2025-5222](https://www.cve.org/CVERecord?id=CVE-2025-5222) | [berkley4/icu-74-debian](https://github.com/berkley4/icu-74-debian) | Debian build files for icu 74.2 with a patch to fix CVE-2025-5222 | 2025-06-25T18:01:59Z |
 | [CVE-2025-52097](https://www.cve.org/CVERecord?id=CVE-2025-52097) | [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097) | Public Disclosure of CVE-2025-52097 | 2025-07-11T19:18:29Z |
 | [CVE-2025-5196](https://www.cve.org/CVERecord?id=CVE-2025-5196) | [Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated](https://github.com/Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated) | Wing FTP Server provides an administrative Lua scripting console accessible via its web interface. Authenticated administrators are able to execute arbitrary Lua code with insufficient sandboxing. CVE-2025-5196 | 2025-05-23T18:48:00Z |
+| [CVE-2025-51869](https://www.cve.org/CVERecord?id=CVE-2025-51869) | [Secsys-FDU/CVE-2025-51869](https://github.com/Secsys-FDU/CVE-2025-51869) | no description | 2025-07-19T14:23:05Z |
+| [CVE-2025-51868](https://www.cve.org/CVERecord?id=CVE-2025-51868) | [Secsys-FDU/CVE-2025-51868](https://github.com/Secsys-FDU/CVE-2025-51868) | no description | 2025-07-19T14:15:07Z |
+| [CVE-2025-51867](https://www.cve.org/CVERecord?id=CVE-2025-51867) | [Secsys-FDU/CVE-2025-51867](https://github.com/Secsys-FDU/CVE-2025-51867) | no description | 2025-07-19T14:07:28Z |
+| [CVE-2025-51865](https://www.cve.org/CVERecord?id=CVE-2025-51865) | [Secsys-FDU/CVE-2025-51865](https://github.com/Secsys-FDU/CVE-2025-51865) | no description | 2025-07-19T13:35:57Z |
+| [CVE-2025-51864](https://www.cve.org/CVERecord?id=CVE-2025-51864) | [Secsys-FDU/CVE-2025-51864](https://github.com/Secsys-FDU/CVE-2025-51864) | no description | 2025-07-19T13:28:27Z |
 | [CVE-2025-51863](https://www.cve.org/CVERecord?id=CVE-2025-51863) | [Secsys-FDU/CVE-2025-51863](https://github.com/Secsys-FDU/CVE-2025-51863) | no description | 2025-07-19T13:21:18Z |
 | [CVE-2025-51862](https://www.cve.org/CVERecord?id=CVE-2025-51862) | [Secsys-FDU/CVE-2025-51862](https://github.com/Secsys-FDU/CVE-2025-51862) | no description | 2025-07-19T12:19:32Z |
 | [CVE-2025-51860](https://www.cve.org/CVERecord?id=CVE-2025-51860) | [Secsys-FDU/CVE-2025-51860](https://github.com/Secsys-FDU/CVE-2025-51860) | no description | 2025-07-19T09:15:56Z |
@@ -277,6 +284,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2025-4172026](https://www.cve.org/CVERecord?id=CVE-2025-4172026) | [NotItsSixtyN3in/CVE-2025-4172026](https://github.com/NotItsSixtyN3in/CVE-2025-4172026) | no description | 2025-04-17T15:25:31Z |
 | [CVE-2025-4172025](https://www.cve.org/CVERecord?id=CVE-2025-4172025) | [NotItsSixtyN3in/CVE-2025-4172025](https://github.com/NotItsSixtyN3in/CVE-2025-4172025) | no description | 2025-04-17T15:36:50Z |
 | [CVE-2025-41646](https://www.cve.org/CVERecord?id=CVE-2025-41646) | [GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-](https://github.com/GreenForceNetwork/CVE-2025-41646---Critical-Authentication-Bypass-) | CVE-2025-41646 - Critical Authentication bypass | 2025-07-04T07:31:34Z |
+| [CVE-2025-41646](https://www.cve.org/CVERecord?id=CVE-2025-41646) | [r0otk3r/CVE-2025-41646](https://github.com/r0otk3r/CVE-2025-41646) | no description | 2025-07-19T14:59:29Z |
 | [CVE-2025-4162030](https://www.cve.org/CVERecord?id=CVE-2025-4162030) | [NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030) | no description | 2025-04-16T20:41:14Z |
 | [CVE-2025-4162029](https://www.cve.org/CVERecord?id=CVE-2025-4162029) | [NotItsSixtyN3in/CVE-2025-4162029](https://github.com/NotItsSixtyN3in/CVE-2025-4162029) | no description | 2025-04-16T20:39:56Z |
 | [CVE-2025-4162028](https://www.cve.org/CVERecord?id=CVE-2025-4162028) | [NotItsSixtyN3in/CVE-2025-4162028](https://github.com/NotItsSixtyN3in/CVE-2025-4162028) | no description | 2025-04-16T20:39:14Z |
@@ -496,6 +504,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [0xgh057r3c0n/CVE-2025-31161](https://github.com/0xgh057r3c0n/CVE-2025-31161) | 🛡️ CVE-2025-31161 - CrushFTP User Creation Authentication Bypass Exploit | 2025-05-23T21:04:20Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [B1ack4sh/Blackash-CVE-2025-31161](https://github.com/B1ack4sh/Blackash-CVE-2025-31161) | CVE-2025-31161 | 2025-06-06T09:14:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [ibrahmsql/CVE-2025-31161](https://github.com/ibrahmsql/CVE-2025-31161) | CrushFTP 11.3.1 - Authentication Bypass | 2025-06-15T10:35:40Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [r0otk3r/CVE-2025-31161](https://github.com/r0otk3r/CVE-2025-31161) | no description | 2025-07-19T18:31:42Z |
 | [CVE-2025-31137](https://www.cve.org/CVERecord?id=CVE-2025-31137) | [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-) | no description | 2025-04-23T10:37:35Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [B1ack4sh/Blackash-CVE-2025-31131](https://github.com/B1ack4sh/Blackash-CVE-2025-31131) | CVE-2025-31131 | 2025-06-07T09:18:08Z |
@@ -867,6 +876,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [yaleman/cve-2025-24813-poc](https://github.com/yaleman/cve-2025-24813-poc) | no description | 2025-07-03T00:31:30Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [GongWook/CVE-2025-24813](https://github.com/GongWook/CVE-2025-24813) | POC | 2025-07-07T07:17:31Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC](https://github.com/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC) | Proof of Concept for CVE-2025-24813, a Remote Code Execution vulnerability in Apache Tomcat. This PoC exploits unsafe deserialization via crafted session files uploaded through HTTP PUT requests, allowing attackers to execute arbitrary code remotely on vulnerable Tomcat servers. | 2025-07-12T02:40:44Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [x00byte/PutScanner](https://github.com/x00byte/PutScanner) | A tool that identifies writable web directories in Apache Tomcat via HTTP PUT method [CVE-2025-24813] | 2025-07-19T14:41:16Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801) | no description | 2025-04-19T01:59:30Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801) | CVE-2025-24801 Exploit | 2025-05-05T23:22:18Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
@@ -1472,6 +1482,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2024-55511](https://www.cve.org/CVERecord?id=CVE-2024-55511) | [nikosecurity/CVE-2024-55511](https://github.com/nikosecurity/CVE-2024-55511) | A null pointer dereference vulnerability in Macrium Reflect prior to 8.1.8017 allows a local attacker to cause a system crash or potentially elevate their privileges via executing a specially crafted executable. | 2025-01-20T18:23:10Z |
 | [CVE-2024-55504](https://www.cve.org/CVERecord?id=CVE-2024-55504) | [SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504) | CVE-2024-55504 | 2025-01-19T01:58:38Z |
 | [CVE-2024-55503](https://www.cve.org/CVERecord?id=CVE-2024-55503) | [SyFi/CVE-2024-55503](https://github.com/SyFi/CVE-2024-55503) | no description | 2024-12-05T21:48:21Z |
+| [CVE-2024-55466](https://www.cve.org/CVERecord?id=CVE-2024-55466) | [cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466](https://github.com/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466) | no description | 2025-05-12T17:48:47Z |
 | [CVE-2024-55457](https://www.cve.org/CVERecord?id=CVE-2024-55457) | [h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC) | no description | 2025-01-05T09:07:46Z |
 | [CVE-2024-5535](https://www.cve.org/CVERecord?id=CVE-2024-5535) | [websecnl/CVE-2024-5535](https://github.com/websecnl/CVE-2024-5535) | PoC - OpenSSL NPN Buffer Overread | 2025-03-15T17:00:42Z |
 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) | [sahil3276/CVE-2024-55347](https://github.com/sahil3276/CVE-2024-55347) | Public Disclosure of CVE-2024-55347 | 2025-02-11T06:11:26Z |
@@ -2671,6 +2682,7 @@ Last generated: 2025-08-05 03:03:44.050181
 | [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [fuhei/CVE-2024-31317](https://github.com/fuhei/CVE-2024-31317) | CVE-2024-31317 | 2024-12-05T01:36:59Z |
 | [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [jmywh1/CVE-2024-31317](https://github.com/jmywh1/CVE-2024-31317) | no description | 2025-03-17T04:05:31Z |
 | [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [mianliupindao/CVE-2024-31317-PoC-Deployer](https://github.com/mianliupindao/CVE-2024-31317-PoC-Deployer) | no description | 2025-04-21T18:58:31Z |
+| [CVE-2024-31317](https://www.cve.org/CVERecord?id=CVE-2024-31317) | [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit) | A command-line utility to exploit Android Zygote injection (CVE-2024-31317) | 2025-04-17T16:20:00Z |
 | [CVE-2024-31211](https://www.cve.org/CVERecord?id=CVE-2024-31211) | [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211) | no description | 2024-08-03T19:26:55Z |
 | [CVE-2024-31210](https://www.cve.org/CVERecord?id=CVE-2024-31210) | [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210) | This Ruby script checks if a given WordPress site is vulnerable to CVE-2024-31210, which allows administrator-level users on single-site installations and Super Admin-level users on Multisite installations to execute arbitrary PHP code via the plugin upload mechanism. | 2024-06-13T00:24:56Z |
 | [CVE-2024-3116](https://www.cve.org/CVERecord?id=CVE-2024-3116) | [TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4](https://github.com/TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4) | Making a lab and testing the CVE-2024-3116, a Remote Code Execution in pgadmin &lt;=8.4 | 2024-04-07T23:03:55Z |
