@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-06 03:01:58.150150
+Last generated: 2025-08-07 03:02:03.879113
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -105,6 +105,9 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2025-51860](https://www.cve.org/CVERecord?id=CVE-2025-51860) | [Secsys-FDU/CVE-2025-51860](https://github.com/Secsys-FDU/CVE-2025-51860) | no description | 2025-07-19T09:15:56Z |
 | [CVE-2025-51859](https://www.cve.org/CVERecord?id=CVE-2025-51859) | [Secsys-FDU/CVE-2025-51859](https://github.com/Secsys-FDU/CVE-2025-51859) | no description | 2025-07-19T09:03:43Z |
 | [CVE-2025-51858](https://www.cve.org/CVERecord?id=CVE-2025-51858) | [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858) | no description | 2025-07-19T08:22:54Z |
+| [CVE-2025-51403](https://www.cve.org/CVERecord?id=CVE-2025-51403) | [Thewhiteevil/CVE-2025-51403](https://github.com/Thewhiteevil/CVE-2025-51403) | LiveHelperChat &lt;=4.61 - Stored Cross Site Scripting (XSS) via Department Assignment Alias Nick Field | 2025-07-20T08:59:24Z |
+| [CVE-2025-51401](https://www.cve.org/CVERecord?id=CVE-2025-51401) | [Thewhiteevil/CVE-2025-51401](https://github.com/Thewhiteevil/CVE-2025-51401) | LiveHelperChat &lt;=4.61 - Stored Cross Site Scripting (XSS) via Operator Chat Name Field Triggers on Chat Owner Transfer | 2025-07-20T08:51:58Z |
+| [CVE-2025-51397](https://www.cve.org/CVERecord?id=CVE-2025-51397) | [Thewhiteevil/CVE-2025-51397](https://github.com/Thewhiteevil/CVE-2025-51397) | LiveHelperChat &lt;=4.61 - Stored Cross Site Scripting (XSS) via Operator Surname | 2025-07-20T08:35:08Z |
 | [CVE-2025-51046](https://www.cve.org/CVERecord?id=CVE-2025-51046) | [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046) | PoC and technical advisory for CVE-2025-51046 – An unauthenticated RCE vulnerability in SourceCodester Online Student Clearance System 1.0 caused by improper file upload validation in edit-photo.php. | 2025-06-25T17:44:20Z |
 | [CVE-2025-50716](https://www.cve.org/CVERecord?id=CVE-2025-50716) | [MooseLoveti/realestate-php-cve-report](https://github.com/MooseLoveti/realestate-php-cve-report) | Disclosure for CVE-2025-50716 to CVE-2025-50721 | 2025-07-17T05:17:16Z |
 | [CVE-2025-5058](https://www.cve.org/CVERecord?id=CVE-2025-5058) | [d0n601/CVE-2025-5058](https://github.com/d0n601/CVE-2025-5058) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Upload via set_image Task | 2025-05-21T18:30:01Z |
@@ -147,6 +150,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113) | no description | 2025-06-18T19:10:00Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner) | A powerful Python scanner to detect CVE-2025-49113 vulnerability in Roundcube Webmail. Developed by Issam Junior (@issamiso). | 2025-06-22T16:13:40Z |
 | [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [Joelp03/CVE-2025-49113](https://github.com/Joelp03/CVE-2025-49113) | no description | 2025-07-18T00:36:34Z |
+| [CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113) | [00xCanelo/CVE-2025-49113](https://github.com/00xCanelo/CVE-2025-49113) | 💥 Python Exploit for CVE-2025-49113 - Roundcube Webmail RCE via PHP Object Injection | 2025-07-19T22:35:27Z |
 | [CVE-2025-49029](https://www.cve.org/CVERecord?id=CVE-2025-49029) | [Nxploited/CVE-2025-49029](https://github.com/Nxploited/CVE-2025-49029) | WordPress Custom Login And Signup Widget Plugin &lt;= 1.0 is vulnerable to Arbitrary Code Execution | 2025-07-01T15:54:44Z |
 | [CVE-2025-48988](https://www.cve.org/CVERecord?id=CVE-2025-48988) | [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976) | no description | 2025-06-20T09:15:36Z |
 | [CVE-2025-48976](https://www.cve.org/CVERecord?id=CVE-2025-48976) | [nankuo/CVE-2025-48976_CVE-2025-48988](https://github.com/nankuo/CVE-2025-48976_CVE-2025-48988) | CVE-2025-48976_CVE-2025-48988 | 2025-06-23T05:41:22Z |
@@ -735,6 +739,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC) | CVE-2025-27591 is a privilege escalation vulnerability that affected the Below service before version 0.9.0 | 2025-07-13T08:41:06Z |
 | [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [alialucas7/CVE-2025-27591_PoC](https://github.com/alialucas7/CVE-2025-27591_PoC) | no description | 2025-07-16T22:31:16Z |
 | [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC) | A Proof of Concept for CVE-2025-27591, a local privilege escalation in Below &lt; v0.9.0 | 2025-07-18T03:26:31Z |
+| [CVE-2025-27591](https://www.cve.org/CVERecord?id=CVE-2025-27591) | [Thekin-ctrl/CVE-2025-27591-Below](https://github.com/Thekin-ctrl/CVE-2025-27591-Below) | no description | 2025-07-20T04:33:59Z |
 | [CVE-2025-27590](https://www.cve.org/CVERecord?id=CVE-2025-27590) | [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590) | no description | 2025-05-31T13:39:00Z |
 | [CVE-2025-27580](https://www.cve.org/CVERecord?id=CVE-2025-27580) | [TrustStackSecurity/CVE-2025-27580](https://github.com/TrustStackSecurity/CVE-2025-27580) | Exploit for CVE-2025-27580: A predictable token vulnerability in NIH BRICS through 14.0.0-67 allows unauthenticated users with a Common Access Card (CAC) to escalate privileges and compromise any account, including administrators. | 2025-06-06T14:23:59Z |
 | [CVE-2025-27558](https://www.cve.org/CVERecord?id=CVE-2025-27558) | [Atlas-ghostshell/CVE-2025-27558_Patching](https://github.com/Atlas-ghostshell/CVE-2025-27558_Patching) | Patching CVE-2025-27558 vulnerability that had affected my linux image. | 2025-06-25T10:25:16Z |
@@ -3362,6 +3367,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652) | no description | 2024-03-01T09:50:00Z |
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [shkch02/cve_2024_23652](https://github.com/shkch02/cve_2024_23652) | no description | 2025-04-14T10:00:43Z |
 | [CVE-2024-23651](https://www.cve.org/CVERecord?id=CVE-2024-23651) | [shkch02/cve_2024_23651](https://github.com/shkch02/cve_2024_23651) | no description | 2025-04-07T10:53:32Z |
+| [CVE-2024-23651](https://www.cve.org/CVERecord?id=CVE-2024-23651) | [shkch02/eBPF_cve_2024_23651](https://github.com/shkch02/eBPF_cve_2024_23651) | no description | 2025-05-13T10:24:02Z |
 | [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346) | This repository contains a Crystallographic Information File (CIF) intended for use on the &quot;Chemistry&quot; machine on Hack The Box (HTB). | 2024-11-05T14:27:06Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [MAWK0235/CVE-2024-23346](https://github.com/MAWK0235/CVE-2024-23346) | This is an exploit for CVE-2024-23346 that acts as a &quot;terminal&quot; (tested on chemistry.htb) | 2024-12-09T22:34:44Z |
@@ -6231,6 +6237,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc) | no description | 2022-09-30T16:43:28Z |
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc) | Modified for GLPI Offsec Lab: call_user_func, array_map, passthru | 2024-08-25T19:32:59Z |
 | [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [btar1gan/exploit_CVE-2022-35914](https://github.com/btar1gan/exploit_CVE-2022-35914) | no description | 2024-09-20T19:28:27Z |
+| [CVE-2022-35914](https://www.cve.org/CVERecord?id=CVE-2022-35914) | [senderend/CVE-2022-35914](https://github.com/senderend/CVE-2022-35914) | PoC exploit for GLPI - Command injection using a third-party library script | 2024-04-24T06:39:10Z |
 | [CVE-2022-3590](https://www.cve.org/CVERecord?id=CVE-2022-3590) | [hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner) | This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature. | 2023-06-12T13:06:54Z |
 | [CVE-2022-3590](https://www.cve.org/CVERecord?id=CVE-2022-3590) | [huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner) | no description | 2024-08-08T03:02:05Z |
 | [CVE-2022-35869](https://www.cve.org/CVERecord?id=CVE-2022-35869) | [at4111/CVE_2022_35869](https://github.com/at4111/CVE_2022_35869) | no description | 2024-03-27T16:04:26Z |
@@ -6438,6 +6445,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [BearClaw96/CVE-2022-22963-Poc-Bearcules](https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules) | This is a POC for CVE-2022-22963 | 2023-10-28T21:42:38Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [jrbH4CK/CVE-2022-22963](https://github.com/jrbH4CK/CVE-2022-22963) | no description | 2024-05-08T04:25:29Z |
 | [CVE-2022-22954](https://www.cve.org/CVERecord?id=CVE-2022-22954) | [tunelko/CVE-2022-22954-PoC](https://github.com/tunelko/CVE-2022-22954-PoC) | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual. | 2022-04-13T08:52:15Z |
+| [CVE-2022-22954](https://www.cve.org/CVERecord?id=CVE-2022-22954) | [corelight/cve-2022-22954](https://github.com/corelight/cve-2022-22954) | no description | 2022-04-12T18:08:58Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [PenteraIO/CVE-2022-22948](https://github.com/PenteraIO/CVE-2022-22948) | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | 2021-10-17T09:59:20Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc) | SnakeYAML-CVE-2022-1471-POC | 2023-05-08T14:46:22Z |
 | [CVE-2022-22948](https://www.cve.org/CVERecord?id=CVE-2022-22948) | [Henryisnotavailable/Dompdf-Exploit-RCE](https://github.com/Henryisnotavailable/Dompdf-Exploit-RCE) | An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine | 2023-05-07T14:49:38Z |
@@ -6862,6 +6870,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [evkl1d/CVE-2021-4034](https://github.com/evkl1d/CVE-2021-4034) | polkit | 2024-07-01T08:04:29Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Typical0day/CVE-2021-4034](https://github.com/Typical0day/CVE-2021-4034) | no description | 2024-07-04T02:33:57Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [zxybfq/CVE-2021-4034](https://github.com/zxybfq/CVE-2021-4034) | no description | 2024-08-27T02:39:10Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [EuJin03/CVE-2021-4034-PoC](https://github.com/EuJin03/CVE-2021-4034-PoC) | no description | 2024-10-04T12:33:59Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -7514,6 +7523,7 @@ Last generated: 2025-08-06 03:01:58.150150
 | [CVE-2020-0022](https://www.cve.org/CVERecord?id=CVE-2020-0022) | [k3vinlusec/Bluefrag_CVE-2020-0022](https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022) | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | 2020-07-01T00:23:33Z |
 | [CVE-2020-0022](https://www.cve.org/CVERecord?id=CVE-2020-0022) | [404notf0und/CVE-Flow](https://github.com/404notf0und/CVE-Flow) | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | 2020-06-15T14:56:18Z |
 | [CVE-2020-0022](https://www.cve.org/CVERecord?id=CVE-2020-0022) | [w1ld3r/SMBGhost_Scanner](https://github.com/w1ld3r/SMBGhost_Scanner) | Advanced scanner for CVE-2020-0796 - SMBv3 RCE | 2020-03-14T02:07:16Z |
+| [CVE-2020-0022](https://www.cve.org/CVERecord?id=CVE-2020-0022) | [themmokhtar/CVE-2020-0022](https://github.com/themmokhtar/CVE-2020-0022) | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | 2023-08-28T09:20:38Z |
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [grimlockx/CVE-2019-9978](https://github.com/grimlockx/CVE-2019-9978) | Remote Code Execution in Social Warfare Plugin before 3.5.3 for Wordpress. | 2023-01-20T16:29:18Z |
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [d3fudd/CVE-2019-9978_Exploit](https://github.com/d3fudd/CVE-2019-9978_Exploit) | Social WarFare Plugin (&lt;=3.5.2) Remote Code Execution | 2022-11-15T01:22:38Z |
 | [CVE-2019-9978](https://www.cve.org/CVERecord?id=CVE-2019-9978) | [GgKendall/secureCodingDemo](https://github.com/GgKendall/secureCodingDemo) | fall2022 secure coding CVE-2019-13272 : Linux Kernel Improper Privilege Management Vulnerability | 2022-11-14T00:07:04Z |
