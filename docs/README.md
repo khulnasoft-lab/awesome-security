@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-14 02:48:42.417516
+Last generated: 2025-08-15 02:50:01.827818
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -87,6 +87,8 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2025-5701](https://www.cve.org/CVERecord?id=CVE-2025-5701) | [RandomRobbieBF/CVE-2025-5701](https://github.com/RandomRobbieBF/CVE-2025-5701) | HyperComments &lt;= 1.2.2 - Unauthenticated (Subscriber+) Arbitrary Options Update | 2025-06-12T08:27:35Z |
 | [CVE-2025-5640](https://www.cve.org/CVERecord?id=CVE-2025-5640) | [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-) | no description | 2025-06-21T11:52:01Z |
 | [CVE-2025-54554](https://www.cve.org/CVERecord?id=CVE-2025-54554) | [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554) | CVE-2025-54554 – Unauthenticated Access in tiaudit REST API leading to Sensitive Information Disclosure | 2025-07-25T15:36:07Z |
+| [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [ShinP451/scavenger_scanner](https://github.com/ShinP451/scavenger_scanner) | Detect CVE-2025-54313 eslint-config-prettier supply chain attack IOCs on Windows | 2025-07-26T22:45:15Z |
+| [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313) | Checks projects for compromised packages, suspicious files, and import statements. | 2025-07-26T11:32:20Z |
 | [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [issamjr/CVE-2025-54309-EXPLOIT](https://github.com/issamjr/CVE-2025-54309-EXPLOIT) | CrushFTP Unauthenticated Remote Command Execution Exploit | 2025-07-26T14:51:15Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
 | [CVE-2025-53964](https://www.cve.org/CVERecord?id=CVE-2025-53964) | [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964) | no description | 2025-07-16T21:35:19Z |
@@ -112,6 +114,7 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE) | Exploit &amp; research for CVE‑2025‑53770 – a zero‑day remote code execution vulnerability in Microsoft SharePoint (on‑premises). | 2025-07-25T20:43:13Z |
 | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [a-hydrae/ToolShell-Honeypot](https://github.com/a-hydrae/ToolShell-Honeypot) | Honeypot for CVE-2025-53770 aka ToolShell | 2025-07-22T13:44:24Z |
 | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit) | SharePoint WebPart Injection Exploit Tool | 2025-07-21T13:48:37Z |
+| [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE](https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE) | An activity  to train analysis skills and reporting | 2025-07-27T13:58:48Z |
 | [CVE-2025-53652](https://www.cve.org/CVERecord?id=CVE-2025-53652) | [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis) | CVE-2025-53652: Jenkins Git Parameter Analysis | 2025-07-25T13:10:17Z |
 | [CVE-2025-53640](https://www.cve.org/CVERecord?id=CVE-2025-53640) | [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640) | Broken Object Level Authorization (BOLA) in CERN&#x27;s Indico leads to authenticated user enumeration. | 2025-07-19T12:57:38Z |
 | [CVE-2025-53547](https://www.cve.org/CVERecord?id=CVE-2025-53547) | [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC) | CVE-2025-53547 one of poc code | 2025-07-09T09:03:47Z |
@@ -1518,6 +1521,8 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2024-56512](https://www.cve.org/CVERecord?id=CVE-2024-56512) | [absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit) | A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs. | 2025-01-06T17:35:33Z |
 | [CVE-2024-56433](https://www.cve.org/CVERecord?id=CVE-2024-56433) | [JonnyWhatshisface/CVE-2024-56433](https://github.com/JonnyWhatshisface/CVE-2024-56433) | CVE-2024-56433 - shadow-utils Default subordinate ID for local users creates risk of collision | 2025-01-03T13:11:25Z |
 | [CVE-2024-56431](https://www.cve.org/CVERecord?id=CVE-2024-56431) | [UnionTech-Software/libtheora-CVE-2024-56431-PoC](https://github.com/UnionTech-Software/libtheora-CVE-2024-56431-PoC) | no description | 2024-12-25T03:58:50Z |
+| [CVE-2024-56429](https://www.cve.org/CVERecord?id=CVE-2024-56429) | [lisa-2905/CVE-2024-56429](https://github.com/lisa-2905/CVE-2024-56429) | no description | 2025-05-21T06:54:02Z |
+| [CVE-2024-56428](https://www.cve.org/CVERecord?id=CVE-2024-56428) | [lisa-2905/CVE-2024-56428](https://github.com/lisa-2905/CVE-2024-56428) | no description | 2025-05-21T07:52:06Z |
 | [CVE-2024-56340](https://www.cve.org/CVERecord?id=CVE-2024-56340) | [MarioTesoro/CVE-2024-56340](https://github.com/MarioTesoro/CVE-2024-56340) | IBM Cognos Analytics Path Traversal,  Poc of CVE-2024-56340 | 2025-03-01T10:23:34Z |
 | [CVE-2024-56331](https://www.cve.org/CVERecord?id=CVE-2024-56331) | [griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331) | no description | 2024-11-25T08:16:38Z |
 | [CVE-2024-5633](https://www.cve.org/CVERecord?id=CVE-2024-5633) | [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633) | PoC for CVE-2024-5633 | 2024-07-21T20:27:24Z |
@@ -6506,6 +6511,7 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2022-23131](https://www.cve.org/CVERecord?id=CVE-2022-23131) | [r10lab/CVE-2022-23131](https://github.com/r10lab/CVE-2022-23131) | no description | 2023-10-24T08:11:06Z |
 | [CVE-2022-23131](https://www.cve.org/CVERecord?id=CVE-2022-23131) | [Mr-xn/cve-2022-23131](https://github.com/Mr-xn/cve-2022-23131) | cve-2022-23131 zabbix-saml-bypass-exp | 2022-02-18T11:51:47Z |
 | [CVE-2022-23131](https://www.cve.org/CVERecord?id=CVE-2022-23131) | [fork-bombed/CVE-2022-23131](https://github.com/fork-bombed/CVE-2022-23131) | CVE-2022-23131 Zabbix Server SAML authentication exploit | 2024-09-18T15:42:26Z |
+| [CVE-2022-23131](https://www.cve.org/CVERecord?id=CVE-2022-23131) | [davidzzo23/CVE-2022-23131](https://github.com/davidzzo23/CVE-2022-23131) | Zabbix Frontend Authentication Bypass Vulnerability | 2024-10-25T13:44:21Z |
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Inplex-sys/CVE-2022-23093](https://github.com/Inplex-sys/CVE-2022-23093) | The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc | 2023-03-02T20:18:54Z |
 | [CVE-2022-23093](https://www.cve.org/CVERecord?id=CVE-2022-23093) | [Symbolexe/DrayTek-Exploit](https://github.com/Symbolexe/DrayTek-Exploit) | CVE-2022-23093 FreeBSD Stack-Based Overflow | 2024-03-22T08:38:40Z |
 | [CVE-2022-22978](https://www.cve.org/CVERecord?id=CVE-2022-22978) | [Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978) | no description | 2023-03-16T09:34:17Z |
@@ -6797,6 +6803,7 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [asd58584388/CVE-2021-44228](https://github.com/asd58584388/CVE-2021-44228) | CVE-2021-44228 vulnerability study | 2024-07-26T19:59:47Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [OtisSymbos/CVE-2021-44228-Log4Shell-](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-) | no description | 2024-09-11T01:13:35Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [safeer-accuknox/log4j-shell-poc](https://github.com/safeer-accuknox/log4j-shell-poc) | Log4J exploit CVE-2021-44228 | 2024-09-11T05:06:50Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [Carlos-Mesquita/TPASLog4ShellPoC](https://github.com/Carlos-Mesquita/TPASLog4ShellPoC) | Proof of Concept for the Log4Shell vulnerability (CVE-2021-44228), developed as part of the coursework for the curricular unit TPAS in the Master&#x27;s degree in Information Security at FCUP. | 2024-10-08T18:07:21Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
@@ -7897,6 +7904,7 @@ Last generated: 2025-08-14 02:48:42.417516
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [asepsaepdin/CVE-2019-13272](https://github.com/asepsaepdin/CVE-2019-13272) | no description | 2023-09-04T15:16:09Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [WizzzStark/CVE-2019-12840.py](https://github.com/WizzzStark/CVE-2019-12840.py) | POC: CVE-2019-12840 (Authenticated RCE - Webmin Package Updates) | 2021-10-05T18:10:05Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [zAbuQasem/CVE-2019-12840](https://github.com/zAbuQasem/CVE-2019-12840) | CVE-2019-12840 | 2021-03-30T17:32:30Z |
+| [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [Pol-Ruiz/PoC-CVE-2019-12840](https://github.com/Pol-Ruiz/PoC-CVE-2019-12840) | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2019-12840 la qual te da un RCE en root | 2024-01-25T23:07:28Z |
 | [CVE-2019-12836](https://www.cve.org/CVERecord?id=CVE-2019-12836) | [9lyph/CVE-2019-12836](https://github.com/9lyph/CVE-2019-12836) | CVE-2019-12836 | 2019-06-16T04:41:29Z |
 | [CVE-2019-12814](https://www.cve.org/CVERecord?id=CVE-2019-12814) | [Al1ex/CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814) | CVE-2019-12814:Jackson JDOM XSLTransformer Gadget | 2020-05-24T04:33:55Z |
 | [CVE-2019-12744](https://www.cve.org/CVERecord?id=CVE-2019-12744) | [nobodyatall648/CVE-2019-12744](https://github.com/nobodyatall648/CVE-2019-12744) | Remote Command Execution through Unvalidated File Upload in SeedDMS versions &lt;5.1.11 | 2021-06-24T12:58:02Z |
