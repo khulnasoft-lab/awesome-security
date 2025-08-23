@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-22 02:37:42.735699
+Last generated: 2025-08-23 02:24:14.730362
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -99,8 +99,10 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313) | Checks projects for compromised packages, suspicious files, and import statements. | 2025-07-26T11:32:20Z |
 | [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [issamjr/CVE-2025-54309-EXPLOIT](https://github.com/issamjr/CVE-2025-54309-EXPLOIT) | CrushFTP Unauthenticated Remote Command Execution Exploit | 2025-07-26T14:51:15Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
+| [CVE-2025-54135](https://www.cve.org/CVERecord?id=CVE-2025-54135) | [anntsmart/CVE-2025-54135](https://github.com/anntsmart/CVE-2025-54135) | no description | 2025-08-04T09:56:12Z |
 | [CVE-2025-53964](https://www.cve.org/CVERecord?id=CVE-2025-53964) | [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964) | no description | 2025-07-16T21:35:19Z |
 | [CVE-2025-5394](https://www.cve.org/CVERecord?id=CVE-2025-5394) | [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394) | CVE‑2025‑5394 WP Alone ≤ 7.8.3 | 2025-07-31T15:26:39Z |
+| [CVE-2025-5394](https://www.cve.org/CVERecord?id=CVE-2025-5394) | [Yucaerin/CVE-2025-5394](https://github.com/Yucaerin/CVE-2025-5394) | Alone – Charity Multipurpose Non-profit WordPress Theme &lt;= 7.8.3 - Missing Authorization to Unauthenticated Arbitrary File Upload via Plugin Installation | 2025-08-02T20:01:25Z |
 | [CVE-2025-53833](https://www.cve.org/CVERecord?id=CVE-2025-53833) | [B1ack4sh/Blackash-CVE-2025-53833](https://github.com/B1ack4sh/Blackash-CVE-2025-53833) | CVE-2025-53833 | 2025-07-15T11:31:29Z |
 | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [siag-itsec/CVE-2025-53770-Hunting](https://github.com/siag-itsec/CVE-2025-53770-Hunting) | Hunting for Critical SharePoint Vulnerability CVE-2025-53770 | 2025-07-21T16:29:53Z |
 | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770) | [kaizensecurity/CVE-2025-53770](https://github.com/kaizensecurity/CVE-2025-53770) | POC | 2025-07-21T06:39:21Z |
@@ -268,6 +270,8 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [IK-20211125/CVE-2025-48384](https://github.com/IK-20211125/CVE-2025-48384) | CVE-2025-48384 PoC | 2025-07-20T14:18:30Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [elprogramadorgt/CVE-2025-48384](https://github.com/elprogramadorgt/CVE-2025-48384) | no description | 2025-07-25T02:35:31Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [f1shh/CVE-2025-48384](https://github.com/f1shh/CVE-2025-48384) | test for CVE-2025-48384 | 2025-08-01T05:20:18Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384) | PoC for CVE-2025-48384 | 2025-08-03T03:29:29Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [fluoworite/CVE-2025-48384-sub](https://github.com/fluoworite/CVE-2025-48384-sub) | no description | 2025-08-03T03:29:47Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917) | [byteReaper77/CVE-2025-47917](https://github.com/byteReaper77/CVE-2025-47917) | PoC exploit for CVE-2025-47917: Use-After-Free in mbedTLS leading to remote code execution. | 2025-07-22T00:34:25Z |
@@ -327,6 +331,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2025-46099](https://www.cve.org/CVERecord?id=CVE-2025-46099) | [0xC4J/CVE-Lists](https://github.com/0xC4J/CVE-Lists) | CVE-2025-46099 | 2025-07-18T19:03:52Z |
 | [CVE-2025-46080](https://www.cve.org/CVERecord?id=CVE-2025-46080) | [yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080) | Details | 2025-04-16T08:29:18Z |
 | [CVE-2025-46078](https://www.cve.org/CVERecord?id=CVE-2025-46078) | [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078) | Vulnerability Description | 2025-04-15T13:01:32Z |
+| [CVE-2025-4606](https://www.cve.org/CVERecord?id=CVE-2025-4606) | [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606) | Sala - Startup &amp; SaaS WordPress Theme &lt;= 1.1.4 - Unauthenticated Privilege Escalation via Password Reset/Account Takeover | 2025-08-02T19:14:09Z |
 | [CVE-2025-46047](https://www.cve.org/CVERecord?id=CVE-2025-46047) | [J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047) | PoC for Silverpeas &lt;= 6.4.2 Username Enumeration | 2025-04-14T10:51:21Z |
 | [CVE-2025-46041](https://www.cve.org/CVERecord?id=CVE-2025-46041) | [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041) | no description | 2025-06-08T11:35:33Z |
 | [CVE-2025-4603](https://www.cve.org/CVERecord?id=CVE-2025-4603) | [d0n601/CVE-2025-4603](https://github.com/d0n601/CVE-2025-4603) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Deletion | 2025-05-12T19:34:30Z |
@@ -967,6 +972,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2025-24963](https://www.cve.org/CVERecord?id=CVE-2025-24963) | [0xdeviner/CVE-2025-24963](https://github.com/0xdeviner/CVE-2025-24963) | no description | 2025-04-23T08:01:49Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC) | XWiki SolrSearchMacros 远程代码执行漏洞PoC（CVE-2025-24893） | 2025-02-25T07:11:51Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Artemir7/CVE-2025-24893-EXP](https://github.com/Artemir7/CVE-2025-24893-EXP) | no description | 2025-05-05T04:10:48Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [nopgadget/CVE-2025-24893](https://github.com/nopgadget/CVE-2025-24893) | no description | 2025-08-02T20:26:02Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat) | Nuclei Template CVE-2025–24813 | 2025-03-17T22:39:38Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner) | CVE-2025-24813 - Apache Tomcat Vulnerability Scanner | 2025-03-17T03:58:34Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813) | CVE-2025-24813利用工具 | 2025-03-16T11:59:59Z |
@@ -4103,6 +4109,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2023-6275](https://www.cve.org/CVERecord?id=CVE-2023-6275) | [erickfernandox/CVE-2023-6275](https://github.com/erickfernandox/CVE-2023-6275) | Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1 | 2024-09-04T02:33:46Z |
 | [CVE-2023-6246](https://www.cve.org/CVERecord?id=CVE-2023-6246) | [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246) | no description | 2024-03-02T15:45:52Z |
 | [CVE-2023-6241](https://www.cve.org/CVERecord?id=CVE-2023-6241) | [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241) | CVE-2023-6241 for Pixel 8 | 2024-05-02T02:17:31Z |
+| [CVE-2023-6241](https://www.cve.org/CVERecord?id=CVE-2023-6241) | [ilGobbo00/CVE-2023-6241-Pixel7_Adaptation](https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation) | Adaptation of CVE-2023-6241 for Google Pixel 7 from Google Pixel 8 taken from securitylab/SecurityExploits/Android/Mali/CVE_2023_6241 | 2024-09-17T07:19:54Z |
 | [CVE-2023-6199](https://www.cve.org/CVERecord?id=CVE-2023-6199) | [AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199](https://github.com/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199) | A CLI to exploit parameters vulnerable to PHP filter chain error based oracle, modified to exploit CVE-2023-6199 | 2025-02-28T20:48:03Z |
 | [CVE-2023-6199](https://www.cve.org/CVERecord?id=CVE-2023-6199) | [4xura/php_filter_chain_oracle_poc](https://github.com/4xura/php_filter_chain_oracle_poc) | PoC scripts to exploit LFR (Local File Read) via PHP filters chain oracle (php://filter), especially for CTF purposes or the exploit of CVE-2023-6199, etc. This&#x27;s a one-script exploitation PoC modified from https://github.com/synacktiv/php_filter_chains_oracle_exploit | 2025-03-04T13:32:00Z |
 | [CVE-2023-6063](https://www.cve.org/CVERecord?id=CVE-2023-6063) | [motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC) | CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection) | 2023-11-15T14:53:03Z |
@@ -6233,6 +6240,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [0xN7y/CVE-2022-46169](https://github.com/0xN7y/CVE-2022-46169) | Exploit for CVE-2022-46169 | 2023-11-23T17:36:20Z |
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [mind2hex/CVE-2022-46169](https://github.com/mind2hex/CVE-2022-46169) | no description | 2024-03-28T19:23:56Z |
 | [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [HPT-Intern-Task-Submission/CVE-2022-46169](https://github.com/HPT-Intern-Task-Submission/CVE-2022-46169) | no description | 2024-06-12T08:24:30Z |
+| [CVE-2022-46169](https://www.cve.org/CVERecord?id=CVE-2022-46169) | [lof1sec/CVE-2022-46169](https://github.com/lof1sec/CVE-2022-46169) | Cacti v1.2.22: Unauthenticated Command Injection Vulnerability (CVE-2022-46169) | 2025-01-04T21:53:47Z |
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ahanel13/CVE-2022-4616-POC](https://github.com/ahanel13/CVE-2022-4616-POC) | This Python script aids in exploiting CVE-2022-46169 by automating payload delivery and response handling. It starts an HTTP server, listens for requests, and enables command input for real-time interaction with a vulnerable target. | 2023-05-12T01:20:15Z |
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner) | Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082 | 2022-10-07T08:10:00Z |
 | [CVE-2022-4616](https://www.cve.org/CVERecord?id=CVE-2022-4616) | [oppsec/WSOB](https://github.com/oppsec/WSOB) | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | 2022-04-24T18:25:26Z |
@@ -6341,6 +6349,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2022-42475](https://www.cve.org/CVERecord?id=CVE-2022-42475) | [scrt/cve-2022-42475](https://github.com/scrt/cve-2022-42475) | POC code to exploit the Heap overflow in Fortinet&#x27;s SSLVPN daemon | 2023-02-23T10:04:58Z |
 | [CVE-2022-42176](https://www.cve.org/CVERecord?id=CVE-2022-42176) | [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176) | no description | 2022-11-02T01:39:49Z |
 | [CVE-2022-42045](https://www.cve.org/CVERecord?id=CVE-2022-42045) | [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045) | no description | 2022-10-23T15:58:18Z |
+| [CVE-2022-41924](https://www.cve.org/CVERecord?id=CVE-2022-41924) | [oalieno/CVE-2022-41924](https://github.com/oalieno/CVE-2022-41924) | no description | 2025-01-04T16:40:35Z |
 | [CVE-2022-41876](https://www.cve.org/CVERecord?id=CVE-2022-41876) | [Skileau/CVE-2022-41876](https://github.com/Skileau/CVE-2022-41876) | PoC for CVE-2022-41876 | 2023-03-21T17:05:07Z |
 | [CVE-2022-41853](https://www.cve.org/CVERecord?id=CVE-2022-41853) | [mbadanoiu/CVE-2022-41853](https://github.com/mbadanoiu/CVE-2022-41853) | Research into CVE-2022-41853: Using static functions to obtian RCE via Java Deserialization &amp; Remote Codebase Attack | 2023-11-24T10:30:56Z |
 | [CVE-2022-41852](https://www.cve.org/CVERecord?id=CVE-2022-41852) | [xpectomas/CVE-2022-41852-Disable](https://github.com/xpectomas/CVE-2022-41852-Disable) | no description | 2024-09-12T05:43:31Z |
@@ -7109,6 +7118,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2021-38817](https://www.cve.org/CVERecord?id=CVE-2021-38817) | [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection) | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | 2021-08-15T02:15:54Z |
 | [CVE-2021-38647](https://www.cve.org/CVERecord?id=CVE-2021-38647) | [corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages) | no description | 2024-03-13T20:05:11Z |
 | [CVE-2021-38314](https://www.cve.org/CVERecord?id=CVE-2021-38314) | [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314) | Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin | 2023-04-28T17:03:27Z |
+| [CVE-2021-3831](https://www.cve.org/CVERecord?id=CVE-2021-3831) | [aratane/CVE-2021-3831](https://github.com/aratane/CVE-2021-3831) | Unauthenticated Sensitive Information Disclosure | 2024-07-20T09:36:51Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297) | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | 2023-11-15T20:52:36Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication) | no description | 2024-04-04T01:17:05Z |
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
@@ -7635,6 +7645,7 @@ Last generated: 2025-08-22 02:37:42.735699
 | [CVE-2020-11898](https://www.cve.org/CVERecord?id=CVE-2020-11898) | [SamuelGaudemer/POC_CVE-2020-11898](https://github.com/SamuelGaudemer/POC_CVE-2020-11898) | no description | 2022-06-09T13:42:01Z |
 | [CVE-2020-11890](https://www.cve.org/CVERecord?id=CVE-2020-11890) | [HoangKien1020/CVE-2020-11890](https://github.com/HoangKien1020/CVE-2020-11890) | CVE-2020-11890: Improper input validations in the usergroup table class could lead to a broken ACL configuration to RCE | 2020-04-22T06:42:50Z |
 | [CVE-2020-11652](https://www.cve.org/CVERecord?id=CVE-2020-11652) | [heikanet/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP) | CVE-2020-11651&amp;&amp;CVE-2020-11652 EXP | 2020-05-07T09:17:39Z |
+| [CVE-2020-11651](https://www.cve.org/CVERecord?id=CVE-2020-11651) | [hardsoftsecurity/CVE-2020-11651-PoC](https://github.com/hardsoftsecurity/CVE-2020-11651-PoC) | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | 2023-12-18T13:56:42Z |
 | [CVE-2020-11579](https://www.cve.org/CVERecord?id=CVE-2020-11579) | [ShielderSec/CVE-2020-11579](https://github.com/ShielderSec/CVE-2020-11579) | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | 2020-05-19T13:12:48Z |
 | [CVE-2020-11444](https://www.cve.org/CVERecord?id=CVE-2020-11444) | [CN016/Nexus-Repository-Manager-3-CVE-2020-11444-](https://github.com/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-) | Nexus Repository Manager 3 远程命令执行漏洞(CVE-2020-11444) | 2023-10-10T08:43:41Z |
 | [CVE-2020-11113](https://www.cve.org/CVERecord?id=CVE-2020-11113) | [Al1ex/CVE-2020-11113](https://github.com/Al1ex/CVE-2020-11113) | CVE-2020-11113:Jackson-databind RCE | 2020-05-21T14:00:33Z |
