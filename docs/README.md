@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-26 02:39:04.336769
+Last generated: 2025-08-27 02:24:34.919892
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-8517](https://www.cve.org/CVERecord?id=CVE-2025-8517) | [kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1](https://github.com/kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1) | CVE-2025-8517: Session Fixation in Vvveb CMS v1.0.6.1 | 2025-07-26T03:54:07Z |
 | [CVE-2025-8471](https://www.cve.org/CVERecord?id=CVE-2025-8471) | [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471) | Exploit SQL injection in  projectworlds Online Admissions System v1.0 | 2025-08-03T17:43:53Z |
 | [CVE-2025-8220](https://www.cve.org/CVERecord?id=CVE-2025-8220) | [m3m0o/engeman-web-language-combobox-sqli](https://github.com/m3m0o/engeman-web-language-combobox-sqli) | Proof of concept for exploitation of the vulnerability described in CVE-2025-8220, which concerns the possibility of SQL Injection during the password recovery page load in the Engeman Web software. | 2025-07-27T00:32:32Z |
 | [CVE-2025-8191](https://www.cve.org/CVERecord?id=CVE-2025-8191) | [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191) | A repository containing a PoC exploit for CVE‑2025‑8191 in Swagger UI, leveraging XSS injection to exfiltrate session cookies. | 2025-07-28T03:09:02Z |
@@ -97,7 +98,9 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2025-54589](https://www.cve.org/CVERecord?id=CVE-2025-54589) | [byteReaper77/CVE-2025-54589](https://github.com/byteReaper77/CVE-2025-54589) | PoC for CVE-2025-54589 – a reflected XSS vulnerability in Copyparty ≤ 1.18.6. | 2025-07-31T21:47:42Z |
 | [CVE-2025-54574](https://www.cve.org/CVERecord?id=CVE-2025-54574) | [B1ack4sh/Blackash-CVE-2025-54574](https://github.com/B1ack4sh/Blackash-CVE-2025-54574) | CVE-2025-54574 | 2025-08-04T14:59:51Z |
 | [CVE-2025-54554](https://www.cve.org/CVERecord?id=CVE-2025-54554) | [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554) | CVE-2025-54554 – Unauthenticated Access in tiaudit REST API leading to Sensitive Information Disclosure | 2025-07-25T15:36:07Z |
+| [CVE-2025-54424](https://www.cve.org/CVERecord?id=CVE-2025-54424) | [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424) | CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用) | 2025-08-04T13:24:47Z |
 | [CVE-2025-54381](https://www.cve.org/CVERecord?id=CVE-2025-54381) | [rockmelodies/bentoml_CVE-2025-54381](https://github.com/rockmelodies/bentoml_CVE-2025-54381) | Ai相关 | 2025-07-29T23:33:38Z |
+| [CVE-2025-54381](https://www.cve.org/CVERecord?id=CVE-2025-54381) | [B1ack4sh/Blackash-CVE-2025-54381](https://github.com/B1ack4sh/Blackash-CVE-2025-54381) | CVE-2025-54381 | 2025-08-04T18:50:04Z |
 | [CVE-2025-54352](https://www.cve.org/CVERecord?id=CVE-2025-54352) | [yohannslm/CVE-2025-54352](https://github.com/yohannslm/CVE-2025-54352) | CVE-2025-54352 PoC | 2025-07-28T13:22:02Z |
 | [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [ShinP451/scavenger_scanner](https://github.com/ShinP451/scavenger_scanner) | Detect CVE-2025-54313 eslint-config-prettier supply chain attack IOCs on Windows | 2025-07-26T22:45:15Z |
 | [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313) | Checks projects for compromised packages, suspicious files, and import statements. | 2025-07-26T11:32:20Z |
@@ -449,6 +452,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2025-34028](https://www.cve.org/CVERecord?id=CVE-2025-34028) | [Mattb709/CVE-2025-34028-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE) | Proof-of-Concept (PoC) for CVE-2025-34028, a Remote Code Execution vulnerability in Commvault Command Center. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts. | 2025-05-06T16:44:41Z |
 | [CVE-2025-33073](https://www.cve.org/CVERecord?id=CVE-2025-33073) | [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073) | PoC Exploit for the NTLM reflection SMB flaw. | 2025-06-13T12:15:14Z |
 | [CVE-2025-33073](https://www.cve.org/CVERecord?id=CVE-2025-33073) | [obscura-cert/CVE-2025-33073](https://github.com/obscura-cert/CVE-2025-33073) | no description | 2025-06-28T18:17:28Z |
+| [CVE-2025-33073](https://www.cve.org/CVERecord?id=CVE-2025-33073) | [matejsmycka/CVE-2025-33073-checker](https://github.com/matejsmycka/CVE-2025-33073-checker) | no description | 2025-07-31T09:34:55Z |
 | [CVE-2025-33053](https://www.cve.org/CVERecord?id=CVE-2025-33053) | [DevBuiHieu/CVE-2025-33053-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept) | CVE-2025-33053 Proof Of Concept (PoC) | 2025-06-12T06:48:55Z |
 | [CVE-2025-33053](https://www.cve.org/CVERecord?id=CVE-2025-33053) | [TheTorjanCaptain/CVE-2025-33053-Checker-PoC](https://github.com/TheTorjanCaptain/CVE-2025-33053-Checker-PoC) | CVE-2025-33053 Checker and PoC | 2025-06-18T10:08:45Z |
 | [CVE-2025-33053](https://www.cve.org/CVERecord?id=CVE-2025-33053) | [kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept](https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept) | Proof-of-Concept for CVE-2025-33053  Exploiting WebDAV with .url file delivery to demonstrate realistic remote code execution. Includes a decoy PDF payload and a video-only showcase of potential command-and-control capabilities. | 2025-06-18T19:39:41Z |
@@ -988,6 +992,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [hackersonsteroids/cve-2025-24893](https://github.com/hackersonsteroids/cve-2025-24893) | Modified exploit for CVE-2025-24893 | 2025-08-03T12:39:52Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [dhiaZnaidi/CVE-2025-24893-PoC](https://github.com/dhiaZnaidi/CVE-2025-24893-PoC) | no description | 2025-08-03T11:38:07Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC](https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC) | CVE-2025-24893 is a critical unauthenticated remote code execution vulnerability in XWiki (versions &lt; 15.10.11, 16.4.1, 16.5.0RC1) caused by improper handling of Groovy expressions in the SolrSearch macro. | 2025-08-04T16:50:28Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell) | Reverse Shell Payload for CVE-2025-24893 | 2025-08-03T14:54:49Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat) | Nuclei Template CVE-2025–24813 | 2025-03-17T22:39:38Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner) | CVE-2025-24813 - Apache Tomcat Vulnerability Scanner | 2025-03-17T03:58:34Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813) | CVE-2025-24813利用工具 | 2025-03-16T11:59:59Z |
@@ -2342,6 +2347,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [JenmrR/Node.js-CVE-2024-39943](https://github.com/JenmrR/Node.js-CVE-2024-39943) | no description | 2025-04-19T06:06:14Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929) | Detection method for Exim vulnerability CVE-2024-39929 | 2024-07-12T18:01:30Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929) | POC to test CVE-2024-39929 against EXIM mail servers | 2024-07-29T15:09:53Z |
+| [CVE-2024-39924](https://www.cve.org/CVERecord?id=CVE-2024-39924) | [l4rm4nd/PoC-CVE-2024-39924](https://github.com/l4rm4nd/PoC-CVE-2024-39924) | PoC for CVE-2024-39924 | 2025-06-02T16:05:07Z |
 | [CVE-2024-39914](https://www.cve.org/CVERecord?id=CVE-2024-39914) | [9874621368/FOG-Project](https://github.com/9874621368/FOG-Project) | FOG Project CVE-2024-39914 命令执行漏洞 | 2024-12-21T08:30:00Z |
 | [CVE-2024-39908](https://www.cve.org/CVERecord?id=CVE-2024-39908) | [SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908) | CVE-2024-39908 full poc | 2024-12-19T18:59:52Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
@@ -5796,6 +5802,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2023-26256](https://www.cve.org/CVERecord?id=CVE-2023-26256) | [jcad123/CVE-2023-26256](https://github.com/jcad123/CVE-2023-26256) | CVE-2023-26255_POC,CVE-2023-26256_POC | 2023-09-01T00:10:36Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp) | no description | 2023-08-25T21:56:48Z |
 | [CVE-2023-26255](https://www.cve.org/CVERecord?id=CVE-2023-26255) | [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6) | Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞 | 2023-08-30T23:57:10Z |
+| [CVE-2023-26209](https://www.cve.org/CVERecord?id=CVE-2023-26209) | [cnetsec/CVE-2023-26209](https://github.com/cnetsec/CVE-2023-26209) | no description | 2025-03-28T02:21:12Z |
 | [CVE-2023-26208](https://www.cve.org/CVERecord?id=CVE-2023-26208) | [cnetsec/CVE-2023-26208](https://github.com/cnetsec/CVE-2023-26208) | no description | 2025-03-28T02:16:52Z |
 | [CVE-2023-26144](https://www.cve.org/CVERecord?id=CVE-2023-26144) | [tadhglewis/apollo-koa-minimal](https://github.com/tadhglewis/apollo-koa-minimal) | GraphQL vulnerability disclosure: CVE-2023-26144 | 2023-08-16T11:44:22Z |
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security) | Fix open source package uses tough-cookie 2.5.0 - CVE-2023-26136, | 2024-05-06T17:32:10Z |
@@ -7995,6 +8002,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [fahmifj/Docker-breakout-runc](https://github.com/fahmifj/Docker-breakout-runc) | Modified version of CVE-2019-5736-PoC by Frichetten | 2021-08-07T20:51:07Z |
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [Y3A/CVE-2019-18634](https://github.com/Y3A/CVE-2019-18634) | exploit | 2021-04-27T13:50:24Z |
 | [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [DDayLuong/CVE-2019-18634](https://github.com/DDayLuong/CVE-2019-18634) | no description | 2023-12-27T03:52:49Z |
+| [CVE-2019-18634](https://www.cve.org/CVERecord?id=CVE-2019-18634) | [chanbakjsd/CVE-2019-18634](https://github.com/chanbakjsd/CVE-2019-18634) | A reproduction of CVE-2019-18634, sudo privilege escalation with buffer overflow. | 2024-04-14T07:36:54Z |
 | [CVE-2019-18370](https://www.cve.org/CVERecord?id=CVE-2019-18370) | [FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis](https://github.com/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis) | no description | 2023-04-11T10:58:30Z |
 | [CVE-2019-18276](https://www.cve.org/CVERecord?id=CVE-2019-18276) | [SABI-Ensimag/CVE-2019-18276](https://github.com/SABI-Ensimag/CVE-2019-18276) | no description | 2022-01-12T11:40:57Z |
 | [CVE-2019-18276](https://www.cve.org/CVERecord?id=CVE-2019-18276) | [M-ensimag/CVE-2019-18276](https://github.com/M-ensimag/CVE-2019-18276) | no description | 2021-12-09T20:22:01Z |
@@ -8088,6 +8096,7 @@ Last generated: 2025-08-26 02:39:04.336769
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [babyshen/CVE-2019-13272](https://github.com/babyshen/CVE-2019-13272) | no description | 2022-03-10T01:27:46Z |
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [asepsaepdin/CVE-2019-13272](https://github.com/asepsaepdin/CVE-2019-13272) | no description | 2023-09-04T15:16:09Z |
 | [CVE-2019-13272](https://www.cve.org/CVERecord?id=CVE-2019-13272) | [MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation](https://github.com/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation) | Es una vulnerabilidad para escalar privilegios en linux. | 2024-01-31T21:50:04Z |
+| [CVE-2019-12937](https://www.cve.org/CVERecord?id=CVE-2019-12937) | [AkashicYiTai/CVE-2019-12937-ToaruOS](https://github.com/AkashicYiTai/CVE-2019-12937-ToaruOS) | no description | 2024-04-17T02:14:45Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [WizzzStark/CVE-2019-12840.py](https://github.com/WizzzStark/CVE-2019-12840.py) | POC: CVE-2019-12840 (Authenticated RCE - Webmin Package Updates) | 2021-10-05T18:10:05Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [zAbuQasem/CVE-2019-12840](https://github.com/zAbuQasem/CVE-2019-12840) | CVE-2019-12840 | 2021-03-30T17:32:30Z |
 | [CVE-2019-12840](https://www.cve.org/CVERecord?id=CVE-2019-12840) | [Pol-Ruiz/PoC-CVE-2019-12840](https://github.com/Pol-Ruiz/PoC-CVE-2019-12840) | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2019-12840 la qual te da un RCE en root | 2024-01-25T23:07:28Z |
