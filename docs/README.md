@@ -2,11 +2,12 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-08-30 02:18:48.175838
+Last generated: 2025-08-31 02:37:10.046844
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-8730](https://www.cve.org/CVERecord?id=CVE-2025-8730) | [byteReaper77/CVE-2025-8730](https://github.com/byteReaper77/CVE-2025-8730) | Exploit demonstrating an authentication bypass vulnerability  in the web interface of Belkin F9K1009 and F9K1010 routers. | 2025-08-08T21:12:35Z |
 | [CVE-2025-8550](https://www.cve.org/CVERecord?id=CVE-2025-8550) | [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550) | XSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0 | 2025-08-05T19:31:11Z |
 | [CVE-2025-8517](https://www.cve.org/CVERecord?id=CVE-2025-8517) | [kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1](https://github.com/kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1) | CVE-2025-8517: Session Fixation in Vvveb CMS v1.0.6.1 | 2025-07-26T03:54:07Z |
 | [CVE-2025-8471](https://www.cve.org/CVERecord?id=CVE-2025-8471) | [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471) | Exploit SQL injection in  projectworlds Online Admissions System v1.0 | 2025-08-03T17:43:53Z |
@@ -47,6 +48,7 @@ Last generated: 2025-08-30 02:18:48.175838
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [seabed-atavism/CVE-2025-6543](https://github.com/seabed-atavism/CVE-2025-6543) | Citrix Bleed 2 PoC | 2025-06-30T07:47:12Z |
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC) | Multi-host, multi-port scanner and auditor for CVE-2025-6543-affected NetScaler devices. Supports SNMP and SSH enumeration with optional CSV reporting and exploit stubs. | 2025-07-03T20:02:39Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514) | Documentation for CVE-2025-6514. MCP-Remote RCE. | 2025-07-11T15:46:24Z |
+| [CVE-2025-6384](https://www.cve.org/CVERecord?id=CVE-2025-6384) | [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384) | CVE-2025-6384: Groovy Sandbox Bypass 2 in CrafterCMS | 2025-08-08T20:25:47Z |
 | [CVE-2025-6335](https://www.cve.org/CVERecord?id=CVE-2025-6335) | [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335) | cve报告 | 2025-06-13T13:14:02Z |
 | [CVE-2025-6220](https://www.cve.org/CVERecord?id=CVE-2025-6220) | [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220) | Ultimate Addons for Contact Form 7 &lt;= 3.5.12 - Authenticated (Administrator+) Arbitrary File Upload via &#x27;save_options&#x27; | 2025-06-17T22:34:49Z |
 | [CVE-2025-6218](https://www.cve.org/CVERecord?id=CVE-2025-6218) | [speinador/CVE-2025-6218_WinRAR](https://github.com/speinador/CVE-2025-6218_WinRAR) | no description | 2025-06-27T00:11:03Z |
@@ -1024,6 +1026,10 @@ Last generated: 2025-08-30 02:18:48.175838
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [The-Red-Serpent/CVE-2025-24893](https://github.com/The-Red-Serpent/CVE-2025-24893) | POC | 2025-08-08T09:48:35Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Hex00-0x4/CVE-2025-24893-XWiki-RCE](https://github.com/Hex00-0x4/CVE-2025-24893-XWiki-RCE) | This vulnerability could allow a malicious user to execute remote code by sending appropriately crafted requests to the default search engine SolrSearch | 2025-08-08T05:38:11Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [mah4nzfr/CVE-2025-24893](https://github.com/mah4nzfr/CVE-2025-24893) | Bash POC script for RCE vulnerability in XWiki Platform | 2025-08-07T21:36:15Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Retro023/CVE-2025-24893-POC](https://github.com/Retro023/CVE-2025-24893-POC) | A POC for CVE-2025-24893 written in python | 2025-08-09T23:38:31Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [D3Ext/CVE-2025-24893](https://github.com/D3Ext/CVE-2025-24893) | POC exploit for CVE-2025-24893 | 2025-08-09T15:51:00Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Th3Gl0w/CVE-2025-24893-POC](https://github.com/Th3Gl0w/CVE-2025-24893-POC) | no description | 2025-08-07T22:34:07Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [alaxar/CVE-2025-24893](https://github.com/alaxar/CVE-2025-24893) | XWiki 15.10.11, 16.4.1 and 16.5.0RC1 Unauthenticated Remote code execution POC | 2025-08-08T20:01:02Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat) | Nuclei Template CVE-2025–24813 | 2025-03-17T22:39:38Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner) | CVE-2025-24813 - Apache Tomcat Vulnerability Scanner | 2025-03-17T03:58:34Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813) | CVE-2025-24813利用工具 | 2025-03-16T11:59:59Z |
@@ -1199,6 +1205,7 @@ Last generated: 2025-08-30 02:18:48.175838
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [Dit-Developers/CVE-2025-21298](https://github.com/Dit-Developers/CVE-2025-21298) | A Critical Windows OLE Zero-Click Vulnerability | 2025-03-07T16:54:15Z |
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [Denyningbow/rtf-ctf-cve-2025-21298](https://github.com/Denyningbow/rtf-ctf-cve-2025-21298) | A safe CTF challenge demonstrating CVE-2025-21298 using RTF and OLE objects. | 2025-03-28T03:10:19Z |
 | [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [mr-big-leach/CVE-2025-21298](https://github.com/mr-big-leach/CVE-2025-21298) | no description | 2025-04-13T17:18:41Z |
+| [CVE-2025-21298](https://www.cve.org/CVERecord?id=CVE-2025-21298) | [B1ack4sh/Blackash-CVE-2025-21298](https://github.com/B1ack4sh/Blackash-CVE-2025-21298) | CVE-2025-21298 | 2025-08-09T11:24:49Z |
 | [CVE-2025-21293](https://www.cve.org/CVERecord?id=CVE-2025-21293) | [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293) | CVE-2025-21293 is an elevation of privilege vulnerability in Active Directory Domain Services. It allows &quot;Network Configuration Operators&quot; to execute code with SYSTEM privileges via Windows Performance Counters. Affected Windows versions include Windows 10, 11, and Server. Microsoft patched this in January 2025. Apply updates to mitigate risks. | 2025-03-10T20:58:13Z |
 | [CVE-2025-21204](https://www.cve.org/CVERecord?id=CVE-2025-21204) | [mmotti/Reset-inetpub](https://github.com/mmotti/Reset-inetpub) | Restore the integrity of the parent &#x27;inetpub&#x27; folder following security implications highlighted by CVE-2025-21204. | 2025-04-24T16:26:27Z |
 | [CVE-2025-2082](https://www.cve.org/CVERecord?id=CVE-2025-2082) | [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082) | no description | 2025-06-13T00:32:41Z |
