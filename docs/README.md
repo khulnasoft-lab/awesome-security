@@ -2,12 +2,14 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-05 02:21:31.386261
+Last generated: 2025-09-06 02:17:20.537064
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2025-9090](https://www.cve.org/CVERecord?id=CVE-2025-9090) | [byteReaper77/CVE-2025-9090](https://github.com/byteReaper77/CVE-2025-9090) | Command Injection in Tenda AC20 16.03.08.12 (/goform/telnet) | 2025-08-17T19:22:18Z |
 | [CVE-2025-8971](https://www.cve.org/CVERecord?id=CVE-2025-8971) | [byteReaper77/CVE-2025-8971](https://github.com/byteReaper77/CVE-2025-8971) | Sql injection in itsourcecode Online Tour and Travel Management System 1.0. | 2025-08-15T14:51:51Z |
+| [CVE-2025-8875](https://www.cve.org/CVERecord?id=CVE-2025-8875) | [rxerium/CVE-2025-8875-CVE-2025-8876](https://github.com/rxerium/CVE-2025-8875-CVE-2025-8876) | Detection for CVE-2025-8875 &amp; CVE-2025-8876 | 2025-08-17T17:56:45Z |
 | [CVE-2025-8730](https://www.cve.org/CVERecord?id=CVE-2025-8730) | [byteReaper77/CVE-2025-8730](https://github.com/byteReaper77/CVE-2025-8730) | Exploit demonstrating an authentication bypass vulnerability  in the web interface of Belkin F9K1009 and F9K1010 routers. | 2025-08-08T21:12:35Z |
 | [CVE-2025-8550](https://www.cve.org/CVERecord?id=CVE-2025-8550) | [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550) | XSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0 | 2025-08-05T19:31:11Z |
 | [CVE-2025-8517](https://www.cve.org/CVERecord?id=CVE-2025-8517) | [kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1](https://github.com/kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1) | CVE-2025-8517: Session Fixation in Vvveb CMS v1.0.6.1 | 2025-07-26T03:54:07Z |
@@ -19,6 +21,8 @@ Last generated: 2025-09-05 02:21:31.386261
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [travisbgreen/cve-2025-8088](https://github.com/travisbgreen/cve-2025-8088) | cve-2025-8088_detection | 2025-08-11T20:43:36Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-) | CVE-2025-8088 WinRAR Proof of Concept (PoC-Exploit) | 2025-08-13T11:05:46Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC](https://github.com/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC) | no description | 2025-08-15T20:03:05Z |
+| [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC](https://github.com/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC) | Proof-of-Concept for CVE-2025-8088 vulnerability in WinRAR (path traversal via ADS) | 2025-08-17T06:31:47Z |
+| [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [pentestfunctions/CVE-2025-8088-Multi-Document](https://github.com/pentestfunctions/CVE-2025-8088-Multi-Document) | Exploit systems using older WinRAR without knowing their username (unlike other projects) | 2025-08-16T06:12:34Z |
 | [CVE-2025-8018](https://www.cve.org/CVERecord?id=CVE-2025-8018) | [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018) | Python exploit script for CVE-2025-8018 a critical SQL injection in the Food Ordering Review System v1.0. This script helps you test, confirm, and exploit the vulnerability using UNION- and time-based SQL injection. Great for CTF practice, ethical hacking, and learning how real-world SQLi works. Educational use only. | 2025-07-23T13:16:44Z |
 | [CVE-2025-7847](https://www.cve.org/CVERecord?id=CVE-2025-7847) | [EricArdiansa/CVE-2025-7847-POC](https://github.com/EricArdiansa/CVE-2025-7847-POC) | Wordpress Plugin AI Engine 2.9.3 - 2.9.4  Proof Of Concept | 2025-08-02T09:22:20Z |
 | [CVE-2025-7840](https://www.cve.org/CVERecord?id=CVE-2025-7840) | [byteReaper77/CVE-2025-7840](https://github.com/byteReaper77/CVE-2025-7840) | Proof‑of‑concept exploit for CVE‑2025‑7840 that injects malicious payloads into the Firstname parameter of a reservation form to trigger XSS | 2025-07-20T15:21:51Z |
@@ -441,6 +445,7 @@ Last generated: 2025-09-05 02:21:31.386261
 | [CVE-2025-4380](https://www.cve.org/CVERecord?id=CVE-2025-4380) | [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380) | no description | 2025-07-20T18:38:03Z |
 | [CVE-2025-4336](https://www.cve.org/CVERecord?id=CVE-2025-4336) | [d0n601/CVE-2025-4336](https://github.com/d0n601/CVE-2025-4336) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Upload via set_file Task | 2025-05-05T19:16:57Z |
 | [CVE-2025-4334](https://www.cve.org/CVERecord?id=CVE-2025-4334) | [Nxploited/CVE-2025-4334](https://github.com/Nxploited/CVE-2025-4334) | Simple User Registration &lt;= 6.3 - Unauthenticated Privilege Escalation | 2025-06-26T11:43:30Z |
+| [CVE-2025-4334](https://www.cve.org/CVERecord?id=CVE-2025-4334) | [0xgh057r3c0n/CVE-2025-4334](https://github.com/0xgh057r3c0n/CVE-2025-4334) | Proof-of-concept exploit for CVE-2025-4334, a privilege escalation vulnerability in the Simple User Registration WordPress plugin (&lt;= 6.3), allowing unauthenticated attackers to create administrator accounts. | 2025-08-18T09:37:53Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit) | no description | 2025-05-20T08:49:27Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322) | Motors &lt;= 5.6.67 - Unauthenticated Privilege Escalation via Password Update/Account Takeover | 2025-05-22T15:12:25Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322) | CVE-2025-4322 – Unauthenticated Privilege Escalation via Password Update &quot;Account Takeover&quot; 🔥 | 2025-06-23T21:08:48Z |
@@ -518,6 +523,7 @@ Last generated: 2025-09-05 02:21:31.386261
 | [CVE-2025-3292025](https://www.cve.org/CVERecord?id=CVE-2025-3292025) | [itssixtyn3in/CVE-2025-3292025](https://github.com/itssixtyn3in/CVE-2025-3292025) | no description | 2025-03-29T17:26:31Z |
 | [CVE-2025-32873](https://www.cve.org/CVERecord?id=CVE-2025-32873) | [Apollo-R3bot/django-vulnerability-CVE-2025-32873](https://github.com/Apollo-R3bot/django-vulnerability-CVE-2025-32873) | Django Security Issue (CVE-2025-32873) | 2025-06-03T09:16:38Z |
 | [CVE-2025-3282025](https://www.cve.org/CVERecord?id=CVE-2025-3282025) | [itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025) | no description | 2025-03-28T04:28:22Z |
+| [CVE-2025-32778](https://www.cve.org/CVERecord?id=CVE-2025-32778) | [00xCanelo/CVE-2025-32778](https://github.com/00xCanelo/CVE-2025-32778) | PoC exploit for CVE-2025-32778: command injection in Web-Check OSINT tool | 2025-08-17T06:29:21Z |
 | [CVE-2025-32756](https://www.cve.org/CVERecord?id=CVE-2025-32756) | [exfil0/CVE-2025-32756-POC](https://github.com/exfil0/CVE-2025-32756-POC) | Designed for Demonstration of Deep Exploitation. | 2025-05-18T09:46:15Z |
 | [CVE-2025-32756](https://www.cve.org/CVERecord?id=CVE-2025-32756) | [alm6no5/CVE-2025-32756-POC](https://github.com/alm6no5/CVE-2025-32756-POC) | no description | 2025-06-09T11:45:35Z |
 | [CVE-2025-32756](https://www.cve.org/CVERecord?id=CVE-2025-32756) | [B1ack4sh/Blackash-CVE-2025-32756](https://github.com/B1ack4sh/Blackash-CVE-2025-32756) | CVE-2025-32756-POC | 2025-06-08T11:09:16Z |
@@ -965,6 +971,7 @@ Last generated: 2025-09-05 02:21:31.386261
 | [CVE-2025-26865](https://www.cve.org/CVERecord?id=CVE-2025-26865) | [mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865) | CVE-2025-26865: FreeMarker Server-Side Template Injection via the &quot;ecommerce&quot; plugin in Apache OfBiz | 2025-04-11T16:18:19Z |
 | [CVE-2025-26794](https://www.cve.org/CVERecord?id=CVE-2025-26794) | [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi) | no description | 2025-03-05T07:34:50Z |
 | [CVE-2025-26794](https://www.cve.org/CVERecord?id=CVE-2025-26794) | [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794) | CVE-2025-26794: Blind SQL injection in Exim 4.98 (SQLite DBM)- exploit writeup | 2025-02-22T14:14:59Z |
+| [CVE-2025-26788](https://www.cve.org/CVERecord?id=CVE-2025-26788) | [EQSTLab/CVE-2025-26788](https://github.com/EQSTLab/CVE-2025-26788) | no description | 2025-08-18T09:09:46Z |
 | [CVE-2025-26633](https://www.cve.org/CVERecord?id=CVE-2025-26633) | [sandsoncosta/CVE-2025-26633](https://github.com/sandsoncosta/CVE-2025-26633) | no description | 2025-04-08T19:29:28Z |
 | [CVE-2025-26529](https://www.cve.org/CVERecord?id=CVE-2025-26529) | [NightBloodz/moodleTestingEnv](https://github.com/NightBloodz/moodleTestingEnv) | Environment used to find Moodle CVE-2025-26529 | 2025-04-04T17:46:13Z |
 | [CVE-2025-26529](https://www.cve.org/CVERecord?id=CVE-2025-26529) | [Astroo18/PoC-CVE-2025-26529](https://github.com/Astroo18/PoC-CVE-2025-26529) | SSRF to XSS - XSS to RCE Moodle | 2025-04-12T23:17:40Z |
@@ -7382,6 +7389,7 @@ Last generated: 2025-09-05 02:21:31.386261
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Typical0day/CVE-2021-3156](https://github.com/Typical0day/CVE-2021-3156) | no description | 2024-07-04T02:29:08Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [acidburn2049/CVE-2021-3156](https://github.com/acidburn2049/CVE-2021-3156) | no description | 2024-09-13T04:20:36Z |
 | [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156) | Exploit para explotar la vulnerabilidad CVE-2025-32463 | 2025-07-18T10:39:27Z |
+| [CVE-2021-3156](https://www.cve.org/CVERecord?id=CVE-2021-3156) | [Bad3r/CVE-2021-3156-without-ip-command](https://github.com/Bad3r/CVE-2021-3156-without-ip-command) | fork of worawit/CVE-2021-3156 exploit_nss.py modified to work with ifconfig instead of the ip command | 2024-11-13T09:47:02Z |
 | [CVE-2021-31290](https://www.cve.org/CVERecord?id=CVE-2021-31290) | [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290) | no description | 2023-04-06T07:57:29Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129) | no description | 2023-05-01T03:20:13Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129) | no description | 2023-04-06T07:56:33Z |
