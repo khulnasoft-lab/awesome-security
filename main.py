@@ -57,7 +57,8 @@ def write_to_readme(new_contents):
 
 # -------------------- FETCH --------------------
 def get_github_repos(year, page):
-    """Fetch CVE repos from GitHub with retry."""
+    """Fetch CVE repos from GitHub with exponential backoff retry."""
+    base_delay = 2  # seconds
     for attempt in range(RETRY_ATTEMPTS):
         try:
             resp = requests.get(GITHUB_API_URL.format(year, page), timeout=15)
@@ -65,7 +66,9 @@ def get_github_repos(year, page):
             return resp.json().get("items", [])
         except requests.RequestException as e:
             logging.warning(f"GitHub attempt {attempt+1} failed: {e}")
-            time.sleep(random.randint(3, 8))
+            delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+            logging.info(f"Retrying in {delay:.2f} seconds...")
+            time.sleep(delay)
     logging.error(f"Failed to fetch GitHub CVEs for year {year}, page {page}")
     return []
 
