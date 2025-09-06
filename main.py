@@ -79,8 +79,7 @@ def get_nvd_cve(cve_id):
             resp = requests.get(NVD_API_URL.format(cve_id), timeout=15)
             resp.raise_for_status()
             data = resp.json()
-            metrics = data.get("result", {}).get("CVE_Items", [])
-            if metrics:
+            if metrics := data.get("result", {}).get("CVE_Items", []):
                 metrics = metrics[0].get("impact", {})
                 cvss = metrics.get("baseMetricV3", metrics.get("baseMetricV2", {}))
                 score = cvss.get("cvssV3", {}).get("baseScore") or cvss.get("cvssV2", {}).get("baseScore")
