@@ -4,31 +4,76 @@
   <meta charset="UTF-8">
   <title>Awesome Security 👀</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Awesome Security">
+  <meta name="description" content="Automatic Github CVE monitoring and security resources">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://khulnasoft-labs.github.io/awesome-security">
-   <meta property="og:title" content="Github CVE Monitor 👀">
-   <meta property="og:description" content="Automatic monitor Github CVE using Github Actions">
-   <meta property="og:image" content="https://khulnasoft-labs.github.io/awesome-security/cve.png">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://khulnasoft-labs.github.io/awesome-security">
+  <meta property="og:title" content="Awesome Security 👀">
+  <meta property="og:description" content="Automatic monitor Github CVE using Github Actions and curated security resources">
+  <meta property="og:image" content="https://khulnasoft-labs.github.io/awesome-security/cve.png">
+
+  <!-- Docsify CSS Theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Custom Styles -->
   <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      transition: background 0.3s, color 0.3s;
+    }
+
     .cover-main h1 a span {
-        color: #ffffff;
-        font-weight: bold;
+      color: #EF3A38;
+      font-weight: bold;
     }
+
     .cover-main blockquote {
-        color: #5e5e5e;
+      color: #5e5e5e;
+      font-style: italic;
     }
-</style>
+
+    /* Dark Mode Support */
+    body.dark-mode {
+      background-color: #1e1e2f;
+      color: #ddd;
+    }
+    body.dark-mode a {
+      color: #FF6B6B;
+    }
+
+    /* Dark mode toggle button */
+    #dark-toggle {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      padding: 0.5rem 1rem;
+      background: #EF3A38;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      z-index: 9999;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    #dark-toggle:hover {
+      background: #d32f2f;
+    }
+  </style>
 </head>
 <body>
+  <button id="dark-toggle">🌙 Dark Mode</button>
   <div id="app"></div>
+
   <script>
+    // Docsify config
     window.$docsify = {      
       noEmoji: true,
-      coverpage: false,
+      coverpage: true,
       subMaxLevel: 3,
       loadSidebar: true,
       autoHeader: true,
@@ -37,8 +82,17 @@
       externalLinkTarget: '_blank',
       repo: 'https://github.com/khulnasoft-labs/awesome-security',      
       plugins: []
-    }
+    };
+
+    // Dark mode toggle
+    const toggleButton = document.getElementById('dark-toggle');
+    toggleButton.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      toggleButton.innerText = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
+    });
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Docsify JS -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
