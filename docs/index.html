@@ -84,11 +84,24 @@
       plugins: []
     };
 
-    // Dark mode toggle
+    // Dark mode preference persistence
     const toggleButton = document.getElementById('dark-toggle');
+
+    // Restore dark mode preference on page load
+    const darkModeEnabled = localStorage.getItem('darkMode') === 'true';
+    if (darkModeEnabled) {
+      document.body.classList.add('dark-mode');
+      toggleButton.innerText = '☀️ Light Mode';
+    } else {
+      document.body.classList.remove('dark-mode');
+      toggleButton.innerText = '🌙 Dark Mode';
+    }
+
+    // Dark mode toggle
     toggleButton.addEventListener('click', () => {
-      document.body.classList.toggle('dark-mode');
-      toggleButton.innerText = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
+      const isDark = document.body.classList.toggle('dark-mode');
+      localStorage.setItem('darkMode', isDark);
+      toggleButton.innerText = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
     });
   </script>
 
