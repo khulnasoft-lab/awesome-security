@@ -143,6 +143,11 @@ def generate_readme():
         df_scores = df.dropna(subset=['base_score'])
         if not df_scores.empty:
             fig = px.histogram(df_scores, x="base_score", nbins=10, title="CVSS Score Distribution")
+            try:
+                fig.write_html("docs/cvss_distribution.html")
+                logging.info("CVSS histogram saved to docs/cvss_distribution.html")
+            except Exception as e:
+                logging.error(f"Failed to save CVSS histogram to docs/cvss_distribution.html: {e}")
             fig.write_html("docs/cvss_distribution.html")
             logging.info("CVSS histogram saved to docs/cvss_distribution.html")
 
