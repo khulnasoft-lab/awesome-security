@@ -26,9 +26,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 db = SqliteDatabase(DB_FILE)
 
 class CVE_DB(Model):
-    id = IntegerField(unique=True)
+class CVE_DB(Model):
+    id = IntegerField(primary_key=True)  # store GitHub repo id as PK
     full_name = CharField(max_length=1024)
-    description = CharField(max_length=200)
+    description = TextField()
     url = CharField(max_length=1024)
     created_at = CharField(max_length=128)
     cve = CharField(max_length=64)
@@ -57,7 +58,8 @@ def write_to_readme(new_contents):
 
 # -------------------- FETCH --------------------
 def get_github_repos(year, page):
-    """Fetch CVE repos from GitHub with retry."""
+    """Fetch CVE repos from GitHub with exponential backoff retry."""
+    base_delay = 2  # seconds
     for attempt in range(RETRY_ATTEMPTS):
         try:
             resp = requests.get(GITHUB_API_URL.format(year, page), timeout=15)
@@ -65,7 +67,9 @@ def get_github_repos(year, page):
             return resp.json().get("items", [])
         except requests.RequestException as e:
             logging.warning(f"GitHub attempt {attempt+1} failed: {e}")
-            time.sleep(random.randint(3, 8))
+            delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+            logging.info(f"Retrying in {delay:.2f} seconds...")
+            time.sleep(delay)
     logging.error(f"Failed to fetch GitHub CVEs for year {year}, page {page}")
     return []
 
@@ -76,8 +80,7 @@ def get_nvd_cve(cve_id):
             resp = requests.get(NVD_API_URL.format(cve_id), timeout=15)
             resp.raise_for_status()
             data = resp.json()
-            metrics = data.get("result", {}).get("CVE_Items", [])
-            if metrics:
+            if metrics := data.get("result", {}).get("CVE_Items", []):
                 metrics = metrics[0].get("impact", {})
                 cvss = metrics.get("baseMetricV3", metrics.get("baseMetricV2", {}))
                 score = cvss.get("cvssV3", {}).get("baseScore") or cvss.get("cvssV2", {}).get("baseScore")
@@ -143,6 +146,11 @@ def generate_readme():
         df_scores = df.dropna(subset=['base_score'])
         if not df_scores.empty:
             fig = px.histogram(df_scores, x="base_score", nbins=10, title="CVSS Score Distribution")
+            try:
+                fig.write_html("docs/cvss_distribution.html")
+                logging.info("CVSS histogram saved to docs/cvss_distribution.html")
+            except Exception as e:
+                logging.error(f"Failed to save CVSS histogram to docs/cvss_distribution.html: {e}")
             fig.write_html("docs/cvss_distribution.html")
             logging.info("CVSS histogram saved to docs/cvss_distribution.html")
 
