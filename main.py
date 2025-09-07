@@ -26,9 +26,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 db = SqliteDatabase(DB_FILE)
 
 class CVE_DB(Model):
-    id = IntegerField(unique=True)
+class CVE_DB(Model):
+    id = IntegerField(primary_key=True)  # store GitHub repo id as PK
     full_name = CharField(max_length=1024)
-    description = CharField(max_length=200)
+    description = TextField()
     url = CharField(max_length=1024)
     created_at = CharField(max_length=128)
     cve = CharField(max_length=64)
