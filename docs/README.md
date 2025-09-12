@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-11 02:22:00.500935
+Last generated: 2025-09-12 02:17:48.041957
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Last generated: 2025-09-11 02:22:00.500935
 | [CVE-2025-8723](https://www.cve.org/CVERecord?id=CVE-2025-8723) | [Nxploited/CVE-2025-8723](https://github.com/Nxploited/CVE-2025-8723) | Cloudflare Image Resizing &lt;= 1.5.6 - Unauthenticated Remote Code Execution | 2025-08-19T11:50:01Z |
 | [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS) | CVE-2025-25063 MadeYouReset HTTP/2 DDoS | 2025-08-18T19:17:45Z |
 | [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2](https://github.com/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2) | PoC para validar vulnerabilidade MadeYouReset | 2025-08-21T21:20:18Z |
+| [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [abiyeenzo/CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671) | PoC éducatif pour la vulnérabilité CVE-2025-8671 (DoS HTTP/2 sur lighttpd). À utiliser uniquement en laboratoire local. | 2025-08-23T19:14:08Z |
 | [CVE-2025-8550](https://www.cve.org/CVERecord?id=CVE-2025-8550) | [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550) | XSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0 | 2025-08-05T19:31:11Z |
 | [CVE-2025-8517](https://www.cve.org/CVERecord?id=CVE-2025-8517) | [kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1](https://github.com/kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1) | CVE-2025-8517: Session Fixation in Vvveb CMS v1.0.6.1 | 2025-07-26T03:54:07Z |
 | [CVE-2025-8471](https://www.cve.org/CVERecord?id=CVE-2025-8471) | [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471) | Exploit SQL injection in  projectworlds Online Admissions System v1.0 | 2025-08-03T17:43:53Z |
@@ -469,6 +470,7 @@ Last generated: 2025-09-11 02:22:00.500935
 | [CVE-2025-4334](https://www.cve.org/CVERecord?id=CVE-2025-4334) | [Nxploited/CVE-2025-4334](https://github.com/Nxploited/CVE-2025-4334) | Simple User Registration &lt;= 6.3 - Unauthenticated Privilege Escalation | 2025-06-26T11:43:30Z |
 | [CVE-2025-4334](https://www.cve.org/CVERecord?id=CVE-2025-4334) | [0xgh057r3c0n/CVE-2025-4334](https://github.com/0xgh057r3c0n/CVE-2025-4334) | Proof-of-concept exploit for CVE-2025-4334, a privilege escalation vulnerability in the Simple User Registration WordPress plugin (&lt;= 6.3), allowing unauthenticated attackers to create administrator accounts. | 2025-08-18T09:37:53Z |
 | [CVE-2025-43300](https://www.cve.org/CVERecord?id=CVE-2025-43300) | [XiaomingX/CVE-2025-43300-exp](https://github.com/XiaomingX/CVE-2025-43300-exp) | CVE-2025-43300的在野利用代码. | 2025-08-22T10:13:40Z |
+| [CVE-2025-43300](https://www.cve.org/CVERecord?id=CVE-2025-43300) | [hunters-sec/CVE-2025-43300](https://github.com/hunters-sec/CVE-2025-43300) | This is POC for IOS 0click CVE-2025-43300 | 2025-08-24T15:48:41Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit) | no description | 2025-05-20T08:49:27Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322) | Motors &lt;= 5.6.67 - Unauthenticated Privilege Escalation via Password Update/Account Takeover | 2025-05-22T15:12:25Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322) | CVE-2025-4322 – Unauthenticated Privilege Escalation via Password Update &quot;Account Takeover&quot; 🔥 | 2025-06-23T21:08:48Z |
@@ -8356,6 +8358,7 @@ Last generated: 2025-09-11 02:22:00.500935
 | [CVE-2019-0567](https://www.cve.org/CVERecord?id=CVE-2019-0567) | [NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567) | A POC of a type confusion bug in chakracore framework that leads to code execute. | 2023-11-19T07:58:34Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [jaiguptanick/CVE-2019-0232](https://github.com/jaiguptanick/CVE-2019-0232) | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | 2021-03-25T20:09:54Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) | ES File Explorer Open Port Vulnerability - CVE-2019-6447 | 2019-01-09T22:30:42Z |
+| [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [xsxtw/CVE-2019-0232](https://github.com/xsxtw/CVE-2019-0232) | no description | 2024-05-02T22:57:58Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995) | no description | 2022-02-18T03:17:31Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [hoaan1995/CVE-2018-9995](https://github.com/hoaan1995/CVE-2018-9995) | no description | 2022-04-07T00:37:26Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [dearpan/cve-2018-9995](https://github.com/dearpan/cve-2018-9995) | no description | 2021-12-02T07:52:28Z |
@@ -8471,6 +8474,7 @@ Last generated: 2025-09-11 02:22:00.500935
 | [CVE-2018-6065](https://www.cve.org/CVERecord?id=CVE-2018-6065) | [b1tg/CVE-2018-6065-exploit](https://github.com/b1tg/CVE-2018-6065-exploit) | no description | 2021-04-24T12:04:27Z |
 | [CVE-2018-6065](https://www.cve.org/CVERecord?id=CVE-2018-6065) | [tumikoto/Exploit-FortinetMagicBackdoor](https://github.com/tumikoto/Exploit-FortinetMagicBackdoor) | PoC for CVE-2018-13382, never successfully tested so swim at your own risk | 2021-04-28T19:17:04Z |
 | [CVE-2018-5955](https://www.cve.org/CVERecord?id=CVE-2018-5955) | [MikeTheHash/CVE-2018-5955](https://github.com/MikeTheHash/CVE-2018-5955) | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | 2023-06-23T20:25:47Z |
+| [CVE-2018-5873](https://www.cve.org/CVERecord?id=CVE-2018-5873) | [Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873) | no description | 2023-08-16T11:35:08Z |
 | [CVE-2018-5158](https://www.cve.org/CVERecord?id=CVE-2018-5158) | [ppcrab/CVE-2018-5158](https://github.com/ppcrab/CVE-2018-5158) | no description | 2021-04-24T13:28:14Z |
 | [CVE-2018-5158](https://www.cve.org/CVERecord?id=CVE-2018-5158) | [hacker30468/Mikrotik-router-hack](https://github.com/hacker30468/Mikrotik-router-hack) | This is a proof of concept of the critical WinBox vulnerability (CVE-2018-14847) which allows for arbitrary file read of plain text passwords.  The vulnerability has long since been fixed, so this project has ended and will not be supported or updated anymore. You can fork it and update it yourself instead. | 2021-04-21T16:42:31Z |
 | [CVE-2018-5146](https://www.cve.org/CVERecord?id=CVE-2018-5146) | [f01965/CVE-2018-5146](https://github.com/f01965/CVE-2018-5146) | no description | 2022-04-10T02:12:37Z |
