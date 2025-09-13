@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-12 02:17:48.041957
+Last generated: 2025-09-13 02:12:18.707010
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -4279,6 +4279,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2023-6538](https://www.cve.org/CVERecord?id=CVE-2023-6538) | [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538) | no description | 2023-12-18T09:29:42Z |
 | [CVE-2023-6444](https://www.cve.org/CVERecord?id=CVE-2023-6444) | [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC) | Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444 | 2024-08-07T01:58:04Z |
 | [CVE-2023-6421](https://www.cve.org/CVERecord?id=CVE-2023-6421) | [RandomRobbieBF/CVE-2023-6421](https://github.com/RandomRobbieBF/CVE-2023-6421) | Download Manager &lt; 3.2.83 - Unauthenticated Protected File Download Password Leak | 2024-10-09T13:18:10Z |
+| [CVE-2023-6387](https://www.cve.org/CVERecord?id=CVE-2023-6387) | [A3ST1CODE/CVE_6387](https://github.com/A3ST1CODE/CVE_6387) | Repository for testing exploiting CVE-2023-6387 using TypeScript and JavaScript. | 2024-07-30T01:33:10Z |
 | [CVE-2023-6360](https://www.cve.org/CVERecord?id=CVE-2023-6360) | [tpdlshdmlrkfmcla/CVE-2023-6360](https://github.com/tpdlshdmlrkfmcla/CVE-2023-6360) | CVE-2023-6360 | 2025-03-18T01:42:29Z |
 | [CVE-2023-6350](https://www.cve.org/CVERecord?id=CVE-2023-6350) | [dywsy21/CVE-2023-6350_Reproduction](https://github.com/dywsy21/CVE-2023-6350_Reproduction) | no description | 2024-09-29T14:29:26Z |
 | [CVE-2023-6319](https://www.cve.org/CVERecord?id=CVE-2023-6319) | [illixion/root-my-webos-tv](https://github.com/illixion/root-my-webos-tv) | CVE-2023-6319 proof of concept | 2024-04-11T18:58:17Z |
@@ -4946,6 +4947,8 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Pr1or95/CVE-2023-4220-exploit](https://github.com/Pr1or95/CVE-2023-4220-exploit) | Carga de archivos sin restricciones en la funcionalidad de carga de archivos grandes en `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` en Chamilo LMS en versiones &lt;= 1.11.24 permite a atacantes no autenticados realizar ataques de Cross Site Scripting almacenados y obtener código remoto ejecución mediante la carga de web shell. | 2024-12-05T12:45:13Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [0xDTC/Chamilo-LMS-CVE-2023-4220-Exploit](https://github.com/0xDTC/Chamilo-LMS-CVE-2023-4220-Exploit) | Refurbish Chamilo LMS CVE-2023-4220 exploit written in bash | 2024-10-27T20:18:13Z |
 | [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [zora-beep/CVE-2023-4220](https://github.com/zora-beep/CVE-2023-4220) | Exploit for CVE-2023-4220 | 2025-01-24T17:21:11Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [Rai2en/CVE-2023-4220-Chamilo-LMS](https://github.com/Rai2en/CVE-2023-4220-Chamilo-LMS) | This is a script written in Python that allows the exploitation of the Chamilo&#x27;s LMS software security flaw described in CVE-2023-4220 | 2024-07-07T23:23:17Z |
+| [CVE-2023-4220](https://www.cve.org/CVERecord?id=CVE-2023-4220) | [gmh5225/CVE-2023-4220](https://github.com/gmh5225/CVE-2023-4220) | CVE-2023-4220 POC RCE | 2024-07-29T05:49:18Z |
 | [CVE-2023-42115](https://www.cve.org/CVERecord?id=CVE-2023-42115) | [kirinse/cve-2023-42115](https://github.com/kirinse/cve-2023-42115) | This module exploits a vulnerability in the target service identified as CVE-2023-42115. | 2024-09-02T21:17:41Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208) | no description | 2023-12-15T05:13:24Z |
 | [CVE-2023-4208](https://www.cve.org/CVERecord?id=CVE-2023-4208) | [GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE) | CVE-2023-41623 | 2023-12-08T04:15:06Z |
@@ -6839,6 +6842,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965](https://github.com/guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965) | no description | 2024-11-05T16:30:00Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [Aur3ns/Block-Spring4Shell](https://github.com/Aur3ns/Block-Spring4Shell) | POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit | 2024-11-02T00:26:02Z |
 | [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [salo-404/firewall](https://github.com/salo-404/firewall) | 🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability | 2025-08-06T07:58:05Z |
+| [CVE-2022-22965](https://www.cve.org/CVERecord?id=CVE-2022-22965) | [ESSAFAR/Firewall-Rules](https://github.com/ESSAFAR/Firewall-Rules) | Firewall rules to mitigate a zero-day vulnerability malware attack (CVE-2022-22965), known as Spring4Shell | 2023-11-21T22:18:49Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963) | An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability) | 2023-06-29T04:04:50Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [charis3306/CVE-2022-22963](https://github.com/charis3306/CVE-2022-22963) | spring cloud function 一键利用工具! by charis 博客https://charis3306.top/ | 2023-03-07T15:57:29Z |
 | [CVE-2022-22963](https://www.cve.org/CVERecord?id=CVE-2022-22963) | [nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963) | Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function | 2023-05-25T19:50:38Z |
@@ -7988,6 +7992,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2019-9787](https://www.cve.org/CVERecord?id=CVE-2019-9787) | [sijiahi/Wordpress_cve-2019-9787_defense](https://github.com/sijiahi/Wordpress_cve-2019-9787_defense) | This is a recurrence of cve-2019-9787 on Wordpress and a hash-based defense. | 2020-05-01T13:44:10Z |
 | [CVE-2019-9766](https://www.cve.org/CVERecord?id=CVE-2019-9766) | [zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766) | Free MP3 CD Ripper 2.6 版本中存在栈缓冲区溢出漏洞 (CVE-2019-9766)，远程攻击者可借助特制的 .mp3 文件利用该漏洞执行任意代码。 | 2022-09-14T02:19:57Z |
 | [CVE-2019-9766](https://www.cve.org/CVERecord?id=CVE-2019-9766) | [freeFV/ApacheSolrRCE](https://github.com/freeFV/ApacheSolrRCE) | ApacheSolrRCE（CVE-2019-0193）一键写shell，原理是通过代码执行的java文件流写的马。 | 2022-09-13T08:38:30Z |
+| [CVE-2019-9670](https://www.cve.org/CVERecord?id=CVE-2019-9670) | [Phuong39/zaber](https://github.com/Phuong39/zaber) | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | 2022-08-15T05:51:12Z |
 | [CVE-2019-9465](https://www.cve.org/CVERecord?id=CVE-2019-9465) | [MichaelsPlayground/CVE-2019-9465](https://github.com/MichaelsPlayground/CVE-2019-9465) | no description | 2022-01-08T22:25:43Z |
 | [CVE-2019-9465](https://www.cve.org/CVERecord?id=CVE-2019-9465) | [reconmap/vulnerability-data-static-site](https://github.com/reconmap/vulnerability-data-static-site) | Directory of all CVEs from 2019 to 2021. | 2020-09-25T18:29:45Z |
 | [CVE-2019-9367](https://www.cve.org/CVERecord?id=CVE-2019-9367) | [Nivaskumark/CVE-2019-9367_system_bt](https://github.com/Nivaskumark/CVE-2019-9367_system_bt) | no description | 2021-12-03T11:34:45Z |
@@ -8263,6 +8268,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2019-14079](https://www.cve.org/CVERecord?id=CVE-2019-14079) | [parallelbeings/CVE-2019-14079](https://github.com/parallelbeings/CVE-2019-14079) | USB device fuzzing on Android Phone | 2020-04-05T05:45:29Z |
 | [CVE-2019-13768](https://www.cve.org/CVERecord?id=CVE-2019-13768) | [ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768](https://github.com/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768) | Full chain Chrome 71.0.3578.98 exploit | 2020-12-18T21:57:26Z |
 | [CVE-2019-13764](https://www.cve.org/CVERecord?id=CVE-2019-13764) | [HaboobLab/CVE-2019-13764](https://github.com/HaboobLab/CVE-2019-13764) | no description | 2021-07-27T08:30:00Z |
+| [CVE-2019-13720](https://www.cve.org/CVERecord?id=CVE-2019-13720) | [bb33bb/CVE-2019-13720](https://github.com/bb33bb/CVE-2019-13720) | PoC of CVE | 2020-03-27T04:01:16Z |
 | [CVE-2019-1332](https://www.cve.org/CVERecord?id=CVE-2019-1332) | [mbadanoiu/CVE-2019-1332](https://github.com/mbadanoiu/CVE-2019-1332) | CVE-2019-1332: Reflected Cross-Site Scripting in Microsoft SQL Server Reporting Services | 2024-02-04T16:20:49Z |
 | [CVE-2019-13292](https://www.cve.org/CVERecord?id=CVE-2019-13292) | [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15) | This is a Python3 script that demonstrates an exploit for a Blind SQL Injection vulnerability in WebERP version 4.15. | 2023-07-13T04:03:44Z |
 | [CVE-2019-13288](https://www.cve.org/CVERecord?id=CVE-2019-13288) | [gleaming0/CVE-2019-13288](https://github.com/gleaming0/CVE-2019-13288) | no description | 2023-09-16T10:45:12Z |
@@ -9134,7 +9140,9 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2016-4117](https://www.cve.org/CVERecord?id=CVE-2016-4117) | [vpnguy-zz/CrestCrack](https://github.com/vpnguy-zz/CrestCrack) | Exploits CVE-2016-5640 / CLVA-2016-05-002 against Crestron AM-100 | 2017-02-07T19:42:06Z |
 | [CVE-2016-4014](https://www.cve.org/CVERecord?id=CVE-2016-4014) | [murataydemir/CVE-2016-4014](https://github.com/murataydemir/CVE-2016-4014) | [CVE-2016-4014] SAP Netweaver AS JAVA UDDI Component XML External Entity (XXE) | 2020-08-13T11:51:37Z |
 | [CVE-2016-4010](https://www.cve.org/CVERecord?id=CVE-2016-4010) | [shadofren/CVE-2016-4010](https://github.com/shadofren/CVE-2016-4010) | CVE-2016-4010 | 2020-08-10T14:17:56Z |
+| [CVE-2016-4010](https://www.cve.org/CVERecord?id=CVE-2016-4010) | [brianwrf/Magento-CVE-2016-4010](https://github.com/brianwrf/Magento-CVE-2016-4010) | Magento Unauthorized Remote Code Execution (CVE-2016-4010) | 2016-05-25T07:52:28Z |
 | [CVE-2016-3962](https://www.cve.org/CVERecord?id=CVE-2016-3962) | [securifera/CVE-2016-3962-Exploit](https://github.com/securifera/CVE-2016-3962-Exploit) | CVE-2016-3962-Exploit | 2016-07-17T18:43:56Z |
+| [CVE-2016-3959](https://www.cve.org/CVERecord?id=CVE-2016-3959) | [alexmullins/dsa](https://github.com/alexmullins/dsa) | Analysis of CVE-2016-3959 and a Proof of Concept Attack Against a Go SSH Server. | 2016-04-10T01:35:27Z |
 | [CVE-2016-3957](https://www.cve.org/CVERecord?id=CVE-2016-3957) | [sj/web2py-e94946d-CVE-2016-3957](https://github.com/sj/web2py-e94946d-CVE-2016-3957) | web2py/web2py @ e94946d | 2018-12-19T16:55:03Z |
 | [CVE-2016-3957](https://www.cve.org/CVERecord?id=CVE-2016-3957) | [jigerjain/Integer-Overflow-test](https://github.com/jigerjain/Integer-Overflow-test) | Integer Overflow (CyberSecurity - UMCP 2018) . This involves exploiting integer overflow vulnerability present in mem_check function of infiniband Soft RoCE implemetation (Ref: CVE-2016-8636). It also exploring Pwnie Adventure island (Reference: LiveOverflow) | 2018-12-11T20:30:31Z |
 | [CVE-2016-3957](https://www.cve.org/CVERecord?id=CVE-2016-3957) | [sugarvillela/CVE](https://github.com/sugarvillela/CVE) | A collection of code pertaining to CVE-2016-0728 (various authors) | 2018-12-03T00:15:23Z |
@@ -9145,6 +9153,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2016-3749](https://www.cve.org/CVERecord?id=CVE-2016-3749) | [R0B1NL1N/java-deserialization-exploits](https://github.com/R0B1NL1N/java-deserialization-exploits) | Exploit for Jenkins serialization vulnerability - CVE-2016-0792 | 2018-03-13T09:15:32Z |
 | [CVE-2016-3714](https://www.cve.org/CVERecord?id=CVE-2016-3714) | [JoshMorrison99/CVE-2016-3714](https://github.com/JoshMorrison99/CVE-2016-3714) | no description | 2022-12-02T20:19:46Z |
 | [CVE-2016-3714](https://www.cve.org/CVERecord?id=CVE-2016-3714) | [und3sc0n0c1d0/AFR-in-OMSA](https://github.com/und3sc0n0c1d0/AFR-in-OMSA) | Validation of Arbitrary File Read Vulnerabilities in Dell OpenManage Server Administrator (OMSA) - CVE-2016-4004, CVE-2021-21514 and CVE-2020-5377. | 2022-11-30T22:34:58Z |
+| [CVE-2016-3714](https://www.cve.org/CVERecord?id=CVE-2016-3714) | [jpeanut/ImageTragick-CVE-2016-3714-RShell](https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell) | no description | 2016-05-05T18:16:52Z |
 | [CVE-2016-3510](https://www.cve.org/CVERecord?id=CVE-2016-3510) | [BabyTeam1024/CVE-2016-3510](https://github.com/BabyTeam1024/CVE-2016-3510) | no description | 2021-08-28T05:15:59Z |
 | [CVE-2016-3510](https://www.cve.org/CVERecord?id=CVE-2016-3510) | [jptr218/openssh_dos](https://github.com/jptr218/openssh_dos) | A proof of concept for CVE-2016-6515 | 2021-08-26T17:44:03Z |
 | [CVE-2016-3510](https://www.cve.org/CVERecord?id=CVE-2016-3510) | [yuhaishenedc/CVE2016_off_path](https://github.com/yuhaishenedc/CVE2016_off_path) | no description | 2021-07-17T00:53:07Z |
@@ -9153,6 +9162,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2016-3309](https://www.cve.org/CVERecord?id=CVE-2016-3309) | [alephsecurity/initroot](https://github.com/alephsecurity/initroot) | Motorola Untethered Jailbreak: Exploiting CVE-2016-10277 for Secure Boot and Device Locking bypass | 2017-06-06T12:00:27Z |
 | [CVE-2016-3309](https://www.cve.org/CVERecord?id=CVE-2016-3309) | [bazad/IOFireWireFamily-overflow](https://github.com/bazad/IOFireWireFamily-overflow) | CVE-2016-7608: Buffer overflow in IOFireWireFamily. | 2017-08-19T20:49:26Z |
 | [CVE-2016-3308](https://www.cve.org/CVERecord?id=CVE-2016-3308) | [55-AA/CVE-2016-3308](https://github.com/55-AA/CVE-2016-3308) | Use CVE-2016-3308 corrupt win32k desktop heap | 2016-09-18T03:48:53Z |
+| [CVE-2016-3308](https://www.cve.org/CVERecord?id=CVE-2016-3308) | [jackhuyh/CVE-2016-3308](https://github.com/jackhuyh/CVE-2016-3308) | Use CVE-2016-3308 corrupt win32k desktop heap | 2016-09-19T02:01:46Z |
 | [CVE-2016-3238](https://www.cve.org/CVERecord?id=CVE-2016-3238) | [pyiesone/CVE-2016-3238-PoC](https://github.com/pyiesone/CVE-2016-3238-PoC) | Whitepaper for CVE-2016-3238/MS16-087 Proof Of concept. | 2019-07-05T06:49:09Z |
 | [CVE-2016-3116](https://www.cve.org/CVERecord?id=CVE-2016-3116) | [mxypoo/CVE-2016-3116-DropbearSSH](https://github.com/mxypoo/CVE-2016-3116-DropbearSSH) | no description | 2022-02-22T06:59:55Z |
 | [CVE-2016-3113](https://www.cve.org/CVERecord?id=CVE-2016-3113) | [0xEmanuel/CVE-2016-3113](https://github.com/0xEmanuel/CVE-2016-3113) | A proof of concept to exploit the reflected XSS vulnerability in the oVirt web interface (RedHat). In this PoC a VM in the oVirt IaaS environment is to be started via the victim&#x27;s browser session. JS code has been kept simple due to the rush. | 2020-03-01T22:17:31Z |
@@ -9194,6 +9204,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2016-2098](https://www.cve.org/CVERecord?id=CVE-2016-2098) | [bazad/physmem](https://github.com/bazad/physmem) | Local privilege escalation through macOS 10.12.1 via CVE-2016-1825 or CVE-2016-7617. | 2016-12-25T05:07:22Z |
 | [CVE-2016-2098](https://www.cve.org/CVERecord?id=CVE-2016-2098) | [CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42](https://github.com/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42) | A PoC of CVE-2016-2098 (rails4.2.5.1 / view render) | 2016-06-07T12:59:31Z |
 | [CVE-2016-2067](https://www.cve.org/CVERecord?id=CVE-2016-2067) | [hhj4ck/CVE-2016-2067](https://github.com/hhj4ck/CVE-2016-2067) | no description | 2020-08-10T23:22:27Z |
+| [CVE-2016-1828](https://www.cve.org/CVERecord?id=CVE-2016-1828) | [bazad/rootsh](https://github.com/bazad/rootsh) | Local privilege escalation for OS X 10.10.5 via CVE-2016-1828. | 2016-05-18T03:49:02Z |
 | [CVE-2016-1734](https://www.cve.org/CVERecord?id=CVE-2016-1734) | [Manouchehri/CVE-2016-1734](https://github.com/Manouchehri/CVE-2016-1734) | no description | 2016-06-03T05:37:06Z |
 | [CVE-2016-1555](https://www.cve.org/CVERecord?id=CVE-2016-1555) | [ide0x90/cve-2016-1555](https://github.com/ide0x90/cve-2016-1555) | Metasploit module for CVE-2016-1555 | 2018-10-06T03:52:23Z |
 | [CVE-2016-1542](https://www.cve.org/CVERecord?id=CVE-2016-1542) | [patriknordlen/bladelogic_bmc-cve-2016-1542](https://github.com/patriknordlen/bladelogic_bmc-cve-2016-1542) | A rebuilt version of the exploit for CVE-2016-1542 and CVE-2016-1543 from insinuator.net | 2017-04-27T09:16:01Z |
@@ -9249,6 +9260,8 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2016-10033](https://www.cve.org/CVERecord?id=CVE-2016-10033) | [nndhanasekaran/redhat_cve2016](https://github.com/nndhanasekaran/redhat_cve2016) | Puppet module to find Vulnerability of CVE 2016 5195 | 2016-12-28T11:42:15Z |
 | [CVE-2016-1000229](https://www.cve.org/CVERecord?id=CVE-2016-1000229) | [ossf-cve-benchmark/CVE-2016-1000229](https://github.com/ossf-cve-benchmark/CVE-2016-1000229) | no description | 2020-12-01T12:37:53Z |
 | [CVE-2016-1000027](https://www.cve.org/CVERecord?id=CVE-2016-1000027) | [artem-smotrakov/cve-2016-1000027-poc](https://github.com/artem-smotrakov/cve-2016-1000027-poc) | PoC for CVE-2016-1000027 | 2021-02-01T19:46:51Z |
+| [CVE-2016-0801](https://www.cve.org/CVERecord?id=CVE-2016-0801) | [zsaurus/CVE-2016-0801-test](https://github.com/zsaurus/CVE-2016-0801-test) | Test modified buggy poc | 2016-05-15T03:55:27Z |
+| [CVE-2016-0801](https://www.cve.org/CVERecord?id=CVE-2016-0801) | [abdsec/CVE-2016-0801](https://github.com/abdsec/CVE-2016-0801) | no description | 2016-05-11T04:36:45Z |
 | [CVE-2016-0793](https://www.cve.org/CVERecord?id=CVE-2016-0793) | [tafamace/CVE-2016-0793](https://github.com/tafamace/CVE-2016-0793) | no description | 2018-11-19T08:40:58Z |
 | [CVE-2016-0793](https://www.cve.org/CVERecord?id=CVE-2016-0793) | [viai957/webkit-vulnerability](https://github.com/viai957/webkit-vulnerability) | CVE-2016-4657 web-kit vulnerability for  ios 9.3, nintendo switch browser vulnerability | 2018-11-11T14:22:18Z |
 | [CVE-2016-0792](https://www.cve.org/CVERecord?id=CVE-2016-0792) | [Aviksaikat/CVE-2016-0792](https://github.com/Aviksaikat/CVE-2016-0792) | Modified Verion of CVE-2016-0792 | 2021-09-07T13:14:16Z |
@@ -9726,6 +9739,7 @@ Last generated: 2025-09-12 02:17:48.041957
 | [CVE-2014-1266](https://www.cve.org/CVERecord?id=CVE-2014-1266) | [gabrielg/CVE-2014-1266-poc](https://github.com/gabrielg/CVE-2014-1266-poc) | Apple OS X/iOS SSL flaw demonstration | 2014-02-24T07:48:45Z |
 | [CVE-2014-1266](https://www.cve.org/CVERecord?id=CVE-2014-1266) | [linusyang/SSLPatch](https://github.com/linusyang/SSLPatch) | Patch iOS SSL vulnerability (CVE-2014-1266) | 2014-02-23T18:37:24Z |
 | [CVE-2014-1266](https://www.cve.org/CVERecord?id=CVE-2014-1266) | [landonf/Testability-CVE-2014-1266](https://github.com/landonf/Testability-CVE-2014-1266) | Demonstrating that SSLVerifySignedServerKeyExchange() is trivially testable. | 2014-02-22T17:39:21Z |
+| [CVE-2014-1266](https://www.cve.org/CVERecord?id=CVE-2014-1266) | [macressler/SSLPatch](https://github.com/macressler/SSLPatch) | Patch iOS SSL vulnerability (CVE-2014-1266) | 2014-02-24T00:33:20Z |
 | [CVE-2014-0816](https://www.cve.org/CVERecord?id=CVE-2014-0816) | [tandasat/CVE-2014-0816](https://github.com/tandasat/CVE-2014-0816) | CVE-2014-0816 | 2014-02-27T03:07:52Z |
 | [CVE-2014-0521](https://www.cve.org/CVERecord?id=CVE-2014-0521) | [molnarg/cve-2014-0521](https://github.com/molnarg/cve-2014-0521) | no description | 2014-08-23T09:54:18Z |
 | [CVE-2014-0521](https://www.cve.org/CVERecord?id=CVE-2014-0521) | [tihmstar/freePW_tc7200Eploit](https://github.com/tihmstar/freePW_tc7200Eploit) | Technicolor TC7200 - Credentials Disclosure CVE : CVE-2014-1677 | 2014-07-31T17:01:29Z |
@@ -10320,3 +10334,5 @@ Last generated: 2025-09-12 02:17:48.041957
 | CVE NOT FOUND | [mr-r0ot/0day-buffer-overflow-in-exiv2](https://github.com/mr-r0ot/0day-buffer-overflow-in-exiv2) | ZeroDay on exiv2!CVE-2025-XXXX: Heap-based buffer overflow in PngChunk::readRawProfile (PNG iTXt “Raw profile”) | 2025-08-15T19:44:15Z |
 | CVE NOT FOUND | [Yuri08loveElaina/imagemagick-2025-poc](https://github.com/Yuri08loveElaina/imagemagick-2025-poc) | PoCs for 2025 ImageMagick vulnerabilities – integer overflow, alpha channel bypass, colorspace overflow, and crash bugs.&quot; | 2025-08-18T14:02:08Z |
 | CVE NOT FOUND | [SEORY0/CVE-Analyzer](https://github.com/SEORY0/CVE-Analyzer) | 2025-1 ASC Project : AI 기반 CVE 자동 분석 및 실행 환경 구축 프레임워크 | 2025-08-19T09:34:39Z |
+| CVE NOT FOUND | [ImageTragick/PoCs](https://github.com/ImageTragick/PoCs) | Proof of Concepts for CVE-2016–3714 | 2016-05-03T05:43:08Z |
+| CVE NOT FOUND | [julianmunoz/Rails-Dynamic-Render-vuln](https://github.com/julianmunoz/Rails-Dynamic-Render-vuln) | POC for CVE 2016-0752 | 2016-04-17T00:08:23Z |
