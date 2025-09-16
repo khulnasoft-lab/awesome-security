@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-15 02:27:31.261640
+Last generated: 2025-09-16 02:19:10.665642
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -43,6 +43,7 @@ Last generated: 2025-09-15 02:27:31.261640
 | [CVE-2025-7840](https://www.cve.org/CVERecord?id=CVE-2025-7840) | [byteReaper77/CVE-2025-7840](https://github.com/byteReaper77/CVE-2025-7840) | Proof‑of‑concept exploit for CVE‑2025‑7840 that injects malicious payloads into the Firstname parameter of a reservation form to trigger XSS | 2025-07-20T15:21:51Z |
 | [CVE-2025-7795](https://www.cve.org/CVERecord?id=CVE-2025-7795) | [byteReaper77/CVE-2025-7795](https://github.com/byteReaper77/CVE-2025-7795) | Proof-of-Concept exploit for CVE-2025-7795 – A buffer overflow vulnerability affecting certain Tenda routers. The exploit sends crafted POST requests to trigger a crash and confirms the impact using ICMP (ping) checks. | 2025-07-19T13:47:28Z |
 | [CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783) | [benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc) | POC of CVE-2025-7783 | 2025-07-18T16:56:12Z |
+| [CVE-2025-7775](https://www.cve.org/CVERecord?id=CVE-2025-7775) | [hacker-r3volv3r/CVE-2025-7775-PoC](https://github.com/hacker-r3volv3r/CVE-2025-7775-PoC) | no description | 2025-08-28T07:22:42Z |
 | [CVE-2025-7771](https://www.cve.org/CVERecord?id=CVE-2025-7771) | [Yuri08loveElaina/CVE-2025-7771](https://github.com/Yuri08loveElaina/CVE-2025-7771) | ThrottleStop.sys, a legitimate driver, exposes two IOCTL interfaces that allow arbitrary read and write access to physical memory via the MmMapIoSpace function. This insecure implementation can be exploited by a malicious user-mode application to patch the running Windows kernel and invoke arbitrary kernel functions with ring-0 privileges. | 2025-08-18T08:24:20Z |
 | [CVE-2025-7769](https://www.cve.org/CVERecord?id=CVE-2025-7769) | [byteReaper77/CVE-2025-7769](https://github.com/byteReaper77/CVE-2025-7769) | PoC to inject a command via the DEVICE_PING endpoint | 2025-08-07T03:48:35Z |
 | [CVE-2025-7766](https://www.cve.org/CVERecord?id=CVE-2025-7766) | [byteReaper77/CVE-2025-7766](https://github.com/byteReaper77/CVE-2025-7766) | PoC exploit for CVE-2025-7766 – XXE vulnerability leading to potential RCE. | 2025-07-23T18:57:46Z |
@@ -928,6 +929,7 @@ Last generated: 2025-09-15 02:27:31.261640
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [rgvillanueva28/vulnbox-easy-CVE-2025-29927](https://github.com/rgvillanueva28/vulnbox-easy-CVE-2025-29927) | no description | 2025-07-30T12:13:55Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [b4sh0xf/PoC-CVE-2025-29927](https://github.com/b4sh0xf/PoC-CVE-2025-29927) | → poc for CVE-2025-29927 | 2025-07-29T17:15:21Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927](https://github.com/R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927) | no description | 2025-08-19T14:07:04Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [zs1n/CVE-2025-29927](https://github.com/zs1n/CVE-2025-29927) | PoC - NextJS Middleware 15.2.2 - Authorization Bypass | 2025-08-28T06:55:34Z |
 | [CVE-2025-29824](https://www.cve.org/CVERecord?id=CVE-2025-29824) | [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824) | no description | 2025-05-14T01:45:50Z |
 | [CVE-2025-29824](https://www.cve.org/CVERecord?id=CVE-2025-29824) | [AfanPan/CVE-2025-29824-Exploit](https://github.com/AfanPan/CVE-2025-29824-Exploit) | Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally. | 2025-07-30T08:04:27Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
@@ -1013,6 +1015,7 @@ Last generated: 2025-09-15 02:27:31.261640
 | [CVE-2025-27415](https://www.cve.org/CVERecord?id=CVE-2025-27415) | [jiseoung/CVE-2025-27415-PoC](https://github.com/jiseoung/CVE-2025-27415-PoC) | Nuxt3 Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability | 2025-07-14T07:10:37Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept) | no description | 2025-03-23T23:30:37Z |
 | [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363) | no description | 2025-05-26T07:46:27Z |
+| [CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363) | [tin-z/CVE-2025-27363](https://github.com/tin-z/CVE-2025-27363) | Integer overflow in FreeType software, which also affects Chrome | 2025-07-23T09:44:58Z |
 | [CVE-2025-27210](https://www.cve.org/CVERecord?id=CVE-2025-27210) | [absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit](https://github.com/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit) | (PoC) CVE-2025-27210, a precise Path Traversal vulnerability affecting Node.js applications running on Microsoft Windows. This vulnerability leverages the specific way Windows handles reserved device file names | 2025-07-16T05:33:08Z |
 | [CVE-2025-27210](https://www.cve.org/CVERecord?id=CVE-2025-27210) | [B1ack4sh/Blackash-CVE-2025-27210](https://github.com/B1ack4sh/Blackash-CVE-2025-27210) | CVE-2025-27210 | 2025-07-18T11:57:52Z |
 | [CVE-2025-27152](https://www.cve.org/CVERecord?id=CVE-2025-27152) | [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf) | Demonstration of CVE-2025-27152 | 2025-03-30T08:36:48Z |
