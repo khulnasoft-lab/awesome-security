@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-17 02:19:05.460863
+Last generated: 2025-09-18 02:19:19.392304
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -136,6 +136,7 @@ Last generated: 2025-09-17 02:19:05.460863
 | [CVE-2025-5701](https://www.cve.org/CVERecord?id=CVE-2025-5701) | [RandomRobbieBF/CVE-2025-5701](https://github.com/RandomRobbieBF/CVE-2025-5701) | HyperComments &lt;= 1.2.2 - Unauthenticated (Subscriber+) Arbitrary Options Update | 2025-06-12T08:27:35Z |
 | [CVE-2025-5640](https://www.cve.org/CVERecord?id=CVE-2025-5640) | [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-) | no description | 2025-06-21T11:52:01Z |
 | [CVE-2025-55668](https://www.cve.org/CVERecord?id=CVE-2025-55668) | [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668) | Apache Tomcat - Session fixation via rewrite valve | 2025-08-13T15:08:59Z |
+| [CVE-2025-55580](https://www.cve.org/CVERecord?id=CVE-2025-55580) | [ddobrev25/CVE-2025-55580](https://github.com/ddobrev25/CVE-2025-55580) | CVE-2025-55580 | 2025-08-28T18:29:44Z |
 | [CVE-2025-55575](https://www.cve.org/CVERecord?id=CVE-2025-55575) | [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575) | no description | 2025-08-22T19:04:24Z |
 | [CVE-2025-55287](https://www.cve.org/CVERecord?id=CVE-2025-55287) | [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC) | Authenticated stored XSS priv esc PoC. Affects Genealogy versions prior to 4.4.0 | 2025-08-21T18:06:09Z |
 | [CVE-2025-55188](https://www.cve.org/CVERecord?id=CVE-2025-55188) | [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit) | 7z exploit POC versions prior to 25.01 | 2025-08-11T08:47:19Z |
@@ -252,6 +253,7 @@ Last generated: 2025-09-17 02:19:05.460863
 | [CVE-2025-51859](https://www.cve.org/CVERecord?id=CVE-2025-51859) | [Secsys-FDU/CVE-2025-51859](https://github.com/Secsys-FDU/CVE-2025-51859) | no description | 2025-07-19T09:03:43Z |
 | [CVE-2025-51858](https://www.cve.org/CVERecord?id=CVE-2025-51858) | [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858) | no description | 2025-07-19T08:22:54Z |
 | [CVE-2025-51820](https://www.cve.org/CVERecord?id=CVE-2025-51820) | [shk-mubashshir/CVE-2025-51820](https://github.com/shk-mubashshir/CVE-2025-51820) | A critical Remote Code Execution (RCE) vulnerability (CVE-2025-51820) has been discovered in the Shopping Portal v1.0. | 2025-08-04T04:57:27Z |
+| [CVE-2025-51643](https://www.cve.org/CVERecord?id=CVE-2025-51643) | [NastyCrow/CVE-2025-51643](https://github.com/NastyCrow/CVE-2025-51643) | no description | 2025-08-11T19:22:19Z |
 | [CVE-2025-51529](https://www.cve.org/CVERecord?id=CVE-2025-51529) | [piotrmaciejbednarski/CVE-2025-51529](https://github.com/piotrmaciejbednarski/CVE-2025-51529) | Incorrect Access Control in the AJAX endpoint functionality in jonkastonka Cookies and Content Security Policy plugin through version 2.29 | 2025-08-12T18:42:35Z |
 | [CVE-2025-51482](https://www.cve.org/CVERecord?id=CVE-2025-51482) | [Kai-One001/Letta-CVE-2025-51482-RCE](https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE) | no description | 2025-07-31T08:07:59Z |
 | [CVE-2025-51411](https://www.cve.org/CVERecord?id=CVE-2025-51411) | [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411) | Public Disclosure | 2025-07-25T03:09:58Z |
@@ -381,8 +383,10 @@ Last generated: 2025-09-17 02:19:05.460863
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [replicatorbot/CVE-2025-48384-POC](https://github.com/replicatorbot/CVE-2025-48384-POC) | no description | 2025-08-20T15:53:19Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [replicatorbot/CVE-2025-48384](https://github.com/replicatorbot/CVE-2025-48384) | no description | 2025-08-20T15:52:58Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [eliox01/CVE-2025-48384](https://github.com/eliox01/CVE-2025-48384) | PoC | 2025-08-25T21:27:49Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2) | RCE hook | 2025-08-28T17:43:26Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
+| [CVE-2025-47987](https://www.cve.org/CVERecord?id=CVE-2025-47987) | [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC) | no description | 2025-08-22T09:42:02Z |
 | [CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917) | [byteReaper77/CVE-2025-47917](https://github.com/byteReaper77/CVE-2025-47917) | PoC exploit for CVE-2025-47917: Use-After-Free in mbedTLS leading to remote code execution. | 2025-07-22T00:34:25Z |
 | [CVE-2025-4784](https://www.cve.org/CVERecord?id=CVE-2025-4784) | [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:47:09Z |
 | [CVE-2025-47827](https://www.cve.org/CVERecord?id=CVE-2025-47827) | [Zedeldi/CVE-2025-47827](https://github.com/Zedeldi/CVE-2025-47827) | PoC and vulnerability report for CVE-2025-47827. | 2025-05-20T10:42:11Z |
@@ -694,6 +698,7 @@ Last generated: 2025-09-17 02:19:05.460863
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [B1ack4sh/Blackash-CVE-2025-32433](https://github.com/B1ack4sh/Blackash-CVE-2025-32433) | CVE-2025-32433 Erlang SSH Library Exploit 🛑 | 2025-06-09T10:04:13Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [NiteeshPujari/CVE-2025-32433-PoC](https://github.com/NiteeshPujari/CVE-2025-32433-PoC) | CVE-2025-32433 PoC: Unauthenticated Remote Code Execution (RCE) in Erlang/OTP SSH. A proof-of-concept exploit for CVE-2025-32433 | 2025-08-13T04:34:40Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [te0rwx/CVE-2025-32433-Detection](https://github.com/te0rwx/CVE-2025-32433-Detection) | no description | 2025-08-27T13:00:48Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [Mdusmandasthaheer/CVE-2025-32433](https://github.com/Mdusmandasthaheer/CVE-2025-32433) | no description | 2025-08-28T15:01:56Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432) | This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS. | 2025-04-27T08:50:52Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432) | CraftCMS RCE Checker (CVE-2025-32432) | 2025-04-26T23:33:58Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [CTY-Research-1/CVE-2025-32432-PoC](https://github.com/CTY-Research-1/CVE-2025-32432-PoC) | no description | 2025-06-01T15:19:08Z |
@@ -754,6 +759,7 @@ Last generated: 2025-09-17 02:19:05.460863
 | [CVE-2025-31258](https://www.cve.org/CVERecord?id=CVE-2025-31258) | [BODE987/CVE-2025-31258-PoC](https://github.com/BODE987/CVE-2025-31258-PoC) | 1day practice - Escape macOS sandbox (partial) using RemoteViewServices | 2025-05-15T00:55:10Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header) | looking into CVE-2025-31200 - can&#x27;t figure it out yet | 2025-04-21T05:38:06Z |
 | [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE](https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE) | Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file. | 2025-05-17T23:03:56Z |
+| [CVE-2025-31200](https://www.cve.org/CVERecord?id=CVE-2025-31200) | [hunters-sec/CVE-2025-31200](https://github.com/hunters-sec/CVE-2025-31200) | IOS audio buffer overflow CVE-2025-31200 POC | 2025-08-28T13:53:14Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161) | Proof of Concept for CVE-2025-31161 / CVE-2025-2825 | 2025-04-08T15:37:28Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161) | no description | 2025-04-09T14:38:42Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161) | CrushFTP CVE-2025-31161 Exploit Tool 🔓 | 2025-04-21T23:57:07Z |
