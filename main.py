@@ -7,7 +7,7 @@ import logging
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
-from peewee import *
+from peewee import Model, SqliteDatabase, IntegerField, CharField, FloatField, TextField
 
 # -------------------- CONFIG --------------------
 DB_FILE = "db/cve.sqlite"
